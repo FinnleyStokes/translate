@@ -1,0 +1,31 @@
+Cyber Shield HELPS PREVENT DISASTER Ransomware attacks, hacked devices, crashed websites, breached n
+etworks, denials of service, copied emails, and other cybersecurity incidents have become commonplac
+e. Most organizations have developed some level of data security response capabilities. Avoiding a c
+ybersecurity crisis often comes down to properly managing a cyber incident before, during, and after
+ it unfolds. A core component includes a secure enterprise data protection solution that has a holis
+tic view of the entire datacenter/s with the appropriate features and functionality tightly woven in
+to the core architecture, not another add-on feature. With the Cyber Shield security features built 
+into every Compass® deployment, your workloads are hermetically sealed and not susceptible to the ty
+pical cybersecurity points of failure. Because Compass automatically maintains software currency, lo
+gging in is not necessary and no logins mean no passwords to steal. Even if the worst happens, with 
+Cyber Shield enterprise environments can be rapidly restored which is a key component of a risk miti
+gation strategy.
+
+4AC5DDE2
+
+Endpoint Protection So, your network is secured with the best NGFW techn
+ology – what about your endpoint security? A traditional signature-based solution that can only iden
+tify known malware is no longer fit for purpose. The best next generation endpoint Protection agains
+t unknown malware, ransomware, and zero-day exploits is needed, and FullProxy can help deliver and i
+ntegrate solutions from Palo Alto and Baramundi. Home / Solutions / Endpoint Protection Unified Endp
+oint Management baramundi Baramundi’s Management Suite complements anti-malware and anti-exploit sol
+utions by providing effective endpoint security assurance both in terms of day-to-day management and
+ also ongoing compliance (e.g. GDPR). It allows you to implement uniform security rules & configurat
+ions, identify vulnerabilities, identify compliance violations, reliably patch operating systems and
+ applications, and also prevent unauthorised copies of data being made. Speak to the team for more i
+nformation Cortex XDR Palo Alto Networks Security operations needs a reset. Legacy point products ge
+nerate endless alerts with too little context, resulting in painfully slow investigations and missed
+ attacks. Transforming how security teams operate requires a new approach fuelled by comprehensive d
+ata and deep analytics. The Cortex XDR platform delivers a unified experience for prevention, detect
+ion, investigation and response to reimagine how you find and stop attacks with end-to-end context a
+nd dramatically simplify operations. Speak to the team for more information

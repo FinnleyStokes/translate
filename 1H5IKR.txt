@@ -1,0 +1,79 @@
+Try2Cry, la nueva amenaza en forma de ransomware Como hemos indicado muchas veces, el ransomware es 
+una de las peores amenazas que podemos encontrar en la red. Está diseñado para cifrar nuestros archi
+vos o equipos con el objetivo de posteriormente pedir un rescate a cambio para recuperarlos. Es cier
+to que las herramientas de seguridad que podemos utilizar para protegernos han mejorado, pero tambié
+n los piratas informáticos han sabido perfeccionar sus técnicas de ataque. Try2Cry es una nueva vari
+edad de ransomware que como otras muchas utiliza métodos diferentes para atacar. En esta ocasión su 
+objetivo es abrirse camino a otros sistemas Windows. Lo hace a través de memorias USB o pendrive. Fu
+e descubierto por G DATA cuando analizaban malware en un pendrive. Se trata de un ransomware .NET. U
+na vez infecta un equipo comienza a cifrar archivos muy variados como .doc, .ppt, .jpg, .xls, .pdf, 
+.docx, .pptx, .xls o .xlsx. Posteriormente agrega una extensión .Try2Cry a todos esos archivos que h
+a cifrado. Para cifrar esos archivos utiliza una clave simétrica Rijndael y una clave de cifrado cod
+ificada. Según indican los investigadores, esa clave de cifrado se crea calculando un hash SHA512 de
+ la contraseña y utilizando los primeros 32 bits de este hash. Pero sin duda la característica más i
+mportante de Try2Cry es su capacidad de propagarse a través de memorias USB. Busca esa unidad extraí
+ble conectada al equipo comprometido y envía una copia de sí mismo llamada Update.exe a la carpeta r
+aíz de cada una de las unidades USB que encuentre. Una vez hecho esto lo que hace es ocultar todos e
+sos archivos en la unidad USB y los reemplaza con accesos directos de Windows. Cuando la víctima hac
+e clic abrirán el archivo original y también la carga útil del ransomware en segundo plano. La buena
+ noticia es que este ransomware, como así indican los investigadores de seguridad, es descifrable. C
+ómo evitar ser víctimas de Try2Cry Es importante evitar la entrada de malware en nuestros dispositiv
+os. No hablamos únicamente de esta variedad en concreto, sino de cualquier otra. Para ello siempre l
+o más importante es el sentido común. Debemos evitar acceder a archivos que puedan ser maliciosos y 
+que recibimos por e-mail o, como en este caso, mediante un pendrive. Ya vimos en otro artículo herra
+mientas para combatir el ransomware. También es interesante contar siempre con herramientas de segur
+idad. Un buen antivirus puede prevenir la entrada de amenazas que puedan comprometer nuestro sistema
+. Esto es algo que debemos aplicar en todo tipo de dispositivos. Por otra parte, contar con los últi
+mos parches de seguridad es algo esencial. En muchas ocasiones surgen vulnerabilidades que son aprov
+echadas por los piratas informáticos para desplegar sus ataques. Necesitamos corregir esos fallos.
+
+
+4AC5DDE2
+
+La ciberdelincuencia sigue creciendo año tras año, el rey entre los ataques es el ransomwa
+re que permite a los criminales conseguir millones en poco tiempo como rescate por devolver a las ví
+ctimas sus archivos encriptados. En las últimas semanas más de 30 grandes compañías se han visto ame
+nazadas. El ransomware es tipo de ciberataque más simple y, a la par, el más efectivo del mundo. Es 
+el terror tecnológico de la última década, tanto para usuarios como para grandes corporaciones. Los 
+expertos alertan de su incremento y pronostican que en los próximos años el problema seguirá crecien
+do a más. Tan solo en las últimas semanas se han detectado oleadas de ataques ransomware contra unas
+ 30 compañías, algunas de ellas pertenecientes a la lista de Fortune 500. La amenaza la ha detectado
+ Symantec, una división de Broadcom que asegura que el número de víctimas de estos ataques puede ser
+á mayor en poco tiempo, prueba del nivel de alcance al que está llegando este tipo de ciberataque. E
+l ransomware consiste en cifrar o encriptar algunos o todos los archivos y datos que un usuario tien
+e en un dispositivo o que una gran empresa almacena dentro de su infraestructura. Un mensaje alerta 
+a las víctimas de que han sido atacadas y les da las instrucciones para recuperar ese contenido vita
+l para ellos; en la mayoría de los casos, deben pagar una alta suma de dinero antes de un plazo de t
+iempo para poder recuperar el acceso a sus ficheros más valiosos. Año negro: los ataques de ransomwa
+re se dispararon un 500% en 2019 Los archivos siguen ahí, pero no puedes acceder a ellos. 2019 fue e
+l año más manchado por el ransomware, no se libra nadie de estos ataques, incluso las instituciones 
+públicas pueden verse afectadas. El año pasado la compañía de seguridad Kaspersky contabilizó unos 1
+74 municipios afectados por este ataque, principalmente en Estados Unidos, en cuyo caso tuvieron que
+ recurrir incluso al FBI. 2020 no se está quedando atrás. Los ciberdelincuentes están aprovechando e
+l miedo a la COVID-19 para engañar y atacar a los usuarios a través de aplicaciones falsas que se ca
+muflan bajo herramientas de rastreo de la pandemia. Por otro lado, nos encontramos con que estas ole
+adas de ataques a un gran número de empresas son perpetradas por un grupo que se hace llamar Evil Co
+rp. Si estos ataques no se hubieran detectado y bloqueado podrían haber costado millones de daños. A
+lgunos medios de comunicación como The New York Times vinculan el ataque grupo de ciberdelincuentes 
+como una represalia dirigida contra el Gobierno de los Estados Unidos después de que el Departamento
+ de Justicia acusara a sus líderes de diferentes delitos contra la seguridad informática. Su método 
+de actuación es muy variado, sus ataques se basan en el ransomware WastedLocker (Ransom.WastedLocker
+), pero la mayoría comienza realizando un ataque phishing, por ejemplo, haciéndose pasar por un clie
+nte potencial para pedir una licencia de prueba para un producto de seguridad. Este tipo de ataques 
+son actualmente la norma y lo seguirán siendo en los próximos años. Según los expertos, los daños gl
+obales que pueden provocar estos ataques, entre los rescates y las pérdidas de la empresa por inacti
+vidad, pueden alcanzar los 20.000 millones de dólares para 2021, 57 veces más que en 2015. Cómo prot
+egerse de un ransomware Para protegerse de estos ataques se recomiendan tres aspectos fundamentales.
+ Tanto usuarios particulares como gobiernos y grandes multinacionales deben prepararse para evitar e
+stos ataques y, en el peor de los casos, saber cómo actuar una vez son víctimas de uno de ellos. Dar
+ por hecho que nos va a pasar alguna vez es la mejor forma de luchar contra estos crímenes. Para emp
+ezar, debemos potenciar la educación informática, tanto si se es un particular como si se tiene a su
+ cargo empleados de una empresa pública o privada. Una encuesta de PWC de 2015 asegura que los emple
+ados son la entrada más fácil para los ciberdelincuentes hacia los archivos de las empresas. No abri
+r correos sospechosos, no entrar en cualquier página web desconocida, no instalar herramientas o app
+s desconocidas… esos son solo los primeros pasos. Después, es importante contar con una buena infrae
+structura de protección, una barrera segura para las empresas que sirva de muro de protección contra
+ invasores. En último caso, como decíamos antes, tener un plan fuerte de actuación en caso de que el
+ ataque se produzca, lo ideal es plantearlo como si de un protocolo anti incendios se tratara. Fuent
+e: www.ticbeat.com Por:   ticbeat Foto:  ARCHIVO PARTICULAR PAGINA 100 POPAYAN COLOMBIA Me gusta est
+o:Me gusta Cargando...

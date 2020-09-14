@@ -1,0 +1,666 @@
+
+De Veiligheidsregio Noord- en Oost-Gelderland (VNOG) is zaterdag getroffen door een aanval met rans
+omware. Hierdoor is het gebruik van het interne systeem beperkt en kan e-mail niet gebruikt worden.
+
+Essentiële informatie die hulpdiensten nodig hebben is nog wel beschikbaar, meldt de VNOG zondag. De
+ veiligheid is volgens de organisatie niet in het geding. De VNOG is een samenwerking tussen 22 geme
+enten.Het is nog niet duidelijk hoe de systemen van de VNOG geraakt konden worden door de ransomware
+. Hoewel het gebruik van de interne systemen is beperkt, werken de meldingssystemen zoals P2000 en C
+2000 nog wel.
+
+
+
+Cybercriminelen proberen met ransomware (gijzelsoftware) bestanden op computers en 
+binnen netwerken te vergrendelen. Via een boodschap wordt aan de gebruikers vervolgens gemeld dat ze
+ zijn gehackt en dat ze een sleutel kunnen invoeren om alles te herstellen. Voor deze sleutel moet v
+aak veel geld worden betaald.De VNOG is met specialisten en organisaties, onder wie het Nationaal Cy
+ber Security Centrum en de politie, aan het uitzoeken of de aanvallers toegang hebben gekregen tot d
+e data en wat de precieze gevolgen zijn. "We zetten alles op alles om te zorgen dat alle systemen zo
+ spoedig mogelijk weer veilig kunnen werken", aldus de VNOG.Het is nog niet duidelijk hoe lang de si
+tuatie precies gaat duren bij de Veiligheidsregio. Ook is niet bekend wie de aanvallers zijn.Bedrijv
+en, scholen en overheidsorganisaties zijn vaker gewild doelwit bij hackers. In februari lagen nog de
+ systemen plat van zo'n twintig Limburgse scholen.
+
+
+
+
+
+
+
+
+
+
+
+Zie ook: 
+Geen tonnen betalen aan crim
+inelen? Zo wapen je je tegen gijzelsoftware
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+Is het Clop ransomware, dan kunt u  bi
+j https://nl.malwarebytes.com malwarebytes ophalen.
+
+4AC5DDE2
+
+Veiligheidsregio in Gelderland getrof
+fen door ransomware http://dlvr.it/RgXPDK
+
+4AC5DDE2
+
+Veiligheidsregio in Gelderland getroffen door r
+ansomware. In de landelijke scenario’s werd hier al rekening mee gehouden. https://nu.nl/tech/607723
+3/veiligheidsregio-in-gelderland-getroffen-door-ransomware.html… via @NUnl
+
+4AC5DDE2
+
+Veiligheidsreg
+io in Gelderland getroffen door ransomware
+https://nu.nl/binnenland/6077233/veiligheidsregio-in-geld
+erland-getroffen-door-ransomware.html… 
+via PdP
+
+4AC5DDE2
+
+Veiligheidsregio in Gelderland getroffen 
+door ransomware
+
+4AC5DDE2
+
+http://cutt.ly/8e5346v Follow us on YouTube Veiligheidsregio in Gelderlan
+d getroffen door ransomware http://dlvr.it/RgXPDL http://cutt.ly/8e5346v http://cutt.ly/8e5346v
+
+4AC
+5DDE2
+
+
+
+
+
+
+
+
+
+
+Vernietigt cyberbedreigingen. Herstelt vertrouwen.
+Traditionele anti-virus is simpel
+weg niet meer voldoende. Malwarebytes vernietigt de nieuwste bedreigingen voordat andere programma's
+ het bestaan ervan zelfs al kennen.
+
+
+Gratis downloaden
+Zie prijzen
+
+
+Contact opnemen met Enterprise
+ Sales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Particulier 
+Wij blokkeren virussen, malware, kwaadaardige websites, ranso
+mware en hackers die traditionele antivirusoplossingen te slim af zijn. Meer informatie
+
+
+
+
+Zakelijk
+ 
+Onze geavanceerde oplossingen voor bescherming en reactie worden overal ter wereld gebruikt door o
+rganisaties van elke grootte.ONTDEK WAAROM
+
+
+
+
+
+
+
+
+
+Waarom Malwarebytes?
+
+
+
+
+
+
+
+
+layers_illustration
+-01
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Als een antivirusp
+rogramma, maar slimmer
+Traditionele antivirusprogramma's falen omdat ze te traag reageren op nieuwe 
+bedreigingen. Waarom? Omdat ze te "dom" zijn. We gebruiken meerdere lagen van technologie, zoals de 
+detectie van onregelmatigheden (een interessante soort kunstmatige intelligentie), gedragsvergelijki
+ng en versterking van de applicatiebeveiliging. Hiermee kunnen we zelfs malware vernietigen die nog 
+nooit eerder is gezien. We werken dus niet echt zoals een traditioneel anti-virus.
+
+
+
+
+
+
+
+
+
+Multi-De
+vice
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Besmet? Wij beschermen u
+Onze technologi
+e stopt niet alleen hackers en malware, maar ruimt ook een geïnfecteerde machine beter op dan het tr
+aditionele antivirusprogramma. Onze technologie behaalde zelfs als enige de "foutloze" opschoonscore
+ van AV-TEST.org.
+
+
+
+
+
+
+
+
+
+Protectionsvg
+Created with Sketch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weert aanvallen af vanuit elke hoek
+Een geïnfecteerde website bezoeken, een oproep 
+van een oplichter accepteren, op een kwaadaardige link klikken&colon dit zijn slechts enkele maniere
+n waarop u kunt worden gehackt. Deze aanvalsvectoren en nieuwe – zodra ze verschijnen – sluiten we a
+f. De slechteriken raken op geen enkele manier meer binnen, of u nu met Windows, Mac of Android werk
+t.
+
+
+
+
+
+
+
+Meer gegevens, slimmere beveiliging
+
+
+
+
+
+
+
+Malwarebytes blokkeert dagelijks meer dan 8.000
+.000 miljoen bedreigingen
+
+
+
+
+
+Malwarebytes maakt maandelijks meer dan 187.000.000 miljoen scans
+
+
+
+
+
+
+Malwarebytes wordt dagelijks meer dan 247.000 keer geïnstalleerd
+
+
+
+
+
+
+
+Goedgekeurd door experts
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+Bekijk ons volledige productassortiment
+Meer informatie
+
+
+
+
+
+
+
+
+Wat onze klanten
+ ervan vinden
+
+
+
+
+
+
+
+"Absoluut het BESTE antimalware- en antiransomwareprogramma!"
+Marty T. 
+       
+                     Beoordeeld op  Amazon.com
+
+
+"Zeer nauwkeurig en snel. Het maken van een scan du
+urt niet de hele dag, en de software is volledig intuïtief."
+John 21A
+                            Be
+oordeeld op  CNET.com
+
+
+"Ik heb een computerbedrijf. Op basis van jarenlange ervaring bevestig ik da
+t dit absoluut de beste antivirussoftware is op de markt."
+Get Rich
+                            Beoo
+rdeeld op Amazon.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Besmet?
+    
+
+
+
+
+Besmet en hulp nodig?
+Neem contact op met ons sa
+lesteam over onze bedrijfsproducten en services
+Contact
+
+
+
+
+
+

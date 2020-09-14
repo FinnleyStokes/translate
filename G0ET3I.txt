@@ -1,0 +1,126 @@
+El ransomware Zeppelin, regresa con un nuevo troyano a bordo, para evadir el antivirus.
+https://cibe
+rseguridadlatam.com/2020/09/13/el-ransomware-zeppelin-regresa-con-un-nuevo-troyano-a-bordo-para-evad
+ir-el-antivirus/…
+
+4AC5DDE2
+
+ÚLTIMO MOMENTO *Estamos en @CronicaTV* 
+@fede_k hablando sobre el impac
+to del caso de #ransomware en #Migraciones   y representando a #ekoparty. Si alguien quiere fortalec
+er los sistemas del Estado... que venga a la eko 
+
+4AC5DDE2
+
+
+Durante esta semana, un ataque informá
+tico al BancoEstado hizo temblar a ejecutivos, especialistas en TI, autoridades y cientos de usuario
+s, obligando a la institución a cerrar sucursales y dar explicaciones públicas. El culpable de tamañ
+o terremoto fue el ransomware Sodinokibi, también conocido como Revil o Sodin, un código malicioso c
+reado exclusivamente para atacar entidades comerciales, financieras o gubernamentales.
+No es el prim
+er ciberataque que afecta a una empresa en el país y tampoco será el último, dicen los expertos. De 
+hecho, el Informe Global de Riesgos, publicado por el Foro Económico Mundial en 2020, clasificó los 
+déficits de gobernanza tecnológica entre los cinco riesgos más importantes del mundo. 
+Y si las amen
+azas iban en aumento, el trabajo remoto que impuso la pandemia sólo vino a intensificarlas. “Se abri
+eron nuevas áreas de ataque e incluso muchas empresas debieron permitir la conexión remota de dispos
+itivos no ‘aprobados’ por las organizaciones, en pos de la continuidad del negocio”, dice Walter Mon
+tenegro, gerente de Ciberseguridad de Cisco Chile. 
+
+Las amenazas
+Si bien el abanico de ataques es a
+mplio, según el reporte de Cisco Talos Intelligence -división de ciberseguridad de Cisco-, son los r
+ansomware los que hoy lideran las amenazas a nivel mundial. Se trata de programas de códigos malicio
+sos que infectan los dispositivos y muestran mensajes que exigen pago de dinero para restablecer el 
+funcionamiento del sistema. Algo así como un secuestro virtual.
+El e-mail aún es la principal fuente
+ de ingreso de amenazas a las organizaciones, dice Montenegro: “Durante la pandemia hemos visto un a
+umento en la cantidad de phishing relacionados con ella, y también de temas afines, como el retiro d
+el 10% AFP”.
+Es que, generalmente, la contingencia -como el Covid-19 o las Fiestas Patrias- es el an
+zuelo perfecto para captar nuevas víctimas, pues “en estas fechas se suele bajar la guardia y los ti
+empos de respuesta ante los ataques son más lentos, sobre todo por los días feriados. Principalmente
+ aumentan las estafas que usan ingeniería social, recopilando información de las personas y enviándo
+les ofertas para estafarlas”, advierte el académico de Ingeniería Civil Informática de la Universida
+d San Sebastián, Mauricio Sepúlveda.
+
+El factor humano
+Aunque cada vez hay más conciencia al respect
+o, aún queda mucho por hacer. Según el “Estudio sobre la Madurez de la Ciberseguridad en Chile”, rea
+lizado por IDC, una de cada tres empresas aún cuenta con un enfoque reactivo en materia de seguridad
+. Y el 80% de las firmas más pequeñas se encuentra en etapas tempranas en términos de protección tec
+nológica. A esto se suma que el 38% de los chilenos desconoce los daños que un ciberataque podría oc
+asionar en su empresa, según una investigación de Kaspersky Lab junto a la consultora CORPA, lo que 
+pone el foco en un aspecto tan relevante como la tecnología: el factor humano.
+Por eso, para Marcos 
+Sepúlveda, de la USS, es central que las empresas capaciten a sus colaboradores sobre estos temas, c
+ontar con un equipo de soporte y monitoreo permanente y tener planes de contingencia, de gestión de 
+incidentes y de continuidad operacional.
+Aunque hay medidas básicas, como la sensibilización en esta
+s materias y divulgar buenas prácticas -no abrir correos sospechosos-, los expertos llaman a ir más 
+allá. “Es clave que la seguridad de datos y el tema de los ataques cibernéticos sean una política pe
+rmanente de las organizaciones, y que aseguren que todos los accesos desde las redes personales de l
+os trabajadores se movilicen en entornos seguros a través del uso de VPN y herramientas de control d
+e acceso, entre otras medidas”, dice Natalia Vega, country manager IDC Chile y Perú. 
+Es que incluso
+ hoy domigo, los ciberdelincuentes están al acecho de cualquier espacio de vulnerabilidad para poner
+ en jaque a empresas de todos los rubros y todos los tamaños. Y están corriendo con ventaja. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+ La variante del Zeppelín para el rescate ha resurgido en estado salvaje, empleand
+o un nuevo descargador de troyanos para evadir las aplicaciones antivirus y evitar su detección, seg
+ún una nueva investigación de Juniper Threat Labs.Los investigadores de Blackberry Cylance observaro
+n por primera vez a Zeppelin en noviembre de 2019, en una ola de ciberataques dirigidos y cuidadosam
+ente seleccionados contra los sectores de la tecnología y la salud en los Estados Unidos y Europa. L
+a variante era el último miembro de la familia de los rescates como servicio, basada en Delphi, cono
+cida como Vega o VegaLocker, que se cree que es de origen ruso.La variante utiliza la ofuscación en 
+todas las cadenas binarias sensibles con diferentes claves RC4 pseudo-aleatorias de 32 bytes adjunta
+s a cada cadena de cifrado.La última campaña de Zeppelin fue detectada por primera vez por Juniper e
+l 28 de agosto, utilizando un dominio registrado el 4 de junio para su comando y control (C2). Los i
+nvestigadores creen que el malware sigue siendo un objetivo y no está muy extendido, aunque es difíc
+il evaluar cuántos ordenadores objetivo resolvieron el dominio C2.Las infecciones de Zeppelin comien
+zan como documentos de Microsoft Word que contienen una macro maliciosa. Los métodos utilizados son 
+similares a otros ataques de rescate, con documentos diseñados para atraer a las víctimas a permitir
+ que las macros de VBA lancen la implementación del rescate.Sin embargo, las supuestas facturas adju
+ntas a los documentos maliciosos son sólo imágenes, y si las imágenes se mueven, el documento revela
+ lo que parece ser un galimatías aleatorio. En realidad, el documento contiene scripts de Visual Bas
+ics ocultos para el usuario en texto basura.Si un usuario abre el documento, el texto es extraído y 
+escrito en la computadora por la macro incrustada. Una vez que el documento se cierra, se ejecuta la
+ segunda macro.El informe de los Laboratorios de Amenazas de Juniper contiene una lista de indicador
+es de compromiso (IOCs) para ayudar a identificar una infección. Las variantes de software de rescat
+e operado por humanos son extremadamente difíciles de detectar, lo que significa que las organizacio
+nes de atención médica también deben consultar las guías previas de Microsoft para conocer los métod
+os de detección y respuesta.
+
+4AC5DDE2
+
+¿Cuáles son las señales de una empresa que está a punto de s
+er atacada con #ransomware?
+
+4AC5DDE2
+
+Según el reporte de Cisco Talos Intelligence, los ransomware 
+son los que hoy lideran las amenazas de ciberataques a nivel mundial. Aquí te contamos los detalles.
+ #DFMAS https://df.cl/noticias/df-mas/tecno/ciberataques-amenazas-que-no-dan-treguas/2020-09-10/1549
+16.html…
+
+4AC5DDE2
+
+La 5, 6, 7 11 y 13 me he cansado de repetirlas a algunos clientes. Algunos tiene
+n suerte, otros... bueno, ahi andan viendo como des encriptar lo que un ransomware les hizo.

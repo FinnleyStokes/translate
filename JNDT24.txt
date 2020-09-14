@@ -1,0 +1,258 @@
+#Cybersécurité #Ransomware : #Covid19 et les quatre failles de sécurité...
+
+…https://www-lemondeinfo
+rmatique-fr.cdn.ampproject.org/c/s/www.lemondeinformatique.fr/actualites/lireamp-les-4-vulnerabilite
+s-privilegiees-par-les-ransomwares-en-2020-80355.html…
+
+4AC5DDE2
+
+
+Le spécialiste de la colocation d
+e datacenters pour les entreprises Equinix a été victime d'une cyberattaque. Un ransomware identifié
+ comme étant Netwalker a été détecté sur les systèmes internes du groupe et une rançon de 4,5 millio
+ns d'euros qui pourra doubler est demandée par les cyberpirates. Les datacenters Equinix en France s
+ont au nombre de 8 comprenant l'IBX PA4 localisé à Pantin à Paris. (crédit : Equinix)
+
+Equinix a été
+ touché en plein coeur. L'une des principales sociétés dans le domaine de la colocation de datacente
+rs a été victime d'une cyberattaque, et une fois n'est pas coutume il s'agit encore d'un rançongicie
+l. « Equinix enquête actuellement sur un incident de sécurité que nous avons détecté et qui implique
+ un ransomware sur certains de nos systèmes internes », a confirmé la société dans un communiqué. « 
+Nos équipes ont pris des mesures immédiates et décisives pour résoudre l'incident, ont notifié les f
+orces de l'ordre et continuent d'enquêter ».
+D'après le fournisseur, ses datacenters, offres de serv
+ices incluant les services managés, sont pleinement opérationnels et ses capacités de support n'ont 
+pas été impactés. « Notez que la plupart des clients exploitant leur propre équipement au sein des c
+entres de données Equinix, cet incident n'a eu aucun impact sur leurs opérations ni sur les données 
+de leur équipement chez Equinix », explique en outre la société.
+Une rançon qui pourrait doubler à 9
+ M$
+Le ransomware qui affecte Equinix serait ni plus ni moins Netwalker, qui s'était récemment illus
+tré en France de sinistre mémoire chez MMA ou encore Rabot Dutilleul. Une rançon de 4,5 millions de 
+dollars aurait été demandée, soit 455 bitcoins, afin d'éviter la fuite et la vente des données volée
+s dont on ne connait pas le volume. Ce montant devrait a priori doubler si Equinix ne paye pas dans 
+des délais impartis qui n'ont pas été précisés. 
+Peu d'informations ont filtré sur les systèmes info
+rmatiques impactés par cette cyberattaque. D'après le chercheur en sécurité Vitali Kremez de Sentine
+lLabs, des identifiants de 74 serveurs RDP Equinix sont actuellement en vente sur des places de marc
+hé du darknet. La plupart de ses serveurs sont localisés en Australie, Turquie et Brésil, pouvant la
+isser penser que ces sites géographiques d'Equinix ont en particulier été frappés par cette cyberatt
+aque.
+Contacté pour des précisions sur cette cyberattaque, Equinix n'a pas encore répondu à nos ques
+tions. 
+Une erreur dans l'article? Proposez-nous une correction 
+
+
+
+
+Article rédigé par
+Dominique Fi
+lippone Chef des actualités LMI 
+
+
+
+Cet article vous a plu? Partagez le !
+
+
+
+
+
+
+
+
+
+
+
+Newsletter LMI
+
+Recevez notre newsletter comme plus de 50000 abonnés
+
+
+
+OK
+
+
+
+
+
+
+
+
+Commentaire 
+
+
+
+
+
+
+
+
+							Comme
+nter cet article en tant que 
+							visiteur ou connectez-vous 
+
+
+
+Renseignez votre email pour être
+ prévenu d'un nouveau commentaire
+Pour tout savoir sur la manière dont nous traitons vos données per
+sonnelles, consultez notre Charte de Confidentialité.
+
+
+
+Le code HTML est interdit dans les commenta
+ires
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+De @zataz  : Il n'y a plus de respect ! Les opérateurs de #ransomware s'a
+ttaquent à la salade césar de Burger King. Nifilim / Nefilim diffuse 1G.Octets de preuves : #cybercr
+ime #cybersecurité
+
+4AC5DDE2
+
+
+Dans un contexte deÂ recrudescence explosif du nombre de cybermenaces
+ en France en cette rentrÃ©e 2020 (Leon Grosse, Tribunal de Paris...) et aprÃ¨s unÂ Ã©tÃ© meurtrier,
+ le bal tragique des ransomwares semble malheureusement se poursuivre.Â Zataz etÂ Ransom Leaks ont e
+n effetÂ indiquÃ© que les opÃ©rateurs malveillants derriÃ¨re le ransomware Nefilim ont encore frappÃ
+©. Quelques semaines aprÃ¨s s'Ãªtre attaquÃ© Ã  une filiale d'Orange, ainsi qu'Ã  Spie, ce groupe a 
+vraisemblablement mis dans son collimateur un autre groupe franÃ§ais, Ã  savoir le fabricantÂ de mÃ©
+dicaments et d'antibiotiques injectables breton Panpharma.
+Â«Â Selon mes constatations, les fichiers
+ volÃ©s et diffusÃ©s par les pirates courent de 2012 au 14 aoÃ»t 2020. Des dossiers traitant de cent
+aines dâaudits, de dizaines de pays, â¦ Â»,Â a indiquÃ© Damien Bancal, fondateur de Zataz. CrÃ©Ã©
+ en 1983, Panpharma a rÃ©alisÃ©Â selon societe.com prÃ¨s de 79 millions d'euros de revenusÂ et compt
+erait prÃ¨s de 500 collaborateurs dans le monde.
+ContactÃ© par la rÃ©daction, Panpharma n'a pour l'i
+nstant pas rÃ©pondu Ã  notre demande de prÃ©cision sur cette cyberattaque. 
+
+4AC5DDE2
+
+« en bitcoin 
+» , la monnaie la plus facilement traçable où l’historique infalsifiable de toutes les transactions 
+est disponible gratuitement partout sur internet ? Les ransomware ne sont plus en btc depuis plusieu
+rs années déjà !
+
+4AC5DDE2
+
+#Panpharma frappé par un #Ransomware.
+Les opérateurs du ransomware Nefil
+im ont révélé avoir pris pour cible le spécialiste en antibiotique injectable breton Panpharma. Des 
+fichiers et dossiers d'audits concernant des dizaines de pays auraient été volés.
+…https://www-lemon
+deinformatique-fr.cdn.ampproject.org/c/s/www.lemondeinformatique.fr/actualites/lireamp-panpharma-fra
+ppe-par-un-ransomware-80336.html…
+
+4AC5DDE2
+
+
+Sur le plan de la sÃ©curitÃ©, lâannÃ©e 2020 a Ã©tÃ© 
+marquÃ©e par l'augmentation du phishing et d'autres attaques ciblant les travailleurs distants dans 
+le contexte de la crise du Covid-19. Ainsi, aprÃ¨s les dÃ©crets imposant le tÃ©lÃ©travail Ã  ses emp
+loyÃ©s, la ville de New York a dÃ» gÃ©rer les menaces dâenviron 750Â 000 points d'accÃ¨s, contre 8
+0 000 en temps normal. Comme le fait remarquer une rÃ©cente Ã©tude semestrielle de Check Point Softw
+are Technologies, Â«Â avec la pandÃ©mie, les attaques de malwares exploitant des techniques d'ingÃ©n
+ierie sociale sur le thÃ¨me du Covid-19 se sont multipliÃ©esÂ Â». De nombreux noms de domaine faisan
+t rÃ©fÃ©rence Ã  la pandÃ©mie ont Ã©tÃ© crÃ©Ã©s. Et Ã  mesure que les travailleurs distants ont comm
+encÃ© Ã  utiliser des plates-formes de vidÃ©oconfÃ©rence, les attaques se sont dÃ©placÃ©es vers Zoom
+, Teams et d'autres plates-formes de vidÃ©oconfÃ©rence.
+Mais, constat inquiÃ©tant du rapport de Chec
+k Point, 80 % des attaques observÃ©es au cours du premier semestre 2020 ont exploitÃ© des vulnÃ©rabi
+litÃ©s signalÃ©es et enregistrÃ©es en 2017 et avant, et plus de 20 % des attaques ont exploitÃ© des 
+vulnÃ©rabilitÃ©s dÃ©couvertes il y a sept ans au moins. Cela montre que le maintien Ã  jour des logi
+ciels reste un problÃ¨me. En 2020, les ransomwares reprÃ©sentent toujours une menace importante, mai
+s une Ã©tude rÃ©cente et intÃ©ressante de lâentreprise de sÃ©curitÃ© SenseCy a montrÃ© que les att
+aques par ransomwares qu'elle a identifiÃ©es nâexploitaient pas que des vulnÃ©rabilitÃ©s Windows. 
+Les attaquants ont exploitÃ© des vulnÃ©rabilitÃ©s prÃ©sentes dans les outils d'accÃ¨s Ã  distance de
+s rÃ©seaux Windows.
+VoilÃ  les quatre principales vulnÃ©rabilitÃ©s les plus exploitÃ©es, identifiÃ©e
+s par les chercheursÂ :
+VulnÃ©rabilitÃ© CVE-2019-19781 dans Citrix Application Delivery Controller
+L
+a vulnÃ©rabilitÃ© CVE-2019-19781 affecte les solutions d'accÃ¨s Ã  distance de Citrix. Rendue publiq
+ue en dÃ©cembre 2019, elle a Ã©tÃ© corrigÃ©e en janvier 2020. Les attaquants utilisent les vulnÃ©rab
+ilitÃ©s de Citrix comme point d'entrÃ©e et ciblent ensuite d'autres failles Windows pour obtenir un 
+niveau dâaccÃ¨s supplÃ©mentaire. Comme lâindique un article du blog FireEye, les attaques du ran
+somware Ragnarok ont exploitÃ© la vulnÃ©rabilitÃ© de Citrix pour sâintroduire dans le rÃ©seau et t
+Ã©lÃ©charger un outil natif utilisÃ© par Windows Certificate Services (rÃ©pertoriÃ©e comme Technique
+ 11005 dans le framework ATT&CK de MITRE).
+Les attaquants ont ensuite exÃ©cutÃ© le code since1969.ex
+e tÃ©lÃ©chargÃ©, localisÃ© dans C:\Users\Public, et ont supprimÃ© l'URL du cache du certificat de l'
+utilisateur. Pour vÃ©rifier que vos appareils Citrix Gateway ne sont pas affectÃ©s par cette vulnÃ©r
+abilitÃ©, tÃ©lÃ©chargez et exÃ©cutez l'outil de scan FireEye/Citrix disponible sur GitHub. Cette vul
+nÃ©rabilitÃ© a Ã©tÃ© exploitÃ©e par des ransomwares comme Sodinokibi/REvil, Ragnarok, DopplePaymer, 
+Maze, CLOP et Nephilim. Check Point rapporte des tendances similaires en matiÃ¨re d'accÃ¨s Ã  distan
+ce. L'utilisation de technologies d'accÃ¨s Ã  distance, notamment RDP et VPN, a entraÃ®nÃ© une forte
+ augmentation des attaques par force brute du RDP.
+VulnÃ©rabilitÃ© CVE-2019-11510 dans Pulse Connect
+ Secure
+Cette annÃ©e, la vulnÃ©rabilitÃ© CVE-2019-11510 a Ã©tÃ© utilisÃ©e et exploitÃ©e par de nombr
+eux cybercriminels pour mener diffÃ©rents types dâattaques. Pulse Secure fournit des connexions VP
+N aux rÃ©seaux, et l'utilisation du logiciel a augmentÃ© de faÃ§on spectaculaire, une progression di
+rectement liÃ©e Ã  la multiplication du tÃ©lÃ©travail. C'est ce qu'indiquait un article de blog de M
+icrosoft en avril : Â«Â REvil (Ã©galement appelÃ© Sodinokibi) a gagnÃ© en notoriÃ©tÃ© pour sâintro
+duire dans les rÃ©seaux des fournisseurs de services managÃ©s (MSP) et accÃ©der aux documents des cl
+ients. Le ciblage des MSP sâest poursuivi pendant la crise du Covid-19, et sâest Ã©tendu Ã  d'au
+tres secteurs, comme des institutions gouvernementales localesÂ Â».
+La brÃ¨che a Ã©galement Ã©tÃ© ut
+ilisÃ©e pour voler et diffuser les mots de passe de plus de 900 serveurs VPN d'entreprise. En juin, 
+les attaques du ransomware Black Kingdom ont Ã©galement exploitÃ© la vulnÃ©rabilitÃ© Pulse VPN pour 
+lancer une attaque qui a permis de compromettre une tÃ¢che lÃ©gitime programmÃ©e pour Google Chrome.
+
+VulnÃ©rabilitÃ© CVE 2012-0158 dans Microsoft Office Common Controls
+La troisiÃ¨me des quatre vulnÃ©
+rabilitÃ©s ayant servi de vecteur Ã  la majoritÃ© des attaques de ransomware en 2020 est une vulnÃ©r
+abilitÃ© dÃ©couverte il y a plusieurs annÃ©es, en 2012 exactement. La vulnÃ©rabilitÃ© CVE 2012-0158 
+a Ã©galement beaucoup fait parler dâelle en 2019. En mars 2020, des organisations gouvernementales
+ et institutions mÃ©dicales ont Ã©tÃ© la cible d'attaques visant Ã  exploiter cette vulnÃ©rabilitÃ©.
+ Les attaquants ont envoyÃ© Â«Â un document au format RTF (rich text format) dÃ©nommÃ© 20200323-sitr
+ep-63-covid-19.doc, qui, une fois ouvert, essayait de livrer le ransomware EDA2 en exploitant une vu
+lnÃ©rabilitÃ© connue de dÃ©bordement de tampon (CVE-2012-0158) dans les contrÃ´les ActiveX ListView 
+/ TreeView de la bibliothÃ¨que MSCOMCTL.OCX de MicrosoftÂ Â».
+VulnÃ©rabilitÃ© CVE-2018-8453 dans les
+ composants Windows Win32k
+DÃ©couverte en 2018, la vulnÃ©rabilitÃ© CVE-2018-8453 affecte le composan
+t win32k.sys de Windows. La compagnie dâÃ©lectricitÃ© brÃ©silienne Light S.A a Ã©tÃ© la cible dâ
+un ransomware qui a utilisÃ© la vulnÃ©rabilitÃ© pour gagner des privilÃ¨ges en tirant partie des exp
+loits 32 et 64 bits du composant Win32k de Windows. Le nombre et l'Ã¢ge des vulnÃ©rabilitÃ©s utilisÃ
+©es par ces attaques inquiÃ¨tent de plus en plus les spÃ©cialistes de la sÃ©curitÃ©. Cette tendance 
+montre quâil est temps pour les entreprises de revoir les processus de gestion de leurs correctifs
+, de sâassurer quâelles corrigent correctement leurs points d'entrÃ©e et de rechercher des vulnÃ
+©rabilitÃ©s plus anciennes qui nâauraient pas Ã©tÃ© repÃ©rÃ©es par les outils dâapplication des 
+correctifs.
+Plusieurs questions mÃ©ritent dâÃªtre posÃ©esÂ : lâentreprise a-t-elle multipliÃ© se
+s points dâaccÃ¨s en raison de la pandÃ©mie ? A-t-elle passÃ© en revue ses points d'accÃ¨s pour sâ
+assurer qu'ils sont correctement protÃ©gÃ©s et surveillÃ©s ? A-t-elle renforcÃ© ses processus de t
+Ã©lÃ©mÃ©trie et de service d'assistance afin d'Ãªtre alertÃ©e des problÃ¨mes avant qu'ils ne survien
+nent ? Il est important de prendre du recul et de faire le point sur la situation actuelle, de se de
+mander comment amÃ©liorer ses processus dâapplications de correctifs, mieux communiquer et mieux s
+e protÃ©ger. 
+
+4AC5DDE2
+
+Oula , on est pu dans les années 50 frerot, on s'amuse pas a donner des com
+ptes pour demander de l'argent. On demande de l'argent en Bitcoin, comme tous les mecs qui font des 
+ransomware .
+
+4AC5DDE2
+
+let’s just hope it isn’t ransomware
+
+4AC5DDE2
+
+Le spécialiste de la colocati
+on de datacenters pour les entreprises Equinix a été victime d'une cyberattaque. Un ransomware ident
+ifié comme étant Netwalker a été détecté sur les systèmes internes du groupe et une rançon de 4,5 mi
+llions d'euros !

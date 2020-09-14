@@ -1,0 +1,38 @@
+El ransomware Zeppelin, regresa con un nuevo troyano a bordo, para evadir el antivirus.
+https://cibe
+rseguridadlatam.com/2020/09/13/el-ransomware-zeppelin-regresa-con-un-nuevo-troyano-a-bordo-para-evad
+ir-el-antivirus/…
+
+4AC5DDE2
+
+ La variante del Zeppelín para el rescate ha resurgido en estado salvaj
+e, empleando un nuevo descargador de troyanos para evadir las aplicaciones antivirus y evitar su det
+ección, según una nueva investigación de Juniper Threat Labs.Los investigadores de Blackberry Cylanc
+e observaron por primera vez a Zeppelin en noviembre de 2019, en una ola de ciberataques dirigidos y
+ cuidadosamente seleccionados contra los sectores de la tecnología y la salud en los Estados Unidos 
+y Europa. La variante era el último miembro de la familia de los rescates como servicio, basada en D
+elphi, conocida como Vega o VegaLocker, que se cree que es de origen ruso.La variante utiliza la ofu
+scación en todas las cadenas binarias sensibles con diferentes claves RC4 pseudo-aleatorias de 32 by
+tes adjuntas a cada cadena de cifrado.La última campaña de Zeppelin fue detectada por primera vez po
+r Juniper el 28 de agosto, utilizando un dominio registrado el 4 de junio para su comando y control 
+(C2). Los investigadores creen que el malware sigue siendo un objetivo y no está muy extendido, aunq
+ue es difícil evaluar cuántos ordenadores objetivo resolvieron el dominio C2.Las infecciones de Zepp
+elin comienzan como documentos de Microsoft Word que contienen una macro maliciosa. Los métodos util
+izados son similares a otros ataques de rescate, con documentos diseñados para atraer a las víctimas
+ a permitir que las macros de VBA lancen la implementación del rescate.Sin embargo, las supuestas fa
+cturas adjuntas a los documentos maliciosos son sólo imágenes, y si las imágenes se mueven, el docum
+ento revela lo que parece ser un galimatías aleatorio. En realidad, el documento contiene scripts de
+ Visual Basics ocultos para el usuario en texto basura.Si un usuario abre el documento, el texto es 
+extraído y escrito en la computadora por la macro incrustada. Una vez que el documento se cierra, se
+ ejecuta la segunda macro.El informe de los Laboratorios de Amenazas de Juniper contiene una lista d
+e indicadores de compromiso (IOCs) para ayudar a identificar una infección. Las variantes de softwar
+e de rescate operado por humanos son extremadamente difíciles de detectar, lo que significa que las 
+organizaciones de atención médica también deben consultar las guías previas de Microsoft para conoce
+r los métodos de detección y respuesta.
+
+4AC5DDE2
+
+ÚLTIMO MOMENTO *Estamos en @CronicaTV* 
+@fede_k h
+ablando sobre el impacto del caso de #ransomware en #Migraciones   y representando a #ekoparty. Si a
+lguien quiere fortalecer los sistemas del Estado... que venga a la eko 

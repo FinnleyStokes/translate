@@ -1,0 +1,381 @@
+El 40% de los reclamos a seguros cibernéticos son por ataques ransomware, asegura informe http://dlv
+r.it/RgXSLq
+
+4AC5DDE2
+
+
+Durante esta semana, un ataque informático al BancoEstado hizo temblar a eje
+cutivos, especialistas en TI, autoridades y cientos de usuarios, obligando a la institución a cerrar
+ sucursales y dar explicaciones públicas. El culpable de tamaño terremoto fue el ransomware Sodinoki
+bi, también conocido como Revil o Sodin, un código malicioso creado exclusivamente para atacar entid
+ades comerciales, financieras o gubernamentales.
+No es el primer ciberataque que afecta a una empres
+a en el país y tampoco será el último, dicen los expertos. De hecho, el Informe Global de Riesgos, p
+ublicado por el Foro Económico Mundial en 2020, clasificó los déficits de gobernanza tecnológica ent
+re los cinco riesgos más importantes del mundo. 
+Y si las amenazas iban en aumento, el trabajo remot
+o que impuso la pandemia sólo vino a intensificarlas. “Se abrieron nuevas áreas de ataque e incluso 
+muchas empresas debieron permitir la conexión remota de dispositivos no ‘aprobados’ por las organiza
+ciones, en pos de la continuidad del negocio”, dice Walter Montenegro, gerente de Ciberseguridad de 
+Cisco Chile. 
+
+Las amenazas
+Si bien el abanico de ataques es amplio, según el reporte de Cisco Talos
+ Intelligence -división de ciberseguridad de Cisco-, son los ransomware los que hoy lideran las amen
+azas a nivel mundial. Se trata de programas de códigos maliciosos que infectan los dispositivos y mu
+estran mensajes que exigen pago de dinero para restablecer el funcionamiento del sistema. Algo así c
+omo un secuestro virtual.
+El e-mail aún es la principal fuente de ingreso de amenazas a las organiza
+ciones, dice Montenegro: “Durante la pandemia hemos visto un aumento en la cantidad de phishing rela
+cionados con ella, y también de temas afines, como el retiro del 10% AFP”.
+Es que, generalmente, la 
+contingencia -como el Covid-19 o las Fiestas Patrias- es el anzuelo perfecto para captar nuevas víct
+imas, pues “en estas fechas se suele bajar la guardia y los tiempos de respuesta ante los ataques so
+n más lentos, sobre todo por los días feriados. Principalmente aumentan las estafas que usan ingenie
+ría social, recopilando información de las personas y enviándoles ofertas para estafarlas”, advierte
+ el académico de Ingeniería Civil Informática de la Universidad San Sebastián, Mauricio Sepúlveda.
+
+
+El factor humano
+Aunque cada vez hay más conciencia al respecto, aún queda mucho por hacer. Según el
+ “Estudio sobre la Madurez de la Ciberseguridad en Chile”, realizado por IDC, una de cada tres empre
+sas aún cuenta con un enfoque reactivo en materia de seguridad. Y el 80% de las firmas más pequeñas 
+se encuentra en etapas tempranas en términos de protección tecnológica. A esto se suma que el 38% de
+ los chilenos desconoce los daños que un ciberataque podría ocasionar en su empresa, según una inves
+tigación de Kaspersky Lab junto a la consultora CORPA, lo que pone el foco en un aspecto tan relevan
+te como la tecnología: el factor humano.
+Por eso, para Marcos Sepúlveda, de la USS, es central que l
+as empresas capaciten a sus colaboradores sobre estos temas, contar con un equipo de soporte y monit
+oreo permanente y tener planes de contingencia, de gestión de incidentes y de continuidad operaciona
+l.
+Aunque hay medidas básicas, como la sensibilización en estas materias y divulgar buenas prácticas
+ -no abrir correos sospechosos-, los expertos llaman a ir más allá. “Es clave que la seguridad de da
+tos y el tema de los ataques cibernéticos sean una política permanente de las organizaciones, y que 
+aseguren que todos los accesos desde las redes personales de los trabajadores se movilicen en entorn
+os seguros a través del uso de VPN y herramientas de control de acceso, entre otras medidas”, dice N
+atalia Vega, country manager IDC Chile y Perú. 
+Es que incluso hoy domigo, los ciberdelincuentes est
+án al acecho de cualquier espacio de vulnerabilidad para poner en jaque a empresas de todos los rubr
+os y todos los tamaños. Y están corriendo con ventaja. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+
+
+Hechos clave:
+
+
+La
+ exigencia en promedio por rescate creció un 47% en el segundo trimestre del 2020.
+
+
+Los ciberataque
+s van contra todo tipo de industrias, sin ninguna discriminación.
+Los ciberataques con ransomware re
+presentan la principal amenaza informática para las pequeñas y medianas empresas de Estados Unidos y
+ Canadá. Un reporte de la aseguradora Coalition destacó que el 41% de las reclamaciones de seguros c
+ibernéticos, durante el primer semestre del 2020, están relacionadas con el secuestro de datos.
+El i
+nforme de Coalition señaló que entre el primer y el segundo trimestre del 2020 hubo un incremento de
+l 47% en la cantidad de dinero de exigían los hackers para liberar la información. Entre enero y mar
+zo la exigencia, en promedio, fue de 230.000 dólares por ciberataque, mientras que entre abril y jun
+io la cifra subió a 338.000 dólares.
+
+
+
+También te podría interesar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+En Análisis Ep.
+20: gobiernos y hackers con la mira en Bitcoin; empresas no ayudan
+
+ 11 septiembre, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft: campañas de Trump y Biden son acechadas por hackers de Rusia, China e Irán
+
+ 11 septi
+embre, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El incremento de los ciberataques con ransomware y su sofistic
+ación fue catalogado en el documento como la innovación más significativa en la historia reciente de
+l cibercrimen. Lo peor es que los hackers estarían afinando sus estrategias para hacer más daño, alg
+o que mantiene las alarmas encendidas en las propias empresas y las compañías de ciberseguridad.
+La 
+aseguradora, que presta sus servicios a más de 25.000 compañías en Norteamérica, reveló además un li
+stado de programas maliciosos utilizados por los hackers e identificó los más usados para exigir may
+ores cantidades de dinero. Entre estos se encuentran: el malware Maze, con el que piden en promedio 
+420.000 por ataque; Ryuk (USD 282.000), Netwalker (USD 176.000), Zepplin (132.000), DoppelPaymer (US
+D 130.000), Dharma (USD 81.000) y Sodinokibi (USD 73.000).
+También se hizo mención al nuevo modus op
+erandi de los ciberdelincuentes, en el que roban primero los datos antes de encriptarlos. Su objetiv
+o es amenazar con hacerlos públicos en caso de que no se pague el rescate solicitado.
+
+
+
+
+
+
+
+
+Los at
+aques a la seguridad informática de las empresas tiene en el phishing por email a su principal aliad
+o. Fuente: Coalition.
+«El ransomware no discrimina por industria. Hemos visto un aumento de los ataq
+ues con rescates en casi todas las industrias a las que servimos (…) También hemos visto un fuerte a
+umento en las demandas de rescate durante el último trimestre, como amenazas que los actores han exp
+lotado por el COVID-19 y los cambios en los procedimientos operativos de las empresas», añadió el re
+porte.
+Un punto a resaltar es que, de acuerdo con los analistas de Coalition, las causas fundamental
+es de los fallos de seguridad pudieron evitarse. El informe hace un llamado de atención a aspectos b
+ásicos de seguridad, como el uso de la autenticación de múltiples factores, respaldo de datos, proto
+colos de seguridad para correos electrónicos, verificación de transferencias monetarias y uso de adm
+inistradores de contraseñas.
+Ataques ransomware, bitcoin y Latinoamérica
+Otro aspecto a destacar es 
+que, en comparación con las cifras del 2019, la frecuencia de reclamaciones por ransomware disminuyó
+ un 18%. Sin embargo, la aseguradora afirmó que han observado un «dramático incremento» en la graved
+ad de los ataques.
+En el informe se citó el caso de una pequeña empresa que fue atacada con ransomwa
+re y a la que se le exigió el pago de 25 bitcoin (BTC). No obstante, al ser una pequeña compañía y e
+star asegurada, la entidad no efectuó ningún pago. El episodio culminó con una resolución favorable 
+en 48 horas.
+
+
+
+
+
+
+
+
+Las industrias más atacadas son las del consumo, servicios profesionales, cuida
+do de la salud y servicios financieros. Fuente: Coalition.
+Los ciberataques de este tipo están en in
+cremento y Latinoamérica no escapa a esta situación. La región se ha convertido en blanco para los c
+iberdelincuentes que buscan cada vez más vulnerar los sistemas de seguridad y secuestrar información
+ sensible.
+CriptoNoticias ha reportado múltiples casos como los recientes hechos ocurridos con Banco
+Estado en Chile o el presentado en Argentina con la Dirección Nacional de Migraciones (DNM).
+La comp
+lejidad de los ataques informáticos en general y la capacidad de reacción de las empresas también ha
+n sido temas de análisis. La firma de ciberseguridad Acronis informó esta semana que 3 de cada 10 co
+mpañías reciben ciberataques a diario, entre los que se encuentran los ransomware. Incluso, hay corp
+oraciones que son atacadas cada hora, lo que habla del incremento de las amenazas informáticas.
+Etiq
+uetas: CiberataqueHackerRansomwareRobo y Fraude
+
+
+4AC5DDE2
+
+El ransomware Zeppelin, regresa con un n
+uevo troyano a bordo, para evadir el antivirus.
+https://ciberseguridadlatam.com/2020/09/13/el-ransom
+ware-zeppelin-regresa-con-un-nuevo-troyano-a-bordo-para-evadir-el-antivirus/…
+
+4AC5DDE2
+
+
+Ransomware
+. Es la nueva pesadilla de los departamentos de TI, de las gerencias de Seguridad y en general de la
+s empresas que súbitamente se encuentran enfrentando que cada una de sus computadoras y servidores h
+an sido encriptados.
+Sin embargo, la pregunta es: ¿el ransomware aparece por sorpresa o hay signos q
+ue indican su próxima aparición?
+De acuerdo con la unidad de investigación de la empresa SILIKN, esp
+ecialista en ciberseguridad, existen claros indicios de que las empresas están a punto de ser víctim
+as del ransomware y, muchas de ellas, han estado ahí todo el tiempo: como las solicitudes de DNS mal
+ dirigidas, los reinicios de VPN incorrectos y las fallas de inicio de sesión, las cuales deberían h
+aber activado las alarmas de que se estaba produciendo un ataque de este tipo.
+
+En todo caso, cualqu
+ier esfuerzo de mitigación y protección debe iniciar con una evaluación de las vulnerabilidades de l
+a empresa. Pero esto debe hacerse de forma rápida, ya que una vez que los atacantes están en su red,
+ tiene entre 48 horas y 12 días antes de que sea demasiado tarde.
+¿Qué es lo que debe contemplar un 
+plan de ciberseguridad y la evaluación de vulnerabilidades de la empresa?
+
+Tiempo inusual en las con
+exiones VPN: Las empresas deben estar atentas a las señales de tiempo anómalas en las conexiones VPN
+. Si la organización tiene niveles normales de tráfico entre las 9 a.m. y las 5 p.m. y luego, de pro
+nto, hay tráfico con direcciones IP de Rusia o Mozambique a las 2 a.m., esto debería activar las señ
+ales de advertencia, con la finalidad de averiguar a qué están intentando acceder los atacantes.
+
+El
+ tráfico se redirige repentinamente a lugares en la Dark Web: El tráfico de red normal nunca debería
+ ser redirigido a un sitio TOR. El usuario promedio probablemente no sabe qué es y mucho menos tendr
+ía algún negocio en una red TOR. Se debe tener cuidado con las solicitudes de DNS inusuales. Si las 
+solicitudes regresan a sitios de malware conocidos, eso es potencialmente un problema y la red podrí
+a infectarse.
+
+Herramientas de seguridad que se utilizan en entornos para las que no fueron asignada
+s: Una vez que los atacantes tengan derechos de administrador, intentarán deshabilitar el software d
+e seguridad utilizando aplicaciones creadas para ayudar con la eliminación forzada de software, como
+ Process Hacker, IObit Uninstaller, GMER y PC Hunter. Este tipo de herramientas son legítimas, pero 
+si una herramienta específica aparece en un sistema para el que no está asignada, entonces algo está
+ mal.
+
+La red hace preguntas inusuales: Los atacantes suelen comenzar por obtener acceso a una máqui
+na, donde buscan información y hacen preguntas que los usuarios de todos los días normalmente no har
+ían, por ejemplo, “¿Es esta una máquina Mac o Windows? ? “ “¿Cuál es el dominio y el nombre de la em
+presa?” “¿Qué tipo de derechos de administrador tiene la computadora?”. A continuación, los atacante
+s intentan averiguar qué más hay en la red y a qué pueden acceder. En la mayoría de las circunstanci
+as, intentarán utilizar un escáner de red, como Angry IP o Advanced Port Scanner. Si detecta una act
+ividad inusual y nadie del personal de administración estaba usando el escáner para un uso corporati
+vo normal, es tiempo de investigar.
+
+Incremento de los correos electrónicos de phishing con dominios
+ extraños: Las empresas deben estar atentas a los correos electrónicos que vienen con nombres de dom
+inio extraños que nunca han estado en el entorno de la empresa. Las herramientas de análisis le perm
+iten buscar cada nuevo dominio que haya pasado por la red en los últimos siete días. Es posible filt
+rar dominios conocidos buenos y malos, como aquellos con buena reputación. Estas herramientas tambié
+n pueden ver lo que se descargó y determinar qué puede parecer inusual.
+
+Los ataques de fuerza bruta
+ afectan la red: Es importante buscar ataques de fuerza bruta en sistemas RDP. Una vez en la red, lo
+s atacantes suelen buscar contraseñas adicionales. También debe estar atento a la actividad inusual 
+de copia de archivos, especialmente de .bat, .zip, .txt y otros archivos comunes. No es común que un
+a cuenta copie archivos desde y hacia múltiples cuentas de usuario o dispositivos. También hay situa
+ciones en las que los atacantes podrían haber comprometido cuentas administrativas y comienzan a cop
+iar archivos. Los atacantes también utilizan estas cuentas para conservar y cifrar rápidamente los s
+istemas de archivos.
+
+Errores en el inicio de sesión en Active Directory: Los departamentos de segur
+idad deben supervisar Active Directory en busca de errores de inicio de sesión. Por ejemplo, tres fa
+llas de inicio de sesión seguidas en los servidores RDP, es una señal segura de que la red ha sido a
+tacada. Lo mismo se aplica a las fallas de inicio de sesión administrativo. Debido a que las empresa
+s no tuvieron tiempo de prepararse para COVID-19 — y parece que el trabajo desde casa continuará en 
+el futuro previsible — , es hora de desarrollar una lista segura de buenas direcciones IP.
+¿Cómo se 
+puede prevenir el ransomware?
+Hay varios pasos defensivos que se pueden tomar para prevenir la infec
+ción por ransomware. Estos pasos son, por supuesto, buenas prácticas de seguridad en general, por lo
+ que seguirlos mejora sus defensas contra todo tipo de ataques:
+Mantenga su sistema operativo parcha
+do y actualizado para garantizar que tenga menos vulnerabilidades que explotar.No instale software n
+i le otorgue privilegios administrativos a menos que sepa exactamente qué es y qué hace.Instale soft
+ware antivirus de nueva generación que detecta programas maliciosos como el ransomware a medida que 
+llegan, y el software de lista blanca, que evita que se ejecuten aplicaciones no autorizadas.Y, muy 
+importante, haga una copia de seguridad de sus archivos, frecuente y automáticamente. Eso no detendr
+á un ataque de malware, pero puede hacer que el daño causado por uno sea mucho menos significativo.
+
+Víctor Ruiz, fundador de SILIKN.
+
+
+4AC5DDE2
+
+¿Cuáles son las señales de una empresa que está a punto
+ de ser atacada con #ransomware?
+
+4AC5DDE2
+
+ La variante del Zeppelín para el rescate ha resurgido e
+n estado salvaje, empleando un nuevo descargador de troyanos para evadir las aplicaciones antivirus 
+y evitar su detección, según una nueva investigación de Juniper Threat Labs.Los investigadores de Bl
+ackberry Cylance observaron por primera vez a Zeppelin en noviembre de 2019, en una ola de ciberataq
+ues dirigidos y cuidadosamente seleccionados contra los sectores de la tecnología y la salud en los 
+Estados Unidos y Europa. La variante era el último miembro de la familia de los rescates como servic
+io, basada en Delphi, conocida como Vega o VegaLocker, que se cree que es de origen ruso.La variante
+ utiliza la ofuscación en todas las cadenas binarias sensibles con diferentes claves RC4 pseudo-alea
+torias de 32 bytes adjuntas a cada cadena de cifrado.La última campaña de Zeppelin fue detectada por
+ primera vez por Juniper el 28 de agosto, utilizando un dominio registrado el 4 de junio para su com
+ando y control (C2). Los investigadores creen que el malware sigue siendo un objetivo y no está muy 
+extendido, aunque es difícil evaluar cuántos ordenadores objetivo resolvieron el dominio C2.Las infe
+cciones de Zeppelin comienzan como documentos de Microsoft Word que contienen una macro maliciosa. L
+os métodos utilizados son similares a otros ataques de rescate, con documentos diseñados para atraer
+ a las víctimas a permitir que las macros de VBA lancen la implementación del rescate.Sin embargo, l
+as supuestas facturas adjuntas a los documentos maliciosos son sólo imágenes, y si las imágenes se m
+ueven, el documento revela lo que parece ser un galimatías aleatorio. En realidad, el documento cont
+iene scripts de Visual Basics ocultos para el usuario en texto basura.Si un usuario abre el document
+o, el texto es extraído y escrito en la computadora por la macro incrustada. Una vez que el document
+o se cierra, se ejecuta la segunda macro.El informe de los Laboratorios de Amenazas de Juniper conti
+ene una lista de indicadores de compromiso (IOCs) para ayudar a identificar una infección. Las varia
+ntes de software de rescate operado por humanos son extremadamente difíciles de detectar, lo que sig
+nifica que las organizaciones de atención médica también deben consultar las guías previas de Micros
+oft para conocer los métodos de detección y respuesta.
+
+4AC5DDE2
+
+Según el reporte de Cisco Talos In
+telligence, los ransomware son los que hoy lideran las amenazas de ciberataques a nivel mundial. Aqu
+í te contamos los detalles. #DFMAS https://df.cl/noticias/df-mas/tecno/ciberataques-amenazas-que-no-
+dan-treguas/2020-09-10/154916.html…
+
+4AC5DDE2
+
+ÚLTIMO MOMENTO *Estamos en @CronicaTV* 
+@fede_k habla
+ndo sobre el impacto del caso de #ransomware en #Migraciones   y representando a #ekoparty. Si algui
+en quiere fortalecer los sistemas del Estado... que venga a la eko 
+
+4AC5DDE2
+
+La 5, 6, 7 11 y 13 me
+ he cansado de repetirlas a algunos clientes. Algunos tienen suerte, otros... bueno, ahi andan viend
+o como des encriptar lo que un ransomware les hizo.

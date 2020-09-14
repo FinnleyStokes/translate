@@ -1,0 +1,99 @@
+¿Cuáles son las señales de una empresa que está a punto de ser atacada con #ransomware?
+
+4AC5DDE2
+
+L
+a 5, 6, 7 11 y 13 me he cansado de repetirlas a algunos clientes. Algunos tienen suerte, otros... bu
+eno, ahi andan viendo como des encriptar lo que un ransomware les hizo.
+
+4AC5DDE2
+
+Según el reporte 
+de Cisco Talos Intelligence, los ransomware son los que hoy lideran las amenazas de ciberataques a n
+ivel mundial. Aquí te contamos los detalles. #DFMAS https://df.cl/noticias/df-mas/tecno/ciberataques
+-amenazas-que-no-dan-treguas/2020-09-10/154916.html…
+
+4AC5DDE2
+
+ÚLTIMO MOMENTO *Estamos en @CronicaT
+V* 
+@fede_k hablando sobre el impacto del caso de #ransomware en #Migraciones   y representando a #e
+koparty. Si alguien quiere fortalecer los sistemas del Estado... que venga a la eko 
+
+4AC5DDE2
+
+
+Dur
+ante esta semana, un ataque informático al BancoEstado hizo temblar a ejecutivos, especialistas en T
+I, autoridades y cientos de usuarios, obligando a la institución a cerrar sucursales y dar explicaci
+ones públicas. El culpable de tamaño terremoto fue el ransomware Sodinokibi, también conocido como R
+evil o Sodin, un código malicioso creado exclusivamente para atacar entidades comerciales, financier
+as o gubernamentales.
+No es el primer ciberataque que afecta a una empresa en el país y tampoco será
+ el último, dicen los expertos. De hecho, el Informe Global de Riesgos, publicado por el Foro Económ
+ico Mundial en 2020, clasificó los déficits de gobernanza tecnológica entre los cinco riesgos más im
+portantes del mundo. 
+Y si las amenazas iban en aumento, el trabajo remoto que impuso la pandemia só
+lo vino a intensificarlas. “Se abrieron nuevas áreas de ataque e incluso muchas empresas debieron pe
+rmitir la conexión remota de dispositivos no ‘aprobados’ por las organizaciones, en pos de la contin
+uidad del negocio”, dice Walter Montenegro, gerente de Ciberseguridad de Cisco Chile. 
+
+Las amenazas
+
+Si bien el abanico de ataques es amplio, según el reporte de Cisco Talos Intelligence -división de 
+ciberseguridad de Cisco-, son los ransomware los que hoy lideran las amenazas a nivel mundial. Se tr
+ata de programas de códigos maliciosos que infectan los dispositivos y muestran mensajes que exigen 
+pago de dinero para restablecer el funcionamiento del sistema. Algo así como un secuestro virtual.
+E
+l e-mail aún es la principal fuente de ingreso de amenazas a las organizaciones, dice Montenegro: “D
+urante la pandemia hemos visto un aumento en la cantidad de phishing relacionados con ella, y tambié
+n de temas afines, como el retiro del 10% AFP”.
+Es que, generalmente, la contingencia -como el Covid
+-19 o las Fiestas Patrias- es el anzuelo perfecto para captar nuevas víctimas, pues “en estas fechas
+ se suele bajar la guardia y los tiempos de respuesta ante los ataques son más lentos, sobre todo po
+r los días feriados. Principalmente aumentan las estafas que usan ingeniería social, recopilando inf
+ormación de las personas y enviándoles ofertas para estafarlas”, advierte el académico de Ingeniería
+ Civil Informática de la Universidad San Sebastián, Mauricio Sepúlveda.
+
+El factor humano
+Aunque cad
+a vez hay más conciencia al respecto, aún queda mucho por hacer. Según el “Estudio sobre la Madurez 
+de la Ciberseguridad en Chile”, realizado por IDC, una de cada tres empresas aún cuenta con un enfoq
+ue reactivo en materia de seguridad. Y el 80% de las firmas más pequeñas se encuentra en etapas temp
+ranas en términos de protección tecnológica. A esto se suma que el 38% de los chilenos desconoce los
+ daños que un ciberataque podría ocasionar en su empresa, según una investigación de Kaspersky Lab j
+unto a la consultora CORPA, lo que pone el foco en un aspecto tan relevante como la tecnología: el f
+actor humano.
+Por eso, para Marcos Sepúlveda, de la USS, es central que las empresas capaciten a sus
+ colaboradores sobre estos temas, contar con un equipo de soporte y monitoreo permanente y tener pla
+nes de contingencia, de gestión de incidentes y de continuidad operacional.
+Aunque hay medidas básic
+as, como la sensibilización en estas materias y divulgar buenas prácticas -no abrir correos sospecho
+sos-, los expertos llaman a ir más allá. “Es clave que la seguridad de datos y el tema de los ataque
+s cibernéticos sean una política permanente de las organizaciones, y que aseguren que todos los acce
+sos desde las redes personales de los trabajadores se movilicen en entornos seguros a través del uso
+ de VPN y herramientas de control de acceso, entre otras medidas”, dice Natalia Vega, country manage
+r IDC Chile y Perú. 
+Es que incluso hoy domigo, los ciberdelincuentes están al acecho de cualquier e
+spacio de vulnerabilidad para poner en jaque a empresas de todos los rubros y todos los tamaños. Y e
+stán corriendo con ventaja. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+El ransomware Zeppelin, regresa con un nuevo tr
+oyano a bordo, para evadir el antivirus.
+https://ciberseguridadlatam.com/2020/09/13/el-ransomware-ze
+ppelin-regresa-con-un-nuevo-troyano-a-bordo-para-evadir-el-antivirus/…

@@ -1,0 +1,3 @@
+Cloud "ekki backup" afritið þitt er useless ef ransomware encryptar það líka, eða einfaldlega eyðir 
+því, sem þau gera ef þau geta. En auðvitað eru fleiri möguleikar aldrei verri. Bara ekki treysta á c
+loud backup sem þjónustuaðili getur líka lokað á fyrirvaralaust.

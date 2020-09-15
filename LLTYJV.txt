@@ -1,0 +1,158 @@
+
+
+Seit vergangener Woche gibt es an der Düsseldorfer Uniklinik einen mas­siven Ausfall der IT. Diese
+r hat zur Folge, dass das Krankhaus, das rund 1200 Betten hat, seit Tagen nur in einem Minimalbetrie
+b läuft. Auch heute ist noch immer kein Normalbetrieb möglich, im Gegenteil.
+
+
+
+Wie der WDR berichte
+t, ist auch am heutigen Montag in der Düsseldorfer Uniklinik noch keine Notfallversorgung möglich, d
+as bedeutet konkret, dass Krankenwagen das Kran­ken­haus immer noch nicht anfahren dürfen. Auch gepl
+ante Operationen können derzeit nicht durchgeführt und müssen verschoben werden.
+
+Verantwortlich daf
+ür ist ein weitreichender IT-Ausfall. Was diesen ausgelöst hat, ist aber offiziell nicht bekannt. Es
+ verdichten sich aber die Hinweise, dass hier ein Verbrechen vor­liegt. Denn laut dem Express soll e
+ine Ransomware zum Einsatz gekommen sein, es wird hier von einem "aggressiven Cryptovirus" gesproche
+n.
+
+Windows 10: So nutzt man den Ransomware- und Exploit-Schutz
+100 Bitcoins als Lösegeld gefordert
+
+Überdies sollen auch massenhaft Patientendaten gestohlen worden sein, auch diese wurden für erpresse
+rische Zwecke entwendet und sollen veröffentlicht werden, wenn die geforderte Summe nicht gezahlt wi
+rd. Laut dem Medienbericht ging auch bereits ein entsprechendes Schreiben ein, der oder die Erpresse
+r verlangen Lösegeld in Höhe von 100 Bitcoins, das sind umgerechnet rund 870.000 Euro.
+
+
+Begonnen ha
+t der mutmaßliche Ransomware- bzw. Hacker-Angriff am vergangenen Don­ners­tag. Bisher konnte ledigli
+ch die Telefonanlage wiederherstellt werden, viele andere Be­stand­teile der IT-Infrastruktur dürfte
+n nach wie vor betroffen sein. Details liegen dazu aber nicht vor, es gibt auch keine Aussagen oder 
+Schät­zungen, wie lange das dauern könnte.
+
+Obwohl Krankenhäuser zur kritischen Infrastruktur gezähl
+t werden, kommen Ransomware-Angriffe auf diese immer wieder vor. Im vergangenen Winter gab es eine s
+olche Attacke auf die Uniklinik Gießen, die Folgen konnten erst nach vier Monaten restlos beseitigt 
+werden.
+
+Download Kaspersky Anti-Ransomware-Tool
+
+
+
+Sicherheit, Sicherheitslücke, Leak, Hacker, Malw
+are, Security, Hack, Angriff, Bug, Trojaner, Virus, Kriminalität, Schadsoftware, Exploit, Spam, Rans
+omware, Cybercrime, Phishing, Erpressung, Ddos, Hackerangriff, Warnung, Hacking, Cybersecurity, Inte
+rnetkriminalität, Hacken, Viren, Hacks, Darknet, Hacker Angriffe, Schädling, Attack, Error, Ransom, 
+Adware, Gehackt, Hacker Angriff, Crime, Security Bulletin, China Hacker, Promi-Hacker, Russische Hac
+ker, Malware Warnung, Security Report, Android Malware, Phisher, Secure, Breaking
+
+
+
+
+
+4AC5DDE2
+
+Nac
+h einer Ransomware-Infektion
+
+4AC5DDE2
+
+2 von 3 Krankenhäusern, in deren Einzugsgebiet ich lebe, sin
+d also nicht in der Lage sich ausreichend vor Ransomware zu schützen. Das sind ja gute Aussichten...
+ ¯\_(ツ)_/¯
+
+4AC5DDE2
+
+#HereWeGo
+
+4AC5DDE2
+
+Die Frau ist die menschgewordene Ransomware.
+
+Man hat es 
+einmal im system, hat man mühe es los zuwerden. Man zahlt unsummen an dritte die keiner.
+Es dein Sys
+tem durchsucht und echt hässlich zum ansehen ist wenn man es sieht. 
+
+#Zensursula
+
+4AC5DDE2
+
+Was int
+eressiert denn ein Stück Ransomware auch die Zuordnung des Krankenhausrechners zur kritischen Infras
+truktur?
+
+4AC5DDE2
+
+#KRITIS Sektor #Gesundheit
+#Uniklinik Düsseldorf nach #Ransomware-Angriff weitge
+hend lahmgelegt
+
+"der oder die #Erpresser verlangen #Lösegeld in Höhe von 100 Bitcoins, das sind umg
+erechnet rund 870.000 Euro" uFF 1/3
+
+4AC5DDE2
+
+Time to update! 6 kritische Schwachstellen in der Sof
+tware „CodeMeter“ von Wibu-Systems mit höchster Kritikalität entdeckt
+https://netzpalaver.de/2020/09
+/11/industrielle-netzwerke-durch-schwachstelle-in-lizenzmanagementsoftware-von-wibu-systems-gefaehrd
+et/…
+#Patchday #update #CodeMeter #Wibu #ITSicherheit #CyberSecurity #DDoS #awareness #Cybercrime #C
+ISA #Ransomware #IIoT #Industrie40
+
+4AC5DDE2
+
+DIES!
+
+"Obwohl #Krankenhäuser zur kritischen Infrastru
+ktur #KRITIS gezählt werden, kommen #Ransomware-Angriffe auf diese immer wieder vor." 3/3
+
+4AC5DDE2
+
+
+ Ransomware unterstelle ich immer ungezielte Verbreitung.
+
+4AC5DDE2
+
+Das Forscherteam von Claroty h
+at sechs kritische Schwachstellen in der Software „CodeMeter“ von Wibu-Systems gefunden. Gemeinsam e
+rreichen sie den maximalen CVSS-Score von 10,0 und können für Denial-of-Service-Angriffe oder zur en
+tfernten Codeausführung ausgenutzt werden. Die Lösung ist im industriellen Bereich als Lizenzmanagem
+ent- und Anti-Piraterie-Werkzeug sehr weit verbreitet und wird vor allem in der Fertigung sowie von 
+der Pharma- und Automobilindustrie eingesetzt. Wibu-Systems hat sämtliche Schwachstellen in Version 
+7.10 von Codemeter gepatcht. Alle Anbieter und Nutzer sollten dringend ein Update auf diese Version 
+durchführen. Zudem haben die Claroty-Forscher ein Online-Tool entwickelt, mit dem Benutzer feststell
+en können, ob ihre Codemeter-Installationen für die Schwachstellen anfällig sind.Lizenzmanagement-Lö
+sungen schützen Software-Anbieter vor Betrug, illegaler Verbreitung und Manipulation von proprietäre
+m Code. Hierfür wird im Bereich der industriellen Steuerungssystemen (ICS) überwiegend die Lösung Co
+demeter von Wibu-Systems eingesetzt. Zahlreiche Anbieter haben diese Software in ihre Produkte integ
+riert, um Lizenzmanagement, Anti-Piraterie-Schutz und Verschlüsselungsdienste zum Schutz des geistig
+en Eigentums der Unternehmen zu ermöglichen. Aufgrund dieser starken Marktpräsenz haben die Sicherhe
+itsforscher von Claroty diese leistungsstarke Software gründlich untersucht und dabei sechs Schwachs
+tellen gefunden, die von der Cybersecurity and Infrastructure Security Agency (CISA) zusammengenomme
+n mit der höchsten Kritikalität (10,0) bewertet wurden. Diese Schwachstellen können aus der Ferne un
+d ohne Authentifizierung ausgenutzt werden und bieten Cyberkriminellen das Äquivalent eines Administ
+ratorzugriffs auf kritische Systeme. Damit können Angreifer beispielsweise Geräte oder Prozesse zum 
+Erliegen bringen (Denial-of-Service) oder die industriellen Systeme mit Malware (einschließlich Rans
+omware) infizieren.Die identifizierten Sicherheitslücken reichen von Memory-Corruption-Schwachstelle
+n wie Buffer-Overflows bis hin zu kryptographischen Mängeln, bei denen ungeeignete Verschlüsselungss
+tärken verwendet oder kryptographische Signaturen unsachgemäß validiert wurden. Die Forscher fanden 
+auch Schwachstellen im Codemeter-Lizenzierungsschema, die dazu genutzt werden könnten, die verwendet
+en digitalen Signaturen zu umgehen. Angreifer könnten auf diese Weise bestehende Lizenzen ändern ode
+r gültige Lizenzen fälschen. Für diesen Angriff werden Opfer zum Beispiel durch Phishing auf bösarti
+ge Websites gelockt, welche dann über Javascript gefälschte Lizenzen injizieren können. Weitere Info
+rmationen, Details und Proof of Concepts finden sich hier.Das Claroty-Forscherteam hat Wibu-Systems 
+über die Schwachstellen informiert, woraufhin Wibu-Systems mit der Version 7.10 von Codemeter einen 
+Patch veröffentlicht hat. Jedoch sind sämtliche Versionen vor 7.10 auf unterschiedliche Weise von de
+n Schwachstellen betroffen. Als problematisch erweist es sich in diesem Zusammenhang, dass im ICS-Be
+reich ein zeitnahes Patchen oftmals nicht die Regel ist. Zudem ist Codemeter ein weitverbreitetes Dr
+ittanbieter-Tool, das in zahlreiche Produkte diverser Hersteller integriert ist. Deshalb sind sich U
+nternehmen möglicherweise nicht bewusst, dass in den eingesetzten Produkten Codemeter eingebettet is
+t. Die Claroty-Sicherheitsforscher haben ein Tool veröffentlicht, mit dem Unternehmen testen können,
+ ob sie eine anfällige Version von Code,eter einsetzen. Anhand der Ergebnisse können diese dann ents
+cheiden, wie sie in Bezug auf das Patchen vorgehen wollen. Das kostenlose Tool ist hier verfügbar.#C
+larotyTags:#ClarotyBuffer-OverflowCodemeterCyberdefenseCyberkriminelleCybersecurityDenial-of-Service
+IT-SecurityIT-SicherheitMalwarePhishingRansomwareSchwachstelleVulnerabilityWibu-Systems

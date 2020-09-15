@@ -1,0 +1,152 @@
+Breve historia sobre Prolock
+ProLock apareció por primera vez en el año 2019 y es uno más, de los mu
+chos ransomware que, por desgracia, circulan por Internet. El objetivo principal de esta amenaza con
+siste en cifrar los archivos de las víctimas. A continuación, los ciberdelincuentes van a pedir un r
+escate para que puedan acceder de nuevo a los datos.
+
+Una cosa que diferencia a ProLock de otros ran
+somware es que se asoció con el troyano QakBot. Gracias a este troyano le permite evitar ser detecta
+do, hacer uso de algunas técnicas añadidas y también la eliminación de credenciales.
+En ese sentido,
+ QakBot es un troyano que en ocasiones ha utilizado el malware Emotet en sus campañas. Su forma de d
+istribución es a través del correo electrónico mediante ataques de Phishing. En esos e-mails incluye
+n archivos Word maliciosos como archivos adjuntos. Para que sea efectivo, la víctima tendría que rea
+lizar dos acciones: una sería descargar ese archivo que recibe por e-mail, y la otra sería habilitar
+ las macros.
+De esta forma, ProLock mediante el uso de QakBot se aprovecha para utilizar brechas exi
+stentes. De esta forma puede lograr ataques más concretos y también tener más éxito. Simplemente env
+iando un correo a los destinatarios que quiera el ciberdelincuente puede ser un buen punto de partid
+a.
+Alertas sobre el robo de datos por el ransomware ProLock
+El 4 mayo de 2020, el FBI emitió una ale
+rta flash MI-000125-MW sobre el peligro que entrañaba el robo de datos por el ransomware ProLock. No
+ obstante, debido a que los problemas que estaba causando este software malicioso iban en aumento, s
+e tuvo que emitir una nueva. Se trata de la alerta 20200901-001 del 1 de septiembre.
+En la alerta de
+ mayo, se advirtió a las empresas y particulares que el descifrador de ProLock no funciona correctam
+ente. El problema está en las víctimas podrían perder sus datos, ya que, en el caso de los archivos 
+que ocupen más de 64 MB podrían dañarse durante el proceso de descifrado.
+El aumento de la actividad
+ y eficacia de Prolock se debió a su asociación con el troyano bancario QakBot como ya hemos comenta
+do anteriormente. En ese sentido, una vez que nuestro equipo ha sido infectado con este ransomware n
+os saldrá una pantalla como esta.
+
+Aquí se puede observar cómo se ha producido un robo de datos por 
+el ransomware ProLock y nos piden un rescate por recuperar nuestros datos.
+Prolock puede pedir resca
+tes con cantidades altas
+Los cibercriminales amenazan con utilizar los datos robados como palanca pa
+ra persuadir a las organizaciones víctimas de que paguen rescates. Estos pueden oscilar entre 150.00
+0 € y también hasta más de 500.000 €. El precio dependerá según el tamaño de la red comprometida. Ac
+tualmente, ProLock, ha cifrado con éxito las redes de organizaciones de todo el mundo de múltiples s
+ectores industriales, de la salud, la construcción, las finanzas y el legal, además de agencias gube
+rnamentales.
+Los datos robados los almacenaban y guardaban en la nube
+El robo de datos por el ransom
+ware ProLock se realiza utilizando varios vectores de ataque para violar los sistemas de sus víctima
+s como:
+
+Los correos electrónicos de phishing con archivos adjuntos maliciosos de QakBot.
+La utiliza
+ción de credenciales robadas.
+La explotación de fallos de seguridad en la configuración del sistema.
+
+
+Un dato a destacar es que descubrieron que estos delincuentes archivaban y almacenaban los datos r
+obados en plataformas de almacenamiento en la nube, como OneDrive, Google Drive y Mega. Esto lo hací
+an con la ayuda de la herramienta en línea de comandos de sincronización de almacenamiento en la nub
+e Rclone .
+Cómo actuar ante Prolock y prevenirlo
+Desde instituciones como el FBI y otras agencias de
+ seguridad se recomienda a los afectados por los ataques del ransomware ProLock a no ceder a las dem
+andas de los cibercriminales pagando los rescates. La razón para no hacerlo es que el pago anima a b
+uscar nuevas víctimas y también a financiar futuros actos ilegales. Esta es la nota de rescate de lo
+s atacantes explicando en un documento de qué debemos hacer para pagar ese rescate.
+
+Cómo podéis obs
+ervar para hacer el pago y mantener su anonimato piden que se realice utilizando el navegador Tor.
+P
+or último, para evitar el robo de datos por el ransomware ProLock, desde RedesZone recomendamos el u
+so de sentido común no descargando archivos maliciosos, contar con herramientas de seguridad y tener
+ instalados los últimos parches y actualizaciones de nuestro software.
+
+
+4AC5DDE2
+
+Lo que me faltaba
+ ver este año. Ransomware.
+
+4AC5DDE2
+
+Nuestros ingenieros especializados te apoyan a  identificar e 
+integrar los controles y políticas de seguridad necesarias para proteger los equipos de cómputo de t
+u organización, detectando, gestionando y eliminando software malicioso que puede afectar la operaci
+ón. ¿Como lo hacemos?Gestión de la consola Instalación y administración de EndpointAplicación y defi
+nición de las políticas de seguridad 
+
+4AC5DDE2
+
+Sodinokibi, también conocido como Revil o Sodin, es
+ un tipo de ransomware exclusivo para entidades comerciales, financieras o gubernamentales. La difer
+encia con otros ransomware es que las víctimas no son usuarios finales elegidos al azar https://bit.
+ly/3mgaLxD
+
+4AC5DDE2
+
+Nuestros ingenieros especializados te apoyan a  identificar e integrar los con
+troles  de seguridad  para proteger los equipos de cómputo de tu empresa
+https://antar.com.mx/Bitdef
+ender-Mexico/…
+infodc@antar.com.mx
+#Antimalware #BitdefenderInternetSecurity #SeguridadEnLaNube #Ant
+ivirus #Ransomware
+
+4AC5DDE2
+
+No te pierdas nuestro próximo webinar por http://twitch.tv/gcybersec !
+!! 24 de Sep, 16:00hrs #ciberseguridad #Ransomware
+
+4AC5DDE2
+
+Cuíden su información de los ataques i
+nformáticos.
+
+#consejosDeSeguridad #malware #ransomware #virus #ciberseguridad #consejos #informatic
+a #seguridad #tecnologia #felizLunes
+
+4AC5DDE2
+
+Ya se supo cual fue el Ransomware?
+
+4AC5DDE2
+
+#14sep
+|#Cryptos
+Nuevo grupo suizo fomentará empresas #Blockchain
+41% de reclamos a seguros cibernéticos se
+ deben a ataques #ransomware
+#HongKong Inicia campaña educadora sobre #Bitcoin
+Hombre fue condenado 
+por robo de dinero destinado a la compra de #BTC en #Singapur
+
+4AC5DDE2
+
+Conserva tus dispositivos s
+eguros evitando medios digitales sospechosos. Navega y conéctate con seguridad en http://gtc.com.gt,
+ GTC App y Banca Electrónica. 
+
+Si sospechas que has sido víctima de ransomware comunícate al PBX 17
+18.
+
+#TeQueremosBien
+
+4AC5DDE2
+
+Telcel le acaba de instalar ransomware a mi celular.
+
+Nunca más comp
+raré celulares con ellos.
+
+4AC5DDE2
+
+Nueva alerta por el robo de datos del ransomware ProLock

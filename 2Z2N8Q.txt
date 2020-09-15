@@ -1,0 +1,295 @@
+Nuestros ingenieros especializados te apoyan a  identificar e integrar los controles y políticas de 
+seguridad necesarias para proteger los equipos de cómputo de tu organización, detectando, gestionand
+o y eliminando software malicioso que puede afectar la operación. ¿Como lo hacemos?Gestión de la con
+sola Instalación y administración de EndpointAplicación y definición de las políticas de seguridad 
+
+
+4AC5DDE2
+
+#14sep|#Cryptos
+Nuevo grupo suizo fomentará empresas #Blockchain
+41% de reclamos a seguro
+s cibernéticos se deben a ataques #ransomware
+#HongKong Inicia campaña educadora sobre #Bitcoin
+Homb
+re fue condenado por robo de dinero destinado a la compra de #BTC en #Singapur
+
+4AC5DDE2
+
+Telcel le 
+acaba de instalar ransomware a mi celular.
+
+Nunca más compraré celulares con ellos.
+
+4AC5DDE2
+
+Nueva
+ alerta por el robo de datos del ransomware ProLock
+
+4AC5DDE2
+
+Cuíden su información de los ataques 
+informáticos.
+
+#consejosDeSeguridad #malware #ransomware #virus #ciberseguridad #consejos #informati
+ca #seguridad #tecnologia #felizLunes
+
+4AC5DDE2
+
+Conserva tus dispositivos seguros evitando medios d
+igitales sospechosos. Navega y conéctate con seguridad en http://gtc.com.gt, GTC App y Banca Electró
+nica. 
+
+Si sospechas que has sido víctima de ransomware comunícate al PBX 1718.
+
+#TeQueremosBien
+
+4A
+C5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+    Los mejores beneficios Conoce los beneficios de tus Tarjetas de Crédito y Déb
+ito G&T Continental.      Solicita uncrédito en línea Proyecta y analiza tus opciones de financiamie
+nto e inversión.      Descubre tu cuenta Conoce la cuenta de ahorro que se adapta más a tu estilo de
+ vida.     
+
+
+
+
+
+
+
+       Le damos crédito a tus planes  Préstamo personal que te permite disponer d
+e dinero en efectivo de una manera fácil y rápida.     			Más info    		        Simplifica tu vida
+  Realiza pagos, gestiones y solicitudes de manera fácil y rápida en la nueva GTCApp.     			Más in
+fo    		        Hasta 55 días sin recargo  Descúbre la tarjeta de crédito que se adapta a ti y tu e
+stilo de vida.     			Más info    		  
+
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+ FACILITA TU VIDA    GTCApp
+      Ahorra o NuncaApp      Banca Electrónica   
+
+
+
+
+
+
+
+ NUESTRA COMUNIDAD            ¡Facilita tu 
+vida! Recuerda que puedes pagar el impuesto de circulación desde donde te encuentres.               
+Disfruta este día #TipsEnFamilia               #CIAMinMotion ¡Pon tu vida en movimiento!            
+ 
+
+
+
+
+
+4AC5DDE2
+
+Nuestros ingenieros especializados te apoyan a  identificar e integrar los controle
+s  de seguridad  para proteger los equipos de cómputo de tu empresa
+https://antar.com.mx/Bitdefender
+-Mexico/…
+infodc@antar.com.mx
+#Antimalware #BitdefenderInternetSecurity #SeguridadEnLaNube #Antiviru
+s #Ransomware
+
+4AC5DDE2
+
+Lo que me faltaba ver este año. Ransomware.
+
+4AC5DDE2
+
+Breve historia sobre
+ Prolock
+ProLock apareció por primera vez en el año 2019 y es uno más, de los muchos ransomware que,
+ por desgracia, circulan por Internet. El objetivo principal de esta amenaza consiste en cifrar los 
+archivos de las víctimas. A continuación, los ciberdelincuentes van a pedir un rescate para que pued
+an acceder de nuevo a los datos.
+
+Una cosa que diferencia a ProLock de otros ransomware es que se as
+oció con el troyano QakBot. Gracias a este troyano le permite evitar ser detectado, hacer uso de alg
+unas técnicas añadidas y también la eliminación de credenciales.
+En ese sentido, QakBot es un troyan
+o que en ocasiones ha utilizado el malware Emotet en sus campañas. Su forma de distribución es a tra
+vés del correo electrónico mediante ataques de Phishing. En esos e-mails incluyen archivos Word mali
+ciosos como archivos adjuntos. Para que sea efectivo, la víctima tendría que realizar dos acciones: 
+una sería descargar ese archivo que recibe por e-mail, y la otra sería habilitar las macros.
+De esta
+ forma, ProLock mediante el uso de QakBot se aprovecha para utilizar brechas existentes. De esta for
+ma puede lograr ataques más concretos y también tener más éxito. Simplemente enviando un correo a lo
+s destinatarios que quiera el ciberdelincuente puede ser un buen punto de partida.
+Alertas sobre el 
+robo de datos por el ransomware ProLock
+El 4 mayo de 2020, el FBI emitió una alerta flash MI-000125-
+MW sobre el peligro que entrañaba el robo de datos por el ransomware ProLock. No obstante, debido a 
+que los problemas que estaba causando este software malicioso iban en aumento, se tuvo que emitir un
+a nueva. Se trata de la alerta 20200901-001 del 1 de septiembre.
+En la alerta de mayo, se advirtió a
+ las empresas y particulares que el descifrador de ProLock no funciona correctamente. El problema es
+tá en las víctimas podrían perder sus datos, ya que, en el caso de los archivos que ocupen más de 64
+ MB podrían dañarse durante el proceso de descifrado.
+El aumento de la actividad y eficacia de Prolo
+ck se debió a su asociación con el troyano bancario QakBot como ya hemos comentado anteriormente. En
+ ese sentido, una vez que nuestro equipo ha sido infectado con este ransomware nos saldrá una pantal
+la como esta.
+
+Aquí se puede observar cómo se ha producido un robo de datos por el ransomware ProLoc
+k y nos piden un rescate por recuperar nuestros datos.
+Prolock puede pedir rescates con cantidades a
+ltas
+Los cibercriminales amenazan con utilizar los datos robados como palanca para persuadir a las o
+rganizaciones víctimas de que paguen rescates. Estos pueden oscilar entre 150.000 € y también hasta 
+más de 500.000 €. El precio dependerá según el tamaño de la red comprometida. Actualmente, ProLock, 
+ha cifrado con éxito las redes de organizaciones de todo el mundo de múltiples sectores industriales
+, de la salud, la construcción, las finanzas y el legal, además de agencias gubernamentales.
+Los dat
+os robados los almacenaban y guardaban en la nube
+El robo de datos por el ransomware ProLock se real
+iza utilizando varios vectores de ataque para violar los sistemas de sus víctimas como:
+
+Los correos
+ electrónicos de phishing con archivos adjuntos maliciosos de QakBot.
+La utilización de credenciales
+ robadas.
+La explotación de fallos de seguridad en la configuración del sistema.
+
+Un dato a destacar
+ es que descubrieron que estos delincuentes archivaban y almacenaban los datos robados en plataforma
+s de almacenamiento en la nube, como OneDrive, Google Drive y Mega. Esto lo hacían con la ayuda de l
+a herramienta en línea de comandos de sincronización de almacenamiento en la nube Rclone .
+Cómo actu
+ar ante Prolock y prevenirlo
+Desde instituciones como el FBI y otras agencias de seguridad se recomi
+enda a los afectados por los ataques del ransomware ProLock a no ceder a las demandas de los cibercr
+iminales pagando los rescates. La razón para no hacerlo es que el pago anima a buscar nuevas víctima
+s y también a financiar futuros actos ilegales. Esta es la nota de rescate de los atacantes explican
+do en un documento de qué debemos hacer para pagar ese rescate.
+
+Cómo podéis observar para hacer el 
+pago y mantener su anonimato piden que se realice utilizando el navegador Tor.
+Por último, para evit
+ar el robo de datos por el ransomware ProLock, desde RedesZone recomendamos el uso de sentido común 
+no descargando archivos maliciosos, contar con herramientas de seguridad y tener instalados los últi
+mos parches y actualizaciones de nuestro software.
+
+
+4AC5DDE2
+
+
+12.02.18
+IMAGENES TEMATICAS DE BANCO
+S
+LOGO BANCO ESTADO, EDIFICIOS AV. ANDRES BELLO (SANHATAN)
+FOTOS:SEBASTIAN BROGCA/LA TERCERA
+
+
+
+🔊 Re
+producir
+
+
+Dmitry Bestuzhev, director del Equipo Global de Investigación y Análisis, Kaspersky Améri
+ca Latina:
+Sodinokibi, también conocido como Revil o Sodin, es un tipo de ransomware exclusivo para 
+entidades comerciales, financieras o gubernamentales. La diferencia con otros ransomware es que las 
+víctimas no son usuarios finales elegidos al azar, sino que compañías escogidas minuciosamente, y re
+quiere de un largo trabajo por parte de ciberdelincuentes especializados, que puede tomar semanas o 
+meses.
+Este es uno de los grupos más temibles, porque ha tenido mucho éxito a nivel mundial y los re
+scates que se solicitan son de millones de dólares. Los delincuentes piden primero una suma por no d
+ivulgar la información conseguida y si la víctima no accede, esa suma va aumentando. Es un chantaje 
+que puede terminar por decapitar a la víctima desde el punto de vista informático. Al final si es qu
+e la víctima resiste, su información se subasta para el mejor postor y si no, termina expuesta en el
+ Internet.
+No es primera vez que Chile es atacado ni está en la mira de los cibercriminales. Esto vi
+ene ocurriendo desde hace un tiempo porque el país tiene una estabilidad económica que atrae a los d
+elincuentes. Por ello, no hay razón para pensar que esto se detendrá. Por el contrario, irá aumentan
+do, y si las instituciones continúan con las mismas técnicas de defensa utilizadas hasta ahora, las 
+cosas no van a mejorar. Sin embargo, hay pocas razones para rendirse, ya que la protección contra el
+ ransomware es posible mediante medidas de seguridad factibles. Es necesario desplegar nuevas estrat
+egias de ciberseguridad para prevenir futuros ataques de este tipo.
+ 
+Para ayudar a las empresas a m
+antenerse protegidas contra el ransomware, Kaspersky recomienda que las organizaciones tomen las sig
+uientes medidas:
+
+Explique a los empleados cómo el seguir reglas simples puede ayudar a una empresa 
+a evitar incidentes de ransomware. Los cursos de capacitación dedicados pueden ayudar, así como los 
+que se proporcionan en la Kaspersky Automated Security Awareness Platform.
+Tenga siempre copias de s
+eguridad recientes de sus archivos para que pueda reemplazarlos en caso de que se pierdan (por ejemp
+lo, debido a malware o un dispositivo dañado) y almacénelos no solo en el dispositivo físico, sino t
+ambién en la nube para una mayor fiabilidad. Asegúrese de poder acceder rápidamente a ellos en caso 
+de emergencia cuando sea necesario.
+Implemente soluciones de detección de fugas de información.
+Real
+ice trabajos del Threat Hunting de una forma permanente.
+Monitoree el tráfico de salida de red, porq
+ue así podrá detectar fugas de información que son previas al despliegue del ransomware que cifra lo
+s datos.
+Mantenga su centro de operaciones de seguridad (SOC, por sus siglas en inglés) trabajando 2
+4/7 con los mejores feeds de seguridad.
+Implemente búsquedas y detecciones de los ataques por medio 
+de las reglas Yara.
+Es esencial instalar todas las actualizaciones de seguridad tan pronto como esté
+n disponibles. Actualice siempre su sistema operativo y software para eliminar vulnerabilidades reci
+entes.
+Pruebe la herramienta gratuita Kaspersky Anti-Ransomware Tool for Business. La versión recien
+temente actualizada contiene una función de prevención de exploits para evitar que el ransomware y o
+tras amenazas se aprovechen de vulnerabilidades en el software y las aplicaciones. También es útil p
+ara los clientes que aun usan Windows 7, pues al finalizar la asistencia a este sistema operativo, e
+l desarrollador ya no ofrece parches para nuevas vulnerabilidades.
+Si un dispositivo corporativo ha 
+sido cifrado, recuerde que el ransomware es un delito penal. No debe pagar el rescate exigido. Si se
+ convierte en una víctima, infórmelo a su agencia local de cumplimiento de la ley. Trate de encontra
+r un descifrador en Internet; algunos de ellos están disponibles de forma gratuita aquí:https://nora
+nsom.kaspersky.com/es/
+
+
+
+
+ 
+
+
+
+
+
+4AC5DDE2
+
+Ya se supo cual fue el Ransomware?
+
+4AC5DDE2
+
+Sodinokibi
+, también conocido como Revil o Sodin, es un tipo de ransomware exclusivo para entidades comerciales
+, financieras o gubernamentales. La diferencia con otros ransomware es que las víctimas no son usuar
+ios finales elegidos al azar https://bit.ly/3mgaLxD
+
+4AC5DDE2
+
+No te pierdas nuestro próximo webinar
+ por http://twitch.tv/gcybersec !!! 24 de Sep, 16:00hrs #ciberseguridad #Ransomware

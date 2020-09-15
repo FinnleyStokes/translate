@@ -1,0 +1,163 @@
+
+Ensiko: um Webshell com recursos de ransomware
+Este artigo discute o Ensiko, um webshell PHP com re
+cursos de ransomware voltado para várias plataformas, como Linux, Windows ou macOS, com PHP instalad
+o. Ele pode controlar remotamente um sistema e aceitar comandos para serem executados na máquina inf
+ectada.
+Ensiko é um webshell PHP com recursos de ransomware voltado para várias plataformas, tais co
+mo Linux, Windows, macOS ou qualquer outra plataforma que tenha PHP instalado. O malware tem a capac
+idade de controlar remotamente o sistema e aceitar comandos para realizar atividades maliciosas na m
+áquina infectada.
+Ele também pode executar comandos shell em um sistema infectado e enviar os result
+ados de volta ao invasor através de um shell reverso de PHP. É capaz de verificar servidores quanto 
+à presença de outros webshells, desfigurar sites, enviar e-mails em massa, baixar arquivos remotos, 
+divulgar informações sobre o servidor afetado, ataques de força bruta contra protocolo de transferên
+cia de arquivos (FTP), cPanel e Telnet, sobrescrever arquivos com extensões especificadas e muito ma
+is.
+Detalhes técnicos
+Autenticação Webshell
+O malware pode ser protegido por senha. Para autenticaçã
+o, o malware exibe uma página “Não encontrado” contendo um formulário de login oculto, conforme vist
+o nas próximas duas figuras:
+
+Figura 1. Página “Não encontrado” e formulário de login oculto
+
+Figura
+ 2. Código PHP para autenticação de senha
+A senha para este exemplo é “RaBiitch”, enquanto a figura 
+a seguir mostra o tráfego de rede capturado para uma solicitação de autenticação para o painel de we
+bshell:
+
+Figura 3. Tráfego de rede capturado
+ 
+Recursos Webshell
+A seguir está uma lista dos recurso
+s do Ensiko:
+  
+ 
+
+Figura 5. Lista de códigos de recursos do Ensiko
+ 
+Análise de Ransomware
+O malwar
+e usa PHP RIJNDAEL_128 com modo CBC para criptografar arquivos em um diretório de webshell e subdire
+tórios e anexa nomes de arquivos com a extensão “.bak”. O seguinte snippet de código demonstra esse 
+comportamento do malware:
+
+Figura 6. Código mostrando o comportamento de criptografia
+
+Figura 7. Cód
+igo de criptografia e descriptografia
+
+Figura 8. Parte do Webshell com chave de ransomware
+
+Figura 9
+. Registro de arquivos sendo criptografados
+
+Figura 10. Arquivos criptografados no diretório
+
+Figura
+ 11. Solicitação POST para o servidor afetado
+O malware também descarta um arquivo index.php e o def
+ine como a página padrão usando um arquivo .htaccess; o invasor também é notificado dessa ação por e
+-mail. O seguinte snippet de código mostra esse comportamento:
+
+Figura 12. Snippet de código para a 
+página .htaccess descartada
+
+Figura 13. A notificação que aparece quando index.php é acessado
+
+Figur
+a 14. Aparência da página index.php
+
+Figura 15. Forma codificada de index.php
+
+Figura 16. Aparência 
+decodificada de index.php
+ 
+Conjunto de Ferramentas
+Para realizar mais tarefas em um sistema infecta
+do, o malware pode carregar várias ferramentas adicionais em um sistema assim. A maioria dessas ferr
+amentas é carregada do Pastebin. O malware cria um diretório chamado tools_ensikology para armazená-
+las.
+
+Figura 17. Ferramentas carregadas do Pastebin
+ 
+Steganologer
+Existe uma técnica na qual um age
+nte malicioso oculta o código dentro dos cabeçalhos do formato de arquivo de imagem (EXIF) de um arq
+uivo de imagem e usa uma função PHP chamada exif_read_data para extrair e executar esse código em um
+ servidor afetado. A função steganologer identifica imagens com cabeçalhos EXIF e os rotula como um 
+registrador. Na captura de tela a seguir, test1.jpg e test2.jpg têm cabeçalhos EXIF com código ocult
+o e são identificados.
+
+Figura 18. Arquivos com código oculto
+
+Figura 19. Código para identificar ar
+quivos com código executável oculto
+
+ 
+Varredura de backdoor 
+Uma varredura backdoor verifica um det
+erminado host remoto para a existência de um webshell de uma lista codificada.
+
+
+Figuras 20 e 21. Có
+digo para encontrar outros webshells no servidor afetado
+ 
+Varredura de servidor remoto
+Como uma var
+redura de backdoor, a função de varredura do servidor remoto verifica o servidor remoto quanto à pre
+sença de outros webshells. No entanto, ao invés de usar uma lista codificada, ele aceita a entrada m
+anual de arquivos a serem pesquisados:
+
+
+Figuras 22 e 23. Interface e código para verificação de out
+ros webshells
+ 
+Mass Overwrite
+A função Mass Overwrite pode reescrever/anexar o conteúdo de todos os
+ arquivos com extensões e diretórios especificados, incluindo todos os subdiretórios de um webshell
+
+
+
+Figuras 24 e 25. Interface do usuário e código para sobrescrever arquivos.
+ 
+Conclusão
+Ensiko é um
+ webshell usado por um invasor que permite a administração remota, criptografia de arquivos e muitos
+ outros recursos em um servidor da web comprometido. Um método comum para implantar o webshell é exp
+lorar vulnerabilidades de aplicações da web ou * obter acesso a um servidor já comprometido. Além di
+sso, o Ensiko tem capacidade de ransomware para criptografar arquivos em um servidor da web infectad
+o usando o algoritmo de criptografia RIJNDAEL. Também é capaz de verificar servidores quanto à prese
+nça de outros webshells, desfigurar sites, enviar e-mails em massa, baixar arquivos remotos, divulga
+r informações sobre o servidor afetado, obter acesso a bancos de dados, executar ataques de força br
+uta contra protocolo de transferência de arquivos (FTP) , cPanel e Telnet, sobrescrevendo arquivos c
+om extensões especificadas e muito mais.
+ 
+Indicadores de compromisso
+
+ 
+
+ 
+
+4AC5DDE2
+
+Avast Free An
+tivírus vem agora com o Módulo Ransomware que mantém protegidos seus documentos/PDF.
+
+Cibercriminoso
+s não mais poderão bloquear o acesso ao PC ou sequestrar seus arquivos e cobrar um resgate! Atualize
+ e ganhe esta camada extra de segurança https://ava.st/3j83ltS
+
+4AC5DDE2
+
+O NOVO #Veeam Availability
+ Suite v10 oferece proteção de dados moderna para NAS, proteção contra ransomware aprimorada e nosso
+ mecanismo de recuperação instantânea da PRÓXIMA GERAÇÃO. Explore todos os recursos desta novo #v10 
+>> http://stwb.co/zrrphzl
+
+4AC5DDE2
+
+Veja como o webshell #Ensiko vem sendo usado para controlar rem
+otamente servidores, ataques de #ransomware, exfiltração de dados e mais.

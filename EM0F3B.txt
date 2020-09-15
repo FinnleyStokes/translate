@@ -1,0 +1,118 @@
+
+Le spécialiste de la colocation de datacenters pour les entreprises Equinix a été victime d'une cyb
+erattaque. Un ransomware identifié comme étant Netwalker a été détecté sur les systèmes internes du 
+groupe et une rançon de 4,5 millions d'euros qui pourra doubler est demandée par les cyberpirates. L
+es datacenters Equinix en France sont au nombre de 8 comprenant l'IBX PA4 localisé à Pantin à Paris.
+ (crédit : Equinix)
+
+Equinix a été touché en plein coeur. L'une des principales sociétés dans le dom
+aine de la colocation de datacenters a été victime d'une cyberattaque, et une fois n'est pas coutume
+ il s'agit encore d'un rançongiciel. « Equinix enquête actuellement sur un incident de sécurité que 
+nous avons détecté et qui implique un ransomware sur certains de nos systèmes internes », a confirmé
+ la société dans un communiqué. « Nos équipes ont pris des mesures immédiates et décisives pour réso
+udre l'incident, ont notifié les forces de l'ordre et continuent d'enquêter ».
+D'après le fournisseu
+r, ses datacenters, offres de services incluant les services managés, sont pleinement opérationnels 
+et ses capacités de support n'ont pas été impactés. « Notez que la plupart des clients exploitant le
+ur propre équipement au sein des centres de données Equinix, cet incident n'a eu aucun impact sur le
+urs opérations ni sur les données de leur équipement chez Equinix », explique en outre la société.
+U
+ne rançon qui pourrait doubler à 9 M$
+Le ransomware qui affecte Equinix serait ni plus ni moins Netw
+alker, qui s'était récemment illustré en France de sinistre mémoire chez MMA ou encore Rabot Dutille
+ul. Une rançon de 4,5 millions de dollars aurait été demandée, soit 455 bitcoins, afin d'éviter la f
+uite et la vente des données volées dont on ne connait pas le volume. Ce montant devrait a priori do
+ubler si Equinix ne paye pas dans des délais impartis qui n'ont pas été précisés. 
+Peu d'information
+s ont filtré sur les systèmes informatiques impactés par cette cyberattaque. D'après le chercheur en
+ sécurité Vitali Kremez de SentinelLabs, des identifiants de 74 serveurs RDP Equinix sont actuelleme
+nt en vente sur des places de marché du darknet. La plupart de ses serveurs sont localisés en Austra
+lie, Turquie et Brésil, pouvant laisser penser que ces sites géographiques d'Equinix ont en particul
+ier été frappés par cette cyberattaque.
+Contacté pour des précisions sur cette cyberattaque, Equinix
+ n'a pas encore répondu à nos questions. 
+Une erreur dans l'article? Proposez-nous une correction 
+
+
+
+
+
+Article rédigé par
+Dominique Filippone Chef des actualités LMI 
+
+
+
+Cet article vous a plu? Partag
+ez le !
+
+
+
+
+
+
+
+
+
+
+
+Newsletter LMI
+Recevez notre newsletter comme plus de 50000 abonnés
+
+
+
+OK
+
+
+
+
+
+
+
+
+
+Commentaire 
+
+
+
+
+
+
+
+
+							Commenter cet article en tant que 
+							visiteur ou connectez-vous 
+
+
+
+
+Renseignez votre email pour être prévenu d'un nouveau commentaire
+Pour tout savoir sur la manière 
+dont nous traitons vos données personnelles, consultez notre Charte de Confidentialité.
+
+
+
+Le code H
+TML est interdit dans les commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+4,5M€ de rançon pour Equinix frappé par
+ un ransomware,
+et qui pourraient monter à 9M€ si le leader des data centers ne paye dans les temps 
+impartis.
+
+4AC5DDE2
+
+Télécharge emisoft ransomware decryptor, regarde l'extension des fichier (nom d
+u virus) et télécharge le decryptor qui convient

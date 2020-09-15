@@ -1,0 +1,515 @@
+
+Un reporte de la aseguradora Coalition  indicó que un 41% de todas las recomendaciones de seguros c
+ibernéticos en el primer semestre del presente año están relacionadas con el secuestro de datos a a 
+través de ataques rasonware, siendo frecuentes  en ciudades como Estados Unidos y Canadá.
+Este infor
+me de la empresa Colaition destacó que en el primer trimestre del 2020 se apreció un incremento del 
+47% en la cantidad de dinero exigido por hackers, como rescate de informaciones secuestradas.  Entre
+ enero y marzo el promedio de rescate  fue de 230.000 dólares por ciberataque, mientras que entre ab
+ril y junio la cifra subió a 338.000 dólares.
+La empresa aseguradora, reveló  un listado de programa
+s maliciosos utilizados por los hackers y también identificó los más usados para exigir mayores cant
+idades de dinero, como los son: el malware Maze, con el que piden en promedio 420.000 por ataque; Ry
+uk (USD 282.000), Netwalker (USD 176.000), Zepplin (132.000), DoppelPaymer (USD 130.000), Dharma (US
+D 81.000) y Sodinokibi (USD 73.000).
+Coalition también informó que los nuevos modus operandi de los 
+hackers, donde roban primero los datos antes de ser encriptados, como forma para amenazar a las empr
+esas de hacer pública la información y pedir el rescate.
+«El ransomware no discrimina por industria.
+ Hemos visto un aumento de los ataques con rescates en casi todas las industrias a las que servimos 
+(…) También hemos visto un fuerte aumento en las demandas de rescate durante el último trimestre, co
+mo amenazas que los actores han explotado por el COVID-19 y los cambios en los procedimientos operat
+ivos de las empresas», añadió el reporte.
+
+
+
+4AC5DDE2
+
+No te pierdas nuestro próximo webinar por htt
+p://twitch.tv/gcybersec !!! 24 de Sep, 16:00hrs #ciberseguridad #Ransomware
+
+4AC5DDE2
+
+Nueva alerta 
+por el robo de datos del ransomware ProLock
+
+4AC5DDE2
+
+Lo que me faltaba ver este año. Ransomware.
+
+
+4AC5DDE2
+
+Fabricante de chips Semiconductor paga rescate de 250 mil dólares; ransomware cifra sus si
+stemas y cierra sus plantas
+
+4AC5DDE2
+
+
+12.02.18
+IMAGENES TEMATICAS DE BANCOS
+LOGO BANCO ESTADO, EDI
+FICIOS AV. ANDRES BELLO (SANHATAN)
+FOTOS:SEBASTIAN BROGCA/LA TERCERA
+
+
+
+🔊 Reproducir
+
+
+Dmitry Bestuz
+hev, director del Equipo Global de Investigación y Análisis, Kaspersky América Latina:
+Sodinokibi, t
+ambién conocido como Revil o Sodin, es un tipo de ransomware exclusivo para entidades comerciales, f
+inancieras o gubernamentales. La diferencia con otros ransomware es que las víctimas no son usuarios
+ finales elegidos al azar, sino que compañías escogidas minuciosamente, y requiere de un largo traba
+jo por parte de ciberdelincuentes especializados, que puede tomar semanas o meses.
+Este es uno de lo
+s grupos más temibles, porque ha tenido mucho éxito a nivel mundial y los rescates que se solicitan 
+son de millones de dólares. Los delincuentes piden primero una suma por no divulgar la información c
+onseguida y si la víctima no accede, esa suma va aumentando. Es un chantaje que puede terminar por d
+ecapitar a la víctima desde el punto de vista informático. Al final si es que la víctima resiste, su
+ información se subasta para el mejor postor y si no, termina expuesta en el Internet.
+No es primera
+ vez que Chile es atacado ni está en la mira de los cibercriminales. Esto viene ocurriendo desde hac
+e un tiempo porque el país tiene una estabilidad económica que atrae a los delincuentes. Por ello, n
+o hay razón para pensar que esto se detendrá. Por el contrario, irá aumentando, y si las institucion
+es continúan con las mismas técnicas de defensa utilizadas hasta ahora, las cosas no van a mejorar. 
+Sin embargo, hay pocas razones para rendirse, ya que la protección contra el ransomware es posible m
+ediante medidas de seguridad factibles. Es necesario desplegar nuevas estrategias de ciberseguridad 
+para prevenir futuros ataques de este tipo.
+ 
+Para ayudar a las empresas a mantenerse protegidas con
+tra el ransomware, Kaspersky recomienda que las organizaciones tomen las siguientes medidas:
+
+Expliq
+ue a los empleados cómo el seguir reglas simples puede ayudar a una empresa a evitar incidentes de r
+ansomware. Los cursos de capacitación dedicados pueden ayudar, así como los que se proporcionan en l
+a Kaspersky Automated Security Awareness Platform.
+Tenga siempre copias de seguridad recientes de su
+s archivos para que pueda reemplazarlos en caso de que se pierdan (por ejemplo, debido a malware o u
+n dispositivo dañado) y almacénelos no solo en el dispositivo físico, sino también en la nube para u
+na mayor fiabilidad. Asegúrese de poder acceder rápidamente a ellos en caso de emergencia cuando sea
+ necesario.
+Implemente soluciones de detección de fugas de información.
+Realice trabajos del Threat 
+Hunting de una forma permanente.
+Monitoree el tráfico de salida de red, porque así podrá detectar fu
+gas de información que son previas al despliegue del ransomware que cifra los datos.
+Mantenga su cen
+tro de operaciones de seguridad (SOC, por sus siglas en inglés) trabajando 24/7 con los mejores feed
+s de seguridad.
+Implemente búsquedas y detecciones de los ataques por medio de las reglas Yara.
+Es e
+sencial instalar todas las actualizaciones de seguridad tan pronto como estén disponibles. Actualice
+ siempre su sistema operativo y software para eliminar vulnerabilidades recientes.
+Pruebe la herrami
+enta gratuita Kaspersky Anti-Ransomware Tool for Business. La versión recientemente actualizada cont
+iene una función de prevención de exploits para evitar que el ransomware y otras amenazas se aprovec
+hen de vulnerabilidades en el software y las aplicaciones. También es útil para los clientes que aun
+ usan Windows 7, pues al finalizar la asistencia a este sistema operativo, el desarrollador ya no of
+rece parches para nuevas vulnerabilidades.
+Si un dispositivo corporativo ha sido cifrado, recuerde q
+ue el ransomware es un delito penal. No debe pagar el rescate exigido. Si se convierte en una víctim
+a, infórmelo a su agencia local de cumplimiento de la ley. Trate de encontrar un descifrador en Inte
+rnet; algunos de ellos están disponibles de forma gratuita aquí:https://noransom.kaspersky.com/es/
+
+
+
+
+
+ 
+
+
+
+
+
+4AC5DDE2
+
+Conserva tus dispositivos seguros evitando medios digitales sospechosos. Navega 
+y conéctate con seguridad en http://gtc.com.gt, GTC App y Banca Electrónica. 
+
+Si sospechas que has 
+sido víctima de ransomware comunícate al PBX 1718.
+
+#TeQueremosBien
+
+4AC5DDE2
+
+Los investigadores pr
+incipiantes a menudo se preguntan qué herramientas y técnicas utilizar para investigar computadoras 
+y dispositivos móviles comprometidos.  
+Lea el artículo https://bit.ly/35B5D0Y #DFIR #digitalforensi
+cs #cybersecurity #ransomware #DFIRwebinar #cyberthreat
+
+4AC5DDE2
+
+Ya se supo cual fue el Ransomware
+?
+
+4AC5DDE2
+
+
+Share this...FacebookTwitterLinkedinPinterestemailReddit
+Otra gran compañía tecnológic
+a se ha sumado a la larga lista de organizaciones afectadas por infecciones de ransomware. Especiali
+stas de un curso de pentesting reportan que la firma israelí Tower Semiconductor, dedicada a la fabr
+icación de sensores de cámaras y chips inalámbricos, sufrió un ataque de malware de cifrado, por lo 
+que deberán pagar a los hackers cientos de miles de dólares para recuperar el acceso a sus servidore
+s. 
+La información fue compartida con la plataforma de noticias Calcalist por una fuente cercana a l
+a compañía que ha solicitado anonimato. El informante asegura que Tower cuenta con una póliza de seg
+uro que cubre esta clase de incidentes, factor determinante en la decisión de la compañía de pagar e
+l rescate. Hace unos meses se reportó que Tower y Sapiens, una firma de software, pagaron alrededor 
+de 250 mil dólares en criptomoneda para restablecer sus servicios, afectados por un incidente simila
+r. 
+
+
+
+Instalaciones de Tower Semiconductor. FUENTE: Calcalist
+Los directivos de Tower Semiconductor
+ decidieron reportar el incidente ante la Autoridad de Valores de Israel, que recomendó el cierre de
+ algunos servidores y la interrupción de alunas actividades de manufactura en sus instalaciones como
+ medida de seguridad, mencionan especialistas del curso de pentesting.
+La interrupción en su proceso
+ de manufactura podría tener severas consecuencias para la compañía, sin mencionar los problemas med
+iáticos que estos incidentes suelen generar: “Las pérdidas por cerrar los sistemas de producción por
+ este imprevisto podrían alcanzar  los millones de dólares, dependiendo del tiempo que tome restable
+cerlos”, menciona el informante.
+
+
+
+No se ha determinado el método por el que los hackers accedieron
+ a las redes de la compañía, aunque los investigadores creen que el modelo de trabajo a distancia po
+dría haber contribuido al ingreso del malware.
+Los ataques de ransomware no son algo desconocido par
+a las organizaciones en Israel. Un reciente reporte de la firma local de ciberseguridad Skybox Secur
+ity asegura que, en el primer semestre de 2020, se registró un incremento de cerca del 72% de ataque
+s de ransomware respecto al mismo periodo del año anterior. Para finales de 2020, los expertos prevé
+n que se registren unos 20 mil ataques de ransomware en Israel, mencionan los especialistas del curs
+o de pentesting.
+
+
+
+Pagar o no a los operadores de ransomware sigue siendo un tema polémico, pues au
+nque es la opción más rápida para recuperarse de estos ataques, muchos creen que esto es poco recome
+ndable: “Usualmente le pedimos a las víctimas que no negocien con los hackers, menciona Yossi Rachma
+n, director de seguridad de Cybereason. Las agencias del cumplimiento de la ley tampoco recomiendan 
+pagar el rescate, aunque la decisión corresponde a las víctimas.
+  
+
+
+
+
+
+ 
+
+
+                ATRAPA
+ A LOS HACKERS DESPLEGANDO UN HONEYPOT EN SU RED            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                CUALQUIER
+A PUEDE HACKEAR UNA CUENTA DE WHATSAPP CON ESTOS CINCO TRUCOS            
+
+
+
+ 
+
+
+
+
+ 
+
+
+            
+    ESTABLECER UN LÍMITE EN EL ANCHO DE BANDA (CARGA Y DESCARGA) DE CUALQUIER DISPOSITIVO CONECTADO 
+EN LAN            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                TRANSFERIR CUALQUIER DATO CONFIDENCIAL MEDIANTE EL 
+SONIDO USANDO DEEPSOUND            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                CÓMO HACKEAR EL WHATSAPP DE UN AMI
+GO CON SÓLO UN ENLACE            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                FORMAS RÁPIDAS DE OCULTAR EL USUARIO
+, UNIDAD, ARCHIVOS, CARPETAS Y DATOS EN SISTEMAS WINDOWS            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                H
+ERRAMIENTA PARA ROMPER CONTRASEÑAS LINUX – TODO EN MENOS DE UN MINUTO            
+
+
+
+ 
+
+
+
+
+
+
+Alisa E
+sage GTrabajando como arquitecto de soluciones de ciberseguridad, Alisa se enfoca en la protección d
+e datos y la seguridad de datos empresariales. Antes de unirse a nosotros, ocupó varios puestos de i
+nvestigador de ciberseguridad dentro de una variedad de empresas de seguridad cibernética. También t
+iene experiencia en diferentes industrias como finanzas, salud médica y reconocimiento facial.
+Envía
+ tips de noticias a info@noticiasseguridad.com o WhatsApp +525525766324.
+También puedes encontrarnos
+ en Telegram www.t.me/noticiasciberseguridad
+
+
+4AC5DDE2
+
+#14sep| El 41% de los reclamos a seguros ci
+bernéticos se deben a ataques ransomware, según un informe de @SolveCyberRisk
+
+Por @martinjosegf
+
+4A
+C5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+    Los mejores beneficios Conoce los beneficios de tus Tarjetas de Crédito y Déb
+ito G&T Continental.      Solicita uncrédito en línea Proyecta y analiza tus opciones de financiamie
+nto e inversión.      Descubre tu cuenta Conoce la cuenta de ahorro que se adapta más a tu estilo de
+ vida.     
+
+
+
+
+
+
+
+       Le damos crédito a tus planes  Préstamo personal que te permite disponer d
+e dinero en efectivo de una manera fácil y rápida.     			Más info    		        Simplifica tu vida
+  Realiza pagos, gestiones y solicitudes de manera fácil y rápida en la nueva GTCApp.     			Más in
+fo    		        Hasta 55 días sin recargo  Descúbre la tarjeta de crédito que se adapta a ti y tu e
+stilo de vida.     			Más info    		  
+
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+ FACILITA TU VIDA    GTCApp
+      Ahorra o NuncaApp      Banca Electrónica   
+
+
+
+
+
+
+
+ NUESTRA COMUNIDAD            ¡Facilita tu 
+vida! Recuerda que puedes pagar el impuesto de circulación desde donde te encuentres.               
+Disfruta este día #TipsEnFamilia               #CIAMinMotion ¡Pon tu vida en movimiento!            
+ 
+
+
+
+
+
+4AC5DDE2
+
+- Yo, hace un mes cuando nos cayó el ransomware.
+
+4AC5DDE2
+
+Sodinokibi, también con
+ocido como Revil o Sodin, es un tipo de ransomware exclusivo para entidades comerciales, financieras
+ o gubernamentales. La diferencia con otros ransomware es que las víctimas no son usuarios finales e
+legidos al azar https://bit.ly/3mgaLxD
+
+4AC5DDE2
+
+Telcel le acaba de instalar ransomware a mi celula
+r.
+
+Nunca más compraré celulares con ellos.
+
+4AC5DDE2
+
+Breve historia sobre Prolock
+ProLock apareció
+ por primera vez en el año 2019 y es uno más, de los muchos ransomware que, por desgracia, circulan 
+por Internet. El objetivo principal de esta amenaza consiste en cifrar los archivos de las víctimas.
+ A continuación, los ciberdelincuentes van a pedir un rescate para que puedan acceder de nuevo a los
+ datos.
+
+Una cosa que diferencia a ProLock de otros ransomware es que se asoció con el troyano QakBo
+t. Gracias a este troyano le permite evitar ser detectado, hacer uso de algunas técnicas añadidas y 
+también la eliminación de credenciales.
+En ese sentido, QakBot es un troyano que en ocasiones ha uti
+lizado el malware Emotet en sus campañas. Su forma de distribución es a través del correo electrónic
+o mediante ataques de Phishing. En esos e-mails incluyen archivos Word maliciosos como archivos adju
+ntos. Para que sea efectivo, la víctima tendría que realizar dos acciones: una sería descargar ese a
+rchivo que recibe por e-mail, y la otra sería habilitar las macros.
+De esta forma, ProLock mediante 
+el uso de QakBot se aprovecha para utilizar brechas existentes. De esta forma puede lograr ataques m
+ás concretos y también tener más éxito. Simplemente enviando un correo a los destinatarios que quier
+a el ciberdelincuente puede ser un buen punto de partida.
+Alertas sobre el robo de datos por el rans
+omware ProLock
+El 4 mayo de 2020, el FBI emitió una alerta flash MI-000125-MW sobre el peligro que e
+ntrañaba el robo de datos por el ransomware ProLock. No obstante, debido a que los problemas que est
+aba causando este software malicioso iban en aumento, se tuvo que emitir una nueva. Se trata de la a
+lerta 20200901-001 del 1 de septiembre.
+En la alerta de mayo, se advirtió a las empresas y particula
+res que el descifrador de ProLock no funciona correctamente. El problema está en las víctimas podría
+n perder sus datos, ya que, en el caso de los archivos que ocupen más de 64 MB podrían dañarse duran
+te el proceso de descifrado.
+El aumento de la actividad y eficacia de Prolock se debió a su asociaci
+ón con el troyano bancario QakBot como ya hemos comentado anteriormente. En ese sentido, una vez que
+ nuestro equipo ha sido infectado con este ransomware nos saldrá una pantalla como esta.
+
+Aquí se pu
+ede observar cómo se ha producido un robo de datos por el ransomware ProLock y nos piden un rescate 
+por recuperar nuestros datos.
+Prolock puede pedir rescates con cantidades altas
+Los cibercriminales 
+amenazan con utilizar los datos robados como palanca para persuadir a las organizaciones víctimas de
+ que paguen rescates. Estos pueden oscilar entre 150.000 € y también hasta más de 500.000 €. El prec
+io dependerá según el tamaño de la red comprometida. Actualmente, ProLock, ha cifrado con éxito las 
+redes de organizaciones de todo el mundo de múltiples sectores industriales, de la salud, la constru
+cción, las finanzas y el legal, además de agencias gubernamentales.
+Los datos robados los almacenaba
+n y guardaban en la nube
+El robo de datos por el ransomware ProLock se realiza utilizando varios vec
+tores de ataque para violar los sistemas de sus víctimas como:
+
+Los correos electrónicos de phishing
+ con archivos adjuntos maliciosos de QakBot.
+La utilización de credenciales robadas.
+La explotación 
+de fallos de seguridad en la configuración del sistema.
+
+Un dato a destacar es que descubrieron que 
+estos delincuentes archivaban y almacenaban los datos robados en plataformas de almacenamiento en la
+ nube, como OneDrive, Google Drive y Mega. Esto lo hacían con la ayuda de la herramienta en línea de
+ comandos de sincronización de almacenamiento en la nube Rclone .
+Cómo actuar ante Prolock y preveni
+rlo
+Desde instituciones como el FBI y otras agencias de seguridad se recomienda a los afectados por 
+los ataques del ransomware ProLock a no ceder a las demandas de los cibercriminales pagando los resc
+ates. La razón para no hacerlo es que el pago anima a buscar nuevas víctimas y también a financiar f
+uturos actos ilegales. Esta es la nota de rescate de los atacantes explicando en un documento de qué
+ debemos hacer para pagar ese rescate.
+
+Cómo podéis observar para hacer el pago y mantener su anonim
+ato piden que se realice utilizando el navegador Tor.
+Por último, para evitar el robo de datos por e
+l ransomware ProLock, desde RedesZone recomendamos el uso de sentido común no descargando archivos m
+aliciosos, contar con herramientas de seguridad y tener instalados los últimos parches y actualizaci
+ones de nuestro software.
+
+
+4AC5DDE2
+
+Nuestros ingenieros especializados te apoyan a  identificar e 
+integrar los controles y políticas de seguridad necesarias para proteger los equipos de cómputo de t
+u organización, detectando, gestionando y eliminando software malicioso que puede afectar la operaci
+ón. ¿Como lo hacemos?Gestión de la consola Instalación y administración de EndpointAplicación y defi
+nición de las políticas de seguridad 
+
+4AC5DDE2
+
+Cuíden su información de los ataques informáticos.
+
+
+#consejosDeSeguridad #malware #ransomware #virus #ciberseguridad #consejos #informatica #seguridad 
+#tecnologia #felizLunes
+
+4AC5DDE2
+
+#14sep|#Cryptos
+Nuevo grupo suizo fomentará empresas #Blockchain
+
+41% de reclamos a seguros cibernéticos se deben a ataques #ransomware
+#HongKong Inicia campaña educa
+dora sobre #Bitcoin
+Hombre fue condenado por robo de dinero destinado a la compra de #BTC en #Singap
+ur
+
+4AC5DDE2
+
+Nuestros ingenieros especializados te apoyan a  identificar e integrar los controles  
+de seguridad  para proteger los equipos de cómputo de tu empresa
+https://antar.com.mx/Bitdefender-Me
+xico/…
+infodc@antar.com.mx
+#Antimalware #BitdefenderInternetSecurity #SeguridadEnLaNube #Antivirus #
+Ransomware
+
+4AC5DDE2
+
+
+Para garantizar los resultados de las elecciones federales del pasado 13 de s
+eptiembre, Rusia implementó su sistema de voto electrónico basado en...

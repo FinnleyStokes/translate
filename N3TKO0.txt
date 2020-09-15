@@ -1,0 +1,389 @@
+Ransomware : les confirmations de l’ampleur de la menace se multiplient
+
+4AC5DDE2
+
+Slamet rassek jai
+ vue que cetais un ransomware
+
+4AC5DDE2
+
+Merci beaucoup ! Ça m’a toujours intéressé, c’est incroyabl
+e ce truc, le ransomware !
+
+4AC5DDE2
+
+4,5M€ de rançon pour Equinix frappé par un ransomware,
+et qui 
+pourraient monter à 9M€ si le leader des data centers ne paye dans les temps impartis.
+
+4AC5DDE2
+
+Té
+lécharge emisoft ransomware decryptor, regarde l'extension des fichier (nom du virus) et télécharge 
+le decryptor qui convient
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacte
+ur en chef
+
+
+
+	Publié le: 14 sept. 2020
+
+
+ 
+Les groupes de cyberdélinquants aux commandes de ransomw
+ares continuent d’égrainer leurs noms de victimes. Ce week-end, Equinix, Bisnode et Interway – notam
+ment – sont ainsi venus grossir les rangs de ceux qui apparaissent résister à l’extorsion.
+Suite de 
+l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Ransomware : La menace se fait plus 
+ciblée
+Nul RSSI n'ignore la présence de ransomware, mais beaucoup sous-estiment leur côté pernicieux
+ et à quel point ces derniers peuvent être ciblés. Ce guide vous présente ce danger ainsi que les me
+sures pour s'en préserver.
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'i
+ndiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré
+. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d
+’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget
+, ainsi que la politique de confidentialité et le transfert de mes informations aux États-Unis pour 
+traitement afin de me fournir les informations pertinentes décrites dans notre Politique de confiden
+tialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soi
+ent traitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais du téléphon
+e ou du courrier électronique et ce à propos d’informations pertinentes dans mon contexte profession
+nel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus tôt cette année, Beazley et Hiscox présentaient des regards contras
+tés sur une situation préoccupante. Publié début avril dernier, le Beazley Breach Briefing 2020 a fa
+it état d’une augmentation de 131 % des attaques signalées contre les clients de l’assureur l’an der
+nier. Et pour celui-ci, c’était une véritable explosion : en 2018 et 2017, il n’avait enregistré qu’
+une progression de 20 % et 9 %, respectivement, pour ce type de cyberattaque. Et pour ne rien gâcher
+, « les sommes demandées par les cyberdélinquants ont également augmenté de manière exponentielle, l
+es demandes à sept ou huit chiffres n’étant pas inhabituelles ».
+De son côté, Hiscox, dans son rappo
+rt annuel sur la gestion des cyber risques, indiquait que 18 % des entreprises françaises ayant été 
+ainsi attaquées ont versé une rançon. Sur l’ensemble de l’échantillon considéré, au-delà de la seule
+ France, donc, « les pertes étaient presque trois fois plus importantes pour les entreprises ayant s
+ubi une attaque via un ransomware, par rapport à celle ayant subi un [simple] malware », soit 821 00
+0 € contre 436 000 €… et cela que la rançon ait été payée ou non.
+Tout récemment, l’Américain Coalit
+ion a publié son rapport sur les demandes d’indemnisation au premier semestre, basé sur « 25 000 inc
+idents rapportés par 25 000 PME que sert [l’assureur] aux États-Unis et au Canada ». Et les signaux 
+ne sont pas plus rassurants. Au second trimestre, il fait ainsi état d’une « progression de 47 % de 
+la sévérité des attaques par ransomware, en plus d’une progression de 100 % au premier trimestre, d’
+une année sur l’autre ». Au total, les cyberattaques par rançongiciel comptent pour rien que 41 % de
+s demandes d’indemnisation.
+Selon Coalition, le montant moyen des rançons demandées s’établit à 420 
+000 $ pour Maze, 282 590 $ pour Ryuk, 176 190 $ pour Netwalker, mais encore 132 573 $ pour Zepplin, 
+130 694 $ pour DoppelPaymer, 81 825 $ pour Dharma, et enfin un peu moins de 74 000 $ pour Sodinokibi
+. Et encore, on rappellera que notre enquête sur les négociations a montré l’importance de l’éventai
+l des rançons demandées, mais également que les menaces de divulgation de données ne représentent qu
+e moins d’un tiers des cas.
+Les chiffres de Bitdefender sur la menace au premier semestre soulignent
+ cette tendance. Selon eux, les familles de ransomware les plus actives en juin étaient ainsi Crypt0
+l0cker, Locky, Locky_diablo6, et Zepto. Pour l’éditeur, le nombre de notifications d’incidents de ra
+nçongiciels a été multiplié par 7 au premier semestre, par rapport à la même période en 2019.
+Tout r
+écemment, l’Agence nationale pour la sécurité des systèmes d’information (Anssi) a indiqué avoir tra
+ité, depuis le début de l’année, 104 attaques de ransomwares, contre 54 sur 2019 dans son ensemble. 
+De son côté, le directeur général du GIP Acyma, Jérôme Notin, fait état de 1 082 signalements de ran
+somware 7 mois après le lancement de la plateforme, avec 44 % d’entreprises ou d’associations et 10 
+% d’administrations ou collectivités. Las, plusieurs éléments convergent pour laisser à penser que l
+a vague est loin d’être passée.
+Et les raisons de s’attendre à une fin d’année difficile sur ce fron
+t sont nombreuses, dont l’intense reprise d’activité du très dangereux Emotet, qu’il n’est pas rare 
+de voir utilisé en préalable au déploiement d’un rançongiciel.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Rapport
+ Thales 2020 sur les menaces informatiques
+–Thales
+
+
+Cyber-adversaires et course contre la montre
+–C
+rowdStrike
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Ransomware : regards contrastés d’ass
+ureurs sur une situation préoccupante
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : les assaillants pour
+suivent leurs activités agressivement
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : ceux qui font le plu
+s parler d’eux ne sont pas les plus dangereux
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : au-delà de l
+’impression, les chiffres confirment un retour en fanfare
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+4AC5DDE2
+
+
+
+Le spécialiste de la colocation de datacenters pour les entreprises Equinix a été victime d'une cyb
+erattaque. Un ransomware identifié comme étant Netwalker a été détecté sur les systèmes internes du 
+groupe et une rançon de 4,5 millions d'euros qui pourra doubler est demandée par les cyberpirates. L
+es datacenters Equinix en France sont au nombre de 8 comprenant l'IBX PA4 localisé à Pantin à Paris.
+ (crédit : Equinix)
+
+Equinix a été touché en plein coeur. L'une des principales sociétés dans le dom
+aine de la colocation de datacenters a été victime d'une cyberattaque, et une fois n'est pas coutume
+ il s'agit encore d'un rançongiciel. « Equinix enquête actuellement sur un incident de sécurité que 
+nous avons détecté et qui implique un ransomware sur certains de nos systèmes internes », a confirmé
+ la société dans un communiqué. « Nos équipes ont pris des mesures immédiates et décisives pour réso
+udre l'incident, ont notifié les forces de l'ordre et continuent d'enquêter ».
+D'après le fournisseu
+r, ses datacenters, offres de services incluant les services managés, sont pleinement opérationnels 
+et ses capacités de support n'ont pas été impactés. « Notez que la plupart des clients exploitant le
+ur propre équipement au sein des centres de données Equinix, cet incident n'a eu aucun impact sur le
+urs opérations ni sur les données de leur équipement chez Equinix », explique en outre la société.
+U
+ne rançon qui pourrait doubler à 9 M$
+Le ransomware qui affecte Equinix serait ni plus ni moins Netw
+alker, qui s'était récemment illustré en France de sinistre mémoire chez MMA ou encore Rabot Dutille
+ul. Une rançon de 4,5 millions de dollars aurait été demandée, soit 455 bitcoins, afin d'éviter la f
+uite et la vente des données volées dont on ne connait pas le volume. Ce montant devrait a priori do
+ubler si Equinix ne paye pas dans des délais impartis qui n'ont pas été précisés. 
+Peu d'information
+s ont filtré sur les systèmes informatiques impactés par cette cyberattaque. D'après le chercheur en
+ sécurité Vitali Kremez de SentinelLabs, des identifiants de 74 serveurs RDP Equinix sont actuelleme
+nt en vente sur des places de marché du darknet. La plupart de ses serveurs sont localisés en Austra
+lie, Turquie et Brésil, pouvant laisser penser que ces sites géographiques d'Equinix ont en particul
+ier été frappés par cette cyberattaque.
+Contacté pour des précisions sur cette cyberattaque, Equinix
+ n'a pas encore répondu à nos questions. 
+Une erreur dans l'article? Proposez-nous une correction 
+
+
+
+
+
+Article rédigé par
+Dominique Filippone Chef des actualités LMI 
+
+
+
+Cet article vous a plu? Partag
+ez le !
+
+
+
+
+
+
+
+
+
+
+
+Newsletter LMI
+Recevez notre newsletter comme plus de 50000 abonnés
+
+
+
+OK
+
+
+
+
+
+
+
+
+
+Commentaire 
+
+
+
+
+
+
+
+
+							Commenter cet article en tant que 
+							visiteur ou connectez-vous 
+
+
+
+
+Renseignez votre email pour être prévenu d'un nouveau commentaire
+Pour tout savoir sur la manière 
+dont nous traitons vos données personnelles, consultez notre Charte de Confidentialité.
+
+
+
+Le code H
+TML est interdit dans les commentaires
+
+
+
+
+
+
+
+
+
+

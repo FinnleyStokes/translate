@@ -1,0 +1,77 @@
+Backup nicht vergessen an einem anderen isolierten Ort, dann kann einem Ransomware egal sein.
+
+4AC5D
+DE2
+
+
+Mit dem anhaltenden Ausfall des IT-Systems am Düsseldorfer Uniklinikum nach einem mutmaßlichen
+ Hackerangriff wächst die Zahl der betroffenen Patienten von Tag zu Tag. Statt normalerweise etwa 10
+00 Patienten in einer stationären Behandlung seien es durch die üblichen Entlassungen inzwischen nur
+ noch etwa 550, sagte ein Kliniksprecher am Dienstag der dpa.
+
+
+
+Die Zahl der Operationen am Uniklin
+ikum Düsseldorf sei von normalerweise zwischen 70 und 120 pro Tag deutlich auf nur noch 10 bis maxim
+al 15 gesunken. Der Sprecher appellierte, dass Patienten außerhalb des Klinikums zunächst einmal Kon
+takt aufnehmen und ihren Termin klären sollen. Die einzelnen Geräte wie zum Beispiel das Röntgen fun
+ktionierten, es könnten allerdings keine Daten oder Untersuchungsergebnisse in das IT-Netz eingespei
+st und bearbeitet werden.
+Normalbetrieb nicht möglich
+"Ein Normalbetrieb ist weiterhin nicht möglich
+", schilderte der Sprecher. Nach dem seit Donnerstag aufgetretenen IT-Ausfall sei inzwischen ein kle
+ines Computersystem ohne weitreichende Vernetzung aufgebaut worden, mit dem zumindest Patientendaten
+ erfasst werden könnten. "Das ist ein Schritt besser, als mit dem Stift auf einem Zettel zu arbeiten
+." In erster Linie gehe es um die Patienten, der IT-Ausfall habe mit den vielen Absagen aber auch wi
+rtschaftliche Folgen für die Uniklinik.
+
+
+Das IT-System des Universitätsklinikums war am Donnerstag 
+gegen 3.00 Uhr nachts ausgefallen. Bereits seit Tagen steuern Rettungswagen die große Einrichtung in
+ der nordrhein-westfälischen Landeshauptstadt nicht mehr an, sondern fahren zu anderen Krankenhäuser
+n. Am Universitätsklinikum Düsseldorf werden nach früheren Angaben jährlich über 50.000 Patienten st
+ationär versorgt und etwa 300.000 Patienten im Jahr ambulant behandelt. Gemessen an der Bettenzahl i
+st es das siebtgrößte Klinikum in NRW.
+"Tatverdacht der Computersabotage"
+Unterdessen gehen die Ermi
+ttlungen zu dem mutmaßlichen Hackerangriff unter Beteiligung von Experten weiter. "Wir haben den Tat
+verdacht der Computersabotage", bekräftigte Staatsanwalt Christoph Hebbecker von der Zentralstelle f
+ür Cybercrime in Köln. Das Ermittlungsverfahren werde gegen unbekannt geführt. Details will die Zent
+ralstelle des Landes NRW aus ermittlungstaktischen Gründen aber nicht nennen.
+
+Auch das Bundesamt fü
+r Sicherheit in der Informationstechnik (BSI) ist in den Fall des Uniklinikums Düsseldorf (UKD) eing
+ebunden, das mit seiner Größe zur sogenannten kritischen Infrastruktur zählt. "Das BSI wurde zeitnah
+ vom UKD informiert", sagte eine BSI-Sprecherin.
+
+
+(axk)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+      
+Kommentare lesen
+      (102)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+4AC5DDE2
+
+Was macht der
+ vermutliche Ransomware-Befall an der Uniklinik Düsseldorf? Keine Besserung in Sicht für den IT Pati
+enten - mit schlimmen Auswirkungen auf den Krankenhausbetrieb

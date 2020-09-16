@@ -1,0 +1,628 @@
+
+Silencioso e inteligente, el ransomware es una amenaza que no pasa de moda. Se moderniza gracias a 
+una ingeniería social que permite que sus ataques no sean al azar, sino más bien, estudiados y con u
+n fin claro: secuestrar datos e información para obtener dinero.
+En la mayoría de sus acciones, cuen
+tan con facultades que les permiten ocultar robos, información o simplemente, borrar evidencia. Si b
+ien es cierto que suelen ir variando en métodos y formas, el fin siempre es el mismo: atacar al sect
+or empresarial.
+Para hacerse una idea, a través de un ransomware se puede paralizar la operación de 
+una empresa por tres-cuatro días o hasta semanas, con grandes pérdidas: sin facturar, poder emitir ó
+rdenes de compra, acceso a correos y, en el peor de los casos, perder información de años si no se c
+uenta con un buen programa de backups y recuperación de desastres.
+Ahora bien, imaginen este mismo e
+scenario en industrias de infraestructura crítica o servicios de salud tales como clínicas o redes a
+sistenciales donde, además del secuestro de datos (que nadie garantiza su recuperación o comercializ
+ación), el efecto mismo puede atentar contra la vida de ciudadanos.
+La vulnerabilidad de las compañí
+as obedece, entre otros factores, al nulo control adecuado de las actualizaciones y/o parches de su 
+infraestructura crítica. Además de la falta de protección y mantenimiento de sus sistemas. Si observ
+amos los ataques que han ocurrido, muchas de las empresas no estaban parchadas.
+De hecho, algunas or
+ganizaciones que han tenido este tipo de vulnerabilidades, han optado por informar a sus colaborador
+es colocando avisos en las oficinas: “Mantente seguro y sano: no pinches cualquier link y lávate las
+ manos”. Y no es al azar, es parte de la educación que deben tener las compañías con sus colaborador
+es. La seguridad parte en casa.
+¿Cómo ataca un ransomware?
+Con características de gusano por su capa
+cidad de replicación, el ransomware puede buscar dentro de la red computadores que estén accesibles 
+para poder infectar. Su principal objetivo es cifrar datos, bloquear archivos, y dejar sin acceso a 
+ellos. En palabras simples, secuestra los datos y para recuperarlos pide un pago a través de la mone
+da digital bitcoins.
+Los vectores de ataque pueden variar, pero usualmente eligen funcionar mediante
+ correo electrónico. También, se puede dar el caso que esté disponible en internet a través de Torre
+nt como algún crack de algún software que esté de moda o algún juego.
+Un ejemplo de esto es WannaCry
+, ransomware que afectó, entre ellos, a Telefónica y dejó inutilizada casi toda la compañía en Españ
+a y otros países. O sea, se replicó a nivel mundial en una misma compañía. Asimismo, el ransomware S
+nake vulneró los sistemas de control de la marca automotriz Honda, impactando de forma directa en su
+ red, teniendo que detener su funcionamiento.
+¿El ransomware descansa en pandemia?
+El COVID-19 trajo
+ consigo muchos desafíos, entre ellos la complejidad a la que se enfrentaron muchas compañías al env
+iar a sus colaboradores a operar desde sus hogares. Sin embargo, no se priorizaron ni los controles 
+ni la seguridad desde donde accedían, sino que los esfuerzos se destinaron solo a la conectividad.La
+s brechas de seguridad aumentan cuando pasas de un espacio de trabajo seguro como es la oficina, den
+tro de una estructura de seguridad, hacia una casa sin medidas ni protecciones. Algunas empresas con
+servaron controles a través de infraestructura por VPN.
+Lo cierto es que el trabajo remoto y poco co
+ntrol de lo que hacen los usuarios en casa, crea una contingencia de amenazas ransomware. Algunas or
+ganizaciones están aplicando e invirtiendo en programas de respaldo de información, y controlando la
+s herramientas de colaboración.
+Otra solución que está tomando fuerza es el Security Access Service 
+Edge (SASE), que implica focalizar un punto de control de algún sector de la nube que permita extend
+er los controles de seguridad a otros dispositivos. Es decir, ya no se necesita estar en un ambiente
+ empresarial para tener mayor y mejores controles, sino que solo basta con conectarse a un punto foc
+al en la nube y se recupera el control.
+En el mercado existen soluciones que contraatacan a este vir
+us, y crean copias de seguridad digitales para evitar el secuestro de información y así evitar el pa
+go de millones de dólares en rescate.
+Aunque existen empresas que optan por no pagar y recrean todo 
+nuevamente, es importante comenzar a implementar seguridad en las infraestructuras críticas de las o
+rganizaciones para evitar secuestros o vulneraciones a los sistemas.
+El poder de ramificación y cont
+aminación que tienen el ransomware es muy potente. Por ende, requiere medidas y controles que permit
+an asegurar lo más importante de las empresas: los datos.
+
+Etiquetas: ColumnaDeInterésEnemigoOpinión
+Ransomware
+
+
+4AC5DDE2
+
+El costo promedio global de un #ciberataque es de USD 3,6 millones. ¡Auch! Pe
+ro no se preocupe, podemos ayudar a proteger su negocio. Revise este eBook de #Microsoft para identi
+ficar las tres amenazas más comunes: virus, phishing y ransomware.
+
+4AC5DDE2
+
+A todos nuestros segui
+dores de EMEA!
+
+Acompáñenos seminario web exclusivo  KELA analiza un nivel específico d actores cibe
+rdelincuentes involucrados ransomware  
+30 de septiembre de 2020, 11 am .
+
+¡https://lnkd.in/ewwZyuW 
+#webinar #ransomware #supplychain #cyberthreatintelligence
+
+4AC5DDE2
+
+Mientras tanto en el #blackmar
+ket...
+Cuentas de correo comprometidas 
+
+Universidades de Chile las más afectadas, sería prudente re
+alizar un cambio obligatorio de password's. 
+#cracked #smtp #bruteforce #phishing #malware #ransomwa
+re #ingenieriasocial
+
+4AC5DDE2
+
+Pasapalabra #CIBERSEGURIDAD 
+
+Con la M:
+
+todo tipo de amenazas infor
+máticas o software hostil. Existen distintos tipos en función de su origen y consecuencias. Entre el
+los: virus, gusanos, troyanos, keyloggers, botnets, spyware, adware, ransomware.....
+#MALWARE
+
+4AC5D
+DE2
+
+José Luis Gutiérrez, arquitecto de soluciones de ciberseguridad en @CoasinLogicalis, escribe so
+bre 
+Ransomware, un enemigo invisible que no descansa @ElPeriodista
+
+4AC5DDE2
+
+Ransomware: un enemig
+o invisible que no descansa (Por José Luis Gutiérrez, arquitecto de soluciones de ciberseguridad en 
+CoasinLogicalis) https://bit.ly/2ZGeVFr #Opinión #Columna #Ransomware #Enemigo #DeInterés
+
+4AC5DDE2
+
+
+El secuestro (y pérdida) de información es una de las principales amenazas que enfrentan usuarios y
+ empresas. Aprende aquí cómo protegerte del nefasto ransomware.
+#ProtegeTuNegocio #IndustriaTICRespo
+nsable
+
+4AC5DDE2
+
+¿Atacado por ransomware? Cinco pasos para la recuperación
+
+4AC5DDE2
+
+Ofrecemos un 
+conjunto completo de servicios que protegerán su infraestructura y la continuidad de su empresa.
+
+Si
+ deseas obtener mayor información, ingresa en nuestra página web:
+
+http://measuredsecurity.cl
+#ciber
+ataque #segurity #spam #ransomware #measuredsecurity #phishing
+
+4AC5DDE2
+
+Ransomware: un enemigo inv
+isible que no descansa @ElPeriodista
+
+4AC5DDE2
+
+
+
+
+
+
+
+Here is the information that you are requestin
+g: 
+
+Proteja su negocio: reconozca las tres principales amenazas de seguridad, más una que quizás no
+ conozca
+   Este informe brinda información detallada sobre cómo proteger los datos de sus clientes 
+ante virus, phishing y ransomware, además de una amenaza de seguridad común que puede haber pasado p
+or alto.  
+
+El costo promedio global de un ciberataque es de USD 3,6 millones. Sin embargo, la con
+ciencia es el primer paso en materia de seguridad y prevención. Revise este eBook y contáctese con n
+uestro equipo para obtener más información sobre cómo defender a su empresa contra los ciberataques.
+
+ 
+
+
+
+Where Should We Send This Information?
+Thank you for requesting this information. Please enter
+ your name and email address below so that we know where to send it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+First Na
+me
+
+
+
+Last Name
+
+
+
+Company
+
+
+
+Phone
+
+
+
+
+        
+                
+        Would you like to receive 
+more information like this in the future? By joining our mailing list we can keep you updated. You c
+an easily unsubscribe at any time by clicking the opt-out link at the bottom of our emails.
+        
+
+
+ Yes 
+         No 
+                
+                
+                
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The
+ following will be shared on your 
+
+
+
+
+
+
+
+Send this Message to Linkedin: 
+
+
+Your Message does not in
+clude the necessary link (%link%).Please modify your message.
+
+Say Something About This...
+Las amena
+zas de seguridad tienen muchas formas. Puede que conozca los tres tipos más comunes de ciberataques 
+(virus, phishing y ransomware), pero ¿conoce las amenazas de seguridad internas que enfrenta su empr
+esa? 
+
+La conciencia es el primer paso en materia de seguridad y prevención. Si no está seguro de 
+cómo proteger a su empresa de los ciberataques, podemos ayudarlo. Revise este eBook y llámenos para 
+comenzar.
+
+
+
+
+
+
+
+Send this Tweet to Twitter...
+
+
+Your Tweet cannot exceed 280 characters.Please modi
+fy your message.
+Your Tweet does not include the necessary link (%link%).Please modify your message.
+
+
+Say Something About This...
+El costo promedio global de un #ciberataque es de USD 3,6 millones. ¡A
+uch! Pero no se preocupe, podemos ayudar a proteger su negocio. Revise este eBook de #Microsoft para
+ identificar las tres amenazas más comunes: virus, phishing y ransomware. /nt=1
+
+
+
+
+
+
+
+
+Send an emai
+l...
+
+
+You may enter up to 5 email addresses. Please adjust your recipient list.
+Please fill in all 
+information below.
+One of your recipients is not a valid email address.
+Please enter a valid from ad
+dress.
+
+
+
+To ( List up to five email addresses here, separated by commas.)
+
+
+
+From Name
+
+
+
+From Addr
+ess
+
+
+
+Subject
+
+
+
+
+Your Introduction
+
+
+
+                                                            
+                            Este informe brinda información detallada sobre cómo proteger los datos 
+de sus clientes ante virus, phishing y ransomware, además de una amenaza de seguridad común que pued
+e haber pasado por alto.  
+
+El costo promedio global de un ciberataque es de USD 3,6 millones. Sin
+ embargo, la conciencia es el primer paso en materia de seguridad y prevención. Revise este eBook y 
+contáctese con nuestro equipo para obtener más información sobre cómo defender a su empresa contra l
+os ciberataques.
+                                                        /nt=3
+
+
+
+Please retry the f
+orm protection process below.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+Share using a link...
+
+                   
+ Use the link below to copy into your own email or any of your social networks:
+/nt=0
+
+
+
+
+
+
+        
+    Great! Thanks for sharing!
+        
+
+            Great! Thanks for emailing to your friends!
+   
+     
+
+
+
+
+
+
+Copyright © 2020 Social Business Hub Inc | 												Powered by ContentMX
+
+
+Privacy Po
+licy
+                  
+				
+            
+
+
+
+
+4AC5DDE2
+
+Lamentablemente, estamos en el mejor país
+ para el ransomware debido al pensamiento mayoritario  "cortoplacista". "Spain, that candy"
+
+És difí
+cil invertir "por si..." porque se entiende que es un gasto, no inversion.
+
+4AC5DDE2
+
+
+
+
+
+
+
+Silencio
+so e inteligente, el ransomware es una amenaza que no pasa de moda. Se moderniza gracias a una ingen
+iería social que permite que sus ataques no sean al azar, sino más bien, estudiados y con un fin cla
+ro: secuestrar datos e información para obtener dinero.
+En la mayoría de sus acciones, cuentan con f
+acultades que les permiten ocultar robos, información o simplemente, borrar evidencia. Si bien es ci
+erto que suelen ir variando en métodos y formas, el fin siempre es el mismo: atacar al sector empres
+arial.
+Para hacerse una idea, a través de un ransomware se puede paralizar la operación de una empre
+sa por tres-cuatro días o hasta semanas, con grandes pérdidas: sin facturar, poder emitir órdenes de
+ compra, acceso a correos y, en el peor de los casos, perder información de años si no se cuenta con
+ un buen programa de backups y recuperación de desastres.
+
+Ahora bien, imaginen este mismo escenario
+ en industrias de infraestructura crítica o servicios de salud tales como clínicas o redes asistenci
+ales donde, además del secuestro de datos (que nadie garantiza su recuperación o comercialización), 
+el efecto mismo puede atentar contra la vida de ciudadanos.
+La vulnerabilidad de las compañías obede
+ce, entre otros factores, al nulo control adecuado de las actualizaciones y/o parches de su infraest
+ructura crítica. Además de la falta de protección y mantenimiento de sus sistemas. Si observamos los
+ ataques que han ocurrido, muchas de las empresas no estaban parchadas.
+De hecho, algunas organizaci
+ones que han tenido este tipo de vulnerabilidades, han optado por informar a sus colaboradores coloc
+ando avisos en las oficinas: “Mantente seguro y sano: no pinches cualquier link y lávate las manos”.
+ Y no es al azar, es parte de la educación que deben tener las compañías con sus colaboradores. La s
+eguridad parte en casa.
+
+¿Cómo ataca un ransomware?
+Con características de gusano por su capacidad d
+e replicación, el ransomware puede buscar dentro de la red computadores que estén accesibles para po
+der infectar. Su principal objetivo es cifrar datos, bloquear archivos, y dejar sin acceso a ellos. 
+En palabras simples, secuestra los datos y para recuperarlos pide un pago a través de la moneda digi
+tal bitcoins.
+Los vectores de ataque pueden variar, pero usualmente eligen funcionar mediante correo
+ electrónico. También, se puede dar el caso que esté disponible en internet a través de Torrent como
+ algún crack de algún software que esté de moda o algún juego.
+Un ejemplo de esto es WannaCry, ranso
+mware que afectó, entre ellos, a Telefónica y dejó inutilizada casi toda la compañía en España y otr
+os países. O sea, se replicó a nivel mundial en una misma compañía. Asimismo, el ransomware Snake vu
+lneró los sistemas de control de la marca automotriz Honda, impactando de forma directa en su red, t
+eniendo que detener su funcionamiento.
+
+¿El ransomware descansa en pandemia?
+El COVID-19 trajo consi
+go muchos desafíos, entre ellos la complejidad a la que se enfrentaron muchas compañías al enviar a 
+sus colaboradores a operar desde sus hogares. Sin embargo, no se priorizaron ni los controles ni la 
+seguridad desde donde accedían, sino que los esfuerzos se destinaron solo a la conectividad.
+Las bre
+chas de seguridad aumentan cuando pasas de un espacio de trabajo seguro como es la oficina, dentro d
+e una estructura de seguridad, hacia una casa sin medidas ni protecciones. Algunas empresas conserva
+ron controles a través de infraestructura por VPN.
+Lo cierto es que el trabajo remoto y poco control
+ de lo que hacen los usuarios en casa, crea una contingencia de amenazas ransomware. Algunas organiz
+aciones están aplicando e invirtiendo en programas de respaldo de información, y controlando las her
+ramientas de colaboración.
+
+Otra solución que está tomando fuerza es el Security Access Service Edge
+ (SASE), que implica focalizar un punto de control de algún sector de la nube que permita extender l
+os controles de seguridad a otros dispositivos. Es decir, ya no se necesita estar en un ambiente emp
+resarial para tener mayor y mejores controles, sino que solo basta con conectarse a un punto focal e
+n la nube y se recupera el control.
+En el mercado existen soluciones que contraatacan a este virus, 
+y crean copias de seguridad digitales para evitar el secuestro de información y así evitar el pago d
+e millones de dólares en rescate.
+Aunque existen empresas que optan por no pagar y recrean todo nuev
+amente, es importante comenzar a implementar seguridad en las infraestructuras críticas de las organ
+izaciones para evitar secuestros o vulneraciones a los sistemas.
+El poder de ramificación y contamin
+ación que tienen el ransomware es muy potente. Por ende, requiere medidas y controles que permitan a
+segurar lo más importante de las empresas: los datos.
+Columna redactada por José Luis Gutiérrez, arq
+uitecto de soluciones de ciberseguridad en CoasinLogicalis. Conoce más artículos de opinión en la se
+cción de Zoom Tecnológico.
+
+
+
+
+
+
+
+
+
+Claus Narr Rubio
+
+
+https://zoomtecnologico.com
+
+
+Periodista radi
+cado en Chile. Amante de la tecnología, aplicaciones móviles y sistemas operativos. No me considero 
+fan de ninguno pero me gusta probar tecnologías y escribir de ellos. Fundador de Zoom Tecnológico Ch
+ile.
+
+
+
+See author's posts
+
+
+
+
+
+Me gusta esto:Me gusta Cargando...
+
+Relacionado
+ 
+
+4AC5DDE2
+
+Antes e
+ra importante la gestión de accesos privilegiados #PAM.
+
+Hoy, es IMPRESCINDIBLE y no es negociable.
+
+
+En SISAP entendemos y sabemos cómo ayudarte 
+
+ #ciberseguridad #ciberataques #ransomware #vulnerabi
+lidad #threatintelligence #seguridadinformática…
+
+4AC5DDE2
+
+
+Analizamos patrones de comportamiento d
+e cada dispositivo o infraestructura tecnológica de tu organización, de manera de identificar aquell
+as actividades que pongan en riesgo la información de la persona o de tu empresa. Al ser identificad
+a una acción sospechosa, es automáticamente bloqueada y notificada a la contraparte del servicio, ac
+tuando coordinadamente para la gestión del incidente.
+
+
+4AC5DDE2
+
+Por José Luis Gutiérrez, arquitect
+o de soluciones de ciberseguridad en CoasinLogicalis
+Silencioso e inteligente, el ransomware es una 
+amenaza que no pasa de moda. Se moderniza gracias a una ingeniería social que permite que sus ataque
+s no sean al azar, sino más bien, estudiados y con un fin claro: secuestrar datos e información para
+ obtener dinero.
+En la mayoría de sus acciones, cuentan con facultades que les permiten ocultar robo
+s, información o simplemente, borrar evidencia. Si bien es cierto que suelen ir variando en métodos 
+y formas, el fin siempre es el mismo: atacar al sector empresarial.
+Para hacerse una idea, a través 
+de un ransomware se puede paralizar la operación de una empresa por tres-cuatro días o hasta semanas
+, con grandes pérdidas: sin facturar, poder emitir órdenes de compra, acceso a correos y, en el peor
+ de los casos, perder información de años si no se cuenta con un buen programa de backups y recupera
+ción de desastres.
+Ahora bien, imaginen este mismo escenario en industrias de infraestructura crític
+a o servicios de salud tales como clínicas o redes asistenciales donde, además del secuestro de dato
+s (que nadie garantiza su recuperación o comercialización), el efecto mismo puede atentar contra la 
+vida de ciudadanos.
+La vulnerabilidad de las compañías obedece, entre otros factores, al nulo contro
+l adecuado de las actualizaciones y/o parches de su infraestructura crítica. Además de la falta de p
+rotección y mantenimiento de sus sistemas. Si observamos los ataques que han ocurrido, muchas de las
+ empresas no estaban parchadas.
+
+De hecho, algunas organizaciones que han tenido este tipo de vulner
+abilidades, han optado por informar a sus colaboradores colocando avisos en las oficinas: “Mantente 
+seguro y sano: no pinches cualquier link y lávate las manos”. Y no es al azar, es parte de la educac
+ión que deben tener las compañías con sus colaboradores. La seguridad parte en casa.
+¿Cómo ataca un 
+ransomware?
+Con características de gusano por su capacidad de replicación, el ransomware puede busca
+r dentro de la red computadores que estén accesibles para poder infectar. Su principal objetivo es c
+ifrar datos, bloquear archivos, y dejar sin acceso a ellos. En palabras simples, secuestra los datos
+ y para recuperarlos pide un pago a través de la moneda digital bitcoins.
+Los vectores de ataque pue
+den variar, pero usualmente eligen funcionar mediante correo electrónico. También, se puede dar el c
+aso que esté disponible en internet a través de Torrent como algún crack de algún software que esté 
+de moda o algún juego.
+Un ejemplo de esto es WannaCry, ransomware que afectó, entre ellos, a Telefón
+ica y dejó inutilizada casi toda la compañía en España y otros países. O sea, se replicó a nivel mun
+dial en una misma compañía. Asimismo, el ransomware Snake vulneró los sistemas de control de la marc
+a automotriz Honda, impactando de forma directa en su red, teniendo que detener su funcionamiento.
+¿
+El ransomware descansa en pandemia?
+El COVID-19 trajo consigo muchos desafíos, entre ellos la comple
+jidad a la que se enfrentaron muchas compañías al enviar a sus colaboradores a operar desde sus hoga
+res. Sin embargo, no se priorizaron ni los controles ni la seguridad desde donde accedían, sino que 
+los esfuerzos se destinaron solo a la conectividad.
+Las brechas de seguridad aumentan cuando pasas d
+e un espacio de trabajo seguro como es la oficina, dentro de una estructura de seguridad, hacia una 
+casa sin medidas ni protecciones. Algunas empresas conservaron controles a través de infraestructura
+ por VPN.
+Lo cierto es que el trabajo remoto y poco control de lo que hacen los usuarios en casa, cr
+ea una contingencia de amenazas ransomware. Algunas organizaciones están aplicando e invirtiendo en 
+programas de respaldo de información, y controlando las herramientas de colaboración.
+Otra solución 
+que está tomando fuerza es el Security Access Service Edge (SASE), que implica focalizar un punto de
+ control de algún sector de la nube que permita extender los controles de seguridad a otros disposit
+ivos. Es decir, ya no se necesita estar en un ambiente empresarial para tener mayor y mejores contro
+les, sino que solo basta con conectarse a un punto focal en la nube y se recupera el control.
+En el 
+mercado existen soluciones que contraatacan a este virus, y crean copias de seguridad digitales para
+ evitar el secuestro de información y así evitar el pago de millones de dólares en rescate.
+Aunque e
+xisten empresas que optan por no pagar y recrean todo nuevamente, es importante comenzar a implement
+ar seguridad en las infraestructuras críticas de las organizaciones para evitar secuestros o vulnera
+ciones a los sistemas.
+El poder de ramificación y contaminación que tienen el ransomware es muy pote
+nte. Por ende, requiere medidas y controles que permitan asegurar lo más importante de las empresas:
+ los datos.

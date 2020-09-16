@@ -1,0 +1,540 @@
+
+TweetezPartagezPartagez3232 Partages
+CYBERGÉOPOLITIQUE
+En Géorgie, le ministère de l’Intérieur a co
+nfirmé le cyberespionnage
+contre le centre de recherche biomédicale Lugar Lab à Tiblisi qui a fait
+d
+isparaitre les dossiers de recherche COVID-19. Selon le ministère, la
+cyberattaque a été menée par u
+n service spécial étranger.
+ByteDance, la société mère de TikTok, serait
+en pourparlers avec le gouv
+ernement américain sur d’éventuels arrangements
+qui permettraient à TIKTOK d’éviter une vente de ses
+ activités aux États-Unis.
+COOPÉRATION NUMÉRIQUE – DIPLOMATIE NUMÉRIQUE – POLITIQUE
+NUMÉRIQUE
+La Com
+mission européenne a tenu
+son premier dialogue numérique de haut niveau avec la Chine, en préparatio
+n
+de la visioconférence entre les dirigeants européens et chinois le 14
+septembre.
+La Commission eur
+opéenne a
+publié son rapport de prospective stratégique 2020, identifiant, entre
+autres, les défis e
+t opportunités numériques émergents.
+CYBERCRIMINALITE
+Les cyber-autorités françaises,
+japonaises et 
+néo-zélandaises
+ont averti que les campagnes Emotet transmises par e-mail atteignent des cibles
+dans
+ des pays en utilisant des pièces jointes PDF malveillantes.
+Au Chili, Banco Estado a
+fermé ses opér
+ations dans tout le pays en raison d’une cyberattaque qui
+s’est avérée être un ransomware.
+Le rappor
+t de Kaspersky indique
+que le nombre d’attaques DDoS affectant les ressources éducatives a
+augmenté 
+d’au moins 350% par rapport aux mois correspondants en 2019
+PROTECTION DES DONNÉES
+Au Brésil, le dép
+uté Allesandro Molon a
+présenté le projet de loi 394/2020 à la Chambre des députés, visant à
+suspend
+re certaines dispositions du décret n ° 10.474 du 26 août 2020 qui a
+approuvé la structure réglement
+aire et le cadre de l’autorité brésilienne de
+protection des données.
+Le réseau eHealth de la Commis
+sion européenne a adopté le
+certificat d’interopérabilité européen et l’architecture
+d’interopérabil
+ité pour les applications de recherche des contacts et d’alerte
+L’autorité française de protection d
+es données a
+publié un guide sur le retour à l’école et la divulgation d’informations
+dans le cadre 
+du COVID-19.
+Le Japon a
+apporté des modifications à sa loi de 2005 sur la protection des
+renseigneme
+nts personnels, rapprochant le projet de loi du RGPD de l’UE.
+Le comité européen de la protection de
+s données a
+mis en ligne un formulaire pour recueillir les commentaires sur les lignes
+directrices 8
+/2020 sur le ciblage des utilisateurs des médias sociaux. Les
+commentaires doivent être envoyés au p
+lus tard le 19 octobre 2020.
+En Suisse, « dans le cadre de son examen annuel du
+bouclier de protecti
+on des données Suisse – États-Unis (Swiss-US Privacy
+Shield) et à la lumière de la récente jurisprud
+ence de la Cour de justice de
+l’Union européenne (CJUE), le Préposé fédéral à la protection des donn
+ées et à
+la transparence (PFPDT) a réévalué
+la conformité du bouclier au droit de la protection des 
+données. » 
+L’autorité espagnole de protection des données a publié
+une résolution dans la procédure
+ PS / 00188/2020, infligeant une amende de
+3000 € à l’Association des gardes de sécurité de l’aéropo
+rt de Barcelone pour
+violation de l’article 5, paragraphe 1, point f), du règlement général sur la
+p
+rotection des données.
+L’autorité française de protection des données a
+rendu sa décision enjoignant
+ le ministère de la Solidarité et de la Santé
+de remédier aux irrégularités de protection des donnée
+s dans l’application
+StopCovid et à œuvrer pour sa conformité au règlement général sur la protection
+
+des données.
+En Inde, l’Institution nationale pour la transformation a lancé
+une consultation publi
+que sur le projet d’architecture d’autonomisation et
+de protection des données.
+En Colombie, l’autor
+ité colombienne de protection des
+données a
+publié la résolution 53593/2020 contre Google LLC, lui o
+rdonnant de mettre
+en œuvre certaines mesures pour se conformer au cadre juridique colombien de
+prot
+ection des données.
+En Argentine, l’autorité de protection des données a
+publié ses directives sur l
+es contrôles de température, soulignant que la
+collecte de la température corporelle pour empêcher l
+a propagation du COVID-19
+doit prendre en compte les exigences énoncées dans la loi n ° 25.326 de 20
+00
+sur la protection des données personnelles.
+Aux États-Unis, le Texas Privacy Protection Advisory 
+Council
+a
+publié le rapport intérimaire à la 87e législature mettant en évidence les
+pratiques de co
+nfidentialité actuelles au Texas, y compris les lois sur la
+confidentialité du Texas et la hiérarchi
+sation de la cybersécurité.
+PROTECTION DES ENFANTS EN LIGNE
+INTERPOL a
+publié un rapport sur les abu
+s sexuels sur enfants mettant en évidence les
+tendances et les menaces dans le contexte du COVID-19 
+par rapport aux mesures
+pré-pandémiques.
+En Californie, la
+Parent’s Accountability and Child Protect
+ion Act AB 1138 a été enregistrée
+le 8 septembre et présentée au gouverneur de Californie pour signa
+ture.
+En Australie, l’exploitation
+sexuelle des enfants en ligne a augmenté pendant le confinement.
+
+GOUVERNANCE DES DONNÉES
+Le Royaume-Uni a
+lancé une stratégie nationale sur les données pour améliore
+r leur utilisation
+au sein du gouvernement et exploiter leur puissance pour stimuler la
+productivité
+, créer de nouvelles entreprises et emplois, améliorer les services
+publics.
+En Allemagne, le minist
+ère fédéral de l’Économie et de la
+Technologie a
+annoncé que le Cabinet avait approuvé le projet de 
+loi sur la digitalisation.
+En Chine, le ministère des Affaires étrangères a
+publié une initiative su
+r la sécurité des données.
+SÉCURITÉ
+L’initiative européenne de recherche sur les cyber-conflits
+(ECC
+RI) vise à fournir une plateforme européenne
+de dialogue universitaire et politique sur le thème des
+ cyber conflits.
+En France, l’Agence nationale de cybersécurité a
+publié un guide sur les attaques d
+e ransomwares.
+L’Australian Cyber ​​Security Center a
+publié son rapport annuel sur les cybermenaces
+ de juillet 2019 à juin 2020.
+PROTECTION DES CONSOMMATEURS
+Au Royaume-Uni, la société CPS Advisory L
+td de Swansea a
+été condamnée à une amende de 130 000 £ pour avoir effectué plus de 100 000
+appels d
+e marketing direct non autorisés auprès de personnes au sujet de leur
+pension.
+La Federal Communicat
+ions Commission des États-Unis a
+publié un rapport et ordonnance sur la promotion de l’authentificat
+ion de
+l’identité de l’appelant pour lutter contre les appels automatisés illégaux
+INFRASTRUCTURE
+Le
+ gouvernement du Burkina Faso a
+investi 3,105 milliards de FCFA dans la construction d’un point d’éc
+hange
+Internet (IXP) et d’un point d’atterrissage virtuel (VLP) dans la ville de
+Bobo-Dioulasso.
+Le 
+ministre angolais de l’enseignement supérieur et le
+président de Huawei ont
+signé un accord visant à
+ développer les compétences en TIC et à améliorer
+l’infrastructure technologique des établissements 
+d’enseignement supérieur en
+Angola.
+INTELLIGENCE ARTIFICIELLE
+Le conseil municipal de Portland a ado
+pté deux ordonnances
+interdisant l’utilisation de la reconnaissance faciale. Le premier interdit
+à l
+a ville d’utiliser la reconnaissance faciale et la seconde interdit
+aux entreprises privées d’utilis
+er la reconnaissance faciale dans les espaces
+publics.
+DÉVELOPPEMENT DURABLE
+L’Organisation internat
+ionale de normalisation a annoncé un nouveau cadre sur
+le rôle des technologies de l’information et 
+de la communication dans les
+villes intelligentes.
+INFRASTRUCTURE
+L’UIT
+a lancé Connect2Recover pour
+ renforcer l’infrastructure numérique dans les
+pays touchés par le COVID-19 afin de renforcer une co
+nnectivité abordable et
+fiable dans les pays bénéficiaires
+CONTENU
+La Commission européenne a
+présen
+té l’évaluation de la mise en œuvre et de l’efficacité du code de bonnes
+pratiques sur la désinforma
+tion.
+GENRE
+L’Union internationale des télécommunications (UIT) et Enhanced
+Integrated Framework (EI
+F) ont
+lancé un projet de coopération visant à améliorer l’écosystème numérique et
+à renforcer les c
+ompétences numériques des femmes des pays les moins avancés
+(PMA).
+IDENTITÉ NUMÉRIQUE
+Le Secrétariat
+ de la Communauté de l’Afrique de l’Est (EAC) a
+déployé le système régional électronique de suivi de
+s cargaisons et des
+chauffeurs (RECDTS) qui permettra la délivrance des certificats numériques
+EAC C
+OVID-19 qui sont mutuellement reconnus par les États partenaires.
+Insurance Europe a
+publié sa répon
+se à une consultation sur la feuille de route de la
+Commission européenne sur le système d’identité 
+numérique de l’UE.
+INTERNET SOCIETY
+Internet Society a
+lancé l’Internet Impact Assessment Toolkit «p
+our aider les décideurs, les
+technologues et les utilisateurs d’Internet à analyser comment les déci
+sions et
+les tendances pourraient avoir un impact sur les fondamentaux de d’Internet. 
+ICANN
+La Soci
+été pour l’Attribution des Noms de Domaines et
+Numéros a
+annoncé que l’organisation a répondu à la c
+onsultation publique de la
+Commission européenne sur la loi sur les services numériques (DSA).
+IETF
+
+L’IETF a
+annoncé que la réunion 109 sera en ligne à partir du 16 novembre et se
+déroulera jusqu’au v
+endredi 20 novembre. Le Hackathon aura lieu du 9 au 13
+novembre.
+
+
+4AC5DDE2
+
+De @ValeryMarchive « Qu
+and le #ransomware fait belote et rebelote sur la même victime... C'est peut-être que le travail de 
+nettoyage et reconstruction  n'a pas été pleinement fait. Merci @BrettCallow de @emsisoft pour les é
+clairages sur cet incident.»
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Réda
+cteur en chef
+
+
+
+	Publié le: 15 sept. 2020
+
+
+ 
+La métropole Aix-Marseille-Provence en a fait l’amère
+ expérience récemment : une attaque de rançongiciel peut être maîtrisée sans que la situation ne soi
+t pleinement sous contrôle. Les données volées par les opérateurs de Pysa, à l’occasion de la cybera
+ttaque du mois de mars, ont été divulguées… début septembre. L’entreprise de services numériques ind
+o-américaine Artech vient quant à elle de montrer qu’une attaque peut paraître maîtrisée, sans que s
+on système d’information ne soit véritablement assaini.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharg
+er gratuitement ce guide
+
+
+
+
+Information sécurité 12 : Menace Cyber #NotPetya : les enseignements ti
+rés chez Maersk
+Le paysage de la menace cyber a fondamentalement changé, avec un risque très réel d'
+être pris dans des activités parrainées par des États-nations. Ce numéro de Information Sécurité vou
+s livre la tendance en matière de cybersécurité, de la gestion des vulnérabilités à Toyota en passan
+t par le Danemark
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer u
+ne adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veuille
+z vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entrer u
+ne adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi q
+ue la politique de confidentialité et le transfert de mes informations aux États-Unis pour traitemen
+t afin de me fournir les informations pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient trait
+ées par TechTarget et ses partenaires afin de communiquer avec moi par le biais du téléphone ou du c
+ourrier électronique et ce à propos d’informations pertinentes dans mon contexte professionnel. Je p
+eux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artech est en fait la première entreprise dont les opérateurs de Revil/Sodinokibi
+ divulguaient des données volées après une compromission réussie. C’était au mois de janvier : ils p
+ubliaient les liens vers plus de 300 Mo de données selon eux dérobées par leurs soins, rapportaient 
+alors nos confrères de Bleeping Computer.
+Artech, qui communique assez peu, comme le montre la liste
+ de ses communiqués de presse sur les quatre dernières années, a attendu le 4 septembre pour reconna
+ître officiellement l’incident. Dans une « notification », l’ESN explique avoir reçu le 8 janvier « 
+un rapport d’activité inhabituelle relatif au compte utilisateur » de l’un de ses employés. Et d’ass
+urer avoir « immédiatement commencé à enquêter ». Un processus qui, selon l’ESN, a mené à « l’identi
+fication d’un ransomware sur certains de [ses] systèmes ».
+L’intervention d’un tiers spécialisé a pe
+rmis de déterminer, le 15 janvier, qu’un « acteur non autorisé avait accédé à certains systèmes d’Ar
+tech entre le 5 et le 8 janvier 2020 ». L’ESN explique alors avoir « mené un examen complet de ces s
+ystèmes » pour déterminer qu’il y avait eu accès à des données personnelles. Selon Artech, cet exame
+n a été finalisé… le 25 juin dernier, soit plus de 5 mois après le début de l’incident.
+Troy Mursh, 
+de Bad Packets, souligne qu’Artech a exposé « pendant des mois et des mois » un serveur VPN Pulse Se
+cure affecté par la vulnérabilité CVE-2019-11510. Selon les données de Shodan, le serveur concerné é
+tait encore affecté tout début janvier 2020.
+L’histoire aurait pu s’arrêter là, si les opérateurs de
+ Maze ne revendiquaient, depuis ce week-end, à leur tour, la compromission d’Artech, diffusant au pa
+ssage près de 1,5 Go de données compressées volées à l’occasion. Que s’est-il donc passé ?
+Un autre 
+système laissé vulnérable et à côté duquel les équipes d’Artech seraient passées n’est pas à exclure
+. Mais il peut y avoir encore plus simple. Brett Callow, analyste chez Emsisoft avance ainsi une hyp
+othèse : « que l’affilié [à Revil] responsable de la première attaque se soit laissé une porte d’ent
+rée dans le réseau et ait alors donné accès à un autre groupe ».
+L’hypothèse n’apparaît pas, en soi,
+ saugrenue. C’est désormais bien connu : lorsque détone le ransomware, les assaillants sont conforta
+blement installés en profondeur dans le système d’information, d’où les enjeux souvent considérables
+ de la reconstruction.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre la montre
+–C
+rowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Me
+naces informatiques
+
+
+
+Les clients d’Orange Business Services misent sur la gouvernance des données
+
+
+
+
+
+Par: Gaétan Raoul
+
+
+
+
+Ransomware : qu’est-il arrivé à FARO Technologies ?
+
+
+
+
+Par: Valéry Marchi
+ve
+
+
+
+
+Covid-19 et ESN : l’Offshore en Inde se met aussi au télétravail
+
+
+
+
+Par: Alain Clapaud
+
+
+
+
+R
+ansomware : Cognizant anticipe une facture à plusieurs dizaines de millions de dollars
+
+
+
+
+Par: Valé
+ry Marchive
+
+
+
+
+
+
+
+4AC5DDE2
+
+#Cybersecurite (S37A20F):#France, l’Agence nationale de cybersécurité a
+ publié un guide sur les attaques de #ransomware. @AfricaCyberMag @murielofficiel https://internetgo
+v.news/fr/revue-hebdo-gouv-internet-s37a20f-commission-europeenne-chine-discute-sur-numerique-interp
+ol-sur-abus-enfants-des-etats-mettent-en-garde-ctre-emotet-systeme-de-suivi-fret-en-afri-est/…
+
+4AC5
+DDE2
+
+Ransomware: Un enemigo invisible que no descansa #Opinion #ransomware

@@ -1,0 +1,325 @@
+"Di recente, Microsoft ha pubblicato un report dettagliato che descrive il funzionamento delle compl
+esse varianti ransomware, guidate manualmente dai criminali informatici". https://lttr.ai/WoMQ
+#Rans
+omware #SentinelOne #PiattaformaEDR
+
+4AC5DDE2
+
+Ransomware, l’altra pandèmia
+https://notesdeseguretat
+.blog.gencat.cat/2020/09/16/ransomware-laltra-pandemia/… @mossos @ispccat @InstitutICPS @policiacat 
+@barcelona_GUB @policiaportBcn @PoliciaSVH @CriminologiaUdG @assintercrimi @Inv_Crimi_UPF @grcrimiua
+b @CidobBarcelona @Badalona_GUB
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+written byArianna Nistri
+
+Ransomware: un Attacco 
+Complesso Necessita di una Difesa Strutturata – SentinelOne
+
+                                Cyber S
+ecurity
+                            
+
+5 min read 
+
+
+
+SHARE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ransomware: un Attacco 
+Complesso Necessita di una Difesa Strutturata – SentinelOneQuando parliamo di attacco ransomware non
+ facciamo riferimento ad una semplice “infezione” da malware. Tale tipologia di attacco consiste in 
+una complessa serie di azioni in cui l'infezione iniziale è solo il primo passo.Un attacco ransomwar
+e di successo molto spesso coinvolge molteplici vettori di attacco, solitamente guidati dall’interve
+nto umano. Far fronte a un attacco del genere richiede l’implementazione di una soluzione in grado d
+i neutralizzare l'intera gamma di minacce proveniente da questi vettori. Di recente, Microsoft ha pu
+bblicato un report dettagliato che descrive il funzionamento delle complesse varianti ransomware, gu
+idate manualmente dai criminali informatici.Ecco alcune caratteristiche in comune delle diverse vari
+anti di attacco:l’attacco inizia con tipologie di malware non sofisticate che possono far attivare p
+iù alert, ma tendono ad essere considerati non importanti e non sono analizzati a fondo;possono rila
+sciare più varianti di malware fino a quando una di esse non viene rilevata dal software antivirus;p
+ossono attaccare i server che hanno il protocollo RDP (Remote Desktop Protocol) configurato come esp
+osto a internet e forzare gli accessi per entrare nella rete aziendale;una volta all’interno, sorveg
+liano la rete;possono sfruttare altre modalità per appropriarsi delle credenziali e ottenere privile
+gi da admin;possono eseguire script PowerShell collegandosi a un server di comando e controllo, cons
+entendo un controllo persistente su altre macchine;sono in grado di arrestare Exchange Server, SQL S
+erver e altri servizi simili che possono bloccare determinati file in modo che non possano essere cr
+ittografati;possono introdurre file binari legittimi e utilizzare flussi di dati alternativi per cam
+uffare l'esecuzione del codice ransomware come codice legittimo.Tecniche RansomwareL’esecuzione del 
+payload del ransomware al massimo livello di privilegio con il minor numero di ostacoli è l'obiettiv
+o finale del criminale informatico. Spesso gli aggressori disabilitano o crittografano i sistemi di 
+backup online che quindi non possono essere utilizzati per recuperare i dati crittografati nell'atta
+cco ransomware.Alcune varianti di ransomware si appropriano di dati sensibili con l'obiettivo di min
+acciare la vittima con l'esposizione dei dati se il riscatto non viene pagato.Altre tecniche di rans
+omware includono il codice polimorfico, un codice che si modifica costantemente per evitare il rilev
+amento oppure lo sfruttamento di strategie fileless per infettare macchine.Lo Step Successivo nell’E
+voluzione della Sicurezza: Piattaforma EPPI sistemi antivirus basati sulle firme sono totalmente ine
+fficaci per respingere gli attacchi ransomware. Una piattaforma di endpoint protection (EPP) è l’evo
+luzione nella scala di protezione dei dispositivi.Una piattaforma EPP è un insieme di strumenti e te
+cnologie software che consentono la protezione dei dispositivi endpoint. È una soluzione di sicurezz
+a unificata che combina diversi elementi come antivirus, antispyware, rilevamento/prevenzione delle 
+minacce, un firewall personale e altre soluzioni di protezione degli endpoint.Sebbene alcune soluzio
+ni EPP includano funzionalità di threat intelligence e data analytics, a volte mancano di funzionali
+tà come la capacità di analizzare la memoria, che consentirebbe il rilevamento di attacchi presenti 
+in memoria, o sistemi binari operativi esistenti (come PowerShell), che potrebbero rilevare attacchi
+ LOL "Living-Off-the-Land” che compromettono funzioni del sistema operativo.Una piattaforma EPP è un
+a soluzione che fornisce un perimetro difensivo intorno all'organizzazione, su tutti gli endpoint ch
+e rappresentano potenziali canali di accesso per il malware. Anche un solo punto di accesso non moni
+torato può essere sfruttato per entrare all’interno della rete.Una delle conseguenze dell’implementa
+zione di una piattaforma EPP, tuttavia, è la generazione di una quantità ingente di dati dagli endpo
+int, che devono essere analizzati al fine di rilevare gli hit generati anche da un processo di rilev
+amento basato su firma.Inoltre, all'aumentare delle dimensioni dell’azienda, l’entità dei dati gener
+ati aumenta esponenzialmente.Risoluzione del Problema: Piattaforma EDRCome sottolineato dal NIST Cyb
+ersecurity Framework, un sistema basato su firme non sarà in grado di analizzare il contesto di un a
+ttacco e attivare un alert se si presenta un modello, piuttosto che ripetuti tentativi di accesso ad
+ un account, soprattutto su molteplici endpoint, che può indicare quindi un tentativo di attacco for
+zato.Ma man mano che gli attacchi diventano più sofisticati, la modalità in cui le soluzioni per la 
+sicurezza implementano le proprie capacità analitiche può diventare un problema.In termini di volume
+, uno studio dell'Università del Maryland ha stimato che nel 2007 si sono verificati attacchi ogni 3
+9 secondi, un volume che è senza dubbio aumentato.Sia le soluzioni basate su cloud che quelle che co
+involgono un database centrale possono presentare colli di bottiglia e ritardi nell'attivazione di a
+lert, che potrebbero offrire ai criminali informatici vantaggi critici nello stabilirsi all'interno 
+delle reti.Gli attacchi sono sempre più sofisticati, con alcune evidenti indicazioni che i criminali
+ informatici stanno iniziando a sfruttare l'intelligenza artificiale.Le soluzioni più efficaci e ava
+nzate sono le soluzioni active EDR, basate su intelligenza artificiale e machine learning (AI/ML).Qu
+este soluzioni analizzano i dati dell’endpoint, sfruttando metodi avanzati di applicazione di data s
+cience in tempo reale, con un sovraccarico minimo delle prestazioni. Un altro vantaggio delle soluzi
+oni active EDR è la risposta autonoma, quindi la capacità di rispondere rapidamente alle minacce.L'u
+tilizzo dell'intelligenza artificiale consente alla soluzione di rispondere a un attacco ransomware 
+prima che il malware possa crittografare i dati, molto più rapidamente di quanto un essere umano pos
+sa rispondere ad un alert.In ConclusioneConcentrandosi sul comportamento piuttosto che sulla conform
+ità a una firma, l’active EDR è in grado di rilevare processi che indicano attività sospette per iso
+larli prima che possano diffondersi.L’active EDR automatizza anche l'analisi delle attività per forn
+ire un contesto all'analyst, riducendo la quantità di dati generati rispetto ad una soluzione EPP.La
+ tecnologia active EDR ha dimostrato di essere efficace contro le varianti di ransomware più sofisti
+cate utilizzate dai criminali informatici.SentinelOne è l'unica soluzione che offre prevenzione, ril
+evamento, risposta, remediation ed analisi forense in un'unica piattaforma. Con SentinelOne puoi con
+trastare automaticamente qualsiasi tipo di attacco da fonti note o sconosciute grazie a potenti sist
+emi di machine learning ed intelligenza artificiale.Se vuoi scoprire di più sulla piattaforma EDR Se
+ntinelOne invia una mail a cio@florence-consulting.it o chiama lo (055) 538-3250. Visita la pagina d
+edicata sul nostro sito per ricevere ulteriore materiale informativo o per richiedere una demo gratu
+ita. In alternativa, puoi compilare il form sottostante con la tua domanda. 
+ 
+
+cyber security
+senti
+nelone cyber security
+sentinelone
+sentinelone active edr
+
+endpoint detection and response
+protezione
+ endpoint
+endpoint protection sentinelone
+active edr sentinelone
+soluzione edr sentinelone
+
+
+more
+le
+ss
+
+
+
+
+
+
+
+Related stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Cyber Security
+    
+                                
+
+
+                            3 min read
+                        
+
+
+
+
+
+                            Modello di Sicurezza Zero Trust: Sviluppare Sistemi Sicuri su Reti Un
+trusted
+                        
+
+
+
+
+
+
+Arianna Nistri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+            Cyber Security
+                                    
+
+
+                            1 min 
+read
+                        
+
+
+
+
+                            L’Infrastruttura Wireless di Extreme N
+etworks - Extreme Cloud
+                        
+
+
+
+
+
+
+Arianna Nistri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                            Cyber Security
+                                    
+
+
+                  
+          4 min read
+                        
+
+
+
+
+                            Proteggere l’Infrastru
+ttura di Rete nell’Era delle App – Cisco Systems
+                        
+
+
+
+
+
+
+Arianna Nistri
+
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+#Sodinokibi è un #ransomware che sfrutta una vulnerabilità in #Oracle WebLogic Serv
+er. 
+
+ Scopri come si comporta e come puoi proteggerti in questo #report dei nostri esperti: 
+
+ http
+s://bit.ly/322WgVO
+#PandaAdaptiveDefense360 #cybersecurity
+
+4AC5DDE2
+
+Se sei vittima di un #ransomwa
+re, prova il nostro decryptor gratuito e riprendi il controllo della tua vita digitale.
+
+>>>  https:
+//kas.pr/n33c
+#cybersec #infosec #netsec
+
+4AC5DDE2
+
+Ransomware, la otra pandemia
+https://notesdesegu
+retat.blog.gencat.cat/2020/09/16/ransomware-la-otra-pandemia/… @ertzaintzaEJGV @policiaforal_na @pol
+iciademadrid @policiazaragoza @PoliciaEcuador @policiamexico @PoliciaChile @PoliciaPeru @CrimGranada
+ @mascriminologia @indret_crimi @CrimiNav @CrimiRioja @CriminologiaCyS
+
+4AC5DDE2
+
+La guerra al ranso
+mware è reale! Scopri quali sono le tre strategie definitive che puoi utilizzare per assicurarti di 
+avere la resilienza di cui hai bisogno. Maggiori informazioni:
+
+4AC5DDE2
+
+"Di recente, Microsoft ha 
+pubblicato un report dettagliato che descrive il funzionamento delle complesse varianti ransomware, 
+guidate manualmente dai criminali informatici". https://lttr.ai/Wo5f
+#Ransomware #SentinelOne #Piatt
+aformaEDR

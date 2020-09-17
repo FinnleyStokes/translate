@@ -1,0 +1,653 @@
+Sollte es sich bei den Problemen in der #Uniklinik #Düsseldorf um einen Erpressungsversuch mit versc
+hlüsselten Rechnersystemen handeln, ist das kein "Hackerangriff" von aussen, sondern Unachtsamkeit v
+on innen, irgendwelchen Mist aus dem Netz zu öffnen -> #Ransomware.
+
+4AC5DDE2
+
+Probleme beim speiche
+rn oder laden: Ransomware-Schutz16. September 2020Mit einem der letzten Updates hat Microsoft im Win
+dows Defender einen Ransomware-Schutz eingebaut. Der ist von Haus aus nicht in allen Fällen eingesch
+altet – wir hatten aber bereits eine kleine Anzahl Kunden, wo das doch der Fall war. Und der äußert 
+sich dann schon etwas merkwürdig, denn beim eingeschalteten Schutz dürfen Programme NICHT MEHR in de
+n "Dokumenten" Ordner schreiben – also in den Ordner, den nun in den letzten 20 (?) Jahren mühevoll 
+als Ordner für Anwendungsdaten etabliert wurde.Im Fall der Baustatik führt das je nach Version zu ei
+nem von 2 Problemen: Entweder das Programm startet erst gar nicht (gibt aber eine Meldung von sich, 
+das es in einem Ordner nichts speichern kann) oder beim beenden des Programms gibt es Fehlermeldunge
+n die ebenfalls mit dem speichern von Daten zusammenhängen.Es gibt 3 Möglichkeiten das loszuwerden, 
+und alle befinden sich im Bereich "Windows Sicherheit":Hier geht man auf den Viren & Bedrohungsschut
+z und dort auf Ransomware-Schutz verwalten:Eine Möglichkeit ist: Man schaltet den "Überwachten Ordne
+rzugriff" aus:Das hat natürlich den Nachteil, naja, das der Schutz eben vollkommen ausgeschaltet ist
+. Will man eigentlich nicht. Also angenommen, die Sache ist angeschaltet, wie unten abgebildet: Was 
+tut man dann?Jetzt gibt es eigentlich noch zwei Geschmacksrichtungen, die unterschiedliche starken S
+chutz bieten. Wenn Sie auf "Geschützte Ordner" klicken, dann erhalten Sie eine Liste dieser Ordner. 
+"Geschützt" bedeutet in diesem Zusammenhang: Ordner, in die nicht reingeschrieben werden kann. Da kö
+nnten man zum Beispiel den Ordner für die eigenen Dokumente rauswerfen – also z.b., wenn Sie als "Pe
+ter" angemeldet sind: c:\Users\Peter\DocumentsDamit ist dann natürlich der komplette "Dokumente" Ord
+ner wieder ungeschützt. Macht weniger Ärger wenn nichts schlimmes passiert, sonst ist das aber viell
+eicht nicht so gut.Besser ist eher "App durch überwachten Ordnerzugriff zulassen". Was einem dieser 
+merkwürdige Satz sagen will: Wenn Sie da draufklicken, dann können Sie einzelne Programme freischalt
+en. Die freigeschalteten Programme dürfen dann trotz des Schutzmechanismus in die angegebenen Ordner
+ schreiben. Im Fall der Baustatik würde man also hier die Baustatik hinzufügen und das Problem ist w
+eg.Ein kurzer Tipp zur "neuen" Profile-Tabelle →Baustatik Demoversion ausprobieren »
+
+4AC5DDE2
+
+Rans
+omware ist kein "Hackerangriff".
+Auch dann nicht, wenn es ein Krankenhaus betrifft
+(wie derzeit die 
+Uniklinik Düsseldorf).
+
+Ransomware kommt nicht durch Angreifer, der mit Verstand tätig ist - sondern
+ durch Nutzer, die ohne Verstand tätig sind.
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Analyse
+      
+    
+
+            Nvidias Angriff auf den ARM-Markt – und sich selbst
+          
+
+
+Mit der Übernahme
+ von ARM und Mellanox hat Nvidia alles in der Hand, um die Server der Zukunft zu gestalten. Es lauer
+n aber Probleme, analysiert Nico Ernst.    
+
+
+          76
+          Kommentare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Sonnenaktivität
+          
+
+            Zyklus Nummer 25 hat begonnen – und wird schw
+ach
+          
+
+
+Die Sonne hat ihren 25. Zyklus begonnen. Experten erwarten wenig Aktivität, auch be
+im nächsten anstehenden Aktivitätsmaximum in etwa fünf Jahren.    
+
+
+          131
+          Komment
+are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Kommentar
+          
+
+            Alles unter Kontrolle bei A
+pple
+          
+
+
+Die zweite Apple-Keynote ohne Publikum ist vorbei. So perfekt aalglatt inszeniert 
+war die noch nie. Nachfragen? Höchstens virtuell.    
+
+
+          125
+          Kommentare
+
+
+  Mac &
+ i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Spotify 
+          
+
+            Apples Abo-Bundle wettbewerbs
+widrig
+          
+
+
+Apple nutze seine dominante Position, um Konkurrenten zu benachteiligen, so Spot
+ify. Der Musik-Streaming-Marktführer fordert Regulierer zum Einschreiten auf.    
+
+
+          71
+   
+       Kommentare
+
+
+  Mac & i
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+#Shitrix Reloaded: So macht man heute Geld
+
+"im krit
+ischen Zeitraum Anfang 2020 in einigen Fällen #Backdoor's installiert worden sind, welche nun, 8 Mon
+ate(!) später, durch #Ransomware-Angriffe aktiv ausgenutzt werden"
+
+4AC5DDE2
+
+Man kann vorbeugend te
+chnisch und organisatorisch etwas gegen Ransomware tun; aber das kostet ja laufend Geld.
+So wie Hygi
+ene auch. Oder ordentliches Essen für die Patienten. Oder gar dem Einsatz angemessene Bezahlung der 
+Mitarbeiter.
+
+Gemeinsame Ursache, neues Sympthom.
+
+4AC5DDE2
+
+#Digitalisierung #Datenschutz #CyberSec
+urity 
+
+Sherrod DeGrippo über Ransomware und Emotet
+via @sz
+
+4AC5DDE2
+
+Wie kann man sich vor Ransomw
+are schützen und was tun, wenn man infiziert wurde?
+Ontrack hat eine Reihe an Informationen und wert
+vollen Ressourcen für die Praxis zusammengestellt, die kostenlos für Sie zum Download bereitstehen:
+
+https://bit.ly/31lieD6 #ransomware #ontrack
+
+4AC5DDE2
+
+
+Mit dem anhaltenden Ausfall des IT-Systems a
+m Düsseldorfer Uniklinikum nach einem mutmaßlichen Hackerangriff wächst die Zahl der betroffenen Pat
+ienten von Tag zu Tag. Statt normalerweise etwa 1000 Patienten in einer stationären Behandlung seien
+ es durch die üblichen Entlassungen inzwischen nur noch etwa 550, sagte ein Kliniksprecher am Dienst
+ag der dpa.
+
+
+
+Die Zahl der Operationen am Uniklinikum Düsseldorf sei von normalerweise zwischen 70 
+und 120 pro Tag deutlich auf nur noch 10 bis maximal 15 gesunken. Der Sprecher appellierte, dass Pat
+ienten außerhalb des Klinikums zunächst einmal Kontakt aufnehmen und ihren Termin klären sollen. Die
+ einzelnen Geräte wie zum Beispiel das Röntgen funktionierten, es könnten allerdings keine Daten ode
+r Untersuchungsergebnisse in das IT-Netz eingespeist und bearbeitet werden.
+Normalbetrieb nicht mögl
+ich
+"Ein Normalbetrieb ist weiterhin nicht möglich", schilderte der Sprecher. Nach dem seit Donnerst
+ag aufgetretenen IT-Ausfall sei inzwischen ein kleines Computersystem ohne weitreichende Vernetzung 
+aufgebaut worden, mit dem zumindest Patientendaten erfasst werden könnten. "Das ist ein Schritt bess
+er, als mit dem Stift auf einem Zettel zu arbeiten." In erster Linie gehe es um die Patienten, der I
+T-Ausfall habe mit den vielen Absagen aber auch wirtschaftliche Folgen für die Uniklinik.
+
+
+Das IT-S
+ystem des Universitätsklinikums war am Donnerstag gegen 3.00 Uhr nachts ausgefallen. Bereits seit Ta
+gen steuern Rettungswagen die große Einrichtung in der nordrhein-westfälischen Landeshauptstadt nich
+t mehr an, sondern fahren zu anderen Krankenhäusern. Am Universitätsklinikum Düsseldorf werden nach 
+früheren Angaben jährlich über 50.000 Patienten stationär versorgt und etwa 300.000 Patienten im Jah
+r ambulant behandelt. Gemessen an der Bettenzahl ist es das siebtgrößte Klinikum in NRW.
+"Tatverdach
+t der Computersabotage"
+Unterdessen gehen die Ermittlungen zu dem mutmaßlichen Hackerangriff unter B
+eteiligung von Experten weiter. "Wir haben den Tatverdacht der Computersabotage", bekräftigte Staats
+anwalt Christoph Hebbecker von der Zentralstelle für Cybercrime in Köln. Das Ermittlungsverfahren we
+rde gegen unbekannt geführt. Details will die Zentralstelle des Landes NRW aus ermittlungstaktischen
+ Gründen aber nicht nennen.
+
+Auch das Bundesamt für Sicherheit in der Informationstechnik (BSI) ist 
+in den Fall des Uniklinikums Düsseldorf (UKD) eingebunden, das mit seiner Größe zur sogenannten krit
+ischen Infrastruktur zählt. "Das BSI wurde zeitnah vom UKD informiert", sagte eine BSI-Sprecherin.
+
+
+
+(axk)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+      Kommentare lesen
+      (124)
+    
+  
+
+
+          Z
+ur Startseite
+        
+
+
+
+
+4AC5DDE2
+
+Erinnert sehr an die ransomware-Attacke #WannaCry, die im Mai 2
+017 die IT-Systeme des National Health Service in GB betroffen hat. 
+
+Super Podcast-Episode dazu von
+ @JackRhysider:
+
+4AC5DDE2
+
+Monate nach dem Auftauchen der kritischen Sicherheitslücke im Citrix Appl
+ication Delivery Controller (ADC) und NetScaler Gateway (CVE-2019-19781, auch als “Shitrix“ bekannt)
+ werden nun immer mehr Fälle bekannt, in denen die Lücke sehr früh ausgenutzt, jedoch erst sehr viel
+ später lukrativ verwendet wurde bzw. aktuell wird.Unsere Incident Responder stellten dabei fest, da
+ss im kritischen Zeitraum Anfang 2020 in einigen Fällen Backdoors installiert worden sind, welche nu
+n, 8 Monate später, durch Ransomware-Angriffe aktiv ausgenutzt werden. Hierbei haben die Angreifer s
+ich oft noch nicht einmal die Mühe gemacht, die bekannten Proof-of-Concepts der Gruppe „Project Zero
+ India“ anzupassen. So wurde in den uns bekannten Fällen der Benutzer „pwnpzi1337“ angelegt, welcher
+ im ursprünglichen PoC verwendet wurde.Die späteren Aktionen ähnelten dann wiederum den typischen An
+griffsmustern der aktuellen Kampagnen. Network Discovery, Verbreitung im Netz (beispielsweise mittel
+s Dridex oder Cobalt-Strike), Datenabfluss und nachgelagert die Verschlüsselung der Daten mit z.B. D
+oppelPaymer.Es gibt jedoch eine Vielzahl weiterer denkbarer Malware-Varianten auf dem Markt. Aufgrun
+d der aktuellen Angriffswellen wird jedem Administrator und Systemverantwortlichen dringend empfohle
+n, speziell seine Citrix NetScaler Systeme noch einmal genau zu prüfen, insbesondere auf mögliche ne
+ue Benutzer oder auffällige Netzwerkaktivität. Ein Blick in den Ordner /var/vpn/bookmark wird in jed
+em Fall empfohlen, da hier die vom Angreifer eingeschleusten XML-Dateien zu finden sind. Als schnell
+e Prüfung auf eine mögliche Kompromitierung hat sich die Anleitung unterhttp://deyda.net/index.php/e
+n/2020/01/15/checklist-for-citrix-adc-cve-2019-19781  als hilfreich erwiesen.Sofern Zweifel an der I
+ntegrität der Systems bestehen, empfehlen unsere Forensik Experten das Neuaufsetzen des Systems, wel
+ches das Standardvorgehen bei Ransomware-Attacken ist. Gerne verweisen wir hierbei auch auf die Empf
+ehlungen des BSI, welches diese sehr gut zusammengefasst hat. Bereits im Januar 2020 hat das BSI ein
+e Citrix-Schwachstellenwarnung (siehe CSW-Nr. 2020-172597-1531, Version 1.5, 30.01.2020 undhttps://w
+ww.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2020/Citrix_Schwachstelle_160120.html) herausgegeb
+en, welche beispielweise die folgenden Maßnahmen enthält:Netztrennung der kompromittierten Citrix-In
+stanzSicherung der alten Citrix-Instanz (gesamtes System oder zumindest die Logdateien unter /var/lo
+g/*)Neuaufsetzen der Citrix-Instanz mit dem aktuellsten Build des jeweiligen Versionszweiges und Ums
+etzung des Workarounds (Workaround-Empfehlung als noch keine Patches verfügbar waren).Erstellung neu
+er SSL-/TLS-Zertifikate, Zurückrufen der alten SSL-/TLS-ZertifikateZurücksetzen aller Windows Active
+ Directory Passwörter, wenn sich der Citrix-Nutzerkreis nicht einschränken lässtJe nach Netzanbindun
+g Prüfung der Windows Domäne auf weitere KompromittierungenWurden auf einem kompromittierten Citrix-
+System Wildcard-SSL-Zertifikate (*.example.com) verwendet, sind bei dem oben angesprochenen Zertifik
+atstausch alle weiteren Systeme zu berücksichtigen, die das Wildcard-Zertifikat einsetzen.Citrix-Adm
+inistratoren sollten grundsätzlich Citrix-Security-Bulletins mit Hinweisen auf neue Firmware-Version
+en abonnieren, um Hinweise auf neue Firmware-Updates zu erhalten Die Allianz für Cybersicherheit hat
+ noch weitere Maßnahme empfohlen. Diese finden sich unter www.allianz-fuer-cybersicherheit.de/ACS/DE
+/Informationspool/Themen/Ransomware/ransomware_node.html Wichtig zu erwähnen ist in diesem Fall auch
+, dass die Angreifer sich potenziell monatelang unbemerkt im Netzwerk bewegen konnten und damit die 
+Integrität auch länger zurückliegender Backups gefährdet sein könnte. Hier ist besondere Vorsicht be
+im Restore betroffener Systeme gegeben.Anfang August 2020 waren immer noch ca. 200 verwundbare Citri
+x-Systeme in Deutschland aus dem  Internet erreichbar (https://twitter.com/certbund/status/129101769
+9351580675). Die Dunkelziffer der Systeme, welche abgesichert sind, aber bereits eine Backdoor imple
+mentiert haben, lässt sich nicht beziffern.Weiterhin gehen fast täglich Fälle von Ransomware in Micr
+osoft Office-Dokumenten ein. Hier hatte Heise bereits Anfang September gewarnt (https://www.heise.de
+/ix/meldung/Malware-Immer-mehr-infizierte-MS-Office-Dateien-4883892.html). Bei weiteren Fragen könne
+n Sie sich gerne an unsere Experten wenden
+
+4AC5DDE2
+
+Ontrack Datenrettung, eine Marke von KLDiscove
+ry, hat bereits in mehr als 600.000 Fällen erfolgreich Daten gerettet. 
+Die Möglichkeiten sind fast 
+unbegrenzt. So können Daten  nach Hochwasser, Feuer oder Ransomware-Attacken wieder hergestellt werd
+en. http://ow.ly/zgIn50Bscxa
+
+4AC5DDE2
+
+Erhalten Sie Zugriff auf wertvolle Informationen zum Thema R
+ansomware und wie man sich vor einem Angriff schützen kann.
+Füllen Sie das Formular aus, um sofort Z
+ugang zu diesen exklusiven Informationen zu erhalten.
+> Ransomware vermeiden:    Whitepaper mit wert
+vollen Tipps
+> Webinar Recording:   Ransomware und Cyberangriffe meistern - wie kann man sich schütz
+en und was tun im Ernstfall
+> Ransomware Guide (EN)
+> Webinar Recording (EN)    in Kooperation mit N
+etAPP durchgeführt:
+
+Geschichte und aktuelle Entwicklung von Ransomware
+Ergebnisse einer kürzlich du
+rchgeführten Ontrack-Umfrage zu Ransomware in Unternehmen 
+Case Study Ransomware Datenrettung
+Wie On
+track und NetApp Ihnen bei einem Ransowmare-Angriff helfen können
+Wie man Daten nach einer Infizieru
+ng wieder herstellen kann
+Der Aufwand und die Schwierigkeiten der Datenrettung bei Lösegeldforderung
+
+
+
+4AC5DDE2
+
+Das, was das @certbund vom @BSI_Bund sagt!
+
+Leute, nehmt das ernst und gebt die Info we
+iter.
+
+Ausnutzung von #Shitrix nach 8(!) Monaten(!) macht es deutlich:
+
+Harte #Ransomware Geschäftsm
+odelle der organisierten Kriminalität sind schmerzbehaftet! 
+
+4AC5DDE2
+
+Laut Bundesamt für Sicherhei
+t und Informationstechnik und Verbraucherzentralen kommt es in der aktuell anhaltenden #COVID19-Pand
+emie verstärkt zu Cyberangriffen unter Verwendung von sogenannter #ransomware. Aus Sicht des Datensc
+hutzrechts stellt sich bei…
+
+4AC5DDE2
+
+Ransomware legt Uniklinik Düsseldorf lahm
+
+4AC5DDE2
+
+
+Das The
+ma „Kidnapping“ ist stets eine heikle Angelegenheit und die Frage, ob und wie man Lösegeld zahlt, ka
+nn im Zuge der Entführung von Menschen nicht eindeutig beantwortet werden. Im Gegensatz dazu lautet 
+die klare Empfehlung des BSI (Bundesamt für Sicherheit in der Informationstechnik), im Fall von Rans
+omware, die es auf die „Entführung“ immaterieller Daten abgesehen hat, nicht zu bezahlen. Schließlic
+h darf dabei niemals vergessen werden, dass man es mit Kriminellen zu tun hat. Es ist nicht sicher, 
+ob sich diese an eigene Versprechen sowie getroffene Abmachungen halten. Vielmehr bestätigt sie jede
+ bezahlte Forderung darin, dass ihr Geschäftsmodell funktioniert.
+Persönliche Daten in Gefahr
+Zwar g
+eht es bei Ransomware „nur“ um den gesperrten Zugriff auf die Inhalte und Festplatten von Rechnern, 
+aber deswegen ist es nicht weniger persönlich. Wir alle verbringen einen Großteil unserer Arbeits- u
+nd Freizeit im Internet. Bei Online-Spielen, in Videomeetings sowie natürlich beim Einkaufen und Onl
+ine-Banking kommen zur Bestätigung der Identität persönliche Informationen zum Einsatz. Aus diesem G
+rund ist Ransomware so gefährlich: Sobald Anwendern ihre digitalen Identitäten gestohlen oder Zugrif
+fe darauf verwehrt werden, steigt die Bereitschaft, auf die Forderungen einzugehen.
+Die Zeit läuft a
+b
+Ransomware existiert in mehreren Varianten. Je nach Art der Schadsoftware werden beispielsweise al
+le Dokumente verschlüsselt oder der Zugriff auf den Desktop gesperrt. Andere hingegen übernehmen den
+ Rechner komplett und übermitteln im Hintergrund wichtige Daten an den Angreifer. In allen Fällen wi
+rd eine Meldung auf dem Bildschirm angezeigt, die den Nutzer anweist, einen bestimmten Betrag als Lö
+segeld in einer Kryptowährung zu bezahlen. Ein ablaufender Timer zeigt an, wie viel Zeit dafür bis z
+um endgültigen Löschen der Daten bleibt. Das erhöht den Druck zusätzlich.
+Evolution des Ransomware-G
+eschäftsmodells
+Die erste Ransomware-Welle in den Jahren 2016/2017 stand unter dem Motto „Masse stat
+t Klasse“: Es wurde versucht, so viele Rechner wie möglich zu infizieren, wobei das verlangte Lösege
+ld meist bis zu 100 Dollar betrug. Danach spezialisierten sich die Cyberkriminellen auf bestimmte Un
+ternehmen und darauf, einen Zugang zum internen Netzwerk zu erhalten, um die Schadsoftware dort zu v
+erteilen. Im Zuge dessen erhöhten sich die Lösegeldforderungen um den Faktor 10 auf mehrere tausend 
+Dollar. Das sprach sich natürlich auch bei den Unternehmen herum und dementsprechend stieg die Nachf
+rage nach Cyberversicherungen gegenüber Ransomware. Damit ging das Kalkül der Angreifer auf. Wenn ei
+n Unternehmen mit einer Cyberversicherung Opfer einer Ransomware-Attacke wird, springt die Versicher
+ungsgesellschaft bei der Rückforderung des gezahlten Lösegelds ein und die Bereitschaft des Unterneh
+mens steigt, das Lösegeld zu bezahlen.
+Im Januar 2020 startete dann mit der Ransomware Maze die näch
+ste Eskalationsstufe. Es wurde nicht nur den Zugang zum Rechner und/oder auf die Dokumente eingeschr
+änkt, gleichzeitig wurden auch Daten an einen Command-and-Control-Server übertragen. Der Brückenschl
+ag zwischen zwei unterschiedlichen Geschäftsmodellen war damit perfekt: Mit Lösegeldforderungen und 
+dem Verkauf gestohlener Daten – der bisherigen Haupteinnahmequelle der Hacker – konnte gleich doppel
+t abgesahnt werden.
+Für die Opfer noch beunruhigender ist, dass sie nun davon ausgehen müssen, dass 
+bei jedem Ransomware-Angriff vertrauliche Daten über das Internet übertragen werden. Vorfälle wie di
+ese sind gemäß der DSGVO meldepflichtig. Für betroffene Unternehmen entsteht dadurch ein noch größer
+er Schaden, da sie für die sichere Speicherung der persönlichen Daten verantwortlich zeichnen. Zu de
+n Kosten für die Wiederherstellung und etwaigen Strafen kommt jetzt noch der Vertrauens- und Imageve
+rlust bei Kunden, Partnern und Mitarbeitern.
+Ein Muss: mehrschichtige Sicherheitskonzepte
+Glückliche
+rweise gibt es Licht am Ende des Tunnels, denn ein mehrschichtiges Sicherheitskonzept ist auch gegen
+ Ransomware-Attacken wirksam. Unternehmen sollten ihre Gateways mit Security-Features wie einem Vire
+nschutz der nächsten Generation, Intrusion Prevention, DNS- und URL-Filterung sowie Deep Packet Insp
+ection absichern. Eine Multi-Faktor-Authentifizierung zieht einen zusätzlichen Burggraben um persönl
+iche Accounts. Sämtliche Endgeräte sollten über Lösungen für EPP (Endpoint Protection Platforms) und
+ EDR (Endpoint Detection and Response) verfügen und betriebssystemseitig vollständig gepatcht sein. 
+Ransomware-Attacken lassen sich dadurch direkt bekämpfen. Einen weiteren wichtigen Punkt stellen reg
+elmäßige Backups auf Datenspeichern dar, die vom allgemeinen Netzwerk getrennt sind. Unternehmen sol
+lten ihre kritischen Dateien zusätzlich über DLP (Data Loss Protection)-Lösungen sichern.
+Ein aktuel
+les Dokument des BSI (Bundesamt für Sicherheit in der Informationstechnik) mit dem Titel „Ransomware
+: Bedrohungslage, Prävention & Reaktion 2019“ bietet unter folgendem Link weiterführende Information
+en: https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware.html
+
+
+4A
+C5DDE2
+
+#Shitrix-Nachwehen: #Citrix-Systeme mit unbemerkten Backdoors | iX Magazin https://heise.de/
+news/Shitrix-Nachwehen-Citrix-Systeme-mit-unbemerkten-Backdoors-4901590.html… #Ransomware #Malware
+
+
+4AC5DDE2
+
+... du meinst die „ überteuerten surprise pentests“ allgemein auch als Ransomware Attacken
+ bekannt 
+
+Jep Patch all the things ist ein Teil des grossen Plans
+
+4AC5DDE2
+
+Ärger mit dem Ransomwa
+re-Schutz in Windows. Wie man den so konfiguriert, das die Arbeit wieder möglich wird: https://blogs
+.die.de/tw/post/probleme-beim-speichern-oder-laden-ransomware-schutz…
+
+4AC5DDE2
+
+Wieder typisch. So 
+Schnarchnasen der Uniklinik Düsseldorf fangen sich irgendwelche billige ransomware ein und es wird w
+as von "Computersabotage" und "Hackerangriff" herbeifantasiert...
+
+Eigene Inkompetenz wohl eher
+
+4AC
+5DDE2
+
+Sherrod DeGrippo verfolgte selbst Cyberkriminelle durchs Netz, heute leitet sie bei Proofpoin
+t ein Team, das für die Analyse digitaler Bedrohungen zuständig ist. Die börsennotierte IT-Firma sic
+hert E-Mail-Systeme von Unternehmen ab, damit etwa Phishing-Mails gar nicht erst im Posteingang der 
+Mitarbeiter auftauchen. DeGrippos Spezialgebiete sind "Emotet", jene Schadsoftware, die 2019 zur "ge
+fährlichsten der Welt" erklärt wurde, sowie Banden, die mit sogenannter Ransomware Computer zwangsve
+rschlüsseln und dann deren Besitzer erpressen. Auch über Emotet wird immer wieder Erpressersoftware 
+verteilt, zuletzt war der Fahrdienst des Bundestags betroffen. Emotet ist ein Beispiel für die Profe
+ssionalisierung der Branche: Verschiedene spezialisierte Gruppen arbeiten zusammen - der eine baut d
+ie Werkzeuge, ein anderer öffnet den Tresor, noch ein anderer räumt ihn aus. Für die Behörden und Cy
+berverteidiger wie DeGrippo wird der Job dadurch schwieriger.SZ: Frau DeGrippo, immer wieder hört ma
+n im IT-Sicherheitsbereich nun Begriffe wie "Malware-as-a-Service" oder "Ransomware-as-a-Service". W
+as hat es mit der neuen Arbeitsteilung bei Erpressersoftware auf sich? Ich glaube, dass diese zunehm
+ende Arbeitsteilung in der Cyberkriminalität sich parallel zur Entwicklung bei normalen Unternehmen 
+vollzogen hat. Alles wandert in die Cloud. Der Grund dafür ist die Flexibilität, die sie bietet. Man
+ bezahlt nur für die Rechenleistung für jene Dienste, die man gerade braucht. Außerdem hat über die 
+Cloud jedes Gerät Zugriff auf wichtige Daten.Und kriminelle Hacker machen es jetzt ähnlich?Cyberkrim
+inelle sind clever. Sie suchen nach den effizientesten Wegen für ihr Geschäft. Die Möglichkeit, Botn
+etze zu mieten, gibt es seit vielen Jahren. Der erste bekannte Cybercrime-Service dafür war Distribu
+ted Denial of Service (DDoS): Man kauft die Kontrolle über ein paar Tausend Geräte, die dann gleichz
+eitig eine Webseite mit Datenverkehr fluten und in die Knie zwingen. Am Anfang wurden oft private We
+bseiten oder politische Gegner angegriffen, dieser Hacker-Aktivismus basierte auf DDoS-Angriffen. Pr
+ofessionelle Cyberkriminelle heben dieses Modell jetzt auf die nächste Stufe. Es gibt ein komplettes
+ Ökosystem von Dienstleistungen, in dem sich die Zutaten für Verbrechen einzeln mieten lassen: Schad
+software-Programmcode, Infrastruktur oder gleich ganze Service-Pakete. Dann gibt man den Anbietern n
+ur noch ein E-Mail-Liste und sagt: 'Schickt diese Schadsoftware zu diesen Tageszeiten an diese Adres
+sen'.Wie verfolgen Sie solche Entwicklungen? Recherchieren sie verdeckt in den Banden? Wir sehen Tre
+nds vor allem anhand der Menge an Schadsoftware, die verschickt und von uns aufgehalten wird. Aber i
+n letzter Zeit haben Behörden wie FBI, CIA oder die kanadischen Mounties immer wieder Dokumente zu E
+rmittlungen gegen Cyberkriminelle öffentlich gemacht, aus denen ziemlich genau hervorgeht, wie diese
+ arbeiten. Auffällig ist, dass sie meist extrem organisiert sind. Sie nutzen dieselbe Software wie i
+ch in meinem legalen Job: Wikipages fürs Wissensmanagement, Jira [eine Anwendung für Projektmanageme
+nt, Anm. d. Red.] für die Entwicklung von Schadsoftware. Der Umzug in die Cloud macht es leicht, die
+se Dienste mit anderen Banden zu teilen.Das heißt, jeder Mensch könnte sich Ransomware mieten und ei
+n kleines Geschäft starten?Dass heute irgendwelche jungen Typen aus ihren Schlafzimmern heraus Ranso
+mware-Operationen betreiben, glaube ich nicht. Das gab es vor ein paar Jahren. Da passierte es häufi
+ger, dass eine Gang auftauchte, ein paar Leute erpresste, und dann wieder verschwand. Das waren wohl
+ College-Kids, die sich ein Auto leisten oder ihre Studiengebühren zurückzahlen wollten. Zugang zu d
+en aktuellen großen Malware-Diensten bekommen Sie nur über den Internet-Untergrund wie geschlossene 
+Foren, oft im Darknet. Und natürlich überprüfen die kriminellen Betreiber, ob sie Neulingen trauen k
+önnen. Das schreckt Privatleute ab.Banden mieten also Malware von anderen Banden.Genau. Die Malware-
+Betreiber nennen die anderen Banden "Kunden" oder "Partner". Wir können das ziemlich gut verfolgen. 
+Beim Versand von Phishing-Mails mit Schadsoftware schicken die Malware-Betreiber eine Identifikation
+snummer mit, die Kunden-ID quasi. Daran sehen wir, dass sie das nicht für sich selbst verschicken, s
+ondern eben für einen dieser Kunden. Es ist fast, als würden die ihre Wohnung über AirBnB vermieten.
+ Wir verfolgen diese IDs und sehen dann zum Beispiel, dass die ID "XY" immer Online-Händler angreift
+ oder ID "XYZ" immer besonders viele Mails verschickt.Das klingt, als wären cyberkriminelle Banden m
+ittlerweile traditionellen Unternehmen ähnlicher als dem analogen organisierten Verbrechen.Ich glaub
+e, auch die Gruppen selbst sehen sich eher als Unternehmer denn als Verbrecher. In den ehemaligen So
+wjetstaaten, wo ein Großteil der Gruppen herkommt, gibt es eine mehr oder minder explizite Abmachung
+ mit den Behörden: Wenn du Ziele außerhalb der Region angreifst, drücken wir ein Auge zu. Wenn du Ba
+nking-Trojaner schreibst und die nach Europa oder in die USA schickst, ist uns das egal. Das führt d
+azu, dass diese Jobs als legitim angesehen werden. "Und, was machst du so?" - "Ich bin Software-Desi
+gner, ich schreibe Banking-Trojaner, die wir in den Westen schicken", das ist dort vermutlich ein ha
+lbwegs normales Gespräch. Es wird nicht als so richtig kriminell wahrgenommen. Vermutlich arbeitet s
+o jemand nine-to-five in einem Büro, jedenfalls noch vor der Pandemie, verdient Geld, seine Mutter i
+st stolz auf ihn.Vor einiger Zeit konnte man im Netz einen Dialog zwischen Erpressern und dem Finanz
+chef einer erpressten Firma mitlesen. Faszinierend war vor allem, wie höflich das ablief. Am Ende ga
+ben die Erpresser Tipps, wie die Firma ihr Netzwerk künftig absichern sollte.Die Angreifer haben in 
+den letzten Jahren einiges gelernt. Sie bieten eine Dienstleistung an. Das Allerwichtigste ist: Wenn
+ die Opfer zahlen, müssen sie auch ihre Daten zurückbekommen. Wenn das nicht zuverlässig funktionier
+t, verdienen die Banden kein Geld, weil niemand mehr zahlt. Sie müssen professionell auftreten, ihre
+n Opfern erklären, wie sie an Bitcoin kommen, um das Lösegeld zu zahlen. Und als Extra-Service erzäh
+len Sie dir am Ende noch, was du besser machen kannst. Das ist mittlerweile üblich, dass die Gangs e
+in Chatfenster betreiben, an das Opfer sich mit Serviceanfragen wenden können.Kundenservice wie bei 
+der Krankenkasse. "Geben Sie mir bitte ihre Versichertennummer"?Ja. In den Erpresserschreiben gibt e
+s eine ID, mit der können die Erpresser auf ihrem Dashboard genau sehen, um welche Firma es geht, um
+ wie viel Geld. Es ist ein bisschen verrückt, aber das macht es auch faszinierend. Manche Gangs fang
+en an, ihre Webseiten und Logos liebevoll zu gestalten. "Nemty" arbeitet mit Charakteren aus der Com
+icserie Rick & Morty, "Avaddon" hat einen Zaubererhut im Logo und auf der Startseite erzählen einem 
+Hagrid und Dumbledore, wie man seine Daten zurückbekommt.Firmendesign für Erpresserbanden. Das kling
+t absurd.Die Entwicklung von Ransomware in den letzten Jahren ist auf vielen Ebenen spannend. Vor ei
+nigen Jahren verschickten die Macher der Software "Locky" zum Beispiel noch Millionen E-Mails jeden 
+Tag, heute läuft alles deutlich gezielter ab. Wenn die Banden eine Firma gehackt haben, versuchen si
+e erst einmal herauszufinden, ob Ransomware überhaupt eine gute Idee ist. Sie prüfen, ob sie einzeln
+e Personen mit gestohlenen Infos erpressen, oder nicht lieber einen Banking-Trojaner verteilen. Erst
+ wenn sie irgendwann Zugriff auf das gesamte System haben, wird Ransomware als Methode wieder intere
+ssant. Einzelne befallene Computer tauschen IT-Departments heute einfach aus, aber wenn die Erpresse
+r es schaffen, das ganze Unternehmen lahmzulegen, dann sieht die Rechnung anders aus.Was sind die ak
+tuell gefährlichsten Ransomware-Gangs? Ich kann live nachsehen, was gerade so verschickt wird. Heute
+ ist Montag, das ist ein ruhiger Tag, Dienstag, Mittwoch, Donnerstag ist viel, Freitag weniger.Es gi
+bt normale Arbeitswochen bei den Erpressern?Ja, als Cyberkrimineller verschicken Sie Ihre Mails, wen
+n die Leute an ihrem Rechner sind. Wenn in den USA ein Feiertag ist, schicken die Angreifer nichts, 
+und im Sommer ist weniger los. Für uns als Firma ist das praktisch, weil es bedeutet, dass wir wie n
+ormale Leute Weihnachten feiern können. "Buran" und "Exorcist" sind Kampagnen, die gerade viel versc
+hicken. Und es gibt diesen neuen Anbieter namens "Decr1pt", mit einem Erpresserbrief auf Russisch, i
+ch bin ziemlich sicher, dass es den nicht lange geben wird. Ich kann sehen, wo die E-Mails verschick
+t werden, die Ziele sind alle in Moskau und St. Petersburg. Ich glaube, die Russen werden sich diese
+ Betreiber schnell schnappen.Im Westen passiert das eher selten. Das BSI warnt seit Jahren vor Malwa
+re wie Emotet, Ermittlungserfolge gibt es keine. Was können Behörden tun?Wenn die Behörden nicht nac
+h Russland gehen, um Leute zu verhaften? Wenig. Verhaftungen reduzieren die Menge der verschickten M
+alware meist nicht. Fallen zwei oder drei Gangs weg, kommen fünf neue.Sie glauben nicht an die Behör
+den?Gegen Ransomware ist die Polizei machtlos. Dafür ist sie nicht ausgerüstet, und es ist einfach z
+u viel. Die Polizei sollte sich besser um junge Opfer von sexuellem Missbrauch im Netz kümmern. Geht
+ und rettet die Kinder, wir kümmern uns um die Banking-Trojaner.
+
+4AC5DDE2
+
+Ransomware legt Uniklini
+k Düsseldorf lahm https://computerbild.de/artikel/cb-News-Sicherheit-Ransomware-Uniklinik-Duesseldor
+f-27482867.html…
+
+4AC5DDE2
+
+Sherrod DeGrippo über Ransomware und Emotet
+via @sz
+
+4AC5DDE2
+
+IT-Ausfal
+l an Uniklinik Düsseldorf betrifft immer mehr Patienten | heise online
+
+https://heise.de/-4902218
+Ra
+nsomware... Kein direkter Hackerangriff
+
+4AC5DDE2
+
+Sherrod DeGrippo über Ransomware und Emotet
+
+4AC5
+DDE2
+
+Danke. Ich werde auch einreichen. Glaube zum Thema KRITIS, Ransomware und was man tun sollte k
+önnte es noch Bedarf geben :) Die mir bekannten B3S decken das meiner persönlichen Meinung nur unzur
+eichend ab.
+
+4AC5DDE2
+
+Sherrod DeGrippo über Ransomware und Emotet  https://sueddeutsche.de/digital/
+hacker-emotat-ransomware-degrippo-1.5023581… ... IT-Sicherheitsexpertin:"Fallen zwei oder drei Gangs
+ weg, kommen fünf neue" ;-/
+
+4AC5DDE2
+
+Die klare Empfehlung des BSI im Fall von Ransomware: Nicht za
+hlen! Denn jede bezahlte Forderung bestätigt Cyberkriminelle darin, dass ihr Geschäftsmodell funktio
+niert.

@@ -1,7 +1,0 @@
- 01/20 - 06/20 toi enemmän kyberhyökkäyksiä kuin koko 2019. 
-
-Syinä etenkin entistä helpommin saatav
-at haittaohjelmat (mm. ransomware-as-a-service) sekä pandemian vauhdittama siirtymä etätöihin.
-
-#tie
-toturva #raas

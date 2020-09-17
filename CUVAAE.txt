@@ -1,3 +1,0 @@
-#Hackeři se velkou rychlostí vyvíjejí. Aktuálně vzrůstá využití tzv. dvojitého vydírání. Pokud po za
-šifrování dat firma nechce zaplatit za klíč pro dešifrování dat, útočníci ji hrozí, že její citlivá 
-data zveřejní nebo prodají konkurenci. #ransomware

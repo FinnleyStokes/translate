@@ -1,0 +1,117 @@
+
+ Siber güvenlik şirketi McAfee, birinci olarak Ağustos 2019’da keşfedilen Mailto olarak bilinen bir
+ fidye yazılımı olan NetWalker’ın faaliyetlerini gösteren bir araştırma raporu yayınladı.
+Rapora naz
+aran, NetWalker operatörleri Mart 2020’den bu yana fidye ödemelerinden 25 milyon $’ın üzerinde para 
+toplamış.
+1 Mart – 27 Temmuz ortasında, küme yaklaşık 2.795 Bitcoin (BTC) topladı ve bu durum onları
+ siber hatalılar ortasında en karlı fidye yazılımlarından biri haline getirdi.
+Rapora nazaran, ölçün
+ün birkaç farklı adrese ayrıldığı Bitcoin süreçleri, NetWalker’ın “hizmet olarak fidye yazılımı” ser
+visi sağladığını gösteriyor.
+McAfee’nin dediğine nazaran, başka operatörlere sunduğu gelir paylaşımı
+ sayesinde bu kadar büyük ölçüde para elde edilmiş.
+Kabiliyetleri Güçlendirmek
+McAfee, NetWalker ope
+ratörlerinin daha süratli süreç mühletleri ve daha düşük maliyetleri nedeniyle eski Bitcoin adresler
+ini SegWit adreslerine taşıdıklarını ve hizmet olarak bir fidye yazılımı olduktan sonra modus süreçl
+erinde ilerleme kaydettiklerini öne sürdü.
+20 Mart tarihinden az iki darknet forumu, fidye yazılımın
+a makûs emelli yazılımın yayılmasına ve mümkün hayli karlı hale getirilmesine yardımcı olmak için bi
+r gelir paylaşım şeması sunan NetWalker yetkililerinin yayınlarını paylaştı.
+Ziyanlı yazılım incelem
+e şirketi Emsisoft’ta tehdit analisti Brett Callow bahis hakkında şunları söyledi:
+Fidye yazılım küm
+elerinin yaptığı ölçünün hesaplanması son derece sıkıntı ve McAfee’nin de belirttiği üzere, 25 milyo
+n dolarlık sayı global manada düşük bir sayı. Zira 2019 yılında global çapta şirketler, fidye talepl
+erine karşılık olarak 25 milyon $’dan çok daha fazla ödeme yaptı.
+Çalışma, Netwalker amaçlarının bir
+çoklarının batı Avrupa ülkelerinde ve Amerika Birleşik Devletleri’nde olduğunu ekledi. Küme daha evv
+el, bilakis raporlar olmasına karşın, corona virüs salgını nedeniyle hastaneleri hedeflemeyeceklerin
+i açıklamıştı.
+Crozer-Keystone Sıhhat Merkezi, 19 Haziran’da NetWalker fidye yazılımı tarafından bir
+ fidye yazılım saldırısına maruz kaldı. Saldırganlar, sistemin çalınan datalarını darknet aracılığı 
+ile açık arttırmaya koydu.
+Her şeye karşın, bu tıp fidye yazılım saldırısı yapan bireylere katiyetle
+ güvenilmemesi gerektiği belirli oluyor.
+Bu makale birinci olarak Muhabbit’te yayınlanmıştır
+Bunu be
+ğen:Beğen Yükleniyor...
+
+
+4AC5DDE2
+
+Türkiye, fidye yazılımı saldırılarında dünyada ilk sırada https:
+//globaltechmagazine.com/2020/09/16/turkiye-fidye-yazilimi-saldirilarinda-dunyada-ilk-sirada/… #fidy
+eyazılımı #ransomware #sibertehdit #araştırma #sibergüvenlik #cybersecurity #zararlıyazılım #malware
+
+
+4AC5DDE2
+
+NetWalker Ransomware 4 Ayda 25 Milyon Dolar Çalmış!
+
+4AC5DDE2
+
+Darkweb'de hangi #ransomw
+are grupları hangi firmaları hedef almış ve fidye talep etmiş listesine ulaşmak isteyenler için derl
+i toplu bir kaynak buldum. Buradan  yola çıkarak hangi grupların hangi sektörleri daha fazla hedef a
+ldığı, ne gibi yöntemler(TTP d…
+
+4AC5DDE2
+
+3 sene önce bir siber sigorta toplantısında bu işi hacker
+lar farkederse(ödemenin sigorta tarafından yapıldığı) işi gücü bırakır bu adamlara(fidyeciler) para 
+ödemeye başlarsınız demiştim. Anlaşılan o ki farketmişler...
+#Ransomware saldırıları Siber sigorta…
+
+
+4AC5DDE2
+
+
+
+
+Küresel bir pandeminin sürdüğü bu dönemde siber suçlular da dünyanın farklı bölgelerin
+deki kullanıcıların sistemlerini kendi çıkarları için kullanmaya devam ediyor. Haziran ayında tespit
+ edilen fidye yazılım saldırılarının yüzde 26’sından fazlası Türkiye’de gerçekleşti.
+Trend Micro, dü
+zenli olarak küresel siber saldırıları incelediği aylık raporunu açıkladı. Rapora göre Covid-19 süre
+since de siber saldırıların sayısı artmaya devam etti. Mayıs ve haziran ayları boyunca tespit edilen
+ tehditlerin sayısı milyarlarla ifade edildi. Siber saldırganlar özellikle evden çalışma modelinin y
+aygınlaştığı bu dönemde, tehditlerinin şekillerini de geliştirerek sistemlere sızabilecekleri birçok
+ güvenlik açığını keşfetti.
+Trend Micro Araştırma Ekibi’nin topladığı veriler ışığında hazırlanan ra
+por tüm dünyada özellikle haziran ayında fidye yazılım saldırılarının büyük oranda arttığını gösteri
+yor. Rapora göre haziran ayında gerçekleştirilen fidye yazılım saldırılarının yüzde 26,4’ü Türkiye’d
+e gerçekleşti. Buna göre fidye yazılım saldırılarında, Türkiye tüm ülkeler arasında ilk sırada yer a
+ldı. Türkiye’deki fidye yazılım saldırılarının, ilk 5’te yer alan Hindistan, Birleşik Arap Emirlikle
+ri (BAE) ve ABD’nin toplamından daha fazla sayıda olduğu tespit edildi. Tüm dünyada haziran ayında y
+üzde 113 oranında artan fidye yazılım saldırılarında, en büyük artış BEC yoluyla gerçekleştirilenler
+de oldu. Üst düzey yönetici ve kilit pozisyonlarda görevli kişilere yönelik olarak yapılan iş e-post
+alarını ele geçirme saldırılarında kullanılan kötü amaçlı dosyaların sayısı aynı dönemde yüzde 166 a
+rttı. Bu kötü amaçlı dosyaların yüzde 70’ten fazlasını ise PDF uzantılı dosyalar oluşturdu. BEC sald
+ırılarında e-postaları en çok taklit edilenler CEO’lar olmaya devam ederken hedef alınanlar ise fina
+ns müdürleri oldu. Fidye yazılım saldırılarında en çok hedeflenen sektörler ise sırasıyla; kamu, üre
+tim ve sağlık sektörleri oldu.
+Bankacılık ve finans sektörüne yönelik zararlı yazılım tehditlerinde 
+Türkiye ilk 5’te
+Tespit edilen bankacılık zararlı yazılımlarının sayısında mayıs – haziran döneminde
+ yüzde 7’ye yakın bir düşüş gözlendi. Sırasıyla büyük ölçekli şirketler, tüketiciler ve KOBİ’leri he
+def alan bankacılık zararlı yazılımlarında Türkiye; Çin, Japonya, ABD ve Brezilya’nın ardından beşin
+ci sırada yer aldı.
+Basit önlemler siber saldırıları etkisiz hale getirebilir
+Veri kaybetmemek için 
+fidye ödemenin tek seçenek olduğu fidye yazılım saldırıları ve diğer tüm siber tehditlere karşı işle
+tmeler tarafından alınacak bazı basit önlemler tehdit riskini azaltıyor.
+
+Düzenli olarak yedekleme y
+apılmalı.
+Güvenilir bir üreticiden etkili bir antivirüs programı sisteme yüklenmeli. Bu programın da
+vranış izleme, güvenli uygulamaları listeleme ve web sitelerini filtreleme özelliği olmasına dikkat 
+edilmeli.
+Çalışanlara oltalama saldırılarını tespit edebilmeleri için eğitim verilmeli.
+Yazılım ve s
+istemlerin sürekli güncellendiğinden emin olunmalı.
+Şirketler uç nokta, hibrit bulut, ağ ve e-posta 
+/ web ağ geçitleri üzerinden korunmalı.
+
+ 

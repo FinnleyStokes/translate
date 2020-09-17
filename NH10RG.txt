@@ -1,0 +1,3 @@
+I dag har jeg skrevet litt om hvordan Nutanix kan hjelpe deg å beskytte deg mot cyberangrep og ranso
+mware. Les her: https://linkedin.com/pulse/hvordan-kan-nutanix-hci-beskytte-deg-mot-ransomware-ulf-r
+asmussen…

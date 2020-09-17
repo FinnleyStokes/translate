@@ -1,0 +1,168 @@
+Utrecht, 16 september 2020 - KnowBe4, leverancier van 's werelds grootste platform voor security awa
+reness-trainingen en simulated phishing, presenteert de resultaten van zijn ‘What Keeps You Up At Ni
+ght’-rapport. Dit onderzoek is wereldwijd uitgevoerd, onder IT-beslissers in bedrijven vanaf vijftig
+ medewerkers. In Nederland zijn voor dit onderzoek 100 IT-beslissers uit de technologie-, gezondheid
+s-, sport-, bedrijfs- en transportsector ondervraagd door onafhankelijk onderzoeksbureau Direct Rese
+arch.
+
+In het onderzoek werd gekeken naar verschillende perspectieven op het gebied van cybersecuri
+ty, welke aanvalstypen zijn voorgekomen en welke beveiligingsinitiatieven zijn ondernomen op het geb
+ied van technologie en training. 
+
+De belangrijkste bevindingen uit het rapport op basis van result
+aten van Nederlandse respondenten zijn:
+
+Ongeveer 6 op de 10 respondenten (61%) vindt dat hun medewe
+rkers gepast gedrag vertonen dat in lijn is met hun functie als het gaat om cybersecurity.
+Credentia
+l compromise - dat over het algemeen het resultaat is van succesvolle phishing- en/of social enginee
+ring-aanvallen - is een serieuze uitdaging voor veel IT-beslissers, 15% van de Nederlandse responden
+ten geeft aan hier ‘s nachts wakker van te liggen. 
+Bij de meeste respondenten vormt ransomware de g
+rootste zorg voor hun bedrijf. Bijna 8 op de 10 (78%) noemt dit aanvalstype als probleem. Als het ga
+at om gebruikersgerelateerde problemen zijn nalatige gebruikers de grootste zorg (68%).
+Daarnaast is
+ 7 op de 10 (70%) respondenten bezorgd over cyberaanvallen waarbij betrokkenheid van de de gebruiker
+ vereist is. 
+Meer dan 8 op de 10 (82%) respondenten geeft aan op dit moment bezig te zijn met de im
+plementatie van Security Awareness Training. 
+
+“Het is opvallend dat veel IT-beslissers vinden dat 
+hun medewerkers gepast cybersecurity-gedrag vertonen, terwijl ze nog steeds bang zijn ten prooi te v
+allen aan cyberaanvallen waarbij betrokkenheid van de gebruiker vereist is”, zegt Jelle Wieringa, Se
+curity Awareness Advocate bij KnowBe4. “Je kunt je dan afvragen hoe serieus het onderwerp Security A
+wareness op de kaart staat binnen die bedrijven en of de aanwezige kennis op dit gebied wel volstaat
+.”
+
+Download het 'What Keeps You Up At Night'-rapport via de volgende link:
+https://www.knowbe4.com
+/hubfs/What-Keeps-You-Up-at-Night-Benelux.pdf
+
+4AC5DDE2
+
+#DDOS #Ransomware #Phishing #Cybercrime Exp
+loderen
+
+Impact op tal van verzekeringen. Digitaal Automatiseren, in elk facet, aspect, is 100% Voor
+spelbaar. 
+
+Wat dat voor de nabije toekomst voor de verzekeringen en @derechtspraak in zal houden?
+@
+BNR @RTLZ #AX0 @BINederland #IT ICT
+
+4AC5DDE2
+
+
+TechVisor maakt gebruik van cookies
+
+
+        Tech
+Visor maakt gebruik van functionele en marketing cookies (voor externe advertenties) om je website-b
+ezoek zo eenvoudig en persoonlijk mogelijk te maken. 
+        Op deze manier kunnen wij je namelijk
+ relevante informatie en advertenties tonen.
+
+        
+
+        Als je alle relevante content wi
+lt zien, dan vragen we je hierbij om akkoord te gaan met het plaatsen van deze marketing cookies voo
+r externe advertenties. Wil je dit liever niet? Dan plaatsen wij alleen de 
+        noodzakelijke f
+unctionele cookies.
+
+        
+                
+        Wil je meer informatie over het cookiegeb
+ruik, het privacy statement en de voorwaarden voor het gebruik van TechVisor kijk dan in onze voorwa
+arden.
+
+        
+
+Accepteren
+Weigeren
+
+
+
+4AC5DDE2
+
+
+Regio – Ben je een Windows 10 gebruiker? Groot
+ kans dat je tevreden bent over de werking van deze Microsoft software. Maar Windows 10 kent meer mo
+gelijkheden dan dat er standaard geactiveerd is.
+Ransomware
+Een van de extra opties is dat Windows 1
+0 een mogelijkheid bezit, genaamd Controlled Folder Access, waarmee je bestanden, mappen en geheugen
+gebieden op je apparaat tegen onbevoegde wijzigingen door schadelijke toepassingen extra kan bescher
+men. Bij één van deze schadelijke toepassingen kun je bijvoorbeeld denken aan ransomware dat tot de 
+meest gevaarlijkste in zijn soort behoort.
+Controlled Folder Acces werking
+Als Controlled Folder Acc
+es eenmaal geactiveerd is kan het standaardprogramma in Windows 10, Microsoft Defender Antivirus, je
+ bestanden en mappen beschermen tegen malafide programma’s zoals ransomware. Er is ook een optie Ges
+chiedenis van blokkeringen genaamd. Hierin is een lijst te zien van programma’s en bestanden die doo
+r de anti-ransommalware maatregelen geblokkeerd zijn. Ook kun je hierna nog zelf bestanden en mappen
+ toevoegen die beschermd moeten worden.
+
+
+
+Aanvankelijk worden de omgevingen Documenten, Afbeeldinge
+n, Video’s, Favorieten, Muziek en Desktop beschermd. Door onder Controlled Folder Acces op Beschermd
+e mappen te klikken kun je zelf locaties toevoegen. In het nieuwe venster druk je op Een beveiligde 
+map toevoegen, vervolgens selecteer je eenvoudig de map die je wil toevoegen.
+Controlled Folder Acce
+s activeren
+Open start en zoek op Windows-beveiliging. Klik vervolgens op Virus- en bedreigingsbesch
+erming. Onder het kopje (onderaan) Bescherming tegen ransomware, staat de knop Beschermen tegen rans
+omware beheren. Als je daarop klikt, kun je in het volgende venster de schuifregelaar onder Controll
+ed Folder Access op Aan zetten.
+Uitzonderingen
+Soms kan het zijn dat een app door de toevoeging van 
+een bepaalde map niet meer werkt zoals voorheen. Die zul je dus handmatig moeten toevoegen. In de me
+este gevallen hoeft dit niet. Apps die door Microsoft als onschadelijk worden gezien, zijn gewoon to
+egestaan. Anders moet je op Een app toestaan via Controlled Folder Access klikken (nog steeds onder 
+het kopje Controlled Folder Access). Je zoekt de app op, voegt hem toe en als het goed is moet alles
+ weer werken zoals voorheen.
+Backup maken met OneDrive
+Natuurlijk kun je ook OneDrive als back-up in
+ stellen mocht het onverhoopt toch een keer helemaal misgaan. Naast deze cloudopslagservice, dat zee
+r nauw met  Windows 10 geïntegreerd is, zijn er meerdere mogelijkheden zoals bijvoorbeeld Dropbox.
+(
+Bron: Computertotaal.nl)
+(Foto: pixabay)
+Dit delen:TweetWhatsAppTelegramVind ik leuk:Like Laden...
+
+
+Gerelateerd
+
+
+
+4AC5DDE2
+
+Bedrijven zijn kwetsbaar voor virussen, hacks, ransomware, phishing en data
+lekken. Uit internationaal onderzoek blijkt dat 68% van de Nederlandse bedrijven in 2019 slachtoffer
+ was van cybercrime. Met een cyberverzekering bescherm je jouw bedrijf tegen sch
+
+4AC5DDE2
+
+De onder
+werpen:
+
+> Hackers (ethisch vs. crimineel)
+> Dark web
+> Datalekken
+> Wraakporno & cloud
+> Phishing &
+ social engineering
+> Ransomware
+> Spyware
+> DDoS
+> IoT
+> En natuurlijk tips
+
+Binnenkort de officiël
+e release & pre-order. Super spannend, hoop dat jullie het tof vinden 
+
+4AC5DDE2
+
+Bescherm je bestan
+den in Windows 10 tegen ransomware

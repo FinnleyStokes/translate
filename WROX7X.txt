@@ -1,0 +1,167 @@
+Hoje nossa equipe da @BlackBerry continua no @MindTheSec e teremos nossa palestra às 14hs — “Tendênc
+ias e Prevenção de Malware no Mundo de Hoje”. Apresentaremos “ao vivo” as ameaças de ransomware mais
+ recentes e que afetaram varias empresas na região.
+
+4AC5DDE2
+
+Esta semana, vamos mergulhar em # Ran
+somware-as-a-Service o novo ator de ameaças norte-coreano, #BeagleBoyz, que continuam atacando caixa
+s eletrônicos (porque é aí que está o dinheiro). Ouça agora:http://ftnt.me/6E1682
+
+4AC5DDE2
+
+
+SegInf
+ocast #45 – Ransomware II
+
+
+05/12/2016
+Leave a comment
+
+
+SegInfocast #45 – Faça o download aqui. (39
+:24 min, 27,0 MB) 
+Neste episódio, eu recebi novamente Geraldo Bravo, engenheiro de pre-vendas da Cy
+berark para continuar a conversa sobre Ransomware, assunto já abordado no SegInfocast #41 com Caroli
+na Bozza.
+O que é o Ransomware?
+Geraldo explica que o ransomware, também conhecido como vírus de res
+gate, é uma ameaça cujo objetivo é o sequestro de dados. Ele criptografa de forma não autorizada os 
+arquivos da vítima (sistemas, documentos, etc) exigindo um pagamento para que se tenha acesso as inf
+ormações com a revelação da chave usada para decriptografar os arquivos.
+Quais são as principais fam
+ílias do Ransomware?
+Nosso entrevistado cita algumas famílias como a CryptoLocker, uma das mais ativ
+as atualmente. CryptedXXX, que além de criptografar arquivos também busca por credenciais e bitcoins
+, aliás, a razão que permitiu que os criminosos possam cobrar resgates sem serem identificados. Tamb
+ém o Crisis, que tem a capacidade de criptografar arquivos de sistema. Um ponto interessante é o fat
+o de já existirem variantes que visam outros sistemas operacionais como o Mac e Android.
+Os vetores 
+de ataque do Ransomware
+Mesmo com várias tecnologias de proteção, o e-mail (phishing) ainda é a form
+a mais utilizada para os ataques. E são utilizados executáveis e também documentos e scripts infecta
+dos.
+Quais são as medidas para frear a ação desses ataques?
+A primeira medida é a prevenção através 
+de controle de e-mail e conscientização. O segundo passo é a contenção para evitar a propagação da a
+meaça na rede, impedindo a comunicação com o servidor na internet, para a criação das chaves de crip
+tografia, porém alguns ransomwares já possuem uma chave padrão. Outras ações recomendadas são o moni
+toramento do nível de arquivos e também o conceito de privilégio mínimo necessário, para evitar que 
+uma infecção altere outros processos importantes no sistema.
+O que podemos esperar para o futuro?
+Ge
+raldo acredita que a Internet das Coisas aumentará ainda mais as possibilidades de infecção. Já exis
+te um ransomware chamado Flocker, que consegue infectar uma smartTV, por exemplo. Uma outra novidade
+ é o RaaS (Ransomware-As-A-Service), onde você pode escolher a ameaça mais adequada ao seu objetivo,
+ criando uma variante exclusiva para o comprador.
+Geraldo Bravo é engenheiro de pré-vendas da Cybera
+rk com experiência de mais de 10 anos na área de redes e segurança da informação. Atuou em outras ár
+eas como Gestão de Projetos e Gestão de Equipes e possui diversas certificações de segurança da info
+rmação.
+ 
+
+
+Curtir isso:Curtir Carregando...
+
+
+
+4AC5DDE2
+
+"ataques" todos nos sofremos todos os dias
+... Á imensos anos desde do, "flame"ransomware""trojan horse" ...Eu ao ficava constrangido porque ti
+nha que formatar o pc a empresa em causa pelo que é público nao sofreu danos no sistema....agora as 
+"estrategias" foram Expostas
+
+4AC5DDE2
+
+
+
+
+Projeto da Universidade rastreia ataques de ransomware em
+ infraestrutura crítica. Uma equipe da Temple University, na Filadélfia, está rastreando ataques de 
+ransomware em infraestrutura crítica todo o mundo e qualquer pessoa pode solicitar acesso aos dados.
+
+O trabalho neste projeto, descrito como repository of critical infrastructure ransomware attacks (C
+IRWA) –  repositório de ataques de ransomware de infraestrutura crítica – começou em setembro de 201
+9. Em agosto de 2020, o banco de dados inclui mais de 680 registros de ataques de ransomware documen
+tados desde novembro de 2013.
+Segundo o Security Week o repositório é oferecido gratuitamente como a
+rquivo do Microsoft Excel e armazena informações sobre incidentes descritos pela mídia e empresas de
+ segurança cibernética.
+As informações incluem:
+O nome da organização visadaO ano em que o ataque fo
+i lançadoA data em que o ataque começouA localização da organização visadaO setor visadoA duração do
+ ataqueA família de ransomware usadaO valor do resgateA forma de pagamentoSe o valor foi pago e quan
+to foi pagoA fonte das informações e..Os incidentes relacionados.
+Com base no tipo de ransomware usa
+do, também há links para a estrutura MITRE ATT&CK.
+Uma análise dos dados atualmente mostra que as in
+stalações do governo eram o tipo de infraestrutura crítica mais visado – seguido à distância por edu
+cação e saúde – e Maze era a cepa de ransomware mais comum. É importante notar que o projeto rastrei
+a incidentes que afetam a infraestrutura crítica, conforme definido pelo U.S. Department of Homeland
+ Security – Departamento de Segurança Interna dos EUA.
+A duração mais comumente observada de um ataq
+ue de ransomware é de uma semana ou menos, e o valor de resgate mais comumente exigido é de $ 50.000
+ ou menos, mas há 13 incidentes conhecidos em que os invasores exigiram mais de $ 5 milhões.
+
+
+Ataqu
+es de ransomware em infraestrutura crítica
+Aunshul Rege, professora associada do Departamento de Jus
+tiça Criminal da Temple University, lidera o projeto, que é financiado por seu prêmio CAREER da Nati
+onal Science Foundation (NSF). Um dos principais contribuintes do projeto é sua aluna de graduação, 
+Rachel Bleiman, uma aluna de doutorado no programa de Justiça Criminal da universidade.
+“Começamos c
+om o objetivo de fornecer apenas um conjunto de dados baseado em informações de código aberto sobre 
+incidentes CIRW divulgados”, disse Rege à SecurityWeek . “Minha equipe e eu lutamos para encontrar c
+onjuntos de dados que fossem gratuitos / sem amarras no espaço [da infraestrutura crítica], que pude
+ssem ser usados ​​por pesquisadores / educadores (como eu) e também por alunos”.
+Ela acrescentou: “E
+ste conjunto de dados foi impulsionado pela necessidade de contribuir com o espaço educacional / aca
+dêmico para ajudar educadores e alunos. Minha equipe e eu estávamos coletando dados para minha bolsa
+ NSF CAREER de qualquer maneira, então decidimos reformulá-la de uma forma estruturada para comparti
+lhar com a comunidade acadêmica. Começamos o conjunto de dados CIRW em setembro de 2019 com 162 inci
+dentes. Hoje temos 687 incidentes! ”
+De acordo com Rege, muitas pessoas acharam os dados úteis. Ela 
+diz que até agora tem sido solicitado por educadores do ensino superior para projetos de aula, pesqu
+isas e publicações; alunos de graduação para projetos de curso; alunos de graduação para revisão da 
+literatura da dissertação; representantes do governo para aulas de treinamento de ICS, aumentando a 
+conscientização e avaliando respostas internas a ataques de ransomware de infraestrutura crítica; pe
+squisadores para tendências e padrões em TTPs em todas as variedades de ransomware, comparando os da
+dos com seus próprios conjuntos de dados internos e modelagem de ameaças e inteligência; e represent
+antes do setor privado para treinamento, inteligência de ameaças, análise estatística e de risco, au
+mento da conscientização e visão geral das tendências atuais.
+Qualquer pessoa pode solicitar os dado
+s gratuitamente e Rege diz que aprovou quase todas as solicitações que recebeu até o momento.
+“Receb
+emos algumas [solicitações] de endereços de e-mail pessoais (gmail, protonmail, etc), que acompanham
+os. Duas outras razões pelas quais queremos manter o controle de quem está usando o conjunto de dado
+s é para que possamos (i) obter feedback e (ii) potencialmente desenvolver projetos de pesquisa cola
+borativa ”, explicou Rege.
+Os mantenedores do projeto têm feito melhorias com base no feedback que r
+eceberam da comunidade, como ataques de mapeamento ao framework MITRE ATT&CK.
+Fonte:  Security Week 
+por Eduard Kovacs (@EduardKovacs) 
+
+
+https://minutodaseguranca.blog.br/projeto-da-universidade-rastr
+eia-ataques-de-ransomware-em-infraestrutura-critica/
+Share this:TwitterFacebookCurtir isso:Curtir Ca
+rregando...
+
+Relacionado
+ 
+
+4AC5DDE2
+
+[Arquivo do Blog] SegInfocast #45 – Ransomware II
+
+4AC5DDE2
+
+U
+n ransomware ha cifrado mis datos. ¿Qué puedo hacer? -
+
+4AC5DDE2
+
+Projeto da Universidade rastreia a
+taques de ransomware em infraestrutura crítica

@@ -1,0 +1,117 @@
+
+
+
+Küresel bir pandeminin sürdüğü bu dönemde siber suçlular da dünyanın farklı bölgelerindeki kullan
+ıcıların sistemlerini kendi çıkarları için kullanmaya devam ediyor. Haziran ayında tespit edilen fid
+ye yazılım saldırılarının yüzde 26’sından fazlası Türkiye’de gerçekleşti.
+Trend Micro, düzenli olara
+k küresel siber saldırıları incelediği aylık raporunu açıkladı. Rapora göre Covid-19 süresince de si
+ber saldırıların sayısı artmaya devam etti. Mayıs ve haziran ayları boyunca tespit edilen tehditleri
+n sayısı milyarlarla ifade edildi. Siber saldırganlar özellikle evden çalışma modelinin yaygınlaştığ
+ı bu dönemde, tehditlerinin şekillerini de geliştirerek sistemlere sızabilecekleri birçok güvenlik a
+çığını keşfetti.
+Trend Micro Araştırma Ekibi’nin topladığı veriler ışığında hazırlanan rapor tüm dün
+yada özellikle haziran ayında fidye yazılım saldırılarının büyük oranda arttığını gösteriyor. Rapora
+ göre haziran ayında gerçekleştirilen fidye yazılım saldırılarının yüzde 26,4’ü Türkiye’de gerçekleş
+ti. Buna göre fidye yazılım saldırılarında, Türkiye tüm ülkeler arasında ilk sırada yer aldı. Türkiy
+e’deki fidye yazılım saldırılarının, ilk 5’te yer alan Hindistan, Birleşik Arap Emirlikleri (BAE) ve
+ ABD’nin toplamından daha fazla sayıda olduğu tespit edildi. Tüm dünyada haziran ayında yüzde 113 or
+anında artan fidye yazılım saldırılarında, en büyük artış BEC yoluyla gerçekleştirilenlerde oldu. Üs
+t düzey yönetici ve kilit pozisyonlarda görevli kişilere yönelik olarak yapılan iş e-postalarını ele
+ geçirme saldırılarında kullanılan kötü amaçlı dosyaların sayısı aynı dönemde yüzde 166 arttı. Bu kö
+tü amaçlı dosyaların yüzde 70’ten fazlasını ise PDF uzantılı dosyalar oluşturdu. BEC saldırılarında 
+e-postaları en çok taklit edilenler CEO’lar olmaya devam ederken hedef alınanlar ise finans müdürler
+i oldu. Fidye yazılım saldırılarında en çok hedeflenen sektörler ise sırasıyla; kamu, üretim ve sağl
+ık sektörleri oldu.
+Bankacılık ve finans sektörüne yönelik zararlı yazılım tehditlerinde Türkiye ilk
+ 5’te
+Tespit edilen bankacılık zararlı yazılımlarının sayısında mayıs – haziran döneminde yüzde 7’ye
+ yakın bir düşüş gözlendi. Sırasıyla büyük ölçekli şirketler, tüketiciler ve KOBİ’leri hedef alan ba
+nkacılık zararlı yazılımlarında Türkiye; Çin, Japonya, ABD ve Brezilya’nın ardından beşinci sırada y
+er aldı.
+Basit önlemler siber saldırıları etkisiz hale getirebilir
+Veri kaybetmemek için fidye ödeme
+nin tek seçenek olduğu fidye yazılım saldırıları ve diğer tüm siber tehditlere karşı işletmeler tara
+fından alınacak bazı basit önlemler tehdit riskini azaltıyor.
+
+Düzenli olarak yedekleme yapılmalı.
+G
+üvenilir bir üreticiden etkili bir antivirüs programı sisteme yüklenmeli. Bu programın davranış izle
+me, güvenli uygulamaları listeleme ve web sitelerini filtreleme özelliği olmasına dikkat edilmeli.
+Ç
+alışanlara oltalama saldırılarını tespit edebilmeleri için eğitim verilmeli.
+Yazılım ve sistemlerin 
+sürekli güncellendiğinden emin olunmalı.
+Şirketler uç nokta, hibrit bulut, ağ ve e-posta / web ağ ge
+çitleri üzerinden korunmalı.
+
+ 
+
+4AC5DDE2
+
+3 sene önce bir siber sigorta toplantısında bu işi hacker
+lar farkederse(ödemenin sigorta tarafından yapıldığı) işi gücü bırakır bu adamlara(fidyeciler) para 
+ödemeye başlarsınız demiştim. Anlaşılan o ki farketmişler...
+#Ransomware saldırıları Siber sigorta…
+
+
+4AC5DDE2
+
+NetWalker Ransomware 4 Ayda 25 Milyon Dolar Çalmış!
+
+4AC5DDE2
+
+
+ Siber güvenlik şirketi M
+cAfee, birinci olarak Ağustos 2019’da keşfedilen Mailto olarak bilinen bir fidye yazılımı olan NetWa
+lker’ın faaliyetlerini gösteren bir araştırma raporu yayınladı.
+Rapora nazaran, NetWalker operatörle
+ri Mart 2020’den bu yana fidye ödemelerinden 25 milyon $’ın üzerinde para toplamış.
+1 Mart – 27 Temm
+uz ortasında, küme yaklaşık 2.795 Bitcoin (BTC) topladı ve bu durum onları siber hatalılar ortasında
+ en karlı fidye yazılımlarından biri haline getirdi.
+Rapora nazaran, ölçünün birkaç farklı adrese ay
+rıldığı Bitcoin süreçleri, NetWalker’ın “hizmet olarak fidye yazılımı” servisi sağladığını gösteriyo
+r.
+McAfee’nin dediğine nazaran, başka operatörlere sunduğu gelir paylaşımı sayesinde bu kadar büyük 
+ölçüde para elde edilmiş.
+Kabiliyetleri Güçlendirmek
+McAfee, NetWalker operatörlerinin daha süratli 
+süreç mühletleri ve daha düşük maliyetleri nedeniyle eski Bitcoin adreslerini SegWit adreslerine taş
+ıdıklarını ve hizmet olarak bir fidye yazılımı olduktan sonra modus süreçlerinde ilerleme kaydettikl
+erini öne sürdü.
+20 Mart tarihinden az iki darknet forumu, fidye yazılımına makûs emelli yazılımın y
+ayılmasına ve mümkün hayli karlı hale getirilmesine yardımcı olmak için bir gelir paylaşım şeması su
+nan NetWalker yetkililerinin yayınlarını paylaştı.
+Ziyanlı yazılım inceleme şirketi Emsisoft’ta tehd
+it analisti Brett Callow bahis hakkında şunları söyledi:
+Fidye yazılım kümelerinin yaptığı ölçünün h
+esaplanması son derece sıkıntı ve McAfee’nin de belirttiği üzere, 25 milyon dolarlık sayı global man
+ada düşük bir sayı. Zira 2019 yılında global çapta şirketler, fidye taleplerine karşılık olarak 25 m
+ilyon $’dan çok daha fazla ödeme yaptı.
+Çalışma, Netwalker amaçlarının birçoklarının batı Avrupa ülk
+elerinde ve Amerika Birleşik Devletleri’nde olduğunu ekledi. Küme daha evvel, bilakis raporlar olmas
+ına karşın, corona virüs salgını nedeniyle hastaneleri hedeflemeyeceklerini açıklamıştı.
+Crozer-Keys
+tone Sıhhat Merkezi, 19 Haziran’da NetWalker fidye yazılımı tarafından bir fidye yazılım saldırısına
+ maruz kaldı. Saldırganlar, sistemin çalınan datalarını darknet aracılığı ile açık arttırmaya koydu.
+
+Her şeye karşın, bu tıp fidye yazılım saldırısı yapan bireylere katiyetle güvenilmemesi gerektiği b
+elirli oluyor.
+Bu makale birinci olarak Muhabbit’te yayınlanmıştır
+Bunu beğen:Beğen Yükleniyor...
+
+
+
+4AC5DDE2
+
+Türkiye, fidye yazılımı saldırılarında dünyada ilk sırada https://globaltechmagazine.com/2
+020/09/16/turkiye-fidye-yazilimi-saldirilarinda-dunyada-ilk-sirada/… #fidyeyazılımı #ransomware #sib
+ertehdit #araştırma #sibergüvenlik #cybersecurity #zararlıyazılım #malware
+
+4AC5DDE2
+
+Darkweb'de han
+gi #ransomware grupları hangi firmaları hedef almış ve fidye talep etmiş listesine ulaşmak isteyenle
+r için derli toplu bir kaynak buldum. Buradan  yola çıkarak hangi grupların hangi sektörleri daha fa
+zla hedef aldığı, ne gibi yöntemler(TTP d…

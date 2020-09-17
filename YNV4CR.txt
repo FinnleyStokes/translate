@@ -1,0 +1,171 @@
+Hoje nossa equipe da @BlackBerry continua no @MindTheSec e teremos nossa palestra às 14hs — “Tendênc
+ias e Prevenção de Malware no Mundo de Hoje”. Apresentaremos “ao vivo” as ameaças de ransomware mais
+ recentes e que afetaram varias empresas na região.
+
+4AC5DDE2
+
+
+
+
+Projeto da Universidade rastreia a
+taques de ransomware em infraestrutura crítica. Uma equipe da Temple University, na Filadélfia, está
+ rastreando ataques de ransomware em infraestrutura crítica todo o mundo e qualquer pessoa pode soli
+citar acesso aos dados.
+O trabalho neste projeto, descrito como repository of critical infrastructur
+e ransomware attacks (CIRWA) –  repositório de ataques de ransomware de infraestrutura crítica – com
+eçou em setembro de 2019. Em agosto de 2020, o banco de dados inclui mais de 680 registros de ataque
+s de ransomware documentados desde novembro de 2013.
+Segundo o Security Week o repositório é ofereci
+do gratuitamente como arquivo do Microsoft Excel e armazena informações sobre incidentes descritos p
+ela mídia e empresas de segurança cibernética.
+As informações incluem:
+O nome da organização visadaO
+ ano em que o ataque foi lançadoA data em que o ataque começouA localização da organização visadaO s
+etor visadoA duração do ataqueA família de ransomware usadaO valor do resgateA forma de pagamentoSe 
+o valor foi pago e quanto foi pagoA fonte das informações e..Os incidentes relacionados.
+Com base no
+ tipo de ransomware usado, também há links para a estrutura MITRE ATT&CK.
+Uma análise dos dados atua
+lmente mostra que as instalações do governo eram o tipo de infraestrutura crítica mais visado – segu
+ido à distância por educação e saúde – e Maze era a cepa de ransomware mais comum. É importante nota
+r que o projeto rastreia incidentes que afetam a infraestrutura crítica, conforme definido pelo U.S.
+ Department of Homeland Security – Departamento de Segurança Interna dos EUA.
+A duração mais comumen
+te observada de um ataque de ransomware é de uma semana ou menos, e o valor de resgate mais comument
+e exigido é de $ 50.000 ou menos, mas há 13 incidentes conhecidos em que os invasores exigiram mais 
+de $ 5 milhões.
+
+
+Ataques de ransomware em infraestrutura crítica
+Aunshul Rege, professora associada
+ do Departamento de Justiça Criminal da Temple University, lidera o projeto, que é financiado por se
+u prêmio CAREER da National Science Foundation (NSF). Um dos principais contribuintes do projeto é s
+ua aluna de graduação, Rachel Bleiman, uma aluna de doutorado no programa de Justiça Criminal da uni
+versidade.
+“Começamos com o objetivo de fornecer apenas um conjunto de dados baseado em informações 
+de código aberto sobre incidentes CIRW divulgados”, disse Rege à SecurityWeek . “Minha equipe e eu l
+utamos para encontrar conjuntos de dados que fossem gratuitos / sem amarras no espaço [da infraestru
+tura crítica], que pudessem ser usados ​​por pesquisadores / educadores (como eu) e também por aluno
+s”.
+Ela acrescentou: “Este conjunto de dados foi impulsionado pela necessidade de contribuir com o e
+spaço educacional / acadêmico para ajudar educadores e alunos. Minha equipe e eu estávamos coletando
+ dados para minha bolsa NSF CAREER de qualquer maneira, então decidimos reformulá-la de uma forma es
+truturada para compartilhar com a comunidade acadêmica. Começamos o conjunto de dados CIRW em setemb
+ro de 2019 com 162 incidentes. Hoje temos 687 incidentes! ”
+De acordo com Rege, muitas pessoas achar
+am os dados úteis. Ela diz que até agora tem sido solicitado por educadores do ensino superior para 
+projetos de aula, pesquisas e publicações; alunos de graduação para projetos de curso; alunos de gra
+duação para revisão da literatura da dissertação; representantes do governo para aulas de treinament
+o de ICS, aumentando a conscientização e avaliando respostas internas a ataques de ransomware de inf
+raestrutura crítica; pesquisadores para tendências e padrões em TTPs em todas as variedades de ranso
+mware, comparando os dados com seus próprios conjuntos de dados internos e modelagem de ameaças e in
+teligência; e representantes do setor privado para treinamento, inteligência de ameaças, análise est
+atística e de risco, aumento da conscientização e visão geral das tendências atuais.
+Qualquer pessoa
+ pode solicitar os dados gratuitamente e Rege diz que aprovou quase todas as solicitações que recebe
+u até o momento.
+“Recebemos algumas [solicitações] de endereços de e-mail pessoais (gmail, protonmai
+l, etc), que acompanhamos. Duas outras razões pelas quais queremos manter o controle de quem está us
+ando o conjunto de dados é para que possamos (i) obter feedback e (ii) potencialmente desenvolver pr
+ojetos de pesquisa colaborativa ”, explicou Rege.
+Os mantenedores do projeto têm feito melhorias com
+ base no feedback que receberam da comunidade, como ataques de mapeamento ao framework MITRE ATT&CK.
+
+Fonte:  Security Week por Eduard Kovacs (@EduardKovacs) 
+
+
+https://minutodaseguranca.blog.br/projet
+o-da-universidade-rastreia-ataques-de-ransomware-em-infraestrutura-critica/
+Share this:TwitterFacebo
+okCurtir isso:Curtir Carregando...
+
+Relacionado
+ 
+
+4AC5DDE2
+
+Un ransomware ha cifrado mis datos. ¿Qu
+é puedo hacer? -
+
+4AC5DDE2
+
+Esta semana, vamos mergulhar em # Ransomware-as-a-Service o novo ator de
+ ameaças norte-coreano, #BeagleBoyz, que continuam atacando caixas eletrônicos (porque é aí que está
+ o dinheiro). Ouça agora:http://ftnt.me/6E1682
+
+4AC5DDE2
+
+Ok pipero me agradan los retrasados
+
+4AC5D
+DE2
+
+[Arquivo do Blog] SegInfocast #45 – Ransomware II
+
+4AC5DDE2
+
+Projeto da Universidade rastreia a
+taques de ransomware em infraestrutura crítica
+
+4AC5DDE2
+
+
+SegInfocast #45 – Ransomware II
+
+
+05/12/2
+016
+Leave a comment
+
+
+SegInfocast #45 – Faça o download aqui. (39:24 min, 27,0 MB) 
+Neste episódio, 
+eu recebi novamente Geraldo Bravo, engenheiro de pre-vendas da Cyberark para continuar a conversa so
+bre Ransomware, assunto já abordado no SegInfocast #41 com Carolina Bozza.
+O que é o Ransomware?
+Ger
+aldo explica que o ransomware, também conhecido como vírus de resgate, é uma ameaça cujo objetivo é 
+o sequestro de dados. Ele criptografa de forma não autorizada os arquivos da vítima (sistemas, docum
+entos, etc) exigindo um pagamento para que se tenha acesso as informações com a revelação da chave u
+sada para decriptografar os arquivos.
+Quais são as principais famílias do Ransomware?
+Nosso entrevis
+tado cita algumas famílias como a CryptoLocker, uma das mais ativas atualmente. CryptedXXX, que além
+ de criptografar arquivos também busca por credenciais e bitcoins, aliás, a razão que permitiu que o
+s criminosos possam cobrar resgates sem serem identificados. Também o Crisis, que tem a capacidade d
+e criptografar arquivos de sistema. Um ponto interessante é o fato de já existirem variantes que vis
+am outros sistemas operacionais como o Mac e Android.
+Os vetores de ataque do Ransomware
+Mesmo com v
+árias tecnologias de proteção, o e-mail (phishing) ainda é a forma mais utilizada para os ataques. E
+ são utilizados executáveis e também documentos e scripts infectados.
+Quais são as medidas para frea
+r a ação desses ataques?
+A primeira medida é a prevenção através de controle de e-mail e conscientiz
+ação. O segundo passo é a contenção para evitar a propagação da ameaça na rede, impedindo a comunica
+ção com o servidor na internet, para a criação das chaves de criptografia, porém alguns ransomwares 
+já possuem uma chave padrão. Outras ações recomendadas são o monitoramento do nível de arquivos e ta
+mbém o conceito de privilégio mínimo necessário, para evitar que uma infecção altere outros processo
+s importantes no sistema.
+O que podemos esperar para o futuro?
+Geraldo acredita que a Internet das C
+oisas aumentará ainda mais as possibilidades de infecção. Já existe um ransomware chamado Flocker, q
+ue consegue infectar uma smartTV, por exemplo. Uma outra novidade é o RaaS (Ransomware-As-A-Service)
+, onde você pode escolher a ameaça mais adequada ao seu objetivo, criando uma variante exclusiva par
+a o comprador.
+Geraldo Bravo é engenheiro de pré-vendas da Cyberark com experiência de mais de 10 an
+os na área de redes e segurança da informação. Atuou em outras áreas como Gestão de Projetos e Gestã
+o de Equipes e possui diversas certificações de segurança da informação.
+ 
+
+
+Curtir isso:Curtir Carr
+egando...
+
+
+
+4AC5DDE2
+
+"ataques" todos nos sofremos todos os dias... Á imensos anos desde do, "flame
+"ransomware""trojan horse" ...Eu ao ficava constrangido porque tinha que formatar o pc a empresa em 
+causa pelo que é público nao sofreu danos no sistema....agora as "estrategias" foram Expostas

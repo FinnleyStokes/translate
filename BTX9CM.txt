@@ -1,0 +1,1957 @@
+Merci à François Deruty pour ce partage autour des ransomware.
+Le sujet des ransomware fait partie d
+e notre réalité à tous, particulier et professionnels. L'imputabilité d'une attaque par ransomware e
+st dure à faire ainsi que de dé…https://lnkd.in/d_4EkF2
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Face à la recrud
+escence des attaques par ransongiciels (ransomwares), l’Agence française de la cybersécurité publie 
+son premier guide pour s’en prémunir et agir en cas d’attaques. Industrie & Technologies a sélection
+né pour vous les trois mesures opérationnelles recommandées par l’agence quand on est victime d'une 
+telle cyberattaque.
+
+
+
+	La tendance de 2019 s’est largement confirmée en 2020 : les cyberattaques p
+ar rançongiciels (ransomwares), ces logiciels malveillants chargés de chiffrer les données d’un orga
+nisme pour lui extorquer de l’argent, deviennent le fléau numéro un des cyberattaques en France. « E
+lles connaissent une augmentation sans précédent », et un niveau de sophistication de plus en plus é
+levé, affirme l’Agence de sécurité des systèmes d’information (Anssi), l’autorité de référence en ma
+tière de cybersécurité dans l’Hexagone dans son premier guide pour sensibiliser les entreprises et l
+es collectivités, publié le 4 septembre avec la Direction des Affaires criminelles et des grâces (DA
+CG) du ministère de la Justice.
+
+	Au total, l’agence a identifié près de 104 attaques de ce type ce
+tte année, soit deux fois plus que l’année précédente (54 attaques). Et encore, ces chiffres « ne s'
+appuie[nt] que sur les faits portés à la connaissance de l'Anssi et traités par elle », précise le d
+ocument. Dans la seconde partie de ce document, l’Anssi fournit les clés de ce qu’il faut faire en c
+as d’attaque de ransomware. Pour étayer son propos, l’agence y fait intervenir les responsables de t
+rois organisations françaises qui ont récemment été victimes d’une telle attaque : le groupe M6, le 
+CHU de Rouen et Fleury Michon.
+
+	En plus des bonnes pratiques organisationnelles - déposer une main
+ courante détaillée le plus rapidement possible puis porter plainte, déployer une cellule de crise e
+t communiquer sur l’attaque, elle détaille surtout les mesures opérationnelles à prendre - témoignag
+e des victimes à l’appui.
+
+	1. Eteindre ce qui peut l’être et conserver les données chiffrées
+
+	La
+ première action à faire impérativement : « Déconnecter au plus tôt vos supports de sauvegardes aprè
+s vous être assurés qu’ils ne sont pas infectés et isoler les équipements infectés du système d’info
+rmation en les déconnectant du réseau » afin de neutraliser le lien entre l’attaquant et son logicie
+l.
+
+	Une fois les programmes malveillants identifiés, l’Anssi recommande de « rechercher dans les j
+ournaux du système d’information les éventuelles caractéristiques de ceux-ci (exemple : URL utilisée
+s pour communiquer avec l’infrastructure de l’attaquant, nom de fichier, condensat, objet du courrie
+r électronique, etc.) » car « ces éléments pourront être utilisés sur les passerelles applicatives o
+u sur les équipements de filtrage réseau pour éviter de nouvelles infections » – comme créer une nou
+velle règle sur le pare-feu de la victime pour bloquer l’accès à une URL donnée.
+
+	« Malgré le chif
+frement des données par le rançongiciel, il est possible qu’une solution de chiffrement soit découve
+rte et rendue publique ultérieurement », poursuit le document. C’est pourquoi la victime devrait con
+server les données chiffrées. « Le projet No More Ransom, d’Europol, du National High Tech Crime Uni
+t de la police néerlandaise et de l’éditeur McAfee recense les moyens de déchiffrement applicables à
+ un grand nombre de rançongiciels. »
+
+	« L’une des premières actions mises en oeuvre a été de coupe
+r les accès au réseau Internet et au réseau interne puis d’isoler tous les composants non impactés, 
+à commencer par les sauvegardes, les bases de données ainsi que les baies de stockages », témoigne, 
+Cédric Hamelin, responsable adjoint à la sécurité du système d’information du CHU de Rouen.
+
+	2. Ne
+ pas payer la rançon
+
+	La rançon est souvent l’objet de nombreuses tribulations au sein de la commu
+nauté cyber. Sur ce point, le conseil de l’Anssi est sans appel : il ne faut jamais la payer.
+
+	L’a
+gence avance trois raisons principales. Tout d’abord, son paiement ne garantit pas le déchiffrement 
+de la part de l’attaquant. Ensuite, même si l’attaquant livre la clé de déchiffrement, celle-ci n’as
+sure pas toujours le rétablissement de la totalité des fichiers. Enfin, et surtout, payer la rançon 
+« n’empêchera pas votre n’empêchera pas votre entité d’être à nouveau la cible de cybercriminels ».
+
+
+	3. Restaurer les systèmes depuis des sources saines
+
+	Et quand il est temps de revenir à la vie 
+normale ? Alors, « il est préférable de réinstaller le système sur un support connu et de restaurer 
+les données depuis les sauvegardes effectuées, de préférence, antérieures à la date de compromission
+ du système », détaille l’Anssi.
+
+	Pour restaurer ses données, il est primordial de suivre les règl
+es suivantes :
+
+
+		La vulnérabilité initialement utilisée par l’attaquant doit être corrigée afin d
+’éviter une nouvelle infection (exemple : mise à jour logicielle, modification de la politique de fi
+ltrage réseau).
+
+		Si les recherches ont permis d’identifier le rançongiciel, vérifier l’absence de
+s modifications réalisées par le programme malveillant afin de se maintenir après le redémarrage d’u
+ne machine précédemment infectée (exemple : valeurs de registre et fichiers malveillants).
+
+		Chang
+er les mots de passe.
+
+
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+Les 3 conseils techniques de l’ANSSI contre un ransomwar
+e : 
+1. Eteindre ce qui peut l’être 
+2. Ne pas payer 
+3. Restaurer les systèmes depuis des sources s
+aines 
+ Au passage, n’oubliez pas de contacter un expert #Siemens pour vous conseiller 
+
+
+4AC5DDE2
+
+
+Ce qui est à mon sens de plus en plus visible c'est que pour faire face il faut avoir mis en œuvre u
+ne approche équilibrée : hygiène, sensibilisation, protection, détection, réponse... Face à un ranso
+mware si tu oublies l'un des piliers, tu es rattrapé par la réalité...
+
+4AC5DDE2
+
+[#CyberSec] #Ranso
+mware : selon l’assurance américaine #Coalition, les attaques par rançongiciel représentent 41% des 
+demandes d’indemnisation depuis le début de l’année. @Bitdefender fait état d’une multiplication par
+ 7 des signalements, sur un an 
+
+4AC5DDE2
+
+[#RANSOMWARE] Rançongiciels : face à l’ampleur de la mena
+ce, l’ANSSI et le ministère de la Justice publient un guide pour sensibiliser les entreprises et les
+ collectivités http://https://ssi.gouv.fr//actualite/rancongiciels-face-a-lampleur-de-la-menace-lans
+si-et-le-ministere-de-la-justice-publient-un-guide-pour-sensibiliser-les-entreprises-et-les-collecti
+vites/… (via @precisement)
+
+#rançongiciel
+
+4AC5DDE2
+
+ Pack @1000Partenaires – Sécurisez vos mails  D
+écouvrez la solution pour protéger votre entreprise et vos collaborateurs des nouvelles menaces par 
+email : #malware, #phishing, #ransomware, #spam... Pour tout savoir et être accompagné https://ift.t
+t/2KiCfS7 #1000partenair…
+
+4AC5DDE2
+
+
+
+                        Optimisez votre temps
+Tri automatique
+ des emails, spams et newsletters FacilitÃ© de gestion et dâutilisation Gain de productivitÃ©
+
+
+4A
+C5DDE2
+
+LockBit ransomware launches data leak site to double-extort victims https://bleepingcomputer
+.com/news/security/lockbit-ransomware-launches-data-leak-site-to-double-extort-victims/?utm_source=d
+lvr.it&utm_medium=twitter…
+
+4AC5DDE2
+
+LockBit #ransomware launches data leak site to double-extort v
+ictims
+
+4AC5DDE2
+
+
+
+
+
+
+
+Sommaire
+1. Quelle est votre exposition de liens RDP ?
+2. Apparition d'outil
+s logiciels inconnus sur le réseau
+3. Désactivation d'Active Directory et corruption des sauvegardes
+
+4. Comment arrêter les agresseurs une fois qu'ils sont entrés dans le système d'information ?
+Selon
+ une estimation récente, jusqu'à 100 demandes d'indemnisation sont présentées chaque jour aux assure
+urs pour des attaques de ransomware. Et comme il faut en moyenne entre 60 et 120 jours pour qu'une a
+ttaque de ce type se déroule, cela signifie que des centaines d'entreprises pourraient en ce moment 
+même avoir des pirates installés dans leurs réseaux informatiques, prêts à déclencher leur logiciels
+ de chiffrement.
+Quels sont donc les premiers indicateurs à suivre pour les entreprises qui tentent 
+de repérer une attaque de ce type, avant qu'elle ne cause trop de dégâts ? Et que devraient-elles fa
+ire si elles découvrent une attaque en cours ?
+ publicité 1. Quelle est votre exposition de liens RD
+P ?
+Le chiffrement des fichiers par des ransomwares est la dernière chose qui se produit lors d'une 
+attaque. Avant cela, les pirates passeront des semaines, voire plus, à enquêter sur le réseau inform
+atique de l'entreprise pour en découvrir les faiblesses. L'un des moyens les plus courants utilisés 
+pour pénétrer dans les réseaux d'entreprise est de passer par des liens RDP (Remote Desktop Protocol
+) laissés ouverts sur internet.
+« Regardez votre environnement et comprenez quelle est votre exposit
+ion à la RDP, et assurez-vous que vous avez une authentification à deux facteurs sur ces liens ou qu
+'ils se trouvent derrière un VPN », explique Jared Phipps, vice-président de la société de sécurité 
+SentinelOne.
+Le confinement dû au coronavirus a eu une incidence sur ce point. Avec la montée en pui
+ssance du télétravail, de nombreuses entreprises ont ouvert des liens RDP pour faciliter l'accès à d
+istance. Cela ouvre la voie aux ransomwares, ajoute Jared Phipps, et l'analyse des systèmes en ligne
+ à la recherche de ports RDP ouverts est donc une première étape pour les pirates.
+2. Apparition d'o
+utils logiciels inconnus sur le réseau
+Un autre signe d'alerte pourrait être l'apparition d'outils l
+ogiciels inconnus ou inattendus sur le réseau. Les attaquants peuvent commencer par contrôler un seu
+l PC sur un réseau – peut-être par le biais d'un courriel de phishing (une vague de courriels de phi
+shing pourrait être un indicateur d'une attaque, et si le personnel est formé pour les repérer, cela
+ pourrait constituer une alerte précoce). Grâce à cette emprise sur le réseau, les pirates explorero
+nt à partir de là pour voir ce qu'ils peuvent trouver d'autre à attaquer.
+Cela signifie qu'ils utili
+sent des scanners de réseau, tels que AngryIP ou Advanced Port Scanner. Si ceux-ci sont détectés sur
+ le réseau, il est temps de se renseigner auprès de l'équipe de sécurité. Si personne n'admet avoir 
+utilisé ces scanners, il est temps d'enquêter, prévient Sophos. Un autre signal d'alarme est la déte
+ction de MimiKatz, qui est l'un des outils les plus régulièrement utilisés par les pirates, avec Mic
+rosoft Process Explorer, dans leurs tentatives de voler des mots de passe et des informations de con
+nexion.
+Une fois qu'ils ont obtenu l'accès au réseau, les pirates tentent souvent ensuite d'augmente
+r leurs capacités en créant des comptes d'administrateur pour eux-mêmes, par exemple dans Active Dir
+ectory, et ils les utilisent pour commencer à désactiver les logiciels de sécurité en utilisant des 
+applications dédiées comme Process Hacker, IOBit Uninstaller, GMER et PC Hunter, précise Sophos. « C
+es types d'outils commerciaux sont légitimes, mais s'ils sont dans de mauvaises mains, les équipes d
+e sécurité et les administrateurs doivent se demander pourquoi ils sont soudainement apparus dans le
+ système d'information. »
+Pour éviter cela, les entreprises doivent chercher des comptes qui sont cr
+éés en dehors du système de ticketing ou de gestion des comptes, explique Jared Phipps de SentinelOn
+e. Une fois que les attaquants ont des privilèges d'administrateur, ils tentent ensuite de se propag
+er sur le réseau, en utilisant PowerShell.
+L'ensemble du projet peut prendre des semaines, voire des
+ mois, pour être exécuté. Cela s'explique en partie par le fait que plus ils sont lents à se déplace
+r sur le réseau informatique, plus ils sont difficiles à repérer. De plus, de nombreux outils de séc
+urité n'enregistrent le trafic sur le réseau que pendant un certain temps, ce qui signifie que si le
+s pirates s'attardent un certain temps, il devient beaucoup plus difficile pour les équipes de sécur
+ité de déterminer comment ils sont entrés dans le système au départ.
+3. Désactivation d'Active Direc
+tory et corruption des sauvegardes
+Il y a également des signes évidents qu'une attaque de ransomware
+ est sur le point de se terminer. Les attaquants tentent souvent de désactiver Active Directory et l
+es contrôleurs de domaine, et de corrompre toutes les sauvegardes qu'ils peuvent trouver, ainsi que 
+de désactiver tous les systèmes de déploiement de logiciels qui pourraient être utilisés pour pousse
+r des correctifs ou des mises à jour. « Et puis ils vous frapperont avec l'attaque de chiffrement »,
+ ajoute Jared Phipps.
+Sophos note également qu'à ce stade, les pirates pourraient tenter de chiffrer
+ quelques appareils juste pour voir si leur plan va fonctionner.
+4. Comment arrêter les agresseurs u
+ne fois qu'ils sont entrés dans le système d'information ?
+Alors comment arrêter les agresseurs une 
+fois qu'ils sont entrés ? Selon Jared Phipps, le plus important est de prendre le contrôle des sessi
+ons RDP, car cela permet d'empêcher les attaquants d'entrer et de leur couper l'accès au système de 
+commandement et de contrôle (C & C). D'autres mesures, comme le changement de mot de passe dans les 
+systèmes centraux, peuvent être utiles, mais si les pirates peuvent utiliser un RDP pour revenir dan
+s le réseau, de telles mesures seront inefficaces. Il est également important de surveiller l'appari
+tion de comptes administrateurs inattendus, et les entreprises devraient envisager de surveiller ou 
+de limiter l'utilisation de PowerShell.
+Comment pouvez-vous faire de votre organisation une cible pl
+us difficile, et donc moins attrayante ? Il est essentiel de maintenir les logiciels à jour et de le
+s patcher ; de nombreuses attaques de ce type s'appuient sur des failles logicielles pour fonctionne
+r, mais la plupart de ces failles ont été corrigées depuis longtemps par les sociétés de logiciels –
+ il suffit d'administrer le correctif.
+Pour les attaques par courriel, la formation du personnel à n
+e pas cliquer sur des liens et la combinaison de mots de passe forts et d'une authentification à deu
+x facteurs sur le plus grand nombre possible de systèmes contribueront également à dissuader ou à ra
+lentir les attaquants.
+Source : ZDNet.com
+
+
+4AC5DDE2
+
+Quand le Cert national allemand se lamente de 
+trouver plus de 150 systèmes #shitrix outre-Rhin après... des mois d’avertissements, mais aussi d’at
+taques et de #Ransomware 
+
+4AC5DDE2
+
+Au delà du coût du chiffrement d’un cab (machines à remplacer, 
+souvent, presta, immobilisation du SI), des pertes de données (chiffrement des backups), la fuite de
+ pièces confidentielles sur des sites de Ransomware est une cata pour la confidentialité et les donn
+ées personnelles.
+
+4AC5DDE2
+
+Et toujours la question qui fâche... combien paient, faute de compétenc
+es, de ressources, de sensibilisation ? ...comme ce petit cabinet de Phoenix, dans l'Arizona, victim
+e de Revil/Sobinokibi, et qui a finalement versé près de 370 XMR début juin. #ransomware
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 15 sept. 20
+20
+
+
+ 
+La métropole Aix-Marseille-Provence en a fait l’amère expérience récemment : une attaque de r
+ançongiciel peut être maîtrisée sans que la situation ne soit pleinement sous contrôle. Les données 
+volées par les opérateurs de Pysa, à l’occasion de la cyberattaque du mois de mars, ont été divulgué
+es… début septembre. L’entreprise de services numériques indo-américaine Artech vient quant à elle d
+e montrer qu’une attaque peut paraître maîtrisée, sans que son système d’information ne soit véritab
+lement assaini.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Ransomware 
+: La menace se fait plus ciblée
+Nul RSSI n'ignore la présence de ransomware, mais beaucoup sous-esti
+ment leur côté pernicieux et à quel point ces derniers peuvent être ciblés. Ce guide vous présente c
+e danger ainsi que les mesures pour s'en préserver.
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionne
+lle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e
+-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de car
+actères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'
+utilisation de TechTarget, ainsi que la politique de confidentialité et le transfert de mes informat
+ions aux États-Unis pour traitement afin de me fournir les informations pertinentes décrites dans no
+tre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte
+ que mes informations soient traitées par TechTarget et ses partenaires afin de communiquer avec moi
+ par le biais du téléphone ou du courrier électronique et ce à propos d’informations pertinentes dan
+s mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vo
+us voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artech est en fait la première entreprise dont 
+les opérateurs de Revil/Sodinokibi divulguaient des données volées après une compromission réussie. 
+C’était au mois de janvier : ils publiaient les liens vers plus de 300 Mo de données selon eux dérob
+ées par leurs soins, rapportaient alors nos confrères de Bleeping Computer.
+Artech, qui communique a
+ssez peu, comme le montre la liste de ses communiqués de presse sur les quatre dernières années, a a
+ttendu le 4 septembre pour reconnaître officiellement l’incident. Dans une « notification », l’ESN e
+xplique avoir reçu le 8 janvier « un rapport d’activité inhabituelle relatif au compte utilisateur »
+ de l’un de ses employés. Et d’assurer avoir « immédiatement commencé à enquêter ». Un processus qui
+, selon l’ESN, a mené à « l’identification d’un ransomware sur certains de [ses] systèmes ».
+L’inter
+vention d’un tiers spécialisé a permis de déterminer, le 15 janvier, qu’un « acteur non autorisé ava
+it accédé à certains systèmes d’Artech entre le 5 et le 8 janvier 2020 ». L’ESN explique alors avoir
+ « mené un examen complet de ces systèmes » pour déterminer qu’il y avait eu accès à des données per
+sonnelles. Selon Artech, cet examen a été finalisé… le 25 juin dernier, soit plus de 5 mois après le
+ début de l’incident.
+Troy Mursh, de Bad Packets, souligne qu’Artech a exposé « pendant des mois et 
+des mois » un serveur VPN Pulse Secure affecté par la vulnérabilité CVE-2019-11510. Selon les donnée
+s de Shodan, le serveur concerné était encore affecté tout début janvier 2020.
+L’histoire aurait pu 
+s’arrêter là, si les opérateurs de Maze ne revendiquaient, depuis ce week-end, à leur tour, la compr
+omission d’Artech, diffusant au passage près de 1,5 Go de données compressées volées à l’occasion. Q
+ue s’est-il donc passé ?
+Un autre système laissé vulnérable et à côté duquel les équipes d’Artech se
+raient passées n’est pas à exclure. Mais il peut y avoir encore plus simple. Brett Callow, analyste 
+chez Emsisoft avance ainsi une hypothèse : « que l’affilié [à Revil] responsable de la première atta
+que se soit laissé une porte d’entrée dans le réseau et ait alors donné accès à un autre groupe ».
+L
+’hypothèse n’apparaît pas, en soi, saugrenue. C’est désormais bien connu : lorsque détone le ransomw
+are, les assaillants sont confortablement installés en profondeur dans le système d’information, d’o
+ù les enjeux souvent considérables de la reconstruction.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Rapport Thale
+s 2020 sur les menaces informatiques
+–Thales
+
+
+Cyber-adversaires et course contre la montre
+–CrowdSt
+rike
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Les clients d’Orange Business Services mise
+nt sur la gouvernance des données
+
+
+
+
+Par: Gaétan Raoul
+
+
+
+
+Ransomware : qu’est-il arrivé à FARO Tec
+hnologies ?
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Covid-19 et ESN : l’Offshore en Inde se met aussi au télétr
+avail
+
+
+
+
+Par: Alain Clapaud
+
+
+
+
+Ransomware : Cognizant anticipe une facture à plusieurs dizaines de
+ millions de dollars
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+4AC5DDE2
+
+
+
+
+
+
+
+Les responsables de la ville de
+ Hartford, dans le Connecticut, ont été contraints de reporter le premier jour de la nouvelle année 
+scolaire après qu'une attaque par ransomware a touché le réseau informatique de la ville. Selon une 
+déclaration publiée par Hartford Public Schools, le district scolaire desservant la ville de Hartfor
+d, l'attaque par ransomware a touché plusieurs des systèmes informatiques internes des écoles, provo
+quant une panne prolongée.
+Le personnel informatique a travaillé à la restauration des services, mai
+s celle-ci n'a pas été achevée à temps pour la rentrée, prévue le 8 septembre. Un double problème pu
+isque suite à la pandémie de Covid-19, la scolarisation en présentiel a été suspendue depuis le prin
+temps. Dans cette école, cette rentrée devait donc être le premier jour de la nouvelle année scolair
+e 2020, mais aussi le premier jour de scolarisation des enfants de manière physique depuis des mois.
+
+L'administration des écoles a expliqué être dans l'obligation de retarder la rentrée parce que le s
+ystème informatique du district qui communique avec la compagnie de bus qui transporte les élèves à 
+l'école était toujours en panne suite à l'attaque par ransomware. Comme les lignes de bus scolaires 
+ne pouvaient pas être configurées, les responsables scolaires ont décidé de reporter le premier jour
+ d'école à une date ultérieure.
+ publicité Pas de solution pour l'instant
+Et les cours d'apprentissa
+ge à distance ont également été suspendus. L'administration n'a pas fourni de calendrier pour la rem
+ise en état de ses systèmes informatiques et a déclaré qu'elle informerait les parents quand ils pou
+rront commencer la nouvelle année.
+Source : ZDNet.com
+
+
+4AC5DDE2
+
+Apres les #ransomware, et maintena
+nt que tout le monde est en télé-travail ! il suffit de bloquer les VPN avec un bon #DDoS !
+
+4AC5DDE
+2
+
+
+À l’ère d’aujourd’hui, presque toutes les entreprises dépendent d’Internet d’une manière ou d’un
+e autre pour les aider à mener à bien leurs opérations quotidiennes. Il existe des menaces spécifiqu
+es qui pourraient mettre une entreprise entièrement hors ligne en quelques secondes, et l’une des pl
+us importantes est le ransomware. Une infection par un ransomware devient une menace courante. Ce ty
+pe d’attaque peut cibler n’importe qui, des utilisateurs individuels à un réseau qui héberge une ent
+reprise au niveau de l’entreprise. Lorsqu’une attaque de ransomware a lieu, cela pourrait placer les
+ entreprises dans une situation désespérée.
+Pour cette raison, chacun doit réfléchir attentivement à
+ la manière de prévenir les attaques de ransomwares. De plus, si le pire des cas se produit, quel es
+t le plan de reprise après sinistre? Y a-t-il un système de sauvegarde en place? Il y a quelques poi
+nts clés que chacun devrait garder à l’esprit.
+Qu’est-ce qu’une infection par ransomware?
+Les virus 
+se présentent sous de nombreuses formes et formes, c’est pourquoi tout le monde doit s’assurer de se
+ tenir au courant de ses mises à jour anti-malware. Pour ceux qui ne le savent peut-être pas, une at
+taque de ransomware est un type de virus ou de malware qui rend les données de l’utilisateur ou de l
+’entreprise complètement inutilisables. Le logiciel malveillant le fait en infectant un appareil et 
+en verrouillant l’écran lorsqu’il crypte les fichiers. Lorsque les fichiers ont été chiffrés, ils so
+nt impossibles à utiliser. En outre, les ransomwares peuvent également être utilisés pour se propage
+r à d’autres appareils susceptibles d’être connectés au réseau. De cette manière, si un périphérique
+ a été infecté, le virus peut également se propager à d’autres périphériques.
+Habituellement, lorsqu
+’une infection par un ransomware a lieu, une note s’affiche à l’écran. Cette note dit souvent que le
+s fichiers ont été cryptés et sont inutilisables. Pour libérer les données, l’utilisateur devra paye
+r une rançon. Dans certains cas, les ransomwares peuvent sembler provenir d’un organisme d’applicati
+on de la loi, ce qui ne fait qu’ajouter à la confusion. Ils pourraient même prétendre que l’appareil
+ a été utilisé dans une activité illégale d’une manière ou d’une autre.
+En règle générale, un attaqu
+ant de ransomware demandera que le paiement soit effectué dans une monnaie numérique. Cela rendrait 
+le transfert introuvable, ce qui leur permettrait de s’en tirer plus facilement. Il y a généralement
+ une limite de temps qui accompagne une attaque de ransomware. Si le paiement n’est pas effectué dan
+s le délai imparti, l’attaquant pourrait augmenter le prix. Ou bien, l’attaquant pourrait menacer d’
+éradiquer les fichiers, les faisant perdre à jamais. C’est pourquoi il est essentiel de prévenir les
+ attaques de ransomwares.
+Un aperçu de la prévention des attaques de ransomware
+Même s’il n’existe a
+ucun moyen complet d’empêcher les attaques de ransomwares, il existe quelques mesures que chacun peu
+t prendre pour minimiser ses risques.
+
+Tout d’abord, toutes les entreprises doivent former leurs emp
+loyés à reconnaître les signes qu’un virus, tel qu’un ransomware, pourrait être présent. Les attaque
+s de phishing sont parmi les moyens les plus courants par lesquels les virus finissent par infecter 
+un réseau informatique. Dans ce type d’attaque, les criminels tentent d’inciter les employés et les 
+utilisateurs à cliquer sur des liens ou à télécharger des pièces jointes qui infectent l’ordinateur.
+ Dans certains cas, cette pièce jointe peut inclure un fichier de ransomware qui verrouille le systè
+me. Tous les services informatiques doivent apprendre à leurs employés à reconnaître la présence d’u
+n virus afin d’éviter ces infections.
+Ensuite, il est essentiel de corriger régulièrement les applic
+ations et les systèmes d’exploitation. Cela signifie également des fichiers anti-malware. Au fil du 
+temps, les applications deviennent obsolètes et obsolètes. Le résultat est qu’il pourrait y avoir un
+e vulnérabilité qu’un criminel pourrait exploiter à son profit. Des correctifs sont publiés régulièr
+ement pour éviter que cela ne se produise. Tout le monde doit s’assurer que ses fichiers sont réguli
+èrement corrigés pour éviter une attaque de ransomware.
+En outre, il est crucial de désactiver les m
+acros qui ne sont pas nécessaires. Certaines infections de ransomware sont envoyées sous forme de pi
+èces jointes. Lorsque l’utilisateur ouvre le fichier, il est invité à activer les macros. Cela ouvri
+ra le contenu du document à chaque couche. Lorsque les macros sont activées, le ransomware s’ouvre e
+t s’exécute. Pour éviter cela, assurez-vous que toutes les macros sont désactivées. Ensuite, s’il y 
+a un fichier ou une pièce jointe suspect, alertez l’équipe informatique.
+De plus, toutes les entrepr
+ises doivent utiliser ce qu’on appelle le moindre privilège. Pour limiter les dommages causés par to
+ut virus, y compris les attaques de ransomwares, il est essentiel de s’assurer que tous les employés
+ n’ont accès qu’aux informations dont ils ont besoin. En restreignant l’accès de toutes les personne
+s impliquées, cela maintient la sécurité serrée et limite également le risque de propagation d’un vi
+rus à l’ensemble du réseau.
+Enfin, tout le monde doit avoir un plan de reprise après sinistre en pla
+ce et toutes les entreprises doivent disposer d’un système de sauvegarde capable de protéger leurs f
+ichiers contre les dommages. Habituellement, les entreprises suivent ce qu’on appelle la règle des 3
+, 2, 1. Cela signifie que toutes les données doivent être sauvegardées au moins trois fois via deux 
+supports différents, une option étant hors site. Cela peut prendre la forme d’un système de sauvegar
+de dans le cloud. Les sauvegardes sont essentielles car si un ransomware est implanté dans un seul a
+ppareil, il peut se propager à l’ensemble du réseau. Dans ce cas, les données peuvent être restaurée
+s à partir de l’une des sauvegardes et l’entreprise continue de fonctionner. Assurez-vous simplement
+ que les sauvegardes ne sont pas connectées à Internet ou au réseau local, car elles pourraient égal
+ement être infectées. Ce système permet à chacun de continuer à travailler sans avoir à faire face a
+ux exigences de l’attaque du ransomware. Cela garantit que les ressources restent disponibles pour a
+ssurer le fonctionnement de l’entreprise. Ceux qui ont un système de sauvegarde dans le cloud doiven
+t s’assurer qu’ils savent comment cela fonctionne. Si le système cloud est connecté au réseau local,
+ l’attaque du ransomware crypte également son fichier.
+
+Ces étapes peuvent jouer un rôle essentiel e
+n aidant les entreprises à élaborer un plan de reprise après sinistre complet qui pourrait les empêc
+her de perdre leurs données lors d’une attaque de ransomware. Tous les plans d’affaires doivent pren
+dre en compte les problèmes de cybersécurité car ils sont plus pertinents aujourd’hui qu’ils ne l’on
+t jamais été dans le passé.
+Le processus de récupération après une attaque de ransomware
+S’il est to
+ujours préférable d’empêcher une attaque de ransomware, cela peut ne pas toujours être possible. Tou
+t d’abord, notez qu’une attaque de ransomware ne garantit pas que les fichiers seront cryptés. Le pr
+ogramme pourrait finir par faire autre chose à la place. Même si les fichiers sont laissés intacts, 
+il est clair qu’une violation de données a eu lieu, et cela doit être traité.
+Si les fichiers ne son
+t pas cryptés, il est possible que des copies aient été faites et puissent être publiées en ligne. S
+i les entreprises paient la rançon, cela ne fera qu’encourager davantage de cyberattaques à l’avenir
+. Cela envoie également le mauvais message. Dans le même temps, chaque organisation a un niveau diff
+érent de tolérance au risque et doit faire ce qu’elle estime être bon pour elle. Dans cet esprit, qu
+elles sont certaines des mesures que les utilisateurs et les entreprises doivent suivre s’ils ont ét
+é touchés par une attaque de ransomware? Certaines des étapes les plus importantes comprennent:
+
+Iso
+ler l’appareil: la première étape doit toujours être d’isoler l’appareil pour empêcher le ransomware
+ de se propager à d’autres ordinateurs et réseaux. Cela signifie que l’ordinateur doit être supprimé
+ du réseau et que toutes les connexions locales doivent être supprimées. Dans certains cas, l’infect
+ion par le ransomware peut se propager discrètement à d’autres appareils, ce qui aggrave encore l’at
+taque. En isolant l’appareil, ce risque est minimisé.
+Identifiez le ransomware: similaire à d’autres
+ types de virus. Les attaques de ransomwares se présentent sous de nombreuses formes et formes. Il e
+xiste quelques outils en ligne qui peuvent être utilisés pour vérifier et voir si ce type d’attaque 
+de ransomware a déjà été observé. Si tel est le cas, il peut y avoir un guide pour le déchiffrer. Je
+tez un œil aux URL sur la page de rançon, car ce sont généralement des indices sur le type d’attaque
+ de ransomware qui vient de se dérouler.
+En outre, vérifiez si les fichiers cryptés comportent un no
+uveau type d’extension de fichier. Cela pourrait également être un indice sur le type d’attaque de r
+ansomware qui a eu lieu. En identifiant l’attaque du ransomware, il peut être plus facile de la vain
+cre.
+Supprimer: l’étape suivante consiste à supprimer le ransomware. Dans certains cas, il peut y av
+oir un outil de cryptage qui peut être utilisé pour effacer le ransomware. S’il n’y a pas d’outil ca
+pable de supprimer le ransomware, l’étape suivante consiste à réinitialiser l’appareil et à effacer 
+toutes les données. L’appareil doit être remis aux paramètres d’usine en effaçant toutes les données
+, y compris le ransomware. Ensuite, les fichiers peuvent être restaurés à partir d’une copie de sauv
+egarde.
+Corrigez le système: une fois la réinitialisation terminée et le ransomware supprimé, il est
+ temps de corriger le système. Le ransomware est entré d’une manière ou d’une autre, il est donc cru
+cial de faire un audit du système et de s’assurer que les lacunes ont été comblées. Cela empêchera d
+es attaques similaires de se produire sur la route.
+Changements de mot de passe: après toute attaque
+, y compris une attaque de ransomware, il est vital de changer le mot de passe de tout compte qui au
+rait pu être impliqué. Cela signifie les comptes d’entreprise, les comptes de réseaux sociaux, les c
+omptes de messagerie, etc.
+Éduquer les utilisateurs: Enfin, il est temps d’aider les utilisateurs à 
+revoir leur formation. Prenez le temps de leur expliquer comment fonctionne le ransomware et pourquo
+i cette attaque est si dangereuse. Pour prévenir les attaques de ransomwares à l’avenir, les gens do
+ivent apprendre à les repérer.
+
+Ce sont quelques-unes des étapes les plus critiques que tout le mond
+e doit suivre si une attaque de ransomware les frappe. Malheureusement, ces attaques sont de plus en
+ plus courantes. Ils ont le potentiel de détruire les réseaux et d’effacer les données. La meilleure
+ façon de faire face à une attaque de ransomware est de l’empêcher de se produire en premier lieu. C
+ela signifie élaborer un plan de sauvegarde, former les employés à détecter les attaques de phishing
+ et mettre à jour régulièrement les applications et les systèmes d’exploitation.
+
+
+4AC5DDE2
+
+Une éco
+le du Connecticut retarde sa rentrée scolaire en présentiel car victime d'un ransomware paralysant l
+e district scolaire desservant la ville de Hartford.
+
+SYLink est également en mesure de fournir des 
+solutions de protection pour les écoles.
+
+https://bit.ly/3izp9yu
+
+4AC5DDE2
+
+LockBit ransomware launc
+hes data leak site to double-extort victims
+
+4AC5DDE2
+
+Infosec : Le groupe APT qui exploite le ranso
+mware "LockBit" vient de lancer un blog sur le Dark Web annonçant, dès sa création, la vente de donn
+ées issues du cryptage des sociétés Yaskawa Electric Corporation et Overseas Express.
+https://gemini
+advisory.io/lockbit-launches-ransomware-blog/…
+
+4AC5DDE2
+
+Il existe des menaces spécifiques qui pour
+raient mettre une entreprise entièrement hors ligne en quelques secondes, et l’une des plus importan
+tes est le ransomware.
+
+4AC5DDE2
+
+
+
+Les attaques par ranÃ§ongiciels augmentent en nombre, en frÃ©que
+nce et en sophistication. Depuis le 1er janvier 2020, lâANSSI a traitÃ© 1041 attaques par ranÃ§ong
+iciels. Leurs consÃ©quences sont de plus en plus dÃ©vastatrices, sur la continuitÃ© dâactivitÃ©, v
+oire la survie de lâorganisation victime.
+Â« Les acteurs privÃ©s comme publics sont encore trop pe
+u conscients du risque et de leur propre vulnÃ©rabilitÃ© Â» constate Guillaume Poupard, directeur gÃ
+©nÃ©ral de lâANSSI.
+Â« Il est urgent pour les entreprises et les collectivitÃ©s de mettre en Åuvr
+e des mesures pour prÃ©venir les attaques par ranÃ§ongiciels et dâapprendre Ã  bien rÃ©agir lorsqu
+âil est trop tard Â» explique FranÃ§ois Deruty, sous-directeur OpÃ©rations de lâANSSI.
+Pour fair
+e face Ã  cette situation inÃ©dite et dans le cadre dâune dynamique gouvernementale, lâANSSI, en
+ partenariat avec la DACG, publie le guide Attaques par ranÃ§ongiciels, tous concernÃ©s â Comment 
+les anticiper et rÃ©agir en cas dâincident ?
+Ce guide de bonnes pratiques prÃ©ventives et rÃ©activ
+es face aux ranÃ§ongiciels est enrichi des tÃ©moignages de trois organisations victimes : le Groupe 
+M6, le CHU de Rouen et Fleury Michon. TrÃ¨s concret, il sâadresse en particulier aux dirigeantes e
+t dirigeants, ainsi quâaux responsables informatiques des entreprises et des collectivitÃ©s.
+Parmi
+ ses recommandations, le guide prÃ©sente lâimportance du dÃ©pÃ´t de plainte en cas dâattaque par
+ ranÃ§ongiciel. Â« Le dÃ©pÃ´t de plainte auprÃ¨s des services de police ou de gendarmerie permet lâ
+ouverture dâune enquÃªte qui sera supervisÃ©e par des magistrats spÃ©cialisÃ©s et Ã  lâissue de
+ laquelle il sera Ã©ventuellement possible de dÃ©chiffrer les donnÃ©es altÃ©rÃ©es. DÃ©poser plainte 
+peut surtout permettre dâidentifier, interpeller et prÃ©senter les auteurs de lâattaque Ã  la Ju
+stice, afin de mettre un terme au sentiment dâimpunitÃ© des cyberdÃ©linquants Â» explique Catherin
+e Pignon, directrice de la DACG.
+Plusieurs acteurs ont contribuÃ© Ã  la rÃ©alisation de ce guide : l
+e dispositif cybermalveillance.gouv.fr, la Brigade de lutte contre la cybercriminalitÃ© (BL2C), la C
+ommission nationale de lâinformatique et des libertÃ©s (CNIL) et la Direction centrale de la Polic
+e judiciaire (DCPJ).
+UNE MENACE QUI EXPLOSE ET SE REINVENTE
+Le guide sâouvre sur un aperÃ§u des de
+rniÃ¨res tendances observÃ©es en matiÃ¨re de ranÃ§ongiciels.
+Lâimmense majoritÃ© des attaques est 
+opportuniste et profite du faible niveau de maturitÃ© en sÃ©curitÃ© numÃ©rique des organisations vic
+times. Depuis 2018 cependant, lâANSSI observe une recrudescence des attaques par ranÃ§ongiciels ci
+blant des organisations aux moyens financiers importants ou aux activitÃ©s particuliÃ¨rement critiqu
+es. Lâimportance de ces cibles fait entrer les ranÃ§ongiciels dans la catÃ©gorie des attaques dite
+s Â« Big Game Hunting Â».
+Lâagence constate par ailleurs que certains groupes criminels associent 
+dÃ©sormais la menace de publication de donnÃ©es sensibles Ã  lâutilisation de ranÃ§ongiciels. Ils 
+accentuent ainsi la pression exercÃ©e sur leurs victimes pour les amener Ã  payer la ranÃ§on.
+Alors 
+que les montants habituels sâÃ©lÃ¨vent Ã  plusieurs centaines ou milliers dâeuros, les ranÃ§ons 
+demandÃ©es lors des attaques de type Â« Big Game Hunting Â» sont Ã  la mesure des moyens financiers 
+de la victime. Elles peuvent atteindre des sommes allant jusquâÃ  plusieurs millions dâeuros.
+Le
+s rÃ©centes attaques par ranÃ§ongiciels ciblant des entreprises clÃ©s dâun secteur et leurs sous-t
+raitants, entraÃ®nent un risque de dÃ©stabilisation gÃ©nÃ©rale de lâensemble dâun secteur.
+M6, L
+E CHU DE ROUEN ET FLEURY MICHON TEMOIGNENT
+Pour marquer les consciences et briser certains tabous, M
+6, le CHU de Rouen et Fleury Michon, tous trois victimes de ranÃ§ongiciels, partagent leurs expÃ©rie
+nces et leurs conseils dans le guide. Ces diffÃ©rents tÃ©moignages confirment un point clÃ© : peu im
+porte le secteur dâactivitÃ©, les cyberattaques nâÃ©pargnent personne !
+Â« Aujourdâhui, il est
+ important de rappeler aux organisations du secteur de la santÃ© comme aux autres que lâon nâest
+ pas tous seuls pour faire face Ã  ce type de situations. Il ne faut pas hÃ©siter Ã  se faire assist
+er et solliciter un avis extÃ©rieur Â» explique CÃ©dric Hamelin, Responsable adjoint Ã  la sÃ©curitÃ
+© du systÃ¨me dâinformation du CHU de Rouen.
+Â« Je nâai pas un mais trois conseils Ã  partager. 
+1) GÃ©rer une crise cyber, câest Ã  la fois mettre en Åuvre un plan et jouer une partition non Ã©
+crite. Sur ces deux volets, rien ne se fait seuls ! 2) Rester calme (ne marche que si lâon nâest
+ pas seuls). 3) Dâun point de vue plus organisationnel enfin, cette expÃ©rience mâa confortÃ© da
+ns lâidÃ©e quâun Responsable de la sÃ©curitÃ© des systÃ¨mes dâinformation doit avoir un accÃ¨s
+ direct et facilitÃ© Ã  tous les acteurs de la gestion de crise â directions et managers compris â
+ pour prÃ©parer lâorganisation Ã  ces Ã©preuves et y rÃ©agir le cas Ã©chÃ©ant Â» conseille JÃ©rÃ
+´me LefÃ©bure, CFO, membre du directoire en charge des mÃ©tiers de support du Groupe M6.
+Â« PrÃ©pare
+z-vous sera mon dernier conseil ! On ne peut pas sâen sortir tout seul Â» conclut Laurent Babin, R
+esponsable de la sÃ©curitÃ© du systÃ¨me dâinformation de Fleury Michon.
+LES BONNES PRATIQUES DE SE
+CURITE NUMERIQUE
+Le guide propose des mesures prÃ©ventives issues du Guide dâhygiÃ¨ne informatique
+ de lâANSSI. Les appliquer permet dâÃ©viter quâun ranÃ§ongiciel nâatteigne lâorganisation 
+ou, a minima, de rÃ©duire les pertes liÃ©es Ã  une telle attaque.
+Les conseils de lâANSSI pour rÃ©
+duire le risque dâattaque par ranÃ§ongiciels
+
+Sauvegarder les donnÃ©es
+Maintenir Ã  jour les logic
+iels et systÃ¨mes
+Utiliser et maintenir Ã  jour les logiciels antivirus
+Cloisonner le systÃ¨me dâi
+nformation
+Limiter les droits des utilisateurs et autorisations des applications
+MaÃ®triser les accÃ
+¨s Internet
+Mettre en Åuvre une supervision des journaux
+Sensibiliser les collaborateurs
+Ãvaluer l
+âopportunitÃ© de souscrire Ã  une assurance cyber
+Mettre en Åuvre un plan de rÃ©ponse aux cyberat
+taques
+Penser sa stratÃ©gie de communication de crise cyber
+
+Le guide prÃ©sente Ã©galement les mesur
+es Ã  adopter pour bien rÃ©agir face Ã  une attaque par ranÃ§ongiciel.
+Les premiÃ¨res actions techni
+ques proposÃ©es, quand elles sont mises en Åuvre rapidement, permettent de rÃ©duire les pertes liÃ©
+es Ã  une telle attaque.
+Les conseils de lâANSSI pour bien rÃ©agir en cas dâattaque
+
+Adopter les
+ bons rÃ©flexes
+Piloter la gestion de la crise cyber
+Trouver de lâassistance technique
+Communiquer
+ au juste niveau
+Ne pas payer la ranÃ§on
+DÃ©poser plainte
+Restaurer les systÃ¨mes depuis des sources
+ saines
+
+En rÃ©unissant tÃ©moignages de victimes et bonnes pratiques de sÃ©curitÃ© numÃ©rique, ce gu
+ide donne un coup de projecteur sur les ranÃ§ongiciels et invite les organisations â du comitÃ© ex
+Ã©cutif aux collaborateurs â Ã  se saisir de ces questions.
+Le guide Attaques par ranÃ§ongiciels, 
+tous concernÃ©s â Comment les anticiper et rÃ©agir en cas dâincident? est disponible ici : https
+://www.ssi.gouv.fr/publication/rancongiciels-face-a-lampleur-de-la-menace-lanssi-et-le-ministere-de-
+la-justice-publient-un-guide-pour-sensibiliser-les-entreprises-et-les-collectivites/
+1 Ces chiffres 
+ne fournissent pas une vision exhaustive de lâactualitÃ© des ranÃ§ongiciels affectant le territoir
+e national. Cet Ã©tat de la situation ne sâappuie que sur les faits portÃ©s Ã  la connaissance de 
+lâANSSI (par ses bÃ©nÃ©ficiaires ou partenaires) et traitÃ©s par elle.
+CommuniquÃ© de presse â R
+anÃ§ongiciels : face Ã  lâampleur de la menace, lâANSSI et le ministÃ¨re de la Justice publient 
+un guide pour sensibiliser les entreprises et les collectivitÃ©s
+
+
+4AC5DDE2
+
+
+
+« t-Sup, gentleman ra
+nçonneur. » 
+Derrière le ransomware LockedU, trois noms, ou plutôt trois pseudos. Dathlue et JDEAN, 
+les programmeurs, et t-Sup, au service clientèle. Oui, oui. Leurs victimes ? Des particuliers, des e
+ntreprises, des institutions, au hasard des pièces jointes vérolées et des failles 0day.
+Une nouvell
+e de ma veine technothriller contemporain, rédigée à la suite de la lecture de l’étonnante étude pub
+liée par la société de sécurité informatique F-Secure en 2016, qui comparait le « service clientèle 
+» de différents programmes malveillants de type ransomware.
+Une nouvelle également accessible sur mo
+n compte Wattpad.
+Pour les plus nerdy et les plus anglophones, un lien vers l’étude de F-Secure.
+Ser
+vice client
+LockedU Technical Support : Bonjour ! Rencontrez-vous des difficultés concernant le paie
+ment ? Je suis à votre disposition pour vous assister. 
+USER21145 : j’y arrive pas
+USER21145 : j’ai 
+suivi ce que vous indiquez
+USER21145 : mais je n’arrive pas à acheter la cryptomonnaie
+LockedU Techn
+ical Support : C’est un problème fréquent. Ne vous inquiétez pas, je vais vous aider.
+USER21145 : je
+ peux pas juste payer par carte ???
+LockedU Technical Support : Non, je regrette, c’est impossible. 
+Mais vous allez voir, c’est beaucoup moins compliqué qu’il n’y paraît. 
+Coller le message déjà tout 
+prêt, avec les liens qu’il faut, et… Voilà, c’est parti. Je contemple la fenêtre de tchat, un moment
+, où plus rien ne se manifeste. C’est bon signe, tu as donc fini par te débrouiller, cher 21145 ? Je
+ vais relancer, pour le principe, tout de même :
+LockedU Technical Support : Tout va bien ? Avez-vou
+s réussi à acheter le montant requis ? 
+LockedU Technical Support : Je suis en ligne, n’hésitez pas 
+à me contacter à tout moment si le besoin se fait sentir. 
+Je m’étire en arrière, le fauteuil tourne
+ doucement. Sur le deuxième écran, à droite, la retransmission live du mondial d’e-sport. C’est le m
+oment des jeux de guerre en FPS, pas tellement ce que je préfère. Le jeu ne me rappelle rien. Sur le
+ troisième affichage, côté gauche, la boîte email ouverte, deux nouveaux message, que j’ouvre en ape
+rçu rapide. Insultes. (Direction : la corbeille.) Une demande de prolongation du délai. Les termes s
+ont aimables, frisent peut-être de peu l’obséquiosité, mais en même temps, qu’est-ce qu’ils peuvent 
+faire d’autre ? Je vérifie leur dossier dans la liste des opérations actives… Première prolongation,
+ l’échance tombe aujourd’hui, minuit, heure locale… D’accord, deux jours de plus, jusqu’à vendredi s
+oir, même horaire. Qu’ils n’hésitent pas à nous joindre si besoin, etc. Envoyé. Une petite notificat
+ion sonore, sur le tchat. Ah, le retour de 21145.
+USER21145 : c bon
+USER21145 : j’ai acheté le truc
+
+USER21145 : je fais quoi maintenant ??
+USER21145 : ????
+LockedU Technical Support : Formidable ! À p
+résent que vous avez créé ce porte-monnaie virtuel, il ne vous reste plus qu’à nous transmettre la s
+omme, en l’envoyant à l’adresse qui apparaît sur votre fond d’écran. Ce n’est pas plus compliqué que
+ d’envoyer un email, vous allez voir. Une fois le versement effectué, vous recevrez automatiquement 
+la clé. Je reste à votre disposition si vous rencontriez un problème lors de son utilisation. 
+Plus 
+de réponse. Pas de nouvel email. J’en profite pour me lever un peu de mon fauteuil, je fais quelques
+ pas dans la pièce. La nuit étincelle, dehors, au-delà du balcon, les tours aux fenêtres illuminées,
+ le flot permanent des véhicules. J’entrouvre la baie vitrée, un air glacial s’engouffre, je frisson
+ne, la chair de poule sur mes bras… Je referme tout de suite, trop froid. Je continue mon errance, l
+ance une capsule de café au passage.
+Nouveau bip du tchat, je laisse le percolateur terminer, file à
+ mon poste.
+USER21145 : j’ai reçu le fichier
+USER21145 : je lance, alors ?
+LockedU Technical Support
+ : Oui, vous pouvez y aller ! 
+USER21145 : et ça va débloquer tous mes fichiers ???
+LockedU Technica
+l Support : Je vous le garantis. Tant que vous n’avez pas cherché à les déchiffrer autrement, comme 
+nous l’indiquions dès le départ, notre système permet bien évidemment de vous rendre l’accès à l’int
+égralité de vos données. 
+La page de suivi s’anime, à ma gauche, face à l’entrée du 21145, un proces
+sus se lance. Déchiffrement en cours. Estimation du temps requis : une heure. Pas la machine la plus
+ puissante qui soit, en face…
+USER21145 : 1h ???
+LockedU Technical Support : La vitesse du déchiffre
+ment dépend des capacités de votre ordinateur, ainsi que du volume de fichiers chiffrés. Je ne peux 
+malheureusement rien faire pour accélerer ce processus. Toutefois, si vous rencontrez un problème à 
+n’importe quel moment, écrivez-moi ici, je suis encore présent jusqu’à demain matin (de votre heure)
+. 
+Car oui, tiens, on est sur le même fuseau. Dans la même ville, peut-être, est-ce que tu es dans l
+’une de ces tours résidentielles face à la mienne ? Qui sait.
+Sonnerie d’un appel entrant, je jette 
+encore un coup d’oeil aux emails avant d’ouvrir l’interface vocale. Tiens, Dathlue, révérée programm
+euse, que me veux-tu ? Je passe mon casque, ajuste le micro, accepte l’appel d’un clic. Sa voix un p
+etit peu soucieuse, débit rapide :
+— Salut, t-Sup, je te dérange pas ?
+— Tu ne me déranges jamais, t
+rès chère… ! Ta présence, même si seulement virtuelle, est toujours bienvenue.
+Elle ne prend pas la 
+peine de relever, continue d’emblée :
+— Bon, ok, alors écoute, je vais devoir interrompre tes droits
+ d’admin sur les opérations en cours pour environ… Une petite demi-heure, je pense. Je dois revoir l
+’implémentation du timer. Apparemment, des petits rigolos ont réussi à remettre le chrono à zéro par
+ une manip assez conne. C’est pas grand-chose, mais ça ne me plaît pas. J’en ai parlé à JDEAN, on s’
+est mis d’accord pour arranger ça au plus propre.
+— Interrompre mes droits d’admin, donc, je ne peux
+ plus distribuer gracieusement de ristournes et de délais supplémentaires, c’est ça ?
+— C’est ça.
+— 
+Eh bien, ainsi soit-il, que suis-je face à la volonté conjugée de Dathlue et JDEAN, tombés en commun
+ accord ?
+Cette fois, elle sourit peut-être un peu, ça semblerait s’entendre, du moins :
+— T’es con.
+ (Elle marque une pause, j’entends son clavier, discret, en fond.) Tu es sûr qu’on a rien en cours q
+ui demande ton intervention en admin ?
+Le tchat ne bouge plus, 21145 doit ronger son frein devant so
+n déchiffrement un peu lent. Pas que je m’attende à un « merci », en même temps… Dans les emails, tr
+ois nouveaux petits mots d’insulte, une menace aussi. Clic, supprimés.
+— Non, c’est bon, rien de pre
+ssant sur le feu. On vient de recevoir un paiement – non sans mal – et le type attend que ses fichie
+rs soient à nouveau accessibles. Rien qui n’implique mon grand pouvoir administrateur, donc.
+— Ok, a
+lors, ça y est, tu devrais… (Son clavier cliquette.) Ne plus avoir les droits. Si besoin, je peux m’
+interrompre et m’occuper d’une demande, alors garde un œil sur le tchat et les emails. Tu me dis s’i
+l faut que j’intervienne… Mais vraiment si ça urge, d’accord ?
+— Compris ! On reste en ligne, que je
+ te prévienne rapidement ?
+Les rafales des touches recommencent, son ton devient un peu absent, conc
+entré :
+— Si tu veux.
+Le live d’e-sport est passé à un jeu de stratégie, à présent, du Starcraft 2. 
+Grand classique. J’ai bien envie de remettre le son, mais bon, il y a Dathlue au bout du fil, la bal
+ance penche vite pour le silence du stream.
+— Alors, tu étais en contact avec JDEAN aujourd’hui ? J’
+ai pas eu de nouvelles depuis le week-end dernier, je vais être jaloux…
+— On a été en vocal plusieur
+s heures par jour, oui. Il fallait que je lui montre ce problème d’accès root au timer, puis on a es
+sayé de décortiquer ça rapidement. Entre le décalage horaire et son boulot à côté, c’était pas évide
+nt.
+— Tous les jours, plusieurs heures !? C’est de lui que je vais être jaloux, en fait… !
+Un petit 
+sourire dans sa voix, à nouveau :
+— Laisse ça à mon copain… ! Ça tombait sur notre session jeux vidé
+o du soir, à chaque fois. Il se demandait ce que je foutais…
+Une vague pointe de déception m’épingle
+. Je la chasse vite, que diable.
+— Il sait ce que tu fais, ton copain ?
+— Bien sûr, tiens… ! C’est m
+ême écrit sur une plaque en bronze, comme les toubibs tu sais, sur ma porte…
+Je m’attends à sa contr
+e-question narquoise, « et toi ? », mais elle ne vient pas, elle est trop occupée, j’imagine. Pas co
+mme si j’aurais répondu grand-chose d’intéressant, de toutes façon, vu le calme monastique, en ce mo
+ment…
+Bref. Je reprends, pour changer de sujet :
+— Et tu disais que JDEAN, il bosse, en plus de Lock
+edU ?
+— Oui, il bosse.
+— Tu sais dans quoi ?
+— Pas du tout… (Un temps d’arrêt, elle a un léger soupi
+r, peut-être.) Tu t’ennuies, t-Sup ?
+— Non, non, du tout. C’est calme, d’accord, mais j’ai mon live 
+du mondial d’e-sport en même temps, là, donc je suis tranquille… ! Non, c’est juste pour discuter un
+ peu, on parle pas tant que ça en dehors du taff… Il faudrait qu’on se revoie tous, en vrai, IRL, qu
+’on aille boire un coup, ou se faire un restau, ou quelque chose, comme l’autre fois. Ça fait un bai
+l… !
+— Oui, on se refera ça… Mais pour le moment, ce qu’il faut que je me fasse, c’est une session d
+e progra intensive et rapide, pour patcher ce truc qui foire avec le timer.
+Elle s’irrite un peu, el
+le se met énormément la pression, ça lui ressemble bien. C’est pas un petit bug du timer qui va chan
+ger quelque chose… Enfin, je ne vois pas, à part pour quelques geeks qui prennent la peine de fouill
+er plus loin que les premiers intitulés de forum sur la première page de recherche… Qui va s’essayer
+ à ça, alors que tout le monde garantit qu’une fois la rançon payée, c’est parfait, tout se finit bi
+en ? L’envie de le lui dire est forte, mais elle va mal le prendre, je me retiens… Laisse-la bosser,
+ c’est bon, tiens-toi en à ton rôle de ton côté. Ça ne va pas te tuer à la tâche pour le moment, vu 
+le nombre d’emails, le vide du tchat… Allez, justement, je vais relancer 21145, pour le principe, po
+ur garantir la satisfaction client… (Je m’en veux presque un peu de raisonner comme ça, mais juste p
+resque.)
+LockedU Technical Support : Tout se passe bien ? Nous sommes du même fuseau horaire, et je 
+rappelle que je suis là jusqu’à demain matin, si vous avez besoin de quoi que ce soit. 
+Pas de répon
+se, mais le message est passé, j’ai fait ma part. Gentleman rançonneur, il y a un petit peu de ça. P
+our faire bien les choses, il faut que je retourne surveiller un peu les forums aussi, les sujets mo
+ntants dans les catégories d’entraide, de bugs, de sécurité, ratisser à coup de recherche en plein t
+exte tout ce qui mentionnerait LockedU. Et puis un peu les autres sujets, sur les ransomwares en gén
+éral, des fois qu’on ait des clients vraiment pas très au point sur les questions techniques. Je bas
+cule sur le service de veille de flux. Rien à signaler pour le moment. On dirait que la nuit va être
+ calme… (Non, c’est encore trop tôt pour dire ça, les autres zones horaires vont commencer à bouger 
+aussi.) Au moins ça me laisse regarder mon live d’e-sport.
+Une petite faim, tiens, maintenant… J’env
+oie l’affichage du streaming sur l’écran du frigo. La page des emails et le tchat aussi, tout de mêm
+e, sait-on jamais. Maintenant, direction la cuisine. Je lance à l’attention du casque, sur mon burea
+u :
+— Je reviens, pause casse-croûte !
+La voix de Dathlue émane du frigo, c’est vrai qu’elle a bascu
+lé là avec le tchat, elle aussi :
+— Bon app, alors. (Son clavier se manifeste.) Je devrais avoir ter
+miné plus vite que prévu, finalement.
+— Formidable, alors ! Je te fais passer des nems végé ? Il m’e
+n reste d’hier soir.
+Je les mets au micro-onde, tapote l’écran de la porte.
+— C’est un peu réchauffé
+ comme vanne, quand même, non ? (Son intonation est vaguement amusée, malgré tout.)
+— Un jour ça ser
+a possible, tu verras. Avec l’impression 3D on peut déjà commencer ! C’est plutôt comparable à un fa
+x, vu que ça reproduirait plutôt qu’envoyer… Mais, toujours est-il… !
+Cette fois, elle part d’un pet
+it gloussement incrédule :
+— Mais qu’est-ce que tu racontes… !?
+Je sors les nems du four, pioche une
+ fourchette qui traîne. Ma première bouchée arrive simultanément avec la notification d’email entran
+t. Objet : Délai.
+— Retour aux choses sérieuses. (Je mâchonne les mots en même temps.) J’ai du nouve
+au, probablement une demande pour du temps de rab avant la fin du timer.
+— Ah… et c’est vraiment urg
+ent ? Je n’en ai pas pour longtemps, ici, dix ou quinze minutes tout au plus.
+J’ouvre. Déglutis par 
+erreur un morceau bien trop gros – aïe, ça passe mal. La surprise m’a frappé au ventre, à la gorge, 
+un véritable coup, physique. Je relis plusieurs fois. Oh, mince…
+— t-Sup ? Alors, la demande ?
+Il me
+ faut encore quelques instants avant de répondre :
+— On a un type du FBI qui nous demande à combien 
+est montée la rançon et si on peut encore la prolonger, vu que ça fait trois jour que le délai est d
+épassé, normalement.
+Le cliquetis de clavier s’interrompt net, un long silence de l’autre côté de l’
+appel. Puis, un souffle :
+— T’es pas sérieux… !?
+Elle ne pose pas vraiment la question, c’est plutôt
+ une exclamation, et j’imagine bien ce qui se passe dans sa tête à ce moment-là. Je viens de le vivr
+e aussi, avant de passer à autre chose, la raison qui essaye de reprendre le dessus, d’analyser, de 
+compiler, de compulser. Des unités de police, c’est déjà fait, pas nous, mais des collègues (ou conc
+urrents, ou peu importe le nom). Hôpitaux, pompiers, administrations locales, nationales, fédérales,
+ d’ici, d’un peu partout… Fait, et on a contribué aussi pour certains, d’ailleurs. Le putain de FBI.
+ Non, ou ils l’ont pas dit du moins. Ils ne s’en vantent pas trop, sans doute…Un frisson froid… J’ai
+ la chair de poule à nouveau. Et si c’étaient eux qui essayaient de nous avoir au contraire ? Réfléc
+his, attends… Ils ne peuvent rien faire avec un email, pas de lien, pas de pièce jointe attrape-coui
+llon… Avec le paiement, alors… ? Non, c’est absurde… Est-ce que c’est si absurde… ?
+— Dathlue, est-c
+e qu’on peut être retracés par quelqu’un qui nous paye directement, s’ils ont des moyens de pro ? Je
+ veux dire, il n’y a pas moyen de nous entuber à cette étape, vraiment… ?
+— t-Sup, tu déconnes encor
+e, ou pas, là ? Tu as vraiment un email du putain de FBI ?
+Elle ne rigole plus du tout, Dathlue, et 
+moi non plus, il faut reconnaître.
+— Est-ce que j’air de déconner… !?
+Je m’emporte un peu… Là, respi
+re, lentement… Je pose ma fourchette, masse mes tempes, mes avants-bras sont toujours hérissés. Je m
+e sens un peu mal. Souffle doucement… Ils ne peuvent rien faire, ils ne peuvent rien faire, c’est ri
+en de plus que quand on les trolle sur Twitter, calme-toi…
+J’entends le clavier de l’autre coté du m
+icro. Un marmonnement incrédule.
+— Oh merde… !
+— Tu es allée vérifier ?
+Elle ignore ma question qui 
+n’avait pas beaucoup de sens, de toutes façons, j’en ai conscience.
+— Il faut que je prévienne JDEAN
+. Merde alors, le FBI… !
+Je déglutis, regarde mes nems qui refroidissent, sans parvenir à dire si el
+les me font encore envie. Ce n’est plus vraiment le choc, ni la peur, c’est l’excitation qui monte, 
+la sensation irréelle de flottement, comme un rêve… On a eu les fédéraux avec une foutue infection p
+ar pièce jointe, et ils comptent nous payer la rançon… !? C’est… Wouah. Juste. Wouah.
+La voix de bas
+se de JDEAN surgit de mon frigo, avec son enthousiasme camouflé de pince-sans-rire :
+— Alors là, les
+ gars, on sabre tout de suite le champagne, et c’est moi qui offre. LockedU va faire les gros titres
+ de la presse IT et de l’underground web, c’est moi qui vous le dit.
+— J’arrive pas… J’arrive pas en
+core à bien assimiler l’idée, bordel… (Dathlue, sur le ton d’une confession. Elle glousse.) Je doute
+ que la presse en sache quoi que ce soit, ils vont pas faire les fiers, les fédéraux, avec ça… ! Mai
+s nous on sait, toujours… ! Oh, oui, on sait… !
+Je rebascule l’affichage vers mon PC, apporte l’assi
+ette à mon bureau – à tout hasard. JDEAN dit quelque chose que je ne saisis pas, Dathlue part d’un p
+etit rire. Je reprends mon fauteuil, enfile le casque.
+— Bon, tu en étais où de ton correctif, Dathl
+ue ?
+Elle redevient sérieuse, son ton pressé habituel :
+— C’est presque terminé. Pourquoi, tu as que
+lque chose ?
+Cette question…
+— Eh bien, oui, j’ai quelque chose… Il faut mettre à jour le statut pou
+r ce brave agent du FBI qui nous demande sa nouvelle rançon, pas vrai ?
+Un blanc. C’est JDEAN qui re
+prend, avec son ton grave de rabat-joie :
+— Je ne pense pas que ça soit une bonne idée, t-Sup.
+Dathl
+ue entre quelque chose au clavier avant d’intervenir, assez hésitante :
+— Ouais, pareil, en fait, je
+ ne sais pas trop…
+Vous êtes pas sérieux, les gars ? Je vous sens venir de trop loin, oh, trop loin…
+
+— Pourquoi, quel est le problème ? (J’essaye de rire un peu.) Vous voulez leur faire un prix spécia
+l administration, une ristourne pour qu’on baisse les impôts sur le revenu de LockedU, ou un truc du
+ genre ?
+Mais JDEAN n’est pas du tout en train de plaisanter, oh non, pas du tout.
+— Réfléchis, mec.
+ S’ils en sont à payer notre rançon, eux, le FBI, c’est que les dégâts de LockedU doivent être juste
+… énormes. Va savoir, peut-être les bureaux d’une ville entière paralysés, ou l’un de leurs datacent
+ers… D’accord, c’est leur recommandation officielle pour les victimes de ransomwares, de payer sans 
+faire d’histoires. Mais pour qu’eux-mêmes le fassent… !
+— Au minimum, ils perdraient du temps et pas
+seraient pour des idiots s’ils perdaient quelques données à cause d’un ransomware. (Dathlue a cessé 
+ses entrées au clavier, a l’air de calculer très vite les possibilités, son débit accélère encore.) 
+Mais dans le pire des cas, on saborde un nombre indéterminé de leurs enquêtes et dossiers en cours, 
+et peut-être leurs sauvegardes avec. Pire des cas pour eux, je veux dire… ! Dans tous les cas, on le
+s tient par les parties molles.
+Je veux qu’ils soient clairs, qu’ils le disent carrément…
+— Et alors
+… ? Je ne vois pas trop où ça nous mène, on a personne à faire libérer par du chantage… Je ne crois 
+pas qu’on ait tellement de revendications politiques à passer non plus… !
+C’est Dathlue qui se décid
+e finalement à le dire, à mettre les vrais mots dessus :
+— Mais on peut interférer salement avec leu
+rs enquêtes, en considérant qu’ils sont suffisamment touchés pour nous demander humblement de prolon
+ger le délai de paiement.
+Nous y voilà. Et JDEAN complète :
+— Exactement. En ne leur délivrant jamai
+s leur clé de déchiffrement. (Il réfléchit un instant.) Ce qui n’empêche pas de leur faire banquer a
+vant, sauf que cette fois… On ne sera pas honnêtes.
+Chape de froid. Ils ont déjà l’air tous les deux
+ d’accord. Merde… Je prends une inspiration, je dois essayer de ne pas être trop cassant, ils vont s
+e braquer, je suis le novice, le profane en technique, ils me méprisent au fond, je le sais. Allez…
+
+— Je ne pense pas, mais, vraaaaiment pas, que ça soit une bonne idée.
+Okay, ça va, c’est modéré, le 
+ton est calme.
+— Pourquoi ? (JDEAN, il se veut rassurant.) Tu crains qu’ils s’acharnent sur nous, ap
+rès ? Ça doit déjà être le cas depuis qu’ils sont infectés par LockedU, et pourtant regarde, personn
+e n’est venu défoncer la porte chez l’un d’entre nous. Rien à craindre de ce côté.
+— Non, non, je sa
+is bien. C’est que… Les gars… C’est un business qu’on a. Je suis le « service client », vous vous ra
+ppelez, hein ? (Je marque une pause pour clarifier mes idées.) Bon. Et qu’est-ce qui fait que les ge
+ns payent quand on bloque leurs fichiers, alors ? Deux choses. Premièrement, d’abord, ils n’ont pas 
+le choix, ça c’est sûr, oui, donc vous gérez bien la partie technique, ça c’est parfait. Mais deuxiè
+mement, et c’est tout aussi important : ils doivent avoir confiance… Confiance, je me comprends… Ils
+ doivent savoir que ça va marcher. Si on commence à les faire payer sans leur transmettre la clé de 
+chiffrement en retour, ça va se savoir… ! Ils ne vont plus s’amuser à acheter de la cryptomonnaie et
+ à payer : ils vont juste dire adieu à leurs données, et voilà, point final.
+Dathlue hésite, j’ai pe
+ut-être fait un rappel salutaire…
+— Oui, oui, d’accord, t-Sup, on connaît nous aussi, ça va. Mais on
+ ne parle pas de se mettre à arnaquer les gus lambda devant leur ordinateur infecté. On parle du put
+ain de FBI, là, vieux.
+— Mais justement ! Avec un… euh, client, aussi médiatique, on ne peut particu
+lièrement pas se permettre un coup pareil. Qu’est-ce qu’ils vont faire, une fois qu’ils auront payé 
+sans toucher leur clé, vous croyez ? Si ça leur cause des gros dégâts comme vous espérez, ils vont c
+ommuniquer dessus. Et dans toutes les administrations, ça va vite devenir une consigne informelle : 
+si vous tombez sur les connards de LockedU, ne payez pas la rançon, c’est même pas la peine d’essaye
+r, ils ne vont pas vous rendre l’accès à vos fichiers… ! Regardez quand des postes de police ont été
+ touchés par d’autres ransomwares : ils ont payé, les types leur ont envoyé leur clé, et voilà. Prop
+re, bien fait, client satisfait, comme toujours !
+Il y a un silence. Consterné, préoccupé, je ne sau
+rais pas dire. Le live d’e-sport continue sur l’écran à ma droite, je ferme la fenêtre du navigateur
+, autre chose à penser maintenant, plus la tête à ça. Oh ça non.
+Et puis la voix de JDEAN, froide, l
+’intonation un peu sentencieuse qu’il peut prendre parfois et qui ne me plaît pas du tout :
+— La pol
+ice locale de je ne sais quelle ville de cambrouse perdue n’est pas notre ennemie, t-Sup. Ils ont au
+tre chose à faire que de s’occuper de nous. Pas le FBI. Ils ont forcément un dossier sur LockedU. Fo
+rcément. Et donc, par extension, sur nous. (Je l’entends souffler longuement, il est exaspéré ou il 
+est en train de fumer, au choix.) Tu n’es pas en train de gérer le service client de je ne sais quel
+le entreprise IT pépère qui fait son petit business bien dans les clous, t-Sup, je dois vraiment te 
+le rappeler ? Entre les fédéraux et nous, par défaut, c’est la guerre. Si on peut leur mettre autant
+ de bâtons dans les roues que possible, on doit le faire. Point final, comme tu dis.
+— JDEAN, je pen
+se qu’il n’a pas tort, t-Sup… (Dathlue, très fermement.)
+Je triomphe, enfin, je commence :
+— Ah, voi
+là… ! Je vous dit que ça ne vaut pas le risque à notre réputat…
+Elle continue, interrompt ma phrase 
+:
+— On laisse tomber la rançon, tu as raison. On ne fait pas semblant. On leur répond directement d’
+aller se faire foutre. Un message bien clair, bien explicatif, qu’on envoie à des journalistes en co
+ntacts cachés, pourquoi pas. Qu’on nous comprenne bien. On pourrait presque en faire une marque dist
+inctive… Un symbole !
+Les mots m’échappent, ce n’est pas du tout ce que je pensais…
+— Attends, oh, d
+oucement… Une « marque distinctive » ? Un « symbole » ? C’est moi qui dois vous rappeler qui on est,
+ maintenant… ? Vous vous prenez pour des activistes engagés contre je ne sais quel travers du gouver
+nement, le pouvoir des marchés, tout ça… ? JDEAN, tu dis que je me prends pour un businessman, un co
+rporate qui gère son affaire, mais c’est ce qu’on est, mon vieux ! Et notre affaire, elle implique q
+u’on ne nous confonde pas avec ce qu’on est pas. Si on nous prend pour un gang d’anarchistes ou je s
+ais pas quoi, et que notre prochain client c’est une entreprise, vous croyez qu’ils vont avoir envie
+ de tenter le coup de payer la rançon, seulement ? Non ! On sera grillés, c’est tout. Juste pour le 
+petit plaisir d’envoyer le FBI se faire voir.
+Il y a un long silence. Anxieux, lourd, ce silence. En
+fin, de mon côté du moins, oui. Les autres ça doit pas être bien mieux. Bordel, s’ils se décident à 
+faire leur coup tordu, je les plante, je me casse…
+C’est Dathlue qui brise la glace, elle a même arr
+êté de taper son code en même temps :
+— On a peut-être pas tant le choix que ça, au final…
+L’espoir 
+revient… Je l’appuie encore au passage, pour pas qu’il ne retombe :
+— Non, on a pas le choix !
+Et pu
+is JDEAN, son soupir lent, caractéristique du mec qui se la joue bad boy ténébreux avant de prendre 
+la parole, la parole ténébreuse du chef de trio :
+— D’accord… D’accord, on a pas le choix. Putain… ç
+a aurait été une belle occasion, quand même… !
+Belle occasion de quoi ? Peu importe. Il faut abonder
+ dans son sens, caresser délicatement dans le sens du poil :
+— Ouais, une sacrée occasion, c’est sûr
+. Mais on a vraiment pas le choix. C’est pour le business.
+Il ne dit rien, j’entends le déclic de so
+n briquet. On va dire que ça compte comme un assentiment final, et Dathlue le comprend comme ça auss
+i apparemment :
+— J’ai terminé, de mon côté. (Elle soupire à son tour. Son clavier rappelle son exis
+tence.) Tu as à nouveau les accès admins, t-Sup.
+Oui, je me sens triomphant, il faut reconnaître. Ou
+i, je jubile un peu intérieurement, et puis en même temps, il y a cette satisfaction…
+Le travail bie
+n fait.
+Je prends mon ton bon prince, celui qui les énerve un petit peu, gentiment :
+— Merci, très c
+hère !
+Ah, l’accès, à nouveau… Le processus de 21145 qui se termine. Je remonte dans la liste, vers 
+les timer verrouillés en rouge, il y en a pas mal quand même, ça m’étonne à chaque fois. Ils ont tou
+s des sauvegardes de leurs données bien à jour, ces gens-là ?
+Je me sens un sourire de requin.
+Mais 
+pas le FBI apparemment.
+Je retrouve de mémoire le numéro de processus. Même pas besoin de vérifier. 
+C’est ça l’expérience du pro.
+Deux clics. Délai d’une semaine supplémentaire, sans augmentation de l
+a rançon. Validation.
+Maintenant, un petit message en réponse à leur email. J’ajoute même une paraph
+e.
+t-Sup, gentleman rançonneur
+ 
+
+
+ 
+Partager :TwitterFacebookWordPress:J'aime chargement…
+
+Related
+
+ 
+
+4AC5DDE2
+
+C'est vraiment dommage à l'heure ou il y a un grand besoin de #elearning pour les popul
+ations et les enfants dans le monde via @NcsVentures #Security #Ransomware 
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 15 sept. 2020
+
+
+ 
+La mét
+ropole Aix-Marseille-Provence en a fait l’amère expérience récemment : une attaque de rançongiciel p
+eut être maîtrisée sans que la situation ne soit pleinement sous contrôle. Les données volées par le
+s opérateurs de Pysa, à l’occasion de la cyberattaque du mois de mars, ont été divulguées… début sep
+tembre. L’entreprise de services numériques indo-américaine Artech vient quant à elle de montrer qu’
+une attaque peut paraître maîtrisée, sans que son système d’information ne soit véritablement assain
+i.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Information sécurité 12 
+: Menace Cyber #NotPetya : les enseignements tirés chez Maersk
+Le paysage de la menace cyber a fonda
+mentalement changé, avec un risque très réel d'être pris dans des activités parrainées par des États
+-nations. Ce numéro de Information Sécurité vous livre la tendance en matière de cybersécurité, de l
+a gestion des vulnérabilités à Toyota en passant par le Danemark
+Start Download
+
+
+
+
+
+
+Adresse e-mail
+ professionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble e
+rronée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre m
+aximum de caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les 
+conditions d'utilisation de TechTarget, ainsi que la politique de confidentialité et le transfert de
+ mes informations aux États-Unis pour traitement afin de me fournir les informations pertinentes déc
+rites dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses partenaires afin de communi
+quer avec moi par le biais du téléphone ou du courrier électronique et ce à propos d’informations pe
+rtinentes dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher 
+la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artech est en fait la première ent
+reprise dont les opérateurs de Revil/Sodinokibi divulguaient des données volées après une compromiss
+ion réussie. C’était au mois de janvier : ils publiaient les liens vers plus de 300 Mo de données se
+lon eux dérobées par leurs soins, rapportaient alors nos confrères de Bleeping Computer.
+Artech, qui
+ communique assez peu, comme le montre la liste de ses communiqués de presse sur les quatre dernière
+s années, a attendu le 4 septembre pour reconnaître officiellement l’incident. Dans une « notificati
+on », l’ESN explique avoir reçu le 8 janvier « un rapport d’activité inhabituelle relatif au compte 
+utilisateur » de l’un de ses employés. Et d’assurer avoir « immédiatement commencé à enquêter ». Un 
+processus qui, selon l’ESN, a mené à « l’identification d’un ransomware sur certains de [ses] systèm
+es ».
+L’intervention d’un tiers spécialisé a permis de déterminer, le 15 janvier, qu’un « acteur non
+ autorisé avait accédé à certains systèmes d’Artech entre le 5 et le 8 janvier 2020 ». L’ESN expliqu
+e alors avoir « mené un examen complet de ces systèmes » pour déterminer qu’il y avait eu accès à de
+s données personnelles. Selon Artech, cet examen a été finalisé… le 25 juin dernier, soit plus de 5 
+mois après le début de l’incident.
+Troy Mursh, de Bad Packets, souligne qu’Artech a exposé « pendant
+ des mois et des mois » un serveur VPN Pulse Secure affecté par la vulnérabilité CVE-2019-11510. Sel
+on les données de Shodan, le serveur concerné était encore affecté tout début janvier 2020.
+L’histoi
+re aurait pu s’arrêter là, si les opérateurs de Maze ne revendiquaient, depuis ce week-end, à leur t
+our, la compromission d’Artech, diffusant au passage près de 1,5 Go de données compressées volées à 
+l’occasion. Que s’est-il donc passé ?
+Un autre système laissé vulnérable et à côté duquel les équipe
+s d’Artech seraient passées n’est pas à exclure. Mais il peut y avoir encore plus simple. Brett Call
+ow, analyste chez Emsisoft avance ainsi une hypothèse : « que l’affilié [à Revil] responsable de la 
+première attaque se soit laissé une porte d’entrée dans le réseau et ait alors donné accès à un autr
+e groupe ».
+L’hypothèse n’apparaît pas, en soi, saugrenue. C’est désormais bien connu : lorsque déto
+ne le ransomware, les assaillants sont confortablement installés en profondeur dans le système d’inf
+ormation, d’où les enjeux souvent considérables de la reconstruction.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+Cyber-adversaires et course contre la mo
+ntre
+–CrowdStrike
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Les clients d’Orange Business 
+Services misent sur la gouvernance des données
+
+
+
+
+Par: Gaétan Raoul
+
+
+
+
+Ransomware : qu’est-il arri
+vé à FARO Technologies ?
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Covid-19 et ESN : l’Offshore en Inde se met au
+ssi au télétravail
+
+
+
+
+Par: Alain Clapaud
+
+
+
+
+Ransomware : Cognizant anticipe une facture à plusieur
+s dizaines de millions de dollars
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+4AC5DDE2
+
+Equinix divulges more on
+ ransomware attack
+
+4AC5DDE2
+
+Client satisfait, 5 étoiles assurées. t-Sup pourrait adopter ce slogan
+. Le service clientèle, ça le connaît. 
+Particularité ? 
+Le programme dont il gère le SAV : un ranso
+mware. 
+Ses clients ? D'un point de vue extérieur, on parlerait plus de victimes.
+
+
+
+4AC5DDE2
+
+#cybe
+rsécurité #Ransomware : voici les indices qui montrent que vous êtes attaqué
+
+4AC5DDE2
+
+Bon, je suis
+ loin de la timeline, et également loin d'avoir fini un inventaire complet des cas #ransomware (mond
+e, pas uniquement FR/EU) connus depuis le début de l'année. Mais depuis le début du mois, je suis dé
+jà près de 140.
+
+4AC5DDE2
+
+Ransomware : l’illusion d’un système d’information assaini https://lemagi
+t.fr/actualites/252489078/Ransomware-lillusion-dun-systeme-dinformation-assaini… par @ValeryMarchive
+
+
+4AC5DDE2
+
+#CyberSecurity #Ransomware : l’illusion d’un système d’information assaini
+
+4AC5DDE2
+
+Un
+ enemigo invisible que no descansa: ¿qué es un ransomware?
+
+4AC5DDE2
+
+#Ransomware : l’illusion d’un 
+système d’information assaini https://lemagit.fr/actualites/252489078/Ransomware-lillusion-dun-syste
+me-dinformation-assaini… via @LeMagIT #cybersécurité
+
+4AC5DDE2
+
+En août, j'en ai compté 91, contre p
+rès de 60 en juillet et 106 en juin. Dans le club des cyber-truands, c'est l'arrivée de #Conti qui m
+'a l'air de changer le game sévère avec 56 revendications d'attaque de #ransomware réussies depuis l
+e début du mois.
+
+4AC5DDE2
+
+
+Alors que le monde entier subit les ravages de la pandémie de COVID-19,
+ un autre virus, celui-ci de nature informatique, est à l’origine de nombreux autres problèmes. Bien
+ que ce virus informatique existe depuis des années, ses conséquences ont augmenté de façon alarmant
+e ces derniers mois. Les plus graves touchent des activités et des organisations essentielles telles
+ que les hôpitaux, les entreprises ou les gouvernements.
+Le nom de ce virus est le « ransomware », o
+u rançonlogiciel. Pour y faire face et aider les victimes à lutter contre les hackers, il y a No Mor
+e Ransom. No More Ransom est le premier partenariat public-privé de ce type qui aide les victimes du
+ ransomware à récupérer leurs données chiffrées sans avoir à payer de rançon aux cyberdélinquants. N
+o More Ransom travaille en collaboration avec des partenaires tels qu’Europol, Politie, Kaspersky et
+ McAfee.
+La boîte à outils de décryptage No More Ransom a accueilli plus de 4,2 millions de visiteur
+s de 188 pays depuis son lancement et a mis fin à environ 632 millions de dollars de demandes de ran
+çon. Un montant qui se serait autrement retrouvé dans les poches de criminels.
+Grâce aux contributio
+ns de ses 163 partenaires, le portail a ajouté 28 outils au cours de la dernière année et peut désor
+mais déchiffrer 140 types d’infections par ransomware. Le portail est disponible en 36 langues.
+Pour
+ l’utiliser, il vous suffit de vous rendre sur le site web nomoreransom.org et de suivre les étapes 
+indiquées par Crypto Sheriff pour vous aider à identifier le type de ransomware dont votre appareil 
+est infecté. Si une solution est disponible, un lien vous sera fourni pour télécharger gratuitement 
+l’outil de décryptage. No More Ransom a fait beaucoup de chemin pour aider les personnes touchées pa
+r le ransomware, mais il en existe de nombreux types qui n’ont pas encore été neutralisés.
+Comme dan
+s le cas de la pandémie de coronavirus, la prévention est le meilleur remède. Il existe quelques mes
+ures préventives pour vous protéger contre le ransomware :
+
+Enregistrez toujours une copie de vos fi
+chiers les plus importants n’importe où ailleurs : dans le cloud, sur un disque dur externe, sur une
+ carte mémoire ou sur un autre ordinateur.
+Utilisez un logiciel antivirus fiable et à jour.
+Ne téléc
+hargez pas de logiciels à partir de sources suspectes.
+N’ouvrez pas les pièces jointes d’e-mails pro
+venant de sources inconnues, même si elles semblent importantes et crédibles.
+Et si vous êtes victim
+e d’un ransomware, ne payez jamais la rançon.
+
+Une solution innovante est désormais nécessaire pour 
+les types de ransomware qui ne sont pas encore inclus dans le portail, afin d’aider les victimes à r
+écupérer leurs fichiers sans avoir à payer les criminels.
+_____
+Aquest apunt en català / Esta entrad
+a en español / This post in English
+TweetWhatsAppTelegramEmailPrintLike this:Like Loading... 
+
+4AC5D
+DE2
+
+LockBit ransomware launches data leak site to double-extort victims https://gixtools.net/2020/0
+9/lockbit-ransomware-launches-data-leak-site-to-double-extort-victims/…
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 15 sept. 2020
+
+
+ 
+La métropo
+le Aix-Marseille-Provence en a fait l’amère expérience récemment : une attaque de rançongiciel peut 
+être maîtrisée sans que la situation ne soit pleinement sous contrôle. Les données volées par les op
+érateurs de Pysa, à l’occasion de la cyberattaque du mois de mars, ont été divulguées… début septemb
+re. L’entreprise de services numériques indo-américaine Artech vient quant à elle de montrer qu’une 
+attaque peut paraître maîtrisée, sans que son système d’information ne soit véritablement assaini.
+S
+uite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+7 attaques informatiques à l
+a loupe
+Les attaques informatiques ne cessent d'impressioner et beaucoup d'entreprises se sont retro
+uvées les bras ballants face à ce polymorphisme informatique. 
+Start Download
+
+
+
+
+
+
+Adresse e-mail p
+rofessionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble err
+onée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre max
+imum de caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les co
+nditions d'utilisation de TechTarget, ainsi que la politique de confidentialité et le transfert de m
+es informations aux États-Unis pour traitement afin de me fournir les informations pertinentes décri
+tes dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses partenaires afin de communiqu
+er avec moi par le biais du téléphone ou du courrier électronique et ce à propos d’informations pert
+inentes dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la
+ case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artech est en fait la première entre
+prise dont les opérateurs de Revil/Sodinokibi divulguaient des données volées après une compromissio
+n réussie. C’était au mois de janvier : ils publiaient les liens vers plus de 300 Mo de données selo
+n eux dérobées par leurs soins, rapportaient alors nos confrères de Bleeping Computer.
+Artech, qui c
+ommunique assez peu, comme le montre la liste de ses communiqués de presse sur les quatre dernières 
+années, a attendu le 4 septembre pour reconnaître officiellement l’incident. Dans une « notification
+ », l’ESN explique avoir reçu le 8 janvier « un rapport d’activité inhabituelle relatif au compte ut
+ilisateur » de l’un de ses employés. Et d’assurer avoir « immédiatement commencé à enquêter ». Un pr
+ocessus qui, selon l’ESN, a mené à « l’identification d’un ransomware sur certains de [ses] systèmes
+ ».
+L’intervention d’un tiers spécialisé a permis de déterminer, le 15 janvier, qu’un « acteur non a
+utorisé avait accédé à certains systèmes d’Artech entre le 5 et le 8 janvier 2020 ». L’ESN explique 
+alors avoir « mené un examen complet de ces systèmes » pour déterminer qu’il y avait eu accès à des 
+données personnelles. Selon Artech, cet examen a été finalisé… le 25 juin dernier, soit plus de 5 mo
+is après le début de l’incident.
+Troy Mursh, de Bad Packets, souligne qu’Artech a exposé « pendant d
+es mois et des mois » un serveur VPN Pulse Secure affecté par la vulnérabilité CVE-2019-11510. Selon
+ les données de Shodan, le serveur concerné était encore affecté tout début janvier 2020.
+L’histoire
+ aurait pu s’arrêter là, si les opérateurs de Maze ne revendiquaient, depuis ce week-end, à leur tou
+r, la compromission d’Artech, diffusant au passage près de 1,5 Go de données compressées volées à l’
+occasion. Que s’est-il donc passé ?
+Un autre système laissé vulnérable et à côté duquel les équipes 
+d’Artech seraient passées n’est pas à exclure. Mais il peut y avoir encore plus simple. Brett Callow
+, analyste chez Emsisoft avance ainsi une hypothèse : « que l’affilié [à Revil] responsable de la pr
+emière attaque se soit laissé une porte d’entrée dans le réseau et ait alors donné accès à un autre 
+groupe ».
+L’hypothèse n’apparaît pas, en soi, saugrenue. C’est désormais bien connu : lorsque détone
+ le ransomware, les assaillants sont confortablement installés en profondeur dans le système d’infor
+mation, d’où les enjeux souvent considérables de la reconstruction.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Ra
+pport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+Cyber-adversaires et course contre la mont
+re
+–CrowdStrike
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Les clients d’Orange Business Se
+rvices misent sur la gouvernance des données
+
+
+
+
+Par: Gaétan Raoul
+
+
+
+
+Ransomware : qu’est-il arrivé
+ à FARO Technologies ?
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Covid-19 et ESN : l’Offshore en Inde se met auss
+i au télétravail
+
+
+
+
+Par: Alain Clapaud
+
+
+
+
+Ransomware : Cognizant anticipe une facture à plusieurs 
+dizaines de millions de dollars
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+

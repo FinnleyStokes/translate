@@ -1,0 +1,234 @@
+Ataque de ransomware a hospital alemão mata um paciente! http://dlvr.it/RgqCVd
+
+4AC5DDE2
+
+Você sabia
+ que os ataques de #ransomware continuam em alta e o #malware mais detectado no continente americano
+ é o #Wannacry? Saiba mais em: https://bit.ly/2ZBPWmB @CiscoDoBrasil
+
+4AC5DDE2
+
+Do phishing ao ranso
+mware, um dos principais desafios da gestão eficaz de riscos de segurança cibernética está relaciona
+do com a teoria do elo mais fraco. Aceda ao artigo para mais informação.
+
+4AC5DDE2
+
+Uma pessoa em ri
+sco de vida faleceu devido a um ataque de ransomware a um hospital. Assim, a razão é simples de expl
+icar. Teve de ser encaminhada para um hospital mais distante. Isto mostra o quão perigoso qualquer a
+taque pode ser, mesmo que pareça inofensivo. Realmente pode colocar vidas em risco. Mas vamos explic
+ar como tudo aconteceu e como levou à morte do paciente.Ataque de ransomware a hospital alemão mata 
+um paciente!No dia 10 de setembro, o hospital da Universidade de Dusseldorf, na Alemanha, sofreu um 
+ataque de ransomware. Isto depois de um grupo de utilizadores mal-intencionados terem explorado uma 
+vulnerabilidade num software comercial usado em todo o mundo. Assim, algo que não é muito difícil de
+ acontecer.Com os sistemas de TI interrompidos, o hospital anunciou que os tratamentos planeados e o
+ atendimento de emergência não poderiam ocorrer no hospital.A imprensa alemã relata que a polícia co
+ntactou os operadores de ransomware através das instruções na nota de resgate e explicou que o alvo 
+era um hospital. Assim, nessa altura os responsáveis retiraram o pedido de resgate e deram uma chave
+ que permite voltar a ter acesso aos dados.Desde que recebeu a chave, o hospital tem restaurado tamb
+ém aos poucos os sistemas.Entretanto, a NTV relata que um paciente em risco de vida foi encaminhado 
+para um hospital mais distante. Isto depois do hospital da Universidade de Dusseldorf ter cancelado 
+os serviços de emergência.Essa interrupção levou o paciente a receber cuidados uma hora depois, o qu
+e pode ter levado à morte.Devido à morte do paciente, os promotores alemães estão a investigar o ata
+que de outra forma. Neste caso como um homicídio negligente.Estes ataques a hospitais acontecem. Mas
+ não são muito frequentes! De facto, muitos criminosos não atacam estas instituições e quando aconte
+ce cedem a chave de desbloqueio.Fonte Gosta da Leak? Contamos consigo! Siga-nos no Google Notícias. 
+Clique aqui e depois em Seguir. Quer receber  notificações gratuitas  no seu smartphone ou computado
+r sempre que lançamos um novo artigo? Clique aqui. Siga-nos no Facebook, Twitter, Instagram! Quer fa
+lar connosco? Envie um email para geral@leak.pt.
+
+4AC5DDE2
+
+[15/9 08:43] Rogerio : Ransomware é um t
+ipo de malware projetado para criptografar áreas de armazenamento de computadores e servidores, torn
+ando os dados inacessíveis até que um resgate seja pago.
+
+4AC5DDE2
+
+Espero que no sea Ransomware...
+
+
+4AC5DDE2
+
+Você sabia que os ataques de ransomware continuam em alta e o malware mais detectado no c
+ontinente americano é o Wannacry? Como você se previne deste e de outros ataques de ransomware?
+
+4AC
+5DDE2
+
+Cresce o número de ataques as instituições de ensino e de pesquisas no mundo 
+'Zoombombing', 
+Check Point Software Technologies, e-mails de phishing, instituições de ensino e de pesquisas no mun
+do, negação de serviço (DDoS), Omer Dembinsky, Ransomware, Unisinos (Univer ...
+
+4AC5DDE2
+
+
+Uma mulh
+er morreu na Alemanha durante um ataque de ransomware no Hospital Universitário de Duesseldorf, no q
+ue pode ser a primeira morte diretamente ligada a um ataque cibernético a um hospital. O hospital nã
+o pôde aceitar pacientes de emergência por causa do ataque, e a mulher foi enviada para um centro de
+ saúde a cerca de 20 milhas de distância, informou a Associated Press .
+O ataque cibernético não tin
+ha como alvo o hospital, de acordo com uma reportagem do meio de comunicação alemão RTL. A nota de r
+esgate foi endereçada a uma universidade próxima. Os agressores interromperam o ataque depois que as
+ autoridades lhes disseram que o hospital havia fechado.
+
+This may be the first confirmed death resu
+lting from a cyberttack on healthcare infrastructure. https://t.co/O2mPziOgJu
+— Andy Manoske (@a2d2)
+ September 17, 2020
+
+Os centros de saúde são um dos maiores alvos de ataques cibernéticos, e especia
+listas em segurança cibernética alertam há anos que a maioria dos hospitais não está preparada . Ele
+s dependem muito de dispositivos, como equipamentos de radiologia, que geralmente estão conectados à
+ Internet. Sem essas ferramentas, eles não são tão capazes de tratar os pacientes.
+“Se os sistemas s
+ão interrompidos na Internet, por um adversário ou um acidente, isso pode ter um impacto profundo no
+ atendimento ao paciente”, disse Beau Woods, um defensor da segurança cibernética e pesquisador de i
+novação da segurança cibernética do Atlantic Council, ao The Verge no ano passado .
+Mesmo os ataques
+ que visam os dados do paciente, e não afetam diretamente os dispositivos médicos, podem prejudicar 
+os resultados dos pacientes: um estudo descobriu que a taxa de mortalidade de um hospital por ataque
+s cardíacos aumenta nos anos após uma violação de dados. Isso provavelmente ocorre porque os hospita
+is precisam desviar recursos para responder ao ataque ou atualizar o software de uma forma que mude 
+a forma como os médicos operam.
+Grandes ataques cibernéticos, como o ataque cibernético WannaCry de 
+2017, desligaram grandes sistemas hospitalares – o WannaCry derrubou o Serviço Nacional de Saúde do 
+Reino Unido, por exemplo. Nenhuma morte foi diretamente ligada a esse ataque, mas a maioria dos espe
+cialistas alertou que era apenas uma questão de tempo.
+
+A patient died when a German hospital was hi
+t by ransomware, causing delays in life-saving treatment. Looks like the fears of healthcare cyberse
+curity professionals have come true 🙁  https://t.co/de0xjpF2VH
+— Steve Christey Coley (@SushiDude) S
+eptember 17, 2020
+
+
+As autoridades alemãs ainda estão investigando a morte dessa mulher. Se seu desv
+io para outro hospital for considerado responsável por sua morte, a polícia pode tratar o ataque cib
+ernético como um homicídio.
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+#AGINFORMACION... "EN #MATERIA DE #RANSOMWARE O #SECUE
+STRO DE #DATOS, EL PAÍS SE #UBICA EN #SEGUNDO LUGAR SÓLO DESPUÉS DE #CHINA..."
+
+http://aginformacion
+.tv/mexico-urgente-que-mexico-cuente-con-una-estrategia-nacional-de-ciberseguridad/…
+@maxi_pelaezp @
+lopezobrador_ @senadomexicano @Mx_Diputados @GobiernoMX
+
+4AC5DDE2
+
+Mulher morre durante um ataque de
+ ransomware em um hospital alemão
+
+4AC5DDE2
+
+algum computeiro de plantão saberia me dizer se é crime
+ criar e distribuir um ransomware ?
+
+4AC5DDE2
+
+Crime não é,o crime tá associado a extorsão relaciona
+da a recuperação dos dados,o ransomware é só um software,o que você faz com ele depois de ter encrip
+tado TD q define ou não um crime,o ransomware do pubg de uns tempos atrás por exemplo,n era crime,só
+ uma trolagem
+
+4AC5DDE2
+
+* As 4 vulnerabilidades favorecidas pelo ransomware em 2020
+* 2020 में रैंस
+मवेयर से प्रभावित 4 भेद्यताएँ
+*
+
+4AC5DDE2
+
+Pense 3,2,1 para proteger sua empresa contra o ransomware
+ Conselhos de especialistas de @RickVanover https://securityreport.com.br/overview/pense-321-para-pr
+oteger-sua-empresa-contra-o-ransomware/#.X2OSy2hKiUm…
+
+4AC5DDE2
+
+*Por Rick Vanover A guerra contra o
+ ransomware é real. Nos últimos anos, esse tipo de ataque se tornou uma ameaça constante para as emp
+resas. Vimos grandes ataques que tornaram multinacionais, e até mesmo governos, vulneráveis ​​e inca
+pazes de continuar suas operações de missão crítica. Em 2017, o WannaCry paralisou os departamentos 
+de TI de hospitais em toda a Europa, tendo mais de 200 mil computadores afetados, demonstrando o pot
+encial destrutivo do ransomware. Embora WannaCry e Petya ainda sejam os ataques de ransomware mais c
+onhecidos, essa modalidade de ciberataque ainda está aumentando, de acordo com o Relatório de Ameaça
+s do Crime Organizado pela Internet de 2019 da Europol (IOCTA). As organizações precisam reconhecer 
+essa ameaça e tomar medidas para se preparar, defender e remediar. Isso é fundamental para evitar um
+a resposta não planejada e provavelmente ineficaz em caso de um incidente de ransomware. Uma defesa 
+forte com estratégia em multicamadas para lidar com o ransomware é composta de três elementos princi
+pais: educação, implementação e remediação. Além disso, ter uma abordagem resiliente para backup, re
+cuperação e restauração de dados é vital para proteger a continuidade dos negócios no caso de um eve
+nto desse tipo. Educando o negócio Existem dois públicos principais que devem ser visados ​​do ponto
+ de vista educacional: a equipe de TI e os usuários das organizações. É importante atingir os dois g
+rupos, pois as ameaças podem ser introduzidas para ambos. Os principais pontos de entrada de um rans
+omware são por meio do Remote Desktop Protocol (RDP) ou outros mecanismos de acesso remoto, phishing
+ e atualizações de software. Na maioria dos casos, os ciberataques não são feitos para trabalhar tão
+ arduamente quanto deveriam para buscar grandes prêmios. Saber que esses são os três mecanismos prin
+cipais é uma grande ajuda para focar no escopo de onde se deve investir mais esforço para ser resili
+ente em determinado vetor de ataque. A maioria dos gestores de TI usa RDP para seu trabalho no dia a
+ dia, com muitos servidores RDP conectados diretamente à Internet. A realidade é que isso precisa pa
+rar. Os gestores de TI podem ser criativos elaborando endereços IP especiais, redirecionando portas 
+RDP, senhas complexas e muito mais; mas os dados não mentem que mais da metade do ransomware chega v
+ia RDP. Isso nos diz que expor servidores RDP à Internet não se alinha com uma estratégia de resiliê
+ncia de ransomware com visão de futuro. O outro modo frequente de entrada é por e-mail de phishing. 
+Todos nós já vimos e-mails que não parecem certos. A coisa correta a fazer é excluir esse item. No e
+ntanto, nem todo usuário lida com essas situações da mesma maneira. Existem ferramentas populares pa
+ra avaliar o risco de ameaça do phishing para uma organização como Gophish e KnowBe4. Combinado com 
+um treinamento para ajudar os funcionários a identificar e-mails ou links de phishing, as ferramenta
+s de autoavaliação podem ser um modo eficaz de defesa de primeira linha. A terceira área que entra e
+m jogo é o risco de explorar vulnerabilidades. Manter os sistemas atualizados é uma responsabilidade
+ da TI e mais importante do que nunca. Embora não seja uma tarefa glamurosa, pode ser um bom investi
+mento, caso um incidente de ransomware explore uma vulnerabilidade conhecida e corrigida. Esteja ate
+nto para se manter em dia com as atualizações de categorias críticas dos ativos de TI: sistemas oper
+acionais, aplicativos, bancos de dados e firmware dos dispositivos. Diversos tipos de ransomware, in
+cluindo WannaCry e Petya, foram baseados em vulnerabilidades descobertas e que já foram corrigidas. 
+Implementar e corrigir Mesmo as organizações que seguem as práticas recomendadas para evitar a expos
+ição ao ransomware estão em risco. Embora a educação seja uma etapa crucial, as organizações devem s
+e preparar para o pior cenário possível. Se há algo para levar aos líderes de negócios e de TI, é te
+r uma forma de armazenamento de backup ultra resiliente. A regra 3-2-1 deve ser a estratégia geral d
+o Gerenciamento de Dados. Ela recomenda que deve haver pelo menos três cópias de dados importantes, 
+em pelo menos dois tipos diferentes de mídia, com pelo menos uma dessas cópias em um ambiente extern
+o. A melhor parte é que essa regra não exige nenhum tipo específico de hardware e é versátil o sufic
+iente para lidar com quase qualquer cenário de falha. A cópia ‘única’ na estratégia 3-2-1 deve ser u
+ltra resiliente. Com isso, queremos dizer imutável. Existem diferentes formas de mídia em que esta c
+ópia de dados pode ser armazenada de maneira ultra resiliente. Isso inclui mídia de fita, backups im
+utáveis ​​em armazenamento de objeto compatível com S3, air-gapped and offline media ou software com
+o serviço para backup e Recuperação de Desastres (DR). Apesar dessas técnicas de educação e implemen
+tação, as organizações ainda devem se preparar para remediar uma ameaça, se introduzida. Não pague o
+ resgate. A única opção é restaurar os dados. Além disso, as organizações precisam planejar sua resp
+osta quando uma ameaça for descoberta. A primeira ação é entrar em contato com o suporte. É preciso 
+ter acesso a uma equipe especial com operações específicas para orientá-lo no processo de restauraçã
+o de dados em incidentes de ransomware. Não coloque seus backups em risco, pois eles são essenciais 
+para sua capacidade de recuperação. Em desastres de qualquer tipo, a comunicação torna-se um dos pri
+meiros desafios a serem superados. Tenha um plano de como se comunicar com as pessoas certas. Isso i
+ncluiria contatos em grupo, números de telefone ou outros mecanismos normalmente usados ​​para alinh
+ar as comunicações em uma equipe ampliada. Você também precisa de especialistas em segurança, respos
+ta a incidentes e gerenciamento de identidade – internos ou externos. Também é preciso saber quem de
+ve tomar as decisões. As empresas precisam decidir quem assumirá a responsabilidade para restaurar o
+u fazer um failover antes que ocorra um incidente. Assim que a decisão de restaurar for tomada, as o
+rganizações precisam implementar verificações de segurança adicionais antes de colocar os sistemas n
+ovamente online. É necessário ainda decidir se a recuperação de uma máquina virtual (VM) inteira é a
+ melhor opção ou se uma recuperação em nível de arquivo faz mais sentido. Finalmente, o próprio proc
+esso de restauração deve ser seguro, executando varreduras completas de antivírus e antimalware em t
+odos os sistemas, forçando os usuários a alterar suas senhas após a recuperação. Embora a ameaça do 
+ransomware seja real, com a preparação certa as organizações podem aumentar a resiliência contra um 
+incidente para minimizar o risco de perda de dados, prejuízo financeiro e danos à reputação da marca
+. Uma abordagem em várias camadas é a chave. Eduque suas equipes de TI e os colaboradores para minim
+izar os riscos e maximizar a prevenção. No entanto, implemente soluções para garantir que os dados e
+stejam seguros e com backup. Por fim, esteja preparado para corrigir os sistemas de dados por meio d
+e backup completo e recursos de DR, caso suas linhas de defesa anteriores falhem. *Por Rick Vanover 
+e Diretor Sênior de Estratégia de Produto da Veeam

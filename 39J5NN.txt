@@ -1,0 +1,1991 @@
+Skip to contentSearch or jump to…Pull requestsIssuesMarketplaceExplore @FinnleyStokes Learn Git and 
+GitHub without any code!Using the Hello World guide, you’ll start a branch, write comments, and open
+ a pull request.FinnleyStokes/translate100CodeIssuesPull requestsActionsProjectsWikiSecurityInsights
+Settingsinital commit master@FinnleyStokesFinnleyStokes committed 2 hours ago 1 parent c650f60 commi
+t 740dca0ca72fb6efcb07d8630636f91bed9bb144Showing  with 3,161 additions and 0 deletions. 3,161  HBLQ
+ID.txt @@ -0,0 +1,3161 @@Un ataque ransomware avisado desde febrero, pero dale que son los norcorean
+os...
+
+4AC5DDE2
+
+Muere una paciente del hospital Universitario de Düsseldorf tras un ataque de Ranso
+mware https://j.mp/2HcyGOn
+
+4AC5DDE2
+
+Entonces, de ser lo primero, casi pensaré en un ransomware al 
+estilo BancoEstado..4AC5DDE2Llegan los graciosillos de turno y pum, Ransomware que te crío. Lo prime
+ro que dejaría de funcionar serían los sistemas principales del hospital, luego el servidor de los R
+espiradores y por último, los propios respiradores. Y ya la tendríamos liada. Esto si fuera ataque d
+irigido.
+
+4AC5DDE2
+
+El informe de investigacion de mercado global de Protección contra ransomware pr
+oporciona informacion detallada sobre la industria en funcion de los ingresos (USD MN) y el volumen 
+(unidades) para el periodo de pronostico https://bit.ly/2RCvVru
+
+4AC5DDE2
+
+los Centro Nacional de Se
+guridad Cibernética (NCSC) ha emitido una nueva alerta de seguridad cibernética para el sector educa
+tivo del Reino Unido a medida que las escuelas, colegios y universidades se recuperan de una serie d
+e ataques de ransomware. Está ofreciendo asesoramiento y orientación revisados ​​al sector en su luc
+ha por recuperarse tras el brote de Covid-19.El NCSC dijo que había registrado un aumento en los ata
+ques, que incluyen, en particular, un ataque de ransomware en la Universidad de Newcastle – en las ú
+ltimas semanas, a medida que los ciberdelincuentes centran su atención en instituciones que están má
+s centradas en que los estudiantes vuelvan a los entornos de aprendizaje de forma segura después de 
+meses de interrupciones.“Esta focalización criminal del sector de la educación, particularmente en u
+n momento tan desafiante, es absolutamente reprobable”, dijo el director de operaciones de NCSC Paul
+ Chichester.“Si bien estos han sido incidentes aislados, insto encarecidamente a todas las instituci
+ones académicas a que presten atención a nuestra alerta y pongan en práctica los pasos que sugerimos
+ para ayudar a garantizar que los jóvenes puedan regresar a la educación sin interrupciones.«Estamos
+ absolutamente comprometidos a garantizar que el mundo académico del Reino Unido esté lo más seguro 
+posible de las amenazas cibernéticas y no dudaremos en actuar cuando esa amenaza evolucione».La nuev
+a alerta del NCSC complementa la orientación existente eso se aplica igualmente a cualquier otra ind
+ustria, y se recomienda a las instituciones académicas que tomen medidas inmediatas para garantizar 
+su seguridad, lo que es más importante, garantizar que los datos se respalden y se almacenen fuera d
+e línea.También incluye consejos sobre lo que los órganos de gobierno y los fideicomisarios deben pe
+dir a los líderes escolares para mejorar la comprensión de la escuela sobre los riesgos de seguridad
+ cibernética, y la mejor manera de transmitir en cascada la guía de seguridad cibernética al persona
+l docente de primera línea.«Como nos han demostrado los últimos seis meses, nunca ha sido más import
+ante para las universidades tener la infraestructura digital adecuada para poder proteger sus sistem
+as y seguir aprendiendo, sea cual sea la circunstancia», dijo David Corke, director de educación. y 
+política de competencias en el Asociación de Colegios.“Esto necesita un enfoque universitario comple
+to y un enfoque más amplio que solo los sistemas. Debe incluir el apoyo de líderes, profesores y est
+udiantes para reconocer las amenazas, mitigarlas y actuar con decisión cuando algo sale mal.«Esta gu
+ía resultará increíblemente útil para que las universidades se aseguren de que puedan hacer precisam
+ente eso».Steve Kennett, director ejecutivo de infraestructura electrónica en Jisc, agregó: “Jisc ag
+radece el apoyo de NCSC para hacer frente a la actual avalancha de ransomware que afecta a la comuni
+dad de investigación y educación del Reino Unido.«Alentamos a todos a que revisen la guía más recien
+te del NCSC y se tomen el tiempo para evaluar los riesgos para su organización».En agosto, los resul
+tados de 134 consultas sobre libertad de información publicado por la agencia de relaciones públicas
+ Topline Communications destacó la magnitud de la amenaza a la academia. La agencia descubrió que de
+ las 105 universidades del Reino Unido que respondieron, el 33% dijo que había sido objeto de un ata
+que de ransomware en la última década, y el 45% se negó a responder la pregunta, lo que sugiere que 
+la cifra real puede ser mucho mayor.Sheffield Hallam y City, University of London se destacaron en l
+os datos, reportando 42 ataques desde 2013 y siete desde 2014, respectivamente.Proofpoint La estrate
+ga internacional de seguridad cibernética Adenike Cosgrove dijo: “El sector de la educación ha sido 
+una especie de barril de pólvora durante mucho tiempo. Las instituciones educativas tienen una gran 
+cantidad de datos altamente sensibles sobre las personas, quizás más que cualquier industria fuera d
+e la atención médica. Junto con la información personal como el nombre, la dirección y la fecha de n
+acimiento, también existe la posibilidad de guardar detalles de pago, identificación, registros médi
+cos y mucho más. Este tesoro de información pone un objetivo en la parte posterior de cada escuela, 
+colegio o universidad de buen tamaño.“Además, al igual que las instituciones médicas, los centros ed
+ucativos deben mantener una continuidad a corto y largo plazo. Cancelar exámenes, cancelar calificac
+iones y cortar servicios no es una opción, y los ciberdelincuentes lo saben, lo que también conviert
+e al sector en uno de los más atacados por los ataques de ransomware «.Chris Goettl, director senior
+ de gestión de productos de seguridad en Ivanti, agregó: “El ransomware es más efectivo cuando el at
+acante puede causar un dolor significativo y crear una sensación de urgencia. El hecho de que muchas
+ instituciones se encuentren en aprendizaje remoto o híbrido contribuirá al dolor y la urgencia que 
+acompañan a estos ataques. Si las interrupciones digitales son frustrantes en circunstancias normale
+s, son catastróficas en tiempos de aprendizaje a distancia «.
+
+4AC5DDE2
+
+Nuestros ingenieros especia
+lizados te apoyan a  identificar e integrar los controles y políticas de seguridad necesarias para p
+roteger los equipos de cómputo de tu organización, detectando, gestionando y eliminando software mal
+icioso que puede afectar la operación. ¿Como lo hacemos?Gestión de la consola Instalación y administ
+ración de EndpointAplicación y definición de las políticas de seguridad 
+
+4AC5DDE2
+
+Mientras el mund
+o entero está sufriendo los estragos de la pandemia de la COVID-19, otro virus, esta vez de cariz in
+formático, está causando serios problemas por doquier. Aunque el virus informático ha estado activo 
+durante años, su problemática ha aumentado alarmantemente durante los últimos meses. Entre las conse
+cuencias que comporta están las graves afectaciones a actividades y organismos críticos como hospita
+les, empresas o gobiernos.Este virus es el ransomware. Para hacerle frente ayudando a las víctimas a
+ luchar contra los hackers, existe No More Ransom. No More Ransom es la primera asociación publicopr
+ivada de este tipo que ayuda a las víctimas del ransomware a recuperar sus datos cifrados sin tener 
+que pagar el importe del rescate a los ciberdelincuentes. No More Ransom tiene como socios de su pro
+yecto Europol, Politie, Kaspersky y McAfee.La caja de herramientas de desciframiento No More Ransom 
+ha recibido desde su lanzamiento más de 4,2 millones de visitantes de 188 países y ha frenado unos 6
+32 millones de dólares en demandas de rescate, que habrían acabado en los bolsillos de los delincuen
+tes.Impulsado por las contribuciones de sus 163 socios, el portal ha añadido 28 herramientas en el ú
+ltimo año y ahora puede descifrar 140 tipos diferentes de infecciones por ransomware. El portal está
+ disponible en 36 idiomas diferentes.Para utilizarlo, sólo hace falta ir al sitio web nomoreransom.o
+rg y seguir los pasos de Crypto Sheriff para ayudar a identificar la tipología de ransomware que afe
+cta el dispositivo. Si hay una solución disponible, se proporcionará un enlace para descargar gratui
+tamente la herramienta de desciframiento. No More Ransom ha hecho un largo camino para ayudar a las 
+personas afectadas por el ransomware, pero hay muchos tipos de ransomware que todavía están por neut
+ralizar.Igual que en la pandemia del coronavirus, la prevención es el mejor remedio. Hay algunas med
+idas preventivas para protegernos de los ransomware:Guarde siempre una copia de los ficheros más imp
+ortantes en cualquier otro lugar: en la nube, en otro disco fuera de línea, en una tarjeta de memori
+a o en otro equipo.Utilice software antivirus fiable y actualizado.No descargue programas de fuentes
+ sospechosas.No abra ficheros adjuntos a los correos electrónicos de orígenes desconocidos, incluso 
+si parecen importantes y creíbles.Y si es víctima del ransomware, no pague nunca el rescate.Ahora se
+ necesita una solución innovadora para las tipologías de ransomware que todavía no están incluidas e
+n el portal para ayudar a las víctimas a recuperar sus ficheros sin atender las demandas económicas 
+de los delincuentes._____Aquest apunt en català / This post in English / Post en françaisTweetWhatsA
+ppTelegramEmailPrintLike this:Like Loading... 
+
+4AC5DDE2
+
+#SECURITYNews#LockBit #ransomware lanza un
+ nuevo sitio de filtración de datos que se utilizará como parte de su estrategia de doble extorsión 
+para asustar a las víctimas para que paguen un rescate.¡Infórmate! 
+
+4AC5DDE2
+
+Hechos clave:La exige
+ncia en promedio por rescate creció un 47% en el segundo trimestre del 2020.Los ciberataques van con
+tra todo tipo de industrias, sin ninguna discriminación.Los ciberataques con ransomware representan 
+la principal amenaza informática para las pequeñas y medianas empresas de Estados Unidos y Canadá. U
+n reporte de la aseguradora Coalition destacó que el 41% de las reclamaciones de seguros cibernético
+s, durante el primer semestre del 2020, están relacionadas con el secuestro de datos.El informe de C
+oalition señaló que entre el primer y el segundo trimestre del 2020 hubo un incremento del 47% en la
+ cantidad de dinero de exigían los hackers para liberar la información. Entre enero y marzo la exige
+ncia, en promedio, fue de 230.000 dólares por ciberataque, mientras que entre abril y junio la cifra
+ subió a 338.000 dólares.También te podría interesarBinance es demandada en California por supuestam
+ente permitir el lavado de 1.500 bitcoins 16 septiembre, 2020Vulnerabilidades explotadas: los ataque
+s que arruinan la fiesta de las DeFi 16 septiembre, 2020El incremento de los ciberataques con ransom
+ware y su sofisticación fue catalogado en el documento como la innovación más significativa en la hi
+storia reciente del cibercrimen. Lo peor es que los hackers estarían afinando sus estrategias para h
+acer más daño, algo que mantiene las alarmas encendidas en las propias empresas y las compañías de c
+iberseguridad.La aseguradora, que presta sus servicios a más de 25.000 compañías en Norteamérica, re
+veló además un listado de programas maliciosos utilizados por los hackers e identificó los más usado
+s para exigir mayores cantidades de dinero. Entre estos se encuentran: el malware Maze, con el que p
+iden en promedio 420.000 por ataque; Ryuk (USD 282.000), Netwalker (USD 176.000), Zepplin (132.000),
+ DoppelPaymer (USD 130.000), Dharma (USD 81.000) y Sodinokibi (USD 73.000).También se hizo mención a
+l nuevo modus operandi de los ciberdelincuentes, en el que roban primero los datos antes de encripta
+rlos. Su objetivo es amenazar con hacerlos públicos en caso de que no se pague el rescate solicitado
+.Los ataques a la seguridad informática de las empresas tiene en el phishing por email a su principa
+l aliado. Fuente: Coalition.«El ransomware no discrimina por industria. Hemos visto un aumento de lo
+s ataques con rescates en casi todas las industrias a las que servimos (…) También hemos visto un fu
+erte aumento en las demandas de rescate durante el último trimestre, como amenazas que los actores h
+an explotado por el COVID-19 y los cambios en los procedimientos operativos de las empresas», añadió
+ el reporte.Un punto a resaltar es que, de acuerdo con los analistas de Coalition, las causas fundam
+entales de los fallos de seguridad pudieron evitarse. El informe hace un llamado de atención a aspec
+tos básicos de seguridad, como el uso de la autenticación de múltiples factores, respaldo de datos, 
+protocolos de seguridad para correos electrónicos, verificación de transferencias monetarias y uso d
+e administradores de contraseñas.Ataques ransomware, bitcoin y LatinoaméricaOtro aspecto a destacar 
+es que, en comparación con las cifras del 2019, la frecuencia de reclamaciones por ransomware dismin
+uyó un 18%. Sin embargo, la aseguradora afirmó que han observado un «dramático incremento» en la gra
+vedad de los ataques.En el informe se citó el caso de una pequeña empresa que fue atacada con ransom
+ware y a la que se le exigió el pago de 25 bitcoin (BTC). No obstante, al ser una pequeña compañía y
+ estar asegurada, la entidad no efectuó ningún pago. El episodio culminó con una resolución favorabl
+e en 48 horas.Las industrias más atacadas son las del consumo, servicios profesionales, cuidado de l
+a salud y servicios financieros. Fuente: Coalition.Los ciberataques de este tipo están en incremento
+ y Latinoamérica no escapa a esta situación. La región se ha convertido en blanco para los ciberdeli
+ncuentes que buscan cada vez más vulnerar los sistemas de seguridad y secuestrar información sensibl
+e.CriptoNoticias ha reportado múltiples casos como los recientes hechos ocurridos con BancoEstado en
+ Chile o el presentado en Argentina con la Dirección Nacional de Migraciones (DNM).La complejidad de
+ los ataques informáticos en general y la capacidad de reacción de las empresas también han sido tem
+as de análisis. La firma de ciberseguridad Acronis informó esta semana que 3 de cada 10 compañías re
+ciben ciberataques a diario, entre los que se encuentran los ransomware. Incluso, hay corporaciones 
+que son atacadas cada hora, lo que habla del incremento de las amenazas informáticas.Etiquetas: Cibe
+rataqueHackerRansomwareRobo y Fraude
+
+4AC5DDE2
+
+Muere una paciente del hospital Universitario de Düs
+seldorf tras un ataque de Ransomware http://dlvr.it/Rgqryk
+
+4AC5DDE2
+
+Disponible el artículo de José
+ Luis Laguna de @Fortinet en nuestro Centro de Conocimiento http://ow.ly/IH5n50BtyM6 #Cybersecurity 
+#DigitalWorkSpace #Ransomware #UneteASLAN
+
+4AC5DDE2
+
+#DeepLearning: Así logró Sophos identificar y d
+etener a #Wannacry: https://goo.gl/bir1zA ¡Los antivirus clásicos ya no son suficientes para protege
+r tu PYME del #ransomware!
+
+4AC5DDE2
+
+#earmas RT SeguInfo: Muere una paciente del hospital Universit
+ario de Düsseldorf tras un ataque de Ransomware https://j.mp/2HcyGOn
+
+4AC5DDE2
+
+La lista de afectado
+s por el ransomware no para de crecer #ElMonstruoSigueCreciendo
+
+4AC5DDE2
+
+continúa la avalancha de 
+ataques de ransomware contra las escuelas. La última es una huelga contra un distrito escolar de Cal
+ifornia que cerró el aprendizaje remoto para 6.000 estudiantes de escuelas primarias, según funciona
+rios de la ciudad.
+
+4AC5DDE2
+
+Esto es algo que debe existir en toda plataforma de salud, el apagón d
+igital que puede proceder de un ransomware no puede ser un impedimento para la atención de salud. Vo
+lver al papel por unas horas debe ser una opción.
+
+4AC5DDE2
+
+#Tecnología Asesinada por un virus: un 
+ataque ‘ransomware’ termina en la muerte de una paciente - https://tendencias.tech/asesinada-por-un-
+virus-un-ataque-ransomware-termina-en-la-muerte-de-una-paciente/?utm_campaign=57510&utm_medium=twitt
+er&utm_source=twitter… #Noticias
+
+4AC5DDE2
+
+¿Hasta donde puede llegar un ataque informático? Los cib
+ercriminales detrás del ransomware ya cargan con la muerte de una mujer, mientras tanto ya retiraron
+ el dinero del rescate.
+
+4AC5DDE2
+
+El informe de investigacion de mercado global de Protección contr
+a ransomware proporciona informacion detallada sobre la industria en funcion de los ingresos (USD MN
+) y el volumen (unidades) para el periodo de pronostico https://bit.ly/33DZLBG
+
+4AC5DDE2
+
+Grupo de r
+ansomware cerró las fronteras de Argentina y exigen a las autoridades 4 millones de dólares en BTC h
+ttps://es.cointelegraph.com/news/ransomware-hackers-shut-down-argentinas-borders-demand-4m-btc/amp… 
+via @cointelegraph
+
+4AC5DDE2
+
+El ransomware, en la actualidad y desde hace ya 10 años, se ha convert
+ido en una de las principales amenazas en cuanto a seguridad cibernética para las organizaciones a n
+ivel mundial. Tan solo en 2019, el 51% de las organizaciones fueron víctimas de ransomware y el 73% 
+de esos incidentes tuvieron éxito al cifrar los datos de las empresas afectadas, de acuerdo con dato
+s del informe El Estado del Ransomware 2020, publicado por Sophos.Durante los últimos meses, se han 
+presentado ataques de ransomware de gran magnitud, como el que sufrió la firma estadounidense Garmin
+, cuyos datos fueron secuestrados por el ransomware ‘WastedLocker’; o Canon, cuya información fue ro
+bada por el grupo de cibercriminales Maze a inicios de agosto. Pero pese a ello, existen organizacio
+nes que parecen desestimar el problema y reducir, tanto la inversión como el tamaño en sus equipos d
+e ciberseguridad, derivado del impacto económico que la pandemia por el COVID-19 generó.Ben Verschae
+ren, Global Solutions Engineer de Sophos manifestó: ‘La seguridad de la información debe ser una pri
+oridad para las empresas y sus departamentos de TI, ya que los ciberdelincuentes están aumentando su
+s ataques y los equipos de seguridad deben estar completamente operativos y listos para prevenir el 
+riesgo de ser atacados y manejar una situación de ese tipo’.Una de las soluciones más efectivas anti
+-ciberataques es la protección para endpoints, pero además existen seis mejores prácticas para la co
+rrecta configuración de los equipos y para maximizar la efectividad de las defensas anti-ransomware,
+ enumeradas a continuación:1. Políticas de seguridad siempre habilitadas: Puede sonar obvio, pero es
+ la primera forma infalible de obtener la mejor protección para endpoints. Habilitar las funciones q
+ue detecten las distintas técnicas de ataque sin archivos y el comportamiento de ransomware es cruci
+al para anticiparse a la posibilidad de ser vulnerado.2. Revisiones periódicas de exclusiones del pr
+oveedor: En ocasiones, esas exclusiones o condiciones establecidas en las pólizas de los proveedores
+ de seguridad están hechas para suavizar las quejas de los usuarios sobre las soluciones obtenidas. 
+Es usual que los ciberdelincuentes obtengan información sobre los puntos excluidos en las pólizas pa
+ra infiltrarse en los sistemas.3. Habilita la autenticación multifactor: La Autenticación multifacto
+r (MFA por sus siglas en inglés) proporciona una capa adicional de seguridad después de un primer fa
+ctor que por lo general es una contraseña. Estas claves pueden ser fáciles de obtener para organizac
+iones de ciberdelincuentes con sistemas complejos, por lo que consisten en una capa de protección po
+co sólida contra entes maliciosos.4. Garantizar que cada endpoint esté actualizado: Se deben revisar
+ los dispositivos de la organización con regularidad para saber si están completamente actualizados 
+con los parches de seguridad necesarios, lo que garantiza una protección óptima inmediata. Esta es u
+na buena forma de mantener una protección adecuada en los equipos, que no sólo mitiga el riesgo de s
+er víctima de ciberataques, sino que también puede ahorrarle mucho tiempo al equipo de seguridad cua
+ndo se trata de posibles riesgos en el futuro.5. Indagar siempre al interior de la red: Los actores 
+maliciosos son astutos. Además de prevenir que sea atacada la organización, se debe aprovechar la te
+cnología de protección disponible para identificar amenazas avanzadas y adversarios activos en sus e
+ndpoints, aunque todavía no se manifiesten.6. Confiar en la intervención humana de los encargados de
+ TI: Los piratas informáticos suelen dedicar mucho tiempo a explorar su red antes de implementar ran
+somware. La mejor manera de detectar esta actividad es combinar la experiencia humana con el trabajo
+ de la tecnología y la Inteligencia Artificial. Recuerde que detrás de cada ataque, hay una persona 
+al mando, por lo que pensar de forma anticipada es crucial.En la actualidad, el costo promedio de re
+cuperación ante ransomware es de hasta 1.4 millones de dólares, debido a que muchas empresas optan p
+or pagar el rescate de la información secuestrada, según datos de Sophos. Es por eso que las organiz
+aciones deben estar alertas a todos los indicios de ciberataques, así como no limitar la inversión e
+n ese aspecto, ya que el costo de hacerlo puede ser mucho mayor.
+
+4AC5DDE2
+
+Por: José Luis Gutiérrez
+, arquitecto de soluciones de ciberseguridad en CoasinLogicalis«Silencioso e inteligente, el ransomw
+are es una amenaza que no pasa de moda. Se moderniza, gracias a una ingeniería social que permite qu
+e sus ataques no sean al azar, sino más bien, estudiados y con un fin claro: ¿Cuál?Secuestrar datos 
+e información para obtener dinero.En la mayoría de sus acciones, cuentan con facultades que les perm
+iten ocultar robos, información o simplemente, borrar evidencia. Si bien es cierto que suelen ir var
+iando en métodos y formas, el fin siempre es el mismo: atacar al sector empresarial.Efecto Ransomwar
+ePara hacerse una idea, a través de un ransomware se puede paralizar la operación de una empresa por
+ tres-cuatro días o hasta semanas, con grandes pérdidas: sin facturar, poder emitir órdenes de compr
+a, acceso a correos y, en el peor de los casos, perder información de años si no se cuenta con un bu
+en programa de backups y recuperación de desastres.Ahora bien, imaginen este mismo escenario en indu
+strias de infraestructura crítica o servicios de salud tales como clínicas o redes asistenciales don
+de, además del secuestro de datos (que nadie garantiza su recuperación o comercialización), el efect
+o mismo puede atentar contra la vida de ciudadanos.VulnerabilidadLa vulnerabilidad de las compañías 
+obedece, entre otros factores, al nulo control adecuado de las actualizaciones y/o parches de su inf
+raestructura crítica. Además de la falta de protección y mantenimiento de sus sistemas. Si observamo
+s los ataques que han ocurrido, muchas de las empresas no estaban parchadas.De hecho, algunas organi
+zaciones que han tenido este tipo de vulnerabilidades, han optado por informar a sus colaboradores c
+olocando avisos en las oficinas: “Mantente seguro y sano: no pinches cualquier link y lávate las man
+os”. Y no es al azar, es parte de la educación que deben tener las compañías con sus colaboradores. 
+La seguridad parte en casa.¿Cómo ataca un ransomware?Con características de gusano por su capacidad 
+de replicación, el ransomware puede buscar dentro de la red computadores que estén accesibles para p
+oder infectar. Su principal objetivo es cifrar datos, bloquear archivos, y dejar sin acceso a ellos.
+ En palabras simples, secuestra los datos y para recuperarlos pide un pago a través de la moneda dig
+ital bitcoins.Los vectores de ataque pueden variar, pero usualmente eligen funcionar mediante correo
+ electrónico. También, se puede dar el caso que esté disponible en internet a través de Torrent como
+ algún crack de algún software que esté de moda o algún juego.Un ejemplo de esto es WannaCry, ransom
+ware que afectó, entre ellos, a Telefónica y dejó inutilizada casi toda la compañía en España y otro
+s países. O sea, se replicó a nivel mundial en una misma compañía. Asimismo, el ransomware Snake vul
+neró los sistemas de control de la marca automotriz Honda, impactando de forma directa en su red, te
+niendo que detener su funcionamiento.¿El ransomware descansa en pandemia?El COVID-19 trajo consigo m
+uchos desafíos, entre ellos la complejidad a la que se enfrentaron muchas compañías al enviar a sus 
+colaboradores a operar desde sus hogares. Sin embargo, no se priorizaron ni los controles ni la segu
+ridad desde donde accedían, sino que los esfuerzos se destinaron solo a la conectividad.Las brechas 
+de seguridad aumentan cuando pasas de un espacio de trabajo seguro como es la oficina, dentro de una
+ estructura de seguridad, hacia una casa sin medidas ni protecciones. Algunas empresas conservaron c
+ontroles a través de infraestructura por VPN.Más datosLo cierto es que el trabajo remoto y poco cont
+rol de lo que hacen los usuarios en casa, crea una contingencia de amenazas ransomware. Algunas orga
+nizaciones están aplicando e invirtiendo en programas de respaldo de información, y controlando las 
+herramientas de colaboración.Otra solución que está tomando fuerza es el Security Access Service Edg
+e (SASE), que implica focalizar un punto de control de algún sector de la nube que permita extender 
+los controles de seguridad a otros dispositivos. Es decir, ya no se necesita estar en un ambiente em
+presarial para tener mayor y mejores controles, sino que solo basta con conectarse a un punto focal 
+en la nube y se recupera el control.El poder del RansomwareEn el mercado existen soluciones que cont
+raatacan a este virus, y crean copias de seguridad digitales para evitar el secuestro de información
+ y así evitar el pago de millones de dólares en rescate.Aunque existen empresas que optan por no pag
+ar y recrean todo nuevamente, es importante comenzar a implementar seguridad en las infraestructuras
+ críticas de las organizaciones para evitar secuestros o vulneraciones a los sistemas.El poder de ra
+mificación y contaminación que tienen el ransomware es muy potente. Por ende, requiere medidas y con
+troles que permitan asegurar lo más importante de las empresas: los datos». 
+
+4AC5DDE2
+
+REVISTASTOP 
+PRODUCTSAN Consult España, S.L.Servidor OPC UAÚLTIMAS NOTICIASConozca las claves para crear un ecosi
+stema de almacenamiento persistente en torno a los contenedores con IBM y LogicalisInfoblox crece un
+ 40% en Iberia e IsraelDuPont Sustainable Solutions anuncia una alianza con Bleenco GmbH para promov
+er la seguridad digitalLa conectividad cloud tendrá que cambiar para adaptarse a la nueva normalida
+dEntrevista a Carlos Ferro, vicepresidente de Thycotic para el Sudeste de Europa, Medio Oriente y Á
+frica (SEEMEA)EMPRESAS DESTACADASOPINIÓNLa conectividad cloud tendrá que cambiar para adaptarse a la
+ nueva normalidadTribuna de opiniónEntrevista a Carlos Ferro, vicepresidente de Thycotic para el S
+udeste de Europa, Medio Oriente y África (SEEMEA)Las empresas deben concienciarse sobre la necesida
+d de implantar un teletrabajo seguro y desde cualquier lugar para que se consolide, independientemen
+te de que suframos o no una crisisVentajas de los diferentes modelos de migración a cloud, ¿Cuál le
+ interesa a tu organización?Su empleo ya no es una opciónLa vigilancia Infosec puede provocar daños 
+en la era del IoT industrial y los dispositivos médicos conectadosCómo las soluciones de Zero Trust 
+Network Access aceleran la amortización de las operaciones de fusiones y adquisicionesOTRAS SECCIONE
+SAgendaSERVICIOSJornadas ProfesionalesMarketing digital sector industrialComunicación B2B
+
+4AC5DDE2
+
+
+Asesinada por un virus: un ataque ransomware termina en la muerte de una paciente https://ift.tt/2Z
+O7mfH
+
+4AC5DDE2
+
+El 40% de los reclamos a seguros cibernéticos son por ataques ransomware, asegura i
+nforme http://dlvr.it/RgpZLX
+
+4AC5DDE2
+
+Con un segundo punto de acceso, salvo que se configure en un
+ rango de red distinto al del router, no se protege frente a Ransomware. Para hacerlo bien hay que c
+onfigurar una VLAN nueva y usar un rango de IP distinto al wifi principal.
+
+4AC5DDE2
+
+Top 20 de vuln
+erabilidades y configuraciones incorrectas de Microsoft Azure #infosec #Azure #ciberseguridad #ciber
+ataques #Ransomware #CyberSecurity #securitybreach #BlueTeam source:
+
+4AC5DDE2
+
+Nuestros ingenieros 
+especializados te apoyan a  identificar e integrar los controles  de seguridad  para proteger los eq
+uipos de cómputo de tu empresahttps://antar.com.mx/Bitdefender-Mexico/…infodc@antar.com.mx#Antimalwa
+re #BitdefenderInternetSecurity #SeguridadEnLaNube #Antivirus #Ransomware
+
+4AC5DDE2
+
+Muere una pacie
+nte del hospital Universitario de Düsseldorf tras sufrir el propio hospital un ataque de Ransomware.
+ http://blog.segu-info.com.ar/2020/09/muere-una-paciente-del-hospital.html… via @SeguInfo #InfoSec
+
+
+4AC5DDE2
+
+Lo que pasó en el "Grey Sloan Memorial" parecía de broma, pero cuando muere alguien a caus
+a de un incidente de #ciberseguridad deja de serlo. https://bit.ly/3hFg5qN via @BleepinComputer #ran
+somware #infosec #healthcare
+
+4AC5DDE2
+
+ En cumplimiento al REGLAMENTO (UE) 2016/679 DEL PARLAMENTO 
+EUROPEO Y DEL CONSEJO de 27 de abril de 2016 (relativo a la protección y al tratamiento de datos per
+sonales) le comunicamos como realizamos el tratamiento de sus datos ampliando más información en nue
+stro Aviso Legal (apartado 4, Privacidad y Protección de Datos de Carácter Personal). Usted tiene de
+recho a obtener el acceso a sus datos personales, así como a solicitar la rectificación de los datos
+ inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean n
+ecesarios para los fines que fueron recogidos. En determinadas circunstancias, usted podrá solicitar
+ la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaremos para el ejerc
+icio o defensa de reclamaciones. Cuando sea técnicamente posible, usted podrá solicitar la portabili
+dad de sus datos a otro responsable del tratamiento. Para ejercitar estos derechos, de conformidad c
+on la legislación vigente, usted puede enviar un correo electrónico a info@doiser.com Responsable de
+l Fichero: D.O.I. Servicios Empresariales, S.L. Finalidad: Gestión de las solicitudes recibidas a tr
+avés de nuestra página web para el envío de información comercial de nuestros productos y/o servicio
+s  Base legitimadora: La licitud para el tratamiento viene determinada por la ejecución de medidas p
+re contractuales a la solicitud del interesado. (Envío de ofertas comerciales y/o información adicio
+nal sobre nuestros servicios).  Cesión de Datos: No revelaremos a terceros datos que carácter person
+al referente a los usuarios sin su consentimiento, salvo obligación legal o lo solicite una autorida
+d competente. Procedencia: El propio interesado, que tiene a su disposición en nuestra página web un
+ Aviso Legal que contiene nuestra Política de Protección de Datos de Carácter Personal. Conservación
+: Los datos personales aquí recogidos serán conservados el tiempo necesario para cumplir la finalida
+d de su recogida, aunque tendremos que conservar cierta información durante más tiempo si las leyes 
+aplicables así lo permiten o lo exigen. Aunque eliminemos sus datos personales, estos podrán seguir 
+existiendo en soportes de archivo o copia de seguridad durante un tiempo adicional por motivos legal
+es, fiscales o reguladores o por fines comerciales legítimos y legales.
+
+4AC5DDE2
+
+Asesinada por un 
+virus: un ataque ransomware termina en la muerte de una paciente
+
+4AC5DDE2
+
+Una mujer en Alemania ha
+ sido una víctima colateral de un ataque de ransomware al Hospital Universitario de Düsseldorf.Esta 
+parece ser la primera muerte directamente relacionada con un ciberataque a un hospital. El hospital 
+no pudo admitir pacientes en Emergencias por culpa del ataque, así que la mujer fue redirigida a un 
+centro de salud a unos 30 kilómetros de distancia.TE INTERESA:Algo malo tiene que estar pasando a Ga
+rmin y no nos lo quieren contarEl ciberataque no estaba dirigido al hospital sino a una universidad 
+cercana. Alrededor de 30 servidores del hospital fueron cifrados y los atacantes dejaron una nota de
+ extorsión en uno de los servidores.La nota estaba dirigida a la Universidad Heinrich Heine, a la qu
+e está afiliado el hospital de Düsseldorf, y no al propio hospital.La policía de Düsseldorf se puso 
+en contacto con los atacantes y les dijo que el hospital, y no la universidad, había sido afectada, 
+poniendo en peligro a los pacientes.Los atacantes entonces retiraron el intento de extorsión y propo
+rcionaron una clave digital para descifrar los datos. Según el informe del Ministro de Justicia, los
+ autores ya no están localizables.Los centros sanitarios son uno de los mayores objetivos de los cib
+erataques, y los expertos en seguridad cibernética han advertido durante años que la mayoría de los 
+hospitales no están preparados.Las autoridades alemanas todavía están investigando la muerte de esta
+ mujer. Si se descubre que su desvío a otro hospital fue responsable de su muerte, la policía podría
+ considerar el ciberataque como un homicidio.FacebookTwitterWhatsappLinkedinMailMeneameTelegram
+
+4AC
+5DDE2
+
+-Lanzan ransomware contra ¿una universidad?-En realidad es un hospital.-Todo TI parado. Deriv
+an pacientes a hospital más lejano.-Policia contacta con malos: "¡Es un hospital!"-Malos dan clave d
+escifrado.-Recover lento.-¿Responsabilidad en la muerte de un paciente derivado?
+
+4AC5DDE2
+
+Muere un
+a paciente del hospital Universitario de Düsseldorf tras sufrir el propio hospital un ataque de Rans
+omware. http://dlvr.it/RgqdcJ4AC5DDE2Habría que ver bien los detalles del caso. SI estableces un nex
+o causal entre el ransomware y la muerte, todo indicaría que si.
+
+4AC5DDE2
+
+Muere una paciente del h
+ospital Universitario de Düsseldorf tras sufrir el propio hospital un ataque de Ransomware. https://
+ift.tt/2RCOawY
+
+4AC5DDE2
+
+Las primeras líneas parecen el típico comunicado de prensa de lanzamiento 
+de un producto: “Creamos Darkside porque no pudimos encontrar el producto perfecto para nosotros.  A
+hora lo tenemos.Sin embargo, este no es el típico comunicado de prensa para su empresa: es un grupo 
+de ciberdelincuentes que crearon la última variedad de ransomware diseñada para cazar y apuntar a or
+ganizaciones de grandes juegos para millones.  Pero en lugar de lidiar con callejones y apuñalar a c
+riminales, estos ladrones prácticamente usan un traje y te dan la mano con ataques que están envuelt
+os de una manera asombrosamente profesional.Entrarán en sus sistemas, robarán y cifrarán sus archivo
+s, lo bloquearán y luego amenazarán con exponer públicamente sus datos confidenciales a menos que pa
+gue la tarifa del ransomware.  Al igual que su ataque típico de ransomware, excepto que estos delinc
+uentes tratarán al negociador de manera agradable con una sonrisa en su rostro y un comportamiento s
+ervicial y voluntarioso.  Ofrecen soporte por chat en tiempo real, tiempos de respuesta garantizados
+ y descuentos si el pago se recibe de manera oportuna.  Darkside incluso tiene un compromiso de resp
+onsabilidad corporativa: prometen no atacar escuelas, organizaciones sin fines de lucro, gobiernos u
+ hospitales, y solo apuntarán a aquellos por quienes saben que pueden pagar en función de su valor n
+eto.Darkside no es el único ransomware que acapara los titulares por su comportamiento cordial en lo
+s titulares recientes.  Los piratas informáticos del ransomware Ragnar Locker atacaron con éxito a l
+a compañía de viajes CWT, y un representante criminal lo suficientemente agradable habló con el equi
+po de finanzas de la compañía en la ventana de chat de soporte.  Ofrecieron un descuento del 20% por
+ pago puntual, describieron lo que ofrecería el pago del rescate y mantuvieron la ventana de asisten
+cia operativa después de entregar las claves de descifrado en caso de que la empresa necesitara una 
+solución de problemas.  Casi podría creer que está comprando software legítimo en línea, sin intenta
+r desesperadamente recuperar los datos confidenciales de su propia organización antes de que se publ
+iquen al público.Pero, como ha señalado Ragnar Locker, tratar con estos criminales cordiales es «… p
+robablemente mucho más barato que los costos judiciales. […] y pérdida de reputación causada por una
+ filtración.  Y ese es un problema que apenas está comenzando: Ontrack ahora ha revelado que se han 
+registrado más ataques de ransomware en los últimos 12 meses que nunca.¿Por qué están ganando popula
+ridad los ataques de ransomware?En el mundo de la ciberdelincuencia, el ransomware está ahora donde 
+está el dinero.  Este tipo de ataque es rentable de inmediato, ya que el ciberdelincuente no necesit
+a monetizar los datos a través de ventas y subastas en la web oscura, pero puede obtener dinero de i
+nmediato a través de transacciones de Bitcoin.  El ransomware ha pasado de ser simples ciberdelincue
+ntes que difunden correos electrónicos de phishing, que ahora son detectados con frecuencia por los 
+filtros de spam, a bandas de ciberdelincuentes de diferentes especialidades que trabajan juntas para
+ llevar a cabo sofisticadas campañas de spear phishing y ataques contra los ciberdelincuentes. infra
+estructura.  Las variantes de ransomware recientes se han aprovechado de las vulnerabilidades de los
+ terminales de VPN y, en algunos casos, los ciberdelincuentes han ofrecido ataques de ransomware com
+o servicio para clientes potenciales.  El problema con el ransomware es que las organizaciones tiene
+n muy pocas opciones disponibles si los datos críticos han sido encriptados y colocados fuera de su 
+alcance, razón por la cual es tan efectivo.  El elemento clave de un ataque es comprender cuánto tie
+mpo puede sobrevivir la organización sin acceso a sus datos y cuánto tiempo necesita para restaurar 
+los datos para continuar como de costumbre.  En un ataque dirigido, los ciberdelincuentes habrán inv
+estigado y descubierto los que esperan sean los puntos débiles de la organización.  Esto brinda a la
+s organizaciones opciones limitadas, ya sea reconstruir y restaurar los datos, intentar trabajar sin
+ los datos (lo que puede ser extremadamente difícil) o pagar el rescate.  En algunos casos raros, es
+ posible recuperar datos utilizando herramientas como No More Ransom de Interpol.  Los atacantes qui
+eren que el pago se realice lo más rápido posible, antes de que los sistemas puedan reconstruirse.  
+Esto significa que se están implementando nuevas tácticas que implican aplicar presión adicional a u
+na serie de amenazas crecientes;  publicar los nombres de las víctimas, amenazar con divulgar datos 
+tanto de forma privada como pública, y publicar datos exfiltrados.Esto causa aún más quebraderos de 
+cabeza para la organización, porque si los datos incluyen información personal, sensible o valiosa, 
+las amenazas de divulgación de datos pueden generar problemas con los reguladores como el ICO, probl
+emas potenciales. con acciones colectivas o multas de la industria de pagos.  Si se trata de un secr
+eto comercial en el que se basa la organización, puede causar grandes problemas si se hace en el dom
+inio público.  Por lo tanto, el daño potencial de la organización o las fuertes multas resultantes d
+e una infracción pueden hacer que una organización sea persuadida de pagar para mantener el incident
+e en silencio.¿Cómo detectar un ataque de ransomware desde el principio?Estos tipos de ataques invol
+ucran a un atacante que se instala en el sistema a través de ingeniería social o un ataque de red, g
+eneralmente a través de debilidades de VPN o RDP.  Luego, el atacante realizará un reconocimiento, s
+eleccionará sus objetivos, exfiltrará los datos, activará el ransomware y luego monitoreará las resp
+uestas.Muy a menudo, la primera señal de un ataque de ransomware es la demanda de ransomware que apa
+rece en los sistemas cuando los usuarios intentan acceder a él.  Sin embargo, hay un proceso seguido
+ por ransomware y es posible detectar las primeras señales de advertencia del viaje secreto de un at
+acante:Si un ciberdelincuente está explotando vulnerabilidades de VPN y RDP, puede verificar si hay 
+signos de un ataque a través de registros y alertas de un IDS / IPS.Es posible identificar un ataque
+ a través del tráfico saliente que se dirige a un servidor de comando y control sospechoso; bloquear
+lo puede ser un interruptor para el malware, pero no en todos los casos.Compruebe si hay herramienta
+s adicionales instaladas en las máquinas de su organización.Se pueden comenzar a crear nuevas cuenta
+s de administrador.Esté atento al tráfico inusual en sus redes.Puede haber picos en el uso de la CPU
+ y el disco cuando se inicia el cifrado.¿Cómo reaccionar ante un ataque de ransomware?Por supuesto, 
+la mejor respuesta es evitar que ocurra un ataque en primer lugar.  Esto se puede hacer capacitando 
+a los empleados para que reconozcan e informen sobre amenazas, fortaleciendo las redes, la infraestr
+uctura externa y los dispositivos de los empleados, y monitoreando constantemente estas vulnerabilid
+ades que deben abordarse de inmediato cuando se descubren.  La autenticación de múltiples factores t
+ambién debe usarse para el acceso externo o remoto a los recursos corporativos, y debe buscar avanza
+r hacia un entorno poco confiable en el que las redes internas se traten como inseguras.Los pasos pr
+eliminares también deben garantizar que los datos estén seguros en caso de un ataque.  Mantenga las 
+copias de seguridad protegidas de la manipulación y asegúrese de que no pueda acceder a ellas direct
+amente desde los dispositivos de los usuarios o la red; si bien se puede acceder fácilmente a las co
+pias de seguridad, el malware puede alcanzarlas y dejarlas inútiles también.  También debe cifrar lo
+s datos e implementar controles de acceso estrictos «necesarios para conocer».Según el último inform
+e del Ponemon Institute, la mejor forma de defensa preliminar es implementar herramientas automatiza
+das que puedan ayudar a detectar violaciones y comportamientos sospechosos.  Las organizaciones que 
+utilizan análisis e IA (inteligencia artificial) son las más exitosas para mitigar los costos de las
+ infracciones, gastando alrededor de € 1.84 millones en su proceso de recuperación.  Las organizacio
+nes que no implementan estas medidas enfrentan costos de más del doble, o alrededor de € 4.5 millone
+s.Es justo decir que muchas organizaciones no saben por dónde empezar a implementar y probar sus def
+ensas, o carecen de las habilidades y los recursos de seguridad para gestionar eficazmente sus riesg
+os de ciberseguridad.  Para las empresas que luchan por hacer frente al aumento del ransomware y los
+ ataques cibernéticos, considerar la implementación de una solución de seguridad cibernética como se
+rvicio (CSaaS) suele ser la forma más fácil de administrar y superar. esos dolores de cabeza de segu
+ridad.  Un CSaaS es un modelo de gestión de riesgos de ciberseguridad subcontratado que alivia la ca
+rga de la organización y garantiza su protección contra las ciberamenazas comunes.  Esto ahorra recu
+rsos internos tanto tiempo como dinero, que se pueden utilizar para hacer frente a la gran cantidad 
+de otros incendios que ha comenzado hasta ahora.Sin embargo, los ataques de ransomware aún pueden pe
+netrar las defensas de una organización, incluso a pesar de los mejores preparativos.  Si supervisa 
+continuamente sus sistemas en busca de actividad sospechosa, puede detectar señales de advertencia t
+empranas que pueden darle una ventaja, como tráfico web inusual, uso de credenciales privilegiadas ,
+ creando nuevas cuentas o instalando y usando software no autorizado.  .Si ha sido víctima de un ata
+que, siga su plan de respuesta a incidentes y asegúrese de que toda su organización lo haya practica
+do de antemano para que no lo experimente por primera vez en un pánico ciego.  Deberá estar preparad
+o para reaccionar rápidamente y apagar toda la red si es necesario; una interrupción breve puede ser
+ menos perjudicial que un período prolongado de interrupción del servicio.  Cuando restaure sus sist
+emas y datos, asegúrese de que las vulnerabilidades que se han explotado se hayan solucionado y se h
+aya eliminado todo el malware para que no puedan volver a infectar los sistemas una vez que lo están
+. restaurado.Con el creciente número de ataques de ransomware dirigidos a organizaciones, el costo d
+e no tener implementado un sistema de detección y respaldo seguro puede ser desastroso.  Invertir en
+ una solución hoy puede garantizar que no lo tomarán desprevenido más adelante, y aprender de los er
+rores pasados ​​de las fallas puede ayudar a proteger a su organización de un destino similar en el 
+futuro.Geraint Williams es CISO de gobernanza de TIComparte esto:TweetMe gusta esto:Me gusta Cargand
+o...Vídeos de interes1er.  Encuentro - Ciberdelitos y nuevas tecnologías aplicadas a la Investigació
+n Criminal🕵‍♂‍Ciberdelitos y nuevas tecnologías aplicadas a la Investigación Criminal  ‍♂‍ Ciclo de 
+Conversatorios Vamos a hacer un recorrido por el proceso investigativo ...active1er.  Encuentro - Ci
+berdelitos y nuevas tecnologías aplicadas a la Investigación Criminal🕵‍♂‍Ciberdelitos y nuevas tecno
+logías aplicadas a la Investigación [...]Ciberdelitos y nuevas tecnologías aplicadas a la Investigac
+ión Criminal  ‍♂‍ Ciclo de Conversatorios Vamos a hacer un recorrido por el proceso investigativo ..
+.activeDesarrollo Profesional en Seguridad: ¿Que es lo que sigue?Desarrollo Profesional en Seguridad
+: ¿Qué es lo que sigue?, es la [...]Desarrollo Profesional en Seguridad: ¿Qué es lo que sigue?, es l
+a charla donde Juan Pablo Quiñe nos muestra el camino que en su experiencia personal ...
+
+4AC5DDE2
+
+
+Un grupo de #ciberdelincuentes ha reivindicado un #ciberataque del #ransomware #NetWalker contra GAM
+, una multinacional asturiana especializada en servicios para la industria 4.0 y el alquiler de maqu
+inaria. https://businessinsider.es/reivindican-ciberataque-gam-firma-asturiana-industria-40-717705…#
+ciberseguridad #emailsecurity #itsecurity
+
+4AC5DDE2
+
+estoy hecho para lo que estoy hecho, sin mirami
+entos, parece que aún no me creéis...
+
+4AC5DDE2
+
+Ten en cuenta la siguiente información para que pue
+das identificarlo y denunciarlo. #ConsejosEducadoresRansomware es un programa malicioso que solicita
+ tu información  a cambio de desbloquear restricciones de acceso.
+
+4AC5DDE2
+
+Apple vs el resto del m
+undo es lo mismo que la Play vs Xbox y nintendo, siempre existira la batalla de fanboys4AC5DDE2Muere
+ una paciente del hospital Universitario de Düsseldorf tras sufrir el propio hospital un ataque de R
+ansomware. http://feedproxy.google.com/~r/NoticiasSeguridadInformatica/~3/5l24eE0Uev4/muere-una-paci
+ente-del-hospital.html…
+
+4AC5DDE2
+
+El secuestro (y pérdida) de información es una de las principales
+ amenazas que enfrentan usuarios y empresas. Aprende aquí cómo protegerte del nefasto ransomware.#Pr
+otegeTuNegocio #IndustriaTICResponsable
+
+4AC5DDE2
+
+Primer caso documentado de muerte de un paciente 
+por causa de un ataque #ransomware. Duesseldorf University Hospital.#ciberataques#cybercrime#cyberse
+curityBy Znet:
+
+4AC5DDE2
+
+Inscribite y participá  | 𝗔𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝗴𝗿𝗮𝘁𝘂𝗶𝘁𝗮La ciberseguridad es el esfuer
+zo constante por proteger los sistemas en la red y todos los datos contra el uso no autorizado o los
+ daños. A nivel personal - del usuario final, para proteger su identidad, sus datos y sus dispositiv
+os informáticos. Speaker Agustín LombardoJueves 17 de septiembre 2020 19.00hs. Argentina | Uruguay18
+.00hs. Chile | Bolivia | Paraguay17.00hs. Colombia| México | Ecuador | Perú
+
+4AC5DDE2
+
+Proveedor de 
+electricidad más grande de Pakistán sufrió ataque ransomware
+
+4AC5DDE2
+
+Enserio son consumidores de 
+Sony? La verdad me impresionan, no son tóxicos y reconocen la realidad
+
+4AC5DDE2
+
+“En el mercado del
+ cibercrimen se estima que para 2021, la afectación económica será de seis trillones de dólares, cas
+i cinco veces el PIB de nuestro país”: MAM  La Ciberseguridad es un tema que tiene que ver con la se
+guridad nacional en su vertiente de amenazas internas con afectación a la seguridad interior de Méxi
+coEn México, durante el 2019 se registraron 9.54 ciberataques por segundo, es decir, 572 ataques por
+ minuto, más de 35 millones cada día. En materia de ransomware o secuestro de datos, el país se ubic
+a en segundo lugar sólo después de China, ello evidencia la necesidad de que se legisle en la materi
+a, afirmó el coordinador del Grupo Parlamentario del PRD (GPPRD), Miguel Ángel Mancera Espinosa.“De 
+acuerdo con datos del estudio de Cyberedge, México es el país número uno en ciberataques, ello en bu
+ena medida porque carecemos de un marco jurídico robusto para perseguir este crimen y sobre todo de 
+una Estrategia Nacional de Ciberseguridad. Asimismo, en Latinoamérica, nuestro país es el más vulner
+able a ciberataques, ello a pesar de no ser la primera potencia económica”, indicó.Miguel Ángel Manc
+era destacó que se trata de un “tema que tiene que ver con la seguridad nacional en su vertiente de 
+amenazas internas con afectación a la seguridad interior de México”. Precisó que en el marco de la O
+peración Nacional Ciberguardián, se remitieron 50 denuncias a las Fiscalías Especializadas en Delit
+os Sexuales y de trata de personas en 18 entidades federativas.Recordó que el GPPRD presentó una ini
+ciativa por la que se expide la Ley General de Ciberseguridad, a través de la cual se busca proteger
+ a las instituciones del Estado y los usuarios frente a ataques cibernéticos. El documento contempla
+ crear la Comisión Permanente de Ciberseguridad y el Centro Nacional de Ciberseguridad.Como parte de
+ la glosa del Segundo Informe de Gobierno del presidente de la República en materia de Política Inte
+rior, el líder de la bancada del PRD en el Senado también se refirió a las de 61 mil 637 personas de
+sapariciones forzadas que reportó la Comisión Nacional de Búsqueda de Personas, desde 2018 hasta ago
+sto de 2020.“Por eso queremos reiterar la necesidad de que el gobierno acompañe las iniciativas que 
+se han presentado, precisamente, para realizar una efectiva búsqueda de personas en todas las fiscal
+ías del país; nosotros hemos planteado ya la necesidad de contar con el Sistema Decadactilar que ha 
+permitido y tiene hoy resultados muy importantes”, concluyó.
+
+4AC5DDE2
+
+PrensarioTILA: #Noticias .@S
+ophosLatAm: 6 consejos básicos para fortalecer la estrategia anti #ransomwareEn 2019 el 51% de las o
+rganizaciones fueron víctimas de ransomwareUna de ellas fue la firma estadounidense @Garmin @Sophos
+
+
+4AC5DDE2
+
+Ransomware: qué es, cómo se propaga y cómo eliminar este malware
+
+4AC5DDE2
+
+Claro es malo
+ pero debe existir para que  las grandes corporaciones hagan sus millones y la población media seamo
+s unos consumidores obsecionados por tener siempre el mejor. Además eso fomenta la innovación entre 
+empresas
+
+4AC5DDE2
+
+Conserva tus dispositivos seguros evitando medios digitales sospechosos. Navega 
+y conéctate con seguridad en http://gtc.com.gt, GTC App y Banca Electrónica. Si sospechas que has si
+do víctima de ransomware comunícate al PBX 1718.#TeQueremosBien
+
+4AC5DDE2
+
+comhoy: Sophos organiza u
+n seminario para conocer las mejores prácticas para detener el ransomware
+
+4AC5DDE2
+
+El Centro Nacio
+nal de Ciberseguridad de Reino Unido alerta de una oleada de ataques de ransomware contra universida
+des
+
+4AC5DDE2
+
+A actualizar las medidas de seguridad en hospitales .. esa es la prioridad según los 
+expertos en ransomware
+
+4AC5DDE2
+
+sorozco1420: Muere una paciente del hospital Universitario de Düss
+eldorf tras sufrir el propio hospital un ataque de Ransomware. https://ift.tt/2RCOawY
+
+4AC5DDE2
+
+Los
+ ataques de #ransomware encriptan tus datos liberándolos mediante el pago del secuestro. Auditamos t
+us sistemas para conocer las vulnerabilidades del mismo. Realizamos un estudio para implantar políti
+cas de seguridad informática. No corras riesgos http://ow.ly/Ug9F30fD61O
+
+4AC5DDE2
+
+Un ataque de ran
+somware en un hospital alemán provoca la muerte del paciente. Una persona en una condición potencial
+mente mortal falleció después de ser obligada a ir a un hospital más distante debido a un ataque de 
+ransomware. https://cutt.ly/NfFLwdt #cybersec #infosec #pentest
+
+4AC5DDE2
+
+Tu empresa está preparada
+ para defenderse de ataques cibernéticos de #ransomware Realizamos Auditoria de Seguridad Informátic
+a. Analizamos detectamos  y solucionamos las vulnerabilidades de tus sistemas #Ciberseguridad http:/
+/ow.ly/1JM730bet12
+
+4AC5DDE2
+
+(1/2) Los ciberataques no conocen de fronteras, ni de infraestructura.
+ El día 10 de septiembre del presente año, el hospital Universidad de Duesseldorf en Alemania, sufri
+ó un ataque de Ransomware.Más información:https://tinyurl.com/y4n5cdtz
+
+4AC5DDE2
+
+El intento de esta
+fa de hoy... ¿A que parece un correo genuíno de @HolaBankia @Bankia? Sospecha siempre que veas direc
+ciones de correo rarunas y archivos adjuntos con extensión gz, rar, html, exe... etc. #Ransomware al
+ ataque!
+
+4AC5DDE2
+
+El mayor proveedor de energía de Pakistán, K-Electric, se ha convertido en la úl
+tima víctima de un ataque de ransomware NetWalker.Los piratas informáticos solicitan hasta $7.7 mill
+ones pagados en Bitcoin.Dos importantes ataques de ransomware NetWalker han surgido la semana pasada
+.Después de que la agencia oficial de inmigración de Argentina sufriera un ataque que exigía $4 mill
+ones en Bitcoin, un informe reciente reveló que el mayor productor de energía de Pakistán estaba com
+prometido.Los perpetradores exigen hasta $7.7 millones en BTC.El sitio web de ciberseguridad Bleepin
+g Computer informó anteriormente que el único proveedor de electricidad de Karachi, Pakistán, a sabe
+r, K-Electric, ha sufrido un ataque de ransomware.K-Electric suministra energía a más de 2,5 millone
+s de ciudadanos, pero el ataque no ha afectado esos servicios.En cambio, los perpetradores se han di
+rigido a la plataforma de facturación en línea y los usuarios no pudieron operar el sitio web.Bleepi
+ng Computer notó que habían visto una página de pago proporcionada por los atacantes a K-Electric.Se
+gún se informa, empleó el navegador Tor anónimo y dijo que la demanda inicial tiene un valor de $3.8
+50.000 o 382.8179 bitcoins.Sin embargo, si el pago no se transfiere antes del 15 de septiembre, se d
+uplicará a $7.7 millones (o 765.6358 BTC).Más abajo, los perpetradores han escrito que habían robado
+ archivos no cifrados de KE antes de ejecutar el ataque, sin revelar la naturaleza de los archivos.D
+escubierto en agosto de 2019, el ataque de ransomware NetWalker se denominó inicialmente Mailto, seg
+ún la extensión adjunta a los archivos cifrados.Compromete la red de la víctima y cifra todos los di
+spositivos de Windows conectados a ella.Al obtener acceso a los servidores, los perpetradores dejan 
+una nota exigiendo un rescate.En los últimos meses, los atacantes han solicitado que los fondos se t
+ransfieran principalmente a través de bitcoins.Según la antigua empresa de ciberseguridad de John Mc
+Afee que lleva su nombre, los ataques de ransomware NetWalker han generado más de 25 millones de dól
+ares desde marzo de este año.José HernándezNoticiero BitcoinTe invitamos a seguirnos de cerca en nue
+stra comunidad de Telegram para conocer de primera mano el contenido educativo e informativo que ten
+emos para ti.Puede seguirnos también en Twitter, en donde compartiremos noticias de última hora, con
+cursos y mucho más.
+
+4AC5DDE2
+
+ Ni siquiera los fabricantes podían imaginar lo que estaba por venir 
+ni podían anticipar la velocidad a la que iba a suceder todo.Según datos del Instituto Nacional de E
+stadística, solo el 27% de las empresas había usado el teletrabajo antes de la llegada del COVID, 7%
+ de la población trabajaba en remoto de forma esporádica y un 4% lo hacía de forma continua. Sin emb
+argo, todo cambió de forma radical con el inicio de la pandemia…el confinamiento y el trabajo 100% r
+emoto llegaron de golpe, como única fórmula para dar continuidad a los negocios.Esta nueva realidad 
+estaba marcada por muchos hechos: Por un lado, la mayoría de las empresas no estaban preparadas. En 
+segundo lugar, los ciberdelincuentes supieron sacar provecho. Desde el phishing al ransomware, el ab
+anico de ataques era cada vez más numeroso. Las brechas de vulnerabilidad de las empresas evoluciona
+n rápidamente y requieren soluciones probadas de seguridad para aplicaciones en la nube.Así, en Soni
+cWall, hemos introducido la estrategia de la ciberseguridad sin límites (sin perímetro), que ofrece 
+a los clientes poder conocer lo sucede y obtener una visibilidad y control unificados, al tiempo que
+ ofrece costes disruptivos para ayudar a conciliar la expansión de las TI con recursos limitados. Ne
+cesidades que no han hecho más que aumentar desde el inicio de la pandemia.En los últimos meses, la 
+compañía ha lanzado una serie de nuevos productos capaces de adaptarse a las nuevas y cambiantes dem
+andas. Un ejemplo sería el nuevo sistema operativos SonicOS Gen 7, creado desde cero como sistema op
+erativo totalmente nuevo (basado en la arquitectura X86 de Linux), que ofrecen una gestión rápida y 
+sencilla, al tiempo que ofrecen mayor seguridad y una gran escalabilidad.También los nuevos firewall
+s de próxima generación TZ570 y TZ670 Gen 7, primeros firewalls en formato escritorio que ofrecen in
+terfaces de varios gigabits (5/10G) con velocidades de prevención de hasta 2,5 Gbps. Con una mayor c
+apacidad de VPN, las empresas pueden atender mejor a los empleados remotos que teletrabajan.La neces
+idad de mayor control desde cualquier lugar ha suscitado el nuevo NSM 2.0 SaaS, capaz de controlar y
+ gestionar decenas de miles de dispositivos de seguridad de red, incluidos firewalls, switches y pun
+tos de acceso wifi seguros.Se precisa una nueva ciberseguridad en las empresas para entornos distrib
+uidos e híbridos, porque el mundo y el entorno laboral ha cambiado para siempre.
+
+4AC5DDE2
+
+"Este añ
+o se han desbordado los ciberataques ransomware en contra las pymes": @IvonnneP , resalta que todas 
+las empresas, sin importar el tamaño, deben fortalecer su seguridad. #CiberseguridadAlRescatehttp://
+bit.ly/3imJ83j
+
+4AC5DDE2
+
+TrendTIC analizó el caso de Banco Estado y su problema de Ciberseguridad.#
+seguridadInformatica #ciberseguridad #BancoEstado #TendTIC #hacking #hacker #bancos #seguridad #info
+rmatica #Ransomware #live4AC5DDE2#CIO:¿Cuáles son las señales de una empresa que está a punto de ser
+ atacada con ransomware?
+
+4AC5DDE2
+
+ Guardicore alertó sobre el crecimiento de los ataques de estado
+-nación hacia la infraestructura crítica de las entidades de gobierno y un aumento importante de ran
+somware hacia este mismo sector. Esto ha sido  propiciado por actores de estado-nación y atacantes c
+riminales que se han vuelto extremadamente hábiles en el uso de técnicas y de actores sustitutos en 
+su guerra cibernética para evitar una atribución clara a su estado de origen. Dave Klein, Director S
+enior de Ciberseguridad de Guardicore, precisó que en el pasado muchos de los ataques de estado-naci
+ón fueron por inteligencia, influencia, desinformación, propaganda, espionaje industrial y político,
+ y para acosar a los enemigos políticos de un estado-nación. El gran cambio en este 2020 es un impor
+tante aumento de los ataques hacia la infraestructura crítica de los gobiernos. La pandemia por COVI
+D-19 no ha detenido las amenazas de estos grupos delincuenciales.  De abril a julio de este año los 
+suministros de agua de Israel fueron amenazados tres veces por un actor  de estado-nación que se sos
+pechó  fue Irán pirateando los controles industriales de procesamiento de agua israelíes, en un inte
+nto de alterar la inyección de productos químicos de tratamiento a niveles inseguros. Otro caso no m
+enos relevante,  los iraníes informaron de un ciberataque supuestamente iniciado por Israel que inte
+rrumpió el tráfico portuario en el Puerto de Shahid Rajaee. Dave Klein informó que también se ha pre
+sentado un aumento generalizado de los ataques de ransomware en entidades gubernamentales, atención 
+médica y  hospitales. De acuerdo con un estudio de Deloitte Center for Government Insight,  en marzo
+ de este año se descubrió que más de 163 ataques de ransomware estaban dirigidos a gobiernos estatal
+es y locales, con al menos $1.8 millones de dólares pagados a los ciberdelincuentes detrás de los at
+aques y decenas de millones de dólares en costos de recuperación. “Parece que los atacantes de ranso
+mware se dirigen específicamente a las entidades del gobierno locales porque son más fáciles de pene
+trar, a menudo pagan el rescate y tienen menos posibilidades de atraer una gran actividad policial c
+omo respuesta”, opinó el directivo, y agregó: “a medida que el mundo se ha vuelto más experto en des
+cubrir jugadores de estado-nación,  estos han adquirido más experiencia en esconderse, a través de d
+iversas técnicas y actuando mediante capas/actores proxy, evitando trampas e incluso manipulando dat
+os, kits de herramientas y técnicas para despistar a los analistas forenses imitando a otros estados
+-nación o actores criminales”, precisó. Según el estudio de Verizon Data Breach de 2019, los ataques
+ estado-nación aumentaron de un 12% a un 23% del 2017 al 2018. Además del aumento en los ataques a h
+acia la infraestructura crítica  y de ransomware,  Dave Klein enfatizó que el ataque estado – nación
+ que quedará grabado en 2020 será el informado por  EE. UU., Canadá y Reino Unido sobre los intentos
+ de actores estatales rusos y chinos de robar, manipular y  obstaculizar el desarrollo de la vacuna 
+COVID-19. Para los próximos meses, el directivo mostró su preocupación hacia los ataques continuos h
+acia la banca y a la infraestructura crítica en el sector de servicios públicos en México;  alertó e
+star atentos a los actores criminales estatales rusos y norcoreanos. Por otro lado, previó más ataqu
+es de ransomware, donde se presentarán situaciones similares al caso Petróleos Mexicanos. Con respec
+to a las predicciones para los Estados Unidos, Dave Klein informó que si bien surgirán todo tipo de 
+amenazas, habrá que poner atención en las elecciones nacionales de noviembre, teniendo como antecede
+nte la influencia de Rusia en las elecciones de 2016; las amenazas de los estados-nación de Rusia, C
+hina e Irán seguirán en ascenso. Medidas de seguridad contra los ataques estado-naciónCon la finalid
+ad de prevenir cualquier ataque proveniente de los actores estado-nación, Guardicore sugirió las sig
+uientes seis medidas de seguridad a tomar en cuenta:1)      Contar con un plan de respuesta a incide
+ntes, escrito y ensayado: Éste debe incluir personal no técnico como líderes empresariales, la junta
+ ejecutiva e incluso usuarios finales.2)      Utilizar privilegios mínimos. Esto evita que tanto el 
+ransomware como los actores estatales se apropien fácilmente de su (s) dispositivo (s) y aumenten lo
+s privilegios para meterse en los almacenes de identidades y moverse lateralmente.3)      Usar contr
+aseñas seguras y autenticación de dos factores. La mayoría de las infracciones más importantes comie
+nzan con una disciplina deficiente de contraseñas y una falta de autenticación de dos factores.4)   
+   Mejor certificación, aplicación de parches y pruebas de vulnerabilidad: esto es esencial. Muchos 
+ataques ocurren a través de vulnerabilidades de software que han sido parchadas durante mucho tiempo
+, pero donde las organizaciones no han podido actualizar su software.5)      Realizar un análisis y 
+una evaluación precisos de la infraestructura crítica. Existen soluciones que logran una mejor visib
+ilidad en todas las plataformas de manera agnóstica, en lugar de tener que ejecutar múltiples sistem
+as.6)      Tener una segmentación definida por software moderno es la forma más fácil de reducir el 
+radio de explosión de un ataque. sin realizar cambios en la dirección IP o VLAN, ya que permite aisl
+ar aplicaciones críticas; incluso puede actuar como un parche virtual para los sistemas operativos h
+eredados al final de su vida útil que no se pueden proteger de manera efectiva de otra manera, pero 
+que aún son necesarios. Por último, Dave Klein expresó: “tanto el sector privado como los gobiernos 
+nacionales deben estar más atentos y mejor preparados para defenderse. Más allá de desarrollar mejor
+es defensas integrales, también deben pensar en estos ataques desde una perspectiva diplomática. Si 
+los países se tomaran los ataques cibernéticos tan en serio como un acto de terrorismo, entonces qui
+zás el temor a represalias, ya sea por medios legales, militares o financieros, sería suficiente par
+a desalentar los ataques desde un principio”.
+
+4AC5DDE2
+
+Según los expertos en seguridad, para 2021 
+el #ransomware moverá una industria de 20 000 millones de dólares, y se producirá un ataque cada 11 
+segundos. Mitigue el riesgo de los #AtaquesdeRansomware con tácticas prácticas para los departamento
+s de TI.
+
+4AC5DDE2
+
+Campañas de phishing sofisticadas, pagos por ataques de ransomware de un millón 
+de dólares, venta y comercio de malware en línea y en la deep web, podría acabarme el espacio permit
+ido para el post con cientos de ejemplos, lo importante es que nunca antes…
+
+4AC5DDE2
+
+Noticias rela
+cionadas          Historia del ransomware: desde Cryptolocker hasta WannaCry          Un virus infor
+mático ataca hospitales españoles en plena crisis del coronavirus                    Así es el virus
+ informático que ha desconectado al Hospital de TorrejónAutoridades alemanas han confirmado el falle
+cimiento de una paciente como resultado de un ataque de ransomware, y la fiscalía ya está investigan
+do el evento como un posible homicidio negligente.Los hechos ocurrieron el pasado 10 de septiembre, 
+cuando los sistemas informáticos del hospital universitario de la Universidad de Düsseldorf quedaron
+ inutilizados después de que un ordenador fuese infectado por un fallo en uno de los programas que t
+enía instalados.El ataque se parece mucho al que sufrió el Hospital de Torrejón a principios de año,
+ y de los que la Policía Nacional advirtió el pasado marzo, en medio de la primera ola de la COVID-1
+9 en España.Ataque de ransomware contra hospitalesLos ataques de ransomware se basan en la instalaci
+ón de un virus informático, que en cuanto entra en el sistema es capaz de cifrar los datos almacenad
+os o incluso de bloquear completamente el funcionamiento del sistema.                               
+     Ventana que muestra ransomware en macOSMalwarebytesOmicronoA continuación, suelen mostrar un me
+nsaje en el que se explica la situación y se solicita el pago de una cierta cantidad bajo la promesa
+ de obtener la clave necesaria para descifrar los archivos o recuperar el ordenador. Aunque los hay 
+de varios tipos, los programas de ransomware suelen tener como objetivo a empresas capaces de pagar 
+grandes sumas de dinero, pero también afectan a usuarios particulares.El problema de que uno de esto
+s virus entre en el ordenador de un hospital es que se puede expandir por la red, dejando todos los 
+sistemas inutilizados de manera gradual. Eso es lo que ocurrió en el hospital de Düsseldorf: el rans
+omware afectó a 30 servidores, lo que obligó a cerrar completamente el servicio de urgencias, según 
+informa Associated Press.Una paciente muerta por el ataqueEntre los pacientes que tuvieron que ser d
+erivados a otros hospitales se encontraba una mujer en condiciones graves, que tuvo que ser enviada 
+de urgencia a un hospital en Wuppertal, a 32 kilómetros de distancia.Eso supuso un retraso de una ho
+ra hasta que los médicos pudieron atenderla hasta que finalmente falleció; ahora la cuestión es si s
+e podría haber salvado si hubiese sido atendida antes, y eso es lo que los fiscales sospechan y está
+n ya investigando.En cuanto al ataque de ransomware, la policía consiguió resolver la situación cont
+actando directamente con los atacantes, y convenciéndoles de que entregasen la clave.El negocio del 
+ransomware consiste en cobrar por la clave de cifradoUno de los servidores afectados tenía una nota 
+de rescate, en la que se explicaba cómo contactar con los atacantes para negociar el pago del rescat
+e; sin embargo, la nota no iba dirigida al hospital, sino a la Universidad de Düsseldorf, indicando 
+que los atacantes se habían equivocado de objetivo.En efecto, cuando la policía contactó con los ata
+cantes, les hizo saber que en realidad habían atacado al hospital, y que estaban poniendo la vida de
+ los pacientes en peligro; en respuesta, los atacantes entregaron la clave digital con la que desblo
+quear todos los ordenadores.Con motivo de la pandemia, grupos de hackers de todo el mundo publicaron
+ la promesa de que los servicios sanitarios ya no serían sus objetivos; sin embargo, es una promesa 
+de la que las autoridades no se fían, especialmente con casos como este. 
+
+4AC5DDE2
+
+Cuando lo #digi
+tal por medio de un #ransomware "toca" lo físico (una #vida).Es tiempo de que la #ciberseguridad  es
+té sentada en la mesa con los "grandes. #ciberataques#vulnerabilidad#seguridadinformática#ciberdelin
+cu…https://lnkd.in/ehRaNpY
+
+4AC5DDE2
+
+NCSC advierte sobre ataques de ransomware contra universidades
+ del Reino Unido: reacción de los expertos
+
+4AC5DDE2
+
+De acuerdo con un estudio independiente de seg
+uridad para endpoints, patrocinado por Sophos, más de la mitad de las empresas sufrieron dos ciberat
+aques durante 2017. El ransomware, el malware avanzado, el malware a través de e-mail y el malware a
+ través de la web coparon casi 3/4 de las ofensivas más habituales a las que se enfrentaron las orga
+nizaciones durante ese periodo.Protege tu PYME ahoraLos enfoques tradicionales no son capaces de seg
+uir el ritmo de las amenazas desconocidas. Sophos es referente en la protección de organizaciones fr
+ente al cibercrimen. Todos los días, los laboratorios de esta firma reciben y procesan 400.000 muest
+ras de malware desconocido.Intercept X evita que el ransomware se instale en tus equiposSophos Inter
+cept X es una solución predictiva, creada por el equipo científico de los laboratorios de Sophos con
+ tecnología de la Agencia de Proyectos de Investigación Avanzados de Defensa de EE.UU. (DARPA). Se t
+rata de una herramienta antiexploits que permite a las empresas frenar el ransomware y repeler el ma
+lware propagado por el cibercrimen. Así, gracias al Deep Learning, esta herramienta es capaz de dife
+renciar el benignware del malware, incluso cuando es desconocido:Sophos Intercept X clasifica los ar
+chivos como maliciosos, aplicaciones no deseadas o benignas. Además, detecta el malware en aproximad
+amente 20 milisegundos y lo bloquea antes de que se ejecute.No depende de firmas.Se trata de una sol
+ución que ocupa muy poco espacio, apenas 20 MB, y sólo requiere actualizaciones ocasionales.Protege 
+tus equipos incluso cuando el host está desconectado.No necesita de entrenamiento adicional para fun
+cionar.El Deep Learning permite reducir los falsos positivos y actuar de forma más precisa frente a 
+los exploits de Día Cero. Así, en comparación con soluciones Machine Learning, cuenta con una mayor 
+escalabilidad y menor consumo de recursos.Detén el cifrado malicioso y revierte los cambiosDe acuerd
+o con el Instituto Ponemon, las empresas víctimas de ransomware tuvieron que desembolsar una media d
+e 2.500$ por ataque. En el caso de algunas firmas, las pérdidas fueron multimillonarias: más de 400 
+millones en FedEx, más de 300 en Maersk y Merck o más de 100 en Reckitt Benckiser, por citar algunas
+ de las damnificadas por el ataque de Petya. Solicita asesoramiento en ciberseguridadEs fundamental 
+contar con una solución específicamente antiransomware para frenar este tipo de ataques: Intercept X
+ de Sophos analiza y aprende constantemente las técnicas más habituales del cibercrimen para propaga
+r malware, robar credenciales y esquivar la detección, para incorporarlas a su tecnología antiexploi
+t.La función CryptoGuard detiene de inmediato el cifrado malicioso y revierte los archivos al último
+ estado seguro conocido. Combate los ataques a archivos, disco y sector de arranque.Garantiza la pro
+ductividad y seguridad de los usuarios.Intercept X de Sophos realiza un análisis de la cadena de ata
+que, que permite identificar el punto de origen de la ofensiva, capturar los archivos afectados, así
+ como contar con una reproducción visual de nivel forense. ¿Cómo logró Sophos combatir Wannacry?La h
+ora de la verdad. Wannacry lanzó el ransomware a los titulares en 2017. Las empresas usuarias de Sop
+hos contaron con diferentes capas de defensa para hacer frente a este ciberataque. Sophos Endpoint d
+etuvo a Wannacry una vez que la firma estaba disponible. Sin embargo, esta solución de defensa tradi
+cional exigía que hubiese una «primera víctima». Las organizaciones que contaban además con Intercep
+t X y Server estaban protegidas frente a Wannacry gracias a la tecnología Cryptoguard. Esta medida d
+e defensa requería que el ransomware se ejecutase en los equipos.El aprendizaje automático de Sophos
+ logró identificar a Wannacry como ransomware y lo detuvo antes de que se ejecutara. Además, la tecn
+ología antiexploits de Internet X logró bloquear el DoublePulsar, el exploit utilizado para instalar
+ el malware, antes incluso de que llegara a los equipos. Comienza a protegerte del ransomware con In
+tercept X de SophosDotarse de una protección superior frente a los exploits es muy fácil. Intercept 
+X de Sophos, que forma parte de las opciones de seguridad gestionada de Sarenet, funciona junto con 
+tu antivirus. Esto añade una nueva capa de seguridad, principalmente frente a malware nuevo o descon
+ocido, en muchas ocasiones indetectable para soluciones tradicionales.Sophos Intercept X es compatib
+le con Sophos Central Endpoint Advanced. Asimismo, es posible sincronizarlo con XG Firewall, disposi
+tivo recomendado por NSS Labs. Esta última solución aísla los ordenadores infectados de la empresa a
+utomáticamente, reduce el tiempo de respuesta ante incidencias en un 99,9%, e identifica todo el trá
+fico de la redSolicita asesoramiento para proteger tu negocioComparte esto:FacebookTwitterLinkedInCo
+rreo electrónicoImprimirEntradas relacionadas¿Cómo sería tu solución ideal de Fibra Óptica para empr
+esas?¿Y si pudieras diseñar una solución de conexión a Internet ad hoc para tu negocio? ¿Qué…Así es 
+Fibra Segura, la solución FTTH para empresas para las que Internet es vital¿Por qué conformarte con 
+un servicio convencional de Fibra Óptica cuando tu negocio puede conectarse…¿Cómo sería tu solución 
+ideal de Fibra Óptica para empresas?¿Y si pudieras diseñar una solución de conexión a Internet ad ho
+c para tu negocio? ¿Qué…
+
+4AC5DDE2
+
+Con el ransomware convertido de nuevo en una de las principales 
+amenazas desde hace meses, y con empresas y organismos oficiales importantes cayendo víctimas prácti
+camente todas las semanas, no es de extrañar que muchos nos preguntemos cuántas de las infraestructu
+ras consideradas críticas se han visto afectadas. Ahora podemos echar un vistazo a los incidentes de
+ ransomware que han tenido como objetivo a alguna infraestructura crítica gracias al trabajo de reco
+pilación realizado desde la iniciativa CARE.Número de ataques y variantes utilizadasLo primero en lo
+ que solemos fijarnos es en si el número de ataques relacionados con el ransomware que tienen como o
+bjetivo a infraestructuras críticas ha aumentado con respecto a otros años. Si echamos un vistazo a 
+la siguiente gráfica vemos como, efectivamente, al menos el número de ataques hechos públicos ha cre
+cido en lo que llevamos de 2020, y ya ha superado el total de 2019.En la gráfica vemos como el númer
+o de ataques va aumentando de forma gradual todos los años menos en 2018. Es muy probable que este d
+escenso esté provocado por el auge que tuvo durante ese año la minería de criptomonedas no autorizad
+a, lo que hizo a muchos delincuentes cambiar su modelo de negocio para, ya en 2019, volver a utiliza
+r el ransomware como fuente de ingresos.En lo que respecta a las variantes de ransomware utilizadas 
+por los atacantes, en la siguiente gráfica podemos ver un ranking donde comprobamos como las familia
+s más conocidas también están representadas cuando se trata de incidentes sufridos por infraestructu
+ras críticas.Si lo comparamos con los datos recopilados en el informe de amenazas de ESET, correspon
+diente al segundo trimestre de 2020, comprobaremos como existen algunas coincidencias pero también a
+lgunas diferencias. Esto es debido a que algunas de las variantes de ransomware mencionadas en la ta
+bla anterior ya no están activas desde hace tiempo, mientras que otras están especializadas en ataca
+r grandes empresas, organizaciones gubernamentales y alguna que otra infraestructura crítica. Por es
+e motivo no suelen aparecer en rankings cuando se incluyen otras familias con mucha más capacidad de
+ propagación y que no realizan ataques tan dirigidos.Es importante destacar en el ranking de CARE el
+ primer puesto obtenido por MAZE, el mayor exponente de lo que representa el ransomware actualmente,
+ donde los delincuentes utilizan esta amenaza en la parte final de su ataque. Previamente se han int
+roducido en la red corporativa y han robado información confidencial, cifrando los datos en última i
+nstancia y solicitando el pago de un rescate para recuperarlos, amenazando con hacerlos públicos si 
+no se cumplen sus exigencias.Esta forma de actuar, que apareció por primera vez a finales de 2019, h
+a sido imitada por otras familias de ransomware durante lo que llevamos de 2020 y no parece que sea 
+una tendencia que vaya a decaer a corto plazo, por lo que las empresas deben tener en cuenta estas t
+ácticas si no quieren ver dañada su reputación y enfrentarse a cuantiosas multas por no cumplir con 
+los reglamentos de protección de datos de cada región.Sectores afectados y cantidades solicitadasDen
+tro de la categoría de infraestructuras críticas encontramos muchos tipos de industria y organizacio
+nes públicas y privadas. En el informe que estamos revisando podemos observar como los tres sectores
+ más afectados por el ransomware son, en este orden, las entidades gubernamentales, el sector educat
+ivo y el sector sanitario. Contrariamente a lo que mucha gente sigue pensando cuando se mencionan in
+fraestructuras críticas, sectores como el de la energía nuclear y la defensa son los que menos incid
+entes de este tipo han sufrido, al menos que se tenga constancia.Especialmente destacable durante es
+te año son los ataques que tienen como objetivo el sector sanitario. Con los hospitales como centros
+ clave para luchar contra la pandemia provocada por la COVID-19, cualquier ataque que los deje inope
+rativos o interrumpa su correcto funcionamiento puede tener graves consecuencias, llegando incluso a
+ afectar a la salud de los pacientes que dependen de ellos.De hecho, ya hemos visto varios casos de 
+ataques de ransomware a centros sanitarios desde el inicio de la pandemia, aunque, por suerte, no pa
+rece que hasta el momento se hayan puesto en riesgo la vida de las personas. Aun así, hay operadores
+ de ransomware que anunciaron que no iban a tener a los centros sanitarios como objetivos, algo difí
+cil de cumplir en algunos casos en los que se vende este malware como servicio y existen muchos deli
+ncuentes sin escrúpulos que solo quieren obtener un beneficio económico rápido.Precisamente del bene
+ficio económico trata la siguiente tabla, donde vemos como en la mayoría de los casos el rescate se 
+situaba entre 1000 y 50.000 dólares. No obstante, es especialmente preocupante que el importe de res
+cate medio solicitado haya aumentado con respecto a hace unos años, cuando se solicitaban cientos o 
+unos pocos miles de dólares por restaurar la información cifrada, independientemente del tamaño de l
+a empresa afectada.En la actualidad, vemos como han aumentado muy considerablemente los rescates que
+ solicitan entre 50.000 y 5 millones de dólares (o incluso más), ya que los delincuentes saben muy b
+ien a quién están atacando y su capacidad financiera para solicitar los rescates acorde a esta infor
+mación. También vemos como, en ocasiones, están dispuestos a rebajar esta cantidad e incluso ha apar
+ecido la figura del “negociador”, empresas que se dedican a hablar con los delincuentes en represent
+ación de las víctimas para conseguir la mayor rebaja posible.Por último, dentro de la información re
+copilada en estas tablas podemos ver el tiempo que los delincuentes invirtieron en realizar estos at
+aques. La duración inferior a una semana sigue siendo la más predominante, pero preocupa el elevado 
+número de ataques que consiguieron permanecer sin ser detectados durante un mes o más en la red de l
+a infraestructura crítica comprometida, demostrando que hace falta invertir más recursos en monitori
+zar actividades sospechosas aunque estas se realicen con herramientas legítimas.ConclusiónLa informa
+ción recopilada por los autores de este estudio sirve para entender la actualidad de las amenazas re
+lacionadas con el ransomware y sus tácticas, técnicas y procedimientos. Si bien estos datos solo rep
+resentan una porción del total de empresas amenazas (ya que se centra únicamente en aquellas conside
+radas como infraestructuras críticas), pueden servir de aviso para muchas otras empresas grandes y p
+equeñas para que puedan adoptar las medidas adecuadas.Josep Albors
+
+4AC5DDE2
+
+No hay solución de seg
+uridad que valga la pena si las personas involucradas no tienen una cultura se seguridad adecuada. S
+e repite una y mil veces que el factor más delicado es justamente el factor humano. No importa qué t
+an robustas sean las murallas si internamente se abren las puertas, y el primer paso es fortalecer l
+a cultura de seguridad dentro de cada organización. Según datos recientes de Kaspersky, los ladrones
+ de contraseñas se están convirtiendo en una amenaza creciente para las pequeñas empresas en 2020. L
+legan a su cometido por medio de ataques de phishing, a través de mensajes falsos de Recursos Humano
+s –en los que se comunican supuestos despidos o notificaciones de entrega–; los empleados caen en la
+s trampas y se convierten en blancos atractivos para los cibercriminales.Este es solo uno de cientos
+ de ejemplos que podrían listarse. «El elemento humano es uno de los factores más críticos de un pro
+grama de seguridad de información. Sin embargo, a menudo es el más descuidado«, nos decía Patricia G
+aviria, directora de educación en Etek International, mucho antes de que se asomara la pandemia en e
+l panorama. En 2020, con el mundo volcado a los entornos digitales, las amenazas de seguridad crecen
+ aún más. La tecnología avanza, y si todos se ‘reinventan’, los cibercriminales no se quedan atrás. 
+Solo en Colombia, entre enero y febrero de 2020, se pagaron más de 2.500 millones de pesos por ataqu
+es Ransomware,  secuestro de información.El balance para fortalecer la ciberseguridad de cualquier e
+mpresa está entre cultura y aliados de tecnología. Por eso, en este hangout hablamos especialmente d
+e la primera parte, sin dejar de lado algunas recomendaciones de tecnologías que se suman para blind
+ar y proteger. Para esta cita contamos con la participación de:Milton Quiroga, gerente general de la
+ firma Cyte; Liliana Toro, ingeniera de sistemas, especialista en Administración de Riesgos con múlt
+iples certificaciones; Diego Samuel Espitia, embajador e investigador en ciberseguridad de ElevenPat
+hs, la unidad de ciberseguridad de Telefónica; Ivonne Pedraza, ingeniera electrónica especialista en
+ Gerencia y Tecnologías de la Información, eesarrolladora de negocios en Movistar, voluntaria en WOM
+CY Latam Women in Cybersecurity y ganadora del premio ‘Top Women in Cybersecurity Latin America 2020
+; David Pereira, CEO de SecPro Security Professionals; y Omar Franco: gerente de Ciberseguridad de A
+xity.El usuario es la primera ciberdefensa#CiberseguridadAlRescate ✅Que los usuarios sean la primera
+ barrera de seguridad."Si logramos cambiar el estigma y hacerlos sentir menos culpables y más parte 
+de la solución haremos un cambio.Como venimos no está funcionando bien": @davidpereiracib ➡️https://
+t.co/NtHsyxW6Ww pic.twitter.com/v8ylDDy9Nc— Impacto TIC (@ImpactoTIC) September 16, 2020Los cambios,
+ la transformación de la cultura de seguridad, ¿deben darse desde la alta gerencia? 🤔 Interesante de
+bate en #CiberseguridadAlRescate— Impacto TIC (@ImpactoTIC) September 16, 2020"Las contraseñas son i
+nhumadas e imprácticas": @davidpereiracib Seguimos #EnVivo hablando de #CiberseguridadAlRescate, ten
+dremos bloque de preguntas 😉🎥➡️https://t.co/NtHsyxW6Ww pic.twitter.com/q09UyAqJxV— Impacto TIC (@Imp
+actoTIC) September 16, 2020#CiberseguridadAlRescate 😷🛡"Es tan sencillo como usar el tapabocas. Si no
+ te encuentras con nadie, no hay riesgo. Si te encuentras con otros…entones úsalo, pero úsalo bien":
+ @dsespitia ➡️https://t.co/NtHsyxW6Ww pic.twitter.com/yNjf2CEmgB— Impacto TIC (@ImpactoTIC) Septembe
+r 17, 2020✅"Hay 2 tipos de empresas, las que han sido hackeadas y las que aún no lo saben. La seguri
+dad no es un proyecto, es un proceso constante": Liliana Toro #CiberseguridadAlRescate ➡️https://t.c
+o/NtHsyxW6Ww pic.twitter.com/Rp0vY5FzSv— Impacto TIC (@ImpactoTIC) September 17, 2020✅"Hay avances e
+n #criptografía, hay oportunidades que las empresas no han sabido aprovechar": Milton Quiroga#Cibers
+eguridadAlRescate: ➡️https://t.co/NtHsyxW6Ww pic.twitter.com/1Z41yaGIoF— Impacto TIC (@ImpactoTIC) S
+eptember 17, 2020¿Qué pasos seguir en los procesos de seguridad?✅Buscar asesoría✅Identificar riesgos
+#CiberseguridadAlRescate con @dsespitia @IvonnneP @LWomcy @davidpereiracib @axity_social 👇https://t.
+co/NtHsyxW6Ww— Impacto TIC (@ImpactoTIC) September 17, 2020
+
+4AC5DDE2
+
+Un plan de respuesta eficaz p
+uede significar la diferencia entre el pánico y la acción decisiva. #ransomware #ciberseguridad #ant
+imalwarehttp://ow.ly/mLEr50Bu7oi
+
+4AC5DDE2
+
+Muere una paciente del hospital Universitario de Düsseld
+orf tras un ataque de Ransomware http://dlvr.it/Rgqrwg
+
+4AC5DDE2
+
+Ransomware: un enemigo invisible q
+ue no descansa https://capsulainformativa.cl/ransomware-un-enemigo-invisible-que-no-descansa/… vía @
+CapsulaInforma
+
+4AC5DDE2
+
+@SeguInfo excelente clase ! Hoy Ransomware en Migraciones entre tantos otr
+os temas! Genio mil gracias !!! @MarianaKiefer
+
+4AC5DDE2
+
+El informe de investigacion de mercado glo
+bal de Protección contra #ransomware proporciona informacion detallada sobre la industria en funcion
+ de los ingresos (USD MN) y el volumen (unidades) para el periodo de pronostico https://bit.ly/2RwS6
+PY
+
+4AC5DDE2
+
+Muere una paciente del hospital Universitario de Düsseldorf tras un ataque de Ransomwa
+re http://dlvr.it/RgqpYn
+
+4AC5DDE2
+
+#MalwareDeLaSemana | Esta semana nuestros expertos nos hablan so
+bre #PROLOCK, un ransomware que se difunde fácilmente a través de correo electrónico y software cues
+tionable.Link: https://bit.ly/3c3wlRe@BlackBerry #Ciberseguridad #Malware #Virus #Ciberdefensa #Rans
+omware
+
+4AC5DDE2
+
+#IJALTICiberseguridad | ¿Cuáles son las señales de una empresa que está a punto de
+ ser atacada con ransomware?
+
+4AC5DDE2
+
+Una persona en una condición crítica falleció después de ser
+ obligada a ir a un hospital más distante debido a un ataque de ransomware.https://buff.ly/2FOWYNv v
+ía @BleepinComputer#Ransomware #Cibercrimen #Ciberataque #infoSecurity
+
+4AC5DDE2
+
+Ransomware en el s
+istema de migraciones Argentinas.#Escuchalo aquihttps://ar.ivoox.com/es/ransomware-sistema-migracion
+es-argentina-audios-mp3_rf_56502185_1.html…
+
+4AC5DDE2
+
+Un ataque de #ransomware paralizó las operaci
+ones de la Clínica de la Universidad de Duesseldorf en #Alemania, provocando la muerte de una mujer 
+al tener que ser trasladada a otra ciudad para ser atendida.https://buff.ly/3mxKOJN#cibercrimen #inf
+osec #ciberseguridad
+
+4AC5DDE2
+
+Consulta nuestra página y encuentra una solución para ti http://bit.
+ly/2XN6ln5#Seguridad #infosec #cybersecurity #IoT #Internet #ransomware #malware #pymes #Privacidad 
+#securityhumor #Malware #fraude #feedly #divsecurity
+
+4AC5DDE2
+
+(2/2) Desde el portal de noticias @B
+leepinComputer, señalaron que los operadores de ransomware DoppelPaymer, no apuntarían a los hospita
+les y que, si uno se cifra por error, proporcionarían una clave gratuita.Mientras que Nefilim y Netw
+alker, exigirá el pago del rescate.
+
+4AC5DDE2
+
+   dattoRecuperación de desastres y backup Datto     
+   ¿Qué podría pasar?Los desastres de todo tipo provocan un tiempo de inactividad que es perjudicial
+ para una empresaUn desastre naturalDatto sabe que  un desastre natural o cualquier otro tipo de des
+astre pueden sucederle a cualquier negocio en cualquier momento y parte del mundo.El tiempo de inact
+ividad que causan es realmente catastrófico, muchos negocios nunca se recuperan y otros no se recupe
+ran del todo bien. Los desastres no se pueden controlar, pero se pueden manejar efectivamente, y la 
+forma de mitigar sus efectos comienza con el conocimiento, los sistemas de recuperación y los backup
+s de sus archivos y sistemas. La planificación de desastresdebe abarcar desastres de todo tipo y tam
+año: incendios, inundaciones, fraude, ransomware, ciberataques, fallas del sistema de energía o TI, 
+errores humanos, terrorismo y otros escenarios impensables.Si bien el tipo de desastre varía, el imp
+acto es típico: datos y tiempo de inactividad operativo que es realmente desastroso.El efecto devast
+ador del tiempo de inactividad causado por el desastre incluye daños irreparables a los datos, a la 
+reputación, a las relaciones con los clientes, a los ingresos y la vitalidad comercial.El mejor ataq
+uees una buena defensa;Debes proteger tu negocio con Datto, al comprender tus vulnerabilidades, prot
+egerse contra los riesgos y prepararse para la peor interrupción comercial posible con un plan para 
+la continuidad del negocio y la recuperación ante desastres que protegerá tus datos, protegerá tu ne
+gocio y mantendrá tu sistemas disponibles y confiables, pase lo que pase.El mejor ataque - Mitigar l
+os riesgos Riesgo de Virus  92% Riesgo de Ransomware  89% Fallo de Equipo Físico  95% Fallo de energ
+ía  98%dattoALTODatto ALTO es la única solución de continuidad diseñada específicamente para pequeña
+s empresas. Utilizando una copia de seguridad basada en imágenes y un modelo de nube híbrida, ALTO o
+frece funcionalidad de nivel empresarial a un precio de pequeña empresa.      información        ini
+cio      dattoSIRISRecuperación ante desastres como servicio (DRaaS) para entornos locales, virtuale
+s y en la nube, dentro de una sola plataforma. SIRIS es la plataforma BCDR líder para empresasProtej
+a cualquier infraestructura física, virtual y en la nube que se ejecute en Windows, Mac o Linux y pu
+eda implementarse como un dispositivo, imagen o sistema virtual.      Información        inicio  dat
+toNAS¿Necesitan los usuarios de Windows, Mac y Linux trabajar juntos? Es fácil con Datto NASCree uni
+dades de red en el panel de control, agregue usuarios y asigne almacenamiento de usuarios en recurso
+s compartidos.Recopile datos del almacenamiento existente con la función NAS Guard de Datto, desde l
+a cual puede replicarse a la nube segura de Datto.Redundancia en la nube, disfrute de la simplicidad
+ de almacenamiento todo en un solo lugar sin el riesgo de un solo punto de falla.Configure el progra
+ma de instantáneas del dispositivo para controlar y proteger datos en la nube segura de Datto.      
+Información        inicio      dattoCLOUD CONTINUITY PARA PCProteja los puntos finales del cliente c
+ontra ransomware, pérdida o robo y eliminación accidental de datos con Datto Cloud Continuity para P
+C.Cloud Continuity protege los datos comerciales en dispositivos con Windows 7 – 10 y agiliza la rec
+uperación de toda la configuración, configuración y aplicaciones del dispositivo con la restauración
+ basada en imágenes.      Información        inicio  Datto Protección SaaSProteja, controle y recupe
+re fácilmente los datos de Office365 y G SuiteUno de cada tres usuarios experimenta pérdida de datos
+ en aplicaciones en la nube como Microsoft Office 365 y Google G Suite.Hay una alternativa con Datto
+ SaaS Protection, los datos de sus clientes se pueden proteger contra la eliminación accidental o ma
+liciosa, los ataques de ransomware y otras pérdidas de datos en la nube.      Información  Office 36
+5Respaldo SaaS confiable, simple y seguro de:    Exchange    Tareas    OneDrive    SharePoint    Tea
+msG SuiteRespaldo SaaS confiable, simple y seguro de:    Gmail    Calendario    ContactosNosotros re
+solvemos problemas reales¿Qué podemos hacer por ti?BCDRRequieres un nuevo plan o actualizar uno exis
+tente de Continuidad del negocio o recuperación en caso de desastres ¡Te ayudamos!      Saber más  S
+eguridadRequieres incrementar la seguridad de tu información y tener alternativas para tu crecimient
+o exponencial de datos ¡Te ayudamos!      Saber más  Ransomware¿Conoces o has tenido casos de ransom
+ware? No te expongas y protege tus equipos y datos para poder recuperar tu información sin pagar cos
+tosas recompensas sin garantía.      Saber más        Otros Servicios     ¿Quiere proteger su negoci
+o hoy?escríbanos y manténgase en contacto      Contactar   
+
+4AC5DDE2
+
+Hoy es la webex Abierta a la 
+comunidad: Todo sobre CiberseguridadPara participar inscribite acá https://bit.ly/3ifeZ5X Actividad 
+Abierta a la Comunidad, sin costo Nos vemos online!#redproydesa #cybersecurity #hacking #malware #so
+phos #ransomware #phishing #Tecnologia
+
+4AC5DDE2
+
+Muere una paciente del hospital Universitario de D
+üsseldorf tras sufrir el propio hospital un ataque de Ransomware. http://dlvr.it/RgqgwZ
+
+4AC5DDE2
+
+D
+ebería vivir en USA y ser policia, tendria una carrera muy productiva4AC5DDE2El informe de investiga
+cion de mercado global de Protección contra ransomware proporciona informacion detallada sobre la in
+dustria en funcion de los ingresos (USD MN) y el volumen (unidades) para el periodo de pronostico. E
+l estudio de investigacion es un analisis detallado de este mercado que enfatiza los impulsores del 
+mercado y las restricciones que supervisan el crecimiento general del mercado. las tendencias y las 
+perspectivas esperadas para el mercado tambien se incluyen en el informe que proporciona una compren
+sion intelectual de la industria de Protección contra ransomware. Ademas, el informe cuantifica la c
+uota de mercado de los principales actores de la industria y ofrece una vision en profundidad del pa
+norama competitivo. Este mercado se clasifica en diferentes segmentos con un analisis exhaustivo de 
+cada uno con respecto a la geografia para el periodo de investigacion.Al principio, el informe Prote
+cción contra ransomware presenta una introduccion basica de la industria que contiene su definicion,
+ estrategias de produccion y aplicaciones de Protección contra ransomware. Mas adelante, el informe 
+ilumina en detalle los actores clave globales de la industria de Protección contra ransomware. En es
+te segmento, el informe presenta las cuotas de mercado de Protección contra ransomware, el acceso a 
+la produccion y la descripcion del producto. El informe de mercado completo de Protección contra ran
+somware se divide en paises / regiones, fabricantes destacados y varios segmentos para el estudio de
+l panorama competitivo de Protección contra ransomware.NOTA: Nuestros informes incluyen el análisis 
+del impacto de COVID-19 en esta industria. Use el código STAYHOME en el requisito preciso y SAVE 100
+0USD en todas las copias de licencia de usuarioObtenga un folleto PDF: https://www.coherentmarketins
+ights.com/insight/request-pdf/1060Principales fabricantes del mercado global de Protección contra ra
+nsomware:Microsoft Corporation, Sophos Ltd., Trend Micro Incorporated, Symantec Corporation, Kaspers
+ky Lab, Malwarebytes Corp, McAfee Inc., Avast Software, Cisco System Inc., and Webroot Inc.Alcance d
+el informe: –A. Ano base para la estimacion: -2017B. Datos reales / historicos: -2015 y 2019C. Perio
+do de prevision: -2020-2026D. Representacion del mercado: -Volumen en millones de unidades, ingresos
+ en miles de millones de dolares y CAGR de 2020 a 2025.E. Alcance regional: – Europa, Asia Pacifico,
+ America del Norte, Medio Oriente y africa, y America del Sur y Central.F. Alcance del pais: – Itali
+a, Rusia, EE. UU., Espana, India, Canada, Reino Unido, Alemania, China, Japon, Australia, Brasil, Co
+rea del Sur, Arabia Saudita y Emiratos arabes Unidos.G. Cobertura del informe: -Pronostico de volume
+n, panorama competitivo, pronostico de ingresos, factores de crecimiento y tendencias.(Ofrecemos FLA
+T 22% OFF para la copia de licencia de usuario único)Compre ahora este informe de investigacion http
+s://www.coherentmarketinsights.com/insight/buy-now/1060Se ha utilizado una combinacion de investigac
+ion primaria y secundaria para definir estimaciones y pronosticos de mercado. las fuentes utilizadas
+ para la investigacion secundaria cubren (pero no se limitan a) las fuentes de datos pagadas, las re
+vistas tecnicas, los sitios web de la empresa SEC Filings, los informes anuales y varias otras publi
+caciones de la industria. los detalles especificos sobre la metodologia utilizada para este informe 
+se pueden proporcionar a pedido.Aspectos destacados del informe:>> Un analisis de fondo completo, qu
+e incluye una evaluacion del mercado matriz.>> Cuotas de mercado y estrategias de los actores clave.
+>> Cambios importantes en la dinamica del mercado.>> Tamano historico, actual y proyectado del merca
+do desde el punto de vista de valor y volumen.>> Segmentacion del mercado hasta el segundo o tercer 
+nivel.>> Reporte y evaluacion de desarrollos recientes de la industria.>> Segmentos de nicho emergen
+tes y mercados regionales.>> Una valoracion objetiva de la trayectoria del mercado.>> Recomendacione
+s a las empresas para fortalecer su presencia en el mercado.Sobre nosotros:-coherentmarketinsights.c
+om es la terminal donde todas las empresas industriales, comerciales y lucrativas obtendran los mejo
+res informes de investigacion del mercado en todos los sectores como automocion, electronica, farmac
+eutica y sanidad, alimentacion y bebidas, etc. la empresa tiene como objetivo cumplir con los requis
+itos de investigacion de mercado de clientes tanto nacionales como internacionales. le proporcionamo
+s la informacion importante y necesaria para identificar y analizar la necesidad del mercado y el ta
+mano del mercado.Contáctenos:Nombre: Sr. ShahTeléfono: US. +12067016702 / UK +4402081334027Correo el
+ectrónico: sales@coherentmarketinsights.comVisite aqui, para obtener mas informacion: https://www.co
+herentmarketinsights.com/blog¡¡QUEDARSE EN CASA!! ¡¡MANTENERSE A SAlVO!!
+
+4AC5DDE2
+
+Para registrarte
+ en este evento pulsa AQUÍ si ya eres cliente de GTI o rellena el siguiente formulario si no lo eres
+:
+
+4AC5DDE2
+
+Protege tu empresa ante la amenaza de ataques de ransomware de manera efectiva con NeuS
+hield Data Sentinel y evita problemas desde 1,99 €/mes/equipo https://doiser.com/proyecto-albedo/sis
+tema-neushield-de-proteccion-ante-ransomware/?utm_campaign=cardscampana&utm_medium=campanya&utm_sour
+ce=twitter…
+
+4AC5DDE2
+
+primero ransomware y ahora esto
+
+4AC5DDE2
+
+¿Cómo deben las compañías proteger
+se de los ciberataques? #Ransomware
+
+4AC5DDE2
+
+    Los mejores beneficios Conoce los beneficios de t
+us Tarjetas de Crédito y Débito G&T Continental.      Solicita uncrédito en línea Proyecta y analiza
+ tus opciones de financiamiento e inversión.      Descubre tu cuenta Conoce la cuenta de ahorro que 
+se adapta más a tu estilo de vida.            Le damos crédito a tus planes  Préstamo personal que t
+e permite disponer de dinero en efectivo de una manera fácil y rápida.     			Más info    		        
+Simplifica tu vida  Realiza pagos, gestiones y solicitudes de manera fácil y rápida en la nueva GTCA
+pp.     			Más info    		        Hasta 55 días sin recargo  Descúbre la tarjeta de crédito que se ad
+apta a ti y tu estilo de vida.     			Más info    		   FACILITA TU VIDA    GTCApp      Ahorra o Nunc
+aApp      Banca Electrónica    NUESTRA COMUNIDAD            ¡Facilita tu vida! Recuerda que puedes p
+agar el impuesto de circulación desde donde te encuentres.               Disfruta este día #TipsEnFa
+milia               #CIAMinMotion ¡Pon tu vida en movimiento!        
+
+4AC5DDE2
+
+Gran resumen de  de
+ @JosepAlbors sobre ataques de #ransomware e infraestructuras críticas, aunque muchos de ellos podrí
+an resolverse si se contara con un servicio de backups como #Reborn https://blogs.protegerse.com/202
+0/09/16/resumen-de-ataques-de-ransomware-en-infraestructuras-criticas/… #CiberSeguridad #Internet #N
+oticia #tecnología vía @ESET_ES
+
+4AC5DDE2
+
+El ransomware es, de todos los diversos tipos de malware 
+existentes, el que más repercusión mediática ha tenido en los últimos años debido a que diversas emp
+resas y gobiernos de todo tamaño a nivel global han sido sus víctimas.En varias ocasiones, las organ
+izaciones criminales han logrado impactar las operaciones de sus objetivos, que debieron pasar disti
+ntas áreas de negocio a un estado de contingencia operativa. Solo basta con leer los casos en los pe
+riódicos de Argentina, Chile o México, por mencionar solo algunos países de la región.Desde hace muc
+hos años existen diversos tipos de software maliciosos o virus de computadora, este problema no es a
+lgo nuevo, pero, ¿qué es un ransomware? Es un tipo de software malicioso que tiene como objetivo apo
+derarse de la información que reside en la computadora de la víctima, solicitando un pago de rescate
+ a cambio de liberarla. La técnica utilizada por el ransomware es encriptar la información de la com
+putadora de la víctima, volviéndola inaccesible.  Tras el pago del rescate, que es típicamente en cr
+iptoactivos, la víctima recibe la clave para desencriptar la información.Inicialmente, los ciberdeli
+ncuentes apuntaban al público general, sin embargo, han mutado a atacar a empresas y organismos de g
+obierno en búsqueda de mayor rentabilidad de su actividad criminal. Ya no solo se limitan a secuestr
+ar la información, también realizan extorsiones al amenazar con divulgarla públicamente.¿Quién están
+ detrás de los ataques de ransomware? Son organizaciones criminales, incluso algunas con afiliacione
+s de distintas personas en múltiples países, que cuentan con recursos para financiar sus operaciones
+ y están muy bien capacitados. Se estima que para 2021, los costos por los daños de ransomware a esc
+ala global van a ser de $20,000 millones, incrementándose un 5,700% comparado con el 2015 (fuente: C
+ybersecurityventures).La elección del blanco de un ataque no es azarosa, es un proceso con inteligen
+cia previa.Incluso existen criminales que brindan servicios de ransomware, facilitando conocimiento,
+ herramientas, infraestructura y otros componentes necesarios para llevar a cabo esta modalidad crim
+inal a gran escala en modo de campañas.¿Cómo se lleva a cabo un ataque de ransomware? Técnicamente u
+n ataque tiene distintas fases, cada una de ellas tiene un propósito específico:Infección: Los ataca
+ntes intentarán o bien engañar a un empleado de la organización para que de alguna forma ejecute un 
+progama malicioso, siendo un correo electrónico conocido como phising la vía más común, o bien explo
+tar alguna vulnerabilidad conocida no corregida para lograr ejecutar este malware. También existe la
+ posibilidad de la participación deliberada de algún empleado de la organización víctima.Movimiento 
+lateral: Una vez controlando un dispositivo de la organización los atacantes pondrán en marcha la se
+gunda fase, que denominamos “movimiento lateral” en la jerga de la ciberseguridad, cuando desde un d
+ispositivo de la organización se propaga a la mayor cantidad de computadoras posible. Si bien intent
+arán hacer esto lo más rápido posible, puede tomar largos períodos de tiempo, pudiendo llegar a vari
+os meses. Los criminales trabajarán con mucho sigilo, utilizando técnicas de evasión, para pasar lo 
+más desapercibidos posibles. Durante esta etapa, buscarán vulnerar los servidores de autenticación p
+ara poder crear usuarios con privilegios administrativos, instalar masivamente software para control
+ar los servidores de gestión de actualizaciones y destruir los mecanismos de respaldo para que cuand
+o se secuestre la información, no sea posible recuperarla. La finalización de esta segunda fase depe
+nderá de cuándo los criminales decidan que pueden causar el suficiente daño a la víctima que podría 
+inducirlo a pagar un rescate. En paralelo, los cibercriminales estarán robando la mayor cantidad de 
+información posible a fin de usarla luego de forma extorsiva y/o venderla a otros actores criminales
+.Cifrado de datos: En esta etapa es cuando se da la instrucción al software malicioso previamente in
+stalado para cifrar la información, mediante una clave que hasta ese momento solo los atacantes cono
+cen. Se ejecuta muy velozmente y es muy difícil de mitigar llegado a este punto, por lo que se dará 
+notificación a la víctima y se le exigirá el rescate. Lo siguiente es muy similar a la operatoria de
+ un secuestro extorsivo convencional, abriendo los delincuentes canales de comunicación y negociació
+n con la pretensión de obtener el pago a cambio de entregar la clave de descifrado.La prevención no 
+basta, es necesario poder detectar y reaccionarLa seguridad es un proceso, no es una única acción, e
+s necesario encarar el problema del ransomware con decisión e inversión.Tener solo una estrategia de
+ prevención no basta, hay que invertir tanto en la capacidad de prevenir como en la de detectar y re
+accionar. Es aconsejable privilegiar el tener una visión central y unificada de toda la superficie d
+e ataque.Incorporar capacidad de análisis y reacción a velocidad digital, asistida por inteligencia 
+artificial para poder tener detección temprana y respuesta automatizada, se vuelve crítico por el vo
+lumen de información.Algunas recomendaciones acerca de por dónde empezar:Realice entrenamientos para
+ concientizar acerca de esta problemática y tener una fuerza de trabajo ciberconciente en su empresa
+ u organismo público. Una práctica habitual es realizar campañas de phising de prueba, buscando iden
+tificar a los empleados que son engañados y así profundizar el entrenamiento de estas personas.Mante
+nga la higiene digital de los dispositivos, instalando las actualizaciones de seguridad provistas po
+r los fabricantes lo más rápido posible para reducir la brecha de exposición.Despliegue confianza ce
+ro en la red por medio de segmentación, robusteciendo la autenticación y el manejo de identidad, imp
+lementando firewalls de nueva generación y políticas de mínimo privilegio en ellos, y analizando los
+ eventos de seguridad en búsqueda de indicadores de compromiso.Implemente soluciones de detección y 
+respuesta. La prevención basada en firmas que tienen los antivirus en la actualidad para los disposi
+tivos no basta y por eso es necesario sumar software de detección y respuesta, EDR por sus siglas en
+ inglés, que se focalizan en la post ejecución.A medida que las redes se vuelven más complejas, tamb
+ién lo es defenderlas. Ya no es un trabajo de una solución puntual.Las soluciones que permiten no so
+lo prevenir, sino también detectar y responder de forma integrada y automatizada pueden aliviar la c
+arga del equipo de TI y ayudar a cerrar las puertas al ransomware.Gonzalo García Vicepresidente Fort
+inet para Sudamérica
+
+4AC5DDE2
+
+La nueva #ciberseguridad en las empresas para entornos distribuidos 
+e híbridos#ransomware #sonicwall #malware #cybersecurity #security @aslan_es @SonicWall
+
+4AC5DDE2
+
+M
+uere una paciente del hospital Universitario de Düsseldorf tras sufrir el propio hospital un ataque 
+de Ransomware. http://blog.segu-info.com.ar/2020/09/muere-una-paciente-del-hospital.html…
+
+4AC5DDE2
+
+
+El ciberataque ha afectado al sistema informático de la compañíaTras ser víctima de un ataque de ra
+nsomware SegurCaixa Adeslas ha activado su plan de contingencia, así lo ha informado la propia filia
+l de Mutua Madrileña y de VidaCaixa Grupo. Un ataque de ransomware es una forma de malware que bloqu
+ea los archivos o dispositivos de los usuarios y luego reclama un pago online anónimo.El pasado juev
+es SegurCaixa Adeslas fue víctima de un ataque de ransomware de sus servidores, semanas después de q
+ue lo sufriese Seguros Mapfre, desde el primer momento del ataque están trabajando para dar una solu
+ción del mismo. CaixaBank aseguró que no ha afectado a la entidad financiera, sino sólo a SegurCaixa
+ Adeslas.SegurCaixa Adeslas está integrada en el Grupo Mutua Madrileña y participada por CaixaBank a
+l 50%. Durante el año pasado vio crecer sus ingresos por primas un 4’2%, llegando a un beneficio net
+o de 386,6 millones de euros. En cuanto a la marca de salud de la aseguradora también aumentaron las
+ primas un 6’5%, llegando a los 2.688 millones de euros. En multirriesgo las primas aumentaron un 6’
+7%, alcanzando los 524 millones. Respecto al hogar las primas llegaron a 429 millones de euros, mien
+tras que en auto fueron 237.Servimedia, la aseguradora, ha ajustado los procesos que tienen que ver 
+con los asegurados para seguir prestando servicio mientras su equipo de atención al cliente continúa
+ gestionando las peticiones y consultas, para así poder identificar otras posibles afectaciones.Aina
+ Pou RodríguezRedactora de CyberSecurity News4AC5DDE2Independientemente de la vertical de su organiz
+ación o su tamaño, todos los que usan una computadora por negocios o por placer deben ser consciente
+s de ello. Existe un mal que está tratando de ingresar a su infraestructura solo para cifrar su acti
+vo más importante: su información.Sun Tzu dijo una vez: «Si conoces al enemigo y te conoces a ti mis
+mo, no debes temer el resultado de cien batallas». Esta sabiduría sigue siendo aplicable a la realid
+ad de la ciberseguridad en la que vivimos. Ahora que comprende al enemigo y sus ataques de ransomwar
+e, Lumu puede otorgarle visibilidad a su propia infraestructura de red que le permite «conocerse a s
+í mismo».Más información https://lumu.io/ransomware-attacks/#HablemosDeSeguridadVía @Contacto_Capa8
+
+
+4AC5DDE2
+
+Yo compraré la play porque mis amigos se la compraran,no hay mejor motivo que la presión 
+de grupo
+
+4AC5DDE2
+
+Tuve una pesadilla de que mi computador era atacado por un ransomware y en venga
+nza con los hackers - quienes me deban su billetera de Bitcoin - usaba todas mis skills y las de mis
+ amig@s para identificarlos y atacarlos devuelta. Creo que necesito vacaciones denuevo y más largas
+
+
+4AC5DDE2
+
+Asesinada por un virus: un ataque ransomware termina en la muerte de una paciente http://
+dlvr.it/Rgqvc64AC5DDE2@GTISoftware te invita el #24septiembre |10 am al #webinargratuito de @Veeam_E
+s Partner Veeam Academy  Protección de puesto de trabajo Backup de office 365 Cómo desbordar cargas 
+de trabajo a la nube Protección contra ransomwareRegístrate https://buff.ly/3mCJOV9
+
+4AC5DDE2
+
+Un gr
+upo de ciberdelincuentes ha reivindicado un ataque contra GAM, una multinacional asturiana especiali
+zada en servicios para la industria 4.0 y el alquiler de maquinaria.Para dar una idea de su dimensió
+n, GAM registró 143 millones de euros en ventas en 2019.El colectivo en cuestión que ha reivindicado
+ la autoría de este ciberataque es el mismo que opera un ransomware llamado NetWalker. Los ransomwar
+e son un tipo de programas maliciosos cuyo propósito es infectar la red corporativa de su objetivo y
+ encriptar todos los archivos que encuentre en sus dispositivos. Para que la víctima pueda recuperar
+ toda su información, se verá extorsionada por los mismos ciberdelincuentes, que suelen exigir un re
+scate millonario a pagar en criptomonedas.Leer más: Detectan una campaña masiva de emails fraudulent
+os que tratan de suplantar a la Agencia Tributaria para robar tus datos personalesEste ciberataque f
+ue reportado por primera vez el sábado pasado. En este caso, no ha trascendido información sobre cuá
+nto se pide por rescate ni cuántos ficheros se han visto comprometidos. Uno de los primeros en detec
+tar el ataque fue Brett Callow, analista en una firma de ciberseguridad llamada Emsisoft. La cuenta 
+de Twitter RansomLeaks también confirmó el ataque hace unos días.#NetWaker #Ransomware claimed GAM R
+entals as a victim. 🇪🇸GAM (GENERAL DE ALQUILER DE MAQUINARIA) is a multinational company, founded in
+ 2003 in Spain, specializing in global services related to machinery.2,397 employees, $375m revenue,
+ GALQ stock symbol pic.twitter.com/9eqEe2jREv— Ransom Leaks (@ransomleaks) September 12, 2020Los col
+ectivos de ciberdelincuentes que operan los ataques con ransomware han cambiado sus prioridades este
+ año 2020. A finales de 2019, varias compañías de ciberseguridad advertían que la tendencia cambiarí
+a este curso, y se verían cada vez más casos en los que la extorsión para desencriptar los archivos 
+afectados por el ataque incluiría otro componente: si las víctimas no pagan, los atacantes filtrarán
+ toda su información comprometida en la red.Fruto de ello, varios colectivos como el que opera el ra
+nsomware NetWalker u otros programas similares, como REvil, han creado páginas tanto en la dark web 
+como en la red normal para compartir los frutos de sus actividades ilícitas.Fruto de esta labor de p
+ropaganda, los colectivos de ciberdelincuentes llevan este 2020 reivindicando varios ataques, aunque
+ no siempre confirmados. Algunos ataques que han afectado a compañías españolas han sido Adif, el ge
+stor de las líneas ferroviarias españolas, o Mapfre.Leer más: De Adif a Mapfre: los ataques con rans
+omware cuestan al menos 100 millones de euros al año a las empresas españolasBusiness Insider España
+ ha intentado contactar con GAM, la firma que en este caso ha sido aparentemente víctima de NetWalke
+r. La compañía asturiana no ha atendido a las preguntas de este medio por el momento.GAM es una mult
+inacional asturiana que se dedica al alquiler de maquinaria y a prestar servicios para la industria 
+4.0. Los ataques a este sector económico ganan cada vez más relevancia, y suponen un mayor interés p
+ara los cibercriminales.Aunque en este caso el ataque no ha sido a ninguna infraestructura física: e
+l colectivo que opera el ransomware NetWalker ha compartido en su página web capturas de pantalla en
+ las que aparecen una muestra de los archivos que han conseguido comprometer y sustraer de los servi
+dores de GAM. Aparecen recibos bancarios, ficheros con análisis de riesgos de sus operaciones, y al 
+parecer una carpeta con datos y bloqueos de clientes.La industria 4.0, un objetivo para los ciberdel
+incuentesGAMCon la consolidación de la industria 4.0 se desdibujan las fronteras entre los ataques a
+ las infraestructuras IT —tecnologías de la información: servidores, dispositivos, información digit
+alizada— y las OT —tecnologías operativas: encargadas de controlar la maquinaria—.Luis Miguel García
+ es el responsable del Desarrollo de Negocio de Wallix Ibérica, una compañía de ciberseguridad que c
+omenzó a operar en España hace unos meses. Explica a Business Insider España algunas de las razones 
+por las que los ciberdelincuentes comienzan a mirar con más interés al mundo OT como superficie que 
+puede ser potencialmente atacada.Son tres: impacto económico, sistemas operativos sin mantenimiento,
+ y brechas de seguridad. "Las consecuencias económicas de modificar el funcionamiento de robots para
+ que los productos sean defectuosos, de exfiltrar información confidencial de producción o incluso d
+e detener un proceso de fabricación son enormes"."Por ello, los beneficios que esperan obtener los c
+iberdelincuentes son también grandes", detalla García.Además, "todavía hay bastantes posibles brecha
+s de seguridad para que los ciberdelincuentes accedan a los procesos industriales".
+
+4AC5DDE2
+
+Qué e
+s el ransomwareSe trata de un tipo de malware, software desarrollado con ninguna buena intención, cu
+yo objetivo es bloquear el uso de un ordenador o parte de la información guardada en él para que el 
+usuario no pueda tener acceso y posteriormente, solicitar un rescate para su desbloqueo.Su nombre vi
+ene de la unión de dos palabras inglesas, ransom que significa rescate, y ware que significa product
+o o mercancía. De ahí que el ransomware sea un malware que solicita un rescate a sus víctimas por re
+cuperar la información o dispositivo bloqueado. Una vez que ha logrado alojarse en nuestro equipo y 
+cifrar la información, se encargará de mostrar un mensaje a su víctima indicando del secuestro virtu
+al de dicha información junto con la cantidad a pagar por el rescate.Ahí se le hará saber a la vícti
+ma infectada por ransomware, que en el caso de no pagar el rescate, se procederá con la eliminación 
+o destrucción de todos los datos secuestrados. En caso de que procedamos al pago solicitado y en el 
+plazo correspondiente, se promete la liberación de los datos bloqueados, aunque lo cierto que en muc
+has ocasiones no es posible recuperarlos aunque se haga el pago.Desde el punto de vista de los cread
+ores de este tipo de malware, se trata de un verdadero un negocio. Sí, ilícito pero un negocio en de
+finitiva, ya que los responsables de este tipo de malware pueden llegar a conseguir cantidades de di
+nero muy importantes.Así suele infectarLos creadores de malware suelen utilizar numerosas técnicas p
+ara su distribución, siempre con el objetivo de conseguir engañar al mayor número de víctimas posibl
+es y conseguir un mayor beneficio. Entre las técnicas más habituales para la distribución de ransomw
+are encontramos:Mensaje de correo electrónico: Engañar a los usuarios, mediante el envío de un mensa
+je de correo electrónico para que instalen el malware es la más frecuente y fácil para los ciberdeli
+ncuente. Por ejemplo, el envío de un mensaje con un enlace falso o un archivo adjunto con una supues
+ta actualización de software hace que si hacemos clic sobre el enlace o abrimos el archivo se instal
+e el malware en nuestro equipo.Redes sociales: Es frecuente también ver cómo los ciberdelincuentes u
+tilizan ciertas técnicas a través de redes sociales o servicios de mensajería instantánea para distr
+ibuir sus creaciones. Y es que de esta manera, también pueden llegar a muchas víctimas fácilmente. E
+n esta ocasión, también se suelen utilizar enlaces falsos o archivos que contienen macros o ficheros
+ javascript que instalan el ransomware en los equipos de las víctimas.Agujeros de seguridad: Aprovec
+har de de ciertas vulnerabilidades de los sistemas operativos y las aplicaciones instaladas para con
+seguir entrar en nuestro equipo e instalar su malware es otra de las técnicas habituales. Y es que, 
+los desarrolladores de malware disponen de determinadas herramientas que les permiten reconocer dónd
+e están estos agujeros de seguridad. También se están aprovechando de ciertos sistemas o dispositivo
+s conectados a internet sin las medidas correspondientes a nivel de seguridad para distribuir el ran
+somware.Privilegios elevados: Conseguir permisos de administrador hace que los ciberdelincuentes con
+sigan la llave que necesitan para infectar a sus víctimas. El uso de ciertas técnicas de engaño como
+ el propio phishing y todas sus variantes permite que los ciberdelincuentes puedas instalar su malwa
+re fácilmente.Drive-by download: Es una técnica que consiste en dirigir a las víctimas a sitios web 
+infectados donde, sin que se den cuenta y aprovechando ciertas vulnerabilidades del navegador, se de
+scarga el malware que contienen.  También utilizan técnicas de malwertising, que consiste en incrust
+ar anuncios maliciosos en sitios web legítimos que contienen código que infecta al usuario, incluso 
+sin que este haga clic sobre el anuncio.Cómo protegernosLa mejor manera de protegerse de este tipo d
+e amenazas es realizando una serie de tareas para su prevención. Puede que la gran mayoría de ellas 
+resulten bastante lógicas, pero lo cierto es que la mayoría de personas que navegan por Internet a d
+iario y no realizan todas ellas, están continuamente expuestos a ser víctimas del ransomware. Eso sí
+, también es verdad que el hecho de que las realicemos no nos asegura que también podamos ser infect
+ados. Estas son algunas de las recomendaciones para tratar de evitar ser infectados por este tipo de
+ malware:Llevar a rajatabla las actualizaciones: Teniendo en cuenta que una de las técnicas más habi
+tuales para la distribución del ransomware es a través de las vulnerabilidades que puedan tener cier
+tos sistemas o aplicaciones, siempre es importante tener debidamente actualizado nuestro sistema ope
+rativos y todas las aplicaciones instaladas en el equipo, sobre todo el navegador web que utilicemos
+ habitualmente.Navegar de la forma más segura posible: Aunque el uso de una VPN para navegar por Int
+ernet es algo cada vez más extendido, lo cierto es que resulta algo recomendado para evitar ser víct
+ima de este tipo de malware. Además, es importante visitar cualquier web de contenido dudoso, ya que
+ suelen contener los conocidos como exploit, encargados de detectar las vulnerabilidades de nuestro 
+navegador para hacer llegar el malware por ese camino. Ni que decir tiene, que tener correctamente a
+ctualizado nuestro navegador también ayudará a protegernos de estas amenazas.Realizar copias de segu
+ridad de forma periódica: Los expertos de seguridad siempre recomiendan tener un buen sistema para r
+ealizar copias de seguridad de forma periódica. De esta manera, el hecho de ser infectado por ransom
+ware no nos supondrá más problema que el de eliminarlo, puesto que la información siempre la tendrem
+os a salvo.Configuración correcta del correo electrónico: Puesto que la mayoría de malware nos llega
+ a través del correo electrónico, es muy importante tener una correcta configuración para tratar de 
+protegernos de este tipo de amenazas. Es importante el uso de filtros para evitar que ciertos mensaj
+es de spam lleguen a nuestra bandeja. Se recomienda también el uso de herramientas que nos permitan 
+realizar la autenticación de los correos entrantes, deshabilitar las macros en cualquier documento d
+e Office que recibamos o el HTML en el propio correo electrónico, puesto que permite la incrustación
+ de código Javascript que nos instale cualquier malware sin darnos cuenta.Usar cuentas con pocos pri
+vilegios y contraseñas lo más fuertes posibles: Es también recomendable hacer uso de cuentas que no 
+cuenten con privilegios administrativos o elevados, ya que en el caso de que nos las roben, estaremo
+s facilitando que consigan un control total sobre nuestro equipo. Ni que decir tiene que el uso de c
+ontraseñas fuertes y contar con otros sistemas de seguridad adicionales como la autenticación de dob
+le factor o activar la opción que bloquea el uso de una cuenta después de un determinado número de i
+ntentos fallidos a la hora de identificarse, nos puede ayudar a protegernos del ransomware.Apoyarnos
+ en el uso de ciertas herramientas de seguridad: El uso de un firewall nos permite establecer cierta
+s reglas para permitir conexiones de entrada o salida de nuestra red con el objetivo de protegernos 
+de ciertos riesgos. En este sentido, también es aconsejable si somos usuarios de Windows desactivar 
+el protocolo de acceso remoto si no lo estamos usando.Qué hacer si he sido infectadoSi he sido infec
+tado por ransomware, lo primero que debería hacer es desconectar el equipo de la red para evitar que
+ se pueda extender el malware por otros equipos conectados a ella. A continuación, también es recome
+ndable cambiar todas las contraseñas de red y de cuentas online. Eso sí, debemos hacerlo desde otro 
+dispositivo distinto y si es posible, conectado a otra red. Una vez recuperada la información es aco
+nsejable volver a cambiar todas estas contraseñas otra vez.Ahora bien, si hay una premisa a la hora 
+de ser infectado por este tipo de malware es la de no pagar nunca el rescate que se nos solicite. Di
+cho esto, muchos se preguntarán por qué no pagarlo si es una pequeña cantidad y esto puede soluciona
+r rápidamente el problema. Pues bien, es importante tener en cuenta que pagar no nos garantiza que p
+odamos tener acceso de nuevo a los datos cifrados. Además, es posible que después de hacerlo seamos 
+víctimas de nuevos ataques puesto que ya sabrán que estás dispuesto a pagar, lo que hará que te conv
+iertas en un blanco perfecto.El hecho de pagar la cantidad solicitada no garantiza que el problema q
+uede resuelto, ya que es probable que antes de devolvernos el acceso a nuestros datos, pueden solici
+tarnos varios pagos más. Eso por no hablar que de esta manera estaremos financiando a los ciberdelin
+cuentes y fomentando aún más su actividad delictiva.Es importante saber qué ransomware ha infectado 
+nuestro equipo para poder poner solución. En este sentido, existen algunas herramientas que nos pued
+en ayudar a identificarlo como son IDRansomware y Crypto Sheriff. En ambos casos, estos serán los pa
+sos básicos a seguir para utilizarlos:Visitamos la web de la herramienta onlineSubimos los ficheros 
+solicitadosEjecutamos la herramientaEsperamos a que nos ofrezca el resultado. Es recomendable usar a
+l menos dos herramientas para contrastar los resultadosUna vez identificado, podremos ponernos manos
+ a la obra para comprobar si existe alguna herramienta que ya haya sido desarrollada para descifrar 
+el tipo de cifrado utilizado por el malware que hemos sido infectados. Tanto si lo conseguimos con s
+i no, también se recomienda denunciar el hecho al Grupo de delitos telemáticos de la Guardia Civil y
+/o la Brigada de Investigación Tecnológica de la Policía Nacional.¿Por qué se suele solicitar el pag
+o del rescate en bitcoins?El bitcoin es una moneda virtual o también conocidas como criptomonedas qu
+e permiten el pago a través de Internet de forma anónima entre particulares. Dicho esto, se entiende
+ por qué los ciberdelincuentes solicitan el pago del rescate en bitcoins.Este anonimato que ofrecen 
+este tipo de criptomonedas es posible gracias a los servicios de mixing o tumbling de bitcoins, acce
+sibles desde una red anónima y que mezclan fondos de diferentes carteras para que se dificulte el ra
+streo de las transacciones. De esta manera los ciberdelincuentes se aseguran el cobro sin que puedan
+ ser identificados fácilmente o que la policía pueda seguirles la pista.Ataques de ransomware más po
+pulares de los últimos añosCryptolockerCryptoLocker es un ransomware tipo troyano dirigido a ordenad
+ores que ejecutan el sistema operativo de Microsoft. Un malware que se extendió en el año 2013 y que
+ para muchos es el que marcó el inicio de la era de este tipo de malware.  La manera de distribuirse
+ es a través de un archivo adjunto en un mensaje de correo electrónico o bien accediendo a los equip
+os a través del puerto remoto 3389.Una vez que se aloja en el equipo, cifra ciertos tipos de archivo
+s almacenados en el disco duro usando criptografía de clave pública RSA y guarda la clave para el de
+scifrado en los propios servidores del malware. Como es habitual, en el mensaje mostrado una vez ins
+talado se muestra la fecha límite y cantidad de bitcoins a pagar por el rescate. Se estima que fue c
+apaz de infectar más de medio millón de ordenadores, a lo que le ayudaron también algunos de sus clo
+nes como CryptoWall, Crypt0L0cker y TorrentLocker.TeslaCryptTeslaCrypt fue el ransomware que estuvo 
+detrás de casi la mitad de los ataques producidos con este tipo de malware en todo el mundo durante 
+el año 2016. Un malware que se dirigía sobre todo a archivos relacionados con los videojuegos, títul
+os descargados, contenidos descargables, mapas, etc.El rescate que solicitaba a cada una de sus víct
+imas era de 500 dólares en bitcoins, lo cual hace pensar que los responsables de TeslaCrypt consigui
+eron ganar mucho dinero con su creación. Después de un tiempo, los propios creadores hicieron públic
+a la clave para conseguir el descifrado poco después de que ESET desarrollase una herramienta capaz 
+de limpiar los equipos infectados por este ransomware.CerberCerber surgió como servicio RaaS, es dec
+ir como una especie de programa de suscripción o afiliación entre ciberdelincuentes. Un ransomware q
+ue cualquier puede comprar y distribuir obteniendo un porcentaje del beneficio obtenido. Este malwar
+e si dirigió a los usuarios de Office 265 y era distribuido a través de una campaña de phising.En un
+ mensaje de correo electrónico con un documento de Office adjunto es como llegaba Cerber a sus vícti
+mas. En el momento que era abierto dicho documento, el malware se ejecutaba en segundo plano sin que
+ se diesen cuenta los afectados y cuando se querían dar cuenta, se encontramos con el mensaje de que
+ habían sido víctimas de Cerber, donde se solicitaba el rescate y los pasos a seguir para eliminar e
+l malware.Petya y NotPetyaPetya es un malware de tipo ransomware que se distribuyó como troyano usan
+do el famoso sistema de almacenamiento en la nube Dropbox, mientras que su evolución, NotPetya, lo h
+izo a través del envío de un mensaje de correo electrónico que llevaba adjunto un archivo de Office 
+que se encargaba de instalar el malware en segundo plano en el equipo de las víctimas.Una vez que lo
+s archivos estaban cifrados, el ordenador infectado quedaba inutilizable y se solicitaba un rescate 
+de 300 dólares en bitcoins. En el caso de Petya, en lugar de cifrar ciertos archivos del disco, aume
+ntaba aún más el daño en el equipo al impedir el arranque del ordenador, ya que apuntaba  directamen
+te a los archivos responsables del arranque del equipo.WannaCryWannaCry es uno de los ataques más po
+pulares y recientes, ya que tuvo su gran protagonismos a mediados del año 2017. Concretamente, fue e
+n el mes de mayo cuando se registró un ataque a escala mundial que afectó también a importantes empr
+esas españolas como Telefónica, Iberdrola o Gas Natural, entre otras.Wannacry permitía atacar ordena
+dores con el sistema operativo Windows, lo que hizo que Microsoft se pusiera manos a la obra para la
+nzar un parche que solucionase las vulnerabilidades que habría aprovechado este ransomware para afec
+tar a tantos equipos en todo el mundo.Una de las características de este malware es que los archivos
+ eran cifrados con la extensión .WCRY, mientras que el rescate solicitado para cada equipo infectado
+ era de 300 dólares si se pagaba en los siguientes tres días, mientras que si no se hacía el pago, e
+l rescate se duplicaba con el paso del tiempo.
+
+4AC5DDE2
+
+Cuando el Cibercrimen compromete vidas hum
+anas. Preocupante lo que está pasando con el #Ransomware .
+
+4AC5DDE2
+
+Ransomware profesional: cómo l
+idiar con estos nuevos delincuentes corporativos
+
+4AC5DDE2
+
+#ciberseguridadUna persona murió al no p
+oder ser atendida en un hospital que había sido objeto de un ataque de ransomware.
+
+4AC5DDE2
+
+Traduc
+ción de lasnoticias alemanasgracias a @cibernicola, el cual es un seguidor y colaborador deSecurity 
+News.  Esto fue confirmado por la Ministra de Ciencia Isabel Pfeiffer-Poensgen  (independiente) en e
+l parlamento estatal el jueves. En uno de los servidores  afectados se encontró una carta de chantaj
+e dirigida a la Universidad de  Heinrich Heine.   La investigación de la muerte por la oficina del f
+iscal de Wuppertal  El propio hospital universitario también ha confirmado en un comunicado de  pren
+sa que las investigaciones han revelado un ataque de hackers como la causa  del fallo informático. S
+in embargo, según el hospital universitario, no hubo  ninguna demanda concreta de rescate.Según el M
+inisterio de Justicia de  Renania del Norte-Westfalia, la fiscalía de Wuppertal está llevando a cabo
+ una  investigación sobre la muerte. Un paciente con peligro de muerte que iba a ser  llevado a la c
+línica universitaria la noche del 11 al 12 de septiembre. "Sin  embargo, esto no fue posible porque 
+la clínica quedó paralizada debido a un  ataque de delincuentes", dice el fiscal superior de Wuppert
+al, Wolf-Tilman Baumert.  Por lo tanto, la ambulancia fue desviada a un hospital de Wuppertal. "Lo q
+ue  llevó media hora más que el transporte a Düsseldorf. Desafortunadamente, el  paciente murió inme
+diatamente después de ser admitido en el hospital de  Wuppertal", dijo Baumert. Si se pudiera probar
+ la complicidad de los hackers y  fueran capturados, también se levantaría la acusación de asesinato
+.   ¿El hospital universitario como un blanco al azar?  Pfeiffer-Poensgen dijo al parlamento estatal
+ que la policía se había puesto en  contacto con los chantajistas en respuesta a la carta de chantaj
+e y explicó  que los servidores en cuestión eran sistemas de un hospital de emergencia. Los  chantaj
+istas emitieron entonces la clave para desencriptar los servidores.  Esto apoyó la tesis de que los 
+chantajistas querían golpear la universidad con  su acción, pero no el hospital, dijo el Ministro. C
+omo ha informado el hospital universitario, el agujero de seguridad se  encontró en un software adic
+ional "ampliamente utilizado" y "disponible  comercialmente". Hasta que los expertos del hospital un
+iversitario pudieron  cerrar esta brecha, había habido una ventana de tiempo en la que los autores  
+podían haber penetrado en el sistema. Esto también significó que muchas  empresas en todo el mundo s
+e vieron amenazadas por la misma brecha de  seguridad.   La Oficina Federal de Seguridad emite una a
+dvertencia  La Oficina Federal de Seguridad de la Información de Alemania ha sido  consciente de la 
+vulnerabilidad de los programas informáticos disponibles en  el mercado desde enero de 2020. El BSI 
+advierte de los ataques cibernéticos y,según sus propias declaraciones, está en estrecho contacto co
+n el Hospital  Universitario de Düsseldorf. No se han perdido datos Hasta ahora no hay pruebas de qu
+e los  datos hayan sido destruidos irremediablemente. Tampoco había pruebas, según la  situación act
+ual, de que se hubieran recuperado datos específicos. Desde hace una semana, los sistemas informátic
+os del hospital  universitario funcionan mal o sólo de forma limitada. Desde entonces, no se  pueden
+ admitir nuevos pacientes, los datos deben ser intercambiados con lápiz  y papel o a través de memor
+ias USB. Según Pfeiffer-Poensgen, probablemente  pasarán varias semanas antes de que los datos encri
+ptados puedan ser  restaurados. Más dinero para la seguridad informática en los hospitales en el fut
+uro  El gobierno estatal CDU/FDP quiere proporcionar más dinero para la  seguridad de los sistemas i
+nformáticos en el futuro. Sin embargo, el  procedimiento de solicitud aún no ha comenzado. Desde 201
+8, el gobierno  estatal ha puesto a disposición dos millones de euros para la seguridad  informática
+ de cada hospital universitario, dijo el ministro. "Eso es muy  poco, trabajaremos en ello". La razó
+n de la hora actual en el parlamento  estatal fue una moción de la facción de la AfD. Corrección: en
+ una primera versión del texto se hablaba de  investigaciones sobre homicidio involuntario. El Minis
+terio de Justicia de  Renania del Norte-Westfalia lo negó. Todavía era una investigación de muerte. 
+ Hemos corregido esto en la versión actual.   Ciberataque al Hospital Universitario de Düsseldorf: B
+SI advirtió de la  vulnerabilidad  En enero, la Oficina Federal de Seguridad de la Información advir
+tió de las debilidades. El ataque al hospital universitario de Düsseldorf no fue el  primero en un h
+ospital de Renania del Norte-Westfalia. El ataque de los hackers al hospital universitario de Düssel
+dorf podría  haberse evitado. Como declaró la Oficina Federal de Seguridad de la  Información (BSI),
+ ya había advertido de las debilidades de los sistemas  Citrix en enero. Por lo tanto, la autoridad 
+pide que se instalen  urgentemente las actualizaciones disponibles desde enero para cerrar la brecha
+  de seguridad. Las empresas y las autoridades no deberían posponer esto. El último ataque muestra l
+o peligrosos que pueden ser los agujeros de  seguridad. La BSI es consciente de la existencia de otr
+as redes  inadecuadamente aseguradas en las instalaciones, incluso en aquellas con  infraestructura 
+crítica.   Las infraestructuras críticas necesitan una alta seguridad informática  Después del ataqu
+e de los hackers, surge la pregunta fundamental: ¿Qué tan  seguros son los hospitales? ¿Y yo como pa
+ciente tengo que preocuparme por mis  datos? Porque: Düsseldorf no fue el primer caso. Ya en 2016, l
+os hackers paralizaron el sistema informático del Hospital  Lukas en Neuss durante semanas. Este fue
+ un intento de chantaje que el  hospital no aceptó, también para demostrar que es capaz de mantener 
+sus  propias operaciones de atención de la salud.   Demasiado poco personal informático cualificado 
+en los hospitales  Los hospitales se clasifican como Infraestructuras Críticas (KRITIS). Se trata  d
+e instituciones u organizaciones de gran importancia para el estado y la  población. Por eso los hos
+pitales también necesitan estructuras especiales de  seguridad informática, dice el experto en ciber
+seguridad Norbert Pohlmann,  profesor de la Westfälische Hochschule. Le dijo a la WDR: "En teoría, u
+n  ataque de hackers a la IT del hospital siempre puede ocurrir. Pero loshospitales deben asegurarse
+ de que su software no pueda ser atacado desde el  exterior". Otros sectores que también pertenecen 
+a la KRITIS - como los proveedores  de energía - están mucho mejor posicionados en este sentido, dij
+o Pohlmann. El  profesor universitario se queja de que aunque los hospitales prestan atención  a un 
+buen personal en el sector médico y de enfermería, los departamentos de  informática de los hospital
+es no tienen suficiente personal cualificado. En  otras palabras, muchos hospitales se han quedado d
+ormidos en la digitalización  y deben actuar ahora como muy tarde. Los hospitales podrían cooperar e
+n el área de la informática Una  solución podría ser que las clínicas compren software estándar pero
+ que luego  lo sellen desde el exterior de tal manera que los atacantes no puedan acceder  a él. Los
+ hospitales también podrían unir sus fuerzas y desarrollar un  software mucho más seguro que el está
+ndar. El software especial también es  considerablemente más caro, dijo Pohlmann. Hasta un 20 por ci
+ento más tendría  que ser pagado por ello. El gobierno del estado de NRW reaccionó  al último ataque
+ de hackers y quiere proporcionar más dinero para la seguridad  de los sistemas informáticos en el f
+uturo - probablemente 900 millones de  euros, 630 millones de los cuales provendrán de fondos federa
+les.  Traducción de las  noticias alemanas  gracias a @cibernicola, el cual es un seguidor y colabor
+ador de  Security News.Fuente: Security NewsEnviar esto por correo electrónicoBlogThis!Compartir en 
+TwitterCompartir en Facebook
+
+4AC5DDE2
+
+Paciente muere después de que un hospital alemán fuera afect
+ado por un ataque de ransomware;  los ciber delincuentes pensaron que estaban apuntando a una univer
+sidad y entregaron la clave de descifrado cuando descubrieron que era un hospital https://securitywe
+ek.com/german-hospital-hacked-patient-taken-another-city-dies…  #infosec
+
+4AC5DDE2
+
+Información gene
+ral.6 de cada 10 organizaciones fueron víctimas de ransomware en 2019, una cifra que va en aumento a
+ño a año debido al incremento en los pagos de rescates. Más de un tercio de las organizaciones exper
+imentaron seis o más ataques exitosos, y el 69% esperan sufrir uno este año.Aunque inicialmente el r
+ansomware se utilizaba de manera aleatoria, infectando usuarios a los que se pedían rescates de cien
+tos de dólares por recuperar el control de sus ordenadores, los ataques se han hecho mucho más dirig
+idos y ambiciosos, llegando a colapsar empresas e incluso ciudades. Nadie está a salvo de una amenaz
+a difícil de rastrear.Por otra parte, cuando alguien se pregunta sobre la mejor protección contra el
+ ransomware, lo primero en lo que probablemente se piense es una copia de seguridad, pero no todos l
+os backups son iguales; algunos pueden verse también infectados, otros no funcionar. ¿Cómo hacer fre
+nte a la amenaza? ¿Qué sectores están más expuestos? ¿Cómo puedes recuperarte de un ataque de ransom
+ware? Podrás conocer todas las respuestas en este webinar.Participan: Panda Security, Secure&IT, Sto
+rmshield, Bitdefender, Trend Micro, VMware, Sophos, SonicWall, ESET. 30 de septiembre de 2020 - 11:0
+0 (CET) ¡REGÍSTRATE! Si ya eres usuario de nuestra comunidad puedes apuntarte introduciendo tus dato
+s en el siguiente enlace. Al registrarte en este evento online aceptas que tus datos sean compartido
+s con los patrocinadores del mismo: Panda Security, Secure&IT, Stormshield, Bitdefender, Trend Micro
+, VMware, Sophos, SonicWall, ESET.
+
+4AC5DDE2
+
+#earmas RT SeguInfo: RT @danydupuyok: @SeguInfo excele
+nte clase ! Hoy Ransomware en Migraciones entre tantos otros temas! Genio mil gracias !!! @MarianaKi
+efer
+
+4AC5DDE2
+
+Ataques de ransomware. Cómo ayuda LumuIndependientemente de la vertical de su organi
+zación o su tamaño, existe un mal que está tratando de ingresar a su infraestructura y secuestrar su
+ información.Más información https://buff.ly/2ZLQg29#HablemosDeSeguridadVía @Contacto_Capa8
+
+4AC5DDE
+2
+
+Los ataques de ransomware se han estado incrementando durante los últimos meses, también aquellos
+ destinados a infraestructura...  artículo del blog #Protegerse de @ESET_ES
+
+4AC5DDE2
+
+Ataques de Ra
+nsomware a Infraestructura del Sector Público
+
+4AC5DDE2
+
+Resumen de ataques de #Ransomware en infrae
+structuras críticashttps://blogs.protegerse.com/2020/09/16/resumen-de-ataques-de-ransomware-en-infra
+estructuras-criticas/…#ciberseguridad #malware
+
+4AC5DDE2
+
+Recuerda proteger tu información con una p
+lanificación de desastres de todo tipo y tamaño: incendios, inundaciones, fraude, ransomware, cibera
+taques, fallas del sistema de energía o TI, errores humanos, terrorismo y otros escenarios impensabl
+es. https://bit.ly/2FdQtEp
+
+4AC5DDE2
+
+Muere una paciente del hospital Universitario de Düsseldorf tr
+as un ataque de Ransomware http://dlvr.it/RgqypJ
+
+4AC5DDE2
+
+¡¡Ampliamos la oferta hasta el 24 de sep
+tiembre!!Si quieres recibir más información, no dudes en ponerte en contacto con nosotros a info@lig
+ht-eyes.com#cyberdefence #malware #phishing #cybersecurite #ciberseguretat #teletreball #ransomware 
+#cybersecurity #cyberattack
+
+4AC5DDE2
+
+Terrible. Este podría ser el primer caso de una muerte vincul
+ada a un #ciberataque #Ransomware a un hospital, por la imposibilidad de prestar la atención necesar
+ia a tiempo (la paciente debió ser derivada a otro centro), en Düsseldorf, Alemania
+
+4AC5DDE2
+
+ Los 
+funcionarios del gobierno argentino se niegan a negociar con un grupo de ransomware que los obligó a
+ cerrar brevemente todos los puestos de control de inmigración el pasado 27 de agosto.De acuerdo con
+ un informe del 6 de septiembre en Bleeping Computer, un grupo de hackers que operaban el ransomware
+ Netwalker irrumpió dentro del sistema de la agencia de inmigración de Argentina, Dirección Nacional
+ de Migraciones, el 27 de agosto y exigió inicialmente un pago de USD 2 millones para restaurar sus 
+servidores.Liquid de Blockstream apuesta por el ecosistema DeFi con un nuevo exchange descentralizad
+o"Sus archivos están encriptados", decía la nota de rescate en una página de pago de Tor enviada a l
+a agencia de inmigración. "La única forma de desencriptar tus archivos es comprar el programa desenc
+riptador".El grupo posteriormente publicó un lote selecto de datos sensibles de la agencia para demo
+strar que fueron los responsables del incidente. Después de una semana, los perpetradores aumentaron
+ el rescate a un pago de 355.8718 Bitcoin (BTC), aproximadamente unos USD 4 millones de para ese ent
+onces.Municipio Rosario se suma a Blockchain Federal ArgentinaEl medio de noticias argentino, Infoba
+e, informó que el ataque detuvo efectivamente todos los cruces fronterizos de entrada y salida del p
+aís durante cuatro horas. Durante el cierre, las autoridades desconectaron todas las redes informáti
+cas utilizadas por los funcionarios del departamento de inmigración en las oficinas regionales y pun
+tos de control. Los funcionarios gubernamentales supuestamente dijeron que "no negociarán con los ha
+ckers" y no están preocupados por recuperar los datos robados.Aunque los hackers que implementan ran
+somware no están restringidos por fronteras, esta situación en Argentina es un raro ejemplo de un ci
+berataque que afecta a un organismo del gobierno nacional.Hablando con Cointelegraph, Brett Callow, 
+analista de amenazas y experto en ransomware del laboratorio de malware Emsisoft, dijo que estos ata
+ques tenían el potencial de ser perturbadores e implicar la filtración de datos extremadamente delic
+ados al público en general.Los Ositos Cariñositos, Roger Ver y timadores en Tesla: malas criptonotic
+ias de la semana"En el caso de los departamentos gubernamentales, esto es particularmente problemáti
+co ya que los datos pueden ser a menudo extremadamente delicados, y en algunos casos incluso represe
+ntar un riesgo para la seguridad nacional", dijo Callow. "Más de 1 de cada 10 ataques de ransomware 
+involucra ahora el robo de datos, y la lista de grupos que roban rutinariamente está en constante cr
+ecimiento. En consecuencia, es muy probable que incidentes como este se vuelvan cada vez más comunes
+".Sigue leyendo:Liquid de Blockstream apuesta por el ecosistema DeFi con un nuevo exchange descentra
+lizadoMunicipio Rosario se suma a Blockchain Federal ArgentinaLos Ositos Cariñositos, Roger Ver y ti
+madores en Tesla: malas criptonoticias de la semanaTesla y el FBI detienen un ataque de ransomware d
+e $4 millones de dólaresUna base de datos de aviación fue atacada por una banda desconocida de ranso
+mwareArgentina es el mejor rankeado en Latam en el sector Tecnología. México el peor, según Coursera
+Los ataques de ramsomware más maliciosos exigen pagos con criptomonedas 
+
+4AC5DDE2
+
+Seis de cada die
+z organizaciones fueron víctimas de #ransomware  en 2019. ¿Cómo hacer frente a la #amenaza? Nuestro 
+director general @pacovalencia74 participa en el #webinarde @ITDS_ITDM "La persistencia del ransomwa
+re". ¡Inscríbete ya! 
+
+4AC5DDE2
+
+Ransomware, la otra pandemia
+
+4AC5DDE2
+
+Una mujer muere víctima de 
+un ataque de ransomware contra un hospital | Léelo en https://teknofilo.com/una-mujer-muere-victima-
+de-un-ataque-de-ransomware-contra-un-hospital/…
+
+4AC5DDE2
+
+Los niños de primaria de California inici
+aron el aprendizaje en línea mediante ransomware. El ataque al distrito de Newhall en Valencia es pa
+rte de una ola de ataques de ransomware en el sector educativo, que no da señales de disiparse. Mien
+tras los estudiantes regresan al aula,
+
+4AC5DDE2
+
+Además, México está segundo entre las naciones con
+ el porcentaje más alto por afectaciones de ransomware. 
+
+4AC5DDE2
+
+Ahora, con el revuelo que hay co
+n lo del asesinato por culpa de unos cibercriminales que infectaron un hospital con Ransomware, espe
+ro se tome más en serio la ciberseguridad en todos lados.
+
+4AC5DDE2
+
+Seguinfo: Muere una paciente de
+l hospital Universitario de Düsseldorf tras sufrir el propio hospital un ataque de Ransomware. https
+://ift.tt/2RCOawY
+
+4AC5DDE2
+
+NCSC intensifica el soporte de ransomware para escuelas y universidades
+
+
+4AC5DDE2
+
+Ya son 9 charlas de gran valor, sobre #ciberseguridad de alto nivel en nuestro seminario
+ SISAP Hoy con Mauricio Nanne@Melinton7Paul Bernal Barzallo#DannyPanton#SISAP #ciberataques #ransomw
+are #vulnerabilidad #phishing #seguridadinformática #threati…
+
+4AC5DDE2
+
+Los ataques de #ransomware 
+encriptan tus datos liberándolos mediante el pago del secuestro. Auditamos tus sistemas para conocer
+ las vulnerabilidades del mismo. Implantamos políticas de seguridad informática http://ow.ly/Ug9F30f
+D61O
+
+4AC5DDE2
+
+¿Qué es el #ransomware? ¿Podemos evitarlo?#mantenimientoinformatico¿Cómo estar mejor
+ preparados ante una nueva ola de ransomware?0 comments on commit 740dca0@FinnleyStokes  Leave a com
+mentAttach files by dragging & dropping, selecting or pasting them. You’re receiving notifications b
+ecause you’re watching this repository.© 2020 GitHub, Inc.TermsPrivacySecurityStatusHelpContact GitH
+ubPricingAPITrainingBlogAbout

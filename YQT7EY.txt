@@ -1,0 +1,3143 @@
+Bei Ransomware ist das normal, leider.
+
+4AC5DDE2
+
+"Ich krieg hier schon wieder nen dicken Hals ey. D
+ie Uniklinik Düsseldorf hat nach einem Ransomware-Befall eine Patientin sterben lassen."
+http://blog
+.fefe.de/?ts=a19dfb18
+
+4AC5DDE2
+
+Ransomware-Angriffe als Folge von Shitrix
+
+8(!) Monate(!) haben man
+che auf ihrer Backdoor geschlummert, bis sie losgelegt haben.
+
+Mit schlecht entwickelter Enterprise 
+Software ist nicht zu spaßen! Patchen & Systeme prüfen, liebe Leute.
+
+Hört aufs @BSI_Bund
+
+4AC5DDE2
+
+
+
+Todesermittlungsverfahren der Staatsanwaltschaft Wuppertal
+Auch die Uniklinik selbst hat in einer 
+Pressemitteilung bestätigt, dass die Ermittlungen einen Hacker-Angriff als Ursache für den IT-Ausfal
+l ergeben hätten. Eine konkrete Lösegeldforderung gab es aber nach Angaben der Uniklinik nicht.
+
+
+
+
+
+
+
+
+
+Isabel Pfeiffer-Poensgen (parteilos), NRW-Wissenschaftsministerin.
+
+
+
+Nach Angaben des NRW-Justi
+zministeriums führt die Staatsanwaltschaft Wuppertal ein Todesermittlungsverfahren. Eine lebensbedro
+hlich erkrankte Patientin, die in der Nacht vom 11. auf den 12. September in die Uni-Klinik gebracht
+ werden sollte. "Das war allerdings nicht möglich, weil die Klinik aufgrund eines Hackerangriffs lah
+mgelegt war," sagt der Wuppertaler Oberstaatsanwalt Wolf-Tilman Baumert. Von daher sei der Rettungsw
+agen umgeleitet worden zu einem Wuppertaler Krankenhaus. "Was ungefähr eine halbe Stunde länger daue
+rte, als der Transport nach Düsseldorf. Leider ist die Patientin unmittelbar nach Einlieferung in da
+s Krankenhaus in hier Wuppertal verstorben", sagte Baumert. Könne eine Mitschuld der Hacker nachgewi
+esen und diese gefasst werden stehe auch der Vorwurf des Mordes im Raum.
+Uniklinik als Zufallsziel?
+
+Die Polizei habe auf das Erpresserschreiben hin Kontakt zu den Erpressern aufgenommen und erklärt, d
+ass es sich bei den betroffenen Servern um Systeme eines Notfallkrankenhauses handele, führte Pfeiff
+er-Poensgen im Landtag aus. Die Erpresser hätten dann den Schlüssel zum Entschlüsseln der Server her
+ausgegeben. Das unterstütze die These, dass die Erpresser mit ihrer Aktion die Universität, nicht ab
+er die Klinik treffen wollten, so die Ministerin.
+Wie die Uniklinik mitgeteilt hat, befand sich die 
+Sicherheitslücke in einer "weitweit verbreiteten" und "marktüblichen" Zusatz-Software. Bis die Exper
+ten der Uniklinik diese Lücke schließen konnten, habe es ein Zeitfenster gegeben, in dem die Täter i
+n das System hätten eindringen können. Das bedeute auch, dass weltweit sehr viele Unternehmen durch 
+die gleiche Sicherheitslücke gefährdet waren.
+Bundesamt für Sicherheit gibt Warnung raus
+Dem Bundesa
+mt für Sicherheit in der Informationstechnik ist die Schwachstelle in einer handelsüblichen Software
+ seit Januar 2020 bekannt. Das BSI warnt vor Cyberübergriffen und steht nach eigenen Angaben im enge
+n Austausch mit dem Düsseldorfer Uniklinikum.
+Keine Daten verloren
+Bisher gebe es keine Anhaltspunkt
+e dafür, dass Daten unwiederbringlich zerstört worden sind. Auch für das Abfischen von konkreten Dat
+en gebe es nach heutigem Stand keine Belege.
+Seit einer Woche funktionieren die Computersysteme der 
+Uniklinik nicht mehr oder nur eingeschränkt. Seitdem können keine neuen Patienten mehr aufgenommen w
+erden, Daten müssen mit Stift und Papier oder per USB-Sticks ausgetauscht werden. Bis die verschlüss
+elten Daten wiederhergestellt sind, dauert es nach Angaben von Pfeiffer-Poensgen wohl noch mehrere W
+ochen.
+Zukünftig mehr Geld für IT-Sicherheit an Kliniken
+Die CDU/FDP-Landesregierung will künftig me
+hr Geld für die Sicherheit der Computersysteme bereitstellen. Das Antragsverfahren sei allerdings no
+ch nicht angelaufen. Die Landesregierung stelle seit 2018 für jede Uniklinik zwei Millionen Euro für
+ die IT-Sicherheit bereit, sagte die Ministerin. "Das ist in der Tat zu wenig, daran werden wir arbe
+iten." Grund für die Aktuelle Stunde im Landtag war ein Antrag der AfD-Fraktion.
+Korrektur: In einer
+ ersten Version des Textes war von Ermittlungen wegen fahrlässiger Tötung die Rede. Das hat das Just
+izministerium NRW dementiert. Es handele sich noch um ein Todesermittlungsverfahren. Wir haben das i
+n der aktuellen Version korrigiert.
+
+
+4AC5DDE2
+
+Ransomware-Angriff auf die Brugg Group betrifft welt
+weite Systeme. #CyberSecurity #Schweiz https://inside-it.ch/de/post/ransomware-angriff-auf-die-brugg
+-group-betrifft-weltweite-systeme-20200917#.X2OYDoNEPoA.twitter…
+
+4AC5DDE2
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+17. Sep
+tember 2020 um 19:27 Uhr 
+
+
+
+
+                    Ermittlungen in einem Todesfall
+        :
+        
+    Düsseldorfer Uniklinik von Hackern erpresst - Frau stirbt nach zu später Behandlung
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  Die Uniklinik in Düsseldorf wurde von H
+ackern angegriffen.
+                                                      Foto: dpa/Roland Weihrauch
+
+
+
+
+
+
+
+Düsseldorf      Ein Hacker-Angriff mit Erpressung hat den IT-Ausfall an der Düsseldorfer Unik
+linik ausgelöst. Das Erpresserschreiben war aber an die Heinrich-Heine-Uni gerichtet. Es laufen Ermi
+ttlungen in einem Todesfall.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Teilen  
+
+
+ Weiterleiten  
+
+
+ Tweeten  
+
+
+       
+            Weiterleiten
+  
+
+
+ Drucken
+
+
+
+ 
+ 
+
+Hintergrund des Ausfalls ist nach Analyse von Experte
+n ein Hackerangriff, der eine Schwachstelle in einer Anwendung ausnutzte, wie die Uniklinik am Donne
+rstag mitteilt. Allerdings wird nun auch in einem Todesfall ermittelt. Laut Bericht des NRW-Justizmi
+nisters starb eine Patientin, die wegen des Angriffs auf die Server der Klinik in ein weiter entfern
+tes Krankenhaus nach Wuppertal gebracht werden musste. [Hinweis: Die Staatsanwaltschaft führt ein To
+desermittlungsverfahren (derzeit kein Verfahren wegen fahrlässiger Tötung, wie zunächst gemeldet). Z
+urzeit wird noch geprüft, ob es auf den Vorwurf der fahrlässigen Tötung erweitert wird.] 
+ 
+Am Donne
+rstag, 10. September, war die IT des größten Düsseldorfer Krankenhauses weitgehend ausgefallen. Durc
+h den Ausfall sind bereits Hunderte Operationen und Behandlungen ausgefallen. Zudem ist das Krankenh
+aus weiterhin von der Notfallversorgung abgemeldet, wird also nicht von Rettungsdiensten angefahren.
+
+ 
+Wissenschaftsministerin Isabel Pfeiffer-Poensgen (parteilos) sagte im Landtag, die Täter hätten n
+ach Kontakt zur Polizei die Erpressung zurückgezogen. Die Sicherheitslücke, die die Hacker ausnutzte
+n, habe sich in einer marktüblichen und weltweit verbreiteten kommerziellen Zusatzsoftware befunden,
+ teilt die Uniklinik mit. In dem Zeitfenster, das die Softwarefirma zum Schließen der Lücke benötigt
+e, seien die Täter in die Systeme eingedrungen. Dadurch fielen nach und nach Systeme aus, Zugriffe a
+uf gespeicherte Daten waren nicht mehr möglich, berichtet die Klinik.
+ 
+Erpresserschreiben an Heinri
+ch-Heine-Uni  
+ 
+Aus einem Bericht des Justizministers ging hervor, dass vergangene Woche 30 Server 
+des Klinikums verschlüsselt wurden. Auf einem Server wurde ein Erpresserschreiben hinterlassen, das 
+allerdings an die Düsseldorfer Heinrich Heine-Uni gerichtet war. In dem Schreiben forderten die Erpr
+esser zur Kontaktaufnahme auf - eine konkrete Summe nannten sie laut Bericht nicht.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+                IT-Ausfall mit gravierenden Folgen
+      
+    :     Hunderte Eingr
+iffe in der Uniklinik Düsseldorf fallen aus 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+     
+           Staatsanwaltschaft Düsseldorf
+      
+    :     IT-Ausfall an Uniklinik möglicherweise Fal
+l von Computersabotage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+                IT-System beschädigt
+      
+
+    :     Ausfälle an der Uniklinik Düsseldorf können noch Wochen dauern
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+        
+        Nur eingeschränkt erreichbar
+      
+    :     Uniklinik Düsseldorf sagt wegen IT-Problemen O
+perationen ab
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                Uniklinik Düsseldorf
+      
+    :     IT-Ausfall bet
+rifft hunderte Patienten - viele OPs abgesagt
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                Hackerangriff in Düs
+seldorf
+      
+    :     Krankenhäuser bieten zu viel Angriffsfläche
+
+
+
+
+
+
+
+
+
+zurück
+          
+
+
+we
+iter
+          
+
+
+
+
+
+Die Düsseldorfer Polizei habe dann tatsächlich Kontakt aufgenommen und den Täte
+rn mitgeteilt, dass sie durch ihren Hackerangriff ein Krankenhaus - und nicht die Uni - betroffen se
+i. Damit seien Patienten erheblich gefährdet. Die Täter hätten daraufhin die Erpressung zurückgezoge
+n und einen digitalen Schlüssel ausgehändigt, mit dem die Daten wieder entschlüsselt werden können. 
+Die Ermittler haben laut Bericht daher den Verdacht, dass das Uni-Klinikum nur zufällig betroffen wa
+r. Inzwischen seien die Täter nicht mehr erreichbar.
+ 
+Die IT-Experten haben mittlerweile den Zugang
+ zu den Daten wiederherstellen können. Bisher gebe es keine Anhaltspunkte dafür, dass Daten unwieder
+bringlich zerstört worden sind. Auch für das Abfischen von konkreten Daten seien bislang keine Beleg
+e gefunden worden.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Uniklinik rechnet damit, dass es noch einige Zeit dauern 
+wird, bis Patienten wieder normal behandelt werden können. „Aufgrund des Umfangs des IT-Systems und 
+der Fülle an Daten können wir noch nicht abschätzen, wann dieser Prozess abgeschlossen sein wird“, s
+agte der Kaufmännische Direktor, Ekkehard Zimmer. „Wir sind aber zuversichtlich, dass wir in den näc
+hsten Tagen die Zeitspanne besser abschätzen können und dann auch Schritt für Schritt wieder für uns
+ere Patientinnen da sind.“
+ 
+Nach mehreren Hacker-Angriffen auf Kliniken in Nordrhein-Westfalen will
+ die CDU/FDP-Landesregierung künftig mehr Geld für die Sicherheit der Computersysteme bereitstellen.
+ NRW bekomme aus dem Bund-Länder-Krankenhauszukunftsgesetz 2020/21 voraussichtlich Fördermittel in H
+öhe von 900 Millionen Euro, davon 630 Millionen aus Bundesmitteln. Das sagte Wissenschaftsministerin
+ Pfeiffer-Poensgen.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Mindestens 15 Prozent dieser Mittel müssten in die IT-Sicherheit f
+ließen. Alle Krankenhäuser sollten unabhängig von der Patientenzahl Mittel bekommen. Das Antragsverf
+ahren sei aber noch nicht angelaufen. Die CDU/FDP-Landesregierung stelle seit 2018 für jede Uniklini
+k zwei Millionen Euro für die IT-Sicherheit bereit, sagte die Ministerin. „Das ist in der Tat zu wen
+ig, daran werden wir arbeiten.“
+ 
+Grund für die Anfälligkeit der Kliniken für Hackerangriffe ist nac
+h Ansicht der Grünen nicht nur das fehlende Geld. Es seien auch „solide rechtliche Standards“ nötig,
+ sagte der Grünen-Fachpolitiker Matthi Bolte-Richter in der Aktuellen Stunde des Landtags zum Hacker
+angriff auf die Uniklinik.
+ 
+Der Bund müsse hier klare Vorgaben machen. Viele Hochschulen und Klinik
+en hätten immer noch keine Vollzeit-IT-Sicherheitsbeauftragten.
+ 
+In NRW waren neben der Uniklinik i
+n Düsseldorf das Lukaskrankenhaus in Neuss, das Forschungszentrum Jülich sowie mehrere Unternehmen i
+n der Vergangenheit Ziele von Hackerangriffen.
+ (csr/hebu/top/dpa)
+
+
+4AC5DDE2
+
+Hacken kann u.U. tödl
+ich sein, der Angriff auf die Uni Düsseldorf forderte vermutlich ein Menschenleben da das Klinikum v
+om Angriff mit betroffen war. Alle Umstände werden noch untersucht. Also nicht einfach drauf los hac
+ken ! #hacken #universität #Ransomware
+
+4AC5DDE2
+
+
+Der Cyber-Angriff auf die Universitätsklinik Düss
+eldorf erfolgte wohl über einen Citrix-VPN-Server, über den typischerweise externe Mitarbeiter Zugri
+ff auf das Firmennetz bekommen sollen. Eine im Dezember bekannt gewordene Sicherheitslücke erlaubte 
+es auch Kriminellen, sich auf diesem Weg Zugriff zu verschaffen. Das lässt sich unter anderem einer 
+Presseerklärung des in die Aufräumarbeiten einbezogenen Bundesamts für Sicherheit in der Information
+stechnik (BSI) entnehmen.
+
+
+
+Dieser Vorfall reiht sich nahtlos in die immer weiter eskalierende Gefa
+hren-Situation ein, die der Artikel Cybercrime: Erpressung auf neuem Niveau beschreibt. Organisierte
+ kriminelle Banden attackieren auf hohem technischen Niveau Firmen, Organisationen und eben auch Kra
+nkenhäuser, die auf diese Art von Bedrohung nur unzureichend vorbereitet sind. Unter Umständen ist e
+s jetzt erstmals im Zusammenhang mit einer solchen Erpressung zu einem Todesfall gekommen.
+Die Nachw
+ehen von Shitrix
+Eingestiegen ins Netz des Klinikums sind die Angreifer offenbar über eine Sicherhei
+tslücke in der Citrix-VPN-Software, die unter dem Namen "Shitrix" bekannt wurde (CVE-2019-19781). Da
+s Besondere an dieser Lücke ist, dass es eben nicht genügte, die im Januar vom Hersteller bereitgest
+ellten Patches einzuspielen. Denn offenbar wurden viele Systeme bereits zuvor kompromittiert und mit
+ einer Backdoor versehen, wie unter anderem das BSI wiederholt warnte. 
+
+Diese unbemerkten Hintertür
+zugänge haben die Kriminellen dann in den folgenden Monaten der Reihe nach "abgearbeitet". Wer sein 
+System zwar gepatcht, aber eine bereits zuvor installierte Hintertür übersehen hat, bekam früher ode
+r später ungebetenen Besuch. Der breitete sich dann systematisch weiter im Netz aus, um dann irgendw
+ann wichtige Daten zu verschlüsseln und für deren Freigabe Lösegeld zu fordern. Genau das ist offenb
+ar in Düsseldorf passiert, deren Server zwar gepatcht, aber zuvor schon von Kriminellen mit einer Hi
+ntertür versehen waren.
+
+
+Wer steckt dahinter?
+
+Hinter diesen infamen Angriffen stecken gut organisi
+erte, international operierende Cybercrime-Banden. Unter anderem REvil (Sodinokibi), Ragnarok, Doppe
+lPaymer und Maze sind bekannt dafür, die Shitrix-Lücke gezielt auszunutzen, um einen Fuß in die Tür 
+zu bekommen. Welche dieser Banden in Düsseldorf aktiv war, ist bislang nicht bekannt; mit etwas Glüc
+k lassen die Ergebnisse der forensischen Untersuchungen eine konkretere Zuordnung zu.
+Das zu Beginn 
+der Corona-Pandemie unter anderem von der Cybercrime-Gang Maze großspurig verkündete Moratorium der 
+Angriffe auf medizinische Einrichtungen war im Übrigen nie mehr als ein billiger PR-Gag, mit dem sic
+h Kriminelle ein Robin-Hood-Image geben wollten. Im Gegenteil nutzen Cyber-Kriminelle die Gunst der 
+Stunde aktiv aus. So warnte Interpol schon bald danach vor einem signifikanten Anstieg der Cyber-Ang
+riffe auf medizinische Einrichtungen; die WHO berichtete im April, dass sich deren Zahl  sogar verfü
+nffacht habe.
+
+
+(ju)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+      Kommentare lesen
+      (19)
+    
+  
+
+
+
+          Zur Startseite
+        
+
+
+
+
+4AC5DDE2
+
+Mehr als 80% aller Cybersicherheitsvorfälle entste
+hen durch menschliche Fehler. Ob #Phishing-E-Mails, #Ransomware-Angriffe oder schädliche Links - vie
+le Angriffstechniken zielen auf die Endgeräte von Mitarbeitern ab. Kaspersky schafft hier Abhilfe: h
+ttps://kas.pr/sec-awareness #ITSec
+
+4AC5DDE2
+
+Gibt es auch ein Ermittlungsverfahren gegen die IT Ver
+antwortlichen der Klinik?
+Kann ja nicht sein, dass man "einfach so" mit Ransomware ne Klinik offline
+ nimmt.
+Das ist ja keine neuartige Angriffsmethode, dagegen müsste man inzwischen gewappnet sein.
+
+4
+AC5DDE2
+
+Laut Fefes Blog töten (vermutlich) #Microsoft und eine Klinik Menschen:
+https://blog.fefe.d
+e/?ts=a19dfb18
+#ransomware
+
+4AC5DDE2
+
+Ransomware? Erpressung? Wertvolle Daten bei großen Unternehmen
+? Lösegeld?
+
+Warum soll man sich mit Privatanwendern zufrieden geben wenn man bei großen Unternehmen
+ reinspazieren kann um Geld abzugreifen? Frag mal Garmin ob die meinen es wäre besser sich Privatuse
+r zu konzentrieren
+
+4AC5DDE2
+
+Die #Ransomware-Infektion am Uniklikum Düssldorf soll jetzt ein Mensch
+enleben gekostet haben. Da stellt sich die Schuldfrage.
+
+4AC5DDE2
+
+Patientin stirbt nach Ransomware-
+Angriff - https://is.gd/rlAQKQ
+
+4AC5DDE2
+
+#Deutschland: Tote nach Hackerangriff! Die Düsseldorfer Po
+lizei ermittelt wegen Computersabotage und fahrlässiger Tötung. #CyberSecurity #Ransomware #Malware 
+via @futurezoneat
+
+4AC5DDE2
+
+
+TLDR: "Nenn es dann, wie du willst [...] Name ist Schall und Rauch" – 
+im Zweifelsfall schlag bei Malpedia nach.
+
+
+
+Es passiert immer wieder so oder so ähnlich: Microsoft 
+präsentiert Informationen, wie die Hacker-Gruppe "Strontium" versucht, die US-Wahlen zu beeinflussen
+. Doch nur Eingeweihte bekommen mit, dass das dieselben sind, die bereits die letzten US-Wahlen mani
+puliert haben und 2015 in den Bundestag eingebrochen sind.
+ Denn in den Berichten zum Bundestag-Hack
+ war typischerweise von "Sofacy" die Rede. Oder von "Fancy Bear". Andere Berichte über die Aktivität
+en der vermutlich russischen Elite-Hacker reden von APT28, Sednit, Pawn Storm oder Tsar Team. Alles 
+Namen für die gleiche Gruppe. In der Security-Szene herrscht ein geradezu babylonisches Sprachwirrwa
+rr, das nicht selten dazu führt, dass Menschen wichtige Zusammenhänge nicht erkennen oder aneinander
+ vorbeireden.
+
+
+
+
+
+
+
+
+
+
+ 
+MITRE listet mittlerweile 107 Gruppierungen als aktive Cyber-Bedrohung; vi
+ele davon haben einen staatlichen Hintergrund.
+
+
+
+Das Viren-Chaos
+Dieses Namenswirrwarr hat Traditio
+n. So konnten sich schon die Hersteller von Antiviren-Software nicht auf gemeinsame Namen für die vo
+n ihnen entdeckten Schädlinge einigen. Je nach Hersteller hieß der Virus da LoveSan, MSBlast oder au
+ch Blaster (und war eigentlich gar kein Virus, sondern ein Wurm – aber das ist eine andere Geschicht
+e).
+Das Problem war und ist, dass die Schad-Programme beziehungsweise bösartige Aktivitäten zumeist 
+von verschiedenen Malware-Analysten unabhängig voneinander entdeckt werden, die sie dann auch gleich
+ mit einem Namen versehen. Und bei dem bleiben sie dann in aller Regel auch.
+Neben dem Stolz, der es
+ nicht zulässt, einfach den Namen der Konkurrenz zu übernehmen, kommt da auch ein weiterer Faktor hi
+nzu: Eigentlich ist es ja ein tolles Alleinstellungsmerkmal, wenn man schreiben kann, dass die eigen
+e Software den neuen "SuperDestroyer" bereits entdeckt und stoppen kann, während die Konkurrenz zu d
+em Thema nichts vorzuweisen hat. Dass die das Teil unter dem Namen "DataKiller" führen, muss man dem
+ Kunden ja nicht auf die Nase binden.
+
+Die NSA hat viele Namen
+Ähnlich läuft es bei den Hacking-Akti
+vitäten und der dabei eingesetzten Malware. Hätten Sie gewusst, dass die Aktivitäten von NSA/CIA sow
+ohl unter dem Label "The Equation Group" (Kaspersky) als auch als "The Lamberts" (ebenfalls Kaspersk
+y) oder "Longhorn" (Symantec) diskutiert werden? Oder dass die Ransomware Dharma (Microsoft, Trend M
+icro u.a.) auch unter Crysis (u.a. McAfee, Malwarebytes) firmiert?
+
+
+
+
+
+
+
+
+
+
+ 
+Wenn es um APT, Cyber
+crime oder Malware geht, gibt Malpedia einen guten Einstieg in die weitere Recherche.
+
+
+
+Erschwerend
+ hinzu kommt, dass die Cybercrime-Szene sehr unübersichtlich geworden ist. Wer mal eben ganz unbefan
+gen meinen Artikel zu Cybercrime: Erpressung auf neuem Niveau liest, wird sehr schnell mit Begriffen
+ wie Trickbot, Ryuk, Maze, Ragnar Locker, REvil und DoppelPaymer konfrontiert. Das sind die Namen vo
+n (verschiedenen) Cybercrime-Banden beziehungsweise der von ihnen eingesetzten Schad-Software. Und d
+as sind nur die Bekanntesten; dahinter folgt eine kaum mehr überschaubare Heerschar von Newcomern un
+d Nachahmern. Auch die Zahl der bekannten APT-Akteure wie Sofacy & Co wächst ständig. Allein hier li
+stet etwa die MITRE mittlerweile 107 verschiedene Gruppen.
+Tipps zu Orientierung
+Wer das alles im Ko
+pf hat, lernt vermutlich auch zum Frühstück Telefonbücher auswendig – könnte man ja mal brauchen. Fü
+r alle anderen folgen hier ein paar praktische Tipps, sich einen Überblick zu verschaffen beziehungs
+weise im Zweifelsfall die richtigen Querverbindungen aufzuspüren.
+1) Auf der bereits erwähnten Seite
+ zu MITRE ATT&CK Groups gibt es einen Überblick zu den Namen mit kurzen Beschreibungen der Gruppen. 
+Leider wird man da etwa bei Trickbot oder Emotet nicht fündig. Denn die listet MITRE nur unter Softw
+are.
+2) Im Rahmen der MISP Threat Sharing Plattform zum Austausch von Security-Informationen sind di
+e MISP Galaxy Cluster entstanden. Im Prinzip ist das eine riesige Datenbank mit allen in diesem Bere
+ich relevanten Begriffen und deren Beziehungen untereinander. Man kann die entweder über eine gigant
+ische HTML-Seite oder die MISP-Software nutzen. Beides ist für "mal eben schnell was nachschauen" ni
+cht wirklich praktisch.
+3) Das Fraunhofer FKIE betreibt mit Malpedia eine Web-Site, die einen sehr g
+uten Zugang zu Informationen rund um Malware und deren Profiteure bietet. Ihr Datenbestand beruht au
+f den MISP Galaxys. Tippt man in das Suchfeld etwa Strontium ein, landet man direkt beim Eintrag für
+ Sofacy, erhält eine Liste aller Aliases der Gruppe und eine Liste von ausgewählten Veröffentlichung
+en, die sich auf deren Aktivitäten beziehen.
+
+
+Das alles löst natürlich längst nicht alle Probleme, 
+die sich aus dem babylonischen Sprachwirrwarr ergeben. Die Leute werden auch weiter aneinander vorbe
+ireden oder wichtige Zusammenhänge nicht verstehen. Eigentlich will man eine einheitliche Nomenklatu
+r, die das vermeidet. Aber das ist schon bei den Viren nicht gelungen und ich habe wenig Hoffnung, d
+ass es jetzt klappen wird.
+Doch zumindest kann man mit Diensten wie Malpedia das Beste aus dieser Si
+tuation machen. Ich jedenfalls habe mir angewöhnt, bei Berichten von Security-Firmen die verwendeten
+ Namen dort abzufragen. Und das ergab schon die eine oder andere Erleuchtung.
+
+
+(ju)
+
+
+
+
+
+
+comments_
+outline_white
+
+
+
+    
+      Kommentare lesen
+      (5)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+
+4AC5DDE2
+
+
+Am 17. August 2020 starb nach einem Erpresserangriff auf die Uniklinik Düsseldorf eine
+ Patientin. Der Hacker-Angriff hatte am Dienstag weite Teile der Uniklinik lahmgelegt. Die Staatsanw
+altschaft hat ein Todesermittlungsverfahren eingeleitet.
+Mit dem anhaltenden Ausfall des IT-Systems 
+am Düsseldorfer Uniklinikum nach einem mutmaßlichen Hackerangriff wuchs die Zahl der betroffenen Pat
+ienten von Tag zu Tag. Nur noch ungefähr die Hälfte der etwa 1000 Patienten in einer stationären Beh
+andlung konnten noch versorgt werden.
+Laut einem Bericht des Justizministers wurden vergangene Woche
+ 30 Server des Klinikums verschlüsselt. Auf einem Server wurde ein Erpresserschreiben hinterlassen, 
+das allerdings an die Düsseldorfer Heinrich Heine-Uni gerichtet war.
+Die Düsseldorfer Polizei nahm K
+ontakt auf und hat den Tätern mitgeteilt, dass sie durch ihren Hackerangriff ein Krankenhaus – und n
+icht die Uni – betroffen sei. Damit seien Patienten erheblich gefährdet. Die Täter hätten daraufhin 
+die Erpressung zurückgezogen und einen digitalen Schlüssel ausgehändigt, mit dem die Daten wieder en
+tschlüsselt werden können.
+Uni Klinik Düsseldorf Twitter Feed (Bildquelle: Universität Düsseldorf)
+S
+eit Donnerstag letzter Woche (10.9.) war das IT-System des Universitätsklinikums Düsseldorf (UKD) we
+itreichend gestört. Daher ist das UKD weiterhin von der Notfallversorgung abgemeldet und Patienten m
+it Terminen sollten zur Abstimmung Kontakt mit der behandelnden Abteilung aufnehmen.
+Nach Informatio
+nen der Staatsanwaltschaft und des Justizministeriums hat die Polizei in Zusammenarbeit mit externen
+ Spezialisten und den IT-Fachleuten der Klinik inzwischen konkrete Anhaltspunkte für die Ursache erm
+ittelt. Hintergrund des Ausfalls ist nach diesen Analysen ein Hackerangriff, der eine Schwachstelle 
+in einer Anwendung ausnutzte. Die Sicherheitslücke befand sich in einer marktüblichen und weltweit v
+erbreiteten kommerziellen Zusatzsoftware. Bis zur endgültigen Schließung dieser Lücke durch die Soft
+warefirma war ein ausreichendes Zeitfenster gegeben, um in die Systeme einzudringen. Als Folge des d
+amit ermöglichten Sabotageakts fielen nach und nach Systeme aus, Zugriffe auf gespeicherte Daten war
+en nicht mehr möglich.
+Die IT-Experten konnten mittlerweile den genauen Umfang analysieren und den Z
+ugang zu den Daten wiederherstellen. Bisher gibt es keine Anhaltspunkte dafür, dass Daten unwiederbr
+inglich zerstört worden sind. Auch für das Abfischen von konkreten Daten gibt es nach heutigem Stand
+ keine Belege. Eine konkrete Lösegeldforderung gab es nicht.
+„Wir danken als Vorstand allen unseren 
+Beschäftigten und insbesondere unseren IT-Fachleuten für die hervorragende Arbeit in dieser schwieri
+gen Situation. Ganz besonders wollen wir die gute Zusammenarbeit mit der Polizei, dem LKA und den hi
+nzugezogenen IT-Experten herausstellen. Sie haben innerhalb kurzer Zeit herausarbeiten können, dass 
+es sich um einen Angriff von außen handelte und nicht um einen Fehler eines Nutzers. Es war also nic
+ht nur das Universitätsklinikum durch die Sicherheitslücke gefährdet, sondern weltweit sehr viele Un
+ternehmen,“ erläutert Prof. Dr. Frank Schneider, Ärztlicher Direktor des UKD.
+In NRW waren neben der
+ Uniklinik in Düsseldorf das Lukaskrankenhaus in Neuss, das Forschungszentrum Jülich sowie mehrere U
+nternehmen in der Vergangenheit Ziele von Hackerangriffen. In Deutschland war wegen einer Ramsomware
+-Attacke die Universität Gießen um Weihnachten 2019 mehrere Wochen komplett oder teilweise offline.
+
+
+
+
+ANZEIGE
+Kollaborationsplattform Slack: Effizient arbeiten – egal von wo
+Vor COVID-19 war Remote-W
+ork für viele Unternehmen fast undenkbar. Heute haben sie erkannt, dass es sehr gut funktionieren ka
+nn, wenn die Rahmenbedingungen stimmen. Erfahren Sie in diesem Webinar, wie Sie mit der Kollaboratio
+nslösung Slack auf die veränderten Arbeitsbedingungen optimal reagieren können.
+
+
+
+						Jetzt regi
+strieren und Aufzeichnung ansehen.					
+
+
+
+
+
+
+
+4AC5DDE2
+
+Facebook liefert Informationen, mit denen d
+u die Intention von Seiten besser verstehst. Hier erfährst du mehr zu den Personen, die die Seiten v
+erwalten und Beiträge darin posten.
+
+4AC5DDE2
+
+"... handelsübliche Software ..."
+Jemand ne Ahnung we
+lche das war? inb4: Mitarbeiter hat e-Mail-Anhang mit der Ransomware drin ausführt. Wie immer.
+
+4AC5
+DDE2
+
+
+
+
+JavaScript scheint in Ihrem Browser deaktiviert zu sein.
+Sie müssen JavaScript in Ihrem Bro
+wser aktivieren um alle Funktionen der Seite nutzen zu können.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suche
+
+
+
+
+
+
+      
+                                      Schließen
+                                        
+
+
+
+
+Was suc
+hen Sie?
+Bitte geben Sie hier einen Begriff ein:
+
+
+
+
+
+
+
+
+
+Suchen
+
+
+
+
+
+
+
+oder
+Wählen Sie ein Thema fü
+r Ihren Schnelleinstieg
+
+
+
+
+Kliniken/Zentren
+Ambulantes Operatives Zentrum (AOZ)
+Beckenbodenzentrum
+
+Brustzentrum
+Centre for Health and Society
+Clinical Research Informatics (aufgelöst)
+C. u. O. Vogt-I
+nstitut für Hirnforschung
+Darmzentrum
+Deutsches Diabetes-Zentrum DDZ
+Endokrines Tumorzentrum
+Genital
+krebszentrum
+Hauttumorzentrum
+Hörzentrum
+Palliativmedizin IZP
+José Carreras Stammzellbank
+Klinik für
+ Allgemeine Pädiatrie, Neonatologie und Kinderkardiologie
+Klinik für Allgemein-, Viszeral- und Kinde
+rchirurgie
+Klinik für Anästhesiologie
+Klinik für Augenheilkunde
+Klinik für Dermatologie
+Klinik für E
+ndokrinologie und Diabetologie
+Klinik für Frauenheilkunde und Geburtshilfe
+Klinik für Gastroenterolo
+gie, Hepatologie und Infektiologie
+Klinik für Gefäß- und Endovaskularchirurgie
+Klinik für Hals-Nasen
+-Ohrenheilkunde (HNO)
+Klinik für Hämatologie, Onkologie und Klinische Immunologie
+(1) Klinik für Kar
+diologie, Pneumologie und Angiologie
+Klinik für Herzchirurgie
+Klinik für Kinder-Onkologie,  -Hämatol
+ogie und Klinische Immunologie
+Klinik für Mund-, Kiefer- und Plastische Gesichtschirurgie
+Klinik für
+ Nephrologie
+Klinik für Neurochirurgie
+Klinik für Neurologie
+Klinik für Nuklearmedizin
+Klinik für Or
+thopädie
+Klinik und Poliklinik für Psychiatrie und Psychotherapie der HHU, LVR-Klinikum Düsseldorf
+K
+linik für Strahlentherapie und Radioonkologie
+Klinik für Unfall- und Handchirurgie
+Klinik für Urolog
+ie
+Medizinisches Versorgungszentrum (MVZ)
+Musikerambulanz
+Pankreaszentrum
+Phoniatrie und Pädaudiolog
+ie
+Prostatakarzinomzentrum
+Poliklinik für Kieferorthopädie
+Poliklinik für Zahnärztliche Chirurgie un
+d Aufnahme
+Poliklinik für Zahnerhaltung, Parodontologie und Endodontologie
+Poliklinik für Zahnärztli
+che Prothetik
+Schädelbasiszentrum
+Spezielle Endokrinologie
+Poliklinik und Funktionsbereich für Rheum
+atologie
+Sozialpädiatrisches Zentrum (SPZ)
+Spezielle Endokrinologie
+Universitätsallergiezentrum (UAZ
+)
+Universitäres Kinderwunschzentrum Düsseldorf (UniKid)
+Universitätstumorzentrum (UTZ)/Onkologisches
+ Zentrum
+
+Viszeralonkologisches Zentrum
+Zentrale Notaufnahme
+Zentrum für angeborene Immundefekterkra
+nkungen und Tumorsuszeptibilität im Kindesalter
+Zentrum für angeborene pädiatrische Stoffwechselstör
+ungen
+Zentrum für Seltene Erkrankungen
+Zentrum für Zahn-, Mund- und Kieferheilkunde - Westdeutsche K
+ieferklinik (ZMK)
+Startseite
+ZOM II
+ZOM I
+Zentrum für Operative Medizin II
+
+
+
+
+Institute
+Institut fü
+r Allgemeinmedizin
+Institut für Anatomie I
+Institut für Anatomie II
+Institut für Arbeits-, Sozial- u
+nd Umweltmedizin
+Institut für Biochemie und Molekularbiologie I
+Institut für Biochemie und Molekular
+biologie II
+Institut für Diagnostische und Interventionelle Radiologie
+Institut für Geschichte, Theo
+rie und Ethik der Medizin
+Institut für Hämostaseologie, Hämotherapie und Transfusionsmedizin
+Institu
+t für Herz- und Kreislaufphysiologie
+Institut für Humangenetik
+Institut für Klinische Neurowissensch
+aften und Medizinische Psychologie
+Institut für Medizinische Mikrobiologie und Krankenhaushygiene
+In
+stitut für Medizinische Soziologie
+Institut für Molekulare Kardiologie
+Institut für Molekulare Mediz
+in I
+Institut für Molekulare Medizin II
+Institut für Molekulare Medizin III
+Institut für Neuro- und 
+Sinnesphysiologie
+Institut für Neuropathologie
+Institut für Pathologie
+Institut für Pharmakologie un
+d Klinische Pharmakologie
+Institut für Rechtsmedizin
+Institut für Stammzellforschung und Regenerativ
+e Medizin
+Institut für Medizinische Biometrie und Bioinformatik
+Institut für Toxikologie
+Institut fü
+r Transplantationsdiagnostik und Zelltherapeutika (ITZ)
+Institut für umweltmedizinische Forschung (I
+UF) an der HHU
+Institut für Versorgungsforschung und Gesundheitsökonomie
+Institut für Virologie
+
+Zen
+tralinstitut für Klinische Chemie und Laboratoriumsdiagnostik
+
+
+
+
+Themennavigator
+
+Augen
+Bauchspeich
+eldrüse
+Blut
+Blutgefäße
+Bluthochdruck
+Brust
+Darm
+Gallenblase
+Gelenke/ Knochen/ Wirbelsäule/ Muskeln
+
+Hals/ Nasen/ Ohren
+Haut
+Herz/ Kreislauf
+Immunsystem/ Allergie
+Infektionen
+Knochen
+Kopf/ Nerven
+Leber
+
+Lunge
+Lymphsystem
+Magen
+Männliche Geschlechtsorgane
+Milz
+Niere/ Harnwege
+Psyche
+Schilddrüse/ Stoffw
+echsel
+Schmerz
+Speiseröhre
+Weibliche Geschlechtsorgane
+Zähne/ Gesicht
+UniversitätsWundZentrum (UWZ)
+
+
+
+
+
+
+
+
+
+
+Notfall
+
+Schließen
+
+Allgemeiner Notruf
+112
+
+
+Zentrale Notaufnahme
+
++49 (211) 81 – 17012
+
+Ge
+bäude ZOM II, Erdgeschoss
+Im Lageplan ansehenNotfallstellen-ÜbersichtPresseKontakt
+
+
+Aa
+
+
+Schriftgrö
+ße
+
+
+
+
+
+                                Sie können mit Hilfe Ihres Browsers größer oder kleiner anze
+igen lassen. Verwenden Sie dafür bitte STRG + und STRG -.
+                                Mit STRG o
+ gelangen Sie wieder zur Ausgangsgröße.
+                            
+
+
+
+
+Menü
+
+
+
+
+
+
+
+
+Patienten & Be
+sucherKliniken/Institute/ZentrenAls Patient am UKDBeratung und UnterstützungVeranstaltungenNotfallFo
+rschung & LehreMedizinische FakultätDie Institute des UKDForschungCoronavirus-ForschungStudium & Leh
+reGraduiertenausbildungBerufungenAusbildung & KarriereArbeiten im UKDStellenangeboteBewerberportal P
+flegeAusbildungszentrum für GesundheitsberufeAusbildungenBildungszentrumKindertagesstätteDüsseldorfÜ
+ber das UKDPflegeUnternehmenGeschichte des UKDPresse & PublikationenSpenden & FördererMediathek: Inf
+o-FilmeVeranstaltungenLageplan & AnfahrtKontaktInternational PatientsEnglishКоординационный офисジャパン
+デスク
+
+
+
+Sie sind hier:Startseite > Über uns > Pressemitteilungen > Detail
+
+
+
+Geschichte des UKDPresse
+mitteilungenSpender & FördererVeranstaltungen & Termine
+
+
+
+
+
+Navigation
+
+
+Geschichte des UKDPressemi
+tteilungenSpender & FördererVeranstaltungen & Termine
+
+
+
+
+                zurück zur Übersicht
+     
+       
+
+
+
+
+
+
+
+
+
+
+
+                                    10.09.2020
+                                
+
+
+
+
+                                Krankenhaus derzeit nur sehr eingeschränkt erreichbar – Patientenv
+ersorgung eingeschränkt
+                            
+
+
+
+
+                                        Upd
+ate (10. September 2020, 17.00 Uhr): Die weitreichenden IT-Ausfälle am Universitätsklinikum Düsseldo
+rf (UKD) halten auch weiterhin an. Aber immerhin sind - mit Ausnahme einiger weniger Außenstellen - 
+die Telefonanschlüsse auf unserem Klinikgelände wieder erreichbar.
+                                 
+   
+Vielen herzlichen Dank an unsere Kolleginnen und Kollegen aus IT und Technik, die weiterhin an L
+ösungen arbeiten.Bis auf weiteres bleibt es dabei, dass planbare und ambulante Behandlungen nicht st
+attfinden und verschoben werden. Patientinnen und Patienten werden daher gebeten, das UKD nicht aufz
+usuchen – auch dann, wenn ein Termin vereinbart worden ist. Das UKD ist weiterhin von der Notfallver
+sorgung abgemeldet. Das UKD informiert über die Website und Social-Media-Kanäle bei Facebook und Twi
+tter über neue Entwicklungen. 
+Update (10. September 2020, 12.00 Uhr): Im Universitätsklinikum Düsse
+ldorf (UKD) gibt es zurzeit einen weitreichenden Ausfall der IT. Das bedeutet unter anderem, dass da
+s Klinikum nur eingeschränkt erreichbar ist – sowohl telefonisch als auch auf dem Mailweg.
+Das UKD 
+hat sich von der Notfallversorgung abgemeldet. Planbare und ambulante Behandlungen finden ebenfalls 
+nicht statt und werden verschoben. Patientinnen und Patienten werden daher gebeten, das UKD nicht au
+fzusuchen – auch dann, wenn ein Termin vereinbart worden ist. 
+Die Experten der IT arbeiten bereits
+ seit den frühen Morgenstunden an einer Behebung des Ausfalls. 
+Das UKD informiert über die Website
+ und Social-Media-Kanäle bei Facebook und Twitter über neue Entwicklungen. www.uniklinik-duesseldorf
+.de  www.facebook.com/uniklinikDUS  www.twitter.com/UniklinikDUS 
+
+
+
+
+
+
+
+
+                zurück zur
+ Übersicht
+            
+
+
+
+
+
+
+
+
+
+
+
+                            Wir verwenden Cookies, um Ihnen eine
+n besseren Service zu bieten, den Seitenverkehr zu analysieren, Inhalte zu personalisieren und gezie
+lte Werbung zu schalten. Wenn Sie diese Seite weiterhin nutzen, stimmen Sie der Verwendung von Cooki
+es zu. Lesen Sie, wie wir Cookies verwenden und wie Sie sie steuern können, indem Sie hier klicken:
+
+
+                            Datenschutzerklärung
+
+
+
+
+                            Okay
+         
+               
+
+
+
+
+
+MediathekInformation und WissenLageplanSo finden Sie uns
+
+
+
+
+
+
+Kontakt
+
+       
+       Universitätsklinikum Düsseldorf
+              Moorenstr. 5
+              40225 Düsseldorf
+   
+       
+
+
+
+
+
+              00 49 (0) 2 11 - 81 00
+          
+
+              00 49 (0) 2 11 - 81 04 8
+55
+          
+
+
+
+
+Suche
+
+
+
+
+
+
+
+
+
+Suchen
+
+
+
+
+
+
+Unsere Patienten & BesucherEinrichtungenPflege & Unter
+stützungVeranstaltungen & TermineForschung & LehreForschungStudium & LehreKarriereStellenangeboteAus
+bildungUKD als ArbeitgeberKindertagesstätteAnsprechpartnerÜber unsGeschichte des UKDPressemitteilung
+enSpender & FördererVeranstaltungen & Termine
+International Patients
+
+
+SitemapImpressumDatenschutzSe
+ite druckenCopyright © 2020 Universitätsklinikum Düsseldorf
+
+
+
+4AC5DDE2
+
+Gerade in den aktuellen Zei
+ten wird die #Cloud immer wichtiger! Das #Colocation- und #Datacenter-Unternehmen #Equinix wurde dur
+ch eine #Ransomware-Attacke getroffen und reiht sich damit ein in die jüngsten Angriffe bei CSPs.
+ht
+tps://cybersecurity-insiders.com/equinix-hit-by-ransomware/…
+#CyberSecurity #Awareness
+
+4AC5DDE2
+
+Ga
+rmin von Ransomware Attacke betroffen
+
+4AC5DDE2
+
+
+[English]Der Cyberangriff auf das Universitätsklin
+ikum Düsseldorf (UKD) von letzter Woche stellt sich, wie von mir vermutet, als Ransomware-Angriff he
+raus. Die Klinik war wohl Zufallsopfer, nun ermittelt die Staatsanwaltschaft aber, da eine Patientin
+ wegen des Angriffs auf das Klinikum verstarb. Ergänzung: Und es gibt erste Informationen über das E
+infallstor – wohl die Shitrix-Schwachstelle in Citrix-Produkten von Ende 2019.
+Anzeige
+
+ 
+
+
+Der Cybe
+rangriff auf das UKD
+Im Blog-Beitrag Düsseldorfer Uniklinik: IT-Ausfall durch Cyberangriff? hatte ic
+h am 10. September 2020 darüber berichtet, dass das IT-Netzwerk der Universitätsklinikum Düsseldorf 
+(UKD) wegen eines Cyberangriffs außer Betrieb sei. Seit Donnerstag letzter Woche (10.9.) ist das IT-
+System des Universitätsklinikums Düsseldorf (UKD) weitreichend gestört. Das UKD hatte sich von der N
+otfallversorgung abgemeldet und ist das bis heute. Planbare und ambulante Behandlungen fanden ebenfa
+lls nicht statt und wurden verschoben. In einem Update vom 14. September hieß es:
+Update (14. Septem
+ber 2020, 10.00 Uhr): Der weitreichende IT-Ausfall im Universitätsklinikum Düsseldorf (UKD) hält wei
+terhin an +++ Die Telefonanschlüsse sind – bis auf einige wenige Außenstellen – erreichbar. Per Mail
+ ist das Klinikum aktuell nicht erreichbar +++ Das UKD hat sich von der Notfallversorgung abgemeldet
+. +++ PatientInnen mit geplanten Behandlungsterminen werden gebeten, sich mit der jeweiligen Klinik 
+oder Ambulanz in Verbindung zu setzen. Die Telefonverbindungen funktionieren wieder. +++ IT-Experten
+ von intern und extern arbeiten unablässig an einer Behebung des Ausfalls.
+Dieser Ausnahmezustand hä
+lt bis jetzt wohl an. Heise berichtet hier, dass das Uniklinikum aber langsam auf dem Weg in den Nor
+malbetrieb sei.
+Uniklinikum spricht weiter von einem Cyberangriff
+Ich hatte aber auf Grund der Randb
+edingungen frühzeitig eine Infektion mit Ransomware vermutet. In einer Pressemitteilung vom 17. Sept
+ember bestätigte das Universitätsklinikum nach wie vor nur einen Cyberangriff, der über eine ‘Sicher
+heitslücke in verbreiteter Software’ erfolgte und einen Zugriff auf das IT-Netzwerk  ermöglichte. In
+ einer Erklärung heißt es:
+Hintergrund des Ausfalls ist nach diesen Analysen ein Hackerangriff, der 
+eine Schwachstelle in einer Anwendung ausnutzte. Die Sicherheitslücke befand sich in einer marktübli
+chen und weltweit verbreiteten kommerziellen Zusatzsoftware. Bis zur endgültigen Schließung dieser L
+ücke durch die Softwarefirma war ein ausreichendes Zeitfenster gegeben, um in die Systeme einzudring
+en. Als Folge des damit ermöglichten Sabotageakts fielen nach und nach Systeme aus, Zugriffe auf ges
+peicherte Daten waren nicht mehr möglich.
+Das ist natürlich eine absolute Nebelkerze – die Systeme w
+urden durch einen Verschlüsselungstrojaner befallen, der die Dateien verschlüsselte. Es ging nicht u
+m Sabotage, sondern um Erpressung. Wer diesen Text interpretiert, dürfte zum Schluss kommen, dass di
+e Schwachstelle in einem ungepatchten Softwarepaket (ich tippe auf Word/Office oder Outlook) bestand
+, so dass die Malware per Mail-Anhang heruntergeladen und ausgeführt werden konnte. Und die folgende
+ Aussage:
+Die IT-Experten konnten mittlerweile den genauen Umfang analysieren und den Zugang zu den 
+Daten wiederherstellen. Bisher gibt es keine Anhaltspunkte dafür, dass Daten unwiederbringlich zerst
+ört worden sind. Auch für das Abfischen von konkreten Daten gibt es nach heutigem Stand keine Belege
+. Eine konkrete Lösegeldforderung gab es nicht.
+ist eine Verdummung der Leserschaft, ist aber ein Zi
+tat aus der Pressemitteilung der UKD. Nachfolgend daher einige Hintergrundinformationen.
+Ransomware-
+Infektion bestätigt
+Im Landtag von Nordrhein-Westfalen wurde der ‘Cyberangriff’ auf das UKD am Donne
+rstag in einer aktuellen Stunde im Landtag, auf Grund des Antrags der AfD-Fraktion, thematisiert. Wi
+ssenschaftsministerin Isabel Pfeiffer-Poensgen (parteilos) bestätigte, dass der IT-Ausfall an der Un
+iklinik Düsseldorf ist auf einen Hackerangriff zurückzuführen sei. Das berichtet der WDR in diesem B
+eitrag. Blog-Leser wiesen in den Kommentaren hier bereits auf entsprechende Presseberichte (Express,
+ FAZ)  hin.
+Die Uniklinik Düsseldorf war aber wohl nur ein ‘Zufallstreffer’, denn auf einem der betr
+offenen Server sei ein an die Heinrich-Heine-Universität adressiertes Erpressungsschreiben gefunden 
+worden. Pfeiffer-Poensgen sagte im Landtag, dass die Polizei Kontakt zu den Erpressern aufgenommen u
+nd erklärt habe, dass es sich bei den betroffenen Servern um Systeme eines Notfallkrankenhauses hand
+ele. Die Erpresser rückten dann den Schlüssel zum Entschlüsseln der Server heraus. Lässt vermuten, d
+ass die Hintermänner der Ransomware-Attacke die Universität statt der Klinik treffen wollten, so die
+ Ministerin.
+Shitrix-Schwachstelle als Einfallstor
+
+Anzeige
+
+
+
+Ergänzung: In diesem Kommentar weist 
+jemand auf die Citrix-Schwachstelle von Ende 2019/Anfang 2020 hin (siehe auch Cyberangriffe: Gedia &
+ Potsdam Opfer des Shitrix-Desasters (Citrix Netscaler-Bug)?). Und in diesem Kontext blieben einige 
+gepatchte Citrix-ADC-Netscaler-Geräte mit einer Hintertür zurück, die durch eine vorherige Infektion
+ implementiert wurde. Heise hat vor zwei Tagen im Beitrag Shitrix-Nachwehen: Citrix-Systeme mit unbe
+merkten Backdoors über diese Gefahr berichtet.
+In einem Nachfolgebeitrag Cyber-Angriff auf Uniklinik
+ Düsseldorf: #Shitrix schlug zu legt heise dann nach. Es sieht so aus, als ob der Cyber-Angriff auf 
+die IT-Systeme der Universitätsklinik Düsseldorf über einen ungepatchten Citrix-VPN-Server über die 
+Schwachstelle CVE-2019-19781 erfolgte.
+An dieser Stelle platzt mir die Hutschnur, wenn ich dann das 
+Geschwurbel in der Pressemitteilung der Uniklinik Düsseldorf lese, die von einem Hackerangriff fasel
+n und weder Ross noch Reiter nennen. Denn damit wird IT-Verantwortlichen in anderen Einrichtungen un
+d Firmen die Möglichkeit genommen, sich über die Einfalltore zu informieren. Letztendlich sind es Me
+dien wie heise oder die Leserschaft, die mit Artikeln und Insider-Tipps für Aufklärung sorgen. Es is
+t unten in den Kommentaren verlinkt – FEFE benennt hier die Verantwortlichkeiten deutlich.
+Staatsanw
+alt leitet Todesermittlungsverfahren ein
+Presseberichte, die sich auf Angaben des NRW-Justizminister
+iums beziehen, berichten, dass die Staatsanwaltschaft Wuppertal ein Todesermittlungsverfahren gegen 
+Unbekannt eingeleitet habe. Der Hintergrund: Eine lebensbedrohlich erkrankte Patientin (Riss der Aor
+ta), die in der Nacht vom 11. auf den 12. September in die Uni-Klinik gebracht werden sollte, musste
+ an ein Krankenhaus in Wuppertal verwiesen werden. Da die Behandlung erst mit einstündiger Verspätun
+g stattfinden konnte, verstarb die Frau kurze Zeit später. Bei einem solchen Sachverhalt leitet die 
+zuständige Staatsanwaltschaft immer ein Ermittlungsverfahren ein. Ob das aber zu einem Ergebnis führ
+t, steht auf einem anderen Blatt.
+Der WDR berichtet noch, dass die CDU/FDP-Landesregierung künftig m
+ehr Geld für die Sicherheit der Computersysteme bereitstellen will. Das Antragsverfahren sei allerdi
+ngs noch nicht angelaufen. Die Landesregierung stelle seit 2018 für jede Uniklinik zwei Millionen Eu
+ro für die IT-Sicherheit bereit, so die Ministerin. “Das ist in der Tat zu wenig, daran werden wir a
+rbeiten.”
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+Entweder ordentlich machen oder nicht ans Internet? Ransomwar
+e ist schwieriger in ein abgeschottetes Netz zu bekommen!
+
+4AC5DDE2
+
+Ich hatte schon ublock. Aber ni
+cht flamen! Ich hab das solange bis die Werbeindustrie ihre Server vor Code-Injection schützen kann.
+ Aber die sind so dumm, die packen das nie. Hab's also aus Sicherheitsgründen, weil ich mir keine Ra
+nsomware durch Werbung einfangen will! Sorry!
+
+4AC5DDE2
+
+Uniklinikum Düsseldort: Es war Ransomware, 
+Staatsanwaltschaft ermittelt wegen Todesfolge https://borncity.com/blog/2020/09/17/uniklinikum-dssel
+dort-es-war-ransomware-staatsanwaltschaft-ermittelt-wegen-todesfolge/… #Ransomware #Sicherheit Borns
+ IT- & Windows-Blog
+
+4AC5DDE2
+
+Ich krieg hier schon wieder nen dicken Hals ey. Die Uniklinik Düsseld
+orf hat nach einem Ransomware-Befall eine Patientin sterben lassen.Laut Bericht des NRW-Justizminist
+ers starb eine Patientin, die wegen des Angriffs auf die Server der Klinik in ein wei… https://ift.t
+t/2ZLrWgZ
+
+4AC5DDE2
+
+
+    TechCrunch ist Teil von Verizon Media. Wir und unsere Partner nutzen Cooki
+es und ähnliche Technik, um Daten auf Ihrem Gerät zu speichern und/oder darauf zuzugreifen, für folg
+ende Zwecke: um personalisierte Werbung und Inhalte zu zeigen, zur Messung von Anzeigen und Inhalten
+, um mehr über die Zielgruppe zu erfahren sowie für die Entwicklung von Produkten.
+
+Personenbezogene
+ Daten, die ggf. verwendet werden
+
+Daten über Ihr Gerät und Ihre Internetverbindung, darunter Ihre I
+P-Adresse
+Such- und Browsingaktivität bei Ihrer Nutzung der Websites und Apps von Verizon Media
+ Gen
+auer Standort
+
+
+    Für nähere Informationen zur Nutzung Ihrer Daten lesen Sie bitte unsere Datensch
+utzerklärung und Cookie-Richtlinie.
+
+    Damit Verizon Media und unsere Partner Ihre personenbezogen
+en Daten verarbeiten können, wählen Sie bitte 'Ich stimme zu.' aus oder wählen Sie 'Einstellungen ve
+rwalten', um weitere Informationen zu erhalten und eine Auswahl zu treffen. Dazu gehört der Widerspr
+uch gegen die Verarbeitung Ihrer Daten durch Partner für deren berechtigte Interessen. Sie können Ih
+re Einstellungen jederzeit ändern. Dies geschieht in Ihren Datenschutzeinstellungen.
+
+
+
+4AC5DDE2
+
+
+E
+in Cyberangriff legte am 23. Juli einige Systeme von Garmin lahm. Laut Garmin handelte es sich um ei
+ne Ransomware Attacke. Ob das Lösegeld bezahlt wurde, ist nicht bekannt. Die Systeme seien zügig wie
+der repariert worden, hieß es.
+Das Unternehmen berichtete auf seiner Webseite, dass eine ganz Reihe 
+ihrer Online-Dienste vier Tage lang nicht erreichbar waren. Einige Kunden, insbesondere aus der Flug
+branche, bemerkten dies recht schnell. Sie konnten ihre Flugkarten plötzlich nicht mehr aktualisiere
+n. Auch Webseiten-Funktionen für Garmin Kunden wie Support und diverse Anwendungen sowie die interne
+ Kommunikation waren nicht funktionsfähig.
+Laut Garmin gab es keine Hinweise darauf, dass die Angrei
+fer auf Kundendaten oder Zahlungsinformationen von Garmin Pay zugegriffen hatte. Kunden konnten zwar
+ zeitweise auch nicht mehr auf Garmin Connect zugreifen, aber alle auf Garmin-Geräten gespeicherten 
+Aktivitäts- und Gesundheits- und Wellnessdaten waren nach wenigen Tagen wieder synchronisierbar. Auc
+h die Dienste des Garmin Aviation Systems mit den Piloten App, flyGarmin, Connex Services und FltPla
+n.com waren nach vier Tagen wieder voll funktionsfähig. Die Ausfälle betrafen Garmin-Geräte in aller
+ Welt.
+Garmin selbst waren die Probleme nicht aufgefallen. Kunden hatten über Ausfälle verschiedener
+ Dienste berichtet. Garmin Mitarbeiter berichteten schließlich auf Social Media-Webseiten, dass es s
+ich um einen Ransomware Angriff gehandelt habe. Dabei seien Schwachstellen oder Fehlkonfigurationen 
+ausgenutzt worden, um ins Garmin Netzwerk einzuhacken.
+Evil Corp vermutlich hinter dem Ransomware-An
+griff auf Garmin
+Garmin Mitarbeiter hatten Screenshots und andere Daten zum Vorfall gepostet. Expert
+en sahen darin Hinweise darauf, dass es sich bei der Ransomware um einen relativ neuen Typ, genannt 
+WastedLocker, handelte. Dies wurde von einem anonymen Insider dann auch bestätigt. Laut diesem hätte
+ Garmin auch von den Angreifern einen Code zum Entschlüsseln der Daten erhalten. Das lässt darauf sc
+hließen, dass das Unternehmen sich zur Zahlung der Lösegeldsumme entschlossen hat. Laut Informatione
+n des Nachrichtendienstes Sky News hätte Garmin mitgeteilt, „keine direkte Zahlung an die Hacker gel
+eistet zu haben, ansonsten aber nicht näher darauf eingegangen sei.“
+Der Antimalware-Anbieter Malwar
+ebytes hatte WastedLocker erst 14 Tage zuvor entdeckt und der Öffentlichkeit vorgestellt. Die Malwar
+e beginnt nach dem Eindringen sofort mit einer genauen Analyse der aktiven Netzwerkabwehr. Das so ge
+sammelte Wissen macht sie sich dann bei späteren Angriffen oder Bewegungen im System zunutze.
+Pieter
+ Arntz von Malwarebytes erläuterte, dass, wenn WastedLocker sich erst einmal in einem Netzwerk einge
+nistet hat, es seine Forderungen absetzt. Erfahrungswerte bei WastedLocker zeigen, dass diese meiste
+ns in Größenordnungen zwischen 500.000 und 10 Millionen US-Dollar liegen.
+Die meisten Sicherheitsfor
+scher kennen die Ähnlichkeiten zwischen WastedLocker und der Dridex Malware. Diese lassen daher schl
+ussfolgern, dass die russische Hackergruppe Evel Corp hinter dem Angriff steckt. Die Amerikaner hatt
+en deren Anführer, Maksim V. Yakubets im letzten Jahr wegen verschiedener Cyberverbrechen angeklagt.
+ Die Gruppe hat mit ihren Aktionen bereits in etwa 40 Ländern rund 100 Millionen US-Dollar gestohlen
+.
+Meldung von garmin.com über das Garmin Outage
+Artikel von arstechnica.com, 27.07.2020: Garmin’s fo
+ur-day service meltdown was caused by ransomware
+Artikel von wired.com, 27.07.2020: A Cyberattack on
+ Garmin Disrupted More Than Workouts
+Artikel von theregister.com, 27.07.2020: Garmin staggers back t
+o its feet: Aviation systems seem to be lagging, though. Here’s why
+Urheberrechte Beitragsbild: Publ
+ic Domain, Creative Commons CC0, Kristopher Allison über unsplash.com
+
+
+4AC5DDE2
+
+Alle 40 Sekunden w
+ird ein Unternehmen von #Ransomware angegriffen. Unser kostenloses Tool hilft Unternehmen jeder Größ
+e bei der Verteidigung: https://kas.pr/9bff #Kaspersky #ITSicherheit #ITSec
+
+4AC5DDE2
+
+Citrix System
+s ist ein Unternehmen mit Milliardenumsatz und fast 9000 Mitarbeitern. Die Softwarelösungen finden s
+ich in diversen Unternehmen und u.a. auch Unikliniken. Eine größere Sicherheitslücke für Ransomware 
+war länger bekannt. Ich wünsch mir da transparente Aufklärung.
+
+4AC5DDE2
+
+(Viel) Mehr zu Ransomware-
+Erpressern in diesem Interview mit @sherrod_im von @maksumuto
+
+4AC5DDE2
+
+[- Patientin stirbt nach Ra
+nsomware-Angriff -] https://ift.tt/33AJMo0 #ITsec #sicherheit
+
+4AC5DDE2
+
+
+
+Ihre Herausforderungen si
+nd Kostendruck, Ransomware-Bedrohungen und steigende Datenmengen?
+Alles zusammen stellt Sie sicherli
+ch vor immense Herausforderungen, die durch das massive Wachstum unstrukturierter Daten, durch Cyber
+-Sicherheitsbedrohungen und die steigenden Erwartungshaltung Ihrer Anwender an die Verfügbarkeit der
+ Daten getrieben wird. Holen Sie sich Inspirationen wie Sie diesen Spagat meistern können!
+Während u
+nserer Protect & Archive-Seminarreihe präsentieren unsere Experten Lösungsansätze zur Optimierung Ih
+rer Backup- und Archiv-Lösungen... ON QUANTUM. In kurzen, prägnanten Slots von 20 Minuten, zeigen wi
+r Ihnen, wie Sie Backup und Archivierung günstig, sicher, zuverlässig und schnell erledigen können -
+ alles anhand von realen Kundenszenarien. Unsere Themen sind:
+
+Priorisierung von SLA’s oder Kosten b
+eim Backup? Anhand von Praxisbeispielen zeigen wir, dass das nicht nötig ist.
+Die Integration geht w
+eiter: 5x mal schnelleres Backup mit Veeam v10 (Praxisbeispiele mit DXi von Quantum)
+Studien zeigen,
+ dass 80% der Daten in der Zukunft „unstrukturiert“ sind. Lassen Sie sich von neuen Konzepten mit Qu
+antum inspirieren.
+Neue Wege für die Sicherung von Petabytes an Daten. Wir stellen eine Lösung vor, 
+die kein Backup erfordert.
+Wie Objekt-Storage (S3 Speicher) mittels Cloud-Eigenschaften Ihre Daten v
+erwalten kann. Mit ActiveScale einfach und flexibel Objektspeicher implementieren.
+Geben Sie Ransomw
+are-Attacken keine Chance. Sichern Sie Ihre Daten als lägen sie in einem Tresor.
+Bei der Verwaltung 
+PB großer Datenmengen laufen die Kosten schnell aus dem Ruder. Quantum zeigt neue Wege auf.
+Sie benö
+tigen höchste Performance und nutzen Flash/NVME als Primär-Storage? Vorstellung eines Praxis-Beispie
+ls, wie PB von Daten schnell verarbeitet und kostengünstig gespeichert werden können.
+
+Einfach Theme
+n und Termine Ihrer Wahl aussuchen und registrieren. Sie haben auch die Möglichkeit ein persönliches
+ Gespräch mit unseren Führungskräften aus den Bereichen Endkunden-, Partner Vertrieb oder Technik zu
+ vereinbaren. 
+
+4AC5DDE2
+
+Ransomware-Angriff auf die Brugg Group betrifft weltweite Systeme
+Der Aarg
+auer Spezialist für Kabelsysteme und Prozessleittechnik ist immer noch daran, die Systeme wieder hoc
+hzufahren, wie uns das Unternehmen erklärt.
+https://buff.ly/3krJ1nM
+
+4AC5DDE2
+
+
+
+17. September 2020 
+um 19:27 Uhr
+Ermittlungen in einem Todesfall
+Düsseldorfer Uniklinik von Hackern erpresst - Frau stir
+bt nach zu später Behandlung
+
+
+
+
+
+
+
+
+
+ Die Uniklinik in Düsseldorf wurde von Hackern angegriffen.  
+
+FOTO: dpa / Roland Weihrauch
+
+
+
+
+
+
+
+
+
+Düsseldorf      Ein Hacker-Angriff mit Erpressung hat den IT-A
+usfall an der Düsseldorfer Uniklinik ausgelöst. Das Erpresserschreiben war aber an die Heinrich-Hein
+e-Uni gerichtet. Es laufen Ermittlungen in einem Todesfall.
+    
+
+
+
+
+
+
+
+
+Hintergrund des Ausfalls is
+t nach Analyse von Experten ein Hackerangriff, der eine Schwachstelle in einer Anwendung ausnutzte, 
+wie die Uniklinik am Donnerstag mitteilt. Allerdings wird nun auch in einem Todesfall ermittelt. Lau
+t Bericht des NRW-Justizministers starb eine Patientin, die wegen des Angriffs auf die Server der Kl
+inik in ein weiter entferntes Krankenhaus nach Wuppertal gebracht werden musste. [Hinweis: Die Staat
+sanwaltschaft führt ein Todesermittlungsverfahren (derzeit kein Verfahren wegen fahrlässiger Tötung,
+ wie zunächst gemeldet). Zurzeit wird noch geprüft, ob es auf den Vorwurf der fahrlässigen Tötung er
+weitert wird.] 
+Am Donnerstag, 10. September, war die IT des größten Düsseldorfer Krankenhauses weit
+gehend ausgefallen. Durch den Ausfall sind bereits Hunderte Operationen und Behandlungen ausgefallen
+. Zudem ist das Krankenhaus weiterhin von der Notfallversorgung abgemeldet, wird also nicht von Rett
+ungsdiensten angefahren.
+Wissenschaftsministerin Isabel Pfeiffer-Poensgen (parteilos) sagte im Landt
+ag, die Täter hätten nach Kontakt zur Polizei die Erpressung zurückgezogen. Die Sicherheitslücke, di
+e die Hacker ausnutzten, habe sich in einer marktüblichen und weltweit verbreiteten kommerziellen Zu
+satzsoftware befunden, teilt die Uniklinik mit. In dem Zeitfenster, das die Softwarefirma zum Schlie
+ßen der Lücke benötigte, seien die Täter in die Systeme eingedrungen. Dadurch fielen nach und nach S
+ysteme aus, Zugriffe auf gespeicherte Daten waren nicht mehr möglich, berichtet die Klinik.
+
+
+
+
+
+Erp
+resserschreiben an Heinrich-Heine-Uni  
+Aus einem Bericht des Justizministers ging hervor, dass verg
+angene Woche 30 Server des Klinikums verschlüsselt wurden. Auf einem Server wurde ein Erpresserschre
+iben hinterlassen, das allerdings an die Düsseldorfer Heinrich Heine-Uni gerichtet war. In dem Schre
+iben forderten die Erpresser zur Kontaktaufnahme auf - eine konkrete Summe nannten sie laut Bericht 
+nicht.
+Die Düsseldorfer Polizei habe dann tatsächlich Kontakt aufgenommen und den Tätern mitgeteilt,
+ dass sie durch ihren Hackerangriff ein Krankenhaus - und nicht die Uni - betroffen sei. Damit seien
+ Patienten erheblich gefährdet. Die Täter hätten daraufhin die Erpressung zurückgezogen und einen di
+gitalen Schlüssel ausgehändigt, mit dem die Daten wieder entschlüsselt werden können. Die Ermittler 
+haben laut Bericht daher den Verdacht, dass das Uni-Klinikum nur zufällig betroffen war. Inzwischen 
+seien die Täter nicht mehr erreichbar.
+Die IT-Experten haben mittlerweile den Zugang zu den Daten wi
+ederherstellen können. Bisher gebe es keine Anhaltspunkte dafür, dass Daten unwiederbringlich zerstö
+rt worden sind. Auch für das Abfischen von konkreten Daten seien bislang keine Belege gefunden worde
+n.
+
+
+
+
+Die Uniklinik rechnet damit, dass es noch einige Zeit dauern wird, bis Patienten wieder norma
+l behandelt werden können. „Aufgrund des Umfangs des IT-Systems und der Fülle an Daten können wir no
+ch nicht abschätzen, wann dieser Prozess abgeschlossen sein wird“, sagte der Kaufmännische Direktor,
+ Ekkehard Zimmer. „Wir sind aber zuversichtlich, dass wir in den nächsten Tagen die Zeitspanne besse
+r abschätzen können und dann auch Schritt für Schritt wieder für unsere Patientinnen da sind.“
+Nach 
+mehreren Hacker-Angriffen auf Kliniken in Nordrhein-Westfalen will die CDU/FDP-Landesregierung künft
+ig mehr Geld für die Sicherheit der Computersysteme bereitstellen. NRW bekomme aus dem Bund-Länder-K
+rankenhauszukunftsgesetz 2020/21 voraussichtlich Fördermittel in Höhe von 900 Millionen Euro, davon 
+630 Millionen aus Bundesmitteln. Das sagte Wissenschaftsministerin Pfeiffer-Poensgen.
+Mindestens 15 
+Prozent dieser Mittel müssten in die IT-Sicherheit fließen. Alle Krankenhäuser sollten unabhängig vo
+n der Patientenzahl Mittel bekommen. Das Antragsverfahren sei aber noch nicht angelaufen. Die CDU/FD
+P-Landesregierung stelle seit 2018 für jede Uniklinik zwei Millionen Euro für die IT-Sicherheit bere
+it, sagte die Ministerin. „Das ist in der Tat zu wenig, daran werden wir arbeiten.“
+
+
+
+
+
+Grund für d
+ie Anfälligkeit der Kliniken für Hackerangriffe ist nach Ansicht der Grünen nicht nur das fehlende G
+eld. Es seien auch „solide rechtliche Standards“ nötig, sagte der Grünen-Fachpolitiker Matthi Bolte-
+Richter in der Aktuellen Stunde des Landtags zum Hackerangriff auf die Uniklinik.
+Der Bund müsse hie
+r klare Vorgaben machen. Viele Hochschulen und Kliniken hätten immer noch keine Vollzeit-IT-Sicherhe
+itsbeauftragten.
+In NRW waren neben der Uniklinik in Düsseldorf das Lukaskrankenhaus in Neuss, das F
+orschungszentrum Jülich sowie mehrere Unternehmen in der Vergangenheit Ziele von Hackerangriffen.
+(c
+sr/hebu/top/dpa)
+
+
+
+
+4AC5DDE2
+
+
+
+zeit.de mit Werbung
+
+
+                                Besuchen Sie 
+zeit.de wie gewohnt mit Werbung und Tracking. Details zum Tracking finden Sie in der 
+              
+                  Datenschutzerklärung
+                                 und im 
+                    
+            Privacy Center.
+                            
+
+
+
+
+Ihre Zustimmung ist jederzeit widerrufb
+ar.
+
+
+
+4AC5DDE2
+
+Aktuell erhalten wir eine größere Spamwelle mit verschlüsselter Ransomware (in eine
+m ZIP-Archiv verpackt). Die Archive sollten nicht entpackt und die darin befindliche .doc geöffnet w
+erden. 
+
+Wir versuchen derzeit mit Hochdruck die Spamwelle zu mitigieren.
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+Hackera
+ngriff auf Uniklinik
+
+Ermittlungen wegen fahrlässiger Tötung eingeleitet
+
+
+
+Der IT-Ausfall an der Dü
+sseldorfer Uniklinik ist auf einen Hackerangriff zurückzuführen. Die Täter ahnten wohl nicht, was si
+e anrichteten - und zogen sich zurück. Jetzt wird wegen eines Todesfalls ermittelt.
+
+
+17.09.2020, 13
+.13 Uhr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icon: Kommentare
+
+
+
+
+
+
+
+Icon: Twitter
+
+
+
+Icon: Facebook
+
+
+
+Icon: Mail
+
+
+
+Icon
+: Messenger
+
+
+
+Icon: Whatsapp
+
+
+
+Icon: Link
+
+
+
+
+Icon: teilen
+
+
+
+
+
+
+
+
+
+Icon: Mail
+
+E-Mail
+
+
+
+
+
+
+Icon:
+ Messenger
+
+Messenger
+
+
+
+
+
+
+Icon: Whatsapp
+
+WhatsApp
+
+
+
+
+
+
+Icon: Link
+
+Link kopieren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icon: vergrößern
+
+
+
+
+Haupteingang zum Universitätsklinikum Düsseldorf
+
+Foto: Roland Weihrauc
+h / dpa
+
+
+
+
+
+Der IT-Ausfall an der Düsseldorfer Uniklinik beruht nach Angaben der Landesregierung au
+f einem Hackerangriff mit Erpressungsabsicht. Wissenschaftsministerin Isabel Pfeiffer-Poensgen (part
+eilos) sagte am Donnerstag im Landtag, die Täter hätten nach Kontakt zur Polizei die Erpressung zurü
+ckgezogen. Die Staatsanwaltschaft ermittelt inzwischen auch wegen fahrlässiger Tötung, da eine Patie
+ntin in ein Wuppertaler Krankenhaus umgeleitet werden musste und starb.
+
+
+
+
+
+
+
+
+
+
+Aus einem Bericht 
+des Justizministers ging hervor, dass vergangene Woche 30 Server des Klinikums verschlüsselt wurden.
+ Auf einem Server wurde ein Erpresserschreiben hinterlassen, das allerdings an die Düsseldorfer Hein
+rich-Heine-Uni gerichtet war. In dem Schreiben forderten die Erpresser zur Kontaktaufnahme auf - ein
+e konkrete Summe zur Freigabe der verschlüsselten Systeme nannten sie dem Bericht zufolge nicht.Die 
+Düsseldorfer Polizei habe dann tatsächlich Kontakt aufgenommen und den Tätern mitgeteilt, dass sie m
+it ihrem Hackerangriff ein Krankenhaus - und nicht die Uni - getroffen hatten. Damit seien Patienten
+ erheblich gefährdet. Die Täter hätten daraufhin die Erpressung zurückgezogen und einen digitalen Sc
+hlüssel ausgehändigt, mit dem die Daten wieder entschlüsselt werden können.
+
+
+
+
+
+Die Ermittler haben
+ laut Bericht daher den Verdacht, dass das Uni-Klinikum nur zufällig betroffen war. Inzwischen seien
+ die Täter nicht mehr erreichbar.Eine Patientin verstarbGegen die Unbekannten wird jetzt auch wegen 
+fahrlässiger Tötung ermittelt, da eine lebensbedrohlich erkrankte Patientin, die in der Nacht vom 11
+. auf den 12. September in die Uni-Klinik gebracht werden sollte, an ein Krankenhaus in Wuppertal ve
+rwiesen wurde. Ihre Behandlung habe erst mit einstündiger Verspätung stattfinden können. Sie starb k
+urze Zeit später, so der Justizminister in seinem Bericht.Bei dem Hackerangriff sind nach bisherigen
+ Erkenntnissen keine Daten gestohlen oder unwiederbringlich gelöscht worden. Das hätten Untersuchung
+en von IT-Experten ergeben, teilte die Klinik mit.
+
+
+
+
+
+
+Die Wiederherstellung der Systeme dauert an
+Die Hacker hätten eine Schwachstelle in einer Anwendung ausgenutzt. "Die Sicherheitslücke befand sic
+h in einer marktüblichen und weltweit verbreiteten kommerziellen Zusatzsoftware. Bis zur endgültigen
+ Schließung dieser Lücke durch die Softwarefirma war ein ausreichendes Zeitfenster gegeben, um in di
+e Systeme einzudringen", teilte die Klinik mit. Die Angreifer hätten dafür gesorgt, dass nach und na
+ch Systeme ausfielen und ein Zugriff auf gespeicherte Daten nicht mehr möglich war.Die Uniklinik Düs
+seldorf rechnet nun damit, dass es noch einige Zeit dauern wird, bis Patienten wieder normal behande
+lt werden können. "Aufgrund des Umfangs des IT-Systems und der Fülle an Daten können wir noch nicht 
+abschätzen, wann dieser Prozess abgeschlossen sein wird", sagte der kaufmännische Direktor, Ekkehard
+ Zimmer, am Donnerstag. "Wir sind aber zuversichtlich, dass wir in den nächsten Tagen die Zeitspanne
+ besser abschätzen können und dann auch Schritt für Schritt wieder für unsere Patientinnen da sind."
+
+
+
+
+
+
+
+Vergangene Woche Donnerstag war das IT-System des Universitätsklinikums ausgefallen. Rettungs
+wagen fuhren die große Einrichtung in der nordrhein-westfälischen Landeshauptstadt daraufhin nicht m
+ehr an, Operationen wurden verschoben und geplante Behandlungstermine abgesagt.
+Icon: Der Spiegel
+
+
+
+
+mak/dpa
+
+
+
+
+
+
+
+
+
+Diskutieren Sie mit
+Pfeil nach rechts
+
+
+
+
+
+Feedback
+
+
+
+
+
+
+
+
+
+
+Mehr lesen über
+
+
+
+P
+feil nach links
+
+
+
+
+
+
+
+Computersicherheit
+
+
+Hacker
+
+
+
+
+
+
+Pfeil nach rechts
+
+
+
+
+Verwandte Artikel
+
+
+
+
+•
+
+
+Ermittler eingeschaltet: IT-Ausfall in Düsseldorfer Uniklinik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spiele
+Pf
+eil nach rechts
+
+
+
+
+
+
+mehr Spiele
+
+
+
+
+
+Pfeil nach links
+
+
+
+
+
+
+
+
+
+
+Trivial Pursuit
+
+
+
+
+
+
+
+
+Solitaire
+
+
+
+
+
+
+
+
+
+Sudoku
+
+
+
+
+
+
+
+
+Mahjong
+
+
+
+
+
+
+
+
+Exchange
+
+
+
+
+
+
+
+
+Bubbles
+
+
+
+
+
+
+
+
+Sudoken
+
+
+
+
+
+
+
+
+Fibonacci
+
+
+
+
+
+
+
+
+
+Power Of 2
+
+
+
+
+
+
+
+
+Street
+
+
+
+
+
+
+
+
+Doppel
+
+
+
+
+
+
+
+
+Wortblitz
+
+
+
+
+
+
+
+
+Gumblast
+
+
+
+
+
+
+
+
+Wimmelbild
+
+
+
+
+
+
+
+
+
+Rushtower
+
+
+
+
+
+
+
+
+Skiracer
+
+
+
+
+
+Pfeil nach rechts
+
+
+
+
+
+
+
+
+Serviceangebote von SPIEGEL-Partn
+ern
+
+
+
+Gutscheine
+
+
+
+
+
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+
+OTTO Gutscheine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saturn Gutscheine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple Gutscheine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eBay Gutscheine
+
+
+
+
+
+
+
+
+
+
+
+
+Top Gutscheine
+
+
+Alle Shops
+
+
+
+
+
+
+
+
+
+Auto
+
+Pfeil nach oben
+
+Pfeil nach unten
+
+
+
+
+
+
+
+
+Bußgeldrechner
+
+
+Firmenwagenrechner
+
+
+
+
+
+
+
+Job
+
+P
+feil nach oben
+
+Pfeil nach unten
+
+
+
+
+
+
+
+
+Brutto-Netto-Rechner
+
+
+Uni-Tools
+
+
+Kurzarbeitergeld-Rechner
+
+
+
+Jobsuche
+
+
+
+
+
+
+
+Finanzen
+
+Pfeil nach oben
+
+Pfeil nach unten
+
+
+
+
+
+
+
+
+Währungsrechner
+
+
+Versicherun
+gen
+
+
+Gehaltsvergleich
+
+
+Immobilienbewertung
+
+
+
+
+
+
+
+
+Freizeit
+
+Pfeil nach oben
+
+Pfeil nach unten
+
+
+
+
+
+
+
+
+
+
+Eurojackpot
+
+
+LOTTO 6aus49
+
+
+GlücksSpirale
+
+
+
+
+
+
+Sportwetten
+
+
+Gutscheine
+
+
+Bücher bestellen
+
+
+
+
+
+
+
+Ferientermine
+
+
+Spiele
+
+
+
+
+
+
+
+
+
+Alle Magazine des SPIEGEL
+
+
+
+Pfeil nach links
+
+
+
+
+
+
+
+
+
+
+DER SPI
+EGEL
+
+
+
+
+
+
+
+
+Dein SPIEGEL
+
+
+
+
+
+
+
+
+SPIEGEL EDITION
+
+
+
+
+
+
+
+
+SPIEGEL LESEZEICHEN
+
+
+
+
+
+
+
+
+SPIEGEL WISSEN
+
+
+
+
+
+
+
+
+
+SPIEGEL COACHING
+
+
+
+
+
+
+
+
+SPIEGEL CHRONIK
+
+
+
+
+
+
+
+
+SPIEGEL GESCHICHTE
+
+
+
+
+
+Pfeil nach rechts
+
+
+
+
+
+
+
+
+SPIEGEL Gruppe
+
+
+Abo
+Shop
+bento
+manager magazin
+Harvard Business manager
+buchreport
+Werbung
+J
+obs
+MANUFACT
+SPIEGEL Akademie
+SPIEGEL Ed
+
+
+
+
+
+Impressum
+Datenschutz
+Nutzungsbedingungen
+Kontakt
+Hilf
+e
+
+
+Icon: Facebook
+Facebook
+
+Icon: Twitter
+Twitter
+
+Icon: Website
+
+Wo Sie uns noch folgen können
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+Wegen des #Ransomware Befalls der Uniklinik Düsseldorf ist eine Patientin gestorben 
+weil sie in eine weiter entfernte Klinik gefahren werden musste und deshalb keine sofortige Behandlu
+ng erfolgen konnte
+
+4AC5DDE2
+
+Spannend, erst mit Ransomware die Server unbrauchbar machen, dann ein 
+falsches Erpresserschreiben hinterlassen, was ja heißt, dass andere ebenfalls bedroht sind und dann 
+aber alles zurückziehen? Schräg der Fall.
+
+4AC5DDE2
+
+
+
+
+
+
+
+Der IT-Ausfall an der Düsseldorfer Uni-Kl
+inik beruht nach Angaben der Landesregierung auf einem Hacker-Angriff mit Erpressung. Wissenschaftsm
+inisterin Isabel Pfeiffer-Poensgen (parteilos) sagte am Donnerstag im Landtag, die Täter hätten nach
+ Kontakt zur Polizei die Erpressung zurückgezogen. Die Staatsanwaltschaft ermittelt inzwischen auch,
+ da eine Patientin in ein Wuppertaler Krankenhaus umgeleitet werden musste – und starb.
+Aus einem Be
+richt des Justizministers ging hervor, dass vergangene Woche 30 Server des Klinikums verschlüsselt w
+urden. Auf einem Server wurde ein Erpresserschreiben hinterlassen, das allerdings an die Düsseldorfe
+r Heinrich Heine-Uni gerichtet war. In dem Schreiben forderten die Erpresser zur Kontaktaufnahme auf
+ – eine konkrete Summe nannten sie laut Bericht nicht.
+Täter zogen Erpressung zurück
+Die Düsseldorfe
+r Polizei habe dann tatsächlich Kontakt aufgenommen und den Tätern mitgeteilt, dass sie durch ihren 
+Hackerangriff ein Krankenhaus – und nicht die Uni – betroffen sei. Damit seien Patienten erheblich g
+efährdet. Die Täter hätten daraufhin die Erpressung zurückgezogen und einen digitalen Schlüssel ausg
+ehändigt, mit dem die Daten wieder entschlüsselt werden können.
+Die Ermittler haben laut Bericht dah
+er den Verdacht, dass das Uni-Klinikum nur zufällig betroffen war. Inzwischen seien die Täter nicht 
+mehr erreichbar.
+Gegen die Unbekannten wird jetzt auch wegen des Todes einer Frau ermittelt, da eine
+ lebensbedrohlich erkrankte Patientin, die in der Nacht vom 11. auf den 12. September in die Uni-Kli
+nik gebracht werden sollte, an ein Krankenhaus in Wuppertal verwiesen wurde. Ihre Behandlung habe er
+st mit einstündiger Verspätung stattfinden können. Sie starb kurze Zeit später, so der Justizministe
+r in seinem Bericht.
+
+
+
+Keine Daten gestohlen
+Bei dem Hacker-Angriff sind nach bisherigen Erkenntnis
+sen keine Daten gestohlen oder unwiederbringlich gelöscht worden. Das hätten Untersuchungen von IT-E
+xperten ergeben, teilte die Klinik mit.
+Die Hacker hätten eine Schwachstelle in einer Anwendung ausg
+enutzt. „Die Sicherheitslücke befand sich in einer marktüblichen und weltweit verbreiteten kommerzie
+llen Zusatzsoftware. Bis zur endgültigen Schließung dieser Lücke durch die Softwarefirma war ein aus
+reichendes Zeitfenster gegeben, um in die Systeme einzudringen“, teilte die Klinik mit. Die Angreife
+r hätten dafür gesorgt, dass nach und nach Systeme ausfielen und ein Zugriff auf gespeicherte Daten 
+nicht mehr möglich war.
+
+
+
+
+
+
+Mehr zum Thema
+
+
+
+
+1/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Laut Microsoft 
+in Amerika
+            
+: 
+
+
+							Ausländische Hacker greifen angeblich wieder in Wahlkampf ein
+		
+	        
+
+
+
+
+
+
+Veröffentlicht/Aktualisiert: 
+
+
+
+
+
+
+Empfehlungen: 
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Killer, Hacker und Spione
+            
+: 
+
+
+							Wie Putin Krieg in Deutschland fü
+hrt
+			        
+
+
+
+
+
+
+					  						Markus Wehner, Berlin
+					
+
+Veröffentlicht/Aktualisiert: 
+
+
+
+
+
+
+
+Kommentare: 
+
+71
+
+,
+
+
+Empfehlungen: 
+
+55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Spektakulärer Diebs
+tahl
+            
+: 
+
+
+							Die Suche nach den verschwundenen Bitcoin-Milliarden
+			        
+
+
+
+
+
+
+
+					  						Franz Nestler
+					
+
+Veröffentlicht/Aktualisiert: 
+
+
+
+
+
+
+Empfehlungen: 
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Uniklinik Düsseldorf rechnet nun damit, dass es noch einige Zeit dauern wird, bis Patienten
+ wieder normal behandelt werden können. „Aufgrund des Umfangs des IT-Systems und der Fülle an Daten 
+können wir noch nicht abschätzen, wann dieser Prozess abgeschlossen sein wird“, sagte der Kaufmännis
+che Direktor, Ekkehard Zimmer, am Donnerstag. „Wir sind aber zuversichtlich, dass wir in den nächste
+n Tagen die Zeitspanne besser abschätzen können und dann auch Schritt für Schritt wieder für unsere 
+Patientinnen da sind.“
+
+
+
+Vergangene Woche Donnerstag war das IT-System des Universitätsklinikums au
+sgefallen. Rettungswagen fuhren die große Einrichtung in der nordrhein-westfälischen Landeshauptstad
+t daraufhin nicht mehr an, Operationen wurden verschoben und geplante Behandlungstermine abgesagt.
+
+
+
+4AC5DDE2
+
+Hackerangriff mit Erpressung und Verschlüsselung = sie haben sich Windows Ransomware eing
+egangen, oder? "Hacker" "Angriff" lol
+
+4AC5DDE2
+
+Die ProgrammePlanspiele von Kaspersky Interactive P
+rotection Simulation (KIPS)Speziell entwickelte Software simuliert die Auswirkungen eines Cyberangri
+ffs und der zugehÃ¶rigen Managemententscheidungen auf das GeschÃ¤ft und den UmsatzPlanspiel fÃ¶rdert
+ VerstÃ¤ndnis von MaÃnahmen zur CybersicherheitFÃ¶rdert bei der GeschÃ¤ftsfÃ¼hrung und bei Entschei
+dungstrÃ¤gern ein besseres VerstÃ¤ndnis fÃ¼r die SicherheitSteigert das Bewusstsein fÃ¼r die Risiken
+ und Sicherheitsprobleme moderner ComputersystemeAutomated Security Awareness PlatformBei der Kasper
+sky Automated Security Awareness Platform handelt es sich um eine innovative SchulungslÃ¶sung, welch
+e die neuesten Lerntechnologien mit der Ã¼ber 20-jÃ¤hrigen Erfahrung von Kaspersky Lab im Bereich Cy
+bersicherheit kombiniert.Â FÃ¶rdert ein mÃ¶glichst hohes Sicherheitsbewusstsein der Mitarbeiter und 
+etabliert neue Verhaltensmuster im Hinblick auf CybersicherheitKompetenzmodell mit 350 FÃ¤higkeiten 
+im Bereich CybersicherheitCybersecurity fÃ¼r IT Online (CITO-Schulung)Interaktives Training fÃ¼r IT-
+Generalisten (IT-Support, Service Desks usw.), bei denen Standard-Awareness-Programme nicht ausreich
+en, aber fundiertes Sicherheitswissen nicht erforderlich ist.Vermittelt praktische FÃ¤higkeiten, die
+ fÃ¼r das Erkennen eines mÃ¶glichen Angriffs bei einem vermeintlich gutartigen PC-Vorfall und fÃ¼r d
+as Sammeln von Vorfallsdaten zur Ãbergabe an die IT-Sicherheitsabteilung unerlÃ¤sslich sind.Jedes d
+er 5 Module besteht aus einem kurzen Theorieteil, praktischen Tipps und einer Reihe von praktischen 
+Ãbungen zu spezifischen Kompetenzen des alltÃ¤glichen Arbeitslebens
+
+4AC5DDE2
+
+Naja, eine Ransomwar
+e wird auf die Reise geschickt mit der Suche nach ausnutzbaren Sicherheitslücken wie in SMB etc. und
+ schlägt dann einfach zu.
+
+4AC5DDE2
+
+Todesfall in Düsseldorfer Klinik nach Ransomware-Attacke via zd
+net @zdnet_de
+
+4AC5DDE2
+
+Aha, also doch #Ransomware, war ja eigentlich aufgrund der Auswirkungen und
+ Dauer der Beeinträchtigungen naheliegend.
+Nach Angriff auf Uni-Klinik: Gegen Hacker wird wegen fahr
+lässiger Tötung ermittelt https://faz.net/-gus-a3goe?GEPC=s3… via @faznet
+
+4AC5DDE2
+
+Der Angreifer e
+rhalte durch die Schadsoftware den Zugriff auf den Rechner des Opfers. Sie installieren dann sogenan
+nte #Ransomware, um Daten zu verschlüsseln und mit Erpressungen finanziellen Profit daraus zu schlag
+en. #Zoom
+
+4AC5DDE2
+
+Emotet!=ransomware. Es ist der Initiale loader. Teilweise kommt dann irgendwann
+ ransomware. Dazwischen liegt aber auch manuelles "Hacking". AD ordentlich confen & Netz Segmentieru
+ng sind die richtigen Ideen. Ist aber nicht trivial und braucht ausreichend kompetentes Personal.
+
+4
+AC5DDE2
+
+Monate nach dem Auftauchen der kritischen Sicherheitslücke im Citrix Application Delivery C
+ontroller (ADC) und NetScaler Gateway (CVE-2019-19781, auch als “Shitrix“ bekannt) werden nun immer 
+mehr Fälle bekannt, in denen die Lücke sehr früh ausgenutzt, jedoch erst sehr viel später lukrativ v
+erwendet wurde bzw. aktuell wird.Unsere Incident Responder stellten dabei fest, dass im kritischen Z
+eitraum Anfang 2020 in einigen Fällen Backdoors installiert worden sind, welche nun, 8 Monate später
+, durch Ransomware-Angriffe aktiv ausgenutzt werden. Hierbei haben die Angreifer sich oft noch nicht
+ einmal die Mühe gemacht, die bekannten Proof-of-Concepts der Gruppe „Project Zero India“ anzupassen
+. So wurde in den uns bekannten Fällen der Benutzer „pwnpzi1337“ angelegt, welcher im ursprünglichen
+ PoC verwendet wurde.Die späteren Aktionen ähnelten dann wiederum den typischen Angriffsmustern der 
+aktuellen Kampagnen. Network Discovery, Verbreitung im Netz (beispielsweise mittels Dridex oder Coba
+lt-Strike), Datenabfluss und nachgelagert die Verschlüsselung der Daten mit z.B. DoppelPaymer.Es gib
+t jedoch eine Vielzahl weiterer denkbarer Malware-Varianten auf dem Markt. Aufgrund der aktuellen An
+griffswellen wird jedem Administrator und Systemverantwortlichen dringend empfohlen, speziell seine 
+Citrix NetScaler Systeme noch einmal genau zu prüfen, insbesondere auf mögliche neue Benutzer oder a
+uffällige Netzwerkaktivität. Ein Blick in den Ordner /var/vpn/bookmark wird in jedem Fall empfohlen,
+ da hier die vom Angreifer eingeschleusten XML-Dateien zu finden sind. Als schnelle Prüfung auf eine
+ mögliche Kompromitierung hat sich die Anleitung unterhttp://deyda.net/index.php/en/2020/01/15/check
+list-for-citrix-adc-cve-2019-19781  als hilfreich erwiesen.Sofern Zweifel an der Integrität der Syst
+ems bestehen, empfehlen unsere Forensik Experten das Neuaufsetzen des Systems, welches das Standardv
+orgehen bei Ransomware-Attacken ist. Gerne verweisen wir hierbei auch auf die Empfehlungen des BSI, 
+welches diese sehr gut zusammengefasst hat. Bereits im Januar 2020 hat das BSI eine Citrix-Schwachst
+ellenwarnung (siehe CSW-Nr. 2020-172597-1531, Version 1.5, 30.01.2020 undhttps://www.bsi.bund.de/DE/
+Presse/Pressemitteilungen/Presse2020/Citrix_Schwachstelle_160120.html) herausgegeben, welche beispie
+lweise die folgenden Maßnahmen enthält:Netztrennung der kompromittierten Citrix-InstanzSicherung der
+ alten Citrix-Instanz (gesamtes System oder zumindest die Logdateien unter /var/log/*)Neuaufsetzen d
+er Citrix-Instanz mit dem aktuellsten Build des jeweiligen Versionszweiges und Umsetzung des Workaro
+unds (Workaround-Empfehlung als noch keine Patches verfügbar waren).Erstellung neuer SSL-/TLS-Zertif
+ikate, Zurückrufen der alten SSL-/TLS-ZertifikateZurücksetzen aller Windows Active Directory Passwör
+ter, wenn sich der Citrix-Nutzerkreis nicht einschränken lässtJe nach Netzanbindung Prüfung der Wind
+ows Domäne auf weitere KompromittierungenWurden auf einem kompromittierten Citrix-System Wildcard-SS
+L-Zertifikate (*.example.com) verwendet, sind bei dem oben angesprochenen Zertifikatstausch alle wei
+teren Systeme zu berücksichtigen, die das Wildcard-Zertifikat einsetzen.Citrix-Administratoren sollt
+en grundsätzlich Citrix-Security-Bulletins mit Hinweisen auf neue Firmware-Versionen abonnieren, um 
+Hinweise auf neue Firmware-Updates zu erhalten Die Allianz für Cybersicherheit hat noch weitere Maßn
+ahme empfohlen. Diese finden sich unter www.allianz-fuer-cybersicherheit.de/ACS/DE/Informationspool/
+Themen/Ransomware/ransomware_node.html Wichtig zu erwähnen ist in diesem Fall auch, dass die Angreif
+er sich potenziell monatelang unbemerkt im Netzwerk bewegen konnten und damit die Integrität auch lä
+nger zurückliegender Backups gefährdet sein könnte. Hier ist besondere Vorsicht beim Restore betroff
+ener Systeme gegeben.Anfang August 2020 waren immer noch ca. 200 verwundbare Citrix-Systeme in Deuts
+chland aus dem  Internet erreichbar (https://twitter.com/certbund/status/1291017699351580675). Die D
+unkelziffer der Systeme, welche abgesichert sind, aber bereits eine Backdoor implementiert haben, lä
+sst sich nicht beziffern.Weiterhin gehen fast täglich Fälle von Ransomware in Microsoft Office-Dokum
+enten ein. Hier hatte Heise bereits Anfang September gewarnt (https://www.heise.de/ix/meldung/Malwar
+e-Immer-mehr-infizierte-MS-Office-Dateien-4883892.html). Bei weiteren Fragen können Sie sich gerne a
+n unsere Experten wenden
+
+4AC5DDE2
+
+#Kostendruck, #Ransomware-Bedrohungen und steigende #Datenmengen
+ in Zusammenhang mit #Backup & #Archiv sind Ihre Top-Themen? Da kann Ihnen Quantum weiterhelfen! htt
+ps://bit.ly/3g4Rw6q
+
+4AC5DDE2
+
+
+
+Die Ransomware-Infektion am Uniklinikum Düsseldorf hat jetzt ein Me
+n­schenleben gekostet. Weil die Systeme des Krankenhauses aufgrund der Malware-Infektion lahmgelegt 
+waren, musste eine Patientin verlegt wer­den - was sie nicht überlebte.
+
+
+
+Laut einem Bericht der Rh
+einischen Post, der sich auf das Justizministerium des Landes Nordrhein-Westfalen beruft, sind die E
+rmittlungen in dem Fall inzwischen auf den Straf­tat­be­stand der fahrlässigen Tötung ausgeweitet wo
+rden. Allerdings wird nicht näher aus­ge­führt, ob dabei nur die Erpresser ins Visier genommen werde
+n oder auch die IT-Ver­ant­wort­li­chen an der Universität.
+
+Die Sicherheitslücke, über die die Rans
+omware die Systeme des Krankenhauses infizierte, be­fand sich in einer "marktüblichen und weltweit v
+erbreiteten kommerziellen Zusatzsoftware", wie Wissenschaftsministerin Isabel Pfeiffer-Poensgen (par
+teilos) ausführte. Gerüchten zufolge geht es dabei um Thin-Client-Anwendungen von Citrix, für die de
+r entsprechende Patch be­reits seit einem halben Jahr verfügbar ist. Wenn die Malware sich hier also
+ auf un­zu­rei­chend gepflegten Systemen, an denen lebenskritische Anwendungen hingen, breit ma­chen
+ konn­te, dürf­te die Administratoren oder ihre Chefs zumindest eine Mitschuld treffen.
+
+
+Land will 
+mehr Geld bereitstellen
+Zumal die Erpresser offenbar davon aus­gingen, dass sie all­gemein die Unive
+r­sität zum Ziel hat­ten. Die Forde­rung nach Löse­geld, nach des­sen Zah­lung die ver­schlüsselten 
+Server wie­der frei­gegeben werden sollten, richtete sich zumin­dest an die Uni und nicht direkt an 
+das Kranken­haus. Darüber hinaus seien die Krypto-Keys au­ßer­dem ohne Geld­zahlungen heraus­gegeben
+ wor­den, nachdem die Polizei Kontakt zu den Er­pres­sern bekam und darlegte, dass von der Ran­som­w
+are gerade ein Kran­ken­haus lahm­ge­legt wird. Laut dem Justiz­ministe­rium konnten so die 30 geka­
+perten Server wieder ent­schlüsselt werden.
+
+Auf der politischen Ebene wurden inzwischen reagiert: D
+ie Landesregierung Nordrhein-West­fa­lens will Kliniken zukünftig mehr Geld zur Verfügung stellen, u
+m die IT-Sicherheit zu ver­bes­sern. Von den Fördermitteln, die im Rahmen des Bund-Länder-Kran­ken­h
+aus­zu­kunfts­ge­setzes fließen, sollen so mindestens 15 Prozent für Security-Belange ausgegeben wer
+den.
+
+Siehe auch:
+
+Uniklinik Düsseldorf nach Ransomware-Angriff weitgehend lahmgelegt
+Europol-Projek
+t NoMoreRansom beschert Erpressern hohe Verluste
+Ransomware: Erpresser kapern jetzt komplette NAS-Sy
+steme
+
+
+
+
+
+Sicherheitslücke, Hacker, Malware, Security, Hack, Angriff, Virus, Kriminalität, Schadsof
+tware, Exploit, Cybercrime, Sicherheitslücken, Hacking, Hackerangriff, Cybersecurity, Internetkrimin
+alität, Hacken, Sicherheitsupdate, anti-malware, Hacks, Darknet, Kurs, Hacker Angriffe, Attack, Hack
+er Angriff, Cyberwar, Crime, China Hacker, Russische Hacker, Sicherheitsrisiko, Risiko, Sicherheitsp
+roblem, Malware Warnung, Cyberangriff, Cyberattacke, tot, Dead, Totenkopf, Malware Found, Hazard, Sk
+ull
+
+
+
+
+
+4AC5DDE2
+
+Cyber-Angriff auf Uniklinik Düsseldorf: #Shitrix schlug zu https://heise.de/news/
+Cyber-Angriff-auf-Uniklinik-Duesseldorf-Shitrix-schlug-zu-4904979.html… #Citrix #Ransomware
+
+4AC5DDE
+2
+
+Man sollte viel mehr das Active Directory mal richtig konfigurieren, um nicht mehr von so billige
+r Ransomware wie Emotet weggeklatscht zu werden.

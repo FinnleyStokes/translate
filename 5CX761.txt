@@ -1,0 +1,45 @@
+Almanya'da bulunan Düsseldorf Üniversite Hastanesine düzenlenen fidye yazılımı saldırısı, bir hastan
+ın ölümüne sebebiyet vermiş olabilir.
+Düsseldorf Üniversite Hastanesinin web sitesinden yapılan 10 E
+ylül 2020 tarihli duyuruda, hastanenin sistemlerini etkileyen bir sorun (Fidye yazılımı saldırısı) o
+lduğu, bu sorun yüzünden hastanenin acil servis kayıtlarının silindiği ve hem acil servis hem de ran
+devulu hastaların tedavilerinin yapılamayacağı söylendi.
+Bu duyuru ve onu takip eden diğer duyurular
+da, IT ekibinin sorunu çözmeye çalıştığı ancak hastanenin sistemlerinin neredeyse tamamının çalışmam
+ası nedeniyle, hastanenin tam kapasiteyle hizmet veremediğini söylendi.
+Düsseldorf Üniversite Hastan
+esinin web sitesinden 17 Eylül 2020 tarihinde yapılan en son duyuruda ise IT sistemlerinin yaşadığı 
+sorunun bir siber saldırı (Fidye yazılımı saldırısı) olduğu ve saldırının etkilerinin hâlâ sürdüğü v
+e hastanenin tam kapasiteyle çalışmasını engellediği söylendi.
+Duyuruda, hackerların sisteme giriş n
+oktası olarak dünya çapında kullanılan bir yazılımda bulunan güvenlik açığı olduğu söylendi. Ayrıca 
+duyuruda, kolluk kuvvetleri ve hastanenin ilgili personelinin ortak bir şekilde çalıştığı, herhangi 
+bir fidye talebi olmadığı, verilerin kurtarılmaya devam edildiği ancak bu işlemin ne zaman biteceğin
+in bilinmediği söylendi.
+RTL.de'nin haberine göre hastanenin faaliyetleri, fidye yazılımı nedeniyle 
+kısıtlıyken acil müdahale gerektiren bir hastanın tedavisi yapılamadı ve başka bir hastaneye yönlend
+irildi. Daha sonra ise hasta, diğer hastaneye yönlendirilirken öldü.
+Habere göre yetkililer, eğer ha
+stanın ölümüne hastanenin fidye yazılımı saldırısı nedeniyle hastaya bakamadığı ve hastanın bu yüzde
+n öldüğünü tespit ederse, söz konusu fidye yazılımı soruşturmasına ek olarak cinayet soruşturması da
+ başlatabilirler.
+Ayrıca yine RTL.de'ki habere göre, Almanya polisi saldırıyı gerçekleştiren hackerl
+ar ile iletişime geçti ve hackerlar, fidye yazılımı tarafından şifrelenen verilerin kurtarılabilmesi
+ için bir parola çözme anahtarı verdi ve böylelikle hastane yetkilileri, şifrelenen verileri kurtarm
+aya başladı.
+
+
+4AC5DDE2
+
+Düsseldorf Üniversite Hastanesine düzenlenen fidye yazılımı saldırısı, bir 
+hastanın ölmesine sebep olmuş olabilir.
+
+#Düsseldorf #Ransomware #FidyeYazılımı #SiberGüvenlik #Cybe
+rSecurity #SiberGüvenlikHaberleri #CyberSecurityNews #Haber #News
+
+4AC5DDE2
+
+Önemli infografik. 2021
+'de daha büyük vurgunlar olacağı kesin. Daha bugün, ülkemizin büyük Doğal Kaynak ve Maden suyu işlet
+melerinden biri etkilendi. Dijitalleştiğimiz orandan 2 katı fazla güvenliğe önem vermemiz gerekiyor.
+ #ransomware

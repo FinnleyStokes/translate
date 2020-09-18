@@ -1,0 +1,628 @@
+Ransomware-aanval op Duits ziekenhuis leidde mogelijk tot dood patiente
+
+4AC5DDE2
+
+Eerste indicatore
+n van een ransomware-aanvalDus wat zijn de eerste indicatoren voor bedrijven die proberen een ransom
+ware-aanval te herkennen voordat ze te veel schade veroorzaken? Wat moeten ze doen als ze een lopend
+e aanval ontdekken?Allereerst vindt het encrypten van bestanden door ransomware als laatste plaats. 
+Daarvoor zullen de cybercriminelen weken, of zelfs langer, rondhangen in het netwerk om te onderzoek
+en wat de zwakke plekken zijn. Remote Desktop Protocol: een gewilde route om te hackenEen van de mee
+st voorkomende routes voor ransomwarebendes om in bedrijfsnetwerken te komen, is via Remote Desktop 
+Protocol (RDP) links die openstaan voor het internet. Dankzij het Remote Desktop Protocol kunnen we 
+toegang krijgen tot een ander pc of serveromgeving. Denk hierbij aan het inloggen op een applicatie 
+of het overnemen van een anders laptop voor bijvoorbeeld support. Deze toegangen zijn veelal afgesch
+ermd met een gebruikersnaam en wachtwoord.Vanwege coronabesmettingsgevaar is het advies van de overh
+eid nog steeds om zoveel mogelijk thuis te werken. Veel organisaties hebben daarom veel meer RDP-lin
+ks openstaan om het op afstand werken zoveel mogelijk te vergemakkelijken. Hierdoor neemt de kwetsba
+arheid voor ransomware-aanvallen toe.Herken de signalen en kom in actieIn een interview met ZDnet ge
+eft Jared Phipps, VP van SentinelOne - het bedrijf achter het gelijknamige endpoint protection platf
+orm - aan, dat de eerste stap is om de eigen kwetsbaarheid wat RDP-links betreft in kaart te brengen
+ en die toegangen snel met twee-factor-authenticatie te beveiligen of ze achter een VPN te plaatsen.
+Een ander waarschuwingssignaal kan zijn, dat er onverwachte softwaretools op het netwerk verschijnen
+. Aanvallers zullen beginnen met het verkrijgen van de controle over slechts één PC op een netwerk. 
+Grote kans dat die aanval begint met een phishing-e-mail.Over phishing e-mails gesproken: ontvangen 
+meerdere collega's een (zelfde) phishing e-mail, dan kan dat een indicatie zijn van een op handen zi
+jnde aanval. Het is van groot belang dat die medewerkers die e-mails als phishing e-mails herkennen 
+en daar alarm over slaan. De organisatie krijgt hiermee een vroege waarschuwing. Security awareness 
+trainingen zijn geen overbodige luxe.Zodra de aanvallers toegang tot één apparaat (laptop, desktop o
+f smartphone) hebben verkregen, dan zullen ze vanuit dat bruggenhoofd uw bedrijfsnetwerk verkennen o
+m nog meer zwakke plekken te ontdekken.Dat betekent dat ze gebruik maken van netwerkscanners, zoals 
+AngryIP of Advanced Port Scanner. Worden deze op uw netwerk ontdekt, dan is het zaak om intern na te
+ vragen of iemand deze tools gebruikt. Als dat niet het geval is, dan moet u serieus rekening houden
+ dat er een ransomware-aanval op uw organisatie wordt voorbereid.Een andere moment waar bij de alarm
+bellen moeten afgaan, is als het softwareprogramma MimiKatz op uw netwerk wordt gevonden. MimiKatz i
+s één van de tools die hackers, samen met Microsoft Process Explorer, gebruiken om wachtwoorden en i
+nloggegevens te stelen.Op jacht naar administratorrechtenEenmaal binnen in uw netwerk zullen ransomw
+arebendes op jacht gaan naar administratorrechten. Waarschijnlijk zullen zie die krijgen door zelf a
+dministratoraccounts aan te maken, bijvoorbeeld in Active Directory. Met hun uitgebreide rechten zul
+len ze beginnen met het uitschakelen van beveiligingssoftware met behulp van applicaties die zijn ge
+maakt om te helpen bij het gedwongen verwijderen van software, zoals Process Hacker, IOBit Uninstall
+er, GMER, en PC Hunter. Het beveiligingsbedrijf Sophos waarschuwt dat deze soort commerciële tools v
+aak legitiem zijn, maar in de verkeerde handen kunnen ze heel schadelijk zijn. Eenmaal gedetecteerd,
+ is de vraag waarom ze er überhaupt zijn. De kans is zo'n geval aannemelijk dat het om cyberaanvalle
+rs gaat.Om te voorkomen dat dit gebeurt, moeten bedrijven op zoek gaan naar accounts die buiten uw t
+icketing- of accountmanagementsysteem zijn aangemaakt, aldus SentinelOne's Phipps. Als de aanvallers
+ eenmaal de beheerdersbevoegdheden hebben gekregen, proberen ze zich vervolgens verder te verspreide
+n over het netwerk, met behulp van PowerShell.De hele voorbereiding tot het daadwerkelijke moment da
+t de ransomware geactiveerd wordt kan weken, en misschien zelfs maanden, duren. Dat komt omdat hacke
+rs zich zo langzaam mogelijk door het netwerk bewegen, zodat de kans dat ze ontdekt worden zo klein 
+mogelijk is. En veel beveiligingstools leggen slechts een bepaalde tijd het verkeer op het netwerk v
+ast, wat betekent dat als de hackers het een tijdje volhouden, het voor de beveiligingsteams veel mo
+eilijker wordt om uit te zoeken hoe ze überhaupt in het systeem terecht zijn gekomen.Klaar voor de r
+ansomware-aanvalEr zijn ook duidelijke tekenen dat een ransomware-aanval bijna klaar is. De aanvalle
+rs zullen proberen om Active Directory en domeincontrollers uit te schakelen en eventuele back-ups d
+ie ze kunnen vinden te corrumperen, evenals het uitschakelen van software-implementatiesystemen die 
+gebruikt zouden kunnen worden om patches of updates te pushen. En dan barst de ransomware-aanval los
+ met alle desastreuze gevolgen van dien.Sophos merkte ook op dat sommige cybercriminelen eerst hun a
+anval zullen testen op een aantal apparaten om te zien of hun plan gaat werken. Hierdoor worden ze w
+el zichtbaar, dus de echte aanval zal niet lang op zich laten wachten.Stappen tegen hackers die al i
+n uw netwerk zijnHoe kunt u de aanvallers tegenhouden als ze binnen zijn? Dit zijn de belangrijkste 
+stappen:
+
+4AC5DDE2
+
+. #Diefstal #inloggegevens en #ransomware bron van zorgen voor Nederlandse IT-be
+slisser. Nederlandse IT-beslissers maken zich de meeste zorgen over diefstal van inloggegevens en #r
+ansomware. Steeds meer bedrijven richten zich daaro…https://lnkd.in/dgQdHEJ
+
+4AC5DDE2
+
+#Ransomware #
+DDOS #Hacks #Cybercrime
+
+Dat organisaties met een groter verloop in de #IT, #ICT een aanzienlijker h
+oger risico lopen in hiaten in security, proces, procedure, moge duidelijk zijn. Minder duidelijk is
+ vaak dat de inhuur weer door anderen word…
+
+4AC5DDE2
+
+Duitsland onderzoekt dood patiënt na ransomwa
+re-aanval op ziekenhuisMay 30, 2019 at 02:44PM @ImPblq
+
+4AC5DDE2
+
+Naast WhatsApp leunt de veiligheid
+sregio nu grotendeels op de ouderwetse telefoonlijn. Voor het publiek, maar ook intern. 
+
+'Wie belt 
+er nou nog?' Slachtoffers van ransomware. 
+
+4AC5DDE2
+
+RANSOMWARE - Deze signalen waarschuwen dat u a
+l aangevallen wordt...
+
+#Ransomware-aanvallen vinden niet spontaan plaats. Daar gaat maanden aan voo
+rbereiding af. Herken de signalen en voorkom het ergste. Lees onze blog hoe u dat doet:
+
+4AC5DDE2
+
+V
+oor het eerst is er iemand aanwijsbaar als gevolg van een ransomware-aanval overleden https://zdnet.
+com/article/first-death-reported-following-a-ransomware-attack-on-a-german-hospital/… (via @DaveMaas
+land)
+
+4AC5DDE2
+
+#DDOS #Ransomware #Hacks #Cybercrime 
+Onderwijs CRM leveranc. @blackbaud was in Mei
+ aan de beurt. @UniUtrecht @tudelft e.a. Een #cloud ransomware aanval met 160.000 pers. gegevens bui
+t. 6000 BSN nummers.
+
+https://bit.ly/32DTxSR
+@MKBNL @MinOCW @Politie @BNR @RTLZ @BINederland
+
+4AC5DD
+E2
+
+#Duitsland onderzoekt dood patiënt na ransomwareaanval op ziekenhuis.
+
+ https://nu.nl/tech/60781
+73/duitsland-onderzoekt-dood-patient-na-ransomwareaanval-op-ziekenhuis.html… (via @NUnl)
+
+#Ransomwar
+e #Tech
+
+4AC5DDE2
+
+#DDOS #Ransomware #Hacks #Cybercrime
+
+Begin september zijn vrijwel alle systemen 
+van de Newcastle University geraakt door een massieve ransomware aanval. Naar buiten toe heeft men e
+en aantal 'vreemde' adviezen gegeven. Dat studenten gewoon konden proberen…
+
+4AC5DDE2
+
+Het blog op R
+izoomes over #WhatsApp #crisismanagement heeft een kleine update gehad naar aanleiding van de ransom
+ware attack bij de VNOG. Nieuw stukje tekst toegevoegd en de rest ff glad gestreken. Tips en toevoeg
+ingen blijven welkom.
+
+4AC5DDE2
+
+
+De Duitse autoriteiten zijn een onderzoek gestart naar de dood van
+ een patiënt die niet naar het ziekenhuis in Düsseldorf kon worden gebracht vanwege een ransomwareaa
+nval. De patiënt is mogelijk overleden, omdat de ambulance naar een ander ziekenhuis moest rijden me
+ldt het Duitse RTL.
+Het ziekenhuis in Düsseldorf werd vorige week getroffen door ransomware, waardoo
+r computersystemen voor langere tijd niet goed werkten. De hackers gaven de servers van het ziekenhu
+is uiteindelijk onder druk van de politie vrij, maar mogelijk heeft dit tot het overlijden van een p
+atiënt geleid.De patiënt moest per ambulance naar het ziekenhuis in Düsseldorf, maar vanwege de tech
+nische problemen in het ziekenhuis werd de ambulance omgeleid naar het ziekenhuis in Wuppertal. De a
+mbulance moest hierdoor 30 kilometer verder rijden en dit is de patiënt mogelijk fataal geworden.
+
+
+
+
+Door de ransomware konden er ook veel minder operaties plaatsvinden en kon het ziekenhuis minder pa
+tiënten opnemen. Tot nu toe leken er geen ernstige incidenten te hebben plaatsgevonden als gevolg va
+n de ransomwareaanval, maar bij deze patiënt is er mogelijk toch een verband dat nu onderzocht moet 
+worden. Het zou de eerste keer zijn dat een ransomwareaanval indirect een dode tot gevolg heeft.Door
+ de ransomware werden dertig servers van het ziekenhuis versleuteld en eisten hackers losgeld via ee
+n bericht dat ze op de servers achterlieten. Het bericht was gericht aan de lokale universiteit. De 
+politie heeft daarop contact opgenomen met de hackers en duidelijk gemaakt dat het de servers van ee
+n ziekenhuis betrof en dat er patiënten een verhoogd risico liepen. De hackers hebben de servers ver
+volgens vrijgegeven.
+
+
+4AC5DDE2
+
+Duitsland onderzoekt dood patiënt na ransomware-aanval op ziekenhui
+s:
+
+4AC5DDE2
+
+Diefstal inloggegevens en ransomware bron van zorgen voor Nederlandse IT-beslisser
+
+4A
+C5DDE2
+
+Het covid19 virus heeft ook enorme impact op het Nederlandse zakenleven. De AX 0 bv Denktank
+ heeft sinds de eerste dagen van 2020 de ontwikkelingen in China en Italië met contacten ter plaatse
+ zeer nauw gevolgd. Met regelmaat zijn updates en medische publicaties en ervaringen nauwlettend bek
+eken. Realtime informatie is dagelijks gedeeld met cliënten in de Benelux en Duitsland met heldere z
+akelijke adviezen voor herinrichting van bijvoorbeeld werkplekken, technisch beschermende adviezen, 
+security en protocollen, maar ook hoe zo veilig mogelijk vanuit huis te kunnen werken.Vanuit die gov
+ernance zetten AX 0 bv consultants voortdurend die extra stap. Vanwege die actualiteit heeft AX 0 bv
+ dan ook deel genomen aan de RTLZ uitzendingen gepresenteerd door Myrna Goossen, “Samen Sterk Tijden
+s Corona“.Wat is de impact van covid19 op het bedrijfsleven, de zaak en hoe ziet de zakelijke toekom
+st eruit na covid19? Vragen die in elke boardroom en aan directietafels leven. Middels onze tickerta
+pe houden wij u graag van aktuele zaken op de hoogte.
+
+4AC5DDE2
+
+Het is natuurlijk grote paniek op h
+et moment dat je ICT platligt door een ransomware-aanval. Maar ergens lijkt het me ook niet wenselij
+k dat de back-up-oplossing een buitenlandse chatdienst is, die geen garanties voor vertrouwelijkheid
+ en beschikbaarheid biedt
+
+4AC5DDE2
+
+Ransomware-aanval veiligheidsregio Noord- en Oost-Gelderland kr
+ijgt niet zo heel veel aandacht, omdat zaken als P2000 en C2000 gewoon doordraaien. 
+
+Maar dat de or
+ganisatie erachter nog functioneert, lijkt mede te danken aan... WhatsApp. Uit een stuk bedoeld voor
+ raadsleden:
+
+4AC5DDE2
+
+Eerste dode gerapporteerd naar aanleiding van een #ransomware aanval op Duit
+s ziekenhuis. #cybercrime
+
+4AC5DDE2
+
+
+Nederlandse IT-beslissers maken zich de meeste zorgen over die
+fstal van inloggegevens en ransomware. Steeds meer bedrijven richten zich daarom op security awarene
+ss-trainingen.
+Dit blijkt uit onderzoek van KnowBe4, leverancier van een platform voor security awar
+eness-trainingen en simulated phishing. Het onderzoek is gehouden onder IT-beslissers in bedrijven v
+anaf vijftig medewerkers. In Nederland zijn voor dit onderzoek 100 IT-beslissers uit de technologie-
+, gezondheids-, sport-, bedrijfs- en transportsector ondervraagd door onafhankelijk onderzoeksbureau
+ Direct Research.In het onderzoek is gekeken naar verschillende perspectieven op het gebied van cybe
+rsecurity, welke aanvalstypen zijn voorgekomen en welke beveiligingsinitiatieven zijn ondernomen op 
+het gebied van technologie en training.
+'Credential compromise is serieuze uitdaging'
+Ongeveer 6 op 
+de 10 respondenten (61%) vindt dat hun medewerkers gepast gedrag vertonen dat in lijn is met hun fun
+ctie als het gaat om cybersecurity. Desondanks maken zij zich zorgen over hun digitale veiligheid. Z
+ij zien credential compromise - dat over het algemeen het resultaat is van succesvolle phishing- en/
+of social engineering-aanvallen - als een serieuze uitdaging voor veel IT-beslissers. 15% van de Ned
+erlandse respondenten geeft aan hier ‘s nachts wakker van te liggen.
+Bij de meeste respondenten vorm
+t ransomware de grootste zorg voor hun bedrijf. Bijna 8 op de 10 (78%) noemt dit aanvalstype als pro
+bleem. Als het gaat om gebruikersgerelateerde problemen zijn nalatige gebruikers de grootste zorg (6
+8%). Daarnaast is 7 op de 10 (70%) respondenten bezorgd over cyberaanvallen waarbij betrokkenheid va
+n de de gebruiker vereist is. Meer dan 8 op de 10 (82%) respondenten geeft aan op dit moment bezig t
+e zijn met de implementatie van Security Awareness Training.
+“Het is opvallend dat veel IT-beslisser
+s vinden dat hun medewerkers gepast cybersecurity-gedrag vertonen, terwijl ze nog steeds bang zijn t
+en prooi te vallen aan cyberaanvallen waarbij betrokkenheid van de gebruiker vereist is”, zegt Jelle
+ Wieringa, Security Awareness Advocate bij KnowBe4. “Je kunt je dan afvragen hoe serieus het onderwe
+rp Security Awareness op de kaart staat binnen die bedrijven en of de aanwezige kennis op dit gebied
+ wel volstaat.”
+Meer resultaten zijn beschikbaar in het rapport ‘What Keeps You Up At Night’. 
+
+4AC5
+DDE2
+
+Ransomware is niet alleen maar naar, of vervelend, maar kan daadwerkelijk levensgevaarlijk zij
+n. Alsof de deuren van het ziekenhuis niet digitaal, maar letterlijk op slot zaten.
+
+4AC5DDE2
+
+Datag
+edreven zijn heeft zo z’n gevolgen. Net zoals de professionalisering van cybercrime en het zwichten 
+van gegijzelde bedrijven voor afpersers gevolgen hebben. Het draait allemaal om data, die beter besc
+hermd moet worden. Naast securitysoftware moet backup niet vergeten worden. En beter aangepakt. Hoe?
+ Zo.
+De gulden regel voor het back-uppen van data is 3-2-1. Je moet tenminste 3 kopieën van je data 
+hebben, één is de data in je productie-omgeving en twee zijn in back-ups. En dat dan wel op 3 versch
+illende plekken; een back-up die op je reguliere opslagsysteem staat, telt niet mee. Verder moeten d
+ie kopieën op minstens 2 verschillende opslagformaten staan. En je moet 1 back-up offsite bewaren. D
+eze traditionele IT-wijsheid is nog altijd van toepassing, maar volstaat tegelijkertijd niet meer. D
+e gulden regel voor back-ups heeft een update nodig.
+
+
+4AC5DDE2
+
+#DDOS #Ransomware #Phishing en #cyb
+ercrime
+#Ransomware aanval treft #Veiligheidsregio Gelderland N-O!
+
+https://bit.ly/3khWizw
+Ransomwar
+e te lijf?  
+http://bit.ly/3mbK0dH
+@KPN @BNR @RTLZ @PwC_Nederland @Deloitte @MKBNL @KPMG_NL @EY_Nede
+rland @NUnl #AX0 @RechtspraakNL
+
+4AC5DDE2
+
+#DDOS #Ransomware #Hacks #CybercrimeChat 
+
+Hoe een hoog p
+ersoneelsverloop en cloud ransomware aanvallen in de hand werken.
+
+Oplossing: Ransomware check, grat
+is en regelmatig geupdate
+https://bit.ly/2ZIgS4c
+#AX0 @BNR @RTLZ @BINederland @KPN @KPMG @Deloitte @
+EY_Nederland @MKBNL
+
+4AC5DDE2
+
+Maar Emotet is geen ransomware. Emotet steelt allerlei informatie en 
+kan andere malware zoals ransomware installeren. Ik zou nog eens doorvragen of er echt geen informat
+ie is gelekt.
+
+4AC5DDE2
+
+
+Leestijd: 11 minuten
+Laatste update 17 september 2020
+Communicatie tussen 
+teams is essentieel voor goed crisismanagement. Zeker als er sprake is van tijdsdruk gaat dat nog we
+l eens mis. Het is daarom belangrijk om gebruik te maken van systemen die je dagelijks inzet. Zoals 
+Whatsapp. 
+Dit blog helpt je op weg met het invoeren van Whatsapp crisismanagement. We beginnen met 
+de tucht van de vergaderklok en de dynamiek van incidenten. Daarna kom je automatisch op het gebruik
+ van Whatsapp. Wat kom je verder nog tegen:
+Tussenstand na twee jaar WhatsappenNut van Whatsapp als 
+back up systeem bij uitval primaire systemenEncryptie: is Whatsapp veilig te gebruiken?Wet Openbaarh
+eid BestuurValkuil: information biasNogmaals back up: VNOG geteisterd door ramsonware
+Tucht vergader
+klok
+Vrijwel alle systemen voor crisismanagement hanteren een combinatie van plenair vergaderen met 
+‘werktijd’ tussen de vergaderingen door. Ook over beeldvorming, oordeelsvorming en besluitvorming be
+staan niet heel veel fundamentele verschillen. Iedereen tweakt een beetje richting zijn eigen stokpa
+ardjes, al dan niet met ronkende benamingen, maar in de kern zijn het allemaal variaties op kijken, 
+denken, doen. Niet zo spannend dus.
+Er bestaan grote verschillen in opvattingen over de tucht van de
+ vergaderklok. Sommigen menen bijvoorbeeld dat je elk kwartier moet vergaderen, om gestructureerd de
+ laatste stand van zaken door te nemen. Mede gevoed door mijn praktijkervaring als officier van dien
+st bij de brandweer geloof ik daar niet zo in, zeker niet in de beginfase van een incident. Dan loop
+t alles nog zo chaotisch en onvoorspelbaar, als je dan strak elk kwartier de verbindingen staakt, ra
+akt het veld het contact met het crisisteam kwijt en gaat iedereen zijn eigen ding doen. Weg coördin
+atie.
+Ikzelf geloof meer in het meebewegen met de flow van het incident. Een beetje wat een scheidsr
+echter doet: goed kijken in het veld wat er gebeurt en pas ingrijpen als het nodig is. En dat beteke
+nt dus soms heel veel fluiten, en dan opeens tijden weer niet. 
+Eén ding weet je wel zeker: het is a
+ltijd veel lopen en continu opletten. Goed fluiten is dus hard werken, net als goed crisismanagement
+, maar dan kunnen de teams ook boven zichzelf uitstijgen. Je inzet doet er in die gevallen echt toe,
+ en dat maakt het mooi werk.
+
+Effectiviteit Whatsapp
+Begin 2015 trainde ik een crisisteam waar ik vo
+or het eerst tegen Whatsapp gebruik aanliep. De voorzitter had net de eerste snelle ronde beeldvormi
+ng afgesloten en iedereen gevraagd om informatie uit de eigen discipline te gaan verzamelen. 
+Ik kee
+k in de rondte, wachtend op die kenmerkende hoogspanning van de simultane telefoongesprekken tijdens
+ crisis, toen ik opeens merkte dat het doodstil bleef en iedereen druk typend in zijn smartphone ver
+dween. Af en toe wisselden mensen wat informatie uit aan tafel, maar het bleef opmerkelijk rustig. H
+et bleek dat alle deelnemers Whatsapp groepen hadden met hun eigen achterban en netwerken. Die groep
+en gebruikten ze al in de dagelijkse praktijk, en stonden dus ook al klaar voor crisis. 
+Ik stond er
+ eerst wat ambivalent tegen over: zo voelde crisis helemaal niet in het echt, het was veel te rustig
+, het moest gonzen. Maar al gauw stelde ik vast dat dat slechts mijn eigen achterhaalde routines war
+en: in een mum van tijd had iedereen de informatie boven tafel en kon de tweede plenaire ronde begin
+nen. Het was echt een heel effectief middel.
+Het is wel belangrijk om Whatsapp alleen te gebruiken v
+oor feiten en mededelingen. Informatie dus. Whatsapp is niet geschikt voor discussies, het poneren v
+an stellingen of dilemma’s en meningsvorming. Dat moet je gewoon in de BOB blijven doen.
+Parallelle 
+communicatie, altijd bereikbaar
+In de tweede ronde ontdekte ik een ander pluspunt van Whatsapp Crisi
+smanagement: ondanks dat de vergadering plenair ging, kon iedereen contact blijven houden met het ve
+ld. Spoed kon gelijk worden afgehandeld, zonder dat het de vergadering stoorde. Daarmee konden de ee
+nheden snel weer op het goede pad worden geholpen. 
+Handiger nog was dat in de discussie aan tafel e
+r soms vragen werden gesteld die via Whatsapp direct beantwoord konden worden. Het maakte de vergade
+ring daardoor veel effectiever. Ook breaking news kwam direct door, en het crisisteam kon gelijk bep
+alen of ze daar wat mee gingen doen of dat ze het lieten lopen.
+
+Een derde voordeel van Whatsapp Cri
+sismanagement is dat je parallel berichten kan ontvangen uit diverse groepen en accounts. Je bent du
+s nooit meer ‘in gesprek’ en altijd bereikbaar, terwijl je zelf kan bepalen welke berichten je wel o
+f niet in behandeling neemt. Daarmee samenhangend voordeel is dat je alle accounts en groepen heel s
+nel van dezelfde informatie kunt voorzien. Inclusief foto’s en filmpjes uit het veld om de beeldvorm
+ing te versterken.
+Aansluiting op normale communicatiepatronen
+De grote kracht van Whatsapp is dat h
+et direct aansluit op de normale communicatiepatronen van mensen. Je kunt heel makkelijk contact leg
+gen met wie je wilt, zonder moeilijke inlogprocedures en formele systeemvereisten. Er is geen opleid
+ing voor nodig om Whatsapp te gebruiken. 
+Bovendien ben je in contact met je eigen netwerk, en weet 
+je dus precies hoe je de berichten van je collega’s moet interpreteren. De zachte kant van informati
+e weegt dan ook gewoon mee in je communicatie, zoals je via de porto en de telefoon ook doet. Als bi
+jvoorbeeld ‘Henk’, die een lekke band tijdens een fietstocht al de zwartste dag in zijn leven noemt,
+ roept dat het uit de klauwen loopt, ben je eerder geneigd het met een korrel zout te nemen dan als 
+‘Willem’ zoiets zou zeggen.
+Whatsapp Crisismanagement in één oogopslag. Visual note van Wendy Kiel.
+
+Addertjes onder het gras
+Er zitten ook wat kleine addertjes onder het gras natuurlijk. Gratis gaaf b
+estaat nu eenmaal niet. Whatsapp Crisismanagement leidt tot een soort gecolokeerde swarming, waardoo
+r de voorzitter goed moet opletten dat het gezamenlijke beeld adequaat wordt opgebouwd. Iedereen is 
+het centrum van zijn eigen Whatsapp groep en dreigt daardoor aansluiting met het fysieke team kwijt 
+te raken. Onvolledige shared mental models zijn het gevolg en die zijn een bron van ellende gebleken
+ in crisissituaties. 
+Daarnaast wordt de bekende vergaderstructuur doorbroken: plenair en niet-plena
+ir lopen in elkaar over. Dat is niet erg, maar je moet dan wel nieuwe gedragscodes ontwikkelen en va
+st stellen. 
+Een laatste addertje zit in de security van Whatsapp: je data staan feitelijk op server
+s van Facebook company en het is de vraag hoe safe dat is. Tegelijkertijd heeft Snowden laten zien d
+at je data in essentie nergens veilig staan. Maar het is natuurlijk wel een overweging die je moet m
+aken. 
+Alles bij elkaar zie ik Whatsapp Crisismanagement echter als een interessante nieuwe ontwikke
+ling die nog veel beloftes in zich heeft.
+Tussenstand na twee jaar gebruik
+Het is al weer enige tijd
+ geleden dat ik de eerste versie van dit blog publiceerde. Een tijd waarin genoeg is gebeurd om een 
+korte update te schrijven over de plussen en minnen van Whatsapp crisismanagement.
+
+Geen doel maar e
+en middel
+Over het algemeen kwamen er positieve reacties op het blog. Sommigen lieten weten het dire
+ct in de praktijk gebruikt te hebben en gaven aan dat het bij hen goed gefunctioneerd had. Sommigen 
+meenden echter dat ik via Whatsapp een kritische noot wilde plaatsen tegen LCMS. Maar dat was geensz
+ins mijn bedoeling. 
+Sterker nog, ik schreef het blog juist vanuit de context dat er geen LCMS wordt
+ gebruikt; er wordt namelijk op meer plaatsen aan crisismanagement gedaan dan in het COPI – OT – BT.
+ Ook bedrijven moeten soms opeens crises managen en voor hen is aansluiting op een common use techno
+logie zeer aan te raden. Dat leidt tot minder fouten, je hoeft niet op te leiden of onderhoud te ple
+gen. Ideaal. 
+En je krijgt er gratis een log bij van je berichtenverkeer, dus je kunt het ook nog ee
+ns gebruiken om mee te evalueren en van te leren. Een prima middel voor crisismanagement dus, dat Wh
+atsapp, maar geen doel op zichzelf. Je kunt ook andere tools gebruiken, zo lang het maar past bij je
+ doelen en je organisatie.
+Back up systeem
+Na de aanslagen op de Terminal van Zaventem verschenen er
+ berichten in de pers dat het communicatiesysteem van de politie ‘Astrid’ was uitgevallen en dat men
+ onder andere via Whatsapp moest communiceren. Het Nieuwsblad schrijft: 
+“Urenlang zou het systeem n
+iet gewerkt hebben. Daardoor verliepen de reddingsoperaties van de politie op de luchthaven veel moe
+izamer en chaotischer dan zou mogen. “Het was om radeloos te worden”, zegt een agent. “Orders kwamen
+ niet door en niemand wist eigenlijk wat gedaan. Het gsm-netwerk lag ook uit. Gelukkig werkte Whatsa
+pp nog. Zonder die app hadden we helemaal niet kunnen communiceren.”
+Dit sluit aan op ervaringen in 
+Nederland van tijdens de grote stroomstoring in mei 2015. Toen vielen ook de GSM masten uit, omdat d
+ie niet voorzien zijn van noodstroom. Dat bemoeilijkte de communicatie zeer. Daar waar de Wifi nog f
+unctioneerde, bleek Whatsapp het ook nog te doen. Het maakt Whatsapp tot een prima back up systeem, 
+zeker nu er ook versies van via de laptop te gebruiken zijn. 
+Natuurlijk, eigenlijk zou ‘Astrid’ nie
+t uitgevallen mogen zijn. Maar ook in Nederland laat het vergelijkbare C2000 zien dat er bij piekbel
+astingen vaak delen van de communicatie uitvallen, zoals bij de crash met de Turkish Airlines in 200
+9. Dat stelt eerder vragen bij het ontwerp en invoering van specifieke Tetra systemen (Terrestrial T
+runked Radio) voor crisismanagement dan dat het een diskwalificatie is voor Whatsapp.
+De landelijke 
+telefoonstoring van 24 juni 2019, waarbij ook 112 uitviel, liet eens te meer zien wat het nut van Wh
+atsapp als back up systeem is. Zolang er WiFi is (of 4G met data) kun je via Whatsapp bellen en info
+rmatie uitwisselen.
+Encryptie
+Sinds april 2016 zijn ook IOS systemen voorzien van een end to end enc
+ryptie voor Whatsapp. Dat betekent dat niemand je berichtenverkeer meer kan onderscheppen of aflezen
+. Zelfs Whatsapp zelf niet, zo valt te lezen op allerlei onafhankelijke websites zoals deze van Icul
+ture. Whatsapp heeft een extern bedrijf (Open Whisper Systems) ingehuurd om de encryptie te verzorge
+n. “(..) de mensen die bij het axolotl-protocol betrokken zijn, zijn grote voorstanders van privacy 
+en encryptie. Edward Snowden gelooft er in ieder geval in: hij zegt dat je de beveiliging van Open W
+hisper Systems kunt vertrouwen”. 
+
+Nu Whatsapp ook nog eens encrypted is, zitten er weinig nadelen m
+eer aan vast. Het sluit aan bij dagelijks gebruik, iedereen weet hoe het werkt en de kans op fouten 
+is daardoor veel kleiner dan als je onder tijdsdruk opeens een dedicated system moet bedienen. 
+Ik v
+raag mij zelfs af of je nog wel gebruik zou moeten maken van dedicated systems als common use zo suc
+cesvol is. Dat is de grote vraag die Whatsapp crisismanagement nu opwerpt: moet je eigenlijk wel spe
+ciale systemen gebruiken als het ook met gewone kan?
+De valkuil van Information Bias
+Na twee jaar we
+rken met Whatsapp crisismanagement zijn er nieuwe aandachtspunten die je bij invoering in de gaten m
+oet houden. Zoals gezegd is het een snelle manier om ad hoc netwerken aan elkaar te linken en veel m
+ensen direct van dezelfde informatie te voorzien. Dat maakt het een krachtig middel. 
+In sommige gev
+allen is Whatsapp eigenlijk zelfs te krachtig, zo heb ik ook gezien. Bij dynamische scenario’s, waar
+ in de beeldvormingsfase steeds nieuwe informatie het lastig maakt om een oordeel te vellen en een b
+esluit te nemen, zie ik sommige teams als een magneet aan hun beeldscherm geplakt zitten, in de hoop
+ dat nieuwe informatie nu wel doorslaggevend zal zijn en er een besluit genomen kan worden. Die team
+s zijn in de valkuil van de information bias gelopen.
+
+Information bias is één van de vele vormen va
+n human bias die Kahneman beschreven heeft en waar ik in dit blog over informatiemanagement al eens 
+aandacht aan schonk. Ook in het verhaal over de onbetrouwbaarheid van snelle expertise komt human bi
+as theory voorbij. Information bias is steeds vaker een reële valkuil voor crisisteams nu er veel me
+er informatie via verschillende systemen beschikbaar komt.
+Laten we daarom vooral niet vergeten wat 
+ook weer de kern van crisismanagement was: het nemen van besluiten op basis van onvolledige informat
+ie onder tijdsdruk.
+Die vaardigheden moeten dus wel current worden gehouden in oefening en training,
+ anders bestaat het gevaar dat al die extra informatie vooral leidt tot congestie en besluiteloze te
+ams.
+Whatsapp en de Wob
+Een ander aandachtspunt is een uitspraak van de rechter over de Wet openbaar
+heid bestuur (Wob) en het gebruik van SMS en Whatsapp. Citaat van de website uitspraken.rechtspraak.
+nl:
+“Sms- en WhatsApp-berichten vallen als object onder de documentdefinitie van de Wob in die zin d
+at het gaat om ‘een schriftelijk stuk of ander materiaal dat gegevens bevat’. De techniek van opslaa
+n als zodanig mag niet bepalen of de Wob wel of niet op een document van toepassing is. Sms- en What
+sApp-berichten die staan op telefoons met een abonnement op naam van verweerders organisatie vallen 
+naar het oordeel van de rechtbank daarom wel onder de term “berusten onder” verweerder, terwijl soor
+tgelijke berichten die staan op privételefoons van ambtenaren niet vallen onder de term “berusten on
+der” verweerder.”
+Oftewel: als je een telefoon van de baas hebt kunnen Whatsapp en SMS onder de Wob 
+vallen. Dat lijkt mij geen overigens geen reden om geen informatiesystemen zoals Whatsapp te gebruik
+en, maar rondom LCMS heb ik ook al eerder ongeruste geluiden gehoord over het gebruik van gelogde in
+formatie in relatie tot de Wob en incident-onderzoeken. Dat roept wel een heel pregnante vraag op:
+H
+oe moet je informatie achteraf interpreteren die in het heetst van de crisis is uitgewisseld om de z
+aak onder controle te krijgen?
+Is dat informatie waar derden / externen achteraf een oordeel over ku
+nnen vellen, of moet het gezien worden als wederzijdse afstemming onder tijdsdruk waar verder niets 
+uit geconcludeerd moet (en mag) worden? Mij lijkt voorlopig dat laatste, maar dat is niet de tendens
+ die ik in de maatschappij meen te bespeuren. Overigens staat dit dilemma verder los van Whatsapp en
+ dient de discussie er over wel degelijk op de agenda te staan. De vraag is natuurlijk wiens agenda.
+
+Al met al blijf ik een voorstander van het gebruik van Whatsapp crisismanagement. Je moet wel weten
+ wat je doet, maar dat geldt voor alle tools die je gebruikt. Uit de ervaringen van de afgelopen vie
+r jaar zie je wel dat de toepassing er van steeds volwassener wordt en dat zulks gepaard gaat met en
+kele fundamentele vragen. Dat zijn vragen die echter ook in andere contexten rondom crisismanagement
+ een antwoord verdienen. Business as usual dus.
+Containercalamiteit en gebruik Whatsapp
+Op 20 juni 2
+019 verscheen een rapport van het IFV over het crisismanagement na de container calamiteit met de MS
+C Zoe in januari van dat jaar. Het IFV constateert dat Whatsapp zeer intensief gebruikt is. Ze bevel
+en aan om Whatsapp management toe te passen, zie pag 78 van IFV Rapport: Containercalamiteit, Crisis
+beheersing in het Waddengebied. 
+“Een ander instrument dat hier genoemd moet worden is WhatsApp. Op 
+zeer grote schaal is gebruikgemaakt van dit medium. Bestaande groepen en spontaan gevormde whatsappg
+roepen werden ingezet voor het snel delen van informatie en beelden. Voor wat betreft het gebruik va
+n WhatsApp bevelen wij aan na te denken over WhatsAppmanagement (welke informatie te delen, wie zit 
+in welke groep, koppeling met LCMS etc.).” 
+IT van Veiligheidsregio VNOG gekaapt
+Op 12 september 202
+0 wordt bekend dat de Veiligheidsregio Noord Oost Gelderland is geraakt door een ransomware attack. 
+Op hun website verschijnt het volgende bericht:
+“Zaterdagmiddag 12 september is de Veiligheidsregio 
+Noord- en Oost-Gelderland (VNOG) getroffen door gijzelsoftware. Interne systemen zijn geraakt en wer
+ken beperkt, ook e-mail kan niet worden gebruikt. Informatie die de eenheden van de brandweer nodig 
+hebben bij een uitruk zijn beschikbaar. Meldingssystemen zoals P2000 en C2000 werken gewoon. De veil
+igheid is niet in het geding. Ook de rol van de veiligheidsregio bij de bestrijding van het coronavi
+rus gaat gewoon door.”
+Vijf dagen later is deze aanval nog niet afgeslagen en publiceert de VNOG een
+ update:
+“De VNOG heeft aangifte gedaan bij de politie van de aanval met cybersoftware.Er is tijd no
+dig voor het veilig herstel en het op orde krijgen van de systemen. Met hulp van experts wordt hard 
+gewerkt om data terug te krijgen. Daarin zijn we succesvol. Zorgvuldigheid en veiligheid gaan voor s
+nelheid. Wanneer systemen of delen van systemen weer beschikbaar zijn is nog niet te zeggen.”
+Maar i
+n de tussentijd is gebruik gemaakt van Whatsapp, zo meldt Joost Schellevis op Twitter. Schellevis is
+ journalist bij de NOS en schrijft veel over techniek en corona. Hieronder zie je zijn tweet:
+
+Hoe v
+ervelend ook voor de VNOG, het is wel weer een mooi voorbeeld van de kracht van Whatsapp crisismanag
+ement. Het is beter je voor te bereiden op een generiek back up systeem dat iedereen weet te gebruik
+en, dan je te verliezen in ingewikkelde noodsystemen waar mensen geen ervaring mee hebben. 
+30547718
+16
+
+
+4AC5DDE2
+
+Duitsland onderzoekt dood patiënt na ransomware-aanval op ziekenhuis
+
+4AC5DDE2
+
+[Twea
+kers] Ransomware-aanval op Duits ziekenhuis leidde mogelijk tot dood pati?nte - https://go.schorel.e
+u/6p5qe7 #nieuws #technews
+
+4AC5DDE2
+
+Ransomware-aanval op Duits ziekenhuis leidde mogelijk tot dood
+ patiënte
+
+4AC5DDE2
+
+#DDOS #Ransomware, #Cybercrime #exploderen
+
+Verzekeraars die dat nog dekken? Ho
+e lang nog?
+
+#AX0 @BNR @RTLZ @Interpolis @nn_nederland @DeAmersfoortse @Interglas @EY_Nederland @KPM
+G_NL @Deloitte @PwC @MKBCongres @MKBServicedesk @UnileverNL @Shell_Nederland http://bit.ly/2LjK3CD
+
+
+4AC5DDE2
+
+Of data nu het nieuwe goud is of de nieuwe olie, de waarde is groot. Helaas scheelt het no
+g wat aan bescherming ervan. Beter backuppen! #backup #ransomware #data
+
+4AC5DDE2
+
+
+De Veiligheidsre
+gio Noord- en Oost-Gelderland (VNOG) is zaterdag getroffen door een aanval met ransomware. Hierdoor 
+is het gebruik van het interne systeem beperkt en kan e-mail niet gebruikt worden.
+Essentiële inform
+atie die hulpdiensten nodig hebben is nog wel beschikbaar, meldt de VNOG zondag. De veiligheid is vo
+lgens de organisatie niet in het geding. De VNOG is een samenwerking tussen 22 gemeenten.Het is nog 
+niet duidelijk hoe de systemen van de VNOG geraakt konden worden door de ransomware. Hoewel het gebr
+uik van de interne systemen is beperkt, werken de meldingssystemen zoals P2000 en C2000 nog wel.
+
+
+
+
+Cybercriminelen proberen met ransomware (gijzelsoftware) bestanden op computers en binnen netwerken 
+te vergrendelen. Via een boodschap wordt aan de gebruikers vervolgens gemeld dat ze zijn gehackt en 
+dat ze een sleutel kunnen invoeren om alles te herstellen. Voor deze sleutel moet vaak veel geld wor
+den betaald.De VNOG is met specialisten en organisaties, onder wie het Nationaal Cyber Security Cent
+rum en de politie, aan het uitzoeken of de aanvallers toegang hebben gekregen tot de data en wat de 
+precieze gevolgen zijn. "We zetten alles op alles om te zorgen dat alle systemen zo spoedig mogelijk
+ weer veilig kunnen werken", aldus de VNOG.Het is nog niet duidelijk hoe lang de situatie precies ga
+at duren bij de Veiligheidsregio. Ook is niet bekend wie de aanvallers zijn.Bedrijven, scholen en ov
+erheidsorganisaties zijn vaker gewild doelwit bij hackers. In februari lagen nog de systemen plat va
+n zo'n twintig Limburgse scholen.
+
+
+
+
+
+
+
+
+
+
+
+Zie ook: 
+Geen tonnen betalen aan criminelen? Zo wapen 
+je je tegen gijzelsoftware
+
+
+
+
+
+

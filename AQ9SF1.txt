@@ -1,0 +1,100 @@
+Ransomware har åbenbart kostet det første menneskeliv.
+
+4AC5DDE2
+
+Cyberkriminelle kan altså ta liv. 
+ #løsepengevirus #ransomware
+
+4AC5DDE2
+
+Forfalsket sikkerhetstrenings-epost fra phishing-simulatorfi
+rma. Første dødsfall rapportert etter et ransomware-angrep mot tysk sykehus. https://telenorsoc-news
+.blogspot.com/2020/09/20200918-nyhetsbrev.html…
+
+4AC5DDE2
+
+
+
+
+ Se alle ledige jobber
+
+En kvinnelig p
+asient måtte omdirigeres til et annet sykehus etter at sykehuset i Düsseldorf ble rammet av et såkal
+t løsepengevirus-angrep. Det førte til at kvinnen ikke fikk hjelp i tide, og døde.
+Løsepengeangrepet
+ skal ha satt deler av sykehusets datasystemer ut av spill i en uke. Det svake punktet skal ha vært 
+en «mye brukt kommersiell tilleggsprogramvare», uten at sykehuset vil spesifisere på dette tidspunkt
+et, skriver Techxplore.
+Angrepet førte til at alle systemer krasjet gradvis, og sykehuset fikk ikke 
+tilgang til data. Dermed måtte øyeblikkelig hjelp-pasienter omdirigeres, og operasjoner utsettes.
+Sy
+kehuset selv fikk aldri noe løsepengebrev, men etterforskerne tror Heinrich Heine-universitetet, som
+ sykehuset er tilknyttet, kan ha vært det egentlige angrepsmålet.
+Da angriperne fikk vite at sykehus
+et var rammet og at pasienter ble skadelidende, skal de ha avbrutt angrepet og sendt en digital nøkk
+el for oppløsing av serverne til etterforskerne.
+Dataangrepet blir nå etterforsket som uaktsomt drap
+ av tysk politi.
+I USA ble 764 helseinstitusjoner rammet av løsepengeangrep i 2019. Det er mange kje
+nte tilfeller tidligere der helseinstitusjoner er rammet av løsepengeangrep, men ingen kjente dødsfa
+ll som knyttes til dette før nå.
+
+
+
+
+Les også
+
+
+
+
+
+
+4AC5DDE2
+
+Britisk efterretningstjeneste til univ
+ersiteter: Beskyt jer selv mod ransomware
+
+4AC5DDE2
+
+
+Forfalsket sikkerhetstrenings-epost fra phishi
+ng-simulatorfirma. Første dødsfall rapportert etter et ransomware-angrep mot tysk sykehus.
+Forfalske
+t sikkerhetstrenings-epost fra phishing-simulatorfirma
+
+
+Cofense Intelligence har analysert en kampa
+nje med e-poster med sikkerhetstema. Disse gir seg ut for å være en påminnelse om å ta en anti-phish
+ing-opplæring, men lenkene sender ofrene til en phishing-side. Phishing-sidene har blitt observert p
+å kompromitterte nettsteder og har blitt brukt på minst 30 domener siden midten av april 2020.
+
+
+Ref
+eranser
+
+
+
+https://cofense.com/spoofed-training-email-fr[...]
+
+
+
+Første dødsfall rapportert etter et
+ ransomware-angrep mot tysk sykehus
+
+
+Det har blitt registrert et dødsfall etter at en pasient ble o
+mdirigert til et nærliggende sykehus etter at Düsseldorf universitetssykehus ble rammet av et ransom
+ware-angrep. Pasienten, som trengte akutt behandling, døde etter å ha blitt omdirigert til et sykehu
+s mer en 30 km unna. Det nærmeste sykehuset  hadde fått ransomware på mer enn 30 interne servere.
+
+
+
+Referanser
+
+
+
+https://www.zdnet.com/article/first-death-rep[...]
+
+
+
+

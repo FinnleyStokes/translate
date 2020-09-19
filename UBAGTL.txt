@@ -1,0 +1,2090 @@
+Non è un virus Ransomware
+Un ransomware è un tipo di malware che limita l'accesso del dispositivo ch
+e infetta, richiedendo un riscatto da pagare per rimuovere la limitazione.Wikipedia (IT)
+
+4AC5DDE2
+
+
+Era solo questione di tempo, ne parlavamo già nel 2009, ma solo oggi si èa hotizia della prima morte
+ accertata a seguito di un'aggressione a scopo di riscatto in un ospedale tedesco, un #ransomware.
+N
+uovi scenari di sicurezza per vecchi, vecchissimi…
+
+4AC5DDE2
+
+
+
+Proteggere le cartelle importanti co
+n l'accesso controllato alle cartelleProtect important folders with controlled folder access
+
+
+08/25
+/2020
+
+4 minuti per la lettura
+
+
+
+
+
+
+
+In questo articolo
+
+
+Si applica a:Applies to:
+
+Microsoft Defen
+der Advanced Threat Protection (Microsoft Defender ATP)Microsoft Defender Advanced Threat Protection
+ (Microsoft Defender ATP)
+
+Informazioni sull'accesso alle cartelle controllateWhat is controlled fol
+der access?
+Accesso alle cartelle controllate consente di proteggere i dati importanti da app e mina
+cce malevole, ad esempio ransomware.Controlled folder access helps you protect your valuable data fr
+om malicious apps and threats, like ransomware. L'accesso alle cartelle controllate consente di prot
+eggere i dati controllando le app in un elenco di app note e attendibili.Controlled folder access pr
+otects your data by checking apps against a list of known, trusted apps. Supportato nei client Windo
+ws Server 2019 e Windows 10, l'accesso alle cartelle controllate puÃ² essere attivato usando l'app d
+i sicurezza di Windows o in Microsoft endpoint Configuration Manager e Intune (per i dispositivi ges
+titi).Supported on Windows Server 2019 and Windows 10 clients, controlled folder access can be turne
+d on using the Windows Security App or in Microsoft Endpoint Configuration Manager and Intune (for m
+anaged devices).
+L'accesso alle cartelle controllate funziona meglio con Microsoft Defender Advanced
+ Threat Protection, che fornisce report dettagliati in eventi e blocchi di accesso alle cartelle con
+trollate come parte degli scenari di analisi degli avvisiusuali.Controlled folder access works best 
+with Microsoft Defender Advanced Threat Protection, which gives you detailed reporting into controll
+ed folder access events and blocks as part of the usual alert investigation scenarios.
+Come funziona
+ l'accesso alle cartelle controllate?How does controlled folder access work?
+L'accesso alle cartelle
+ controllate funziona solo consentendo alle app attendibili di accedere alle cartelle protette.Contr
+olled folder access works by only allowing trusted apps to access protected folders. Le cartelle pro
+tette vengono specificate quando Ã¨ configurato l'accesso a una cartella controllata.Protected folde
+rs are specified when controlled folder access is configured. In genere, le cartelle usate di freque
+nte, ad esempio quelle usate per documenti, immagini, download e cosÃ¬ via, sono incluse nell'elenco
+ delle cartelle controllate.Typically, commonly used folders, such as those used for documents, pict
+ures, downloads, and so on, are included in the list of controlled folders.
+L'accesso alle cartelle 
+controllate funziona con un elenco di software attendibile.Controlled folder access works with a lis
+t of trusted software. Se un'app Ã¨ inclusa nell'elenco di software attendibile, l'app funziona come
+ previsto.If an app is included in the list of trusted software, the app works as expected. In caso 
+contrario, l'app viene bloccata da apportare modifiche ai file che si trovano all'interno delle cart
+elle protette.If not, the app is blocked from making any changes to files that are inside protected 
+folders. Le app vengono aggiunte all'elenco attendibile in base alla loro prevalenza e reputazione.A
+pps are added to the trusted list based upon their prevalence and reputation. Le app che sono altame
+nte diffuse in tutta l'organizzazione e che non hanno mai visualizzato comportamenti illeciti, sono 
+considerate attendibili e aggiunte automaticamente all'elenco.Apps that are highly prevalent through
+out your organization, and that have never displayed any malicious behavior, are deemed trustworthy 
+and automatically added to the list.
+Le app possono anche essere aggiunte manualmente all'elenco att
+endibile tramite Configuration Manager e Intune.Apps can also be manually added to the trusted list 
+via Configuration Manager and Intune. Le azioni aggiuntive, ad esempio l' aggiunta di un indicatore 
+di file per l'app, possono essere eseguite dalla console centro sicurezza.Additional actions, such a
+s adding a file indicator for the app, can be performed from the Security Center Console.
+L'accesso 
+alle cartelle controllate Ã¨ particolarmente utile per proteggere i documenti e le informazioni da r
+ansomware.Controlled folder access is especially useful in helping to protect your documents and inf
+ormation from ransomware. In un attacco ransomware i file possono essere crittografati e tenuti in o
+staggio.In a ransomware attack, your files can get encrypted and held hostage. Con l'accesso alle ca
+rtelle controllate sul posto, viene visualizzata una notifica nel computer in cui un'app ha tentato 
+di apportare modifiche a un file in una cartella protetta.With controlled folder access in place, a 
+notification appears on the computer where an app attempted to make changes to a file in a protected
+ folder. Puoi personalizzare la notifica con dettagli dell'azienda e le informazioni di contatto.You
+ can customize the notification with your company details and contact information. Puoi inoltre abil
+itare le regole individualmente per indicare in modo personalizzato quali tecniche monitorare.You ca
+n also enable the rules individually to customize what techniques the feature monitors.
+Le cartelle 
+protette includono cartelle di sistema comuni ed Ã¨ possibile aggiungere altre cartelle.The protecte
+d folders include common system folders, and you can add additional folders. Puoi anche consentire a
+lle app di concedere loro l'accesso alle cartelle protette.You can also allow apps to give them acce
+ss to the protected folders.
+Puoi usare la modalitÃ  di controllo per valutare in che modo l'accesso
+ alle cartelle controllate inciderebbe sull'organizzazione se Ã¨ stata abilitata.You can use audit m
+ode to evaluate how controlled folder access would impact your organization if it were enabled. Ã a
+nche possibile visitare il sito Web Windows Defender test Ground su demo.WD.Microsoft.com per verifi
+care che la funzionalitÃ  funzioni e vedere come funziona.You can also visit the Windows Defender Te
+st ground website at demo.wd.microsoft.com to confirm the feature is working and see how it works.
+L
+'accesso alle cartelle controllate Ã¨ supportato in Windows 10, versione 1709 e successive e Windows
+ Server 2019.Controlled folder access is supported on Windows 10, version 1709 and later and Windows
+ Server 2019.
+RequisitiRequirements
+L'accesso alle cartelle controllate richiede l'abilitazione dell
+a protezione in tempo reale di Microsoft Defender Antivirus.Controlled folder access requires enabli
+ng Microsoft Defender Antivirus real-time protection.
+Esaminare gli eventi di accesso alle cartelle 
+controllate in Microsoft Defender Security CenterReview controlled folder access events in the Micro
+soft Defender Security Center
+Microsoft Defender ATP offre report dettagliati in eventi e blocchi co
+me parte degli scenari di analisi degli avvisi.Microsoft Defender ATP provides detailed reporting in
+to events and blocks as part of its alert investigation scenarios.
+Ã possibile eseguire query sui d
+ati di Microsoft Defender ATP usando Advanced Hunting.You can query Microsoft Defender ATP data by u
+sing Advanced hunting. Se si usa la modalitÃ  di controllo, Ã¨ possibile usare la ricerca avanzata p
+er vedere come le impostazioni di accesso alle cartelle controllate influiranno sull'ambiente se son
+o state abilitate.If you're using audit mode, you can use advanced hunting to see how controlled fol
+der access settings would affect your environment if they were enabled.
+Query di esempio:Example que
+ry:
+DeviceEvents
+| where ActionType in ('ControlledFolderAccessViolationAudited','ControlledFolderAc
+cessViolationBlocked')
+
+Esaminare gli eventi di accesso alle cartelle controllate nel Visualizzatore
+ eventi di WindowsReview controlled folder access events in Windows Event Viewer
+Puoi rivedere il lo
+g eventi di Windows per vedere gli eventi creati quando i blocchi di accesso alle cartelle controlla
+te (o controlli) un'app:You can review the Windows event log to see events that are created when con
+trolled folder access blocks (or audits) an app:
+
+Scaricare il pacchetto di valutazione ed estrarre 
+il file cfa-events.xml in una posizione facilmente accessibile nel dispositivo.Download the Evaluati
+on Package and extract the file cfa-events.xml to an easily accessible location on the device.
+
+Digi
+ta Visualizzatore eventi nel menu Start per aprire il Visualizzatore eventi di Windows.Type Event vi
+ewer in the Start menu to open the Windows Event Viewer.
+
+Nel riquadro sinistro, in azioni, selezion
+are Importa visualizzazione personalizzata....On the left panel, under Actions, select Import custom
+ view....
+
+Passa al percorso in cui Ã¨ stato estratto cfa-events.xml e selezionalo.Navigate to where
+ you extracted cfa-events.xml and select it. In alternativa, copia direttamente il codice XML.Altern
+atively, copy the XML directly.
+
+Scegli OK.Click OK.
+
+
+Dopo aver seguito la procedura, Ã¨ stata crea
+ta una visualizzazione personalizzata che Mostra gli eventi correlati all'accesso alle cartelle cont
+rollate, come indicato nella tabella seguente:After following the procedure, you have created a cust
+om view that shows events related to controlled folder access, as listed in the following table:
+
+
+
+
+ID eventoEvent ID
+DescrizioneDescription
+
+
+
+
+50075007
+Evento quando le impostazioni vengono modifica
+teEvent when settings are changed
+
+
+11241124
+Evento di accesso alle cartelle controllate controllato
+Audited controlled folder access event
+
+
+11231123
+Evento di accesso alle cartelle controllate blocca
+toBlocked controlled folder access event
+
+
+
+Visualizzare o modificare l'elenco delle cartelle protet
+teView or change the list of protected folders
+App di sicurezza di Windows 10Windows 10 security app
+
+
+Nel dispositivo Windows 10 aprire l'app Windows Security.On your Windows 10 device, open the Windo
+ws Security app.
+
+Selezionare Virus & protezione dalle minacce.Select Virus & threat protection.
+
+In
+ protezione ransomwareselezionare Gestisci protezione ransomware.Under Ransomware protection, select
+ Manage ransomware protection.
+
+Se l'accesso alla cartella controllata Ã¨ disattivato, Ã¨ necessario
+ attivarlo.If controlled folder access is turned off, you'll need to turn it on. Selezionare cartell
+e protette.Select protected folders.
+
+Eseguire una delle operazioni seguenti:Do one of the following
+ steps:
+
+Per aggiungere una cartella, selezionare + Aggiungi una cartella protetta.To add a folder, 
+select + Add a protected folder.
+
+Per rimuovere una cartella, selezionarla e quindi scegliere Rimuov
+i.To remove a folder, select it, and then select Remove.
+
+
+
+
+Vedere ancheSee also
+
+Valutare l'access
+o alle cartelle controllate.Evaluate controlled folder access. Usa uno strumento demo dedicato per v
+edere come funziona l'accesso alle cartelle controllate e quali eventi verranno in genere creati.Use
+ a dedicated demo tool to see how controlled folder access works, and what events would typically be
+ created.
+
+Abilitare l'accesso alle cartelle controllate.Enable controlled folder access. Usare i CS
+P di criteri di gruppo, di PowerShell o di gestione di dispositivi mobili per abilitare e gestire l'
+accesso alle cartelle controllate nella reteUse Group Policy, PowerShell, or mobile device managemen
+t CSPs to enable and manage controlled folder access in your network
+
+Personalizzare l'accesso alle 
+cartelle controllate.Customize controlled folder access. Aggiungi altre cartelle protette e consenti
+ ad app specificate di accedere alle cartelle protette.Add additional protected folders, and allow s
+pecified apps to access protected folders.
+
+
+
+
+
+
+
+
+
+Questa pagina Ã¨ stata utile?
+
+
+
+SÃ¬
+
+
+
+No
+
+
+
+
+
+
+Hai feedback aggiuntivo?
+
+
+
+Ignora
+Invia
+
+
+
+
+Grazie.
+
+ 
+
+
+
+Commenti e suggerimenti
+
+Invia e visualiz
+za il feedback per
+
+
+Questo prodotto
+
+
+
+
+Questa pagina
+
+
+
+
+
+
+Visualizza tutto il feedback nella pagi
+na
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chiaro					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scuro					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contrasto elevato					
+
+
+
+
+ 
+
+
+Documentazione sulle versioni precedenti
+Blog
+Collabora
+Priv
+acy e cookie
+Condizioni per l'utilizzo
+Commenti e suggerimenti sul sito
+Marchi
+© Microsoft 2020
+
+
+
+
+
+
+4AC5DDE2
+
+Ransomware, il crimine informatico ha fatto una vittima
+
+4AC5DDE2
+
+Un attacco ransomware 
+ha messo fuori uso i sistemi dell'ospedale universitario di Düsseldorf e provocato il decesso di una
+ paziente.
+
+4AC5DDE2
+
+Donna muore durante un attacco ransomware a un ospedale tedesco
+
+4AC5DDE2
+
+
+ 
+                   È da tempo che gli esperti di cyber security sottolineano come il settore Sanità 
+sia uno dei più impreparati di fronte all'intensificarsi degli attacchi cyber. Ora dalla Germania ar
+riva una notizia, su cui le autorità stanno ancora indagando, che rappresenterebbe il primo caso di 
+decesso causato, ovviamente in modo indiretto, da un attacco informatico. Per la precisione da un at
+tacco ransomware che, tra l'altro, non era nemmeno mirato in modo specifico verso l'ospedale colpito
+.Secondo i media tedeschi, la clinica universitaria di Dusseldorf - Uniklinik Düsseldorf - è stata c
+olpita da un attacco ransomware che ha gradatamente messo fuori gioco una trentina di server. Il per
+sonale dell'ospedale non ha più potuto accedere ai sistemi e ai dati. Le operazioni chirurgiche sono
+ state sospese quasi completamente, passando da un centinaio a una decina al giorno.L'incapacità per
+ l'ospedale di gestire un normale carico di lavoro è stata la causa della morte di una donna. Doveva
+ essere ricoverata con urgenza ma, non potendo essere ammessa nella clinica di Dusseldorf, è stata d
+irottata verso la vicina città di Wuppertal. La distanza tra i due centri è di una trentina di chilo
+metri: non molto, ma abbastanza perché - tra un ritardo e l'altro - la donna ricevesse le cure neces
+sarie un'ora dopo il previsto. Un ritardo che ne ha causato la morte.Per quanto se ne sa, l'attacco 
+ransomware ha sfruttato - si spiega - una vulnerabilità "di un software add-on commerciale ampiament
+e utilizzato". Ma non è stato specificato quale. L'attacco tra l'altro non era diretto in modo speci
+fico verso l'ospedale. Mirava ai sistemi della Università di Dusseldorf. L'ospedale è affiliato all'
+Università, ma opera in maniera autonoma.La Polizia di Dusseldorf ha contattato gli autori dell'atta
+cco ransomware, spiegando quanto stava succedendo. L'attacco è stato sospeso e i criminali hanno inv
+iato le chiavi di decodifica con cui l'ospedale può recuperare i suoi dati. Dopodiché si sono resi, 
+prevedibilmente, irrintracciabili. Questo non ferma le indagini, che con la morte della donna si son
+o trasformate da un incidente informatico in un sospetto omicidio colposo.La vulnerabilità degli osp
+edali e delle strutture sanitarie di fronte agli attacchi informatici è nota. Ma le misure di sicure
+zza implementate negli ospedali sembrano sempre meno di quelle che sarebbero necessarie. Il prolifer
+are di applicazioni software, dispositivi connessi e processi digitali ha effetti positivi sull'oper
+atività delle strutture. Ma aumenta i punti di vulnerabilità. Una situazione aggravata dal fatto che
+ molti sistemi medicali usano piattaforme software obsolete, non sono progettati pensano alla cyber 
+sicurezza, sono usati da personale poco formato sulla cyber security.Parallelamente, le strutture sa
+nitarie sono un bersaglio sempre più frequente di attacchi cyber. Perché la criminalità conosce bene
+ lo scenario della loro (poca) sicurezza. E perché ospedali e cliniche gestiscono informazioni sensi
+bili e quindi potenzialmente monetizzabili da parte degli attaccanti. Gli ospedali vivono così una s
+ituazione ad alto rischio, dalla quale sembra difficile uscire in maniera efficiente ed organizzata.
+                
+
+4AC5DDE2
+
+Germania: donna muore durante attacco ransomware all'ospedale [di ALESSA
+NDRO LONGO] [aggiornamento delle 16:53]
+
+4AC5DDE2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+I consigli di Dynabook: invest
+ire in attrezzature sicure per proteggersi
+
+Lavoro a distanza e home office sono ormai diventati la 
+norma per molte aziende in tutto il mondo in questo 2020. Un passaggio che ha richiesto loro forti e
+ rapidi aggiornamenti dei sistemi di sicurezza IT e dei dispositivi collegati. Su di essi i dipenden
+ti aziendali lavorano e vanno tenuti aggiornati agli standard più recenti. Ma la sicurezza IT non è 
+solo una questione legata allo “smart working”, i requisiti di sicurezza sono un must per qualsiasi 
+tipo di azienda – e non.
+Dynabook consiglia allora di investire in attrezzature sicure, per evitare 
+le costose conseguenze dei cyber attacchi, economiche e di immagine. Il fulcro di una sicurezza comp
+leta è il BIOS, programma incorporato nei computer che gestisce l’avvio del sistema operativo all’ac
+censione del computer. Il firmware infatti ha un ruolo chiave per la protezione degli utenti dagli h
+acker, perché agisce prima che il sistema operativo entri in funzione.
+Foto: Ufficio stampa
+Protezio
+ne informatica: parte dal BIOS e dall’autenticazione biometrica
+Delle misure di autenticazione biome
+trica rendono il sistema ancora più difficile da penetrare e i dipendenti potranno lavorare in total
+e sicurezza, in qualsiasi modalità. La sicurezza IT ha risvolti positivi anche sulle entrate azienda
+li. Avere un equipaggiamento hardware e software è importante per poter lavorare in modo sicuro. E’ 
+nell’interesse di tutti non scendere a compromessi sugli strumenti di sicurezza informatica, anzi in
+vestire su un’infrastruttura protetta completamente può tradursi anche in vantaggi economici per l’i
+ntera azienda.
+Cybersecurity Ventures prevede che gli attacchi informatici costeranno alle organizza
+zioni globali 6.000 miliardi di dollari all’anno entro il prossimo anno. Costi sono aumentati del 10
+0% dal 2015. L’European Systemic Risk Onboard (ESRB), ha rilevato 1 azienda vittima di un attacco ra
+nsomware ogni 11 secondi. Proteggere l’hardware con il BIOS significa che, il firmware preinstallato
+ sul PC, in fase di accensione controlla la funzionalità dei vari componenti hardware. Se non ci son
+o errori, il sistema operativo viene avviato.
+Foto: Pexels / Ufficio stampa
+Dynabook consigli per la
+ protezione da attacchi informatici
+In caso di violazione o infezione da malware nel BIOS, i cybercr
+iminali possono penetrare direttamente nel firmware del computer, leggere i dati o addirittura manip
+olarli senza essere rilevati. Negli ultimi anni, la maggior parte dei produttori ha sostituito il “c
+lassico” BIOS con l’Unified Extensible Firmware Interface (UEFI). Tra i vantaggi conta velocità, fun
+zionalità e facilità d’uso. Ma l’UEFI è inferiore al BIOS in termini di sicurezza, aumentano il risc
+hio che i cybercriminali si infiltrino.
+Per questo, Dynabook sviluppa il proprio BIOS basandosi sull
+’attuale standard UEFI, con un unico programma, che funziona dal punto di vista del software e dell’
+hardware. Gli amministratori IT possono attivare singoli slot USB per un preciso gruppo di utenti, l
+e modifiche sono possibili solo con un controllo di identità tramite dynabook. I dispositivi sono do
+tati anche di opzioni di autenticazione biometrica, più efficaci delle password: telecamere a infrar
+ossi e sensori di impronte digitali.
+Per saperne di più sulle “Tech News” visita InnovaMi cliccando 
+qui
+
+Tagscyber securityTech News 
+
+
+←
+Articolo precedente
+Quanto hanno acquistato gli italiani in qu
+arantena?
+
+
+→
+Articolo successivo
+Il CICAP Fest 2020 non si ferma e si sposta sul web
+
+
+
+
+4AC5DDE2
+
+
+Germania: donna muore durante attacco ransomware all'ospedale https://repubblica.it/tecnologia/sicur
+ezza/2020/09/18/news/germania_donna_muore_durante_attacco_ransomware_all_ospedale-267735262/… via @r
+epubblica
+
+4AC5DDE2
+
+
+Una donna è morta a causa di un attacco informatico che ha bloccato la rete de
+ll’ospedale di Duesseldorf, in Germania, il 10 settembre. Lo riportano i media tedeschi, definendolo
+ il primo caso di morte legato direttamente al ransomware, codice malevolo che blocca i computer del
+le vittime a scopo di ricatto. La paziente, al momento identificata come una donna che necessitava d
+i cure mediche urgenti, è deceduta dopo essere stata reindirizzata in un ospedale della città di Wup
+pertal, a più di 30 km dalla sua destinazione iniziale, che era appunto l'ospedale universitario di 
+Duesseldorf. La struttura non ha potuto accogliere la paziente a causa di un blocco informatico ma i
+l trasferimento è stato fatale per la donna deceduta in seguito al ritardo delle cure.
+
+
+
+
+
+
+
+
+Sicur
+ezza
+
+Privacy, Garante: nel 2019 oltre ottomila tra reclami e segnalazioni
+
+
+
+
+Secondo il notiziario
+ tedesco Rtl, la banda di criminali dietro il ransomware ha ritirato la sua richiesta di riscatto do
+po essere stata contattata dalla polizia tedesca. Ha anche fornito i codici per decrittare i sistemi
+ dell’ospedale. Su di loro pende una possibile imputazione per omicidio, oltre che per cybercrime. D
+alle prime analisi, "l’infezione" sembra essere partita da una vulnerabilità presente nei gateway di
+ rete Citrix usati dall’ospedale, che era già stata segnalata a partire da gennaio.
+
+
+
+
+
+
+
+
+Sicurezz
+a
+
+Coronavirus, sempre piÃ¹ attacchi informatici e truffe web. Ecco come evitarli
+
+
+
+
+Molti esperti 
+in queste ore commentano con apprensione la notizia. “Probabilmente non è la prima morte causata da 
+un ransomware, dato che Wannacry ha bloccato migliaia di ospedali nel mondo, soprattutto nel Regno U
+nito, nel 2017”, dice Paolo dal Checco, esperto informatico forense. Ma è probabilmente il primo cas
+o riportato, dove c’è insomma un rapporto chiaro di causa effetto, fino al decesso di una paziente i
+ndividuata. Secondo uno studio 2019 dell’università Vanderbilt, Wannacry ha indirettamente aumentato
+ la mortalità ospedaliera contribuendo al decesso di 36 persone su 10 mila casi di arresto cardiaco 
+riportati. Gli ospedali, rallentati nella loro normale operatività per colpa del ransomware, hanno i
+nfatti impiegato più tempo del consueto nelle cure e nelle diagnosi. Ad esempio, i ricercatori hanno
+ scoperto che ci sono voluti 2,7 minuti extra perché i pazienti sospettati di infarto ricevessero un
+ elettrocardiogramma.
+
+
+
+
+
+
+
+
+Sicurezza
+
+Ransomware, l'attacco informatico che fa paura alle aziende
+: il 41% ne ha subito almeno uno nell'ultimo anno
+
+
+
+
+“La notizia rattrista ma non stupisce. Non è i
+l primo caso di attacco informatico che mette in crisi una struttura ospedaliera, né sarà l'ultimo”,
+ commenta Alessio Pennasilico, tra i più noti esperti di cybersecurity in Italia, membro del consigl
+io direttivo dell’associazione Clusit per la sicurezza informatica. “Per questa ragione diventa indi
+spensabile che tutte le strutture, soprattutto di rilevanza sociale, si dotino delle misure di sicur
+ezza organizzative e tecnologiche adeguate”, continua.
+
+Il consiglio vale certo anche per gli ospeda
+li italiani, che pure sono stati soggetti a un crescendo di attacchi informatici negli ultimi mesi: 
+ad esempio un ransomware che ha bloccato l’ospedale Fatebenefratelli di Erba a dicembre scorso; idem
+ lo Spallanzani di Roma ad aprile scorso. Di fondo, i cybercriminali mirano agli ospedali e alle pub
+bliche amministrazioni come i Comuni perché sanno di trovarli mal difesi e anche di poter causare gr
+avi danni (e quindi di poter ottenere con facilità un riscatto). Il rischio non è solo quello del ra
+nsomware, ma anche di furto di dati personali dei pazienti, attraverso cui è possibile compiere ulte
+riori ricatti e frodi. È successo anche questo al Fatebenefratelli, dove l’attacco ha portato al fur
+to di 35 mila radiografie.
+
+
+
+
+
+Il tuo contributo Ã¨ fondamentale per avere unâinformazione di qua
+litÃ . Sostieni il giornalismo di Repubblica.
+Abbonati a Rep: 1 mese a solo 1â¬
+
+
+
+
+
+germania
+ranso
+mware
+
+
+
+
+
+
+
+
+Â© Riproduzione riservata
+18 settembre 2020
+
+
+
+
+
+4AC5DDE2
+
+Breve panoramica dei più no
+ti, e diffusi, attacchi informatici. #Malware, #Phishing, #Trojan, #DataBreach, #Ransomware. Siete s
+icuri di sapere cosa siano? 
+
+#sicurezzainformatica #cybersecurity
+
+4AC5DDE2
+
+
+ 
+Una donna è morta a
+ causa di un attacco informatico che ha bloccato la rete dell’ospedale di Duesseldorf, in Germania, 
+il 10 settembre. Lo riportano i media tedeschi, definendolo il primo caso di morte legato direttamen
+te al ransomware, codice malevolo che blocca i computer delle vittime a scopo di ricatto. La pazient
+e, al momento identificata come una donna che necessitava di cure mediche urgenti, è deceduta dopo e
+ssere stata reindirizzata in un ospedale della città di Wuppertal, a più di 30 km dalla sua destinaz
+ione iniziale, che era appunto l’ospedale universitario di Duesseldorf. La struttura non ha potuto a
+ccogliere la paziente a causa di un blocco informatico ma il trasferimento è stato fatale per la don
+na deceduta in seguito al ritardo delle cure.
+Secondo il notiziario tedesco Rtl, la banda di crimina
+li dietro il ransomware ha ritirato la sua richiesta di riscatto dopo essere stata contattata dalla 
+polizia tedesca. Ha anche fornito i codici per decrittare i sistemi dell’ospedale. Su di loro pende 
+una possibile imputazione per omicidio, oltre che per cybercrime. Dalle prime analisi, “l’infezione”
+ sembra essere partita da una vulnerabilità presente nei gateway di rete Citrix usati dall’ospedale,
+ che era già stata segnalata a partire da gennaio.
+
+Molti esperti in queste ore commentano con appre
+nsione la notizia. “Probabilmente non è la prima morte causata da un ransomware, dato che Wannacry h
+a bloccato migliaia di ospedali nel mondo, soprattutto nel Regno Unito, nel 2017”, dice Paolo dal Ch
+ecco, esperto informatico forense. Ma è probabilmente il primo caso riportato, dove c’è insomma un r
+apporto chiaro di causa effetto, fino al decesso di una paziente individuata. Secondo uno studio 201
+9 dell’università Vanderbilt, Wannacry ha indirettamente aumentato la mortalità ospedaliera contribu
+endo al decesso di 36 persone su 10 mila casi di arresto cardiaco riportati. Gli ospedali, rallentat
+i nella loro normale operatività per colpa del ransomware, hanno infatti impiegato più tempo del con
+sueto nelle cure e nelle diagnosi. Ad esempio, i ricercatori hanno scoperto che ci sono voluti 2,7 m
+inuti extra perché i pazienti sospettati di infarto ricevessero un elettrocardiogramma.
+“La notizia 
+rattrista ma non stupisce. Non è il primo caso di attacco informatico che mette in crisi una struttu
+ra ospedaliera, né sarà l’ultimo”, commenta Alessio Pennasilico, tra i più noti esperti di cybersecu
+rity in Italia, membro del consiglio direttivo dell’associazione Clusit per la sicurezza informatica
+. “Per questa ragione diventa indispensabile che tutte le strutture, soprattutto di rilevanza social
+e, si dotino delle misure di sicurezza organizzative e tecnologiche adeguate”, continua.
+Il consigli
+o vale certo anche per gli ospedali italiani, che pure sono stati soggetti a un crescendo di attacch
+i informatici negli ultimi mesi: ad esempio un ransomware che ha bloccato l’ospedale Fatebenefratell
+i di Erba a dicembre scorso; idem lo Spallanzani di Roma ad aprile scorso. Di fondo, i cybercriminal
+i mirano agli ospedali e alle pubbliche amministrazioni come i Comuni perché sanno di trovarli mal d
+ifesi e anche di poter causare gravi danni (e quindi di poter ottenere con facilità un riscatto). Il
+ rischio non è solo quello del ransomware, ma anche di furto di dati personali dei pazienti, attrave
+rso cui è possibile compiere ulteriori ricatti e frodi. È successo anche questo al Fatebenefratelli,
+ dove l’attacco ha portato al furto di 35 mila radiografie.
+
+4AC5DDE2
+
+@HiSolutions | vulnerabilità 
+#NetScalerGateway (CVE-2019-19781) | #backdoor, ora utilizzate per attacchi #ransomware su numerosi 
+sistemi @citrix.
+Cc/ @SofiaSZM
+
+4AC5DDE2
+
+
+
+“Giornata di pesanti disservizi per i clienti di tutta I
+talia: impossibile accedere alle funzioni di home banking. Impossibile prelevare il contante agli sp
+ortelli e dai bancomat”.
+“Una pioggia di segnalazioni ha inondato gli account Twitter di una nota so
+cietà che vende sistemi di tracciamento per gli sportivi: impossibile registrare gli acquisti e acce
+dere alle mappe”.
+“Gli studenti non hanno potuto registrare gli esami svolti a distanza a causa di u
+n malfunzionamento della rete universitaria”.
+
+Tre esempi anonimi per banche, aziende e scuole, solo
+ per ricordarci come l’innovazione abbia un prezzo. Il prezzo dell’insicurezza generato da una catti
+va gestione dell’innovazione secondo alcune stime vale 6 trilioni di dollari, più del fatturato di A
+pple, Amazon e WalMart messi insieme.
+Attacchi DDoS, attacchi ransomware, phishing sono la nuova nor
+malità. Le cronache sono piene di questi esempi. E con l’evolvere della tecnologia le cose si farann
+o più complicate.
+Sebbene l’innovazione sia oggi più che mai indispensabile a tutte le organizzazion
+i per garantirsi sostenibilità e crescita, l’adozione di tecnologie emergenti come l’Intelligenza Ar
+tificiale, i computer quantistici, il 5G, la Realtà Virtuale obbliga a un significativo cambio di pa
+radigma in termini di sicurezza informatica.
+Il paradosso, a cui ha fatto riferimento anche la minis
+tra Pisano durante Cybertech Europe 2020 è, come attesta la ricerca Accenture “Innovating at speed a
+t scale with implicit security”, che le aziende che investono di più in innovazione stanno sottovalu
+tando il livello di rischio che le tecnologie emergenti portano con sé. Solo il 55% dei Chief Securi
+ty Officer intervistati ritiene utile adottare politiche di sicurezza per la protezione delle tecnol
+ogie di Artificial Intelligence adottate e la percentuale scende al 36% degli intervistati per il 5G
+, al 32% per l’Extended Reality e al 29% per il Quantum Computing.
+Forse l’errore parte da qui. E al
+lora non sorprende che secondo una ricerca di Immuniweb il 97% delle principali società di cybersecu
+rity è esposta sul Dark Web, dove in media ci sono oltre 4.000 credenziali rubate per ciascuna socie
+tà di sicurezza informatica considerata. L’analisi è stata condotta su 398 aziende in tutto il mondo
+.
+È così che con i suoi sistemi di machine learning, Immuniweb ha trovato nel Dark Web 631.512 incid
+enti di sicurezza verificati, di cui oltre il 25% sono classificati di livello critico perché conten
+enti informazioni altamente sensibili come credenziali in chiaro o informazioni personali, inclusi d
+ati finanziari. Ma sono stati scoperti anche 1 milione di incidenti non verificati.
+Password troppo 
+deboli
+La ricerca ha rivelato che il 29% delle password rubate è debole, con meno di otto caratteri 
+o senza lettere maiuscole, numeri o altri caratteri speciali e che i dipendenti di 162 aziende (circ
+a 40) utilizzavano password identiche all’interno di diverse violazioni dei dati. Ciò aumenta il ris
+chio di attacchi di riutilizzo delle password da parte di criminali informatici.
+Figuriamoci poi che
+ le email professionali rinvenute sono state utilizzate su siti di incontri porno e per adulti: Immu
+niWeb ha rilevato 5.121 credenziali che erano state rubate da siti web pornografici compromessi.
+Il 
+63% dei siti web delle società di sicurezza informatica inoltre non è conforme ai requisiti PCI DSS,
+ il che significa che utilizza software vulnerabile o obsoleto e non dispone di Web Application Fire
+wall. Il rispetto dello standard PCI DSS è un requisito per tutti gli operatori che archiviano, elab
+orano o trasmettono dati di carte di credito e stabilisce le misure atte a garantire la protezione d
+ei dati e processi di sicurezza coerenti per tutte le transazioni finanziarie online.
+Il 48% dei sit
+i web delle società di sicurezza informatica non è conforme ai requisiti GDPR, a causa del software 
+vulnerabile, dell'assenza di una politica sulla privacy ben visibile o di una dichiarazione di non r
+esponsabilità sui cookie mancante quando i cookie contengono PII o identificatori tracciabili.
+Per G
+iampaolo Dedola, del Global Research and Analysis Team di Kaspersky, questi dati si spiegano con il 
+fatto che “La sicurezza al 100% è un’utopia. Gli incidenti informatici interessano tutti i tipi di o
+rganizzazione. Le società di sicurezza non fanno eccezione ed anzi spesso vengono colpite da attacch
+i estremamente sofisticati proprio perché ricoprono un ruolo critico nella gestione della sicurezza 
+delle informazioni”. E aggiunge: “Gli incidenti ci saranno sempre, ma la capacità di reazione determ
+ina se si è in grado di mitigare le eventuali conseguenze di un attacco e se l’infrastruttura di sic
+urezza è in grado d’impedire la compromissioni di dati critici”.
+Secondo lo studio 91 aziende avevan
+o vulnerabilità di sicurezza dei siti web sfruttabili da un attaccante, il 26% delle quali ancora pr
+ive di patch - una scoperta individuata da ImmuniWeb grazie ai dati disponibili sul progetto Open Bu
+g Bounty.
+Non c’è da stupirsi allora se la scorsa settimana il CISA, l’agenzia americana per la sicu
+rezza delle infrastrutture, ha emesso una direttiva che richiede a enti pubblici e governativi di ev
+itare azioni legali contro i ricercatori di cybersecurity che agiscono in buona fede, consentono ai 
+partecipanti di inviare segnalazioni di vulnerabilità in modo anonimo per proteggere i servizi acces
+sibili da Internet. Insomma, anche i funzionari federali cominciano a chiedere aiuto agli hacker eti
+ci, quelli dal cappello bianco.
+
+
+4AC5DDE2
+
+Enter: 1 #morto
+Una persona in pericolo di àvita è deced
+uta dopo essere stata costretta a recarsi in un ospedale più distante a causa di un attacco #ransomw
+are.
+Il 10 settembre, l'ospedale dell'Università di #Duesseldorf in Germania ha subito un attacco r…
+
+
+4AC5DDE2
+
+
+In Germania una paziente ospedaliera è deceduta perché nell'ospedale di Dusseldorf non 
+hanno potuto darle supporto a causa di un ransomware che aveva colpito i sistemi informatici. La don
+na è stata inviata a una struttura più lontana, ma il tempo non è bastato.È il drammatico apice di u
+na tendenza che vediamo ormai da molti anni: gli ospedali sono tra i bersagli preferiti dai criminal
+i informatici, da una parte perché nella maggior parte dei casi le loro difese informatiche sono un 
+disastro. E dall'altra perché spesso finiscono per pagare il riscatto (ransom) proprio per riprender
+e le attività in fretta. I migliori antivirus del 2020Le migliori VPN del 2020Le migliori VPN gratui
+te del 2020Il ransomware, infatti, è quel tipo di malware che blocca i dati con un sistema crittogra
+fico. Chi vuole riprenderne il controllo può pagare un riscatto per avere la password. In genere si 
+può recuperare il proprio sistema anche in altri modi, ma ci vuole più tempo. E gli ospedali, con pa
+zienti e urgenze da gestire, non hanno tempo.Ed è proprio su questo aspetto che puntano i criminali 
+informatici: negli ultimi anni ospedali grandi e piccoli, in tutto il mondo, sono diventati il loro 
+bersaglio preferito.Secondo le fonti tedesche, l'infezione aveva colpito l'ospedale universitario di
+ Dusseldorf circa 24 prima dei fatti: il ransomware ha crittografato una trentina di server, e come 
+di consueto poco dopo è arrivata la richiesta di riscatto.La polizia successivamente ha contattato i
+ criminali, spiegando loro che invece dell'università hanno colpito una struttura ospedaliera, con e
+mergenze da gestire. In risposta l'attacco è stato interrotto e la password è stata fornita gratuita
+mente. Dopodiché se ne sono perse le tracce, almeno finora.
+
+
+
+4AC5DDE2
+
+Germania: donna muore duran
+te attacco ransomware all'ospedale https://repubblica.it/tecnologia/sicurezza/2020/09/18/news/german
+ia_donna_muore_durante_attacco_ransomware_all_ospedale-267735262/… via @repubblica Il domani. O oggi
+?
+
+4AC5DDE2
+
+Se sei vittima di un #ransomware, prova il nostro decryptor gratuito e riprendi il cont
+rollo della tua vita digitale.
+
+>>>  https://kas.pr/n33c
+#cybersec #infosec #netsec
+
+4AC5DDE2
+
+ Impe
+dito al personale sanitario di accedere a dati e sistemi, completa sospensione delle operazione chir
+urgiche 
+
+#CyberSecurity
+#cybercrime
+
+In Germania il primo decesso da #Ransomware: la tragedia in un
+a clinica a Dusseldorf https://tech.everyeye.it/notizie/germania-decesso-ransomware-tragedia-clinica
+-dusseldorf-469390.html… via @everyeye
+
+4AC5DDE2
+
+ RANSOMWARE FATALI 
+Forse siamo di fronte al primo
+ decesso causato da un attacco informatico, che ha colpito in questo caso un ospedale di Düsseldorf 
+ #TechCuE #CuE #informatica #ingegneria #tecnologia #elettronica #robotica #gaming #coding #robot
+
+4
+AC5DDE2
+
+Donna morta per colpa di ransomware: la Sanità non cyber-sicura uccide https://cybersecurit
+y360.it/nuove-minacce/ransomware/donna-morta-per-colpa-di-ransomware-la-sanita-non-cyber-sicura-ucci
+de/?utm_source=dlvr.it&utm_medium=twitter… cybersecurity
+
+4AC5DDE2
+
+Nella clinica universitaria di D
+usseldorf si è verificato quello che può a tutti gli effetti essere considerato il primo decesso da 
+ransomware, seppur indirettamente. A raccontare la storia i media tedeschi, secondo cui l'ospedale è
+ stato colpito da un attacco informatico che ha preso in ostaggio e messo ko circa trenta server.Il 
+ransomware ha infatti impedito al personale sanitario di accedere a dati e sistemi, e di conseguenza
+ ha anche portato alla quasi completa sospensione delle operazione chirurgiche, il cui totale è pass
+ato da un centinaio a circa dieci.
+Il decesso sarebbe stato causato dall'incapacità dell'ospedale di
+ gestire il carico di lavoro: dopo il ricovero d'urgenza, infatti, non è stato possibile ammettere n
+ella clinica la donna, che è stata trasferita verso un ospedale di una città vicina, lontano poco me
+no di 30 chilometri. Il trasferimento però ha causato un ritardo di un'ora, che le è stato fatale.
+L
+a Polizia si è immediatamente messa in contatto con gli autori dell'attacco ransomware, spiegando lo
+ro ciò che stava succedendo nella clinica. Gli hacker hanno inviato le chiavi di decodifica, permett
+endo quindi agli impiegati di ottenere nuovamente l'accesso ai dati, salvo poi darsi per dispersi. S
+u di loro pende il capo d'accusa di omicidio colposo, e le indagini sono ancora in corso. Il ransomw
+are si sarebbe intrufolato nella rete attraverso un software molto utilizzato, il cui nome non è sta
+to reso noto però.
+Non è la prima volta che gli hacker prendono di mira gli ospedali: è successo ad 
+Erba con un ransomware che ha bloccato 35mila radiografia, ma di recente anche all'Università di Tor
+ Vergata.
+
+
+4AC5DDE2
+
+
+Potrebbe essere il primo decesso direttamente collegato a un attacco alla sic
+urezza informatica
+
+Una donna in Germania è morta durante un attacco hacker ad un ospedale universit
+ario di Duesseldorf. A riportarlo è il portale securityweek.com in quella che potrebbe essere la pri
+ma morte direttamente collegata a un attacco informatico ad una struttura ospedaliera. I sistemi del
+la clinica universitaria di Duesseldorf sono stati interrotti da giovedì 10 settembre.
+Gli investiga
+tori hanno scoperto che la fonte del problema era un attacco hacker in un punto debole nel “software
+ aggiuntivo commerciale ampiamente utilizzato“. Di conseguenza, i sistemi si sono gradualmente blocc
+ati e l’ospedale non è stato in grado di accedere ai dati. I pazienti in stato di emergenza sono sta
+ti portati altrove e le operazioni sono state rinviate. L’ospedale non poteva quindi accettare pazie
+nti in emergenza a causa dell’attacco, e la donna è stata trasferita in una struttura sanitaria a ci
+rca 30 km di distanza.
+Attacco hacker ad un ospedale, nessuna richiesta di riscatto
+Le strutture san
+itarie sono uno dei principali obiettivi degli attacchi informatici e gli esperti di sicurezza infor
+matica hanno avvertito per anni che la maggior parte degli ospedali non è preparata. Gli hacker punt
+ano a mettere fuori uso i principali dispositivi, come le apparecchiature di radiologia, che sono sp
+esso connessi a Internet. E senza questi strumenti, gli istituti ospedalieri non sono in grado di tr
+attare i pazienti.
+
+Ransomware: una città in Florida paga 600mila $ di “riscatto”
+
+Una nota dell’osp
+edale ha detto che “non c’era alcuna richiesta di riscatto concreta“. Ha poi aggiunto che non vi son
+o indicazioni riguardo la perdita di dati. Non sono irrimediabilmente persi e i sistemi IT verranno 
+gradualmente riavviati. C’è però un rapporto del ministro della giustizia dello stato del Nord Reno-
+Westfalia il quale ha affermato che i server di 30 ospedali sono stati crittografati. E una nota di 
+estorsione è stata lasciata su uno dei server. La nota, invitava i destinatari a mettersi in contatt
+o seppur non indicando nessuna somma. Tale richiesta era indirizzata all’Università Heinrich Heine, 
+alla quale è affiliato proprio l’ospedale di Duesseldorf.
+
+Le autorità tedesche stanno ancora indaga
+ndo sulla morte di questa donna. Se il suo trasferimento in un altro ospedale verrà considerato conc
+ausa della sua morte, la polizia dovrà considerare l’attacco informatico come omicidio. La polizia d
+i Duesseldorf dopo aver stabilito un contatto con gli hacker autori dell’attacco, ha allertato loro 
+del pericolo causato. Gli autori hanno quindi ritirato il tentativo di estorsione e fornito una chia
+ve digitale per decrittografare i dati. A quanto riportato da un rapporto del ministero della giusti
+zia gli hacker non sono più rintracciabili. E’ stata quindi avviata un’indagine contro gli ignoti re
+sponsabili per sospetto di omicidio colposo.
+ 
+
+Attacco hacker ad un ospedale causa la morte di una 
+donna in Germania
+- Ultima modifica:  2020-09-18T11:00:35+00:00
+da Francesco MarinoFrancesco MarinoG
+iornalista esperto di tecnologia, da oltre 20 anni si occupa di innovazione, mondo digitale, hardwar
+e, software e social. È stato direttore editoriale della rivista scientifica Newton e ha lavorato pe
+r 11 anni al Gruppo Sole 24 Ore. È il fondatore e direttore responsabile di Digitalic 
+
+4AC5DDE2
+
+Ra
+nsomware uccide una donna: non era mai accaduto
+
+4AC5DDE2
+
+I cybercriminali alzano il tiro: in Germa
+nia donna muore durante attacco ransomware all'ospedale @AlessLongo #CyberSecurity #cybercrime
+
+4AC5
+DDE2
+
+
+Il decesso della paziente dell’ospedale universitario di Düsseldorf potrebbe essere il primo 
+caso accertato di morte dovuta a un attacco ransomware.
+La donna stava venendo ricoverata d’urgenza 
+nell’ospedale universitario di Düsseldorf, quando è stata però mandata in un ospedale a 32 chilometr
+i di distanza a causa di un attacco ransomware in corso all’ospedale, che l’aveva mandato in tilt.
+N
+onostante l’attacco non fosse rivolto direttamente all’ospedale ma all’adiacente università, almeno 
+stando a quanto riportato in un articolo del giornale tedesco RTL, 30 server dell’ospedale sono stat
+i criptati durante l’attacco. Su uno di essi è stata trovata una nota che richiedeva ai riceventi de
+ll’attacco di mettersi in contatto con i malintenzionati, senza però richiedere direttamente nessuna
+ somma.
+La polizia di Düsseldorf si è quindi messa in contatto con gli hacker, spiegando loro che l’
+attacco aveva colpito i server dell’ospedale e non dell’università, mettendo a rischio la salute dei
+ pazienti. Gli hacker a quel punto hanno ritirato l’estorsione e hanno provveduto a inviare una chia
+ve di decriptazione in modo da sbloccare i server.
+
+Un problema noto da fin troppo tempo
+Da molti an
+ni gli esperti di sicurezza informatica stanno cercando di far notare come la maggior parte degli os
+pedali non sia preparata contro attacchi informatici, nonostante siano molto vulnerabili ad essi. In
+fatti sfruttano pesantemente dispositivi, come equipaggiamenti di radiologia, spesso connessi a Inte
+rnet. Senza di essi quindi, non riescono a essere efficaci nel trattamento dei pazienti.
+Durante uno
+ degli attacchi informatici più dannosi di sempre, noto come WannaCry e avvenuto nel 2017, molti osp
+edali sono rimasti bloccati. Per esempio, tale ransomware mandò in tilt lo United Kingdom’s National
+ Health Service. Nessuna morte fu direttamente collegata a quell’attacco, ma gli esperti avvisarono 
+già al tempo che era solo questione di tempo.
+Le autorità tedesche stanno comunque ancora investigan
+do sulla morte della donna, e se dovesse risultare che il trasferimento verso l’altro ospedale è sta
+ta la causa della sua morte, saremmo di fronte al primo caso di omicidio dovuto ad un attacco inform
+atico.
+Recentemente anche la nota compagnia Garmin è stata colpita da un attacco ransomware, e pure 
+Canon ha dovuto far fronte al furto di 10TB di dati aziendali.
+Fonti: 1, 2, 3
+Per rimanere informati
+ sul mondo nerd, continuate a seguirci sul nostro sito DrCommodore.it e su Facebook, Instagram, Tele
+gram, YouTube, Discord, Steam e Twitch.
+
+Facebook Comments
+
+
+Tagsransomware 
+
+
+4AC5DDE2
+
+Malware e r
+ansomware: ecco come l'Italia è sotto il tiro dei cybercriminali @sole24ore
+
+4AC5DDE2
+
+Il primo caso
+ di decesso direttamente collegato a un attacco alla sicurezza informatica?
+#Hacker #Ransomware #sic
+urezza
+
+4AC5DDE2
+
+Cyber security e Sanità: in Germania il primo decesso causa ransomware #ransomware
+: Un attacco ransomware colpisce un ospedale tedesco e ne blocca l'attività, muore una paziente diro
+ttata verso un secondo ospedale http://dlvr.it/Rgrw5Q
+
+4AC5DDE2
+
+Un attacco #Ransomware può costare 
+in media 760.000 $ . partecipa al #FreeWebinar @Sophos e proteggi il tuo business! 
+https://okt.to/J
+EYhmA
+
+4AC5DDE2
+
+Ransomware uccide una donna in Germania - https://punto-informatico.it/ransomware-u
+ccide-donna-germania/…
+
+4AC5DDE2
+
+Fin dalla sua prima comparsa 2 anni fa, il #ransomware #Ryuk ha co
+lpito milioni di utenti, in particolare tra le aziende che restano il suo obiettivo primario. 
+
+Scop
+ri come proteggere la tua organizzazione in questo #report dei #PandaLabs: 
+
+ http://bit.ly/3cmmiFS
+
+
+4AC5DDE2
+
+Anche i virus informatici provocano la morte negli ospedali. Germania: donna muore durant
+e attacco ransomware all'ospedale
+
+4AC5DDE2
+
+
+Una donna che avrebbe dovuto essere ricoverata alla Dü
+sseldorf University Clinic ha perso la vita in conseguenza a un attacco ransomware. È la prima volta
+ che viene documentato un caso simile. In conseguenza all’accaduto gli inquirenti potrebbero equipar
+are la vicenda a un caso di omicidio anziché a un attacco informatico come avviene solitamente.
+
+Don
+na uccisa da un ransomware: non era mai successo
+A provocare il decesso l’impossibilità da parte del
+la struttura di accettare nuovi pazienti in gravi condizioni per via dei problemi di natura tecnica 
+insorti. Il personale l’ha così dovuta trasferire verso un’altra destinazione nella città di Wuppert
+al, a circa 32 Km di distanza. Questo non ha permesso di fornirle le cure necessarie in tempo utile 
+portando alla morte.Stando a quanto riporta la stampa locale l’attacco non era nemmeno indirizzato a
+ll’ospedale, bensì a una vicina università. L’autore lo avrebbe interrotto dopo essere stato interce
+ttato delle autorità che lo hanno avvisato di aver preso di mira il bersaglio sbagliato, fornendo le
+ istruzioni necessarie per rientrare in possesso delle informazioni cifrate. Non sembrano essere sta
+te avanzate richieste di riscatto e i dati dovrebbero essere stati recuperati per intero senza alcun
+a perdita.Non è la prima volta che un ransomware colpisce una realtà che opera nell’ambito sanitario
+: nel 2017 il celebre WannaCry ha messo in ginocchio i sistemi del National Health Service nel Regno
+ Unito.
+
+                    Fonte: Associated Press News
+
+
+
+
+4AC5DDE2
+
+#Ransomware uccide una donna
+ in #Germania.
+
+4AC5DDE2
+
+
+Una donna è morta a causa di un attacco informatico che ha bloccato la re
+te dell’ospedale di Duesseldorf, in Germania, il 10 settembre. Lo riportano i media tedeschi, define
+ndolo il primo caso di morte legato direttamente al ransomware, codice malevolo che blocca i compute
+r delle vittime a scopo di ricatto. La paziente, al momento identificata come una donna che necessit
+ava di cure mediche urgenti, è deceduta dopo essere stata reindirizzata in un ospedale della città d
+i Wuppertal, a più di 30 km dalla sua destinazione iniziale, che era appunto l’ospedale universitari
+o di Duesseldorf. La struttura non ha potuto accogliere la paziente a causa di un blocco informatico
+ ma il trasferimento è stato fatale per la donna deceduta in seguito al ritardo delle cure.
+
+
+
+  
+
+S
+icurezza
+Secondo il notiziario tedesco Rtl, la banda di criminali dietro il ransomware ha ritirato l
+a sua richiesta di riscatto dopo essere stata contattata dalla polizia tedesca. Ha anche fornito i c
+odici per decrittare i sistemi dell’ospedale. Su di loro pende una possibile imputazione per omicidi
+o, oltre che per cybercrime. Dalle prime analisi, “l’infezione” sembra essere partita da una vulnera
+bilità presente nei gateway di rete Citrix usati dall’ospedale, che era già stata segnalata a partir
+e da gennaio.
+
+
+
+
+
+  
+
+Sicurezza
+Molti esperti in queste ore commentano con apprensione la notizia. 
+“Probabilmente non è la prima morte causata da un ransomware, dato che Wannacry ha bloccato migliaia
+ di ospedali nel mondo, soprattutto nel Regno Unito, nel 2017”, dice Paolo dal Checco, esperto infor
+matico forense. Ma è probabilmente il primo caso riportato, dove c’è insomma un rapporto chiaro di c
+ausa effetto, fino al decesso di una paziente individuata. Secondo uno studio 2019 dell’università V
+anderbilt, Wannacry ha indirettamente aumentato la mortalità ospedaliera contribuendo al decesso di 
+36 persone su 10 mila casi di arresto cardiaco riportati. Gli ospedali, rallentati nella loro normal
+e operatività per colpa del ransomware, hanno infatti impiegato più tempo del consueto nelle cure e 
+nelle diagnosi. Ad esempio, i ricercatori hanno scoperto che ci sono voluti 2,7 minuti extra perché 
+i pazienti sospettati di infarto ricevessero un elettrocardiogramma.
+
+
+
+
+
+  
+
+Sicurezza
+
+
+
+
+“La noti
+zia rattrista ma non stupisce. Non è il primo caso di attacco informatico che mette in crisi una str
+uttura ospedaliera, né sarà l’ultimo”, commenta Alessio Pennasilico, tra i più noti esperti di cyber
+security in Italia, membro del consiglio direttivo dell’associazione Clusit per la sicurezza informa
+tica. “Per questa ragione diventa indispensabile che tutte le strutture, soprattutto di rilevanza so
+ciale, si dotino delle misure di sicurezza organizzative e tecnologiche adeguate”, continua.
+Il cons
+iglio vale certo anche per gli ospedali italiani, che pure sono stati soggetti a un crescendo di att
+acchi informatici negli ultimi mesi: ad esempio un ransomware che ha bloccato l’ospedale Fatebenefra
+telli di Erba a dicembre scorso; idem lo Spallanzani di Roma ad aprile scorso. Di fondo, i cybercrim
+inali mirano agli ospedali e alle pubbliche amministrazioni come i Comuni perché sanno di trovarli m
+al difesi e anche di poter causare gravi danni (e quindi di poter ottenere con facilità un riscatto)
+. Il rischio non è solo quello del ransomware, ma anche di furto di dati personali dei pazienti, att
+raverso cui è possibile compiere ulteriori ricatti e frodi. È successo anche questo al Fatebenefrate
+lli, dove l’attacco ha portato al furto di 35 mila radiografie.
+ 
+ 
+Fonte www.repubblica.it
+Condivid
+i su:TweetWhatsAppTelegramMi piace:Mi piace Caricamento... 
+
+4AC5DDE2
+
+
+Sentiamo spesso dire che la 
+sicurezza in ambito informatico non è mai troppa, e purtroppo viene ancora tutt’oggi sottovalutata i
+n giro per il mondo nonostante il continuo aumento di attacchi. Negli ultimi anni, sono in trend gli
+ attacchi mediante ransomware a strutture pubbliche o aziende private molto ricche, che permettono d
+i ottenere un grande ritorno di denaro agli hacker coinvolti nell’attacco. In questo caso, parliamo 
+di un ransomware che ha colpito (per sbaglio) un ospedale, causando (forse) la morte di una donna.
+E
+satto, l’attacco in questione non era rivolto direttamente all’ospedale in questione, parliamo di un
+ ospedale universitario a Düsseldorf, ma all’adiacente sede universitaria. Per qualche errore però, 
+sono stati colpiti ben 30 server dell’ospedale in questione, criptando di conseguenza i dati contenu
+ti al loro interno.
+
+Le conseguenze dell’attacco ransomware all’ospedale di Düsseldorf
+Immediatament
+e, la polizia di Düsseldorf si è messa in contatto con i malintenzionati, spiegando loro che avevano
+ sbagliato bersaglio avendo attaccato l’ospedale e non l’università, mettendo a rischio la salute di
+ tutti i pazienti. Gli hacker, capendo che hanno preso di mira il bersaglio sbagliato, si sono ritir
+ati provvedendo ad inviare una chiave di decriptazione in modo da disabilitare il ransomware colpevo
+le e ristabilire il corretto funzionamento di tutti i server senza nessuna perdita ingente di dati.
+
+E’ per motivi come questo che da anni gli esperti di sicurezza informatica cercano in tutti i modi d
+i farsi sentire, sottolineando come la maggior parte degli ospedali non sia assolutamente preparata 
+contro i diversi tipi attacchi informatici, soprattutto perchè sono molto vulnerabili ad essi. Basti
+ pensare al fatto che fanno pesantemente uso di dispositivi spesso connessi ad internet, e senza di 
+essi non riuscirebbero a essere efficaci nel trattamento dei propri pazienti.
+A seguito dell’attacco
+, l’ospedale è andato completamente in tilt, costringendo i medici a trasportare la donna, che in qu
+el momento stava per essere ricoverata d’urgenza, in un altro ospedale a 32 km di distanza. Se, dopo
+ le dovute analisi investigative, risulterebbe che la donna sia morta a causa di questo trasferiment
+o e quindi dovuto al ritardo nell’iniziare le cure, saremo difronte alla prima morte causata da un a
+ttacco informatico.
+
+
+4AC5DDE2
+
+Questa notizia fa capire quanto la #cibersecurity sia già un investi
+mento urgente.
+Nello specifico un attacco con un ransomware (virus
+informatico) ad un ospedale a Düs
+seldorf sembra sia stata la causa di un decesso.  Oltre gli ospedali le infrastrutture sensibili son
+o tantissime
+
+4AC5DDE2
+
+Ransomware e macchine virtuali, un binomio micidiale @sophos @SophosItalia #
+ransomware #maze #RagnarLocker #cyberattack: I cyber criminali del gruppo Maze copiano la tecnica de
+lle macchine virtuali da Ragnar Locker per mettere a segno un attacco… http://dlvr.it/RgslWt
+
+4AC5DD
+E2
+
+Non lasciate i vostri dispositivi esposti agli exploit ransomware
+Installate GRATUITAMENTE Kaspe
+rsky Anti-Ransomware Tool
+
+>>> https://kaspersky.it/blog/kaspersky-anti-ransomware-tool-for-business
+/?utm_source=kdaily&utm_medium=blog&utm_campaign=it_KB_nv0092&utm_content=link&utm_term=it_kdaily_or
+ganic_aypfzk926tq10ly…
+#cybersec #infosec #ransomware #kart
+
+4AC5DDE2
+
+Una donna in Germania è morta
+ durante un attacco ransomware all’ospedale universitario di Duesseldorf. Varie fonti ed esperti lo 
+definiscono come, probabilmente, il primo decesso direttamente collegato a un attacco informatico a 
+un ospedale.Indice degli argomenti
+Com’è avvenuta la morte per ransomwareLa vulnerabilità Cytrix era
+ notaLo storico: Wannacry negli ospedaliMettere in sicurezza gli ospedaliCom’è avvenuta la morte per
+ ransomwareIl motivo è che l’ospedale non ha potuto accettare i pazienti a causa dell’attacco e la d
+onna è stata mandata in una struttura sanitaria lontana, secondo l’Associated Press.Il trasferimento
+ è stato fatale per la paziente. Poco cambia che secondo un rapporto del notiziario tedesco RTL l’at
+tacco informatico non era destinato all’ospedale ma a una università vicina. Fatto sta l’infezione s
+i è estesa all’ospedale.La vulnerabilità Cytrix era notaBloccati 30 server interni, il 10 settembre,
+ sfruttando una vulnerabilità dei gateway Citrix, denominata CVE-2019-19871. Indicativo che già da g
+ennaio questa vulnerabilità era una nota porta di ingresso per i ransomware e proprio il giorno prim
+a dell’attacco BSI aveva avvisato le organizzazioni tedesche di un grave rischio in merito, chiedend
+o di aggiornare subito il gateway.Gli aggressori hanno interrotto l’attacco dopo che le autorità han
+no comunicato loro le conseguenze.Le strutture sanitarie sono uno dei principali obiettivi degli att
+acchi informatici e gli esperti di sicurezza informatica hanno avvertito per anni che la maggior par
+te degli ospedali non è preparata. Il problema è che molti dispositivi medici, come le apparecchiatu
+re di radiologia, sono spesso connessi a Internet. E senza questi strumenti, non sono in grado di cu
+rare i pazienti.
+ WHITEPAPERLa guida per scegliere il miglior antivirus gratuito per il tuo PC
+ Pers
+onal Computing
+ Privacy
+Scarica subito!
+Scarica il WhitepaperCyber security nel settore sanitario, a
+ rischio apparecchiature mediche e dati riservati: lo scenarioDifficilmente è il primo caso di morte
+ causata da un ransomware, ma è probabilmente il primo dove c’è una chiara relazione tra i due event
+i.Lo storico: Wannacry negli ospedaliI principali attacchi informatici, come il ransomware WannaCry 
+del 2017, hanno bloccato migliaia di sistemi ospedalieri. WannaCry ha bloccato il Servizio sanitario
+ nazionale del Regno Unito, ad esempio. Nessun decesso era direttamente collegato a quell’attacco, m
+a uno studio della Owen Graduate School of Management della Vanderbilt University ha rilevato un aum
+entato tasso di mortalità connesso all’attacco. Pari a fino a 36 decessi aggiuntivi ogni 10mila atta
+cchi di cuore che si sono verificati ogni anno nelle centinaia di ospedali esaminati.I ricercatori h
+anno scoperto ci sono voluti 2,7 minuti extra perché i pazienti sospettati di infarto ricevessero un
+ elettrocardiogramma. Tutto questo perché gli ospedali erano rallentati nelle attività dalle operazi
+oni di ripristino sistemi.L’attacco ha causato un’interruzione significativa dell’assistenza ai pazi
+enti, come l’annullamento di circa 19mila appuntamenti, comprese le operazioni, e l’interruzione dei
+ sistemi IT per almeno un terzo di tutti gli ospedali del Servizio Sanitario Nazionale (NHS) del Reg
+no Unito e l’8% dei medici generici. In diversi casi, gli ospedali del Regno Unito sono stati costre
+tti a deviare i visitatori del pronto soccorso verso altri ospedali.Anche se non ci sono stati casi 
+specifici di persone morte per questi motivi, l’aumentato tasso di mortalità associata all’evento è 
+indicativo dei danni causati dall’attacco.Mettere in sicurezza gli ospedali“Ovviamente gli ospedali 
+hanno procedure di continuità operativa che garantiscono l’erogazione di alcuni servizi (es. triage)
+ indipendentemente dal sistema informatico; tuttavia tali procedure non hanno la stessa velocità ed 
+efficienza del sistema automatico. Per questa ragione è plausibile che vi possano essere impatti sop
+rattutto sui casi connotati da maggiore urgenza di intervento”, commenta Alessio Pennalisico, di P4i
+ e responsabile scientifico Cybersecurity360.it. “Era quindi inevitabile che prima o poi ci fosse un
+ impatto sui pazienti. Per questa ragione diventa indispensabile che tutte le strutture, soprattutto
+ quelle di rilevanza sociale come gli ospedali, si dotino delle misure di sicurezza organizzative e 
+tecnologiche adeguate”.Degli ultimi mesi gli attacchi ransomware agli ospedali Spallanzani di Roma e
+ Fatebenefratelli di Erba, segno di quanto anche in Italia sia alto il rischio di danni ai pazienti 
+per colpa della scarsa sicurezza informatica sanitaria.“Gli esperti lo dicono da tempo: attenzione c
+he le vulnerabilità e in generale la scarsa sensibilità cyber degli ospedali può causare morti, oltr
+e a danni economici e privacy”, dice Corrado Giustozzi, esperto di cyber security pubblica. “Adesso 
+purtroppo è successo quanto temuto. Succederà di nuovo”, aggiunge.
+@RIPRODUZIONE RISERVATA
+
+4AC5DDE2
+
+
+Cos’è e come funziona un ransomware: Nuove frontiere d’attacco
+
+4AC5DDE2
+
+Ransomware uccide una do
+nna in Germania
+
+4AC5DDE2
+
+Crescono a doppia degli attacchi informatici contro gli istituti scolasti
+ci e di ricerca in Europa, America e Asia, con gli hacker pronti a sfruttare il Back to School.Secon
+do i ricercatori di Check Point, nel Vecchio Continente gli attacchi si sono manifestati in particol
+are sotto forma di tentativi di Information Disclosure. Nel periodo luglio-agosto, il numero medio d
+i attacchi settimanali verso un’organizzazione nel settore accademico europeo è aumentato del 24%, a
+rrivando a 793 di media rispetto ai due mesi precedenti. Inoltre, l’aumento del numero di attacchi g
+enerici, per tutti i settori, è l’incremento più grande (9%) se confrontato con quello di Usa e Asia
+.I tentativi di Information Disclosure sono un tipo di attacco mirato ad acquisire informazioni spec
+ifiche del sistema di un sito web, tra cui la distribuzione del software, i numeri di versione e i l
+ivelli delle patch. Le informazioni acquisite possono contenere anche la posizione dei file di backu
+p o dei file temporanei. Maggiore è il numero di informazioni che un aggressore impara di un sito we
+b, più facile sarà il sistema per comprometterle.Gli Stati Uniti presentano il più alto aumento di a
+ttacchi legati all’istruzione e alla ricerca. Tra luglio e agosto 2020, il numero medio di attacchi 
+settimanali per organizzazione nel settore dell’istruzione è aumentato del 30%, passando da 468 atta
+cchi informatici a 608, rispetto ai due mesi precedenti. Gli attacchi informatici verso tutti gli al
+tri settori sono aumentati solo del 6,5%.
+ WHITEPAPERChief operating officer: come bilanciare sicure
+zza informatica e responsabilità operative
+ Sicurezza
+ Cybersecurity
+Scarica il WhitepaperIl metodo 
+primario di attacco contro l’educazione statunitense è costituito dagli attacchi DDoS (Distributed D
+enial-of-Service). Un attacco DDoS è un tentativo ostile volto a sconvolgere il normale traffico di 
+un server, di un servizio o di una rete mirata sovraccaricando l’obiettivo o l’infrastruttura circos
+tante con una marea di traffico Internet. Un esempio ha coinvolto un hacker adolescente in Florida, 
+che ha paralizzato i più grandi distretti scolastici della nazione per i primi tre giorni di lezioni
+ virtuali.In Asia l’aumento degli attacchi è stato registrato soprattutto in diversi tipi di exploit
+ di vulnerabilità: Denial of Service, Remote Code Execution e Information Disclosure. Tra luglio e a
+gosto 2020 la media settimanale degli attacchi per organizzazione nel settore dell’istruzione, in As
+ia, è aumentata del 21%, passando da 1322 a 1598, rispetto ai due mesi precedenti. L’aumento general
+e, considerando tutti i settori in Asia, è solo del 3,5%.“La pandemia da coronavirus ha forzato non 
+solo lo smartworking, ma anche per l’online learning. I numeri registrati sono sconcertanti, e il tr
+end è chiaramente pericoloso: gli hacker ad esempio possono spiare quegli studenti che svolgono le l
+ezioni online. Questi attacchi possono includere phishing, ransomware e il cosiddetto “Zoombombing”.
+ Il recente attacco informatico al sistema scolastico pubblico Miami-Dade ne è solo un esempio – spi
+ega David Gubiani, Regional Director Se Emea Southern di Check Point – Gli esseri umani sono sempre 
+l’anello più debole quando si tratta di sicurezza informatica. Invito vivamente gli studenti, i geni
+tori e le istituzioni a fare molta attenzione nei prossimi mesi, perché crediamo che i numeri e i me
+todi dell’attacco non potranno che peggiorare. L’online learning rimarrà, così come gli hacker.”
+@RI
+PRODUZIONE RISERVATA
+
+4AC5DDE2
+
+REPORT TREND MICROMalware e ransomware: ecco come l'Italia è sotto i
+l tiro dei cybercriminaliSiamo l'ottava nazione più colpita dai malware a livello mondiale e l'undic
+esima (nonché seconda in Europa) per quanto riguarda gli attacchi ransomware.di Gianni Rusconi(beebr
+ight - stock.adobe.com)Siamo l'ottava nazione più colpita dai malware a livello mondiale e l'undices
+ima (nonché seconda in Europa) per quanto riguarda gli attacchi ransomware.17 settembre 2020Salva0Co
+mmenta3' di letturaSei mesi di fuoco. E il Coronavirus e tutto ciò che ne è conseguito (leggi forzat
+a permanenza a casa davanti al computer) hanno sicuramente contribuito ad aumentare i rischi legati 
+alla sicurezza. L'attività dei cybercriminali durante il lockdown, come noto ed immaginabile, non si
+ è certo fermata (anzi) ma scoprire che il nostro Paese sia fra le vittime preferite degli attacchi 
+certo non fa piacere. Stando infatti all'ultimo rapporto semestrale delle minacce informatiche “Secu
+ring the Pandemic-Disrupted Workplace” realizzato da Trend Micro, che il Sole24ore.com ha visionato 
+in anteprima, siamo l'ottava nazione più colpita dai malware a livello mondiale e l'undicesima (nonc
+hé seconda in Europa) per quanto riguarda gli attacchi ransomware. Ecco i numeri nel dettaglio.Primo
+ semestre da incuboI malware che hanno colpito l'Italia nella prima metà del 2020 sono stati poco me
+no di sette milioni (6.955.764 per la precisione, e di questi 2.907 sono quelli catalogabili nella c
+ategoria “online banking”) rispetto ai circa 228 milioni totali: in cima alla classifica svetta, si 
+fa per dire, il Giappone con 61,6 milioni davanti a Stati Uniti (42,4 milioni) e Taiwan (11 milioni)
+. Alla voce ransomware, la percentuale di attacchi subiti da utenti della Penisola è del'1,33% sul t
+otale e solo la Germania, con il 18,67%, ha fatto peggio. Le minacce arrivate via mail sono state in
+vece oltre 151 milioni e di questi 107mila erano messaggi spam a tema Covid: nel mondo ci sono 17 Pa
+esi che hanno registrato numeri peggiori rispetto al nostro e il primato in questa classifica va agl
+i Usa, con più di 4,5 miliardi di messaggi di posta elettronica intercettati che contenevano un viru
+s. Tornando in Italia, sono stati poco più di sei milioni gli Url maligni visitati, numero che ci va
+le la 18esima posizione nel ranking mondiale, capeggiato nell'ordine da Hong Kong, Singapore e India
+, con 28, 19 e 18 milioni di indirizzi Internet a rischio cliccati da gennaio a giungo. Il numero di
+ app maligne scaricate nella prima metà del 2020 in Italia, infine, ha toccato quota 127.690 mentre 
+quello delle vittime da botnet si aggira intorno ai 10.600, per una classifica che ci vede al 20esim
+o posto e “premia” al primo la Cina con oltre 392mila.LA MINACCIA DEI MALWARE NEL MONDOLoading...I n
+umeri a livello mondialeSu scala globale, Trend Micro ha bloccato nel primo semestre qualcosa come 2
+8 miliardi di minacce (27.823.212.959 il numero esatto), quasi un miliardo in più rispetto allo stes
+so periodo dell'anno precedente. E, dato particolarmente preoccupante, il 93% di queste minacce è ar
+rivato via mail. Il tema più utilizzato dagli attaccanti, si legge nella nota che accompagna lo stud
+io, è stato per l'appunto quello legato alla pandemia e sono circa 8,8 milioni i messaggi pericolosi
+ e direttamente legati al Covid-19 che i software della società americana hanno bloccato in sei mesi
+. Particolarmente diffusi sono stati anche i tentativi di truffa di tipo BEC (Business Email Comprom
+ise), che hanno cercato di capitalizzare al meglio le attività in smart working introdotte da molte 
+aziende negli ultimi mesi e i generici ransomware, in crescita del 45%. In forte aumento anche le vu
+lnerabilità, con circa 786 avvisi pubblicati dalla Trend Micro Zero Day Initiative, il 74% in più ri
+spetto alla seconda metà del 2019. In questo caso l'attenzione degli attaccanti si è indirizzata in 
+particolare sui sistemi di controllo industriali.
+
+4AC5DDE2
+
+Secondo l’European Systemic Risk Onboar
+d, ogni 11 secondi un’azienda è vittima di un attacco ransomware. Come proteggersi dai cyber attacch
+i e dalle loro conseguenze? Su InnovaMI, dynabook sottolinea l’importanza di investire in attrezzatu
+re sicure:
+
+4AC5DDE2
+
+Germania: donna muore durante attacco ransomware all'ospedale http://dlvr.it/R
+gtMfF - tech
+
+4AC5DDE2
+
+Garmin: riscatto milionario per recuperare i servizi dal ransomware? In rete
+ circola qualche dubbio #besttool #webnews #yourintegrationmakers https://buff.ly/32LSJtX
+
+4AC5DDE2
+
+
+#DataBreach "Attacchi DDoS, attacchi ransomware, phishing sono la nuova normalità. Le cronache sono
+ piene di questi esempi. E con l’evolvere della tecnologia le cose si faranno più complicate" #Cyber
+Security #GDPR #Privacy #ICT #Garante #Smedata #T4Data
+
+4AC5DDE2
+
+L'adagio non è così campato per ar
+ia.
+I Backup sono una buona strategia, ma proteggere i propri dati prevede anche un po' di studio
+Es
+.: #ATP (integrato - come anche #EMET - nella suite di sicurezza #Microsoft), risolve il problema #r
+ansomware in partenza.
+
+4AC5DDE2
+
+
+Niente panicoCos’è e come funziona un ransomware: Nuove frontiere
+ d’attacco
+Home
+
+NewsI ransomware, i cosiddetti “virus del riscatto” possono crittografare permanent
+emente i file aziendali, a meno che non si paghi per riaverli. Vere e proprie cyberestorsioni, che n
+el 2017 sono in aumento anche a livello aziendale
+di Redazione30 Mag 2018Condividi questo articolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+Un ransomware è una tipologia di malware (o virus del computer) che non permet
+te alcune funzionalità del computer infettato e richiede un riscatto (dal termine “ransom”, in ingle
+se riscatto, e “ware”, diminutivo di malware) che gli hacker richiedono come compenso da pagare per 
+poter rimuovere il blocco delle funzionalità del pc.Avanti, sempre avanti e in continua evoluzione, 
+la sicurezza informatica è un treno lanciato a folle velocità in una instancabile rincorsa di minacc
+e e attacchi alle infrastrutture informatiche con connotati sempre più difficili da capire, decifrar
+e, riconoscere. Tra le ultime frontiere, il Ransomware. Ultima, e tremendamente efficace, si è aggiu
+nta nella variegata categoria delle minacce telematiche. Qui di seguito spieghiamo come funziona, ol
+tre alle possibili procedure di disinnesco, mentre in questo speciale webinar in programma il prossi
+mo 4 ottobre sarà possibile ascoltare i pareri più aggiornati degli esperti di sicurezza. Indice deg
+li argomenti
+Cos’è e come funziona il RansomwareAziende sempre più nel mirino dei ransomwareProtegge
+rsi e rimuovere ransomware se si sa come funzionaUna protezione migliore dai ransomware grazie alle 
+sandboxCos’è e come funziona il Ransomware«‘O la borsa o la vita’ è stata la frase preferita dai cri
+minali del 18° secolo. Ma se i banditi mascherati a cavallo che derubavano i passeggeri in diligenza
+ fanno ormai parte del passato, l’idea di sottrarre oggetti di valore per poi chiedere un riscatto è
+ ancora dominante. Oggi, i criminali informatici usano una forma di malware conosciuta come ransomwa
+re per chiedere ‘o i soldi o i file’, ricattando le aziende, trattenendo in ostaggio i loro PC o dat
+i e richiedendo un pagamento economico per il rilascio.Ma il ransomware cos’è e come funziona? Come 
+la maggior parte del malware, anche il ransomware può provenire dall’apertura di un allegato malevol
+o in un’email, da un clic su un pop-up ingannevole o semplicemente dalla visita di un sito web compr
+omesso. Mette a rischio le aziende in una delle seguenti modalità: bloccando lo schermo di un utente
+ o crittografando i file.Il ransomware lock-screen, come suggerisce il nome, provoca il ‘congelament
+o’ del PC visualizzando un messaggio con la richiesta di riscatto del criminale, rendendo il compute
+r inutilizzabile fino a quando il malware viene rimosso. Se questo è un fastidio per gli utenti, è u
+na cosa superabile perché riguarda generalmente un singolo PC, ed è di solito relativamente facile d
+a rimuovere.La crittografia ransomware, invece, sta rapidamente emergendo come una vera minaccia per
+ le aziende a causa della sua capacità di bloccare permanentemente gli utenti dai propri file e dati
+, non solo sui singoli PC ma sull’intera rete aziendale. Utilizzando la crittografia per scombinare 
+i dati fino al pagamento di un riscatto, questo tipo di attacco ransomware ha registrato nel terzo t
+rimestre del 2013 un aumento del 200%, rispetto al primo semestre dell’anno. Inoltre, gli attacchi s
+i sono concentrati su aziende di piccole e medie dimensioni, utilizzando CryptoLocker, uno dei ceppi
+ di ransomware più distruttivi e dannosi mai visto.Da quando è stato individuato a fine estate del 2
+013, CryptoLocker ha preso di mira milioni di computer. Una volta attivato sul PC di un utente, Cryp
+toLocker avvia una ricerca su tutte le cartelle e drive a cui è possibile accedere dal computer infe
+tto, compresi dischi di back-up in rete sui server aziendali. Successivamente inizia a scombinare i 
+file utilizzando una crittografia a 2048 bit virtualmente impossibile da decriptare. I file rimarran
+no crittografati a meno che l’azienda non paghi un riscatto per rilasciare la chiave di decriptazion
+e – supponendo, naturalmente, che i criminali forniscano effettivamente la chiave una volta pagato. 
+Senza esagerare, questa perdita di proprietà intellettuale e dei dati confidenziali può avere implic
+azioni gravi.Aziende sempre più nel mirino dei ransomwareAnche perchè il ransomware espone non solta
+nto i comuni utenti consumer, ma in misura crescente anche le imprese, che negli ultimi mesi sono st
+ate più esposte che mai. L’ultimo documento di ricerca di Symantec sul ransomware ha scoperto che le
+ aziende sono state le principali vittime degli episodi di WannaCry e Petya , con le reti aziendali 
+che si sono anzi dimostrate il terreno ideale per questa nuova generazione di minacce auto-propagant
+i.Più precisamente, la ricerca Symantec ha scoperto che i numeri globali del ransomware hanno contin
+uato a tendere verso l’alto. Durante i primi sei mesi del 2017, Symantec ha bloccato poco più di 319
+.000 infezioni da ransomware. Se questo tasso di infezione continuasse per l’intero anno, il 2017 sa
+rebbe caratterizzato da un aumento significativo rispetto al 2016, quando un totale di 470.000 infez
+ioni furono bloccate. A contribuire a questo aumento è stato soprattutto il picco di infezioni blocc
+ate durante il maggio e giugno 2017, vale a dire i mesi in cui si sono verificati i focolai di Wanna
+Cry e Petya. L’impatto sproporzionato di WannaCry e Petya sulle organizzazioni può essere visto dall
+e statistiche sulle infezioni. Durante il 2015 e il 2016, le aziende hanno rappresentato tra il 29 e
+ il 30 per cento delle infezioni da ransomware. Questa percentuale è salita al 42 per cento nella pr
+ima metà del 2017, con un grosso picco durante i mesi di maggio e giugno, quando WannaCry e Petya si
+ sono diffusi. I motivi? Come al solito sono di diversa natura: innanzitutto la maggioranza dei rout
+er internet domestici avrebbe bloccato i tentativi di infezione che implicavano l’exploit EternalBlu
+e, sfruttato per Wannacry. Ma le organizzazioni devono prepararsi per la minaccia di un ransomware a
+uto-propagante. Ma il successivo caso Petya, ha dimostrato che anche senza exploi gli attaccanti pos
+sono creare ransomware  in grado di diffondersi nelle reti aziendali, provocando molti danni.Protegg
+ersi e rimuovere ransomware se si sa come funziona
+ WHITEPAPERStorage: aumentare prestazioni, scalab
+ilità ed efficienza a costi contenuti
+ Storage
+ Cloud storage
+Scarica il WhitepaperCosa possono fare
+ le aziende per proteggersi da questi nuovi tipi particolarmente aggressivi di ransomware, e rimuove
+rli? Innanzitutto, è fondamentale che le organizzazioni implementino le stesse best practice di sicu
+rezza di base consigliate per proteggere i computer da qualsiasi altro tipo di malware:• Assicurarsi
+ che il software anti-virus sia aggiornato con le più recenti signature• Verificare che il sistema o
+perativo e le patch del software applicativo siano aggiornati• Installare un firewall sia in entrata
+ che in uscita sul PC di ogni utenteL’email è uno dei principali metodi di infezione.  Occorre cance
+llare tutte le email sospette ricevute, in particolare se contengono collegamenti e / o allegati.Il 
+backup dei dati più importanti è il modo più efficace per combattere l’infezione da ransomware. Dal 
+momento che gli attaccanti colpiscono le loro vittime cifrando file preziosi e lasciandoli inaccessi
+bili, grazie alle copie di backup è possibile ripristinare i file una volta che l’infezione è stata 
+ripulita.Tuttavia, si tratta di misure che non offrono una protezione totale dagli attacchi. È tropp
+o facile per un dipendente cliccare inavvertitamente su un allegato di posta elettronica, provocando
+ un’infezione. È anche relativamente facile per i criminali che stanno dietro una truffa ransomware 
+fare piccoli aggiustamenti al codice malware, permettendogli di bypassare l’antivirus dal rilevament
+o basato su signature, rendendo in questo modo le aziende vulnerabili.Dall’esempio di cryptolocker i
+n poi, alcuni tra i principali ransomware della storia hanno creato disagi non di poco conto a tanti
+ssime aziende, che hanno poi spesso pagato il riscatto, e ancor più spesso non riavuto i dati indiet
+ro. Ecco quindi come il tema ransomware nella cybersecurity diventa di importanza fondamentale.Una p
+rotezione migliore dai ransomware grazie alle sandboxPer difendersi contro i nuovi exploit che non p
+ossono essere rilevati dalle soluzioni antivirus convenzionali, una nuova tecnica di sicurezza perme
+tte di isolare i file dannosi prima che entrino nella rete in modo che l’infezione accidentale non s
+i verifichi.Senza incidere sul flusso aziendale, questa tecnologia apre i file sospetti che arrivano
+ via email e controlla il loro contenuto in un ambiente virtualizzato noto come ‘sandbox’. Nella san
+dbox, il file viene monitorato in tempo reale per registrare qualsiasi comportamento insolito, come 
+ad esempio tentativi di apportare modifiche di registro, azioni o connessioni di rete anomale. Se il
+ comportamento del file risulta essere sospetto o potenzialmente dannoso, questo viene bloccato e me
+sso in quarantena, per prevenire ogni possibile infezione prima che raggiunga la rete – o le caselle
+ di posta degli utenti – azzerando così il rischio che possa causare danni. Nuovi servizi cloud di s
+cansione ed emulazione forniscono questa funzionalità di protezione ad organizzazioni praticamente d
+i ogni tipo e dimensione.Le aziende dovrebbero prendere in considerazione queste ulteriori precauzio
+ni per assicurarsi di non cader vittime di criminali informatici che necessitano solamente di una mi
+nuscola falla di sicurezza per entrare nella rete e prendere in ostaggio gli asset dell’azienda. Pot
+endo potenzialmente catturare tutti i file e i dati di una società in un istante, il ransomware rapp
+resenta una grave minaccia che le organizzazioni dovrebbero seriamente considerare».  Aziende
+A
+Avan
+ti
+Argomenti
+A
+Analytics
+
+B
+Backup
+
+C
+Cloud Computing
+
+C
+cryptolocker
+
+D
+Data Center
+
+I
+Infrastruttu
+ra
+
+I
+Italia
+
+N
+Networking
+
+P
+Personal Computer
+
+R
+Ransomware
+
+S
+Security
+
+S
+Server
+
+S
+Sicurezza Inf
+ormatica
+
+S
+Social
+
+S
+Software
+
+S
+Symantec
+
+V
+Valore
+
+W
+Web
+
+W
+Webinar
+Articoli correlati
+
+Guida al 
+Deep WebDeep Web cos’è, come entrare e cosa si rischia
+21 Ott 2019 Share on Twitter Share on Faceboo
+k Share on LinkedIn Share on What's app Share on Google+30 Share
+
+
+guida alla CybersecuritySicurezza
+ informatica, che cos'è e a che cosa serve
+02 Apr 2020 Share on Twitter Share on Facebook Share on L
+inkedIn Share on What's app Share on Google+condividi
+
+
+Sviluppo SoftwareDevOps: come funziona e qua
+li sono gli ambiti applicativi
+10 Apr 2020 Share on Twitter Share on Facebook Share on LinkedIn Shar
+e on What's app Share on Google+condividi
+
+
+Commenta	Condividiview_listArticoli correlatiProssimo
+De
+ep Web cos’è, come entrare e cosa si rischia
+LinkedIn
+Twitter
+Whatsapp
+Facebook
+Google+
+
+Mail
+
+Link
+
+Cos’è e come funziona un ransomware: Nuove frontiere d’attacco AnnullaIl tuo indirizzo email non sar
+à pubblicato. I campi obbligatori sono contrassegnati *
+ 
+Articoli correlatiCos’è e come funziona un
+ ransomware: Nuove frontiere d’attaccoDeep Web cos’è, come entrare e cosa si rischiaSicurezza inform
+atica, che cos'è e a che cosa serveDevOps: come funziona e quali sono gli ambiti applicativi
+
+4AC5DD
+E2
+
+morire per un #ransomware è possibile?
+
+oggi si, accade in Germania: ZDNet/1st death reported fo
+llowing a ransomware attack on a German hospital
+
+La morte sarebbe sopravvenuta per lo spostamento i
+n un ospedale vicino a causa di attacco ransomware in corso
+ https://zdnet.com/article/first-death-r
+eported-following-a-ransomware-attack-on-a-german-hospital/…
+
+4AC5DDE2
+
+Anche i virus ifnormatici po
+ssono uccidere. Ecco il primo caso documentato. #ransomware
+
+4AC5DDE2
+
+Germania: donna muore durante
+ attacco ransomware all’ospedale
+
+4AC5DDE2
+
+Germania: donna muore durante attacco ransomware all'osp
+edale
+
+4AC5DDE2
+
+
+                    Le tecniche sempre più sofisticate di threat intelligence han
+no spinto i cyber criminali del gruppo Maze ad adottare un approccio più radicale per garantirsi il 
+successo degli attacchi. Prendendo spunto dalla tecnica del gruppo Ragnar Locker, distribuiscono i r
+ansomware all'interno di macchine virtuali. La scoperta è dei ricercatori per la sicurezza del Manag
+ed Threat Response (MTR) di Sophos, che si sono occupati di un singolare attacco ransomware ad opera
+ del gruppo Maze accaduto nel luglio scorso. Lo stupore è stato molto, perché la tecnica di Ragnar L
+ocker si era rivelata micidiale fin dall'esordio, e il gruppo Maze, con il doppio riscatto, è già pa
+rticolarmente insidioso di per sé. Sta di fatto che nell'attacco in questione, dopo due tentativi no
+n riusciti, Maze ha distribuito il carico utile del ransomware all'interno di una macchina virtuale 
+(VM). L'altra analogia che fa comprendere la provenienza dell'idea è l'impiego di un vecchio hypervi
+sor Oracle VirtualBox del 2009 per il "lavoro sporco", come il gruppo concorrente appunto. Il payloa
+d dei file di crittografia del ransomware è stato caricato in un file di immagine VirtualBox (.vdi),
+ che conteneva l'installazione di Windows con estensione .msi e dimensione di oltre 700 MB, e l'eseg
+uibile del ransomware, da pochi kB. La macchina virtuale è stata eseguita come dispositivo "headless
+", ossia senza interfaccia utente. L'unica differenza fra il lavoro di Maze e quello di Ragnar Locke
+r è che i primi hanno usato Windows 7, gli altri una versione ridotta di Windows XP. 
+Tre tentativi 
+prima di andare a segno 
+La telemetria ha svelato che gli aggressori si sono introdotti nella rete 
+almeno sei giorni prima di sferrare l'attacco. Hanno impiegato questo tempo per muoversi lateralment
+e nella rete vittima, mettere a punto l'attacco, compilare elenchi di indirizzi IP ed esfiltrare dat
+i inviandoli a uno dei server di comando e controllo del gruppo.  Non è andato tutto secondo i piani
+ perché questo attacco ha richiesto più tentativi prima di riuscire. L'attacco iniziale non ha prodo
+tto il risultato desiderato, quindi gli aggressori hanno eseguito uno script che ha disabilitato la 
+funzionalità di monitoraggio in tempo reale di Windows Defender prima di lanciare il payload ransomw
+are.   A quel punto hanno eseguito il comando che ha creato un'attività pianificata su tutti i compu
+ter contaminati. Il ransomware tuttavia non ha funzionato perché attivava le protezioni Cryptoguard 
+di Intercept X. Di fatto Cryptoguard impediva al malware di crittografare i file, intercettando e ne
+utralizzando le API di Windows che il ransomware stava tentando di utilizzare per crittografare il d
+isco rigido. È solo a questo punto che gli aggressori hanno deciso di provare un approccio più radic
+ale. Nel terzo tentativo sono passati alla macchina virtuale, riuscendo a portare a termine l'opera.
+ È stato un lavoro lungo, che alla fine ha permesso a Maze di chiedere un riscatto di 15 milioni di 
+dollari. 
+Il futuro del ransomware?
+Questo episodio lascia più di un insegnamento. Il primo è che, 
+al contrario di quanto si pensasse, l'alleanza fra Maze, LockBit e Ragnar Locker non riguarda solo l
+a condivisione della piattaforma online su cui vengono pubblicati i dati riservati delle vittime che
+ non pagano. I cyber criminali hanno condiviso una tecnica di attacco. Questa prima osservazione sot
+tintende che chi c'era dietro a questo attacco (si stima che dietro al nome Maze ci siano almeno tre
+ gruppi) sia abbastanza abile e flessibile da adottare tecniche altrui che si sono dimostrate valide
+. Il terzo è che quanto accaduto potrebbe costituire l'ennesima nuova alba del ransomware, in cui gl
+i attacchi vengono sferrati impiegando macchine virtuali. Quanto ci vorrà prima che nel dark web ven
+gano attivati servizi RssA (Ransomware-as-a-Service) con macchine virtuali? Non lo sappiamo. Quello 
+che sappiamo è che ogni volta che le aziende di cyber sicurezza trovano soluzioni di difesa efficaci
+, i cyber criminali alzano la posta con attacchi più insidiosi. Segno che non ci si può accomodare s
+ugli allori, e che gli aggiornamenti alle soluzioni di cyber security sono imperativi e devono esser
+e assidui.                
+
+4AC5DDE2
+
+
+
+La relativa rapidità con cui Garmin ha ripristinato i serviz
+i interrotti a causa di un attacco malware fa sorgere qualche dubbio. In rete spuntano elementi che 
+puntano verso il pagamento di un consistente riscatto
+Sorgente: Garmin: riscatto milionario per recu
+perare i servizi dal ransomware? In rete circola qualche dubbio
+
+
+
+
+4AC5DDE2
+
+
+Un attacco ransomware
+ ha messo fuori uso i sistemi dell'ospedale universitario di Düsseldorf e provocato il decesso di un
+a paziente
+
+Ospedale universitario di Dusseldorf (Photo by David Young/picture alliance via Getty Im
+ages)
+Un attacco ransomware all’ospedale universitario di Düsseldorf, in Germania, ha causato la mor
+te di una donna. Per la prima volta si riconduce ai danni causati da un attacco informatico la morte
+ di un essere umano in ambito sanitario.
+L’attacco è avvenuto nella giornata di giovedì 10 settembre
+ causando il blocco dei sistemi informatici della struttura. Secondo le indagini i cybercriminali av
+rebbero sfruttato una falla presente in un “software aggiuntivo commerciale ampiamente utilizzato”, 
+fanno sapere le fonti investigative, il cui nome non è stato rivelato.
+Questo ha permesso di acceder
+e alla rete informatica della struttura ospedaliera per rilasciare un ransomware che ha gradualmente
+ criptato i dati bloccando i sistemi dell’ospedale. Il personale ospedaliero, non essendo più in gra
+do di accedere ai dati, è stato costretto a trasferire i pazienti in emergenza presso altre cliniche
+ e a rinviare le operazioni.
+La vittima era ancora in vita al momento del suo arrivo in urgenza all’
+ospedale nella serata dell’11 settembre. Siccome però la struttura non poteva accettare le emergenze
+ a causa del blocco informatico, la donna è stata inviata presso un’altra struttura che però distava
+ oltre 32 chilometri e durante il tragitto è morta.
+Associated Press riporta che, da un rapporto del
+ ministro della Giustizia dello stato del Nord Reno-Westfalia, emerge che 30 server dell’ospedale so
+no stati crittografati durante l’attacco e una nota di estorsione è stata lasciata su uno dei server
+. Il messaggio invitava i destinatari a mettersi in contatto senza però nominare la cifra del riscat
+to ed era indirizzato all’università Heinrich Heine, alla quale è affiliato l’ospedale di Düsseldorf
+, ma non direttamente alla clinica.
+L’attacco è terminato quando la polizia di Düsseldorf ha contatt
+ato gli aggressori informandoli che il loro attacco aveva colpito l’ospedale e non l’università, met
+tendo in pericolo le vite dei pazienti. A questo punto i cybercriminali hanno ritirato la richiesta 
+di riscatto e fornito la chiave di decriptazione. Le autorità tedesche stanno ancora indagando sulla
+ morte della donna. Se il suo trasferimento sarà ritenuto responsabile del decesso, allora la polizi
+a potrà considerare l’attacco informatico come omicidio colposo.
+
+
+
+Leggi anche
+
+ 
+
+
+
+
+Social Networ
+k -
+                                                1 ora fa
+
+
+
+                        						Twitte
+r alza le difese degli account dei politici                    
+
+
+ 
+
+
+
+
+Tech -
+                     
+                           6 ore fa
+
+
+
+                        						Cos'è la “videosorveglianza par
+tecipata” su cui punta il Comune di Cuneo                    
+
+
+ 
+
+
+
+
+Regole -
+                     
+                           19 ore fa
+
+
+
+                        						Cosa insegna sul diritto alla 
+privacy un processo in cui è stata coinvolta Belen Rodriguez                    
+
+
+ 
+
+
+
+Topics
+
+
+
+  
+                              Cybersecurity                            
+
+
+
+                         
+       Hacker                            
+
+
+
+                                Internet               
+             
+
+
+
+
+
+
+Potrebbe interessarti anche
+
+
+
+
+
+
+
+
+
+
+
+
+                                    This
+ opera is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+
+                                
+
+
+4AC5DDE2
+
+Ransomware| #Ospedale tedesco #hackerato, paziente por
+tato in un'altra città muore:
+√ https://securityweek.com/german-hospital-hacked-patient-taken-anothe
+r-city-dies…
+Notizia anche commentata da @lastknight, questa mattina.
+
+4AC5DDE2
+
+Donna morta per col
+pa di #ransomware: la Sanità non cyber-sicura uccide https://cybersecurity360.it/nuove-minacce/ranso
+mware/donna-morta-per-colpa-di-ransomware-la-sanita-non-cyber-sicura-uccide/…
+
+4AC5DDE2
+
+Ransomware 
+uccide una donna in Germania. Primo cyber-omicidio?
+
+4AC5DDE2
+
+#cybersecurity: gli #hacker sfruttano
+ il #backtoschool. In #Europa #cyberattacchi legati all'#istruzione e alla #ricerca in crescita del 
+24%. https://corrierecomunicazioni.it/cyber-security/la-scuole-nel-mirino-degli-hacker-in-europa-att
+acchi-in-crescita-del-24/… #scuola #InformationDisclosure #DDoS #RCE #phishing #ransomware #Zoombomb
+ing #elearning #awareness @eteria_cloud
+
+4AC5DDE2
+
+la Repubblica Germania: donna muore durante attac
+co ransomware all'ospedale Repubblica Tecnologia - di ALESSANDRO LONGO Una donna è morta a causa di 
+un attacco informatico che ha bloccato la rete dell’ospedale di Duesseldorf, in Germania, il 10 sett
+embre. Lo riportano …View on repubblica.it10 hours agoShareLikeFlip
+
+4AC5DDE2
+
+Germania: donna muore
+ durante attacco ransomware all'ospedale
+Un altro frutto del digitale a tutti i costi
+
+4AC5DDE2
+
+
+
+B
+reve panoramica dei più noti, e diffusi, attacchi informatici. Malware, Phishing, Trojan, Data Breac
+h,  Ransomware. Siete sicuri di sapere cosa siano? 
+Nonostante il panorama della cybersecurity sia f
+ollemente esteso e le tipologie di attacchi siano in continua evoluzione e proliferazione esistono d
+elle forme di attacchi informatici, di cui probabilmente hai sentito parlare spesso, che non hai mai
+ avuto realmente modo di approfondire.
+Abbiamo quindi deciso di fare una panoramica dei principali a
+ttacchi informatici, rivolta ai non-esperti, che spesso risultano essere le vittime predilette dai c
+ybercriminali. 
+Se stai pensando che a te non capiterà mai (ovviamente noi ce lo auguriamo) devi ten
+ere in considerazione che solo nell’ultimo anno,  il 2019, gli attacchi in Italia sono stati 1.670, 
++7,6% rispetto al 2018 e il +91.2% sul 2014 con il +48% degli attacchi gravi nel triennio 2017-2019,
+ e sono rivolti a persone, piccole medie imprese, grandi aziende e multinazionali, nessuno escluso.F
+onte: “Rapporto Clusit 2020 sulla sicurezza ICT in Italia”.
+Alle volte viene attaccato un privato co
+n lo scopo di rubare e vendere i suoi dati, i suoi account (considerate che si possono trovare accou
+nt premium a spotify per soli 2$) o di effettuare acquisti per conto suo. Altre volte il privato è a
+ttaccato in quanto membro di un’azienda e quindi diventa un veicolo per il cybercriminale per portar
+e avanti un vero e proprio attacco mirato a ledere l’azienda, rubare dati, denaro, chiedere riscatti
+ o molto altro. 
+Pronti ad iniziare? Si parte! 
+MALWARE
+Il  termine Malware è un abbreviazione di ma
+licious software, che significa letteralmente software dannoso, ed indica un qualsiasi programma inf
+ormatico usato per disturbare le operazioni svolte da un utente di un computer, accedere ad informaz
+ioni riservate, rubare dati, compromettere il sistema. Un malware viene diffuso principalmente via m
+ail attraverso e-mail phishing: email contenenti allegati o link dannosi, programmi o app scaricate 
+da internet, ma in ambito aziendale può essere diffuso attraverso USB infette, intrusioni nella rete
+ locale o nel sistema operativo vulnerabile. 
+Una delle tipologie di Malware più conosciuta e diffus
+a è il Trojan, sicuramente ne avete sentito parlare innumerevoli volte! 
+Un Trojan è un file malevol
+o mascherato, che ha come obiettivo solitamente quello di infettare il pc della vittima per eliminar
+e, rubare, o modificare file. L’utilizzo di Trojan è una delle principali e sempre efficaci tattiche
+ per aggredire un sistema informatico, ed è necessario per chiunque abbia accesso a dispositivi che 
+contengono dati sensibili sapere come evitarli.
+Il primo accorgimento che possiamo prendere è quello
+ di scaricare file solo da fonti ufficiali e affidabili, evitando di eseguire file provenienti da fo
+nti sconosciute e ponendo sempre un’attenzione particolare all’estensione del file, specie su sistem
+i come Windows che spesso la nascondono. Un file nominato immagine.jpg.exe infatti può apparire in w
+indows all’utente semplicemente immagine.jpg traendo in inganno l’utente che va ad eseguirlo.
+Perder
+e il controllo del proprio telefono, tablet o pc personale è un’esperienza che nessuno vuole vivere 
+e quando ad essere attaccata è addirittura l’intera infrastruttura informatica di un’azienda diventa
+ un incubo, ricordiamo che a volte prendere dei piccoli accorgimenti ci può aiutare ad evitare grand
+i disastri.
+Un’altra  tipologia diffusa di Malware è lo spyware, un malware elaborato per spiarti. N
+ella migliore delle ipotesi lo spionaggio avverrà per inondarti di pubblicità mirata, nel peggiore p
+er rubare dati sensibili, segreti aziendali, o mettere a segno furti di denaro.
+Come funziona? I pri
+ncipali vettori sono come sempre link o allegati, quindi vi raccomandiamo di fare attenzione ai siti
+ che visitate e alle mail che aprite. Oltre a questi troviamo app per smartphone, programmi free, ma
+ anche i cookies dei siti internet che visiti. Gli spyware possono essere progettati per l’ottenimen
+to di credenziali di istituti di credito o per rubare informazioni come username, password, account 
+mail, oppure per registrare e memorizzare le attività si un utente sui suoi dispositivi (come succed
+e anche per le intercettazioni). Attenzione quindi come sempre alle mail che aprite, a ciò che scari
+cate, ai siti che visitate e alle finestre pop up di dialogo, ed infine ai programmi che installate,
+ compresi quelli che si propongono come antivirus.
+I metodi attraverso cui può essere diffuso questo
+ programma dannoso sono molteplici, il più diffuso però è il phishing. 
+PHISHING
+Il phishing è una t
+ecnica che consiste nell’invio di mail o SMS che imitano mittenti conosciuti e contenuti del tutto p
+lausibili ed invitano a scaricare allegati, aprire link o fornire le proprie credenziali di accesso 
+a determinati siti e servizi. I cyber criminali possono creare dei siti o mail clone quasi del tutto
+ identici a quelli reali per ingannare gli utenti. Da qualche giorno per esempio molti utenti stanno
+ ricevendo delle mail che utilizzano come mittente l’INPS, nella mail si legge che l’INPS ha rilevat
+o delle discordanze di pagamento di contributi e l’utente ha diritto ad un rimborso. Moltissimi avra
+nno scaricato senza pensarci il link allegato ed avranno quindi introdotto un virus nel loro compute
+r inconsapevolmente, ma cosa succede se il computer è quello aziendale? 
+Il phishing altro non è che
+ una delle tecniche di “Social Engineering” ovvero Ingegneria Sociale. Scopriamo di cosa si tratta. 
+
+INGEGNERIA SOCIALE 
+L’ingegneria sociale nel campo della sicurezza informatica è lo studio del comp
+ortamento individuale di una persona, al fine di carpire informazioni utili, una tecnica molto usata
+ da parte di hacker esperti e spie, in molti casi la vittima rimane completamente ignara. Gli attacc
+hi procedono in diverse fasi e con diversi mezzi, dalla telefonata, al phishing, al baiting. Per agg
+irare la vittima i cyber criminali possono fare leva su tecniche psicologiche persuasive basate su a
+utorevolezza, senso di colpa, panico, ignoranza, desiderio, avidità e compassione. Potreste esserne 
+stati vittime e non saperlo. Prevenzione ed una corretta cultura aziendale sulla cyber security sono
+ l’unico modo per difendersi. Molto spesso gli attacchi più sofisticati di ingegneria sociale hanno 
+come obiettivo uno dei danni più temuti dalle aziende, il famigerato Data Breach.
+DATA BREACH
+Il GDP
+R parla di Data Breach in caso di distruzione, perdita, modifica, divulgazione non autorizzata o acc
+esso ai dati personali trasmessi, conservati o comunque trattati. Le vittime possono essere persone 
+fisiche o aziende.
+In entrambi i casi, soprattutto per le aziende, il costo per riparare ad una viol
+azione di questo tipo è davvero elevato. Le cause di un data breach potrebbero essere molteplici: at
+tacchi Hacker, malware, errore umano, social engineering, o malfunzionamento dell’infrastruttura web
+ dell’azienda. A prescindere è responsabilità di quest’ultima proteggere i dati degli utenti e garan
+tire la sicurezza, ma quando i cyber criminali si impossessano di tutti questi dati, molto spesso pr
+ima di renderli pubblici o distruggerli chiedono un riscatto ed in questo caso parliamo quindi di RA
+NSOMWARE, un vero e proprio ricatto digitale. 
+RANSOMWARE
+Il Ransomware è uno tra gli attacchi infor
+matici più diffusi al mondo. Un ransomware è un tipo di malware che limita l’accesso del dispositivo
+ che infetta, chiedendo un riscatto da pagare per rimuovere la limitazione. Le minacce dei cybercrim
+inali possono essere molteplici, possono rendere inaccessibile il dispositivo o i propri dati person
+ali oppure minacciare di rendere pubblici i dati oppure “segreti aziendali”. Le aziende sono i princ
+ipali target di attacchi Ransomware, per esempio a marzo di quest’anno il famoso studio di architett
+ura Zaha Hadid ne è stato vittima. Anche le istituzioni non si salvano: scuole, università e persino
+ comuni, è successo proprio qualche giorno fa, ad inizio settembre, che il comune di Rieti fosse vit
+tima di un Ransomware attraverso il quale i criminali hanno chiesto 50 bitcoin di riscatto, quasi 45
+0 mila euro. 
+Essendo un tipo di malware, si diffonde principalmente attraverso mail spam i cui ogge
+tti simulano file da scaricare inerenti al lavoro o alla vita personale dell’utente come fatture o d
+ocumenti. Il consiglio è sempre lo stesso: ATTENZIONE, eseguire backup periodici e cambiare spesso l
+e password. Vi ricordiamo che una corretta cultura aziendale sulla sicurezza informatica può preveni
+re danni da migliaia di euro per le aziende.
+DDOS
+Fino ad ora abbiamo parlato di attacchi che colpis
+cono l’individuo per colpire l’azienda, ora invece vi parliamo di un attacco che colpisce direttamen
+te l’infrastruttura informatica, il famoso DOS. 
+DoS significa: Denial of Service, “ovvero negazione
+ del servizio”, un attacco DoS/DDoS è un attacco che rende impossibile accedere al sito o ai servizi
+ agli utenti che vogliono entrare. Avete presente la classica scena dell’apertura di un centro comme
+rciale il giorno del Black Friday negli Stati Uniti? 
+Ecco questa è una rappresentazione semi realis
+tica di un attacco DDoS. Quello che lo differenzia è che in questo caso il DDoS è un attacco compiut
+o deliberatamente, molto spesso da computer ZOMBIE per esaurire le risorse di un sistema informatico
+ che fornisce un servizio ai client, ad esempio un sito web su un web server, fino a renderlo non pi
+ù in grado di erogare il servizio ai client richiedenti. I DDoS sono difficili da fermare perché il 
+traffico proviene da diverse fonti, gli attacchi vengono abitualmente attuati inviando molti pacchet
+ti di richieste, di solito ad un server web, FTP o di posta elettronica saturandone le risorse e ren
+dendo tale sistema “instabile” e non disponibile agli altri utenti. Non sempre però il DoS è un atta
+cco informatico, alle volte sono veramente troppe le richieste contemporanee su un sito che esso div
+enta non più disponibile, per esempio quello che è successo poco tempo fa durante la quarantena sul 
+sito dell’INPS.
+BRUTE FORCE 
+Perché ti è sempre stato consigliato di scegliere una password compless
+a? Perché molti siti ora pretendono che all’interno di essa vi siano un’alternanza di lettere maiusc
+ole, minuscole e numeri?
+Perché Se la tua password è debole, anche il migliore antivirus non ti prot
+eggerà. Se la password dell’admin del tuo sito web o della tua applicazione è debole, il rischio che
+ corri è altissimo. 
+Ma come fa un cracker a rubare la tua password? Un modo comune per farlo è attu
+ando un attacco BRUTE FORCE, che utilizza spesso un software comune come THC Hydra: un cracker di pa
+ssword  che opera effettuando un attacco Brute Force, tentando quindi in parallelo molte combinazion
+i di utente/password su un form di login.
+Il metodo più efficace per proteggersi da questo tipo di a
+ttacco è scegliere una password FORTE, ovvero il più possibile complessa, composta da numeri, maiusc
+ole, minuscole e caratteri speciali.
+Questa è solo la punta dell’iceberg di quelli che sono i perico
+li nel grande oceano digitale, ogni nostro comportamento, ogni nostra connessione, ogni nostra scelt
+a può influire sulla nostra sicurezza ed è bene tenerlo sempre presente al fine di proteggere se ste
+ssi, la propria famiglia e la propria azienda.
+La correlazione tra benessere economico di un’azienda
+ e sicurezza non è mai stato così stretto, proprio per questo negli ultimi anni abbiamo visto cresce
+re il mercato della sicurezza informatica esponenzialmente. Danni d’immagine, danni economici, da qu
+alunque lato la si guardi la medaglia è sempre la stessa ed avrà un valore sempre più alto, anche pi
+ù alto di quello che ci si potrà permettere. 
+THE I da oltre 15 anni opera nel settore della cyber s
+ecurity, ci occupiamo di attività  strettamente legate alla security aziendale come Security assessm
+ent, Vulnerability assessment, Penetration test, ma anche, soprattutto, di soluzioni IT orientate al
+la sicurezza, operazioni legate al Cloud e allo sviluppo software, applicando con expertise la metod
+ologia DevSecOps. 

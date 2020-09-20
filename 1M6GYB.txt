@@ -1,0 +1,887 @@
+
+Als Reaktion auf eine verweigerte Lösegeldzahlung in Höhe von vier Millionen US-Dollar durch die ar
+gentinische Einwanderungsbehörde hat eine Ransomware-Gang Passdaten hunderttausender Reisender im Da
+rknet veröffentlicht. Darunter sollen sich auch Daten von rund 12.000 deutschen Staatsbürgern befind
+en, die zwischen Ende Februar und April 2020 nach Argentinien ein- beziehungsweise von dort wieder a
+usreisten. Weitere Betroffene sollen aus Argentinien, Frankreich, Israel, der Schweiz und Kanada sta
+mmen.
+
+
+
+Der Ransomware-Angriff soll sich laut einem Investigativbericht auf tagesschau.de am 27. Au
+gust dieses Jahres ereignet haben. Der rund zwei GByte große Datensatz sei nach der Zahlungsverweige
+rung am 10. September im Internet gelandet; einen Link nebst Passwort für den Zugriff hätten die Kri
+minellen in einem Blogeintrag im Darknet gepostet. Nach Recherchen des Bayerischen Rundfunks (BR) wu
+rde im Zuge des Angriffs die Ransomware NetWalker verwendet.
+
+
+Laut dem Bericht bestätigte das Auswä
+rtige Amt den Vorfall; gleiches gelte nach Angaben des Bundesinnenministeriums auch für die argentin
+ischen Behörden.
+Datenmissbrauch sehr wahrscheinlich
+As betroffene Daten nennt der Investigativberic
+ht "unter anderem" Namen, Geburtsdaten und Passnummern. Zudem lasse sich den Daten auch entnehmen, o
+b die jeweilige Person einen Diplomatenpass besitze. Konkrete Angaben zu betroffenen Personen habe d
+ie Bundesregierung auf Anfrage des BR nicht machen können; allerdings seien laut BR-Recherchen auch 
+Daten ranghoher deutscher Diplomaten im Leak enthalten.  
+Das Beantragen eines neuen Passes halte da
+s Bundesinnenministerium nicht für nötig. Verbraucherschützer warnen allerdings davor, dass die gele
+akten Daten im Zuge eines Identitätsdiebstahls (möglicherweise in Kombination mit weiteren Daten) et
+wa zum unbefugten Eröffnen von Online-Bankkonten missbraucht werden könnten. Social-Engineering-Angr
+iffe auf potenziell betroffene Argentinien-Reisende sind, sofern sich Angreifer Kontaktdaten wie E-M
+ail-Adressen oder Telefonnummern verschaffen können, ebenfalls denkbar. Somit ist in jedem Fall erhö
+hte Aufmerksamkeit gegenüber ungewöhnlichen Vorgängen geboten.
+
+
+
+
+Aufstieg der Cybercrime-Kartelle
+
+
+Dass Ransomware-Gangs nicht einfach nur Daten verschlüsseln, sondern diese auch kopieren, um durch 
+sensible Inhalte weiteren Druck auf ihre Opfer aufzubauen, ist ein Phänomen, das bereits seit mehrer
+en Monaten immer mehr um sich greift. Schlägt der Erpressungsversuch fehl, versuchen die Gangster of
+t, die Daten im Darknet zu verscherbeln – oder stellen sie wie im vorliegenden Fall einfach online.
+
+Mit der zunehmenden Professionalisierung der Gangs und deren Zusammenarbeit in regelrechten "Cybercr
+ime-Kartellen" mit starker Ausrichtung auf Firmen und öffentliche Einrichtungen beschäftigt sich unt
+er anderem ein ausführlicher Hintergrundartikel bei heise Security:
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cybercrime: Erpressung auf neuem Niveau
+          
+
+
+
+
+
+
+
+
+
+
+(ovw)
+
+
+
+
+
+
+comment
+s_outline_white
+
+
+
+    
+      Kommentare lesen
+      (12)
+    
+  
+
+
+          Zur Startseite
+       
+ 
+
+
+
+
+4AC5DDE2
+
+    Ransomware  Ransomware-Ratgeber fÃ¼r Unternehmen: 8 wichtige MaÃnahmen nach ein
+em Angriff    Jareth    17. September 2020   10 min Lesezeit        Aktuelles Aktuelle Videos Schutz
+tipps Malware-Labor Emsisoft-Neuigkeiten Sicherheit fÃ¼r Unternehmen    Wie sagte schon Benjamin Fra
+nklin: âWer bei der Vorbereitung versagt, bereitet sich auf sein Versagen vor.â Im Falle eines R
+ansomware-Angriffs kann ein wirkungsvoller Notfallplan entscheidend sein, damit keine Panik aufkommt
+. Von ihm kann es abhÃ¤ngen, ob sich die Infektion im gesamten Unternehmen ausbreitet oder ein sich 
+in Grenzen haltender Einzelfall bleibt und damit, ob er sich leicht beheben lÃ¤sst oder das Ende des
+ Unternehmens bedeutet. In diesem Ratgeber erlÃ¤utern wir ausfÃ¼hrlich, wie Unternehmen auf einen Ra
+nsomware-Angriff reagieren sollten. AuÃerdem stellen wir VorsichtsmaÃnahmen vor, mit denen sich da
+s Infektionsrisiko minimieren lÃ¤sst. Empfohlene Reaktion auf einen Ransomware-Angriff Falls Vorsich
+tsmaÃnahmen versagen, sollten Unternehmen direkt nach dem Erkennen der Ransomware-Infektion die fol
+genden Schritte durchfÃ¼hren. 1. Betroffene Systeme isolieren Die Isolation hat hÃ¶chste PrioritÃ¤t.
+ Die meisten Ransomware-Versionen scannen das Netzwerk, um auch Ã¼ber das Netzwerk freigegebene Date
+ien zu verschlÃ¼sseln und sich auf andere Systeme zu Ã¼bertragen. Um die Infektion einzudÃ¤mmen und 
+eine Verbreitung des SchÃ¤dlings zu verhindern, mÃ¼ssen infizierte Systeme so schnell wie mÃ¶glich v
+om Netzwerk getrennt werden. 2. Sicherungen schÃ¼tzen Sicherungen spielen fÃ¼r die Wiederherstellung
+ eine wichtige Rolle. Dabei darf jedoch nicht vergessen werden, dass auch sie nicht vor Ransomware i
+mmun sind. Um eine Wiederherstellung zu verhindern, haben es viele Ransomware-Varianten besonders da
+rauf abgesehen, auch die Sicherungen eines Unternehmens zu verschlÃ¼sseln, zu Ã¼berschreiben oder zu
+ lÃ¶schen. Im Falle eines Ransomware-Angriffs muss das Unternehmen die Sicherungen schÃ¼tzen, indem 
+es sie vom Netzwerk trennt und den Zugriff darauf sperrt, bis die Infektion behoben wurde. In dieser
+ Anleitung erhalten Sie weitere Tipps, wie Sie vor Ransomware geschÃ¼tzte Sicherungen anlegen und ve
+rwalten kÃ¶nnen. 3. Wartungsaufgaben deaktivieren AuÃerdem sollten Unternehmen sofort auf den betro
+ffenen Systemen automatisierte Wartungsaufgaben zum LÃ¶schen temporÃ¤rer Dateien oder fÃ¼r Protokoll
+wechsel deaktivieren. Diese kÃ¶nnten anderenfalls Dateien beeintrÃ¤chtigen, die mÃ¶glicherweise von 
+Untersuchungs- und Forensikteams benÃ¶tigt werden. Dateiprotokolle kÃ¶nnen beispielsweise wichtige H
+inweise auf den Ausgangspunkt einer Infektion liefern. Es gibt auch einige schlecht programmierte Ra
+nsomware-Varianten, die wichtige Informationen wie die VerschlÃ¼sselungsschlÃ¼ssel in temporÃ¤ren Da
+teien speichern. 4. Sicherungen der infizierten Systeme anlegen Nachdem die infizierten Systeme von 
+Netzwerk getrennt wurden, sollte eine Sicherung oder ein Abbild von Ihnen erstellt werden. DafÃ¼r gi
+bt es zwei wesentliche GrÃ¼nde: Datenverlust verhindern Einige Ransomware-Decrypter enthalten Fehler
+, die Daten beschÃ¤digen kÃ¶nnten. Der Decrypter der namhaften Ransomware-Familie Ryuk hat beispiels
+weise beim VerschlÃ¼sseln die Dateien gekÃ¼rzt, indem diese um jeweils ein Byte beschnitten wurden. 
+Bei einigen Formaten hatte dies keine groÃen Auswirkungen. Andere Dateitypen (z. B. virtuelle Festp
+lattenformate wie VHD/VHDX sowie viele Oracle- und MySQL-Datenbankdateien) speichern jedoch wichtige
+ Informationen in diesem letzten Byte und wÃ¤ren daher nach dem EntschlÃ¼sseln beschÃ¤digt. Eine Sic
+herung des infizierten Systems gewÃ¤hrt DatenintegritÃ¤t. Sollte beim EntschlÃ¼sseln etwas schief la
+ufen, kÃ¶nnen Opfer Ihr System zurÃ¼cksetzen und das EntschlÃ¼sseln wiederholen oder sich an einen S
+pezialisten zur Ransomware-Wiederherstellung wenden, um eine zuverlÃ¤ssige individuell entwickelte E
+ntschlÃ¼sselungslÃ¶sung zu erhalten. Kostenlose EntschlÃ¼sselung kÃ¶nnte mÃ¶glich werden Falls die v
+erschlÃ¼sselten Daten nicht unternehmenskritisch sind und daher nicht dringend wieder benÃ¶tigt werd
+en, sollten sie gesichert und gut geschÃ¼tzt aufbewahrt werden, da es durchaus mÃ¶glich sein kann, d
+ass diese in der Zukunft entschlÃ¼sselt werden kÃ¶nnen. Es ist bereits vorgekommen, dass Strafverfol
+gungsbehÃ¶rden Ransomware-Programmierer und Steuerserver ausfindig gemacht haben, woraufhin EntschlÃ
+¼sselungsschlÃ¼ssel verÃ¶ffentlicht werden und die Opfer Ihre Daten kostenlos entschlÃ¼sseln konnten
+. Es gibt auch eine Reihe von Ransomware-Gruppen, wie beispielsweise Shade, TeslaCrypt oder CrySis, 
+die ihre SchlÃ¼ssel freiwillig verÃ¶ffentlicht haben, nachdem sie ihre AktivitÃ¤ten eingestellt hatt
+en. 5. Malware in QuarantÃ¤ne verschieben Opfer sollten niemals infizierte Systeme bereinigen, lÃ¶sc
+hen, neu formatieren oder ein Abbild aufspielen, sofern sie nicht ausdrÃ¼cklich von einem Ransomware
+-Wiederherstellungsspezialisten dazu aufgefordert wurden. Stattdessen sollte die Malware die Quarant
+Ã¤ne verschoben werden, sodass Infektion analysiert und die genaue Ransomware-Variante bestimmt werd
+en kann, die Dateien verschlÃ¼sselt hat. Wird die Infektion entfernt, wird es fÃ¼r Wiederherstellung
+steams extrem schwierig, die bei dem Angriff verwendete Ransomware-Version zu identifizieren. Wird d
+ie Malware noch ausgefÃ¼hrt, sollte vor dem Verschieben in QuarantÃ¤ne ein Speicherabbild erstellt w
+erden, um nachvollziehen zu kÃ¶nnen, welche schÃ¤dlichen Prozesse laufen. In dem Speicherabbild kÃ¶n
+nten wichtige Informationen verzeichnet werden, dass zum VerschlÃ¼sseln der Dateien verwendet wurde.
+ Dieses lÃ¤sst sich mÃ¶glicherweise extrahieren und dafÃ¼r einzusetzen, die Dateien des Opfers ohne 
+Zahlung des LÃ¶segeldes wieder zu entschlÃ¼sseln. 6. Ausgangspunkt ausfindig machen und untersuchen 
+Den Ausgangspunkt ausfindig zu machen (also das GerÃ¤t, bei dem die Infektion zuerst auftat), ist un
+erlÃ¤sslich, um zu verstehen, wie sich die Angreifer Zugriff auf das System verschaffen konnten, wel
+che weiteren Aktionen sie mÃ¶glicherweise im Netzwerk durchgefÃ¼hrt haben und wie umfangreich die In
+fektion ist. Das AufspÃ¼ren des Ausgangspunktes der Infektion ist also nicht nur nÃ¼tzlich, um den a
+ktuellen Vorfall aufzuklÃ¤ren, sondern kann Unternehmen auch dabei helfen, Schwachstellen ausfindig 
+zu machen und das Risiko zukÃ¼nftiger BeeintrÃ¤chtigungen zu senken. Da die Angreifer mÃ¶glicherweis
+e bereits Wochen oder sogar Monate im System unterwegs sind, bevor sie die Ransomware bereitstellen,
+ kann es Ã¼beraus schwierig werden, den Ausgangspunkt der Kompromittierung zu finden. Unternehmen, d
+enen das Personal oder Fachwissen fÃ¼r eine grÃ¼ndliche digitale Untersuchung fehlt, sollten einen p
+rofessionellen IT-Forensik-Anbieter in Anspruch nehmen. 7. Die Ransomware-Variante identifizieren Un
+ternehmen kÃ¶nnen kostenlose Dienste wie das Online-Tool zur Ransomware-Identifikation von Emsisoft 
+oder ID Ransomware nutzen, um herauszufinden, welcher Ransomware-Version sie zum Opfer gefallen sind
+. Bei diesen Tools kÃ¶nnen die Benutzer die LÃ¶segeldforderung, eine verschlÃ¼sselte Beispieldatei u
+nd die Kontaktdaten des Angreifers hochladen und analysieren lassen, ihre Ransomware-Variante zu ide
+ntifizieren. Sollte es bereits ein kostenloses EntschlÃ¼sselungstool dafÃ¼r geben, werden sie dorthi
+n weiterverwiesen. 8. Zahlung des LÃ¶segeldes abwÃ¤gen Sollten Sicherungen beschÃ¤digt sein und es n
+och kein kostenloses EntschlÃ¼sselungstool geben, kÃ¶nnten Unternehmen die Zahlung des LÃ¶segeldes i
+n Betracht ziehen, um ihre Dateien wiederherzustellen. Auf diese Weise kÃ¶nnen zwar mÃ¶glicherweise 
+die allgemeine Betriebsunterbrechung und deren Kosten geringer ausfallen, allerdings sollte diese En
+tscheidung nicht leichtfertig getroffen werden. Unternehmen sollten die Zahlung des LÃ¶segeldes nur 
+in Betracht ziehen, wenn alle anderen MÃ¶glichkeiten erschÃ¶pft sind und ein Datenverlust eine Gesch
+Ã¤ftsaufgabe zur Folge hÃ¤tte. Dabei sind folgende Faktoren zu beachten:  Die Chancen stehen 1 zu 20
+, dass die Ransomware-Programmierer das Geld nehmen, aber keinen Decrypter bereitstellen. Generell i
+st es bei groÃen, âprofessionellerenâ Ransomware-Gruppen wahrscheinlicher, einen funktionierend
+en Decrypter zu erhalten, als fÃ¼r Ransomware-Familien wie Dharma und Phobos, die oftmals von Einzel
+personen gekauft und eingesetzt werden. Wer auch immer hinter dem Angriff stecken mag, die Opfer mÃ¼
+ssen sich immer darauf verlassen, dass die Kriminellen einen Decrypter bereitstellen. Dabei haben si
+e allerdings keinerlei Garantie, dass diese ihren Teil der Abmachung auch wirklich einhalten. Der vo
+n den Angreifern bereitgestellte Decrypter kÃ¶nnte nicht richtig funktionieren. Die LÃ¶segeldzahlung
+en kÃ¶nnten zur Finanzierung schwerer Verbrechen eingesetzt werden, wie Menschenhandel oder Terroris
+mus. Durch Zahlung des LÃ¶segeldes wird das Ransomware-GeschÃ¤ftsmodell weiter gefÃ¶rdert und zu zuk
+Ã¼nftigen Angriffen animiert.  Zu vermeidende Reaktion auf einen Ransomware-Angriff Ein falscher Umg
+ang mit einem Ransomware-Vorfall kann die Wiederherstellung beeintrÃ¤chtigen, die Daten gefÃ¤hrden u
+nd zu einer unnÃ¶tigen Zahlung des LÃ¶segelds fÃ¼hren. Unternehmen sollten daher nach einem Ransomwa
+re-Angriff folgende Fehler vermeiden: 1. Betroffene GerÃ¤te neu starten Unternehmen sollten unbeding
+t vermeiden, dass von einer Ransomware beeintrÃ¤chtigte GerÃ¤te neu gestartet werden. Viele Ransomwa
+re-Versionen erkennen den Neustartversuch und bestrafen die Opfer durch BeschÃ¤digung der Windows-In
+stallation, sodass sich das GerÃ¤t gar nicht mehr starten lÃ¤sst. Andere wiederum lÃ¶schen nach und 
+nach in zufÃ¤lliger Abfolge die verschlÃ¼sselten Dateien. Die im Jahr 2016 vorherrschende berÃ¼hmt-b
+erÃ¼chtigte Jigsaw-Ransomware lÃ¶schte bei jedem GerÃ¤teneustart zufÃ¤llig 1000 verschlÃ¼sselte Date
+ien. Ein Neustart kann auch forensische BemÃ¼hungen behindern, da dabei der Speicher des GerÃ¤ts gel
+Ã¶scht wird, in dem jedoch wie bereits erwÃ¤hnt fÃ¼r die Techniker nÃ¼tzliche Hinweise enthalten sei
+n kÃ¶nnten. Die Systeme sollten stattdessen in den Ruhemodus versetzt werden, wodurch alle Speicherd
+aten in eine Referenzdatei auf der Festplatte des GerÃ¤tes geschrieben werden. Diese kann dann zur w
+eiteren Analyse eingesetzt werden. 2. Externe SpeichergerÃ¤te an das infizierte System anschlieÃen 
+Viele Ransomware-Familien zielen auch auf externe SpeichergerÃ¤te und Sicherungssysteme ab. Folglich
+ dÃ¼rfen diese nicht mit den infizierten Systemen (physisch oder Ã¼ber das Netzwerk) verbunden werde
+n, bis die Infektion vollstÃ¤ndig entfernt wurde Es ist nicht immer offen ersichtlich, dass eine Ran
+somware ausgefÃ¼hrt wird. Leider gibt es viele FÃ¤lle, bei denen Unternehmen mit einer Wiederherstel
+lung begonnen haben, ohne zu bemerken, dass die Ransomware immer noch auf dem System vorhanden ist. 
+Dies ermÃ¶glichte es dem SchÃ¤dling, auch die Sicherungssysteme und SpeichergerÃ¤te zu verschlÃ¼ssel
+n. 3. Sofortige Zahlung des LÃ¶segelds Auch wenn Ausfallzeiten und eine mÃ¶gliche SchÃ¤digung des gu
+ten Namens beunruhigen sind, sollten Unternehmen niemals sofort ein LÃ¶segeld zahlen. Es sollten imm
+er zunÃ¤chst alle anderen verfÃ¼gbaren MÃ¶glichkeiten umfassend geprÃ¼ft werden, bevor diese Entsche
+idung als letzter Ausweg getroffen wird. 4. Ãber das betroffene Netzwerk kommunizieren WÃ¤hrend der
+ Wiederherstellung sollten Opfer davon ausgehen, dass die Angreifer weiterhin Zugriff auf das betrof
+fene Netzwerk haben und daher jegliche darÃ¼ber gesendete oder empfangene Kommunikation abfangen kÃ¶
+nnen. Unternehmen sollten sichere Out-of-Band-KommunikationskanÃ¤le (also auÃerhalb des Netzwerks) 
+einrichten und Anwendern die Kommunikation Ã¼ber das kompromittiert Netzwerk untersagen, bis das Pro
+blem behoben und Angreifer aus dem Netzwerk entfernt wurden. 5. Dateien lÃ¶schen Es sollten keine Da
+teien von dem verschlÃ¼sselten System gelÃ¶scht werden, sofern nicht ein Ransomware-Wiederherstellun
+gsspezialist dazu aufgefordert hat. VerschlÃ¼sseln der Dateien sind nicht nur fÃ¼r die Untersuchunge
+n nÃ¼tzlich, sondern kÃ¶nnen bei einigen Ransomware Familien auch VerschlÃ¼sselungsschlÃ¼ssel enthal
+ten. Werden diese gelÃ¶scht, funktioniert Decrypter nicht mehr. Auch LÃ¶segeldforderungen sollten ni
+emals gelÃ¶scht werden. Einige Ransomware-Versionen wie DoppelPaymer und BitPaymer erstellen fÃ¼r je
+de verschlÃ¼sselte Datei eine Forderung, die den fÃ¼r das EntschlÃ¼sseln erforderlichen verschlÃ¼sse
+lten SchlÃ¼ssel enthÃ¤lt. Wird die LÃ¶segeldforderung gelÃ¶scht, kann die zugehÃ¶rige Datei nicht me
+hr entschlÃ¼sselt werden. 6. Ransomware-Programmierern vertrauen Zwar versuchen Ransomware-Programmi
+erer zunehmend, sich eine professionelle Fassade zuzulegen, allerdings sind und bleiben sie Kriminel
+le, die sich keinerlei Vereinbarungen oder Verhaltenskodexen verpflichtet fÃ¼hlen. Unternehmen sollt
+en niemals den von Ransomware-Gruppen bereitgestellten Informationen Glauben schenken (nicht einmal 
+der in der LÃ¶segeldforderung angegebenen Ransomware-Version) und auch nicht darauf vertrauen, dass 
+eine Zahlung des LÃ¶segeldes tatsÃ¤chlich zum EntschlÃ¼sseln der Daten fÃ¼hrt. Zum Identifizieren de
+r verwendeten Familie sollten immer vertrauenswÃ¼rdige Dienste wie das Online-Tool zur Ransomware-Id
+entifikation von Emsisoft oder ID Ransomware verwendet werden. Die Opfer sollten sich auch bewusst s
+ein, dass die Angreifer nach der Zahlung mÃ¶glicherweise keine Decrypter bereitstellen oder dass die
+se fehlerhaft sein und/oder die verschlÃ¼sselten Daten sogar beschÃ¤digen kÃ¶nnten. So minimieren Si
+e das Risiko einer Ransomware-Infektion Indem sie aktiv Sicherheitsvorkehrungen treffen, kÃ¶nnen Sie
+ das Risiko eines Ransomware-Vorfalls senken. Unternehmen sollten unabhÃ¤ngig von ihrer GrÃ¶Ãe folg
+ende VorsichtsmaÃnahmen umsetzen und deren Einhaltung und Wirksamkeit regelmÃ¤Ãig Ã¼berprÃ¼fen:  G
+epflegte Zugangsdaten: Mit sorgfÃ¤ltig gepflegten Zugangsdaten lassen sich Brute-Force-Angriffe verm
+eiden, die Auswirkungen beim Diebstahl von Zugangsdaten minimieren und das Risiko eines nicht autori
+sierten Netzwerkszugriffs senken. Prinzip der geringsten Berechtigungen: Bei diesem fÃ¼r alle Untern
+ehmen empfohlenen Sicherheitskonzept haben Benutzer, Programme und Prozesse immer nur lediglich die 
+Berechtigungen, die sie zum DurchfÃ¼hren ihrer jeweiligen Aufgabe benÃ¶tigen. Mitarbeiterschulungen:
+ Da Ransomware-Angriffe hÃ¤ufig durch Aktionen der Benutzer ausgelÃ¶st werden, sollten Unternehmen r
+egelmÃ¤Ãig Cybersicherheitsschulungen zu den Themen Phishing, bÃ¶sartige E-Mail-AnhÃ¤nge und andere
+ Taktiken des Social Engineerings (also die Manipulation der Anwender) durchfÃ¼hren. Mehrstufige Aut
+hentisierung (MFA): Die MFA sollte wann immer mÃ¶glich obligatorisch sein, um das Risiko eines nicht
+ autorisierten Zugriffs zu minimieren. ÃberprÃ¼fung von Active Directory: Unternehmen sollten regel
+mÃ¤Ãig die Active Directory Ã¼berprÃ¼fen, um mÃ¶gliche HintertÃ¼ren wie kompromittierte Dienstkonte
+n aufzuspÃ¼ren und zu schlieÃen. Diese verfÃ¼gen oftmals Ã¼ber Administratorberechtigungen und sind
+ ein beliebtes Ziel fÃ¼r Angreifer, um sich Zugangsdaten zu verschaffen. Netzwerksegmentierung: Eine
+ wirkungsvolle Netzwerksegmentierung ist unerlÃ¤sslich, um VorfÃ¤lle einzudÃ¤mmen und StÃ¶rungen des
+ weiteren GeschÃ¤fts zu minimieren. Sicherer Fernzugriff: Da das RDP (Remotedesktopprotokoll) ein ex
+trem beliebter Angriffspunkt ist, sollten Unternehmen den Fernzugriff unbedingt entsprechend absiche
+rn oder ganz deaktivieren, sofern dieser nicht benÃ¶tigt wird. Er sollte nur Ã¼ber bestimmte Netzwer
+ke oder ein VPN mit MSA erfolgen und auf Benutzer beschrÃ¤nkt sein, die diesen unbedingt fÃ¼r ihre A
+rbeit benÃ¶tigen. PrivatgerÃ¤te vermeiden: Das Implementieren und strenge Durchsetzen von BYOD- Sich
+erheitsprotokollen auf PrivatgerÃ¤ten von Mitarbeitern ist enorm anspruchsvoll. Im Idealfall stellen
+ Unternehmen eigene GerÃ¤te und Hardware zur VerfÃ¼gung, um Mitarbeiter davon abzubringen, Privatger
+Ã¤te fÃ¼r berufliche Zwecke zu nutzen. PowerShell: PowerShell ist eines der am hÃ¤ufigsten von Ranso
+mware-Gruppen eingesetzten Tools, um sich im Zielnetzwerk zu bewegen, und sollte daher mÃ¶glichst di
+e installiert werden. Wird es weiterhin benÃ¶tigt, muss es sehr genau mit einem Endpunktschutz Ã¼ber
+wacht und durch entsprechende AbwehrmaÃnahmen geschÃ¼tzt werden. Administratoren sollten jedes einz
+elne PowerShell-Skript kennen, dass auf ihren Endpunkten ausgefÃ¼hrt wird. Cyberversicherung: Untern
+ehmen sollten eine Cyberversicherungen in Betracht ziehen, um die Auswirkungen eines Ransomware-Vorf
+alls zu minimieren. Derartige Versicherungen kÃ¶nnen insbesondere fÃ¼r MSPs nÃ¼tzlich sein, die oft 
+fÃ¼r den Schutz der Daten anderer Unternehmen verantwortlich sind. Einige Cyberversicherungsanbieter
+ setzen auf ein Bezahlen des LÃ¶segeldes, wÃ¤hrend andere zunÃ¤chst alternative LÃ¶sungsansÃ¤tze ver
+folgen. Unternehmen sollten also die jeweiligen Policen mit den Versicherern durchgehen, bevor sie s
+ich fÃ¼r einen Anbieter entscheiden.  DarÃ¼ber hinaus sollten NotfallplÃ¤ne ausgearbeitet und regelm
+Ã¤Ãig getestet werden, um sicherzustellen, dass die Mitarbeiter mit den Sicherheitsvorkehrungen ver
+traut sind und genau wissen, was im Falle einer Infektion zu tun ist. Durch die Tests kÃ¶nnen Untern
+ehmen zudem SicherheitslÃ¼cken bei den NotfallmaÃnahmen erkennen und schlieÃen. Am ungÃ¼nstigsten 
+fÃ¼r ein Unternehmen wird es, wenn es erst bei einem tatsÃ¤chlichen Angriff herausfinden muss, was b
+ei einem Ransomware-Angriffs zu tun ist. In dieser Warnung des FBI erhalten Sie weitere Informatione
+n zum Erkennen und Beseitigen bÃ¶sartiger AktivitÃ¤ten. Fazit Verfolgen Unternehmen eine aktive Hera
+ngehensweise zum Vorbeugen von Ransomware, kÃ¶nnen Sie Ihr Infektionsrisiko erheblich senken. Im Fal
+le eines Angriffs mÃ¼ssen Unternehmen auÃerdem Ã¼ber wirkungsvolle NotfallmaÃnahmen verfÃ¼gen, um 
+den Vorfall einzudÃ¤mmen, einen Datenverlust zu vermeiden und einen sicheren Wiederherstellungsproze
+ss einzuleiten. Mit den in diesem Artikel beschriebenen MaÃnahmen kÃ¶nnen Unternehmen jeder GrÃ¶Ãe
+ die Auswirkungen eines Ransomware-Angriffs mildern. Es handelt sich dabei jedoch um allgemeine Empf
+ehlungen, die keinen Anspruch auf VollstÃ¤ndigkeit erheben. Sicherheitsanforderungen kÃ¶nnen extrem 
+unterschiedlich sein und Sicherheitssysteme sollten daher immer an die jeweiligen Branchen, gesetzli
+chen Vorgaben und individuellen Sicherheitsanforderungen des Unternehmens angepasst werden.         
+Jareth      Freier Schriftsteller und Sicherheits-Enthusiast in Auckland, Neuseeland.      
+
+4AC5DDE
+2
+
+   Anzeige       Der IT-Ausfall an der Düsseldorfer Uniklinik beruht nach Angaben der Landesregie
+rung auf einem Hackerangriff mit Erpressung. Wissenschaftsministerin Isabel Pfeiffer-Poensgen (parte
+ilos) sagte am Donnerstag im Landtag, die Täter hätten nach Kontakt zur Polizei die Erpressung zurüc
+kgezogen. Die Staatsanwaltschaft ermittelt inzwischen auch wegen fahrlässiger Tötung, da eine Patien
+tin in ein Wuppertaler Krankenhaus umgeleitet werden musste – und starb. Aus einem Bericht des Justi
+zministers ging hervor, dass vergangene Woche 30 Server des Klinikums verschlüsselt wurden. Auf eine
+m Server wurde ein Erpresserschreiben hinterlassen, das allerdings an die Düsseldorfer Heinrich-Hein
+e-Uni gerichtet war. In dem Schreiben forderten die Erpresser zur Kontaktaufnahme auf – eine konkret
+e Summe nannten sie laut Bericht nicht. Die Düsseldorfer Polizei habe dann tatsächlich Kontakt aufge
+nommen und den Tätern mitgeteilt, dass durch ihren Hackerangriff ein Krankenhaus – und nicht die Uni
+ – betroffen sei. Damit seien Patienten erheblich gefährdet. Die Täter hätten daraufhin die Erpressu
+ng zurückgezogen und einen digitalen Schlüssel ausgehändigt, mit dem die Daten wieder entschlüsselt 
+werden können. Behandlung mit einstündiger Verspätung   Anzeige     Die Ermittler haben laut Bericht
+ daher den Verdacht, dass das Uniklinikum nur zufällig betroffen war. Inzwischen seien die Täter nic
+ht mehr erreichbar. Gegen die Unbekannten wird jetzt auch wegen fahrlässiger Tötung ermittelt, da ei
+ne lebensbedrohlich erkrankte Patientin, die in der Nacht vom 11. auf den 12. September in die Unikl
+inik gebracht werden sollte, an ein Krankenhaus in Wuppertal verwiesen wurde. Ihre Behandlung habe e
+rst mit einstündiger Verspätung stattfinden können. Sie starb kurze Zeit später, so der Justizminist
+er in seinem Bericht.    Lesen Sie auch                             Hackerangriffe    Warum Experten
+ vor der Nutzung von Hotel-WLAN warnen       Bei dem Hackerangriff sind nach bisherigen Erkenntnisse
+n keine Daten gestohlen oder unwiederbringlich gelöscht worden. Das hätten Untersuchungen von IT-Exp
+erten ergeben, teilte die Klinik mit.   Anzeige     Die Hacker hätten eine Schwachstelle in einer An
+wendung ausgenutzt. „Die Sicherheitslücke befand sich in einer marktüblichen und weltweit verbreitet
+en kommerziellen Zusatzsoftware. Bis zur endgültigen Schließung dieser Lücke durch die Softwarefirma
+ war ein ausreichendes Zeitfenster gegeben, um in die Systeme einzudringen“, teilte die Klinik mit. 
+Die Angreifer hätten dafür gesorgt, dass nach und nach Systeme ausfielen und ein Zugriff auf gespeic
+herte Daten nicht mehr möglich war. Noch ist kein Normalbetrieb möglich Die Uniklinik Düsseldorf rec
+hnet nun damit, dass es noch einige Zeit dauern wird, bis Patienten wieder normal behandelt werden k
+önnen. „Aufgrund des Umfangs des IT-Systems und der Fülle an Daten können wir noch nicht abschätzen,
+ wann dieser Prozess abgeschlossen sein wird“, sagte der Kaufmännische Direktor, Ekkehard Zimmer, am
+ Donnerstag. „Wir sind aber zuversichtlich, dass wir in den nächsten Tagen die Zeitspanne besser abs
+chätzen können und dann auch Schritt für Schritt wieder für unsere Patientinnen da sind.“ Vergangene
+ Woche Donnerstag war das IT-System des Universitätsklinikums ausgefallen. Rettungswagen fuhren die 
+große Einrichtung in der nordrhein-westfälischen Landeshauptstadt daraufhin nicht mehr an, Operation
+en wurden verschoben und geplante Behandlungstermine abgesagt.       
+
+4AC5DDE2
+
+“Ransomware-Ratgebe
+r für Unternehmen: 8 wichtige Maßnahmen nach einem Angriff” by @emsisoft
+
+4AC5DDE2
+
+Argentinische Ei
+nwanderungsbehörde: Ransomware-Gang leakte Passdaten | heise online
+
+4AC5DDE2
+
+Ransomware gehört zu 
+den am meisten gefürchteten Cyber-Attacken auf Firmen und Privatpersonen.Foto: Asfia - shutterstock.
+comDie Bedrohung durch Ransomware ist weiterhin hoch. Dabei handelt es sich um Malware, die nach der
+ erfolgreichen Infektion eines PCs wichtige Dateien verschlüsselt und anschließend meist ein Lösegel
+d für die Wiederherstellung verlangt. Vor kurzem erst hat es den Navigationsspezialisten Garmin erwi
+scht. Auch nach Informationen des tschechischen Sicherheitsanbieters Avast hat die Bedrohung durch R
+ansomware stark zugenommen. Dabei wird zunehmend auch das Remote Desktop Protocol (RDP) missbraucht.
+Das Unternehmen hat seine beiden Sicherheitslösungen Avast Free Antivirus und Avast Premium Security
+ um neue Anti-Ransomware-Funktionen erweitert. Der Ransomware Shield für die kostenlose Version best
+eht aus einer zusätzlichen Sicherheitskontrolle, die Dateien vor Manipulationen durch Malware schütz
+en soll. Dazu kommt ein verbesserter Schutz vor Botnetzen.Schutz vor RDP-AttackenDie kostenpflichtig
+e Sicherheitssuite hat zusätzlich einen Remote Access Shield erhalten, der persönliche Daten des Nut
+zers vor Angriffen schützen soll. Damit ist es unter anderem nun möglich, IP-Adressen oder -Bereiche
+ festzulegen, die auf ein Gerät zugreifen dürfen. Alle anderen IPs werden automatisch blockiert. Das
+ gleiche gilt für Brute-Force-Attacken, mit denen Kriminelle versuchen, die Zugangsdaten zu einem ge
+schützten Computer zu erraten. Außerdem blockiert Avast Premium Security RDP-Angriffe wie BlueKeep o
+der RDP-Anfragen von "risikoreichen" Adressen. Der Remote Access Shield ist ab Version 20.5 aktivier
+t.
+
+4AC5DDE2
+
+BSI warnt vor #Citrix VPN-Schwachstelle
+
+"#Ransomware-Angriff mit Todesfolge an der #U
+niklinik Düsseldorf. Das @BSI_Bund findet deutliche Worte und kommentiert"
+#Shitrix
+
+4AC5DDE2
+
+Das F
+orscherteam von Claroty hat sechs kritische Schwachstellen in der Software „CodeMeter“ von Wibu-Syst
+ems gefunden. Gemeinsam erreichen sie den maximalen CVSS-Score von 10,0 und können für Denial-of-Ser
+vice-Angriffe oder zur entfernten Codeausführung ausgenutzt werden. Die Lösung ist im industriellen 
+Bereich als Lizenzmanagement- und Anti-Piraterie-Werkzeug sehr weit verbreitet und wird vor allem in
+ der Fertigung sowie von der Pharma- und Automobilindustrie eingesetzt. Wibu-Systems hat sämtliche S
+chwachstellen in Version 7.10 von Codemeter gepatcht. Alle Anbieter und Nutzer sollten dringend ein 
+Update auf diese Version durchführen. Zudem haben die Claroty-Forscher ein Online-Tool entwickelt, m
+it dem Benutzer feststellen können, ob ihre Codemeter-Installationen für die Schwachstellen anfällig
+ sind.Lizenzmanagement-Lösungen schützen Software-Anbieter vor Betrug, illegaler Verbreitung und Man
+ipulation von proprietärem Code. Hierfür wird im Bereich der industriellen Steuerungssystemen (ICS) 
+überwiegend die Lösung Codemeter von Wibu-Systems eingesetzt. Zahlreiche Anbieter haben diese Softwa
+re in ihre Produkte integriert, um Lizenzmanagement, Anti-Piraterie-Schutz und Verschlüsselungsdiens
+te zum Schutz des geistigen Eigentums der Unternehmen zu ermöglichen. Aufgrund dieser starken Marktp
+räsenz haben die Sicherheitsforscher von Claroty diese leistungsstarke Software gründlich untersucht
+ und dabei sechs Schwachstellen gefunden, die von der Cybersecurity and Infrastructure Security Agen
+cy (CISA) zusammengenommen mit der höchsten Kritikalität (10,0) bewertet wurden. Diese Schwachstelle
+n können aus der Ferne und ohne Authentifizierung ausgenutzt werden und bieten Cyberkriminellen das 
+Äquivalent eines Administratorzugriffs auf kritische Systeme. Damit können Angreifer beispielsweise 
+Geräte oder Prozesse zum Erliegen bringen (Denial-of-Service) oder die industriellen Systeme mit Mal
+ware (einschließlich Ransomware) infizieren.Die identifizierten Sicherheitslücken reichen von Memory
+-Corruption-Schwachstellen wie Buffer-Overflows bis hin zu kryptographischen Mängeln, bei denen unge
+eignete Verschlüsselungsstärken verwendet oder kryptographische Signaturen unsachgemäß validiert wur
+den. Die Forscher fanden auch Schwachstellen im Codemeter-Lizenzierungsschema, die dazu genutzt werd
+en könnten, die verwendeten digitalen Signaturen zu umgehen. Angreifer könnten auf diese Weise beste
+hende Lizenzen ändern oder gültige Lizenzen fälschen. Für diesen Angriff werden Opfer zum Beispiel d
+urch Phishing auf bösartige Websites gelockt, welche dann über Javascript gefälschte Lizenzen injizi
+eren können. Weitere Informationen, Details und Proof of Concepts finden sich hier.Das Claroty-Forsc
+herteam hat Wibu-Systems über die Schwachstellen informiert, woraufhin Wibu-Systems mit der Version 
+7.10 von Codemeter einen Patch veröffentlicht hat. Jedoch sind sämtliche Versionen vor 7.10 auf unte
+rschiedliche Weise von den Schwachstellen betroffen. Als problematisch erweist es sich in diesem Zus
+ammenhang, dass im ICS-Bereich ein zeitnahes Patchen oftmals nicht die Regel ist. Zudem ist Codemete
+r ein weitverbreitetes Drittanbieter-Tool, das in zahlreiche Produkte diverser Hersteller integriert
+ ist. Deshalb sind sich Unternehmen möglicherweise nicht bewusst, dass in den eingesetzten Produkten
+ Codemeter eingebettet ist. Die Claroty-Sicherheitsforscher haben ein Tool veröffentlicht, mit dem U
+nternehmen testen können, ob sie eine anfällige Version von Code,eter einsetzen. Anhand der Ergebnis
+se können diese dann entscheiden, wie sie in Bezug auf das Patchen vorgehen wollen. Das kostenlose T
+ool ist hier verfügbar.#ClarotyTags:#ClarotyBuffer-OverflowCodemeterCyberdefenseCyberkriminelleCyber
+securityDenial-of-ServiceIT-SecurityIT-SicherheitMalwarePhishingRansomwareSchwachstelleVulnerability
+Wibu-Systems
+
+4AC5DDE2
+
+
+Am 17. August 2020 starb nach einem Erpresserangriff auf die Uniklinik Düss
+eldorf eine Patientin. Der Hacker-Angriff hatte am Dienstag weite Teile der Uniklinik lahmgelegt. Di
+e Staatsanwaltschaft hat ein Todesermittlungsverfahren eingeleitet.
+Mit dem anhaltenden Ausfall des 
+IT-Systems am Düsseldorfer Uniklinikum nach einem mutmaßlichen Hackerangriff wuchs die Zahl der betr
+offenen Patienten von Tag zu Tag. Nur noch ungefähr die Hälfte der etwa 1000 Patienten in einer stat
+ionären Behandlung konnten noch versorgt werden.
+Laut einem Bericht des Justizministers wurden verga
+ngene Woche 30 Server des Klinikums verschlüsselt. Auf einem Server wurde ein Erpresserschreiben hin
+terlassen, das allerdings an die Düsseldorfer Heinrich Heine-Uni gerichtet war.
+Die Düsseldorfer Pol
+izei nahm Kontakt auf und hat den Tätern mitgeteilt, dass sie durch ihren Hackerangriff ein Krankenh
+aus – und nicht die Uni – betroffen sei. Damit seien Patienten erheblich gefährdet. Die Täter hätten
+ daraufhin die Erpressung zurückgezogen und einen digitalen Schlüssel ausgehändigt, mit dem die Date
+n wieder entschlüsselt werden können.
+Uni Klinik Düsseldorf Twitter Feed (Bildquelle: Universität Dü
+sseldorf)
+Seit Donnerstag letzter Woche (10.9.) war das IT-System des Universitätsklinikums Düsseldo
+rf (UKD) weitreichend gestört. Daher ist das UKD weiterhin von der Notfallversorgung abgemeldet und 
+Patienten mit Terminen sollten zur Abstimmung Kontakt mit der behandelnden Abteilung aufnehmen.
+Nach
+ Informationen der Staatsanwaltschaft und des Justizministeriums hat die Polizei in Zusammenarbeit m
+it externen Spezialisten und den IT-Fachleuten der Klinik inzwischen konkrete Anhaltspunkte für die 
+Ursache ermittelt. Hintergrund des Ausfalls ist nach diesen Analysen ein Hackerangriff, der eine Sch
+wachstelle in einer Anwendung ausnutzte. Die Sicherheitslücke befand sich in einer marktüblichen und
+ weltweit verbreiteten kommerziellen Zusatzsoftware. Bis zur endgültigen Schließung dieser Lücke dur
+ch die Softwarefirma war ein ausreichendes Zeitfenster gegeben, um in die Systeme einzudringen. Als 
+Folge des damit ermöglichten Sabotageakts fielen nach und nach Systeme aus, Zugriffe auf gespeichert
+e Daten waren nicht mehr möglich.
+Die IT-Experten konnten mittlerweile den genauen Umfang analysiere
+n und den Zugang zu den Daten wiederherstellen. Bisher gibt es keine Anhaltspunkte dafür, dass Daten
+ unwiederbringlich zerstört worden sind. Auch für das Abfischen von konkreten Daten gibt es nach heu
+tigem Stand keine Belege. Eine konkrete Lösegeldforderung gab es nicht.
+„Wir danken als Vorstand all
+en unseren Beschäftigten und insbesondere unseren IT-Fachleuten für die hervorragende Arbeit in dies
+er schwierigen Situation. Ganz besonders wollen wir die gute Zusammenarbeit mit der Polizei, dem LKA
+ und den hinzugezogenen IT-Experten herausstellen. Sie haben innerhalb kurzer Zeit herausarbeiten kö
+nnen, dass es sich um einen Angriff von außen handelte und nicht um einen Fehler eines Nutzers. Es w
+ar also nicht nur das Universitätsklinikum durch die Sicherheitslücke gefährdet, sondern weltweit se
+hr viele Unternehmen,“ erläutert Prof. Dr. Frank Schneider, Ärztlicher Direktor des UKD.
+In NRW ware
+n neben der Uniklinik in Düsseldorf das Lukaskrankenhaus in Neuss, das Forschungszentrum Jülich sowi
+e mehrere Unternehmen in der Vergangenheit Ziele von Hackerangriffen. In Deutschland war wegen einer
+ Ramsomware-Attacke die Universität Gießen um Weihnachten 2019 mehrere Wochen komplett oder teilweis
+e offline.
+
+
+
+ANZEIGE
+Kollaborationsplattform Slack: Effizient arbeiten – egal von wo
+Vor COVID-19 w
+ar Remote-Work für viele Unternehmen fast undenkbar. Heute haben sie erkannt, dass es sehr gut funkt
+ionieren kann, wenn die Rahmenbedingungen stimmen. Erfahren Sie in diesem Webinar, wie Sie mit der K
+ollaborationslösung Slack auf die veränderten Arbeitsbedingungen optimal reagieren können.
+
+
+
+					
+	Jetzt registrieren und Aufzeichnung ansehen.					
+
+
+
+
+
+
+
+4AC5DDE2
+
+
+Cyber-Angriff auf Uniklinik Düs
+seldorf: BSI warnt vor akuter Ausnutzung bekannter Schwachstelle
+
+Ort Bonn
+Datum 17.09.2020
+
+Am 10. 
+September 2020 kam es zu einem IT-Sicherheitsvorfall im Universitätsklinikum Düsseldorf (UKD). Gemäß
+ BSI-Gesetz hat das UKD das Bundesamt für Sicherheit in der Informationstechnik (BSI) über diesen Vo
+rfall informiert. Das BSI hat sofort seine Unterstützung angeboten und steht seitdem im kontinuierli
+chen Kontakt mit dem UKD, auch im Rahmen des Cyber-Abwehrzentrums. Mit einem mobilen Einsatzteam unt
+erstützt das BSI derzeit die Verantwortlichen des UKD vor Ort aktiv bei der Analyse und Bewältigung 
+des Vorfalls.
+
+In diesem Zusammenhang weist das BSI mit Nachdruck darauf hin, dass derzeit eine seit
+ Dezember 2019 bekannte Schwachstelle (CVE-2019-19781) in VPN-Produkten der Firma Citrix für Cyber-A
+ngriffe ausgenutzt wird. Dem BSI werden zunehmend Vorfälle bekannt, bei denen Citrix-Systeme bereits
+ vor der Installation der im Januar 2020 bereitgestellten Sicherheitsupdates kompromittiert wurden. 
+Dadurch haben Angreifer auch nach Schließung der Sicherheitslücke weiterhin Zugriff auf das System u
+nd dahinterliegende Netzwerke. Diese Möglichkeit wird aktuell vermehrt ausgenutzt, um Angriffe auf b
+etroffene Organisationen durchzuführen.
+
+„Bereits im Januar haben wir vor der Schwachstelle gewarnt 
+und darauf hingewiesen, welche Folgen eine Ausnutzung haben kann. Angreifer verschaffen sich Zugang 
+zu den internen Netzen und Systemen und können diese auch Monate später noch lahmlegen. Ich kann nur
+ mit Nachdruck appellieren, solche Warnungen nicht zu ignorieren oder aufzuschieben, sondern sofort 
+entsprechende Maßnahmen zu ergreifen. Der Vorfall zeigt zum wiederholten Male, wie ernst man diese G
+efahr nehmen muss. Auch deswegen hat die Bundesregierung im Entwurf des Krankenhaus-Zukunftsgesetzes
+ vorgesehen, dass mindestens 15 Prozent der beantragten Fördermittel für Maßnahmen zur Verbesserung 
+der Informationssicherheit eingesetzt werden müssen“, erklärt BSI-Präsident Arne Schönbohm.
+
+Die sei
+t Januar 2020 bekannte Schwachstelle in den VPN-Produkten von Citrix stellt je nach lokaler Netzkonf
+iguration ein mögliches Einfallstor in interne Netze dar. Entsprechende Sicherheitsupdates stehen be
+reits seit Januar 2020 zur Verfügung und sollten, falls noch nicht geschehen, dringend eingespielt w
+erden. Von der Ausnutzung betroffen können jedoch auch Systeme sein, die im Januar 2020 gepatcht wur
+den. Diese wurden unter Umständen bereits vor der Installation der Citrix-Sicherheitsupdates komprom
+ittiert und können somit Angreifern auch jetzt noch den Zugriff auf interne Netze und weitergehende 
+Aktivitäten erlauben, wie etwa die Ausleitung oder Verschlüsselung sensibler Daten oder die Manipula
+tion bzw. Stilllegung von Systemen, Geschäftsprozessen und Betriebsabläufen. Anwender der Produkte C
+itrix Gateway (ehemals NetScalerGateway) und Citrix Application Delivery Controller sollten ihre Net
+zinfrastruktur und Systeme auf mögliche Anomalien hin überprüfen und ihre Schutzmaßnahmen zwingend a
+npassen. Sollte der eigene IT-Betrieb nicht über die notwendigen Kompetenzen zur Untersuchung der Sy
+steme auf Kompromittierungen verfügen, so empfiehlt es sich, einen externen IT-Sicherheitsdienstleis
+ter hinzu zu ziehen.
+
+Informationen über Schutzmaßnahmen gegen Cyber-Angriffe im Allgemeinen und Ran
+somware-Attacken im Speziellen stellt das BSI auf seiner Webseite oder im Rahmen der Allianz für Cyb
+er-Sicherheit (www.allianz-fuer-cybersicherheit.de) bereit. Wirksame Maßnahmen im Bereich der Präven
+tion enthält überdies der IT-Grundschutz des BSI, seit fast 30 Jahren der defakto-Standard im Bereic
+h der IT-Sicherheit.
+Pressekontakt:
+Bundesamt für Sicherheit in der Informationstechnik
+
+Postfach 20
+0363
+
+53133 Bonn
+
+Telefon: +49 228 99 9582-5777
+
+Telefax: +49 228 99 9582-5455
+E-Mail: presse@bsi.bu
+nd.de
+
+
+
+4AC5DDE2
+
+Das hilft der Uniklinik Düsseldorf bestimmt dabei, ihr kleines Ransomware Problem
+ zu fixen 
+
+4AC5DDE2
+
+Ich frage mich, Gegen welche ransomware Varianten hätte der Windows eigene app
+locker nicht geholfen? Mal unter der Annahme, dass Client User kein Admin Passwort haben oder Admin 
+Accounts nutzen
+
+4AC5DDE2
+
+Regierungsmitarbeiter in Argentinien weigern sich, mit einer Ransomware-G
+ruppe zu verhandeln. Diese hat dafür gesorgt, dass am 27. August alle Einwanderungskontrollpunkte ku
+rzzeitig geschlossen werden mussten.Einem Bericht vom 6. September auf Bleeping Computer zufolge hab
+en Hacker der Ransomware-Gruppe Netwalker am 27. August die argentinische Einwanderungsbehörde Direc
+ción Nacional de Migraciones gehackt und zunächst eine Zahlung von 2 Millionen US-Dollar für die Wie
+derherstellung ihrer Server gefordert. "Ihre Dateien sind verschlüsselt", wie es in einer Lösegeldfo
+rderung auf einer Tor-Zahlungsseite heißt, die an die Einwanderungsbehörde geschickt wurde. "Die ein
+zige Möglichkeit, Ihre Dateien zu entschlüsseln, ist, das Entschlüsselungsprogramm zu kaufen."Die Gr
+uppe postete eine Auswahl sensibler Daten von der Behörde als Beweis dafür, dass sie hinter dem Hack
+ steckt. Nach einer Woche erhöhten die Hacker das Lösegeld auf 355,8718 Bitcoin (BTC). Das waren dam
+als etwa 4 Mio. US-Dollar. Der argentinische Nachrichtensender Infobae berichtete, dass der Angriff 
+dafür sorgte, dass effektiv alle Grenzübergänge ins Land und aus dem Land heraus für vier Stunden ge
+schlossen werden mussten. Während des Shutdowns haben die Behörden alle Computernetzwerke, die von d
+en Mitarbeitern der Einwanderungsbehörde in den Regionalbüros und an den Kontrollpunkten benutzt wer
+den, offline genommen. Regierungsmitarbeiter sagten, sie würden "nicht mit Hackern verhandeln" und d
+ie Wiederbeschaffung der gestohlenen Daten seien ihnen egal.  Ransomware-Hacker sind zwar nicht durc
+h Grenzen eingeschränkt, aber die Situation in Argentinien ist ein seltenes Beispiel eines Cyberangr
+iffs, der eine nationale Regierungsbehörde betrifft. Im Gespräch mit Cointelegraph sagte Brett Callo
+w, ein Bedrohungsanalytiker und Ransomware-Experte im Emsisoft Malware-Labor, dass solche Angriffe s
+tören und zum Durchsickern extrem sensibler Daten an die Öffentlichkeit führen könnten."Bei Regierun
+gsstellen ist das besonders problematisch, da die Daten oft äußerst sensibel sein können und in eini
+gen Fällen sogar ein Risiko für die nationale Sicherheit darstellen", so Callow.  "Mehr als jeder ze
+hnte Ransomware-Angriff umfasst inzwischen Datendiebstahl. Es gibt immer mehr Gruppen, die routinemä
+ßig Daten stehlen. Folglich ist es sehr wahrscheinlich, dass Vorfälle wie dieser immer häufiger auft
+reten."
+
+
+4AC5DDE2
+
+Ransomware-Hacker nehmen Argentiniens Grenzkontrollpunkte offline https://de.coi
+ntelegraph.com/news/ransomware-hackers-shut-down-argentinas-borders-demand-4m-btc… (via @DECointeleg
+raph)
+
+4AC5DDE2
+
+Patient stirbt, weil eine Klinik nach Ransomware-Attacke nicht erreichbar war. Wie 
+gut sind Sie davor geschützt? Machen Sie mit bei unserem #BackupBattle und testen Sie es. https://zd
+.net/303nNoP via @ZDNet & @campuscodi #atyourservice -> http://Cristie.Software
+
+4AC5DDE2
+
+Immer öft
+er hört man in letzter Zeit von Cyber-Angriffen & Bedrohungen von KMU's. 
+Doch was ist die Ursache d
+ahinter und warum ausgerechnet KMU’s als Zielscheibe dienen, das erfährst Du im Blog-Artikel von @es
+et. 
+#cyber #angriffe #ransomware #security
+
+4AC5DDE2
+
+#Ransomware soll jetzt auch einen Hersteller 
+von Lasern für Industrie, Medizin und Waffensysteme lahmgelegt haben.
+
+#ITSicherheit #infosec #Cyber
+Security
+
+4AC5DDE2
+
+Antivirus-Update: Avast verstärkt Schutz vor Ransomware und RDP-Attacken http://
+dlvr.it/RgwrTh
+
+4AC5DDE2
+
+Erpressung: Hacker-Angriff auf Düsseldorfer Uniklinik – Patientin stirbt h
+ttps://welt.de/vermischtes/article215908784/Hacker-Angriff-auf-Uniklinik-Duesseldorf-Patientin-stirb
+t-nach-Verlegung.html?cid=socialmedia.twitter.shared.web… via @welt #Cybercrime #Malware #Ransomware
+ #Blackhats
+
+4AC5DDE2
+
+Ransomware gett wirklech zum Fléau!
+#Nefilim leaked weider Dussmann Docs,
+sch
+on den 2. gréisseren Employeur hei.
+
+4AC5DDE2
+
+
+    TechCrunch ist Teil von Verizon Media. Wir und u
+nsere Partner nutzen Cookies und ähnliche Technik, um Daten auf Ihrem Gerät zu speichern und/oder da
+rauf zuzugreifen, für folgende Zwecke: um personalisierte Werbung und Inhalte zu zeigen, zur Messung
+ von Anzeigen und Inhalten, um mehr über die Zielgruppe zu erfahren sowie für die Entwicklung von Pr
+odukten.
+
+Personenbezogene Daten, die ggf. verwendet werden
+
+Daten über Ihr Gerät und Ihre Internetv
+erbindung, darunter Ihre IP-Adresse
+Such- und Browsingaktivität bei Ihrer Nutzung der Websites und A
+pps von Verizon Media
+ Genauer Standort
+
+
+    Für nähere Informationen zur Nutzung Ihrer Daten lesen
+ Sie bitte unsere Datenschutzerklärung und Cookie-Richtlinie.
+
+    Damit Verizon Media und unsere Pa
+rtner Ihre personenbezogenen Daten verarbeiten können, wählen Sie bitte 'Ich stimme zu.' aus oder wä
+hlen Sie 'Einstellungen verwalten', um weitere Informationen zu erhalten und eine Auswahl zu treffen
+. Dazu gehört der Widerspruch gegen die Verarbeitung Ihrer Daten durch Partner für deren berechtigte
+ Interessen. Sie können Ihre Einstellungen jederzeit ändern. Dies geschieht in Ihren Datenschutzeins
+tellungen.
+
+
+
+4AC5DDE2
+
+Time to update! 6 kritische Schwachstellen in der Software „CodeMeter“ von W
+ibu-Systems mit höchster Kritikalität entdeckt
+https://netzpalaver.de/2020/09/11/industrielle-netzwe
+rke-durch-schwachstelle-in-lizenzmanagementsoftware-von-wibu-systems-gefaehrdet/…
+#Patchday #update 
+#CodeMeter #Wibu #ITSicherheit #CyberSecurity #DDoS #awareness #Cybercrime #CISA #Ransomware #IIoT #
+Industrie40
+
+4AC5DDE2
+
+Immer öfter hört man in der letzten Zeit von Cyber-Angriffen auf kleine und m
+ittelständische Unternehmen. 
+Doch was ist die Ursache und warum stellen ausgerechnet kleine und mit
+telständische Unternehmen (KMU) das perfekte Ziel für solche Bedrohungen dar? 
+
+Zum einen sind KMU d
+eutlich weniger auf Cyber-Bedrohungen und Attacken vorbereitet als Großunternehmen und stehen genau 
+aus diesem Grund im Fadenkreuz von Ransomware-Gangs. Meist fehlen KMU unter anderem das nötige Perso
+nal und das Budget, um solche Bedrohungen, wie beispielsweise Emotet, frühzeitig erkennen und abwehr
+en zu können. 
+Was Unternehmen oft nicht bedenken: ein Cyber-Angriff und dessen Folgen von Informati
+onsverlust und Wiederherstellung von Daten können bis zu 150.000$ kosten und somit deutlich kostspie
+liger werden, als eine Präventions-Schulung der eigenen Mitarbeiter (auch diese können wir Dir übrig
+ens anbieten). 
+ESET verrät Dir in dem Blog-Artikel „KMUs im Fadenkreuz von Ransomware“, wie Du Dein
+ Unternehmen vor potenziellen Angriffen schützen und somit präventiv handeln kannst. 
+
+
+4AC5DDE2
+
+
+R
+ansomware-Angriff mit Todesfolge an der Uniklinik Düsseldorf. Das Bundesamt für Sicherheit in der In
+formationssicherheit (BSI) findet deutliche Worte und kommentiert:
+Am 10. September 2020 kam es zu e
+inem IT-Sicherheitsvorfall im Universitätsklinikum Düsseldorf (UKD). Gemäß BSI-Gesetz hat das UKD da
+s Bundesamt für Sicherheit in der Informationstechnik (BSI) über diesen Vorfall informiert. Das BSI 
+hat sofort seine Unterstützung angeboten und steht seitdem im kontinuierlichen Kontakt mit dem UKD, 
+auch im Rahmen des Cyber-Abwehrzentrums. Mit einem mobilen Einsatzteam unterstützt das BSI derzeit d
+ie Verantwortlichen des UKD vor Ort aktiv bei der Analyse und Bewältigung des Vorfalls.
+In diesem Zu
+sammenhang weist das BSI mit Nachdruck darauf hin, dass derzeit eine seit Januar 2020 bekannte Schwa
+chstelle (CVE-2019-19781) in VPN-Produkten der Firma Citrix für Cyber-Angriffe ausgenutzt wird.
+Dem 
+BSI werden zunehmend Vorfälle bekannt, bei denen Citrix-Systeme bereits vor der Installation der im 
+Januar 2020 bereitgestellten Sicherheitsupdates kompromittiert wurden. Dadurch haben Angreifer auch 
+nach Schließung der Sicherheitslücke weiterhin Zugriff auf das System und dahinterliegende Netzwerke
+. Diese Möglichkeit wird aktuell vermehrt ausgenutzt, um Angriffe auf betroffene Organisationen durc
+hzuführen.
+„Bereits im Januar haben wir vor der Schwachstelle gewarnt und darauf hingewiesen, welche
+ Folgen eine Ausnutzung haben kann. Angreifer verschaffen sich Zugang zu den internen Netzen und Sys
+temen und können diese auch Monate später noch lahmlegen. Ich kann nur mit Nachdruck appellieren, so
+lche Warnungen nicht zu ignorieren oder aufzuschieben, sondern sofort entsprechende Maßnahmen zu erg
+reifen. Der Vorfall zeigt zum wiederholten Male, wie ernst man diese Gefahr nehmen muss. Auch desweg
+en hat die Bundesregierung im Entwurf des Krankenhaus-Zukunftsgesetzes vorgesehen, dass mindestens 1
+5 Prozent der beantragten Fördermittel für Maßnahmen zur Verbesserung der Informationssicherheit ein
+gesetzt werden müssen“, erklärt BSI-Präsident Arne Schönbohm.
+Die seit Januar 2020 bekannte Schwachs
+telle in den VPN-Produkten von Citrix stellt je nach lokaler Netzkonfiguration ein mögliches Einfall
+stor in interne Netze dar. Entsprechende Sicherheitsupdates stehen bereits seit Januar 2020 zur Verf
+ügung und sollten, falls noch nicht geschehen, dringend eingespielt werden. Von der Ausnutzung betro
+ffen können jedoch auch Systeme sein, die im Januar 2020 gepatcht wurden.
+Diese wurden unter Umständ
+en bereits vor der Installation der Citrix-Sicherheitsupdates kompromittiert und können somit Angrei
+fern auch jetzt noch den Zugriff auf interne Netze und weitergehende Aktivitäten erlauben, wie etwa 
+die Ausleitung oder Verschlüsselung sensibler Daten oder die Manipulation bzw. Stilllegung von Syste
+men, Geschäftsprozessen und Betriebsabläufen. Anwender der Produkte Citrix Gateway (ehemals NetScale
+rGateway) und Citrix Application Delivery Controller sollten ihre Netzinfrastruktur und Systeme auf 
+mögliche Anomalien hin überprüfen und ihre Schutzmaßnahmen zwingend anpassen. Sollte der eigene IT-B
+etrieb nicht über die notwendigen Kompetenzen zur Untersuchung der Systeme auf Kompromittierungen ve
+rfügen, so empfiehlt es sich, einen externen IT-Sicherheitsdienstleister hinzu zu ziehen.
+
+
+
+ANZEIGE
+
+Netzwerksicherheit und Netzwerkmonitoring in der neuen Normalität
+Die Gigamon Visibility Platform i
+st der Katalysator für die schnelle und optimierte Bereitstellung des Datenverkehrs für Sicherheitst
+ools, Netzwerkperformance- und Applikationsperformance-Monitoring. Erfahren Sie in diesem Webinar, w
+ie Sie mit Gigamon-Lösungen die Effizienz ihrer Sicherheitsarchitektur steigern und Kosten einsparen
+ können. 
+
+
+						Jetzt registrieren und Aufzeichnung ansehen.					
+
+
+
+
+
+
+
+4AC5DDE2
+
+heisec: RT @hei
+seonline: Argentinische Einwanderungsbehörde: Ransomware-Gang leakte Passdaten https://heise.de/news
+/Argentinische-Einwanderungsbehoerde-Ransomware-Gang-leakte-Passdaten-4905342.html… #Argentinien #Da
+tenleck
+
+4AC5DDE2
+
+
+
+
+Ihr Abonnement beginnt, sobald Ihr Kauf abgeschlossen wurde (oder andernfalls 
+nach Eingang Ihrer Zahlung). Sie müssen das Produkt auf jedem Gerät herunterladen und installieren b
+zw. den Anmeldeprozess durchführen, um den Schutz zu erhalten.
+
+Mit dem Erwerb dieses Abonnements ka
+ufen Sie ein wiederkehrendes Abonnement, das nach der erstmaligen Laufzeit automatisch verlängert wi
+rd.
+
+Der heute genannte Preis gilt für die erstmalige Laufzeit Ihres Abonnements. Danach wird der fü
+r Ihr Abonnement geltende monatliche oder jährliche Verlängerungspreis abgerechnet, den Sie hier fin
+den. Dieser Preis kann sich ändern. Wir werden Sie jedoch immer im Voraus per E-Mail benachrichtigen
+.
+
+Sie können Ihr Abonnement unter my.norton.com kündigen oder indem Sie sich an den Kundenservice u
+nd -support wenden. Weitere Informationen erhalten Sie in der Rückgaberichtlinie.
+Ihr Norton-Abonnem
+ent enthält möglicherweise Produkt-, Service- und/oder Sicherheits-Updates und -Funktionen, die hinz
+ugefügt, geändert oder entfernt werden können, vorausgesetzt, Sie stimmen der Lizenz- und Servicever
+einbarung zu.
+Die Anzahl der unterstützten Geräte, die im Rahmen Ihres Abonnements zulässig sind, gi
+lt primär für persönliche Nutzung oder Nutzung im Haushalt. Nicht für kommerzielle Nutzung. Wenn Sie
+ Probleme haben, ein Gerät hinzuzufügen, wenden Sie sich bitte an Kundenservice und -support.
+
+
+
+
+2 
+Virenschutzversprechen: Erfordert ein anspruchsberechtigtes Abonnement mit automatischer Verlängerun
+g. In dem eher unwahrscheinlichen Fall, dass ein Norton-Experte nicht in der Lage sein sollte, den V
+irus von Ihrem Gerät zu entfernen, können Sie den Kaufpreis, den Sie für die aktuelle Laufzeit des e
+rstattungsfähigen Abonnements bezahlt haben, rückerstattet bekommen. Wenn Sie ein Kombiangebot nutze
+n (ein erstattungsfähiges Abonnement, das zusammen mit einem anderen Angebot von NortonLifeLock oder
+ einem Drittanbieter erworben wurde), ist die Rückerstattung auf die unverbindliche Preisempfehlung 
+des Abonnements für die aktuelle Laufzeit beschränkt und kann den für dieses Kombiangebot entrichtet
+en Gesamtpreis nicht übersteigen. Die Rückerstattung erfolgt unter Berücksichtigung sämtlicher Ermäß
+igungen und Rückerstattungen sowie abzüglich sämtlicher Versand- und Bearbeitungskosten sowie eventu
+eller Steuern mit Ausnahme in denjenigen Ländern, in denen Versand- und Bearbeitungskosten sowie Ste
+uern erstattungsfähig sind. Das Geld-zurück-Versprechen gilt nicht für Schäden, die als Folge einer 
+Vireninfektion entstanden sind. Weitere Einzelheiten finden Sie unter Norton.com/guarantee.
+
+
+
+3 Nor
+ton Safe Search zeigt keine Sicherheitsbewertung für bezahlte Suchergebnisse (gesponserte Links) an 
+und filtert auch keine potenziell unsicheren gesponserten Links aus Suchergebnissen heraus. Nicht in
+ allen Browsern verfügbar.
+
+
+4 Norton Cloud-Backup-Funktionen sind nur unter Windows verfügbar.
+
+
+5 
+Norton SafeCam-Funktionen sind nur unter Windows verfügbar.
+
+
+7 Basierend auf einer Online-Umfrage u
+nter 10,063 Erwachsenen in 10 Ländern, durchgeführt von The Harris Poll im Auftrag von NortonLifeLoc
+k, Januar 2020.
+
+
+
+8 Die Videoüberwachung überwacht Videos, die sich Ihre Kinder auf YouTube.com ans
+ehen. Der Service überwacht oder verfolgt keine YouTube-Videos, die in anderen Websites oder Blogs e
+ingebettet sind.
+
+
+
+9 Die Positionsüberwachung muss von einem Elternteil aktiviert werden.
+
+
+
+10  Di
+e mobile App muss separat heruntergeladen werden.
+
+
+
+11 iOS wird nicht unterstützt.
+
+
+‡ Norton Famil
+y-Kindersicherungsfunktionen werden nicht auf Mac-Computern unterstützt.
+
+
+‡‡ Erfordert, dass Ihr Ge
+rät über einen Internet-/Datentarif verfügt und eingeschaltet ist.
+
+
+Δ Supportzeiten und Kontaktinfo
+rmationen für Ihre Region erhalten Sie auf unserer Website unter https://www.norton.com/globalsuppor
+t.
+
+
+
+Die Norton-Marke ist Teil von NortonLifeLock Inc. 
+Copyright © 2020 NortonLifeLock Inc. Alle R
+echte vorbehalten. NortonLifeLock, das NortonLifeLock-Logo, das Häkchen-Logo, Norton, LifeLock und d
+as LockMan-Logo sind Marken oder eingetragene Marken von NortonLifeLock Inc. oder seinen verbundenen
+ Unternehmen in den USA und anderen Ländern. Firefox ist eine Marke der Mozilla Foundation. Android,
+ Google Chrome, Google Play und das Google Play-Logo sind Marken von Google, LLC. Mac, iPhone, iPad,
+ Apple und das Apple-Logo sind in den USA und in anderen Ländern eingetragene Marken von Apple, Inc.
+ App Store ist eine Servicemarke von Apple, Inc. Alexa und alle damit verbundenen Logos sind Marken 
+von Amazon.com, Inc. oder seinen verbundenen Unternehmen. Microsoft und das Windows-Logo sind Marken
+ der Microsoft Corporation in den USA und anderen Ländern. Der Android-Roboter wurde aus einem von G
+oogle erstellten und freigegebenen Werk wiedergegeben oder modifiziert und wird gemäß der in der Cre
+ative Commons 3.0 Attribution-Lizenz beschriebenen Bedingungen verwendet. Andere Bezeichnungen könne
+n Marken anderer Rechteinhaber sein.
+
+

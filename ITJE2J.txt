@@ -1,0 +1,261 @@
+Mddr t’es folle ?
+
+4AC5DDE2
+
+Une grande pluie tu me demandes si ça sort tes bête ou quoi
+
+4AC5DDE2
+
+
+Moi qui ai pas cour ni le samedi ni le mercredi aprèm et qui fini tous les jours à 17h max
+
+4AC5DDE2
+
+
+C un tueur 
+
+4AC5DDE2
+
+L’école avant tout 
+
+4AC5DDE2
+
+T’as 26 ans il serait temps quand même
+
+4AC5
+DDE2
+
+Je sais pas vous, mais je sens que l'on va avoir droit à un deuxième confinement ! C'est con, 
+ça pue hiueng ? 
+ET BIEN, BIEN FAIT ! FALLAIT METTRE LES MASQUES ET ARRETEZ DE FAIRE LES CONS !
+
+4AC
+5DDE2
+
+Une faille découverte dans le protocole Bluetooth basse consommation concernerait potentielle
+ment des milliards d'appareils. La nouvelle attaque BLESA, découverte par des chercheurs de l'univer
+sité de Purdue, permet de compromettre la procédure de reconnexion entre deux appareils et d'usurper
+ l'identité de l'une d'elles.Vous aimez nos Actualités ?Inscrivez-vous à la lettre d'information La 
+quotidienne pour recevoir nos toutes dernières Actualités une fois par jour.Des milliards d'appareil
+s seraient vulnérables à une attaque sans fil, selon un nouvel article. Des chercheurs de l'universi
+té de Purdue aux États-Unis ont découvert une faille dans le protocole Bluetooth basse consommation 
+(BLE) qui équipe la quasi-totalité des smartphones, tablettes et objets connectés. Baptisée BLESA, o
+u attaque sur le BLE par usurpation d'identité, elle permet à un appareil de se faire passer pour un
+ autre.De nombreuses failles ont été découvertes par le passé dans le processus d'appairage, mais ic
+i les chercheurs se sont intéressés à la procédure de reconnexion, beaucoup moins étudiée. Ils ont d
+écouvert une faille de sécurité qui permet à un objet déconnecté de rétablir la connexion sans s'aut
+hentifier.Les chercheurs font la démonstration de l’attaque BLESA. © Purdue University Computer Scie
+nceUne faille impossible à corriger dans certains objets connectésLes appareils BLE envoient réguliè
+rement des paquets pour annoncer leur présence. Les chercheurs ont enregistré des paquets transmis p
+ar une bague connectée à un smartphone, obtenant par la même occasion l'adresse MAC qu'ils ont dupli
+quée sur l'ordinateur utilisé pour l’attaque. Une fois la bague déconnectée, ils ont transmis les mê
+mes paquets en utilisant la même adresse MAC et ont pu faire passer l'ordinateur pour la bague, et e
+nsuite envoyer de fausses données au smartphone.Les chercheurs ont pointé du doigt le cahier des cha
+rges du BLE concernant le processus de reconnexion. La description ne serait pas assez précise, et d
+onc n'aurait pas été correctement implémentée. La faille a été découverte dans Linux, iOS et Android
+, mais pas dans Windows. Apple a déjà publié une mise à jour, mais le problème serait toujours prése
+nt dans Android 10. D'autres appareils, notamment les objets connectés qui n'ont aucune procédure de
+ mise à jour, pourraient ne jamais recevoir de correctif. La gravité reste toutefois à relativiser, 
+étant donné la portée du Bluetooth.Cela vous intéressera aussiIntéressé par ce que vous venez de lir
+e ?
+                    Abonnez-vous à la lettre d'information La quotidienne : nos dernières actual
+ités du jour. Toutes nos lettres d’informationVotre e-mailS'abonner!Merci pour votre inscription.Heu
+reux de vous compter parmi nos lecteurs !Lien externeBLESA: Spoofing Attacks against Reconnections i
+n Bluetooth Low Energy
+
+4AC5DDE2
+
+(La seule personne que j'aime c'est bien)
+
+4AC5DDE2
+
+Bon anniv lon
+gue vie à toi !
+
+4AC5DDE2
+
+Pas à nous 
+
+4AC5DDE2
+
+Je me suis fait piraté donc si jamais vous avez eu
+ un dm n’ouvrez PAS !!!!
+I got hacked if you got a DM from me DONT open it !!!
+
+4AC5DDE2
+
+Amin quand
+ on aime on compte pas
+
+4AC5DDE2
+
+Non c’est pour ton bien
+
+4AC5DDE2
+
+Tugga u just built different,hu
+h
+
+4AC5DDE2
+
+Frero c’est normal la daronne c’est important
+
+4AC5DDE2
+
+Are you sure you didn't get ha
+cked??
+
+4AC5DDE2
+
+quand vous signalez, signalez sous hacked ça marche mieux
+
+4AC5DDE2
+
+Ptdddddr enfi
+n qqun qui filme bien une bagarre  10/10
+
+4AC5DDE2
+
+Peut-être
+
+4AC5DDE2
+
+C’est une première, et une 
+première tragique. Jamais une personne n’avait succombé des suites d’une cyberattaque. Mais la semai
+ne dernière, une patiente d’un hôpital de Düsseldorf est décédée, faute d’avoir pu être soignée dans
+ l’établissement, victime d’une attaque informatique. Cet événement tragique illustre tant l’importa
+nce de ces agressions que la vulnérabilité des hôpitaux.Les conséquences tragiques de la cyberattaqu
+e ont été communiquées jeudi par les autorités allemandes. Depuis le 9 septembre, l’hôpital universi
+taire de Düsseldorf était en partie paralysé par une attaque par ransomware. Aussi appelé rançongici
+el, c’est un programme malveillant qui utilise des vulnérabilités de certains logiciels pour permett
+re à l’assaillant de prendre le contrôle, à distance, de systèmes informatiques. Ceux-ci sont totale
+ment paralysés et inutilisables. Le pirate exige alors souvent une rançon de plusieurs dizaines, voi
+re centaines de milliers de francs pour rendre l’accès aux ordinateurs. Dans ce cas précis, il n’y a
+ pas eu de demande de rançon chiffrée.Trajet de 32 kilomètresAu total, une trentaine de serveurs inf
+ormatiques de l’hôpital ont été paralysés, entravant sensiblement les activités de l’établissement. 
+Vendredi de la semaine passée, une femme s’est présentée aux urgences pour un problème vital – celui
+-ci n’a pas été précisé par les autorités. Incapable de la prendre en charge, l’hôpital l’a envoyée,
+ dans une ambulance, dans un autre établissement, à Wuppertal, distant d’environ 32 kilomètres. Faut
+e d’avoir pu être prise en charge à temps, la femme y est décédée.Lire aussi: Un hôpital suisse vict
+ime d’une cyberattaqueLes autorités judiciaires de Rhénanie-du-Nord-Westphalie ont lancé une enquête
+ pour homicide involontaire. Découvrir l’identité des auteurs de l’attaque s’annonce extrêmement com
+pliqué – dans l’immense majorité des cas, les coupables de paralysie de système par ransomware ne so
+nt pas découverts. Il semble que dans le cas l’attaque de Düsseldorf, les assaillants se soient trom
+pés de cible. Une note laissée sur un serveur de l’hôpital par les pirates demandait aux informatici
+ens de l’Université Heinrich Heine de prendre contact avec eux. Or l’hôpital est certes affilié à l’
+université, mais n’en fait pas partie. Dès que la police a exigé des pirates qu’ils lui livrent la c
+lé pour débloquer les ordinateurs, les attaquants se sont exécutés. Mais trop tard.Systèmes pas réta
+blisVendredi, l’hôpital de Düsseldorf publiait un communiqué pour assurer que ses ingénieurs avaient
+ scrupuleusement suivi les recommandations officielles fédérales et mis à jour, ces derniers mois, l
+eurs systèmes informatiques. L’enquête devra le déterminer. Et côté opérationnel, le chaos provoqué 
+par l’attaque n’est pas encore terminé. «L’hôpital et les entreprises spécialisées concernées ont pu
+ faire de nouveaux progrès dans la restauration du système informatique. Nous espérons pouvoir repre
+ndre les soins d’urgence dans le courant de la semaine prochaine», estimait vendredi Frank Schneider
+, directeur médical de l'hôpital.Ce drame illustre la fragilité des hôpitaux face aux ransomwares. C
+es dernières semaines, des établissements en Thaïlande et aux Etats-Unis ont été la cible de telles 
+attaques. Cela a aussi été le cas en Suisse en 2019: l’hôpital de Wetzikon, dans le canton de Zurich
+, avait dû débrancher du système central plusieurs dispositifs médicaux à la suite d’une attaque par
+ rançongiciel, sans que les soins aient été affectés.Lire aussi: De plus en plus de villes sont pris
+es en otage par des cyberpiratesLa diversité des machines et ordinateurs dans les hôpitaux en fait d
+es cibles faciles, d’autant que certains appareils sont souvent anciens et que leurs systèmes d’expl
+oitation ne sont parfois pas mis à jour. La tragédie survenue en Allemagne devrait inciter les établ
+issements hospitaliers à redoubler de vigilance.
+
+4AC5DDE2
+
+Tu peux les garder bg
+
+4AC5DDE2
+
+Mddrr ç
+a s’apprend pas
+
+4AC5DDE2
+
+Pareil mais moi c presque tout les jours je commence a 9 ou 10 mais 18h a
+ chaque fois
+
+4AC5DDE2
+
+Ma batterie elle se vide a une vitesse incroyable
+
+4AC5DDE2
+
+Celle de nos fu
+turs enfants ?
+
+4AC5DDE2
+
+Cyberattaque : des milliards d’appareils Bluetooth sont menacés https://fu
+tura-sciences.com/tech/actualites/cybersecurite-cyberattaque-milliards-appareils-bluetooth-sont-mena
+ces-83014/… #sécurité #cyberattack @futurasciences
+
+4AC5DDE2
+
+Devine Jsuis dans laquelle 
+
+4AC5DDE2
+
+
+Tout dooooux le loup
+
+4AC5DDE2
+
+Cette vidéo elle me tue a chaque fois 
+
+4AC5DDE2
+
+Ils ajouteront ma
+lien à la liste
+
+4AC5DDE2
+
+Derien frero c’est normal passe le bonjour à la famille
+
+4AC5DDE2
+
+La pir
+e ligne de métro de Paris après la 13 c’est la 4
+
+4AC5DDE2
+
+Tu postes je signales.
+
+4AC5DDE2
+
+C'est 
+un "hacked items". Il y en a des personnes qu'ils l'ont mais c'est rare. Après cela peut aussi bug t
+on jeu donc faut faire attention. Tu peux les avoir pendant tes visites sur des "Treasure Island". J
+'espère que ma réponse est claire 
+
+4AC5DDE2
+
+Cesr a toi de voir
+
+4AC5DDE2
+
+ même pas
+
+4AC5DDE2
+
+J’a
+rrive pas à arriver a l’heure
+
+4AC5DDE2
+
+Oh ptn Jlai oublié elle
+
+4AC5DDE2
+
+Jsuis a Créteil c tellem
+ent nul comme ville
+
+4AC5DDE2
+
+C’est normal ça arrive à tout le monde 
+
+4AC5DDE2
+
+Y’a un mec de mon 
+collège je l’ai croisé dans l’metro je sais plus comment il s’appelle j’ai dis bien ou quoi bg tu da
+te 

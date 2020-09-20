@@ -1,0 +1,43 @@
+
+Atak szkodliwym orpgramowaniem na szpital w Dusseldorfie mógł być przyczyną śmierci kobiety, którą 
+odesłano bez udzielenia pomocy do oddalonej o 30 km placówki w Wuppertal. Pacjentka zmarła w trakcie
+ transportu. Przyczyną nieudzielenia pomocy był niemal całkowity paraliż systemu informatycznego do 
+jakiego doszło w Szpitalu Uniwersyteckim w Dusseldorfie po ataku orpogramowaniem typu ransomware.
+Ra
+nsomware (znane również inne odmiany tego oprogramowania to rogueware lub scareware) to oprogramowan
+ie ograniczające dostęp do systemu komputerowego i wymagające zapłacenia okupu, aby blokada została 
+usunięta.
+O całym zdarzeniu poinformował sam szpital na Twitterze. Sprawa jest obecnie badana przez 
+Bundesamt für Sicherheit in der Informationstechnik. Jest to niemiecki urząd d.s. cyberprzestępczośc
+i. Przyczyna śmierci kobiety jest obecnie badana przez śledczych. Jeśli ich ustalenia wskażą, że ata
+k bezpośrednio wpłynął na jej zgon sprawa zakwalifikowana zostanie jako morderstwo.
+Szpital w Dussel
+dorfie najprawdopodobniej nie był głównym celem ataku przestępców. Takim miała być uczelnia Heinrich
+ Heine University Düsseldorf, która jednak połączona jest siecią z placówką zdrowia. Zainfekowanie b
+yło skutkiem luki w popularnym, komercyjnym oprogramowaniu. Zaraz po tym jak do sprawy weszła policj
+a szpital otrzymał od przestępców klucze deszyfrujące. Do ataku doszło 10 września.
+Ataki typu ranso
+mware są obecnie jednym z największych zagrożeń w sieci, tak dla użytkowników prywatnych, jak i bizn
+esu oraz instytucji publicznych. Jednym z ostatnich wielkich i spektakularnych ataków ransomware był
+ ten na Garmina. Amerykańska firma, aby odzyskać swoje dane, jak mówią doniesienia, zapłaciła nawet 
+10 milionów dolarów okupu. Blisko pół miliona dolarów miał z kolei zapłacić Uniwersytet Utah po atak
+u tego typu złośliwym oprogramowaniem do którego miało dojść 19 lipca. Po ataku uczelnia straciła ko
+ntrolę nad swoją infrastrukturą informatyczną.
+Już w 2017 roku pisaliśmy o badaniach Google oraz NYU
+ Tandon School of Engineering, które dowodziły, że ofiary oprogramowania znanego jako ransomware w c
+iągu dwóch lat zapłaciły przestępcom ponad 25 milionów dolarów za odzyskanie kontroli nad swoimi kom
+puterami. Badacze śledzili płatności kryptowalutami, które wykorzystywane są do opłacenia haraczu po
+ zarażeniu komputera oprogramowaniem typu ransomware, po czym zgromadzone dane porównywali z informa
+cjami, które uzyskali dogłębnie studiując 34 odmienne rodziny tego złośliwego oprogramowania. W ten 
+sposób odkryli także, że olbrzymi wpływ na ostatnią epidemię tego rodzaju ataków miał wykryty na poc
+zątku 2016 roku ransomware o nazwie Locky. Po jego wykryciu zanotowano olbrzymi wzrost płatności. 
+C
+yberprzestępcy nie oszczędzają żadnych celów. W 2016 roku szpital Hollywood Presbyterian Medical Cen
+ter z Los Angeles zapłacił po tego typu ataku 17 tysięcy dolarów okupu. Pierowtne żądanie hakerów op
+iewało jednak na 3,4 miliona dolarów. 
+
+4AC5DDE2
+
+Geekweb - Atak ransomware mógł przyczynić się do ś
+mierci kobiety w Niemczech 
+#geekweb #Ransomware

@@ -1,0 +1,2134 @@
+Interesante artículo de Alberto Nguema de @Colt_Technology publicado en el Centro de Conocimiento de
+ Aslan: "La pandemia, oportunidad perfecta para los ciberdelincuentes", thttp://ow.ly/jAtB50Buu4D #C
+ybersecurity #DigitalWorkSpace #Ransomware #UneteASLAN #colt
+
+4AC5DDE2
+
+Un paciente muere luego de u
+n ataque de #ransomware https://wired.com/story/a-patient-dies-after-a-ransomware-attack-hits-a-hosp
+ital/?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=wired&utm_social-type
+=earned… vía @wired
+
+4AC5DDE2
+
+Este nuevo ransomware encripta tu PC usando máquinas virtuales
+
+4AC5D
+DE2
+
+Un ciberataque a un hospital alemán causa la primera muerte en el mundo por ransomware https://
+saludnews.net/un-ciberataque-a-un-hospital-aleman-causa-la-primera-muerte-en-el-mundo-por-ransomware
+/… a través de @saludnewsrd
+
+4AC5DDE2
+
+
+Traducción de las
+noticias alemanas
+gracias a @cibernicola, 
+el cual es un seguidor y colaborador de
+Security News.
+
+  Esto fue confirmado por la Ministra de Cie
+ncia Isabel Pfeiffer-Poensgen
+  (independiente) en el parlamento estatal el jueves. En uno de los se
+rvidores
+  afectados se encontró una carta de chantaje dirigida a la Universidad de
+  Heinrich Heine
+. 
+
+
+  La investigación de la muerte por la oficina del fiscal de Wuppertal
+
+
+  El propio hospital u
+niversitario también ha confirmado en un comunicado de
+  prensa que las investigaciones han revelado
+ un ataque de hackers como la causa
+  del fallo informático. Sin embargo, según el hospital universi
+tario, no hubo
+  ninguna demanda concreta de rescate.Según el Ministerio de Justicia de
+  Renania de
+l Norte-Westfalia, la fiscalía de Wuppertal está llevando a cabo una
+  investigación sobre la muerte
+. Un paciente con peligro de muerte que iba a ser
+  llevado a la clínica universitaria la noche del 
+11 al 12 de septiembre. "Sin
+  embargo, esto no fue posible porque la clínica quedó paralizada debid
+o a un
+  ataque de delincuentes", dice el fiscal superior de Wuppertal, Wolf-Tilman Baumert.
+  Por l
+o tanto, la ambulancia fue desviada a un hospital de Wuppertal. "Lo que
+  llevó media hora más que e
+l transporte a Düsseldorf. Desafortunadamente, el
+  paciente murió inmediatamente después de ser adm
+itido en el hospital de
+  Wuppertal", dijo Baumert. Si se pudiera probar la complicidad de los hacke
+rs y
+  fueran capturados, también se levantaría la acusación de asesinato. 
+
+
+  ¿El hospital univers
+itario como un blanco al azar?
+
+
+  Pfeiffer-Poensgen dijo al parlamento estatal que la policía se ha
+bía puesto en
+  contacto con los chantajistas en respuesta a la carta de chantaje y explicó
+  que lo
+s servidores en cuestión eran sistemas de un hospital de emergencia. Los
+  chantajistas emitieron en
+tonces la clave para desencriptar los servidores.
+  Esto apoyó la tesis de que los chantajistas quer
+ían golpear la universidad con
+  su acción, pero no el hospital, dijo el Ministro. 
+Como ha informad
+o el hospital universitario, el agujero de seguridad se
+  encontró en un software adicional "ampliam
+ente utilizado" y "disponible
+  comercialmente". Hasta que los expertos del hospital universitario p
+udieron
+  cerrar esta brecha, había habido una ventana de tiempo en la que los autores
+  podían habe
+r penetrado en el sistema. Esto también significó que muchas
+  empresas en todo el mundo se vieron a
+menazadas por la misma brecha de
+  seguridad. 
+
+
+  La Oficina Federal de Seguridad emite una adverte
+ncia
+
+
+  La Oficina Federal de Seguridad de la Información de Alemania ha sido
+  consciente de la vu
+lnerabilidad de los programas informáticos disponibles en
+  el mercado desde enero de 2020. El BSI a
+dvierte de los ataques cibernéticos y,
+  según sus propias declaraciones, está en estrecho contacto 
+con el Hospital
+  Universitario de Düsseldorf. No se han perdido datos Hasta ahora no hay pruebas de
+ que los
+  datos hayan sido destruidos irremediablemente. Tampoco había pruebas, según la
+  situació
+n actual, de que se hubieran recuperado datos específicos. 
+Desde hace una semana, los sistemas info
+rmáticos del hospital
+  universitario funcionan mal o sólo de forma limitada. Desde entonces, no se
+
+  pueden admitir nuevos pacientes, los datos deben ser intercambiados con lápiz
+  y papel o a través
+ de memorias USB. Según Pfeiffer-Poensgen, probablemente
+  pasarán varias semanas antes de que los d
+atos encriptados puedan ser
+  restaurados. Más dinero para la seguridad informática en los hospitale
+s en el futuro
+  El gobierno estatal CDU/FDP quiere proporcionar más dinero para la
+  seguridad de l
+os sistemas informáticos en el futuro. Sin embargo, el
+  procedimiento de solicitud aún no ha comenz
+ado. Desde 2018, el gobierno
+  estatal ha puesto a disposición dos millones de euros para la segurid
+ad
+  informática de cada hospital universitario, dijo el ministro. "Eso es muy
+  poco, trabajaremos 
+en ello". La razón de la hora actual en el parlamento
+  estatal fue una moción de la facción de la A
+fD. 
+Corrección: en una primera versión del texto se hablaba de
+  investigaciones sobre homicidio in
+voluntario. El Ministerio de Justicia de
+  Renania del Norte-Westfalia lo negó. Todavía era una inve
+stigación de muerte.
+  Hemos corregido esto en la versión actual. 
+
+
+  Ciberataque al Hospital Unive
+rsitario de Düsseldorf: BSI advirtió de la
+  vulnerabilidad
+
+
+  En enero, la Oficina Federal de Segu
+ridad de la Información advirtió de las
+  debilidades. El ataque al hospital universitario de Düssel
+dorf no fue el
+  primero en un hospital de Renania del Norte-Westfalia. 
+El ataque de los hackers al
+ hospital universitario de Düsseldorf podría
+  haberse evitado. Como declaró la Oficina Federal de S
+eguridad de la
+  Información (BSI), ya había advertido de las debilidades de los sistemas
+  Citrix e
+n enero. Por lo tanto, la autoridad pide que se instalen
+  urgentemente las actualizaciones disponib
+les desde enero para cerrar la brecha
+  de seguridad. Las empresas y las autoridades no deberían pos
+poner esto. 
+El último ataque muestra lo peligrosos que pueden ser los agujeros de
+  seguridad. La B
+SI es consciente de la existencia de otras redes
+  inadecuadamente aseguradas en las instalaciones, 
+incluso en aquellas con
+  infraestructura crítica. 
+
+
+  Las infraestructuras críticas necesitan una 
+alta seguridad informática
+
+
+  Después del ataque de los hackers, surge la pregunta fundamental: ¿Qu
+é tan
+  seguros son los hospitales? ¿Y yo como paciente tengo que preocuparme por mis
+  datos? Porqu
+e: Düsseldorf no fue el primer caso. 
+Ya en 2016, los hackers paralizaron el sistema informático del
+ Hospital
+  Lukas en Neuss durante semanas. Este fue un intento de chantaje que el
+  hospital no ace
+ptó, también para demostrar que es capaz de mantener sus
+  propias operaciones de atención de la sal
+ud. 
+
+
+  Demasiado poco personal informático cualificado en los hospitales
+
+
+  Los hospitales se cla
+sifican como Infraestructuras Críticas (KRITIS). Se trata
+  de instituciones u organizaciones de gra
+n importancia para el estado y la
+  población. Por eso los hospitales también necesitan estructuras 
+especiales de
+  seguridad informática, dice el experto en ciberseguridad Norbert Pohlmann,
+  profeso
+r de la Westfälische Hochschule. Le dijo a la WDR: "En teoría, un
+  ataque de hackers a la IT del ho
+spital siempre puede ocurrir. Pero los
+  hospitales deben asegurarse de que su software no pueda ser
+ atacado desde el
+  exterior". 
+Otros sectores que también pertenecen a la KRITIS - como los proveed
+ores
+  de energía - están mucho mejor posicionados en este sentido, dijo Pohlmann. El
+  profesor uni
+versitario se queja de que aunque los hospitales prestan atención
+  a un buen personal en el sector 
+médico y de enfermería, los departamentos de
+  informática de los hospitales no tienen suficiente pe
+rsonal cualificado. En
+  otras palabras, muchos hospitales se han quedado dormidos en la digitalizac
+ión
+  y deben actuar ahora como muy tarde. Los hospitales podrían cooperar en el área de la informát
+ica Una
+  solución podría ser que las clínicas compren software estándar pero que luego
+  lo sellen 
+desde el exterior de tal manera que los atacantes no puedan acceder
+  a él. Los hospitales también p
+odrían unir sus fuerzas y desarrollar un
+  software mucho más seguro que el estándar. El software es
+pecial también es
+  considerablemente más caro, dijo Pohlmann. Hasta un 20 por ciento más tendría
+  
+que ser pagado por ello. El gobierno del estado de NRW reaccionó
+  al último ataque de hackers y qui
+ere proporcionar más dinero para la seguridad
+  de los sistemas informáticos en el futuro - probable
+mente 900 millones de
+  euros, 630 millones de los cuales provendrán de fondos federales.
+
+
+  Traduc
+ción de las
+  noticias alemanas
+  gracias a @cibernicola, el cual es un seguidor y colaborador de
+  
+Security News.
+
+Fuente: Security News
+
+
+Enviar esto por correo electrónicoBlogThis!Compartir en Twit
+terCompartir en Facebook
+
+
+
+
+
+
+4AC5DDE2
+
+Primera muerte en el mundo por un ataque de ransomware a un
+ hospital
+
+4AC5DDE2
+
+Ransomware: obligó a cerrar la guardia de un hospital alemán y una mujer murió
+
+
+4AC5DDE2
+
+#PorSiNoLoViste Ataque de #ransomware en hospital alemán conduce a la muerte de un pacien
+te, investigación en curso https://bit.ly/33LWXlP via @BleepinComputer #infosec #cybersecurity
+
+4AC5
+DDE2
+
+Primera muerte en el mundo por un ataque de ransomware a un hospital https://ift.tt/3iIYGyN
+
+4
+AC5DDE2
+
+Nuestros ingenieros especializados te apoyan a  identificar e integrar los controles  de se
+guridad  para proteger los equipos de cómputo de tu empresa
+https://antar.com.mx/Bitdefender-Mexico/
+…
+infodc@antar.com.mx
+#Antimalware #BitdefenderInternetSecurity #SeguridadEnLaNube #Antivirus #Ranso
+mware
+
+4AC5DDE2
+
+Los ciberdelincuentes siempre andan buscando nuevas fórmulas, incluso observan las 
+de sus compañeros para realizar los ataques a sus víctimas. En esta ocasión, ha sido lo segundo y se
+ han inspirado en la banda Ragnar Locker. Así con su ransomware Maze, al igual que los anteriores, h
+an utilizado una máquina virtual para cifrar por completo los ordenadores y pedir el típico rescate 
+de los ransomware.
+   El antecedente del ransomware Ragnar Locker
+En mayo de este año, Shophos alert
+ó sobre la presencia del ransomware Ragnar Locker que cifraba a través de de máquinas virtuales Virt
+ualBox Windows XP para eludir el software de seguridad en el host final. Esa máquina virtual monta l
+as unidades de un host como recursos compartidos remotos, después, ejecuta el ransomware en una máqu
+ina virtual para cifrar los archivos del recurso compartido. Debido a que la máquina virtual no está
+ ejecutando ningún software de seguridad y está montando las unidades del host, el software de segur
+idad del host no puede detectar el malware y bloquearlo. Este ataque se inicia creando primero una c
+arpeta de herramientas que incluye VirtualBox, un mini disco virtual de Windows XP llamado micro.vdi
+ y varios ejecutables y scripts para preparar el sistema. Luego también, cuenta con el archivo vrun.
+bat, que montará cada unidad compartida, la cifrará y luego pasará a la siguiente unidad compartida 
+con la máquina virtual.
+
+Como ya hemos explicado antes, el software de seguridad que se ejecuta en e
+l host de la víctima no detecta el ejecutable del ransomware en la máquina virtual, y seguirá ejecut
+ándose y cifrando los archivos. En el momento que finalice, la víctima encontrará una nota de rescat
+e personalizada que explica que su empresa ha sido atacada y sus archivos encriptados por completo.
+
+El ransomware Maze y su uso de las máquinas virtuales
+Todo comienza cuando Shopos, atendiendo la inc
+idencia de un cliente, descubrió que el ransomware Maze había intentado implementar su ransomware do
+s veces. Sin embargo, gracias a la función Intercept X de Sophos fue bloqueada. La máquina virtual u
+tilizada por Maze estaba ejecutando Windows 7, mientras que la del Ragnar Locker como mencionamos an
+tes, era de Windows XP. La investigación también reveló los siguientes datos:
+
+Encontraron varios sc
+ripts de instalación gracias los cuales se pudo descubrir su forma de actuación.
+Se descubrió que lo
+s atacantes habían pasado días creando listas de direcciones IP dentro de la red del objetivo. Para 
+ello, utilizaron uno de los servidores de controlador de dominio del objetivo, y exfiltraron datos d
+e Mega.nz.
+
+
+Los ataques con el ransomware Maze empezaron mediante el uso de archivos por lotes e hi
+cieron varios intentos por cifrar las máquinas en la red. A continuación, como no consiguieron su ob
+jetivo, crearon tareas programadas para ejecutar el ransomware basados en:
+
+Windows Update Security.
+
+Windows Update Security Patches.
+Actualización de seguridad de Google Chrome.
+
+Sin embargo, gracias
+ a que se activaron las protecciones de comportamiento Cryptoguard de Intercept X, esas cargas del r
+ansomware Maze se capturaron y se pusieron en cuarentena en máquinas protegidas antes de que pudiera
+n causar daños. Los atacantes, como había fracasado en sus dos primeros intentos, entonces optaron p
+or un enfoque más radical.
+En el tercer ataque, Maze implementó un archivo MSI que instaló el softwa
+re VirtualBox VM en el servidor junto con una máquina virtual personalizada de Windows 7. En el disc
+o raíz de ese disco virtual tenemos tres archivos asociados con el ransomware Maze:
+
+preload.bat
+vru
+n.exe
+payload (sin extensión de archivo), que es la carga útil real de Maze DLL.
+
+Luego con la máqui
+na virtual ya iniciada, el ransomware Maze, se ejecutaría un archivo por lotes llamado startup_vrun.
+bat que prepara la máquina con los ejecutables de Maze.
+
+A continuación, la máquina se apaga y, una 
+vez que se reinicia de nuevo, ejecutará vrun.exe para cifrar los archivos del host. Debido a que el 
+cifrado se realiza en las unidades montadas del host, el software de seguridad no pudo detectar el c
+omportamiento y detenerlo.
+Comparativa de ransomware Maze respecto a Ragnar Locker
+Los investigadore
+s de SophosLabs señalan que el ransomware Maze es más costoso de implementar en términos de tamaño d
+e disco en comparación con el de Ragnar Locker. Aquí tenemos una tabla en el que se puede apreciar e
+sto:
+
+Ragnar Locker se implementó dentro de una máquina virtual Oracle VirtualBox Windows XP. La car
+ga útil del ataque fue un instalador de 122 MB con una imagen virtual de 282 MB. En cambio, los atac
+antes del ransomware Maze adoptaron un enfoque diferente utilizando una máquina virtual con Windows 
+7. Esto provocó que aumentase significativamente el tamaño del disco virtual, pero también le agregó
+ algunas funciones nuevas. En este caso pasamos a un instalador de 733 MB y a un disco duro virtual 
+de 1.90 GB. Para finalizar, como habréis podido apreciar, los creadores del ransomware Maze han util
+izado técnicas similares a las de otros ciberdelincuentes como los de Ragnar Locker.
+  
+
+4AC5DDE2
+
+R
+ansomware, qué es, cómo actuar y buenas prácticas para prevenirlo https://geekland.eu/ransomware-que
+-es-como-prevenirlo/… Recordando viejos articulos publicados
+
+4AC5DDE2
+
+Un ataque ransomware a un ho
+spital en Alemania pudo ser el causante de la muerte de una paciente
+
+4AC5DDE2
+
+Una mujer muere por 
+un ataque de ransomware equivocado contra un hospital https://htcmania.com/showthread.php?t=1568211&
+goto=newpost&utm_source=dlvr.it&utm_medium=twitter…
+
+4AC5DDE2
+
+º-º https://SOCIEDAD.vip
+Ransomware M
+aze encripta tu PC usando máquinas virtuales y elude la detección
+
+https://sociedad.vip/c2c/sharedbl
+ogs/view/915…
+
+4AC5DDE2
+
+¿Por qué todo el mundo asume que estaba descargando porno cuando descargué 
+el ransomware?
+
+#BastaDeBowling
+
+4AC5DDE2
+
+Reino Unido advierte sobre el aumento de las amenazas de 
+ransomware contra el sector educativo
+
+4AC5DDE2
+
+Los cyber delincuentes son la mayor plaga del plane
+ta. #ransomware
+
+4AC5DDE2
+
+New post: "Un ataque ransomware a un hospital en Alemania pudo ser el cau
+sante de la muerte de una paciente"
+
+4AC5DDE2
+
+Paciente muere después de que un ataque de un ransomw
+are paralizó un hospital aleman.
+
+#Ciberseguridad #seguridad
+
+4AC5DDE2
+
+Este nuevo ransomware encrip
+ta tu PC usando máquinas virtuales https://redeszone.net/noticias/seguridad/maze-ransomware-encripta
+-maquinas-virtuales-evadir-seguridad/… vía @redeszone #ciberseguridad
+
+4AC5DDE2
+
+Proveedor de electr
+icidad más grande de Pakistán sufrió ataque ransomware
+
+4AC5DDE2
+
+Mano cuidense en internet, crakeen
+ un buen antivirus, cuidado con lo que descargan.
+
+NO ENTREN A THE PIRATE BAY.
+
+El Ransomware es rea
+l y es una semerenda ladilla.
+
+4AC5DDE2
+
+Un hecho sin presentes se presentÃ³ en la ciudad alemana de
+ Dusseldolf, Alemania, luego de que un ataque cibernÃ©tico propiciara el colapso del servicio de eme
+rgencias del hospital local, y con dicha falta de servicio, se derivara en la muerte de una mujer, q
+uien falleciÃ³ cuando era llevada de urgencias a otro hospital de la ciudad.
+La razÃ³n del colapso d
+el servicio de emergencia no tiene precedentes, en tanto estÃ¡ relacionado con un ataque cibernÃ©tic
+o, que incluso no estaba orientado a vulnerar los servidores del centro mÃ©dico, sino de una univers
+idad local, afectando directamente los equipos del hospital, y obligando a remitir los pacientes a o
+tros centros de la zona.
+Lea tambiÃ©n: Dimayor aplaza el partido de Nacional-Tolima por contagios de
+ Covid-19
+El ataque mermÃ³, al 50%, aproximadamente, la capacidad de atenciÃ³n de pacientes en el ho
+spital, frenando tambiÃ©n la capacidad quirÃºrgica del centro prestador de servicios de salud.
+Ante 
+la imposibilidad de ser admitida en este hospital, debido al impacto en los centros de control ciber
+nÃ©tico, la mujer debiÃ³ ser trasladada a otro hospital; el de Wuppertal, con el fin de recibir la a
+yuda mÃ©dica requerida, pero muriÃ³ en el camino debido a que este otro centro de atenciÃ³n quedaba 
+a 20 millas de distancia.
+De acuerdo con medios internacionales, esta serÃ­a la primera muerte regis
+trada en el mundo derivada de una acciÃ³n de ciberataque.
+Luego de la muerte de la mujer, la policÃ­
+a pudo comunicarse con los ciber delincuentes, quienes, tras ser informados del suceso, ofrecieron l
+as claves para superar la situaciÃ³n. Sin embargo, los responsables podrÃ­an ser juzgados bajo la mo
+dalidad de homicidio.
+SegÃºn pudieron establecer las autoridades, el ciberataque tenÃ­a como objetiv
+o una universidad cercana, pero en la operaciÃ³n tambiÃ©n se vulnerÃ³ el hospital.
+Le puede interesa
+r: De la fiesta a la tragedia: boda dejÃ³ 7 muertos y 177 positivos para covid en Estados UnidosExpe
+rtos en ciberseguridad seÃ±alaron que los hospitales son algunas de las instituciones que podrÃ­an c
+onsiderarse mÃ¡s vulnerables frente a los ataques cibernÃ©ticos, pues no estÃ¡n preparados para ello
+, ademÃ¡s, cuentan con dispositivos mÃ©dicos que funcionan bajo sistemas de âel internet de las co
+sasâ.
+Estos ataques, en esos casos podrÃ­an afectar no solo los equipos, sino tambiÃ©n los resulta
+dos mÃ©dicos de los exÃ¡menes que con ellos se toman.
+
+NoticiasRCN.com
+
+
+4AC5DDE2
+
+
+Mientras realiza
+ban una investigación sobre un ataque en julio en el que los atacantes intentaron, repetidamente inf
+ectar computadoras con Maze ransomware, los analistas de Managed Threat Response (MTR) de Sophos des
+cubrieron que los atacantes habían adoptado una técnica iniciada anteriormente por los ciberdelincue
+ntes detrás de Ragnar Locker, en el que la carga útil del ransomware se distribuyó dentro de una máq
+uina virtual (VM).
+En el incidente de Maze, los ciberdelincuentes distribuyeron la carga útil de cif
+rado de archivos del ransomware en el disco duro virtual de la máquina virtual (un archivo de imagen
+ de disco virtual VirtualBox (.vdi)), que se entregó dentro de un archivo de instalación .msi de Win
+dows de más de 700 MB en tamaño. Los atacantes también incluyeron una copia de hace 11 años simplifi
+cada del hipervisor VirtualBox dentro del archivo .msi, que ejecuta la VM como un dispositivo “headl
+ess”, sin una interfaz de cara al usuario.
+
+La máquina virtual entregada por Maze ejecutaba Windows 
+7, a diferencia de la VM con Windows XP distribuida en el incidente de Ragnar Locker. Una búsqueda d
+e amenazas a través de datos de telemetría indicó inicialmente que los atacantes pueden haber estado
+ presentes en la red del objetivo del ataque durante al menos tres días antes de que el ataque comen
+zara en serio, pero el análisis posterior reveló que los atacantes habían penetrado en la red al men
+os seis días antes de la entrega de la carga útil del ransomware.
+La investigación también reveló va
+rios scripts de instalación que revelaron las tácticas de los atacantes, y descubrió que los atacant
+es habían pasado días preparándose para lanzar el ransomware creando listas de direcciones IP dentro
+ de la red del objetivo, utilizando uno de los servidores de controlador de dominio del objetivo y e
+xfiltrando datos al proveedor de almacenamiento en la nube Mega.nz.
+Los actores de la amenaza inicia
+lmente exigieron un rescate de 15 millones de dólares. La víctima no pagó el rescate.
+Cómo ocurrió e
+l ataque
+El análisis posterior realizado por el equipo de MTR reveló que los atacantes organizaron e
+l ataque utilizando archivos por lotes e hicieron múltiples intentos de cifrar malintencionadamente 
+las máquinas en la red. La primera iteración de cargas útiles de ransomware se copió en la raíz de l
+a carpeta %programdata%, utilizando los nombres de archivo enc.exe, enc6.exe y network.dll. Luego, l
+os atacantes crearon tareas programadas que lanzarían el ransomware con nombres basados ​​en variant
+es de Windows Update Security o Windows Update Security Patches.
+El ataque inicial no produjo el res
+ultado deseado. Los atacantes hicieron un segundo intento, con una carga útil de ransomware llamada 
+license.exe, lanzada desde la misma ubicación. Pero antes de lanzarlo, ejecutaron un script que desh
+abilitó la función de monitoreo en tiempo real de Windows Defender.
+
+Luego, los ciberdelincuentes, u
+na vez más, ejecutaron un comando que crearía una tarea programada en cada ordenador en el que había
+n copiado la carga útil license.exe, esta vez llamada Actualización de seguridad de Google Chrome, y
+ la configuraron para que se ejecutara una vez a la medianoche (en la zona horaria local de los equi
+pos infectados).
+
+Estas detecciones indican que las cargas útiles de ransomware se capturaron y se p
+usieron en cuarentena en máquinas protegidas por productos de terminales de Sophos antes de que pudi
+eran causar daños. Los analistas de Sophos comenzaron a ver detecciones que indicaban que el malware
+ estaba activando las protecciones de comportamiento Cryptoguard de Intercept X. En este caso, Crypt
+oguard estaba impidiendo que el malware encriptara archivos al interceptar y neutralizar las API de 
+Windows que el ransomware intentaba usar para encriptar el disco duro.
+Entonces, los atacantes decid
+ieron intentar un enfoque más radical para su tercer intento.
+Máquina virtual armada
+Los ciberdelinc
+uentes de Maze entregaron los componentes del ataque para el tercer ataque en forma de un archivo de
+ instalación .msi. Dentro de .msi había un instalador para las versiones de 32 y 64 bits de VirtualB
+ox 3.0.4. Esta versión se remonta a 2009 y todavía lleva la marca del entonces editor, Sun Microsyst
+ems.
+El .msi también contenía un disco virtual de 1.9GB (sin comprimir) llamado micro.vdi, que a su 
+vez contenía una partición de arranque de Windows 7 SP1, y un archivo llamado micro.xml que contenía
+ información de configuración para el disco duro virtual y la sesión.
+La raíz de ese disco virtual c
+ontenía tres archivos asociados con el ransomware Maze: preload.bat, vrun.exe y un archivo llamado p
+ayload (sin extensión de archivo), que es el payload real de Maze DLL.
+El archivo DLL tenía un nombr
+e interno diferente para sí mismo.
+
+El archivo preload.bat (que se muestra a continuación) modifica 
+el nombre del ordenador de la máquina virtual, genera una serie de números aleatorios para usar como
+ nombre y une la máquina virtual al dominio de red de la red de la organización víctima usando una l
+ínea de comandos WMI.
+
+Al parecer, la máquina virtual fue configurada de antemano por alguien que sa
+bía algo sobre la red de la víctima, porque su archivo de configuración (“micro.xml”) mapea dos letr
+as de unidad que se utilizan como unidades de red compartidas en esta organización en particular, pr
+esumiblemente así puede cifrar los archivos en esos recursos compartidos, así como en la máquina loc
+al. También crea una carpeta en C: \ SDRSMLINK \ y comparte esta carpeta con el resto de la red.
+En 
+algún momento (no está claro cuándo y cómo, exactamente, lo logró), el malware también escribe un ar
+chivo llamado startup_vrun.bat. Encontramos este archivo en C:\users\Administrator\AppData\Roaming\M
+icrosoft\Windows\Start Menu\Startup, lo que significa que es un mecanismo de persistencia que se bas
+a en el reinicio de la computadora antes de que los atacantes lancen el malware.
+La secuencia de com
+andos copia los mismos tres archivos que se encuentran en la raíz del disco de la máquina virtual (l
+os archivos binarios vrun.exe y la DLL de carga útil, y la secuencia de comandos por lotes preload.b
+at) en otros discos, luego emite un comando para apagar el ordenador inmediatamente. Cuando alguien 
+vuelve a encender apagar el ordenador, el script ejecuta vrun.exe.
+
+La ubicación de la carpeta C:\SD
+RSMLINK\, creada cuando el archivo .msi se ejecuta por primera vez, actúa como una cámara de compens
+ación para carpetas específicas que el malware desea rastrear. Está lleno de enlaces simbólicos (enl
+aces simbólicos, similares a los accesos directos de Windows) a carpetas en el disco duro local.
+
+La
+ conexión de Ragnar Locker
+La técnica utilizada en el tercer ataque es completamente diferente a las
+ utilizadas antes por los ciberdelincuentes detrás de Maze, pero los investigadores lo reconocieron 
+de inmediato porque el equipo que respondió a este ataque de Maze es el mismo equipo que respondió a
+l ataque de ransomware Ragnar Locker, donde esta técnica fue vista por primera vez.
+En un ataque ant
+erior, Ragnar Locker también implementó una máquina virtual en un intento de eludir las medidas de p
+rotección
+En un informe anterior de Sophos sobre Ragnar Locker, escribimos que “El ransomware Ragnar
+ Locker se implementó dentro de una máquina virtual Oracle VirtualBox Windows XP. La carga útil del 
+ataque fue un instalador de 122 MB con una imagen virtual de 282 MB en su interior, todo para oculta
+r un ejecutable de ransomware de 49 kB”. MITRE ha añadido esta técnica a su marco ATT & CK.
+Los atac
+antes de Maze adoptaron un enfoque ligeramente diferente, utilizando una máquina virtual con Windows
+ 7 en lugar de XP. Esto aumentó significativamente el tamaño del disco virtual, pero también agrega 
+algunas funciones nuevas que no estaban disponibles en la versión de Ragnar Locker. Los ciberdelincu
+entes incluyeron un instalador de VirtualBox y la unidad virtual de VM armada dentro de un archivo l
+lamado pikujuwusewa.msi. Luego, los atacantes utilizaron un script por lotes llamado starter.bat. Pa
+ra lanzar el ataque desde dentro de la VM.
+La máquina virtual (VM) que Sophos extrajo del ataque Maz
+e muestra que esta VM (más nueva) está configurada de tal manera que permite la fácil inserción de o
+tro ransomware en la máquina “constructora” del atacante. Pero el costo en términos de tamaño es sig
+nificativo: el disco virtual Ragnar Locker tenía solo una cuarta parte del tamaño del disco virtual 
+de casi 2GB utilizado en el ataque Maze, todo solo para ocultar un ejecutable ransomware de 494 KB d
+e la detección.
+
+
+
+ 
+Ragnar Locker
+Maze
+
+
+MSI installer
+122 MB
+OracleVA.msi
+733 MB
+pikujuwusewa.msi
+
+
+
+Virtual Disk Image (VDI)
+282 MB
+micro.vdi
+1.90 GB
+micro.vdi
+
+
+Ransomware binary in VDI
+49 KB
+vrun.
+exe
+494 KB
+payload
+
+
+
+ 
+Los ciberatacantes también ejecutaron los siguientes comandos en el ordenado
+r host durante el ataque Maze:
+cmd /c msiexec /qn /i \\<machine-hosting-malware>\frs\pikujuwusewa.ms
+i
+Esto ejecutó el instalador de Microsoft que instala VirtualBox y el disco duro virtual.
+C:\Windows
+\System32\cmd.exe /C sc stop vss
+Detiene el servicio Volume Shadow Copy, el propio ransomware incluy
+e un comando para eliminar las instantáneas existentes.
+C:\Windows\System32\cmd.exe /C sc stop sql
+D
+etiene los servicios SQL para asegurarse de que pueden cifrar cualquier base de datos.
+C:\Windows\Sy
+stem32\cmd.exe /C taskkill /F /IM SavService.exe
+Intenta detener los servicios de protección de endp
+oints de Sophos (no lo consigue).
+C:\Windows\System32\cmd.exe /C sc start VBoxDRV
+Finalmente, inicia
+n el servicio VirtualBox y lanzan la VM.
+¿El futuro del ransomware?
+Los ciberdelincuentes de Maze ha
+n demostrado ser expertos en la adopción de técnicas que otras bandas de ransomware demostraron tene
+r éxito, incluido el uso de la extorsión como medio para obtener el pago de las víctimas. A medida q
+ue los productos de protección para endpoints mejoran su capacidad para defenderse del ransomware, l
+os atacantes se ven obligados a realizar un mayor esfuerzo para evitar esas protecciones.
+Los produc
+tos de punto final de Sophos detectan componentes de este ataque como Troj/Ransom-GAV o Troj/Swrort-
+EG. Los indicadores de compromiso se pueden encontrar en el Github SophosLabs.
+Contar con una soluci
+ón de protección Endpoint debidamente configurada, es uno de los métodos más eficaces para protegers
+e contra los ataques de ransomware de esta clase. Asiste a nuestro webinar para descubrir las mejore
+s prácticas para detener el Ransomware. Regístrate aquí.
+
+
+4AC5DDE2
+
+Votad por nuestro TZ!! Es el pi
+lar de su #ciberseguridad para cientos de miles de compañías por todo el mundo! Gracias!! #malware #
+sonicwall #ransomware #cybersecurity #security #firewalls >> Vote here: https://bit.ly/3ihNLMl
+
+4AC5
+DDE2
+
+El ciberataque ha afectado al sistema informático de la compañía
+Tras ser víctima de un ataque
+ de ransomware SegurCaixa Adeslas ha activado su plan de contingencia, así lo ha informado la propia
+ filial de Mutua Madrileña y de VidaCaixa Grupo. Un ataque de ransomware es una forma de malware que
+ bloquea los archivos o dispositivos de los usuarios y luego reclama un pago online anónimo.
+El pasa
+do jueves SegurCaixa Adeslas fue víctima de un ataque de ransomware de sus servidores, semanas despu
+és de que lo sufriese Seguros Mapfre, desde el primer momento del ataque están trabajando para dar u
+na solución del mismo. CaixaBank aseguró que no ha afectado a la entidad financiera, sino sólo a Seg
+urCaixa Adeslas.
+SegurCaixa Adeslas está integrada en el Grupo Mutua Madrileña y participada por Cai
+xaBank al 50%. Durante el año pasado vio crecer sus ingresos por primas un 4’2%, llegando a un benef
+icio neto de 386,6 millones de euros. En cuanto a la marca de salud de la aseguradora también aument
+aron las primas un 6’5%, llegando a los 2.688 millones de euros. En multirriesgo las primas aumentar
+on un 6’7%, alcanzando los 524 millones. Respecto al hogar las primas llegaron a 429 millones de eur
+os, mientras que en auto fueron 237.
+Servimedia, la aseguradora, ha ajustado los procesos que tienen
+ que ver con los asegurados para seguir prestando servicio mientras su equipo de atención al cliente
+ continúa gestionando las peticiones y consultas, para así poder identificar otras posibles afectaci
+ones.
+Aina Pou RodríguezRedactora de CyberSecurity News
+
+
+4AC5DDE2
+
+Al principio la R.I.A.C. fue pen
+etrando en los sistemas con apariencia de virus informático tipo ransomware. Según me contó Sánchez 
+las empresas de todo el mundo parecía que lograban eliminarlo de sus redes, pero siempre quedaba un 
+rastro.
+
+4AC5DDE2
+
+#LoMásLeído | Muere una mujer durante un ataque de 'ransomware' a un hospital de 
+Dusseldorf (Alemania)
+https://europapress.es/portaltic/ciberseguridad/noticia-muere-mujer-ataque-ran
+somware-hospital-dusseldorf-alemania-20200918100804.html…
+
+4AC5DDE2
+
+#VamosChilenos
+Banco Estado se 
+pone con 10 Ransomware xD
+
+4AC5DDE2
+
+Primera muerte en el mundo por un ataque de ransomware a un hos
+pital https://ift.tt/3iIYGyN #TIC #Tecnología
+
+4AC5DDE2
+
+
+Los ataques ransomware a hospitales han ac
+abado cumpliendo su macabro destino: una mujer que necesitaba tratamiento urgente tuvo que ser trasl
+adada a otro hospital porque el que tenía cerca en Düsseldorf (Alemania) estaba colapsado por un cib
+erataque de este tipo. 
+
+Ese traslado a otro hospital a 30 km provocó que el tratamiento tardara una
+ hora más de lo que hubiera tardado en el hospital al que trató de ir, y todo apunta a que falleció 
+por ese retraso. Poco se sabe de los responsables, pero el incidente se está investigando y podrían 
+acabar acusándoles en un caso de asesinato.
+ 
+
+
+
+Un ciberataque con un desenlace fatal
+El ataque se 
+produjo el pasado 10 de septiembre e infectó más de 30 servidores internos del Hospital Universitari
+o de Düsseldorf. Cuando la paciente llegó a urgencias no pudieron atenderla, lo que hizo que se tuvi
+era que trasladar a otro hospital en la ciudad de Wuppertal. 
+
+
+
+
+
+
+
+
+
+
+Esa podría haber sido la cau
+sa última de la muerte de la paciente, que no pudo ser tratada a tiempo. Este evento, que está siend
+o investigado por las autoridades alemanas, podría acabar en investigación criminal si se demuestra 
+que el ataque de ransomware y esa caída de los sistemas del hospital fueron la causa de la muerte de
+ la paciente. 
+
+
+
+
+
+
+
+
+
+
+En Xataka
+
+Cuando una empresa sufre un ataque de ransomware, me llaman para
+ solucionarlo: la difícil lucha contra el malware del momento
+
+
+
+La policía logró ponerse en contact
+o con los atacantes tras lo sucedido, que enviaron una clave que permitió al hospital descifrar los 
+datos y deshacer el bloqueo del ransomware. Según un informe del ministro de justicia en la región d
+e Renania del Norte-Westfalia, los atacantes podrían haber tenido como objetivo la Universidad Heinr
+ich Heise a la que el hospital está afiliado, y no el hospital como tal. Tras esa comunicación inici
+al, la policía no pudo volver a contactar con ellos.
+
+En este ciberataque los responsables aparentem
+ente aprovecharon una ya conocida vulnerabilidad de un software comercial muy utilizado de Citrix. 
+
+
+La agencia alemana de ciberseguridad, la BSI, ya advirtió de ese peligro en enero de 2020. En Citri
+x no han querido hacer comentarios ni confirmar si esa fue la puerta de entrada del ransomware, pero
+ sea como fuere esto deja claro cómo este tipo de ataques ransomware no solo pueden tener consecuenc
+ias económicas enormes: también pueden costar vidas.
+
+Imagen | Unsplash
+Vía | SecurityWeek
+ 
+
+4AC5DD
+E2
+
+
+
+
+
+
+Home
+
+
+
+Secciones
+
+
+
+Club LA NACION
+
+
+
+Mi Cuenta
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+Últimas Noticias
+
+
+
+Tránsito
+Clima
+LN DATA
+
+
+
+Política
+
+
+Economía
+
+
+Dólar hoy
+Campo
+Propiedades
+Comercio exterior
+Autos
+
+Índices
+Calculadora de ganancias
+
+
+
+El Mundo
+
+
+Sociedad
+
+
+Buenos Aires
+Seguridad
+Educación
+Cultura
+
+Comunidad
+Salud
+Ciencia
+
+
+
+Opinión
+
+
+Columnistas
+Editoriales
+
+
+
+Deportes
+
+
+Fútbol
+Fixture
+Posiciones
+
+Rugby
+Tenis
+
+
+
+Lifestyle
+
+
+Moda y belleza
+Turismo
+Tecnología
+Horóscopo
+Feriados
+Loteria y quinielas
+
+Cocina y recetas
+Podcasts
+Sudoku
+
+
+
+Espectáculos
+
+
+Cartelera de teatro
+Cartelera de cine
+
+
+
+
+
+Edici
+ón Impresa
+
+
+LA NACION Revista
+Sábado
+Ideas
+Editoriales
+Carta de lectores
+Humor
+Avisos fúnebres
+Avis
+os sociales
+
+
+
+Revistas
+
+
+OHLALÁ!
+¡HOLA!
+Rolling Stone
+Lugares
+Living
+Brando
+Jardín
+
+
+
+LN+
+
+
+Kiosco 
+LA NACION
+
+
+Club LA NACION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ E-Mail
+ Twitter
+ Facebook
+ Wha
+tsapp
+
+
+
+ 
+Suscribite
+Ingresar
+
+
+
+
+Mi cuenta
+Mis suscripciones
+Ayuda
+Salir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LA NACION
+
+ | 
+
+
+                    Tecnología
+                
+
+ | 
+
+
+                    Tecno
+logía
+                
+
+
+
+Una mujer murió en un hospital alemán por un ataque de ransomware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Crédito: Shutterstock
+
+
+
+
+
+
+
+
+
+
+Comentar
+(0)
+
+
+Me gusta
+Me gusta
+
+
+Compartir
+
+
+E-mail
+Twitter
+Facebook
+
+
+WhatsApp
+
+
+
+
+
+Guardar
+
+
+18  de septiembre de 2020  • 13:05
+
+
+
+
+
+Las au
+toridades alemanas dijeron el jueves que lo que parece haber sido un ataque fallido de piratas infor
+máticos causó la falla de los sistemas de un hospital en Düsseldorf,y que una mujer que necesitaba s
+er ingresada de urgencia falleció, luego de que tuvo que ser
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+trasladada a o
+tra ciudad para su tratamiento.
+
+
+
+Los fiscales abrieron una investigación contra los perpetrador
+es desconocidos bajo sospecha de homicidio por negligencia debido a que una paciente con una enferme
+dad potencialmente letal, que se suponía iba a ser trasladada al hospital el viernes pasado, fue env
+iada a un hospital en Wuppertal, a una distancia de 32 kilómetros. Los médicos no pudieron comenzar 
+a atenderla durante alrededor de una hora y perdió la vida.
+
+
+ 
+
+
+ 
+
+
+ 
+
+Ataque informático
+
+
+
+
+
+
+Los sistemas de las clínicas de la Universidad de Düsseldorf se han visto interrumpidos desde el 
+jueves de la semana pasada. El hospital dijo que los investigadores han encontrado que la fuente del
+ problema fue un ataque cibernético en un punto débil de un "software complementario comercial ampli
+amente utilizado'', el cual no identificó.
+
+
+ 
+
+
+ 
+
+
+
+Como consecuencia, los sistemas colapsaron 
+gradualmente y el hospital no pudo ingresar datos, por lo que los pacientes de emergencias fueron tr
+asladados a otras partes y se pospusieron las cirugías.
+
+
+
+El hospital dijo que "no hubo un pedid
+o de rescate concreto'' durante el ataque informático. Añadió que no había indicios de que los datos
+ se hayan perdido irremediablemente y que estaban reiniciando gradualmente sus sistemas informáticos
+.
+
+
+ 
+
+
+ 
+
+
+
+Sin embargo, un reporte del ministro de Justicia del estado de Renania del Norte-Wes
+tfalia dijo que 30 servidores del hospital estaban encriptados la semana pasada y que se dejó una no
+ta de extorsión en uno de los servidores, de acuerdo con la agencia de noticias DPA. La nota -que es
+pecificaba las direcciones para ponerse en contacto, pero no mencionaba ninguna suma- estaba dirigid
+a a la Universidad Heinrich Heine, a la que el hospital de Düsseldorf está afiliado, pero no al prop
+io hospital.
+
+
+ 
+
+
+
+Más tarde, la policía de Düsseldorf estableció contacto y comentó a los perpe
+tradores que el hospital, y no la universidad, se había visto afectado, poniendo en peligro a los pa
+cientes. Entonces, los perpetradores retiraron el intento de extorsión y proporcionaron una herramie
+nta digital para decodificar la información. De momento no se puede contactar a los malhechores, de 
+acuerdo con el reporte del ministro de Justicia.
+
+Agencia AP
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ ADEMÁS 
+
+
+
+
+
+
+Agenda Vi
+da Digital
+
+
+
+
+
+
+
+Por la crisis, las empresas aceleran su vínculo tecno con los clientes
+
+
+
+
+
+
+
+Los 
+vaivenes de la moda en la industria más veloz del mundo
+
+
+
+
+
+
+
+¿Te gustó esta nota?
+
+ 
+
+Ver comentar
+ios 0
+
+
+
+
+
+
+
+
+
+
+
+
+Temas:
+ | 
+
+
+                            Tecnología
+                        
+
+
+ 
+ |  
+
+
+                    Tecnología
+                
+
+
+
+Seguridad informática
+Lifestyle
+Trends
+C
+iberataque
+
+
+
+
+
+
+
+
+
+
+
+
+            Ver
+            0 comentarios
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MÁS leídas ahora
+
+
+
+
+
+
+
+
+
+Coronavirus en la Argentina. Reportan 254 muertes y 8.431 nuevos contagios
+
+
+
+
+
+
+
+
+
+Realeza:
+ las cinco jóvenes princesas que se preparan para convertirse en reinas
+
+
+
+
+
+
+
+
+
+El coronavirus se d
+escontrola con un nuevo récord en Gran Bretaña
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ENVÍA  TU COMENTARIO
+  
+ Ver legales 
+ 
+
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las
+ consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluy
+a en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volv
+er a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Para poder comentar tenés 
+que ingresar con tu usuario de LA NACION.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mapa del sitio
+Ayuda
+Términos y
+ condiciones
+¿Cómo anunciar?
+Suscribirse al diario impreso
+
+
+
+Protegido por reCAPTCHA:
+Condiciones
+P
+rivacidad
+
+
+
+
+
+Miembro de GDA.Grupo de Diarios América
+
+
+Copyright 2020 SA LA NACION | Todos los der
+echos reservados
+
+
+
+
+
+
+
+
+
+
+4AC5DDE2
+
+Sí mano, demasiado malware, spyware, Ransomware, etc.
+
+Admito q
+ue esta vez fue enteramente mi culpa, pero no creí que iba a encontrar eso allí. 
+
+4AC5DDE2
+
+
+
+
+1 GB
+ = 1.000 millones de bytes. 1 TB = 1 billón de bytes. La capacidad formateada real es inferior.
+** L
+os descuentos dependen del estado, año y configuración del dispositivo que entregues. Para poder cam
+biar tu dispositivo por un descuento o una tarjeta regalo del Apple Store, tienes que ser mayor de e
+dad. No todos los dispositivos pueden acogerse a esta oferta. Para obtener más información sobre los
+ dispositivos válidos y su reciclaje, consulta a nuestro socio. Puede haber restricciones y limitaci
+ones. El pago dependerá de que el estado del dispositivo coincida con el indicado durante la tasació
+n. Apple se reserva el derecho a rechazar o limitar la cantidad de dispositivos según su criterio. E
+l valor de tu dispositivo se descontará del precio del producto Apple nuevo. Esta oferta puede no es
+tar disponible en todas las tiendas. Algunas tiendas pueden exigir más requisitos.
+
+Apple Distributi
+on International Ltd. es productor de pilas y acumuladores con Nº RII-PYA 919, adherido a ECOPILAS y
+ productor de AEES con Nº RAEE 4047, adherido a ECOASIMELEC.
+		
+		
+			° 4,99 €/mes después de la pru
+eba gratuita. Una sola suscripción por cuenta compartida de En Familia. La oferta tiene validez dura
+nte 3 meses desde que se activa un dispositivo válido. Si no se cancela, la suscripción se renueva a
+utomáticamente. Sujeto a restricciones y otras condiciones.
+
+
+4AC5DDE2
+
+
+El ransomware utilizado “im
+prudentemente” por los ciberdelincuentes “amorales” es “uno de los mayores flagelos de la Internet m
+oderna” en este momento, y una amenaza que ha causado noches de insomnio para muchos, especialmente 
+durante la pandemia de Covid-19, según el ex Centro Nacional de Seguridad Cibernética (NCSC) CEO Cia
+ran Martin.
+En su primer discurso público desde que dejó el NCSC, que se pronunció en línea a una au
+diencia invitada de especialistas en seguridad y periodistas a través del Instituto Real de Servicio
+s Unidos (Rusi), Martin, quien dirigió la fundación del organismo de seguridad nacional después de h
+aber dirigido previamente las operaciones de seguridad cibernética de GCHQ, reflexionó sobre su tiem
+po allí y sobre el panorama de las amenazas cibernéticas para sacar sus conclusiones.
+“[Ransomware] 
+es la causa más probable de la interrupción de servicios clave. Sin lugar a dudas, es una gran fuent
+e de pérdidas económicas. Es la forma más probable de que alguien sufra una desventaja grave, o resu
+lte herido, o incluso muera, lo que lamentablemente puede haber sucedido por primera vez ”, dijo Mar
+tin, refiriéndose a la trágica muerte de una mujer en Alemania durante un ataque de ransomware en un
+ hospital de Düsseldorf.
+“El ransomware debe tratarse como una amenaza disruptiva, no como el robo d
+e datos o el espionaje. Hasta mis últimas horas en el NCSC el mes pasado, mantuve la opinión de que 
+la causa más probable de un incidente importante era un ataque de ransomware en un servicio importan
+te ”, dijo.
+“Para el atacante, la elección del servicio sería incidental, solo buscaban dinero, pero
+ desde el punto de vista del daño nacional, esa elección incidental de víctima podría ser importante
+. Lo que más me mantenía despierto por la noche era la perspectiva de daño físico inadvertidamente c
+omo resultado del ransomware.
+“Los ataques a los proveedores de atención médica en Alemania y la Rep
+ública Checa en el punto álgido de la pandemia fueron muy aterradores. Lamentablemente, parece que p
+udo haber sucedido lo peor, esperamos los detalles completos, pero en cualquier caso, algunos invest
+igadores han comenzado a publicar evidencia provisional que vincula los ataques de ransomware en hos
+pitales con peores resultados médicos, incluidas las tasas de mortalidad “.
+Martin continuó diciendo
+ que tenía algunas preocupaciones sobre la tendencia de los comentaristas de seguridad y, hasta cier
+to punto, los medios de comunicación, a centrarse en el riesgo cibernético catastrófico, y advirtió 
+que hacerlo corría el riesgo de desviar los recursos y la política hacia cosas como el ejército y el
+ servicios de inteligencia y descuidar objetivos más suaves como la atención médica o el gobierno lo
+cal.
+Martin dijo que la perspectiva de que los servicios del gobierno local fueran retenidos como re
+scate, como sucedió en Redcar y Cleveland, por ejemplo, estaba lo más lejos posible de la visión apo
+calíptica de Hollywood de un ciberataque.
+“Estas son nuestras escuelas, estos son servicios para per
+sonas vulnerables, estos son servicios de protección ambiental, todos tienen un riesgo muy real de t
+écnicas y herramientas bastante comunes, y es este problema el que debemos gritar para ayudar a la g
+ente a entenderlo”, dijo. .
+Martin agregó que centrarse en las amenazas cibernéticas catastróficas n
+i siquiera ayudó a gestionar las amenazas cibernéticas catastróficas tan bien, porque corre el riesg
+o de llamar la atención sobre aspectos más mundanos de la seguridad. Comprender el matiz, la complej
+idad y, hasta cierto punto, el detalle de los ciberataques perpetrados contra el Reino Unido fue, di
+jo, crucial para los esfuerzos por “hacer que nuestra patria digital sea segura”.
+
+
+4AC5DDE2
+
+Fake. 
+El vínculo contiene RANSOMWARE.
+
+4AC5DDE2
+
+
+El mayor proveedor de energía de Pakistán, K-Electric, s
+e ha convertido en la última víctima de un ataque de ransomware NetWalker.
+Los piratas informáticos 
+solicitan hasta $7.7 millones pagados en Bitcoin.
+Dos importantes ataques de ransomware NetWalker ha
+n surgido la semana pasada.
+Después de que la agencia oficial de inmigración de Argentina sufriera u
+n ataque que exigía $4 millones en Bitcoin, un informe reciente reveló que el mayor productor de ene
+rgía de Pakistán estaba comprometido.
+Los perpetradores exigen hasta $7.7 millones en BTC.
+El sitio 
+web de ciberseguridad Bleeping Computer informó anteriormente que el único proveedor de electricidad
+ de Karachi, Pakistán, a saber, K-Electric, ha sufrido un ataque de ransomware.
+K-Electric suministr
+a energía a más de 2,5 millones de ciudadanos, pero el ataque no ha afectado esos servicios.
+En camb
+io, los perpetradores se han dirigido a la plataforma de facturación en línea y los usuarios no pudi
+eron operar el sitio web.
+Bleeping Computer notó que habían visto una página de pago proporcionada p
+or los atacantes a K-Electric.
+Según se informa, empleó el navegador Tor anónimo y dijo que la deman
+da inicial tiene un valor de $3.850.000 o 382.8179 bitcoins.
+Sin embargo, si el pago no se transfier
+e antes del 15 de septiembre, se duplicará a $7.7 millones (o 765.6358 BTC).
+Más abajo, los perpetra
+dores han escrito que habían robado archivos no cifrados de KE antes de ejecutar el ataque, sin reve
+lar la naturaleza de los archivos.
+Descubierto en agosto de 2019, el ataque de ransomware NetWalker 
+se denominó inicialmente Mailto, según la extensión adjunta a los archivos cifrados.
+Compromete la r
+ed de la víctima y cifra todos los dispositivos de Windows conectados a ella.
+Al obtener acceso a lo
+s servidores, los perpetradores dejan una nota exigiendo un rescate.
+En los últimos meses, los ataca
+ntes han solicitado que los fondos se transfieran principalmente a través de bitcoins.
+Según la anti
+gua empresa de ciberseguridad de John McAfee que lleva su nombre, los ataques de ransomware NetWalke
+r han generado más de 25 millones de dólares desde marzo de este año.
+José Hernández
+Noticiero Bitco
+in
+Te invitamos a seguirnos de cerca en nuestra comunidad de Telegram para conocer de primera mano e
+l contenido educativo e informativo que tenemos para ti.
+Puede seguirnos también en Twitter, en dond
+e compartiremos noticias de última hora, concursos y mucho más.
+
+
+
+
+4AC5DDE2
+
+
+   MADRID, 18 Sep. (P
+ortaltic/EP) -    Un ataque de 'ransomware' al Hospital Universitario de Dusseldorf (Alemania) colap
+só este martes el servicio de urgencias del centro, que tuvo que cerrar temporalmente la sala de urg
+encias y, como resultado de ello, una paciente gravemente enferma falleció mientras era trasladada a
+ otro hospital.   El colapso informático del hospital tuvo lugar debido a un ataque de 'ransomware' 
+dirigido originalmente contra los ordenadores de la Universidad de Dusseldorf, pero en su lugar afec
+tó también a los equipos de la clínica, encriptando 30 de sus servidores, como ha informado el porta
+l local RTL.   Este fallo en los equipos del hospital redujo la cantidad de pacientes que habitualme
+nte se atiende en el centro, pasando de 1.000 a 550 personas, y también la de operaciones, que de en
+tre 120 y 70 pasó a menos de 15, según aseguraron fuentes de la clínica a la agencia DPA.   Como res
+ultado del colapso, una paciente gravemente enferma tuvo que ser trasladada al cercano hospital de W
+uppertal en ambulancia. Aunque se trata de un trayecto de apenas 25 minutos, la mujer falleció. Se t
+rata de la primera muerte registrada debida a un ciberataque.   La policía de Dusseldorf contactó co
+n los cibercriminales a través de la nota que acompañaba al 'ransomware', informándoles de que su at
+aque había colapsado el hospital, y estos retiraron la extorsión y ofrecieron el código para desencr
+iptar los equipos afectados.
+
+4AC5DDE2
+
+
+
+Los ciberdelincuentes siempre andan buscando nuevas fórmul
+as, incluso observan las de sus colegas para realizar los ataques a sus víctimas. En esta ocasión, h
+a sido lo segundo y se han inspirado en la banda Ragnar Locker. Así con su ransomware Maze, al igual
+ que los anteriores, han utilizado una máquina virtual para cifrar por completo los ordenadores y pe
+dir el típico rescate de los ransomware. 
+El antecedente del ransomware Ragnar Locker
+En mayo de est
+e año, Shophos alertó sobre la presencia del ransomware Ragnar Locker que cifraba a través de de máq
+uinas virtuales VirtualBox Windows XP para eludir el software de seguridad en el host final. Esa máq
+uina virtual monta las unidades de un host como recursos compartidos remotos, después, ejecuta el ra
+nsomware en una máquina virtual para cifrar los archivos del recurso compartido. Debido a que la máq
+uina virtual no está ejecutando ningún software de seguridad y está montando las unidades del host, 
+el software de seguridad del host no puede detectar el malware y bloquearlo. Este ataque se inicia c
+reando primero una carpeta de herramientas que incluye VirtualBox, un mini disco virtual de Windows 
+XP llamado micro.vdi y varios ejecutables y scripts para preparar el sistema. Luego también, cuenta 
+con el archivo vrun.bat, que montará cada unidad compartida, la cifrará y luego pasará a la siguient
+e unidad compartida con la máquina virtual.
+
+Como ya hemos explicado antes, el software de seguridad
+ que se ejecuta en el host de la víctima no detecta el ejecutable del ransomware en la máquina virtu
+al, y seguirá ejecutándose y cifrando los archivos. En el momento que finalice, la víctima encontrar
+á una nota de rescate personalizada que explica que su empresa ha sido atacada y sus archivos encrip
+tados por completo.
+El ransomware Maze y su uso de las máquinas virtuales
+Todo comienza cuando Shopo
+s, atendiendo la incidencia de un cliente, descubrió que el ransomware Maze había intentado implemen
+tar su ransomware dos veces. Sin embargo, gracias a la función Intercept X de Sophos fue bloqueada. 
+La máquina virtual utilizada por Maze estaba ejecutando Windows 7, mientras que la del Ragnar Locker
+ como mencionamos antes, era de Windows XP. La investigación también reveló los siguientes datos:
+
+E
+ncontraron varios scripts de instalación gracias los cuales se pudo descubrir su forma de actuación.
+
+Se descubrió que los atacantes habían pasado días creando listas de direcciones IP dentro de la red
+ del objetivo. Para ello, utilizaron uno de los servidores de controlador de dominio del objetivo, y
+ exfiltraron datos de Mega.nz.
+
+Los ataques con el ransomware Maze empezaron mediante el uso de arch
+ivos por lotes e hicieron varios intentos por cifrar las máquinas en la red. A continuación, como no
+ consiguieron su objetivo, crearon tareas programadas para ejecutar el ransomware basados en:
+
+Windo
+ws Update Security.
+Windows Update Security Patches.
+Actualización de seguridad de Google Chrome.
+
+S
+in embargo, gracias a que se activaron las protecciones de comportamiento Cryptoguard de Intercept X
+, esas cargas del ransomware Maze se capturaron y se pusieron en cuarentena en máquinas protegidas a
+ntes de que pudieran causar daños. Los atacantes, como había fracasado en sus dos primeros intentos,
+ entonces optaron por un enfoque más radical.
+En el tercer ataque, Maze implementó un archivo MSI qu
+e instaló el software VirtualBox VM en el servidor junto con una máquina virtual personalizada de Wi
+ndows 7. En el disco raíz de ese disco virtual tenemos tres archivos asociados con el ransomware Maz
+e:
+
+preload.bat
+vrun.exe
+payload (sin extensión de archivo), que es la carga útil real de Maze DLL.
+
+
+Luego con la máquina virtual ya iniciada, el ransomware Maze, se ejecutaría un archivo por lotes ll
+amado startup_vrun.bat que prepara la máquina con los ejecutables de Maze.
+
+A continuación, la máqui
+na se apaga y, una vez que se reinicia de nuevo, ejecutará vrun.exe para cifrar los archivos del hos
+t. Debido a que el cifrado se realiza en las unidades montadas del host, el software de seguridad no
+ pudo detectar el comportamiento y detenerlo.
+Comparativa de ransomware Maze respecto a Ragnar Locke
+r
+Los investigadores de SophosLabs señalan que el ransomware Maze es más costoso de implementar en t
+érminos de tamaño de disco en comparación con el de Ragnar Locker. Aquí tenemos una tabla en el que 
+se puede apreciar esto:
+
+Ragnar Locker se implementó dentro de una máquina virtual Oracle VirtualBox
+ Windows XP. La carga útil del ataque fue un instalador de 122 MB con una imagen virtual de 282 MB. 
+En cambio, los atacantes del ransomware Maze adoptaron un enfoque diferente utilizando una máquina v
+irtual con Windows 7. Esto provocó que aumentase significativamente el tamaño del disco virtual, per
+o también le agregó algunas funciones nuevas. En este caso pasamos a un instalador de 733 MB y a un 
+disco duro virtual de 1.90 GB. Para finalizar, como habréis podido apreciar, los creadores del ranso
+mware Maze han utilizado técnicas similares a las de otros ciberdelincuentes como los de Ragnar Lock
+er.
+Ir al Inicio
+
+4AC5DDE2
+
+¡El último NOVA News Ciberseguridad! http://ciberseguridad.pcnova.es/?ed
+ition_id=ecbd7930-fb05-11ea-bfa8-0cc47a0d164b… Gracias a @pablo_burgos_sc @RSM_es #ransomware #ranso
+mwareattack
+
+4AC5DDE2
+
+Primera muerte por hackeo de computadoras de un hospital (Düsseldorf). Les se
+cuestraron las compus con ransomware, y tuvieron que derivar a una paciente aguda: falleció en el ca
+mino.
+
+4AC5DDE2
+
+Primera muerte en el mundo por un ataque de Ransomware a un hospital.
+
+4AC5DDE2
+
+Mu
+ere mujer durante un ataque de ransomware a servidores de una universidad que albergaba datos de hos
+pital de Dusseldorf (Alemania) https://j.mp/33z2SKU Cuando le avisaron a los atacantes de lo sucedid
+o, entregaron la llave para decifrar los equipos
+
+4AC5DDE2
+
+Hay que estar pilas con lo que publican,
+ pues por ejemplo @megapacks99 publica únicamente RANSOMWARE en sus links.
+
+4AC5DDE2
+
+Todo bien?  Bu
+sca ayuda
+
+4AC5DDE2
+
+Ransomware Maze encripta usando máquinas virtuales y elude detección
+
+4AC5DDE2
+
+
+1
+                                    Así me captó una secta sexual: la valenciana Patricia Aguilar
+ cuenta su calvario en Perú
+                                2
+                                    Ha
+llan muerto en una acequia al vecino de Ontinyent desaparecido
+                                3
+   
+                                 Dos motoristas fallecen en Benicàssim tras un choque frontal
+      
+                          4
+                                    Pasea desnudo por Port Saplaya y nad
+a más de una milla para evitar a los agentes
+                                5
+                     
+               Una mujer arranca de un mordisco parte del labio a su pareja cuando él iba a darle un
+ beso en Valencia
+                                1
+                                        Un único
+ acertante de La Primitiva del sábado 19 de septiembre gana un premio de más de 1,3 millones de euro
+s
+                                    2
+                                        La OMS pone fecha pa
+ra recuperar «la vida como la conocíamos antes del coronavirus»
+                                    
+3
+                                        La Comunitat, la autonomía con menor tasa de contagios de 
+España en plena segunda ola
+                                    4
+                                  
+      Los contagios en las residencias se desbocan y Oltra descarga la responsabilidad en Sanidad
+  
+                                  5
+                                        Euromillones deja un nue
+vo millonario en España y otros tres grandes premios, uno de ellos en Valencia este viernes 18 de se
+ptiembre
+                                    
+
+4AC5DDE2
+
+Nuestros ingenieros especializados te apoya
+n a  identificar e integrar los controles y políticas de seguridad necesarias para proteger los equi
+pos de cómputo de tu organización, detectando, gestionando y eliminando software malicioso que puede
+ afectar la operación. ¿Como lo hacemos?Gestión de la consola Instalación y administración de Endpoi
+ntAplicación y definición de las políticas de seguridad 
+
+4AC5DDE2
+
+"Ransomware Maze encripta usando
+ máquinas virtuales y elude detección"
+
+4AC5DDE2
+
+El costo promedio de pagos por rescate por #ransom
+ware en el primer trimestre del 2020 fue de $ 178,254 USD, acorde a @Gartner_IT, sin incluir el cost
+o por inactividad o estar fuera de servicio https://bit.ly/33LXt3f via @SearchSecurity #infosec #cyb
+ersecurity #GartnerSEC
+
+4AC5DDE2
+
+Semana muy pesada, sin breaks, ya tuve mi primer contacto indirect
+o con un ransomware, aquí no se negocia con terroristas 
+
+4AC5DDE2
+
+Un presunto ataque de “ransomwar
+e” al centro médico ubicado en Dusseldolf generó que el personal médico no pudiera atender a la muje
+r, quien fue trasladada a otro hospital
+
+4AC5DDE2
+
+ITwareLatam: Ransomware: un enemigo invisible que
+ no descansa Lee la nota completa en @ITwareLatam
+
+4AC5DDE2
+
+Ataques del ransomware NetWalker con pé
+rdida de datos. El ataque a Migración Argentina, pudo haber llegado por un falso correo electrónico.
+  https://onretrieval.com/ataques-del-ransomware-netwalker-con-perdida-de-datos/…
+#recuperaciondedat
+os @recuperardatos #pérdidadedatos #perederdatos
+
+4AC5DDE2
+
+Un ataque de #ransomware en un hospital 
+alemán provoca la muerte del paciente http://zap.in/02kcF #malware #CiberSeguridad
+
+4AC5DDE2
+
+
+El ra
+nsomware se ha enarbolado, de un tiempo a esta parte, como la peor ciberamenaza de la década. Aunque
+ existen muchas tipologías según su nivel de complejidad, a grandes rasgos se trata de programas de 
+software maliciosos que infectan un dispositivo y piden dinero en concepto de rescate para su secues
+tro. Estos sistemas criminales para ganar dinero -y que perpetran su amenaza por canales diversos co
+mo webs engañosas, enlaces, emails, SMS o la estafa del CEO, entre otras-, se ceban en estos tiempos
+ con hospitales, ya que los datos médicos constituyen un buen muy valioso.
+Esta semana podría habers
+e registrado la primera muerte de la historia directamente relacionada con un ataque de ransomware: 
+una mujer en Alemania murió durante un ataque de ransomware en el Hospital de la Universidad de Dues
+seldorf, que no pudo aceptar pacientes de emergencia debido al ataque, por lo que la paciente tuvo q
+ue ser trasladada a un centro de atención médica a 32 kilómetros de distancia, tal y como informó la
+ agencia Associated Press.
+Un ataque de ransomware amenaza una posible cura contra la COVID-19
+El ci
+berataque no estaba destinado al hospital, según el informe del medio de comunicación alemán RTL, si
+no que ña nota de rescate estaba dirigida a una universidad cercana. Los atacantes detuvieron el ata
+que después de que las autoridades les dijeron que en realidad habían cerrado un hospital.
+Pese al e
+rror, las instalaciones sanitarias son uno de los principales objetivos de los ciberataques, para lo
+s cuales la inmensa mayoría de hospitales no se encuentran preparados pese a que la gran mayoría de 
+sus herramientas son dispositivos conectados al Internet de las Cosas o los historiales de los pacie
+ntes se encuentren digitalizados en la nube.
+
+This may be the first confirmed death resulting from a
+ cyberttack on healthcare infrastructure. https://t.co/O2mPziOgJu
+— Andy Manoske (@a2d2) September 1
+7, 2020
+
+Incluso los ataques que tienen como objetivo los datos de los pacientes y no tienen un impa
+cto directo en los dispositivos médicos pueden afectar los resultados de los pacientes: un estudio e
+ncontró que la tasa de mortalidad de un hospital por ataques cardíacos aumenta en los años posterior
+es a una violación de datos. Este problema tiene relación directa con los presupuestos, pues tras la
+ brecha se destinan recursos para actualizar el software o reparar los daños del ataque cibernético.
+
+
+A patient died when a German hospital was hit by ransomware, causing delays in life-saving treatme
+nt. Looks like the fears of healthcare cybersecurity professionals have come true 🙁 https://t.co/de0
+xjpF2VH
+— Steve Christey Coley (@SushiDude) September 17, 2020
+
+Los grandes ciberataques, como el ci
+berataque de WannaCry de 2017, han cerrado los principales sistemas hospitalarios: el propio WannaCr
+y derribó el Servicio Nacional de Salud del Reino Unido, y aunque no se registraron fallecimientos r
+elacionadas directamente con ese ataque, era cuestión de tiempo que aconteciese una desgracia. Por e
+l momento, las autoridades alemanas investigan la muerte de la paciente: si el desvío a otro centro 
+médico fue la causa de su muerte, la policía podría tratar el ciberataque como un homicidio.
+
+Fuente
+ | The Verge
+
+
+4AC5DDE2
+
+La amenaza de ransomware nos mantuvo despiertos por la noche
+
+4AC5DDE2
+
+Ata
+que hacker. (Foto: Pexels).Como consecuencia del ciberataque el Hospital Universitario de Düsseldorf
+ tuvo que cerrar su sala de emergencias lo que causó la muerte de una mujer tras denegarse su ingres
+o hospitalario.El ransomware se trata de un programa de software malicioso que infecta los dispositi
+vos móviles y muestra mensajes que exigen el pago de una cantidad de dinero determinada a cambio de 
+reestablecer el funcionamiento del sistema. Tiene capacidad para bloquear la pantalla e incluso cifr
+ar archivos de relevancia predeterminados por una contraseña.En la práctica habitual, este tipo de c
+iberataques tiene como diana grandes empresas, bancos o particulares, pero uno de los últimos se ha 
+producido en el Hospital Universitario de la ciudad alemana de Düsseldorf.La pasada semana 30 servid
+ores del centro hospitalario fueron secuestrados por un grupo de ciberdelincuentes que exigían un re
+scate a la dirección del hospitalSegún las informaciones ofrecidas por medios locales la pasada sema
+na 30 servidores del centro hospitalario fueron secuestrados por un grupo de ciberdelincuentes que e
+xigían un rescate a la dirección del hospital. A pesar de que facilitaron datos de contacto no comun
+icaron ninguna reivindicación que motivase el ataque ni la cantidad de dinero deseada.   Este hecho 
+provocó el cierre de la sala de emergencias lo que impidió el ingreso de una mujer por enfermedad (n
+o se ha detallado la causa) lo que acabó causando su muerte. Tras el triste acontecimiento los inves
+tigadores informaron a los ciberdelincuentes que habían atacado un hospital causando la muerte de un
+a mujer. En este momento facilitaron la clave para poner fin al ataque de ransomware.Aunque pueda co
+ntener afirmaciones, datos o apuntes procedentes de instituciones o profesionales sanitarios, la inf
+ormación contenida en SaludNews está editada y elaborada por periodistas. Recomendamos al lector que
+ cualquier duda relacionada con la salud sea consultada con un profesional acreditado.Podría interes
+arte:La salud de Merkel despierta temores en Europa   
+
+4AC5DDE2
+
+Durante el 2017 han proliferado lo
+s ciberataques de Ransomware y algunos de ellos han sido realmente notorios como por ejemplo el Wann
+acry, el WannaCryptor, el Jigsaw, el Petya, etc. Además, la previsión es que durante los próximos añ
+os se incrementen este tipo de ataques. Por este motivo, en el siguiente post hablaremos de que es u
+n ransomware, las vías que usan los atacantes para infectarnos, las precauciones que debemos tomar y
+ como debemos actuar en caso de ser víctimas.¿EN QUE CONSISTE UN ATAQUE DE RANSOMWARE?Es un tipo de 
+ciberataque en el que el atacante pretende realizar alguna de las siguientes acciones:Cifrar los arc
+hivos de nuestro disco duro mediante un malware.Secuestrar el acceso a nuestro equipo mediante un ma
+lware.Cifrar los archivos de nuestro equipo y además secuestrar el acceso a nuestro equipo.Si el ata
+cante tiene éxito, la víctima no podrá acceder nunca más a los archivos y/o acceder a su ordenador a
+ no ser que realice un pago en bitcoins al atacante para obtener una clave de descifrado. Por esto m
+otivo se dice los ataques de ransomware secuestran a nuestro ordenador.Por lo tanto, se puede decir 
+que el ransomware es un modelo de negocio para los cibercriminales que consiste en chantajear a los 
+usuarios a cambio de quitarles lo que más valor tiene para ellos que es su información.CONSECUENCIAS
+ DERIVADAS DE UN ATAQUE DE RANSOMWAREEn el momento que seamos víctimas de un ataque de Ransomware es
+ probable que perdamos de forma permanente el siguiente tipo de información:Nuestras fotografías y v
+ídeos.Todos nuestros documentos académicos o relacionados con nuestro entorno laboral.Bases de datos
+ que contienen información sobre la contabilidad de nuestra empresa, sobre nuestros clientes, etc.Et
+c.Por lo tanto, las consecuencias que podemos sufrir a son extremadamente severas. Algunas de ellas 
+son las siguientes:Pérdida de información y molestias para los usuarios.Bloquear la operativa de un 
+negocio lo que ocasionará pérdidas económicas importantes.Cierre de un negocio o servicio.FAMILIAS D
+E RANSOMWARE EXISTENTESExisten múltiples familias y variantes de Ransomware. En el año 2017 se puede
+ decir que existen más de 70 familias de Ransomware. Las familias más destacadas y notorias son las 
+siguientes:TeslacryptCryptoLocker.TorrentLocker.Locky.Virus de la policía.Todas las familias de Rans
+omware persiguen el mismo objetivo y tienen pautas similares, pero los vectores de ataque usados por
+ cada una de las familias son diferentes.Cabe destacar que cada día que pasa se incrementan las fami
+lias y variaciones de ransomware existentes. Por este motivo es imprescindible educarnos en segurida
+d informática.¿QUÉ DISPOSITIVOS PUEDEN VERSE AFECTADOS POR RANSOMWARE?La gente tiene la idea equivoc
+ada que el ransomware solo afecta solo a ordenadores. Pero la realidad es que el ransomware puede af
+ectar a los siguientes dispositivos.Todo ordenador personal, independientemente del sistema operativ
+o que use, puede ser víctima de ransomware. Obviamente hay sistemas operativos más seguros que otros
+, pero absolutamente todos tienen vulnerabilidades.Cualquier dispositivo móvil como por ejemplo un t
+eléfono móvil o tablet. Tanto para Android como para iOS, en menor medida, existe Ransomware. Los at
+aques de ransomware no proliferan mucho en dispositivos móviles, pero en un futuro cercano la realid
+ad puede ser muy distinta ya que en la actualidad hay un número muy elevado de usuarios y además exi
+sten muchos dispositivos Android en que las actualizaciones de software llegan tarde o simplemente n
+o llegan.Servidores de datos y servidores web que se dedican a proporcionar servicios a usuarios.¿CÓ
+MO SE INFECTAN POR RANSOMWARE LOS USUARIOS Y LAS EMPRESAS?Las vías de infección que usan los cibercr
+iminales son varias. Algunas de ellas son las siguientes:Mediante el correo electrónicoEn la gran ma
+yoría de ocasiones los atacantes utilizan archivos adjuntos en los correos electrónicos. Una vez la 
+víctima abra el archivo nos infectaremos con el ransomware. Por este motivo hay que extremar la prec
+auciones cuando abramos archivos adjuntos de nuestro correo electrónico.Obviamente también hay que p
+restar especial atención a los enlaces que encontraremos en los correos. El hecho de clicar a un enl
+ace nos puede dirigir a una web maliciosa o descargar el ransomware en nuestro equipo.Acceso remoto 
+a los equiposMediante el acceso remoto se pueden infectar equipos y lo más grave se puede conseguir 
+que el ransomware se extienda por los ordenadores de toda una red local.El acceso remoto a los equip
+os se puede conseguir aprovechando vulnerabilidades en servicios como por ejemplo Telnet, SSH, Samba
+, etc.A través de webs maliciosasPueden existir webs, que consciente o inconscientemente, estén infe
+ctando con ransomware a sus visitantes.Da igual que la web que visitamos sea muy conocida y/o tenga 
+muchas visitas. Cualquier web que haya sido comprometida por un ciberdelincuente y sea capaz de ejec
+utar código en nuestro equipo es susceptible de infectarnos.Aplicando Ingeniería socialLos ciberdeli
+ncuentes harán uso de la ingeniera social en todo momento para intentar infectarnos con ransomware.L
+os ataques más comunes de ingeniería social consisten en:Hacer creer que el usuario ha recibido un c
+orreo electrónico de una entidad conocida y de este modo infectarlo cuando abra el archivo de correo
+ adjunto.Hacer que la víctima se dirija a una web falsa que simula ser una web conocida y de este mo
+do infectarla con ransomware.Llamar a la víctima vía telefónica, ganarse su confianza y manipularla 
+hasta conseguir infectar su equipo o la red local entera con malware.Etc.Mediante software pirataExi
+sten cibercriminales que crean aplicaciones piratas de aplicaciones conocidas por todo el mundo. En 
+el momento que una víctima intente instalar la aplicación pirata será infectada con un ransomware.Vu
+lnerabilidades del software y de plugins que usamosLos ciberdelincuentes también pueden aprovechar v
+ulnerabilidades y agujeros de seguridad de nuestros programas, plugins y sistema operativo para infe
+ctarnos con un ransomware.SOLUCIONES PARA PROTEGERNOS CONTRA LOS ATAQUES DE RANSOMWAREProtegerse al 
+100% sobre este tipo de amenazas es imposible. No obstante, existen herramientas y buenas prácticas 
+que podemos usar y aplicar. Algunos ejemplos son los siguientes:Actualizar nuestro softwareActualiza
+r de forma periódica la totalidad de software de nuestro equipo. Por lo tanto, es extremadamente imp
+ortante actualizar el siguiente software:El sistema operativo.El antivirus o protección anti-malware
+ que usemos.Los navegadores conjuntamente con los plugins o extensiones de los navegadores.La totali
+dad de nuestros programas.Etc.Extremar las precauciones con el correo electrónicoEl correo electróni
+co es una fuente usada frecuentemente para los ataques de malware. Por lo tanto, hay que extremar la
+s precauciones cuando abramos los correos electrónicos. Antes de abrir un correo electrónico hay que
+ intentar cerciorarse de los siguientes aspectos:Que el remitente del correo sea quien dice ser y lo
+ conozcamos.Solo tenemos que clicar sobre enlaces que sean de confianza.No hay que abrir archivos ad
+juntos a no ser que sean archivos que estuviéramos esperando recibir.En caso de duda podemos llamar 
+a quien supuestamente nos envía el correo para asegurar que el correo es seguro.Software y herramien
+tas para protegernos o prevenir los ataques de ransomwareExisten varias herramientas y software para
+ protegernos contra el ransomware. Algunos softwares antivirus que podemos usar son los siguientes:D
+iversos antivirus, como por ejemplo el antivirus Windows Defender, disponen de protección contra est
+e tipo de ataques. A pesar que los antivirus son una herramienta efectiva siempre deben ser la últim
+a barrera a usar contra este tipo de amenazas.Si no os gusta usar el antivirus de Windows 10 hay otr
+as opciones. Algunas de ellas pago como por ejemplo Kaspersky anti-ransomware. Otras son gratuitas c
+omo por ejemplo Avast, CryptoPrevent, Malwarebytes Anti-ransomware, Bitdefender anti-ransomware, Ant
+i Ransom, etc.Hay que concienciarse que el uso de estas herramientas no es infalible. Nunca debéis t
+ener sensación de seguridad por usar este tipo de herramientas. Los antivirus siempre son la última 
+barrera de defensa contra los ransomware.Otras herramientas y buenas prácticas a usar antes que los 
+antivirus son, EMET (Enhanced mitigation Experience Toolkit), Applocker, implementar Honeypots, UAC 
+(User account control), establecer políticas de grupo, concienciación y formación de los usuarios, e
+tc.Extremar las precauciones cuando navegamos por Internet y usamos el ordenadorCuando navegamos hay
+ que usar el sentido común y no clicar en anuncios ni realizar ningún tipo de acción que pueda poner
+ en peligro nuestro equipo y nuestra información. Por lo tanto, cuando navegamos hay que intentar no
+ caer en los ataques de ingeniería social diseñados por los atacantes.El hecho que no visitéis págin
+as web de adultos, sitios de descarga y otras webs sospechosas no disminuirá el riesgo de infección.
+ Como hemos visto y dicho anteriormente, cualquier web es susceptible de infectar a un lector.Instal
+ar software original de sitios seguroTanto en dispositivos móviles como en ordenadores hay que insta
+lar software original comprado en sitios de confianza. Esto es así por los siguientes motivos:Existe
+ software malicioso que se hace pasar por otro.Existen aplicaciones y programas que traen malware in
+corporado.Instalar software pirata siempre entraña riesgos de seguridad.Aunque el software no sea pi
+rata y lo instalemos de una tienda reconocida no hay que confiarse. Existen casos conocidos de aplic
+aciones que contenían ransomware y han estado publicadas en la PlayStore de Google.Instalar únicamen
+te el software y plugins que necesitamosÚnicamente hay que instalar el software y extensiones que us
+amos. Tener instalado software que no usamos incrementa los riesgos de seguridad y perjudica al rend
+imiento de nuestro equipo.Disponer de copias de seguridadLa medida más importante que debemos aplica
+r es realizar copias de seguridad. Es crucial realizar copias de seguridad periódicamente de la tota
+lidad de datos e información que no queramos perder. En mi caso siempre dispongo de 2 copias de segu
+ridad de la información que considero importante:Una de las copias de seguridad la almaceno en la nu
+be. Almacenar la copia en la nube no es la opción más recomendable porque existe la posibilidad que 
+también se nos cifre la copia de seguridad. Por este motivo guardo una segunda copia de seguridad.La
+ segunda copia de seguridad la almaceno en un disco duro extraíble que está aislado de la red local 
+en la que trabajo. Cabe recordar que hay ransomware capaces de cifrar todo el contenido de una red l
+ocal. Por este motivo tengo una copia de seguridad completamente aislada de la red local y de Intern
+et.De esta forma estoy más o menos protegido. En el momento que sea víctima de un ransomware únicame
+nte tendré que formatear el ordenador y restaurar mi copia de seguridad.Periódicamente hay que compr
+obar que la copia de seguridad se pueda restaurar. Existen casos que cuando necesitamos usar la copi
+a de seguridad nos encontramos con la desagradable sorpresa que no podemos restaurarla.Utilizar cuen
+tas de usuario y grupos de usuarios sin privilegios de administrador y contraseñas robustasEs import
+ante que los usuarios y grupos de usuarios no tengan permisos de administrador. Si usamos un usuario
+ con permisos de administrador:Se incrementan las posibilidades de infección.Las consecuencias que p
+uede tener un malware o ransomware son más importantes.Los usuarios únicamente deben tener los permi
+sos mínimos e indispensables para realizar su trabajo. Asimismo, es importante que las contraseñas d
+e las cuentas usuario sean robustas.Formación y concienciaciónMás de la mitad de ataques de ransomwa
+re se producen mediante ataques de ingeniería social. Por lo tanto, la formación y conocimientos de 
+seguridad de las personas que utilizan el ordenador en una red local es vital para minimizar los rie
+sgos de infección.¿QUE HACER EN EL CASO QUE SEAMOS VÍCTIMAS DE UN ATAQUE DE RANSOMWARE?En caso que s
+eamos víctimas de un ataque de ransomware deberemos plantearnos realizar las siguientes acciones:Apl
+icar el plan de respuesta contra incidentesEn el momento que nos enteramos de una infección por rans
+omware debemos aplicar las medidas necesarias para evitar el que el ransomware se propague dentro de
+ nuestra red local.Toda empresa con cara y ojos debe tener un protocolo de actuación en caso de ser 
+atacados por un malware.Denunciar que hemos sido víctimas de un ataque de ransomwareA día de hoy es 
+recomendable que empresas y particulares denuncien que han sido víctimas de un ataque de ransomware.
+ Cuantas más denuncias existan sobre este tipo de problema, más recursos van a emplearse para intent
+ar solucionar el problema.Cuando en 2018 entre en vigor la nueva ley de protección de datos, entonce
+s las empresas que reciban un ataque de este tipo estarán obligadas a denunciarlo. En caso contrario
+ no estarán cumpliendo la ley.Aunque denunciemos los hechos, podemos afirmar que en el 99% de los ca
+sos no se van a recuperar nuestros datos ni tampoco van a detener a los ciberdelincuentes que se luc
+ran con el malware.Nota: Antes de realizar la denuncia hay que obtener evidencias que hemos sido víc
+timas de un ataque de ransomware.Desinfectar los equipos y restaurar la copia de seguridadUna vez co
+ntenido el ataque llega el momento de desinfectar los equipos y restaurar la copia de seguridad.Lo m
+ás recomendable para desinfectar los equipos es formatearlos y realizar de nuevo la instalación del 
+sistema operativo y todos los programas. Una vez reinstalado el sistema operativo y programas hay qu
+e restaurar la copia de seguridad.Pagar o no pagar a los atacantesEn principio no hay que caer en el
+ chantaje. Lo recomendable es no pagar a los ciberdelincuentes para obtener la clave de descifrado. 
+Los motivos son los siguientes:En ocasiones pagaremos y no podremos descifrar la información. Además
+, perderemos nuestro dinero porque al pagar con Bitcon nunca podremos llegar a rastrear quien recibe
+ el dinero.En el momento que pagamos estamos dando aliento a los cibercriminales. Si caemos en el ch
+antaje, lo único que haremos es fomentar a que los cibercriminales ataquen a más gente.Existen ocasi
+ones en que al pagar podemos recuperar la información. No obstante, existe la posibilidad que el sof
+tware de descifrado nos introduzca otro malware que se activará en un periodo determinado. De esta f
+orma el atacante podrá seguir extorsionando a la víctima.A pesar de todo lo detallado, el pagar o no
+ pagar es un punto muy delicado. Existen casos en que la información secuestrada es vital. Por lo ta
+nto, pueden existir casos en que la mejor opción sea ceder y realizar el pago para intentar recupera
+r la información.Nota: Queda muy bonito decir que nunca hay que pagar. Pero habrá casos particulares
+ en que no habrá más remedio.¿Qué hacemos si no tenemos copia de seguridad?Si no tenemos copias de s
+eguridad nos tendremos que plantear 2 opciones:Realizar una copia de seguridad de los archivos cifra
+dos y esperar que salga una herramienta de descifrado fiable para intentar recuperar la información.
+Plantearnos realizar el pago para recuperar la información.AMPLIACIÓN DE LA INFORMACIÓN SOBRE EL RAN
+SOMWARESi precisan información adicional sobre el ransomware pueden consultar los siguientes enlaces
+:https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/2091-ccn-cert-bp-04-16-rware-1/file
+.html https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_rware_metad.pdf
+
+4AC5DDE2
+
+
+Este nuevo ransomware encripta tu PC usando máquinas virtuales https://redeszone.net/noticias/segur
+idad/maze-ransomware-encripta-maquinas-virtuales-evadir-seguridad/…

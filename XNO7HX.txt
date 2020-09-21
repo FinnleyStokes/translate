@@ -1,0 +1,347 @@
+Mehr als 80% aller Cybersicherheitsvorfälle entstehen durch menschliche Fehler. Ob #Phishing-E-Mails
+, #Ransomware-Angriffe oder schädliche Links - viele Angriffstechniken zielen auf die Endgeräte von 
+Mitarbeitern ab. Kaspersky schafft hier Abhilfe: https://kas.pr/sec-awareness #ITSec
+
+/ ~ 4AC5DDE2 ~
+ /
+
+Alle 40 Sekunden wird ein Unternehmen von #Ransomware angegriffen. Unser kostenloses Tool hilft 
+Unternehmen jeder Größe bei der Verteidigung: https://kas.pr/9bff #Kaspersky #ITSicherheit #ITSec
+
+/
+ ~ 4AC5DDE2 ~ /
+
+Uniklinik Düsseldorf nach #Ransomware-Angriff weitgehend lahmgelegt https://winfutu
+re.de/news,118238.html… (via @WinFuture)
+
+/ ~ 4AC5DDE2 ~ /
+
+
+		Seit vergangener Woche gibt es an der
+ Düsseldorfer Uniklinik einen mas­siven Ausfall der IT. Dieser hat zur Folge, dass das Krankenhaus, 
+das rund 1200 Betten hat, seit Tagen nur in einem Minimalbetrieb läuft. Auch heute ist noch immer ke
+in Normalbetrieb möglich, im Gegenteil.Wie der WDR berichtet, ist auch am heutigen Montag in der
+ Düsseldorfer Uniklinik noch keine Notfallversorgung möglich, das bedeutet konkret, dass Krankenwage
+n das Kran­ken­haus immer noch nicht anfahren dürfen. Auch geplante Operationen können derzeit nicht
+ durchgeführt und müssen verschoben werden.Verantwortlich dafür ist ein weitreichender IT-Ausfall.
+ Was diesen ausgelöst hat, ist aber offiziell nicht bekannt. Es verdichten sich aber die Hinweise, d
+ass hier ein Verbrechen vor­liegt. Denn laut dem Express soll eine Ransomware zum Einsatz gekommen s
+ein, es wird hier von einem "aggressiven Cryptovirus" gesprochen.Windows 10: So nutzt man den Rans
+omware- und Exploit-Schutz 100 Bitcoins als Lösegeld gefordertÜberdies sollen auch massenhaft Pat
+ientendaten gestohlen worden sein, auch diese wurden für erpresserische Zwecke entwendet und sollen 
+veröffentlicht werden, wenn die geforderte Summe nicht gezahlt wird. Laut dem Medienbericht ging auc
+h bereits ein entsprechendes Schreiben ein, der oder die Erpresser verlangen Lösegeld in Höhe von 10
+0 Bitcoins, das sind umgerechnet rund 870.000 Euro.Begonnen hat der mutmaßliche Ransomware- bzw. 
+Hacker-Angriff am vergangenen Don­ners­tag. Bisher konnte lediglich die Telefonanlage wiederherstell
+t werden, viele andere Be­stand­teile der IT-Infrastruktur dürften nach wie vor betroffen sein. Deta
+ils liegen dazu aber nicht vor, es gibt auch keine Aussagen oder Schät­zungen, wie lange das dauern 
+könnte.Obwohl Krankenhäuser zur kritischen Infrastruktur gezählt werden, kommen Ransomware-Angriff
+e auf diese immer wieder vor. Im vergangenen Winter gab es eine solche Attacke auf die Uniklinik Gie
+ßen, die Folgen konnten erst nach vier Monaten restlos beseitigt werden.Download Kaspersky Anti-Ra
+nsomware-Tool23 Kommentare lesen & antworten Jede Woche neu: Top-News per E-Mail 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+#HereWeGo
+
+/ ~ 4AC5DDE2 ~ /
+
+Dringende Warnung vor Hintertüren in #Citrix-Systemen
+
+VPN-Gateways, d
+ie..Elektronischen Amtsverkehr, Ministerien, Supermarkketten usw. schützen, ist mit Schadsoftware ve
+rseucht. #Ransomware-Erpresser greifen nun ein Netz nach dem anderen an. 1/x
+#Shitrix
+
+/ ~ 4AC5DDE2 
+~ /
+
+
+Der Cyber-Angriff auf die Universitätsklinik Düsseldorf erfolgte wohl über einen Citrix-VPN-Se
+rver, über den typischerweise externe Mitarbeiter Zugriff auf das Firmennetz bekommen sollen. Eine i
+m Dezember bekannt gewordene Sicherheitslücke erlaubte es auch Kriminellen, sich auf diesem Weg Zugr
+iff zu verschaffen. Das lässt sich unter anderem einer Presseerklärung des in die Aufräumarbeiten ei
+nbezogenen Bundesamts für Sicherheit in der Informationstechnik (BSI) entnehmen.
+
+
+
+Dieser Vorfall r
+eiht sich nahtlos in die immer weiter eskalierende Gefahren-Situation ein, die der Artikel Cybercrim
+e: Erpressung auf neuem Niveau beschreibt. Organisierte kriminelle Banden attackieren auf hohem tech
+nischen Niveau Firmen, Organisationen und eben auch Krankenhäuser, die auf diese Art von Bedrohung n
+ur unzureichend vorbereitet sind. Unter Umständen ist es jetzt erstmals im Zusammenhang mit einer so
+lchen Erpressung zu einem Todesfall gekommen.
+Die Nachwehen von Shitrix
+Eingestiegen ins Netz des Kl
+inikums sind die Angreifer offenbar über eine Sicherheitslücke in der Citrix-VPN-Software, die unter
+ dem Namen "Shitrix" bekannt wurde (CVE-2019-19781). Das Besondere an dieser Lücke ist, dass es eben
+ nicht genügte, die im Januar vom Hersteller bereitgestellten Patches einzuspielen. Denn offenbar wu
+rden viele Systeme bereits zuvor kompromittiert und mit einer Backdoor versehen, wie unter anderem d
+as BSI wiederholt warnte. 
+
+Diese unbemerkten Hintertürzugänge haben die Kriminellen dann in den fol
+genden Monaten der Reihe nach "abgearbeitet". Wer sein System zwar gepatcht, aber eine bereits zuvor
+ installierte Hintertür übersehen hat, bekam früher oder später ungebetenen Besuch. Der breitete sic
+h dann systematisch weiter im Netz aus, um dann irgendwann wichtige Daten zu verschlüsseln und für d
+eren Freigabe Lösegeld zu fordern. Genau das ist offenbar in Düsseldorf passiert, deren Server zwar 
+gepatcht, aber zuvor schon von Kriminellen mit einer Hintertür versehen waren.
+
+
+Wer steckt dahinter
+?
+
+Hinter diesen infamen Angriffen stecken gut organisierte, international operierende Cybercrime-Ba
+nden. Unter anderem REvil (Sodinokibi), Ragnarok, DoppelPaymer und Maze sind bekannt dafür, die Shit
+rix-Lücke gezielt auszunutzen, um einen Fuß in die Tür zu bekommen. Welche dieser Banden in Düsseldo
+rf aktiv war, ist bislang nicht bekannt; mit etwas Glück lassen die Ergebnisse der forensischen Unte
+rsuchungen eine konkretere Zuordnung zu.
+Das zu Beginn der Corona-Pandemie unter anderem von der Cyb
+ercrime-Gang Maze großspurig verkündete Moratorium der Angriffe auf medizinische Einrichtungen war i
+m Übrigen nie mehr als ein billiger PR-Gag, mit dem sich Kriminelle ein Robin-Hood-Image geben wollt
+en. Im Gegenteil nutzen Cyber-Kriminelle die Gunst der Stunde aktiv aus. So warnte Interpol schon ba
+ld danach vor einem signifikanten Anstieg der Cyber-Angriffe auf medizinische Einrichtungen; die WHO
+ berichtete im April, dass sich deren Zahl  sogar verfünffacht habe.
+
+
+(ju)
+
+
+
+
+
+
+comments_outline_w
+hite
+
+
+
+    
+      Kommentare lesen
+      (204)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 
+4AC5DDE2 ~ /
+
+2016 wurde das #Lukaskrankenhaus in #Neuss Opfer einer #Ransomware-Attacke. #IT abgesc
+haltet. Klinik zurück im Papierzeitalter. Keine Notfallversorgung mehr. Verschobene Operationen und 
+und und. Zwei Jahre später haben @OliverGnther und ich den Fall nachrecherchiert. 1/6
+
+/ ~ 4AC5DDE2 
+~ /
+
+Die waren Monate mit einer Backdoor im internen Nutzung haben danach diese genutzt, um Ransomwa
+re nachzuladen.
+
+Wo ist dein Problem?
+Kennste so Fälle nicht?
+Wir schon 
+
+/ ~ 4AC5DDE2 ~ /
+
+Hab heut
+e morgen eine merkwürdige „Wir müssen Ihre Adresse verifizieren“ Nachricht in meinem Postfach. Anson
+sten müßte ich 49,99 Euro zahlen. Angeblich von @DHLPaket.  Meine Einschätzung: ziemlich gut gemacht
+, aber Finger weg! #Ransomware #Spam #Cybercrime #Phishing
+
+/ ~ 4AC5DDE2 ~ /
+
+#KRITIS Sektor #Gesund
+heit
+
+"Stand des Ermittlungsverfahrens zum Cyberangriff auf die #Uniklinik #Düsseldorf" vom Justizmi
+nisterium NRW vom 17.9.2020
+
+#Ransomware Angriff auf #UKD. Ermittlung wegen fahrlässiger Tötung über
+nimmt Staatsanwaltschaft Wuppertal
+https://landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV17
+-3855.pdf…
+
+/ ~ 4AC5DDE2 ~ /
+
+In Fall Neuss ist 2016 (soweit wir wissen) keiner gestorben. Aber jetz
+t, rund 4 J später (und nur 10 km wiet von Neuss entfernt) gibt es an der #Uniklinik #Düsseldorf den
+ Verdacht, dass eine #Ransomware-Attacke für den Tod einer Patientin mitverantwortlich sein könnte. 
+5/6
+
+/ ~ 4AC5DDE2 ~ /
+
+Wenn der Angreifer Wochen im Netz war ... da kennt sich aber jemand mit Ranso
+mware aus.
+Nicht 
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware-Erpressungen gehen von Nordkorea aus? Dann wäre es a
+lso ein Verstoß gegen Finanzsanktionen, das Lösegeld zu bezahlen?
+
+/ ~ 4AC5DDE2 ~ /
+
+Die ProgrammePl
+anspiele von Kaspersky Interactive Protection Simulation (KIPS)Speziell entwickelte Software simulie
+rt die Auswirkungen eines Cyberangriffs und der zugehÃ¶rigen Managemententscheidungen auf das GeschÃ
+¤ft und den UmsatzPlanspiel fÃ¶rdert VerstÃ¤ndnis von MaÃnahmen zur CybersicherheitFÃ¶rdert bei der
+ GeschÃ¤ftsfÃ¼hrung und bei EntscheidungstrÃ¤gern ein besseres VerstÃ¤ndnis fÃ¼r die SicherheitSteig
+ert das Bewusstsein fÃ¼r die Risiken und Sicherheitsprobleme moderner ComputersystemeAutomated Secur
+ity Awareness PlatformBei der Kaspersky Automated Security Awareness Platform handelt es sich um ein
+e innovative SchulungslÃ¶sung, welche die neuesten Lerntechnologien mit der Ã¼ber 20-jÃ¤hrigen Erfah
+rung von Kaspersky Lab im Bereich Cybersicherheit kombiniert.Â FÃ¶rdert ein mÃ¶glichst hohes Sicherh
+eitsbewusstsein der Mitarbeiter und etabliert neue Verhaltensmuster im Hinblick auf CybersicherheitK
+ompetenzmodell mit 350 FÃ¤higkeiten im Bereich CybersicherheitCybersecurity fÃ¼r IT Online (CITO-Sch
+ulung)Interaktives Training fÃ¼r IT-Generalisten (IT-Support, Service Desks usw.), bei denen Standar
+d-Awareness-Programme nicht ausreichen, aber fundiertes Sicherheitswissen nicht erforderlich ist.Ver
+mittelt praktische FÃ¤higkeiten, die fÃ¼r das Erkennen eines mÃ¶glichen Angriffs bei einem vermeintl
+ich gutartigen PC-Vorfall und fÃ¼r das Sammeln von Vorfallsdaten zur Ãbergabe an die IT-Sicherheits
+abteilung unerlÃ¤sslich sind.Jedes der 5 Module besteht aus einem kurzen Theorieteil, praktischen Ti
+pps und einer Reihe von praktischen Ãbungen zu spezifischen Kompetenzen des alltÃ¤glichen Arbeitsle
+bens
+
+/ ~ 4AC5DDE2 ~ /
+
+
+    TechCrunch ist Teil von Verizon Media. Wir und unsere Partner nutzen Co
+okies und ähnliche Technik, um Daten auf Ihrem Gerät zu speichern und/oder darauf zuzugreifen, für f
+olgende Zwecke: um personalisierte Werbung und Inhalte zu zeigen, zur Messung von Anzeigen und Inhal
+ten, um mehr über die Zielgruppe zu erfahren sowie für die Entwicklung von Produkten.
+
+Personenbezog
+ene Daten, die ggf. verwendet werden
+
+Daten über Ihr Gerät und Ihre Internetverbindung, darunter Ihr
+e IP-Adresse
+Such- und Browsingaktivität bei Ihrer Nutzung der Websites und Apps von Verizon Media
+ 
+Genauer Standort
+
+
+    Für nähere Informationen zur Nutzung Ihrer Daten lesen Sie bitte unsere Daten
+schutzerklärung und Cookie-Richtlinie.
+
+    Damit Verizon Media und unsere Partner Ihre personenbezo
+genen Daten verarbeiten können, wählen Sie bitte 'Ich stimme zu.' aus oder wählen Sie 'Einstellungen
+ verwalten', um weitere Informationen zu erhalten und eine Auswahl zu treffen. Dazu gehört der Wider
+spruch gegen die Verarbeitung Ihrer Daten durch Partner für deren berechtigte Interessen. Sie können
+ Ihre Einstellungen jederzeit ändern. Dies geschieht in Ihren Datenschutzeinstellungen.
+
+
+
+/ ~ 4AC5D
+DE2 ~ /
+
+
+Dringende Warnung vor Hintertüren in Citrix-Systemen
+Ein unbekannte Zahl dieser VPN-Gatewa
+ys, die in Österreich wichtige Netze wie den Elektronischen Amtsverkehr, Ministerien, Supermarkkette
+n usw. schützen, ist mit Schadsoftware verseucht. Ransomware-Erpresser greifen nun ein Netz nach dem
+ anderen an.
+
+Auf Facebook teilen
+Auf Twitter teilen
+
+
+Von Erich MoechelNach der gewaltigen Sicherhe
+itslücke in Citrix-Einwahlsystemen („Shitrix“) zu Jahresbeginn kommen nun die Folgen an den Tag. Die
+ deutschen Sicherheitsberater HiSolutions haben aktuell eine Reihe von Verschlüsselungsangriffen ent
+deckt, die über damals installierte Hintertüren geführt wurden. Betroffen sind große Firmen- und Beh
+ördennetze, die wie der elektronische Aktenverkehr der Republik (ELAK) über die Jahreswende wochenla
+ng offengestanden waren.Diese „VPN-Gateways“ wurden fast alle viel zu spät durch Software-Updates ge
+sichert, gegen davor installierte Hintertüren hilft das aber nicht. Nur völlig neu aufgesetzte Syste
+me gelten als gesichert. Beim aktuellen Erpressungsangriff auf das Klinikum Düsseldorf, der einen To
+desfall zur Folge hatte, waren die Angreifer über den Citrix-Gateway eingedrungen. (Mehr dazu weiter
+ unten). Es ist davon auszugehen, dass auch hierzulande eine unbekannte Zahl an  Hintertüren in den 
+hunderten Citrix-Gateways großer Netze existieren.publicDiese ist eines der frühesten aufgefundenen 
+Beispiele für Cron-Jobs, die illegal auf Citrix-Maschinen eingerichtet wurden. Cron-Jobs sind vorpro
+grammierte Routinen etwa zur Kontaktaufnahme mit einem bestimmten Server irgendwo im Netz. Dieser Sc
+reenshot wurde am selben Tag (von einem anderen Citrix-System) aufgenommen, als das ELAK abgeschalte
+t wurde. Die AG Krіtis, ein Nonprofit-Zusammenschluss deutscher Sicherheitsexperten, hatte bereits A
+nfang Jänner vor Angriffen auf die kritische Infrastruktur gewarntDringende Empfehlungen an Citrix-A
+dministratorenDer Elektronische Aktenverkehr ELAK ging an einem Montagmorgen vom Netz, um gepatcht z
+u werden, mehr als drei Wochen nach dem Bekanntwerden der Lücke.Laut HiSolutions verweisen die Spure
+n auf ordinäre Verschlüsselungserpresser, die Standard-Schadsoftware einsetzen, sobald sie einmal Zu
+gang haben. Ihre Vorgehensweise ist alles andere als raffiniert, vielmehr werden bekannte Routinen a
+bgearbeitet und Standardschadsoftware benutzt, von Netzerkundung bis hin zur Exfiltration und anschl
+ießenden Verschlüsselung der Daten. In den bekannt gewordenen Fällen hätten sich die Angreifer nicht
+ einmal die Mühe gemacht eine „Proof of Concept“-Software aus dem Frühjahr umzuschreiben.„Proof of C
+oncept“ ist experimentelle Software, die demonstriert, wie eine ganz neu entdeckte Sicherheitslücke 
+angegriffen werden kann. Daraus werden Konzepte zur Abwehr entwickelt, die veröffentlicht werden. Da
+s ist die eine Seite, werden solche Abwehrkonzepte nicht veröffentlicht, sondern es wird daraus ein 
+Produkt zum Angriff entwickelt wird, nennt sich das „Exploit“. „Aufgrund der aktuellen Angriffswelle
+n“ werde „dringend empfohlen, Citrix NetScaler Systeme insbesondere auf mögliche neue Benutzer oder 
+auffällige Netzwerkaktivitäten zu überprüfen“ heißt es von HiSolutions, „ein Blick in den Ordner /va
+r/vpn/bookmark wird in jedem Fall empfohlen, da hier vom Angreifer eingeschleusten XML-Dateien zu fi
+nden sind.“publicEnde Jänner waren weltweit noch immer mehr als 16.000 große Citrix-Installationen ü
+ber die einschlägig spezialisierte Suchmaschine Shodan auffindbar. Die damals prophezeiten Entwicklu
+ngen entsprechen ziemlich genau der aktuellen Warnungen von HiSolutions, die eine Reihe von Empfehlu
+ngen ausgesprochen haben.Ende Jänner war bereits eine große Zahl von untersuchten Citrix-Gateways mi
+t allen möglichen Schadsoftwares unterschiedlicher Qualität verseucht.„Malware as a Service“„Mit gro
+ßer Sicherheit sind diese Angreifer nicht mit jenen identisch, die im Winter diese Hintertüren insta
+lliert haben“, sagte Joe Pichlmayr von der Wiener Sicherheitsfirma Ikarus zu ORF.at. „Denn fertig ei
+ngerichtete Hintertüren, ebenso wie dazu passende Schadsoftware samt Angriffsinstruktionen sind typi
+sche Dienstleistungen, die auf dem schwarzen Markt massenhaft gehandelt werden. Die Internet-Ökonomi
+e ist dort nämlich noch weit radikaler angekommen, als auf den legalen Märkten. Besonders in den let
+zten Jahren ist dieser Markt durch seine rasche Diversifizierung richtiggehend bunt geworden“, so Pi
+chlmayr. Von „Malware as a Service“ über gezielte DDOS-Attacken auf „Websites ihrer Wahl“ bis hin zu
+ Firmengeheimnissen aus der Hochfinanz, die bei einem Angriff erbeutet worden waren, gebe es da alle
+s zu kaufen, was das kriminelle Herz begehre sagt Pichlmayr. Dass bis jetzt „nur“ Kriminelle der Mit
+telklasse beim Ausnützen der Sicherheitslücke beobachtet wurden, sei per se noch keine gute Nachrich
+t.Joe PichlmayrJoe Pichlmayr ist Geschäftsführer der österreichischen Sicherheitsfirma Ikarus, die 1
+993 mit einem eigenen Anti-Virenscanner startete.„Auf diesem bunten Markt, auf dem sogar von den all
+erdümmsten Angreifern noch Geld gemacht wird, sind noch weit potentere Player aktiv.“ Und deren Hint
+ertüren sind weitaus schwerer zu entdecken, denn damit ist die kriminelle Oberklasse gemeint, die et
+wa den Finanzsektor angreift sowie staatliche Akteure. Angriffe über diese Sicherheitslücke gehören 
+zudem seit Monaten zum Standardrepertoire staatlicher Akteure aus China und dem Iran. Die nordkorean
+ische Lazarus-Group verfügt seit Jahren über eine Spezialeinheit, die dem notorisch devisenschwachen
+ Land schon hunderte Millionen Dollar eingebracht hat. Diese als „Bluenoroff“ bekannte Truppe hatte 
+erst reihenweise Bitcoin-Börsen ausgeplündert und sich dann auf Ransomware-Erpressung spezialisiert.
+Was an der Uniklinik Düsseldorf passierteIn der Nacht zum 11.September waren die Informationssysteme
+ der Uni-Klinik Düsseldorf teilweise ausgefallen, vor allem die VPN-Gateways zu den angeschlossenen 
+Laboren funktionierten nicht mehr. „Die Sicherheitslücke befand sich in einer marktüblichen und welt
+weit verbreiteten kommerziellen Zusatzsoftware. Bis zur endgültigen Schließung dieser Lücke durch di
+e Softwarefirma war ein ausreichendes Zeitfenster gegeben, um in die Systeme einzudringen“, hieß es 
+seitens des Universitätsklinikums Düsseldorf dazu. Tatsächlich hatte sich Citrix mit diesem kritisch
+en Software-Update ziemlich viel Zeit gelassen, ein Provisorium wurde allerdings sehr rasch zur Verf
+ügung gestellt. Davon findet sich freilich nichts in der offiziellen Erklärung des Klinikums. Klar i
+st allerdings auch, dass die Systeme danach auch nicht neu aufgesetzt wurden.Wie einst die Botnets, 
+so boomt jetzt die Branche der Verschlüsselungserpresser. Die Schäden durch Produktionsausfälle über
+steigen die verlangten Lösegelder meist um ein Vielfaches.Auch dieser Fall trägt nicht die Handschri
+ft hochprofessioneller Akteure. Die Täter waren nämlich überzeugt, dass sie eine Universität überfal
+len hatten, das hinterlassene Erpresserschreiben richtete sich an die Heinrich-Heine-Universität Düs
+seldorf. Als sie erreicht werden konnten und erfuhren, dass sie hier das größte Notfallkrankenhaus w
+eit und breit erwischt hatten, stellten sie die Schlüssel zur Verfügung und verschwanden. Der Ausfal
+l der VPN-Gateways hatte allerdings fatale Folgen. Da die Klinik keine neuen Fälle mehr annehmen kon
+nte, musste sie großräumig umfahren werden. In Folge starb eine Patientin auf dem Weg in ein entfern
+tes Krankenhaus, die Staatsanwaltschaft ermittelt seitdem.Es gibt wieder einen RSS-Feed für diesen B
+log. Sachdienliche Informationen, Metakritiken et al. sind über dieses Formular verschlüsselt und an
+onym beim Autor einzuwerfen. Wer eine Antwort will, gebe tunlichst eine Kontaktmöglichkeit an.
+
+Publ
+iziert am 20.09.2020
+
+Auf Facebook teilen
+Auf Twitter teilen
+
+Seitenanfang
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Nach
+gedacht - wie bei @KainsRache hier - klingt das viel logischer mit #Backup und Wiederherstellung nac
+h einem #Ransomware Angriff, als diese vielen Blahfasel Vermutungen... 
+
+/ ~ 4AC5DDE2 ~ /
+
+Ich glaub
+e leider nicht, dass es Auswirkungen hat. So lange es keine Konsequenz (Haftung) für den Klinikbetre
+iber hat wenn er die IT vernachlässigt, Daten abhanden kommen oder sich Ransomware einfängt, wird si
+ch wenig tun.

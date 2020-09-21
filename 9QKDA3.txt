@@ -1,0 +1,703 @@
+Che ci insegna il primo decesso per attacco hacker
+A seguito di un attacco ransomware l’ospedale non
+ è in grado di gestire la paziente, che muore…
+
+4AC5DDE2
+
+
+Cronometrava le sue pause pranzo, control
+lava i suoi spostamenti ed è poi arrivato a licenziarla per il suo comportamento -  a dire dell'ammi
+nistratore delegato - "insubordinato nei suoi confronti". Ora l'amministratore, 56 anni, ceo di un'a
+zienda di sistemi tecnologici, è finito ai domiciliari con l'accusa di stalking nei confronti di una
+ sua dipendente per decisione del gip del tribunale di Torino che ha disposto la misura cautelare.
+
+
+Le indagini della polizia sono cominciate a ottobre di un anno fa dopo la denuncia della dipendente 
+che si è rivolta al commissariato Centro per raccontare la sua storia di vittima di stalking azienda
+le. La donna lavorava nell'azienda ormai da un anno e, per colpa del trattamento ricevuto in ufficio
+, era finita addirittura in depressione ed era stata costretta a prendersi un periodo di malattia. E
+sasperata dalla situazione aveva deciso di rivolgersi a un centro antiviolenza e così si era convint
+a a rivolgersi alla polizia.
+
+Il datore di lavoro aveva iniziato a controllarla fin da subito. "Mi c
+hiamava, mi mandava messaggi a tutte le ore del giorno e della notte, weekend compresi - ha racconta
+to la donna alla polizia - se non rispondevo in fretta mi accusava di essere poco disponibile o addi
+rittura infedele". In ufficio il ceo aveva incaricato un altro dipendente di tenerla d'occhio e cont
+rollare ogni suo spostamento. "Io sono il padrone dell'azienda e voi dovete fare quello che dico io"
+, diceva ai suoi dipendenti l'amministratore delegato finito ai domiciliari.
+
+L'uomo, secondo le acc
+use, aveva cercato in tutti i modi di intralciare il lavoro della sua dipendente: voleva screditarla
+ agli occhi dei colleghi, e poco prima che lei si mettesse in malattia l'aveva retrocessa nelle sue 
+mansioni assegnandole un nuovo incarico. Questa situazione aveva causato alla donna un forte stato d
+'ansia con attacchi di panico e insonnia notturna e per questo era stata costretta a prendersi un pe
+riodo di malattia.
+
+Ma in quel periodo di stop, spiegano gli investigatori, l'amministratore non ha 
+smesso di tormentarla: le ha fatto recapitare una lettera di licenziamento per giusta causa per "le 
+insubordinazioni nei suoi confronti", si leggeva nella lettera. Il provvedimento era stato revocato 
+dal socio dell'amministratore delegato che era ignaro della decisione del collega. Ma quando la donn
+a era tornata in ufficio aveva trovato la sua postazione senza pc e la porta dell'ufficio senza mani
+glia.
+
+Di fronte a quell'ennesimo atto vessatorio si era sentita male ed era stato necessario l'inte
+rvento del 118. L'amministratore, però, ha cercato di intralciare i paramedici che volevano soccorre
+rla e in quell'occasione era stato necessario l'intervento di una volante. Mercoledì è stato eseguit
+o il provvedimento del giudice che ha disposto i domiciliari per l'amministratore delegato.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Â© Riproduzione riservata
+19 settembre 2020
+
+
+
+
+
+4AC5DDE2
+
+Guerre di Rete - una newsletter d
+i notizie cybera cura di Carola FredianiN.81 - 20 settembre 2020Oggi si parla di: - ransomware e mor
+ti- social network e moderazione dei contenuti- censura in Bielorussa- riconoscimento facciale e sta
+di - QAnon - e altro———REMINDER PODCASTVi ricordo che questa newsletter ora ha anche una versione (u
+n po’ più ridotta) PODCAST. Questa esce il lunedì e potete iscrivervi, tra le varie piattaforme, su:
+SpreakerApple PodcastsSpotifyGoogle Podcasts———-CYBERCRIMINE E OSPEDALI Morte per ransomware? Il pri
+mo caso di morte indirettamente causata da un ransomware, un “virus del riscatto”, un software malev
+olo che cifra i dati di una rete spesso rendendola inutilizzabile e chiedendo dei soldi per sbloccar
+e tutto. È successo in Germania, dove una donna in condizioni gravi non è stata accettata da un ospe
+dale di Dusseldorf, che era nel mezzo di un attacco ransomware, ed è stata dirottata su una struttur
+a più lontana, facendo perdere un’ora di tempo. La donna è deceduta. Non sappiamo in che condizioni 
+fosse e quanto abbia inciso l’allungamento dei tempi, quanto questo differimento sia stato deciso al
+l’ultimo minuto, quante altre responsabilità si distribuiscano lungo la catena dell’assistenza e del
+l’organizzazione sanitaria. Per questo bisogna trattare la notizia con cautela. In ogni caso le auto
+rità tedesche stanno indagando sugli autori dell’infezione con l’ipotesi di omicidio colposo, confer
+ma la testata Heise. Molti esperti ritengono che questa sia una prima assoluta. Quanto meno la prima
+ volta che una morte indotta dalle conseguenze di un ransomware (con i caveat scritti poco sopra) di
+venti di pubblico dominio. Potrebbe avere molte implicazioni che vedremo dopo. Prima però alcuni det
+tagli sulla notizia (riportata da molte testate tedesche e internazionali).Secondo il ministero dell
+a giustizia della North Rhine-Westphalia, il ransowmare aveva cifrato circa 30 server dell’ospedale 
+e aveva lasciato un messaggio dando indicazioni alla Heinrich Heine University, cui l’ospedale è aff
+iliato, su come contattare gli attaccanti. La polizia di Dusseldorf ha poi comunicato con gli stessi
+ dicendo che il loro attacco aveva bloccato un ospedale e il suo pronto soccorso, non l’università. 
+A quel punto i cybercriminali avrebbero ritirato la domanda di riscatto e avrebbero fornito la chiav
+e per decifrare i server. Può essere dunque che gli attaccanti non volessero colpire l’ospedale ma l
+’università collegata. Oppure che si siano resi conto di stare rischiando troppo, anche legalmente, 
+e abbiano cercato di mostrarsi collaborativi. Secondo testate come Zdnet e ArsTechnica, i cybercrimi
+nali potrebbero aver sfruttato una vulnerabilità di un apparecchio di rete per migliorare le prestaz
+ioni delle applicazioni (application delivery controller) dell’azienda Citrix.Restano però alcune co
+nsiderazioni da fare. Una è l’accertamento di tutte le eventuali responsabilità. Non solo, ovviament
+e, dei cybercriminali che hanno attaccato un ospedale, ma anche dell’ospedale stesso, o di chi dovev
+a gestire i servizi d’emergenza, e infine delle stesse autorità sanitarie della zona. Perché la stru
+ttura non era in grado neanche di accettare un paziente a rischio della vita? Non erano presenti mec
+canismi d’emergenza in caso di default informatico? La chiusura del pronto soccorso era stata annunc
+iata e gestita in modo adeguato?  In ogni caso, è probabile che le autorità tedesche prenderanno que
+sto caso di incidente informatico in modo molto serio. Non è la prima volta che sono attaccati osped
+ali. E nel 2017 il ransomware Wannacry aveva messo in ginocchio il sistema sanitario britannico, por
+tando alla cancellazione di 19mila appuntamenti, a cinque ospedali che dovettero dirottare altrove l
+e ambulanze, all’8 per cento di medici di base che ebbero le attività bloccate e, alla fine, a 92 mi
+lioni di sterline di danni tra spese per rimediare e prestazioni mediche mancate (sono dati del gove
+rno, che riporto nel mio libro #Cybercrime). Ma non furono riferite morti anche indirette per quell’
+infezione. Tornando all’oggi, con l’emergere della pandemia, c’era stato, fra media, ricercatori e a
+lcuni gruppi cybercriminali, una sorta di dibattito, di dialogo a distanza, chiamiamolo così, sull’o
+pportunità di attaccare ospedali. Alcune gang avevano dichiarato che non lo avrebbero fatto. Non sem
+pre e non tutte hanno mantenuto la promessa.  Se aggiungiamo a questa drammatica notizia che arriva 
+dalla Germania il fatto che i ransomware hanno imperversato per tutta l’estate colpendo grandi azien
+de, e chiedendo milioni di euro di riscatto (in qualche caso, pare, pagato) possiamo immaginare che 
+d’ora in poi il fenomeno salirà nelle priorità di investigatori e autorità. Aspettiamoci indagini e 
+arresti. Nel mentre, anche molti altri attacchi. Per gli ospedali, infine, questo è l’ultimo campane
+llo d’allarme (il primo, come dicevo, era stato Wannacry) sulla necessità di mettere in sicurezza i 
+propri sistemi così come le procedure d’emergenza e di backup nel caso quei sistemi comunque fallisc
+ano. In tempi di pandemia, l’ultima cosa che possiamo accettare è un default informatico e organizza
+tivo in ospedale. Forse un po’ di soldi andrebbero messi anche lì.Vedi anche: RepubblicaFACEBOOK La 
+manipolazione della piattaforma e la capacità (o volontà) di fermarla: parla ex-dipendente “Ho perso
+nalmente preso decisioni che hanno avuto effetto su presidenti nazionali senza che ci fosse alcun co
+ntrollo [su di me], e ho preso decisioni contro tanti di quei politici di primo piano a livello glob
+ale che ho perso il conto”. “Ho preso innumerevoli decisioni di questa natura [ovvero decidere se ag
+ire o meno di fronte ad attività inautentiche sui social di una parte politica, ndr] - dall’Iraq all
+’Indonesia, dall’Italia al Salvador”.Così scrive in una lunga nota un’ex-dipendente di Facebook, la 
+data scientist Sophie Zhang, che lavorava nel Facebook Site Integrity fake engagement team, spiegand
+o come per anni si sia trovata a prendere decisioni sulla manipolazione politica fatta attraverso il
+ social network in diversi Paesi del mondo. Un memo ottenuto da BuzzFeed News, che ne ha pubblicato 
+una sintesi. In tale documento, scrive la testata, ci sarebbero “esempi concreti di come capi di gov
+erno e partiti politici in Azerbaigian e Honduras abbiano usato profili finti o si siano fatti passa
+re per qualcosa di diverso al fine di influenzare l’opinione pubblica. In Paesi come India, Ucraina,
+ Brasile, Bolivia e Ecuador, [Zhang] avrebbe trovato le prove di campagne coordinate di varia entità
+ per spingere o sminuire candidati politici e risultati”. Tra gli esempi raccontati c’è l’Azerbaigia
+n e come il partito al governo abbia usato migliaia di profili inautentici per molestare l’opposizio
+ne in massa. “Facebook - scrive Buzzfeed News - avrebbe iniziato a valutare la questione un anno dop
+o la segnalazione di Zhang”.  Sempre Zhang e i suoi colleghi avrebbero rimossi oltre 10 milioni di r
+eazioni e fan falsi su profili di politici di primo piano in Brasile e nelle elezioni 2018 negli Usa
+. In Ucraina avrebbero trovato attività inautentica a supporto degli ex primi ministri Tymoshenko e 
+Groysman. In Spagna avrebbero individuato una campagna di manipolazione in atto sulla pagina Faceboo
+k del ministero della Salute durante la pandemia di Covid-19, e avrebbero rimosso 672mila profili fa
+lsi che agivano in modo simile a livello globale. Per alcuni osservatori (ad esempio il giornalista 
+Nathaniel Popper), il memo di Zhang mostrerebbe la lentezza e la scarsa proattività di Facebook nell
+’agire contro manipolazioni e disinformazione, specie quando riguarda Paesi periferici rispetto a St
+ati Uniti ed Europa. Altri osservano che al di là degli annunci fatti da Facebook su campagne disinf
+ormative/inautentiche che sono state individuate e fermate, non ci sarebbe un modo per capire quanto
+ a Menlo Park abbiano cognizione e presa su ciò che effettivamente accade sulla loro piattaforma a l
+ivello globale.“Ci sono tre questioni evidenziate da questa storia”, twitta David Kaye, ex rapporteu
+r ONU sulla libertà di espressione. “La prima è ben nota e cioè: attori malevoli sfruttano globalmen
+te quello che la piattaforma gli offre per manipolare il pubblico. La seconda è un problema ricorren
+te: il fallimento nell’affrontare serie manipolazioni in quello che alcuni considerano la “periferia
+”; e dato che la base utenti della piattaforma è soprattutto fuori dagli Usa, questo è irragionevole
+. E la terza, connessa alla seconda: la sensazione notata spesso che Facebook operi in risposta a pr
+essione pubblica e cattive pr. Davvero, perché Sophie Zhang agiva da sola, senza sostegno, per affro
+ntare questi problemi?”. La risposta di Facebook ha insistito sul fatto che la piattaforma avrebbe r
+imosso molte campagne di abusi. “Abbiamo messo in piedi team specializzati che lavorano con i miglio
+ri esperti per impedire ad attori malevoli di abusare dei nostri sistemi. Tutto ciò ha prodotto la r
+imozione di più di 100 networks per comportamento coordinato inautentico”.(PS: Ma quel riferimento a
+ll’Italia che è passato ignorato?)Odio etnico, incitamento all’odio e Facebook: il caso Etiopia Ma i
+ problemi di Facebook nel gestire una piattaforma globale riemergono in un altro articolo, questa vo
+lta di Vice, che racconta di come alcuni gravi episodi di violenza etnica in Etiopia - e in particol
+are l’assassinio del cantante Hachalu Hundessa - siano stati esacerbati dall’incitamento all’odio di
+ffuso sul social. A nulla, anzi controproducente l’idea del governo locale di staccare internet per 
+qualche giorno durante le violenze. “C’erano ore di video che venivano dalla comunità della diaspora
+, contenuti estremisti, che dicevano che si doveva sterminare questo gruppo etnico”, spiega a Vice i
+l professore della Hamline University Endalk Chala. “Questo è un dato che ci dice che Facebook non s
+ta facendo abbastanza per proteggere le minoranze etniche”. Il social ha aperto il suo primo centro 
+per la moderazione dei contenuti per tutta l’Africa l’anno scorso, promettendo di impiegare 100 pers
+one attraverso una società esterna, Samasource. Ma non è chiaro quanti siano effettivamente al lavor
+o oggi e quanti dedicati all’Etiopia.  Alcuni gruppi per i diritti umani hanno scritto a Facebook lo
+ scorso mese preoccupati che la piattaforma possa ripetere gli errori fatti in Myanmar 4 anni fa, qu
+ando i discorsi d’odio diffusi attraverso il social contro la minoranza musulmana dei Rohingya favor
+irono la violenza reale contro quel gruppo (una debacle riconosciuta in qualche modo anche dalla ste
+ssa Facebook).Come rimuovere contenuti in modo trasparente E tuttavia per capire la complessità dell
+e questioni in gioco, segnalo anche un concomitante rapporto di Human Rights Watch. L’organizzazione
+ per i diritti umani è preoccupata che proprio la crescente richiesta rivolta alle piattaforme di el
+iminare contenuti d’odio, violenti eccetera, seppure dovuta e anzi necessaria, faccia sparire nel nu
+lla materiali che potrebbero essere utilizzati per indagare dei crimini. Per cui se è giusto e dover
+oso che queste piattaforme rimuovano certi contenuti, dovrebbero anche assicurare un modo per archiv
+iare i materiali tolti, in modo da permettere di perseguire i responsabili di violenze. Dunque nel r
+eport “‘Video Unavailable’: Social Media Platforms Remove Evidence of War Crimes, Human Rights Watch
+ chiede a piattaforme come Facebook, Google (YouTube), Twitter e altri stakeholder di elaborare un m
+eccanismo indipendente per preservare potenziali prove di crimini. Tali materiali dovrebbero restare
+ disponibili per indagini nazionali o internazionali, ma anche per i ricercatori di associazioni uma
+nitarie, giornalisti e accademici. La proposta si colloca nella più ampia richiesta fatta alle piatt
+aforme di migliorare la loro trasparenza e la loro accountability sui contenuti rimossi.Gli attivist
+i (pagati) pro-Trump Tornando al tema della manipolazione delle piattaforme, dagli Stati Uniti arriv
+a una storia di presunti attivisti online di Trump che erano invece pagati. Una serie di messaggi ch
+e nei mesi scorsi sembravano provenire da giovani dell’Arizona, convinti sostenitori del presidente,
+ erano in realtà frutto di una segreta campagna di marketing, scrive il WashPost. Si tratta di astro
+turfing: quando campagne politiche sono camuffate da spontanei movimenti dal basso ma in realtà veng
+ono organizzate e gestite da una sola organizzazione/persona. Dei ragazzi, alcuni minorenni, sono du
+nque pagati per pompare messaggi indicati da Turning Point Action, entità legata a Turning Point USA
+, gruppo di giovani conservatori nato a Phoenix. In pratica questi utenti sono remunerati per spinge
+re messaggi pro-Trump dai propri account personali, senza però rivelare la loro relazione con Turnin
+g Point Action. Non solo: alcuni di questi messaggi sembrano promuovere vera e propria disinformazio
+ne. Tra i contenuti diffusi infatti ci sono quelli secondo i quali i numeri sul coronavirus sarebber
+o volutamente gonfiati; quelli che cercano di screditare la figura di Anthony Fauci, il dottore in p
+rima linea negli Usa nel contrasto al Covid-19; quelli che sostengono la tesi falsa (ma cara a Trump
+) per cui il voto via posta porterebbe a frodi.  In risposta all’indagine del WashPost, Twitter e Fa
+cebook hanno dunque eliminato una serie di profili.  In pratica, come notano vari osservatori, nel 2
+016 ci si preoccupava tanto dei ragazzi macedoni che per soldi scrivevano articoli falsi sui temi de
+lle elezioni americane; o delle attività social dei russi e dell’IRA (Internet Research Agency), la 
+cosiddetta fabbrica di troll di San Pietroburgo. Ma, in queste elezioni (e forse anche in quelle pre
+cedenti, verrebbe da dire), la fabbrica di troll sembra stare in posti come Phoenix, profonda Americ
+a. E l’entità della disinformazione interna statunitense sembra essere molto più ampia di quella pro
+veniente da oltremare.  Tra l’altro, alle scorse presidenziali, proprio i troll russi dell’IRA avreb
+bero spinto alcuni contenuti del gruppo conservatore americano Turning Point per aiutare Trump, in u
+na sorta di interessante sinergia, hanno dichiarato alcuni esperti alla commissione sull’intelligenc
+e del Senato Usa, scrive The Verge. Invece la disinformazione oggi  “suona come i russi, ma viene da
+gli americani”, ha commentato un ingegnere di Google al Post.  La campagna contro l’odio su Facebook
+/Instagram Intanto una serie di celebrità - come Baron Cohen, Katy Perry, Jennifer Lawrence, Ashton 
+Kutcher, Leonardo Di Caprio e altri - hanno aderito alla campagna #StopHateForProfit, accettando di 
+congelare i propri account Instagram e Facebook per 24 ore per protestare contro il fatto che queste
+ piattaforme non facciano abbastanza rispetto alla diffusione di odio e disinformazione sulle elezio
+ni negli Usa.(Axios)La campagna nasce da alcuni gruppi per i diritti civili americani (come NAACP, A
+nti-Defamation League ecc) che vogliono fare pressione su Facebook per fermare la diffusione di razz
+ismo, odio e disinformazione sul social. Il 14 settembre hanno dunque lanciato una settimana di azio
+ni. La richiesta principale è che la piattaforma prenda misure correttive prima delle elezioni di no
+vembre. A luglio lo stesso gruppo aveva promosso ua campagna per spingere le aziende a togliere le l
+oro inserzioni da Facebook (Elle).Complottismi sugli incendi Intanto, le teorie del complotto sull’o
+rigine degli incendi in Oregon - teorie che senza fondamento attribuiscono la causa ad attivisti dei
+ movimenti Antifa e Black Lives Matter - continuano a diffondersi tramite i gruppi privati di Facebo
+ok anche dopo che il social ha annunciato di voler rimuovere queste affermazioni false. A dirlo è il
+ German Marshall Fund degli US, scrive Axios in esclusiva.La moderazione dentro le aziende (tra i di
+pendenti) Tornando ancora un secondo al tema della moderazione dei contenuti, c’è un sotto-filone po
+co esplorato ma secondo me interessante. Il tema cioè della moderazione dei contenuti internamente a
+lle aziende. Come gestire discussioni o commenti infuocati tra dipendenti su bacheche e altre piatta
+forme e social interni?  Ad esempio, Google ha visto un aumento di post segnalati per razzismo o abu
+so sulle proprie bacheche a causa di quelle che definisce “dure conversazioni globali” (il riferimen
+to è alle tensioni generate dagli scontri razziali negli Usa ma anche dalla pandemia nel mondo) e al
+ fatto che le persone lavorino da casa, scrive CNBC. E ha quindi deciso di espandere i training per 
+insegnare ai dipendenti a gestire conversazioni in modo appropriato e inclusivo. Anche Facebook in q
+uesti giorni ha delineato una serie di nuovi principi per guidare le discussioni interne (ma anche l
+e critiche interne) (CNBC)CENSURAIl blocco politico dei siti in Bielorussia Nelle ultime settimane i
+n Bielorussia sono stati bloccati più di 70 siti web, in concomitanza con le continue proteste antig
+overnative per i controversi risultati delle elezioni di agosto. Sono invece almeno 86 i siti blocca
+ti tra il primo agosto e il 3 settembre. Molti dei siti in questione sono d’informazione e media; mo
+lti altri sono siti di natura politica o legati all’opposizione. Ci sono poi siti sui diritti umani,
+ e piattaforme di comunicazione, inclusi fornitori di email attenti alla privacy come Tutanota e Sta
+rtmail. A scriverlo in un blogpost è l’osservatorio sulla censura internet OONI (Open Observatory of
+ Network Interference). Data la natura dei siti bloccati e al periodo in cui è avvenuto il blocco (p
+oco prima delle elezioni e successivamente con le proteste), questo appare dunque motivato politicam
+ente, osservano i ricercatori. Che confermano come sia stata probabilmente utilizzata una tecnologia
+ di ispezione profonda dei pacchetti (DPI – Deep Packet Inspection). Ne avevamo parlato la scorsa vo
+lta, raccontando come la tecnologia impiegata in Bielorussia per filtrare e bloccare vari siti fosse
+ probabilmente americana, e provenisse cioè dall’azienda Sandvine, passando prima per la Russia (alm
+eno secondo il resoconto di Bloomberg). Bene, ora Sandvine ha fatto sapere di aver cancellato l’acco
+rdo con la Bielorussia, perché il governo avrebbe usato i suoi prodotti per violare i diritti umani 
+e questo determinerebbe “la cessazione automatica del nostro accordo di licenza con l’utente finale”
+. Questo non vuol dire che i suoi apparati smettano di funzionare o non siano più utilizzabili, ma c
+he non verranno più aggiornati né l’utente finale riceverà assistenza, riferisce Bloomberg.  Interes
+santi però i commenti degli attivisti. Che salutano la cessazione del servizio come una vittoria, e 
+tuttavia rilanciano. “Anche se una buona notizia, gli scarsi dettagli rilasciati da Sandvine in risp
+osta a una situazione seria come quella in Bielorussia servono a sottolineare (ancora una volta) la 
+totale assenza di trasparenza nell’industria della sorveglianza”, scrive un’avvocata di Citizen Lab,
+ organizzazione di ricercatori antisorveglianza e anticensura, ricordando come l’azienda americana a
+vrebbe pure una commissione sull’etica aziendale per valutare certe transazioni.  Sulla stessa linea
+ un comunicato dell’associazione per i diritti digitali Access Now, secondo la quale ora l’azienda d
+ovrebbe occuparsi anche delle violazioni passate e dovrebbe prendere delle misure nette per prevenir
+e che quanto accaduto si ripeta in futuro. Per cui più che un board sull’etica si invocano misure di
+ trasparenza e due diligence.C’è per altro un effetto collaterale interessante della repressione. An
+zi, un vero boomerang. Una serie di aziende tech che negli ultimi anni erano sbarcate in Bielorussia
+ o avevano aperto dei centri e team di sviluppo stanno ora pensando di andarsene, racconta il Wall S
+treet Journal. Anche perché le forze di sicurezza in alcuni casi si sono spinte fin negli uffici di 
+queste aziende.  SINGAPORE L’era del salutismo statale di mercato Il governo di Singapore ha stretto
+ una partnership con Apple per promuovere stili di vita salutari e fare prevenzione fra la popolazio
+ne. Insieme hanno sviluppato un’app - LumiHealth - che potrà essere usata in abbinamento all’Apple W
+atch/IPhone. “Oltre a fornire informazioni e consigli per prevenire diverse malattie, l’applicazione
+ contiene una sezione per incentivare l’adozione di abitudini e stili di vita più sani, attraverso i
+l raggiungimento di obiettivi di vario tipo. La scelta degli obiettivi avviene tramite un assistente
+ virtuale ed è presentata come un gioco”, scrive Il Post. Per i più bravi ci sono premi in denaro. “
+È opinione diffusa tra osservatori e analisti che il prossimo grande settore d’interesse per le azie
+nde tecnologiche statunitensi sia quello sanitario”, prosegue Il Post. Che ricorda:“Alphabet, la hol
+ding che controlla Google, ha avviato lo scorso anno l’acquisizione di Fitbit, azienda specializzata
+ nella produzione di tracker per controllare l’attività fisica e le proprie condizioni di salute. Am
+azon ha di recente annunciato un nuovo tracker, dedicato proprio alla salute e che offre informazion
+i per incentivare stili di vita più sani. Secondo gli analisti, entrambe le società sfrutteranno que
+sti prodotti per fornire servizi innovativi legati alle assicurazioni sanitarie negli Stati Uniti, c
+ome la possibilità di pagare premi assicurativi dall’importo variabile a seconda di quanto ognuno si
+a virtuoso nel fare prevenzione e prendersi cura di sé stesso”. Riassumendo: stiamo entrando nell’er
+a del rilevamento pubblico-privato dei nostri stili di vita e delle nostre condizioni sanitarie con 
+una ancora scarsa cognizione di tutte le implicazioni socioeconomiche, di privacy, sicurezza ed etic
+he che ci stanno attendendo al varco. E, per dirla con una battuta, col rischio che il salutismo sta
+tale di mercato copra l’arretramento di serie politiche pubbliche sulla sanità.RICONOSCIMENTO FACCIA
+LE IN ITALIA  Quella voglia di riconoscimento facciale che parte dagli stadi L’organizzazione tedesc
+a Algorithm Watch pubblica un post sui progetti italiani di tecnologie di controllo per gli stadi di
+ calcio. Riassume e commenta l’articolo il suo stesso autore, Fabio Chiusi, in un post su Facebook: 
+“Riconoscimento facciale in tutti gli stadi italiani.Per mesi ho provato a comprendere se il governo
+ e le massime autorità sportive facessero sul serio. E temo proprio di sì.Oggi ne abbiamo una ennesi
+ma conferma, su Repubblica: "La novità più rilevante” di un dossier della Lega Calcio che il quotidi
+ano “ha potuto visionare”, si legge, “è che i tifosi per tornare allo stadio dovranno indossare masc
+herine trasparenti in modo da garantire il riconoscimento facciale da parte delle autorità”. Per ora
+ non se ne parla, perché il Comitato tecnico scientifico è contrario; ma quando gli stadi riaprirann
+o, queste sono le intenzioni. E il progetto viene da lontano. Condiviso dal ministro Spadafora e dai
+ vertici di FIGC e Lega Calcio, prevedeva originariamente di usare il riconoscimento facciale — una 
+tecnologia che sempre più studi scientifici mostrano produrre risultati discriminatori e razzisti — 
+non per garantire la salute pubblica, non solo ai gates per entrare allo stadio (così che i tifosi s
+oggetti a DASPO, per esempio, non potessero accedere), ma per osservare il pubblico sugli spalti, ad
+dirittura ascoltarne le conversazioni (questa era l’ipotesi iniziale) tramite “radar sonori”, e così
+… combattere il razzismo. Esatto: una tecnologia che produce risultati razzisti per combattere il ra
+zzismo” (qui tutto il suo post).USA 2020 Here we go againL’app ufficiale della campagna democratica 
+di Joe Biden, chiamata Vote Joe, aveva un bug di privacy che permetteva a chiunque di accedere a inf
+ormazioni sensibili su milioni di elettori, scrive TechCrunch.CONTACT TRACING Avanti su interoperabi
+lità Prosegue il dialogo sull’interoperabilità fra app di tracciamento contatti fra Paesi europei (I
+talia inclusa) coi primi test e un gateway per lo scambio di dati, riferisce la stessa Commissione U
+e.ASSANGE Udienze contestate e impossibili da seguire Sono riprese le udienze sull’estradizione di J
+ulian Assange, il fondatore di Wikileaks, (vedi scorsa newsletter per i dettagli) tra assurdi proble
+mi tecnici che hanno impedito a giornalisti connessi da remoto di seguire (vedi il thread di Stefani
+a Maurizi) e le proteste ufficiali di Amnesty International. “Amnesty International ha condannato la
+ decisione delle autorità giudiziarie britanniche di non consentirle di seguire, in presenza e da re
+moto, l’udienza sull’estradizione di Julian Assange negli Usa, iniziata a Londra il 7 settembre. L’o
+rganizzazione per i diritti umani ha inoltrato svariate richieste di accesso all’udienza, sempre neg
+ate”, scrive Friuli Sera.  CYBERCRIME Encrochat, non è ancora finita Ricordate la storia di Encrocha
+t, il servizio di criptofonini usato da molta criminalità organizzata e colpito al cuore da una inda
+gine transnazionale europea che ne aveva preso il controllo con una operazione di hacking senza prec
+edenti? Ne avevo scritto in newsletter e su Valigia Blu. Bene ora la polizia olandese ha lanciato un
+a indagine sulla corruzione di poliziotti che avrebbero passato info ai criminali (Vice).CRIPTOVALUT
+EGli Usa hanno individuato e incriminato due cybercriminali russi accusati di aver rubato attraverso
+ delle campagne di phishing ben 17 milioni di dollari in criptovalute, scrive Bloomberg. E sempre su
+l tema sicurezza delle criptovalute, è stato stretto un accordo tra Satec (Cattolica) e la startup C
+hecksig per la copertura dei rischi nel servizio di custodia bitcoin, scrive Il Sole 24 Ore,GIG ECON
+OMYll ministero del Lavoro dice no al nuovo contratto per i fattorini delle piattaforme di food deli
+very, firmato dalla federazione delle app Assodelivery e dal sindacato Ugl, scrive Wired Italia”Il c
+ontratto certifica i rider come lavoratori autonomi e ne limita diritti e rivendicazioni. Esperti e 
+sindacati dicono che si tratta di un'azione ai limiti del comportamento anti sindacale”, scrive Doma
+ni (paywall).LETTURE/APPROFONDIMENTIQANONNascita, genesi, ramificazioni e significato di Q, la nuova
+ ‘religione’ complottista dell’era Trump nata sul web, entrata nella realtà ed esplosa con la pandem
+ia, scrive Valigiablu in un approfondimento firmato da Leonardo Bianchi. Anche Wu Ming 1 su Internaz
+ionale sviscera in dettaglio un fenomeno che a prima vista appare del tutto incomprensibile e assurd
+o, ma che rischia per questo di essere sottovalutato. In pratica con questa doppietta saprete tutto 
+su QAnon.Ma c’è anche un bel podcast sul tema (in inglese) di The Foreign Desk che potete ascoltare 
+qua.PRIVACY Cosa succede se mentre scorri le foto su Instagram vedi il boarding pass di un ex primo 
+ministro australiano (da cui vai a estrapolare interessanti altre info)? Un racconto esilarante di s
+ecurity in cui l’autore (l’hacker australiano Alex Hope) finisce con il contattare i servizi di sicu
+rezza australiani, una compagnia aerea e un ex primo ministro. E riesce anche a non essere arrestato
+. Come dire: tutto è bene quel che finisce bene (e no, non pubblicate in giro i vostri boarding pass
+).https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-in
+stagramRECOVERY DIGITALTeniamoci stretti i nostri dati per la rivoluzione verde in Europa, scrive Fr
+ancesca Bria su Domani.SALUTI E CONTATTISe qualcuno vuole contattarmi in modo anonimo (o, quanto men
+o, con una maggiore probabilità di privacy e senza dover passare per una casella email o un account 
+legato a un telefono) può farlo andando su https://contact.carolafrediani.org/#/ via Tor Browser (se
+ da dentro la newsletter non si apre link basta riscriverlo nel browser).È una piattaforma open sour
+ce creata da Globaleaks (che ringrazio! in particolare un grande grazie a Giovanni Pellerano) che pe
+rmette a giornalisti, media e organizzazioni (qua ce ne sono alcune) di ricevere segnalazioni e a ch
+i segnala di proteggere la propria privacy (qui un articolo in inglese su chi sono, che fanno).Oppur
+e potete scrivermi una mail con PGP. O contattarmi solo su Signal +14783944294. O, se non avete part
+icolari esigenze di privacy, molto semplicemente, rispondere a questa newsletter.Ti è piaciuta la ne
+wsletter? Inoltrala a chi potrebbe essere interessato!E’ gratuita, indipendente, senza sponsor, mand
+anti o agende altrui, e si diffonde col passaparola dei suoi stessi utenti.Come viene fatta questa n
+ewsletter (e come leggerla)Per iscriversi: https://guerredirete.substack.com/Buona domenica!
+
+4AC5DD
+E2
+
+[Guerre di Rete - newsletter] Ransomware e ospedali; social, odio e moderazione
+
+4AC5DDE2
+
+ Usci
+ta la mia newsletter #GuerrediRete. Si parla di ransomware e ospedali; social, odio, moderazione e m
+anipolazione; censura in Bielorussia e altro
+https://guerredirete.substack.com/p/guerre-di-rete-news
+letter-ransomware…
+
+4AC5DDE2
+
+Donna morta per colpa di ransomware: la Sanità non cyber-sicura uccide
+
+#Ransomware #healthcare https://cybersecurity360.it/nuove-minacce/ransomware/donna-morta-per-colpa-
+di-ransomware-la-sanita-non-cyber-sicura-uccide/… @Cybersec360
+
+4AC5DDE2
+
+Hola piperos
+
+4AC5DDE2
+
+au
+to A
+
+4AC5DDE2
+
+[Guerre di Rete - newsletter] Ransomware e ospedali; social, odio e moderazione @car
+olafrediani
+
+4AC5DDE2
+
+A causa di un attacco ransomware l'ospedale non ha potuto accettare una pazie
+nte che è deceduta poco dopo.
+
+4AC5DDE2
+
+Adesso arrivano i guai per chi va un po'troppo oltre!!!
+
+Ra
+nsomware uccide una donna in Germania.
+
+4AC5DDE2
+
+Germania: donna muore durante attacco ransomware a
+ll'ospedale https://repubblica.it/tecnologia/sicurezza/2020/09/18/news/germania_donna_muore_durante_
+attacco_ransomware_all_ospedale-267735262/… via @repubblica
+
+4AC5DDE2
+
+Doveva succedere, era solo qu
+estione di tempo. Ed è successo. Una donna, con un estremo bisogno di cure mediche, viene trasportat
+a in ambulanza verso l’ospedale Universitario di Duesseldorf, in Germania, ma a seguito di un attacc
+o ransomware l’ospedale non è in grado di gestire la paziente, e l’ambulanza fa rotta verso l’ospeda
+le di Wuppertal, a circa 30 km dalla destinazione iniziale.La paziente muore durante il trasferiment
+o.Indice degli argomenti
+La vulnerabilità ignorata dagli ospedaliI consigliLa vulnerabilità ignorata
+ dagli ospedaliIl problema, ovviamente, risiede nel fatto che l’ospedale di Duesseldorf fosse sotto 
+attacco ransomware, con più di 39 server implicati. Il vero punto però è dato dal fatto che la vulne
+rabilità posta sotto attacco (al gateway Citrix della rete) era stata segnalata da BSI (l’authority 
+per la Cyber Security tedesca) come un punto attaccabile dal ransomware direttamente alle organizzaz
+ioni tedesche il giorno prima. Per giunta, era vulnerabilità nota già da gennaio come possibile tram
+ite di pericolosi attacchi ransom.L’incidente segna la prima morte umana segnalata che sia indiretta
+mente causata da un attacco ransomware (anche se come scritto risultano studi che correlano un aumen
+tato tasso di mortalità con Wannacry).Le autorità tedesche stanno cercando una corresponsabilità tra
+ l’attacco ransomware e il tempo di inattività dell’ospedale, che, se verificata, potrebbe portare a
+ un caso di omicidio.
+ WHITEPAPERLa guida per scegliere il miglior antivirus gratuito per il tuo PC
+
+ Personal Computing
+ Privacy
+Scarica subito!
+Scarica il WhitepaperSecondo il notiziario tedesco RTL,
+ la richiesta di riscatto è stata ritirata quando la polizia ha preso in mano la vicenda e sono stat
+e fornite all’ospedale le chiavi di decrittazioni e i tecnici (non solo dell’ospedale ma dell’intero
+ plesso universitario che era stato colpito) stanno ripristinando i sistemi.I consigliLa storia è no
+ta e riguarda anche l’Italia, come da recenti attacchi a nostri ospedali. Queste strutture di solito
+ non curano bene il reparto IT, né internamente né con contratti esterni per manutenzione e update; 
+a causa di risorse limitate e anche probabilmente per scarsa sensibilità cyber.Eppure sono (sempre p
+iù) ricchi di dispositivi connessi alla rete, necessari per curare e che controllano inoltre dati pe
+rsonali dei pazienti. Anche quelli (radiografie, storie cliniche, medicinali assunti) sono a rischio
+ attacco hacker.Oltre alle solite raccomandazioni del caso (sistemi di ripristino offline, strumenti
+ anti ransomware, aggiornamenti e patching), un buon deterrente a questo tipo di attività potrebbe e
+ssere, qualora si abbia contezza di sistemi non aggiornati malgrado la disponibilità delle patch da 
+parte del produttore, indicare una responsabilità civile o penale per chi ha subito gli attacchi per
+ché non ha fatto del suo meglio per prevenirli . 
+@RIPRODUZIONE RISERVATA
+
+4AC5DDE2
+
+
+
+
+
+In Germania
+ una donna è deceduta durante un attacco ransomware che ha colpito l’ospedale universitario di Düsse
+ldorf e che ha causato quello che potrebbe essere il primo decesso collegato a un attacco hacker.
+Il
+ decesso di una donna durante un attacco ransomware all’ospedale di Düsseldorf, potrebbe essere il p
+rimo caso di morte causata da un attacco hacker
+Secondo quanto riportato da RTL.de, l’ospedale finit
+o sotto attacco non ha potuto procedere all’accettazione delle emergenze, costringendo i sanitari a 
+“dirottare” la donna verso un altro ospedale distante 32 chilometri, tragitto supplementare che, a q
+uanto pare, è stato fatale per la paziente.
+
+
+
+This may be the first confirmed death resulting from 
+a cyberttack on healthcare infrastructure. https://t.co/O2mPziOgJu
+— Andy Manoske (@a2d2) September 
+17, 2020
+
+La violazione informatica, che non aveva come obiettivo la struttura sanitaria ma il vicin
+o complesso universitario, ha però bloccato 30 server dell’ospedale che sono stati criptati. Di cons
+eguenza i sistemi informatici hanno smesso via via di funzionare negando l’acceso ai dati, interromp
+endo i servizi e obbligando a rinviare tutti gli interventi. Su uno dei server dell’ospedale è appar
+sa anche la richiesta di mettersi subito in contatto con gli hacker, nota indirizzata all’Università
+ Heinrich Heine (alla quale è affiliato l’ospedale di Düsseldorf ), anche se pare non sia stata fatt
+a nessuna richiesta di denaro.
+
+
+
+In piena emergenza la polizia di Duesseldorf ha stabilito un conta
+tto con gli autori dell’attacco, informandoli che la violazione perpetrata aveva colpito l’ospedale 
+e non l’università, con gli hacker che hanno fatto cessare l’attacco fornendo la chiave di decriptaz
+ione.
+I pubblici ministeri dello stato della Renania nord-Vestfalia hanno comunque avviato un’indagi
+ne contro ignoti con l’ipotesi omicidio colposo, dato che la donna in fin di vita avrebbe dovuto ric
+evere cure e assistenza in brevissimo tempo. Purtroppo, proprio a causa della violazione informatica
+, la donna deceduta era stata costretta al trasferimento presso l’ospedale Wuppertal, con i medici c
+he per un’ora non sono stati in grado di iniziare le cure necessarie.
+
+A patient died when a German 
+hospital was hit by ransomware, causing delays in life-saving treatment. Looks like the fears of hea
+lthcare cybersecurity professionals have come true 🙁  https://t.co/de0xjpF2VH
+— Steve Christey Coley
+ (@SushiDude) September 17, 2020
+
+Le strutture sanitarie, causa l’impreparazione riguardante i propr
+i sistemi informatici, sono molto a rischio da parte degli attacchi informatici. L’utilizzo sempre p
+iù massiccio di vari dispositivi, come le apparecchiature radiologiche e radio-diagnostiche (spesso 
+connesse a internet o a reti intranet) può portare all’impossibilità di effettuare diagnosi e curare
+ i pazienti nell’eventualità queste apparecchiature finiscano nel mirino degli hacker.
+Fonte: The Ve
+rge
+
+
+
+
+
+4AC5DDE2
+
+Germania: donna muore durante un attacco #Hacker a un ospedale - Leggi l'articolo
+ completo su: https://justnerd.it/2020/09/20/germania-donna-muore-durante-un-attacco-hacker-a-un-osp
+edale/… #Ransomware #TechScience
+
+4AC5DDE2
+
+Te se devono magna' i ransomware.
+
+4AC5DDE2
+
+
+Una donna 
+è morta a causa di un attacco informatico che ha bloccato la rete dell’ospedale di Duesseldorf, in G
+ermania, il 10 settembre. Lo riportano i media tedeschi, definendolo il primo caso di morte legato d
+irettamente al ransomware, codice malevolo che blocca i computer delle vittime a scopo di ricatto. L
+a paziente, al momento identificata come una donna che necessitava di cure mediche urgenti, è decedu
+ta dopo essere stata reindirizzata in un ospedale della città di Wuppertal, a più di 30 km dalla sua
+ destinazione iniziale, che era appunto l'ospedale universitario di Duesseldorf. La struttura non ha
+ potuto accogliere la paziente a causa di un blocco informatico ma il trasferimento è stato fatale p
+er la donna deceduta in seguito al ritardo delle cure.
+
+
+
+
+
+
+
+
+Sicurezza
+
+Privacy, Garante: nel 2019
+ oltre ottomila tra reclami e segnalazioni
+
+
+
+
+Secondo il notiziario tedesco Rtl, la banda di crimin
+ali dietro il ransomware ha ritirato la sua richiesta di riscatto dopo essere stata contattata dalla
+ polizia tedesca. Ha anche fornito i codici per decrittare i sistemi dell’ospedale. Su di loro pende
+ una possibile imputazione per omicidio, oltre che per cybercrime. Dalle prime analisi, "l’infezione
+" sembra essere partita da una vulnerabilità presente nei gateway di rete Citrix usati dall’ospedale
+, che era già stata segnalata a partire da gennaio.
+
+
+
+
+
+
+
+
+Sicurezza
+
+Coronavirus, sempre piÃ¹ atta
+cchi informatici e truffe web. Ecco come evitarli
+
+
+
+
+Molti esperti in queste ore commentano con app
+rensione la notizia. “Probabilmente non è la prima morte causata da un ransomware, dato che Wannacry
+ ha bloccato migliaia di ospedali nel mondo, soprattutto nel Regno Unito, nel 2017”, dice Paolo dal 
+Checco, esperto informatico forense. Ma è probabilmente il primo caso riportato, dove c’è insomma un
+ rapporto chiaro di causa effetto, fino al decesso di una paziente individuata. Secondo uno studio 2
+019 dell’università Vanderbilt, Wannacry ha indirettamente aumentato la mortalità ospedaliera contri
+buendo al decesso di 36 persone su 10 mila casi di arresto cardiaco riportati. Gli ospedali, rallent
+ati nella loro normale operatività per colpa del ransomware, hanno infatti impiegato più tempo del c
+onsueto nelle cure e nelle diagnosi. Ad esempio, i ricercatori hanno scoperto che ci sono voluti 2,7
+ minuti extra perché i pazienti sospettati di infarto ricevessero un elettrocardiogramma.
+
+
+
+
+
+
+
+
+Si
+curezza
+
+Ransomware, l'attacco informatico che fa paura alle aziende: il 41% ne ha subito almeno uno
+ nell'ultimo anno
+
+
+
+
+“La notizia rattrista ma non stupisce. Non è il primo caso di attacco informat
+ico che mette in crisi una struttura ospedaliera, né sarà l'ultimo”, commenta Alessio Pennasilico, t
+ra i più noti esperti di cybersecurity in Italia, membro del consiglio direttivo dell’associazione C
+lusit per la sicurezza informatica. “Per questa ragione diventa indispensabile che tutte le struttur
+e, soprattutto di rilevanza sociale, si dotino delle misure di sicurezza organizzative e tecnologich
+e adeguate”, continua.
+
+Il consiglio vale certo anche per gli ospedali italiani, che pure sono stati
+ soggetti a un crescendo di attacchi informatici negli ultimi mesi: ad esempio un ransomware che ha 
+bloccato l’ospedale Fatebenefratelli di Erba a dicembre scorso; idem lo Spallanzani di Roma ad april
+e scorso. Di fondo, i cybercriminali mirano agli ospedali e alle pubbliche amministrazioni come i Co
+muni perché sanno di trovarli mal difesi e anche di poter causare gravi danni (e quindi di poter ott
+enere con facilità un riscatto). Il rischio non è solo quello del ransomware, ma anche di furto di d
+ati personali dei pazienti, attraverso cui è possibile compiere ulteriori ricatti e frodi. È success
+o anche questo al Fatebenefratelli, dove l’attacco ha portato al furto di 35 mila radiografie.
+
+
+
+
+
+
+Il tuo contributo Ã¨ fondamentale per avere unâinformazione di qualitÃ . Sostieni il giornalismo d
+i Repubblica.
+Abbonati a Rep: 1 mese a solo 1â¬
+
+
+
+
+
+germania
+ransomware
+
+
+
+
+
+
+
+
+Â© Riproduzione ri
+servata
+18 settembre 2020
+
+
+
+
+
+4AC5DDE2
+
+Una donna in Germania è morta durante un attacco ransomware
+ all’ospedale universitario di Duesseldorf. Varie fonti ed esperti lo definiscono come, probabilment
+e, il primo decesso direttamente collegato a un attacco informatico a un ospedale.Indice degli argom
+enti
+Com’è avvenuta la morte per ransomwareLa vulnerabilità Cytrix era notaLo storico: Wannacry negl
+i ospedaliMettere in sicurezza gli ospedaliCom’è avvenuta la morte per ransomwareIl motivo è che l’o
+spedale non ha potuto accettare i pazienti a causa dell’attacco e la donna è stata mandata in una st
+ruttura sanitaria lontana, secondo l’Associated Press.Il trasferimento è stato fatale per la pazient
+e. Poco cambia che secondo un rapporto del notiziario tedesco RTL l’attacco informatico non era dest
+inato all’ospedale ma a una università vicina. Fatto sta l’infezione si è estesa all’ospedale.La vul
+nerabilità Cytrix era notaBloccati 30 server interni, il 10 settembre, sfruttando una vulnerabilità 
+dei gateway Citrix, denominata CVE-2019-19871. Indicativo che già da gennaio questa vulnerabilità er
+a una nota porta di ingresso per i ransomware e proprio il giorno prima dell’attacco BSI aveva avvis
+ato le organizzazioni tedesche di un grave rischio in merito, chiedendo di aggiornare subito il gate
+way.Gli aggressori hanno interrotto l’attacco dopo che le autorità hanno comunicato loro le consegue
+nze.Le strutture sanitarie sono uno dei principali obiettivi degli attacchi informatici e gli espert
+i di sicurezza informatica hanno avvertito per anni che la maggior parte degli ospedali non è prepar
+ata. Il problema è che molti dispositivi medici, come le apparecchiature di radiologia, sono spesso 
+connessi a Internet. E senza questi strumenti, non sono in grado di curare i pazienti.
+ WHITEPAPERLa
+ guida per scegliere il miglior antivirus gratuito per il tuo PC
+ Personal Computing
+ Privacy
+Scaric
+a subito!
+Scarica il WhitepaperCyber security nel settore sanitario, a rischio apparecchiature medic
+he e dati riservati: lo scenarioDifficilmente è il primo caso di morte causata da un ransomware, ma 
+è probabilmente il primo dove c’è una chiara relazione tra i due eventi.Lo storico: Wannacry negli o
+spedaliI principali attacchi informatici, come il ransomware WannaCry del 2017, hanno bloccato migli
+aia di sistemi ospedalieri. WannaCry ha bloccato il Servizio sanitario nazionale del Regno Unito, ad
+ esempio. Nessun decesso era direttamente collegato a quell’attacco, ma uno studio della Owen Gradua
+te School of Management della Vanderbilt University ha rilevato un aumentato tasso di mortalità conn
+esso all’attacco. Pari a fino a 36 decessi aggiuntivi ogni 10mila attacchi di cuore che si sono veri
+ficati ogni anno nelle centinaia di ospedali esaminati.I ricercatori hanno scoperto ci sono voluti 2
+,7 minuti extra perché i pazienti sospettati di infarto ricevessero un elettrocardiogramma. Tutto qu
+esto perché gli ospedali erano rallentati nelle attività dalle operazioni di ripristino sistemi.L’at
+tacco ha causato un’interruzione significativa dell’assistenza ai pazienti, come l’annullamento di c
+irca 19mila appuntamenti, comprese le operazioni, e l’interruzione dei sistemi IT per almeno un terz
+o di tutti gli ospedali del Servizio Sanitario Nazionale (NHS) del Regno Unito e l’8% dei medici gen
+erici. In diversi casi, gli ospedali del Regno Unito sono stati costretti a deviare i visitatori del
+ pronto soccorso verso altri ospedali.Anche se non ci sono stati casi specifici di persone morte per
+ questi motivi, l’aumentato tasso di mortalità associata all’evento è indicativo dei danni causati d
+all’attacco.Mettere in sicurezza gli ospedali“Ovviamente gli ospedali hanno procedure di continuità 
+operativa che garantiscono l’erogazione di alcuni servizi (es. triage) indipendentemente dal sistema
+ informatico; tuttavia tali procedure non hanno la stessa velocità ed efficienza del sistema automat
+ico. Per questa ragione è plausibile che vi possano essere impatti soprattutto sui casi connotati da
+ maggiore urgenza di intervento”, commenta Alessio Pennalisico, di P4i e responsabile scientifico Cy
+bersecurity360.it. “Era quindi inevitabile che prima o poi ci fosse un impatto sui pazienti. Per que
+sta ragione diventa indispensabile che tutte le strutture, soprattutto quelle di rilevanza sociale c
+ome gli ospedali, si dotino delle misure di sicurezza organizzative e tecnologiche adeguate”.Degli u
+ltimi mesi gli attacchi ransomware agli ospedali Spallanzani di Roma e Fatebenefratelli di Erba, seg
+no di quanto anche in Italia sia alto il rischio di danni ai pazienti per colpa della scarsa sicurez
+za informatica sanitaria.“Gli esperti lo dicono da tempo: attenzione che le vulnerabilità e in gener
+ale la scarsa sensibilità cyber degli ospedali può causare morti, oltre a danni economici e privacy”
+, dice Corrado Giustozzi, esperto di cyber security pubblica. “Adesso purtroppo è successo quanto te
+muto. Succederà di nuovo”, aggiunge.
+@RIPRODUZIONE RISERVATA

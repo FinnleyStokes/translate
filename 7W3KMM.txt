@@ -1,0 +1,917 @@
+[Arquivo do Blog] Ataques de ransomware a empresas acontecem a cada 40 segundos; essa é a “História 
+do Ano” de
+
+/ ~ 4AC5DDE2 ~ /
+
+Um hospital na Alemanha, em Düsseldorf, foi #vítima de um #GraveAtaque
+ #ransomware deferido por #hackers no dia 10/09/2020 que pode ter causado a morte de uma pessoa.
+
+Fo
+nte: http://apnews.com
+#DTNetwork #ransomware #ShoulderSurfing #ataqueShoulderSurfing #RedeNãoSegura
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Primeira morte por ciberataque 
+Alemanha, Carlos Tunes, Ciberataque, Honda, IBM,
+ indústria 4.0, Ransomware
+https://is.gd/Xxek4U
+
+/ ~ 4AC5DDE2 ~ /
+
+Você sabia que os ataques de #Ran
+somware continuam em alta e o #Malware e mais detectado no continente americano é o #Wannacry?
+
+A #N
+TTLtdBrasil explica quais são as 7 características de proteção digital para auxiliar o seu negócio.
+
+https://bit.ly/2ZBPWmB
+
+/ ~ 4AC5DDE2 ~ /
+
+Você sabia que os ataques de ransomware continuam em alta 
+e o malware mais detectado no continente americano é o Wannacry? Como você se previne deste e de out
+ros ataques de ransomware?
+
+/ ~ 4AC5DDE2 ~ /
+
+Paciente de hospital alemão morre após sistemas do loc
+al serem paralisados por ataque de ransomware: https://buff.ly/3hXV373 #thehack #thehackbr #dontstop
+hacking
+
+/ ~ 4AC5DDE2 ~ /
+
+#FBI captura #hacker russo que tinha planos para atacar os sistemas da #T
+esla com #ransomware: https://tek.sapo.pt/noticias/internet/artigos/fbi-captura-hacker-russo-que-tin
+ha-planos-para-atacar-os-sistemas-da-tesla-com-ransomware…
+
+/ ~ 4AC5DDE2 ~ /
+
+Você pediu, a #Veeam e
+ PC Place atenderam! O NOVO Veeam Availability Suite v10 traz proteção de dados moderna para NAS, pr
+evenção contra ransomware e portabilidade de dados avançada. Saiba mais aqui >> http://stwb.co/zrsua
+rs
+
+/ ~ 4AC5DDE2 ~ /
+
+Mulher morre devido a um ataque de ransomware a um hospital na Alemanha https:
+//zap.aeiou.pt/mulher-morre-devido-um-ataque-ransomware-um-hospital-na-alemanha-347614… via @ZAP
+
+/ 
+~ 4AC5DDE2 ~ /
+
+
+Parece algo saÃ­do de um trÃ¡gico episÃ³dio de Black Mirror: uma mulher em busca de
+ atendimento de urgÃªncia morreu na semana passada depois que um ataque de ransomware derrubou o sis
+tema de um grande hospital na Alemanha, forÃ§ando os paramÃ©dicos a levÃ¡-la apressadamente a outra 
+cidade para tratamento, de acordo com vÃ¡rios meios de comunicaÃ§Ã£o.
+Tudo leva a crer que este Ã© o
+ primeiro caso de alguÃ©m morrendo como resultado de um ataque de ransomware, mesmo que tenha sido i
+ndiretamente. Autoridades alemÃ£s estÃ£o investigando os hackers por suspeita de homicÃ­dio culposo,
+ relata a Associated Press.
+• Nova Orleans declara estado de emergÃªncia apÃ³s ser atacada por ranso
+mware• FuncionÃ¡rio baixa ransomware por e-mail, e cidade demite diretor de TI apÃ³s pagar resgate d
+e US$ 460 mil
+Com inÃ­cio quinta-feira Ã  noite, o ataque interrompeu os sistema de TI da ClÃ­nica U
+niversitÃ¡ria de Dusseldorf, prejudicando sua capacidade de acessar dados e forÃ§ando-a a adiar toda
+s as operaÃ§Ãµes programadas e direcionar os pacientes de emergÃªncia para outro lugar. O evento sob
+ investigaÃ§Ã£o aconteceu na sexta-feira (18), quando uma mulher em condiÃ§Ãµes de risco de vida foi
+ levada Ã s pressas para um hospital a cerca de 20 km de distÃ¢ncia, atrasando seu tratamento em cer
+ca de uma hora, o que resultou em sua morte.
+Estranhamente, porÃ©m, o hospital disse no Twitter que 
+ânÃ£o havia uma pedido de resgate concretoâ e nenhum dado parece ter sido roubado, indicando que
+ pode ter sido apenas uma vÃ­tima infeliz de um ataque mal direcionado.
+Uma observaÃ§Ã£o sobre a ext
+orsÃ£o, que foi deixada em um dos 30 servidores paralisados no hack, apoia ainda mais essa teoria: o
+ ataque era dirigido Ã  Universidade Henrich Heine, uma afiliada da clÃ­nica, de acordo com um relat
+Ã³rio do ministro da JustiÃ§a do estado da RenÃ¢nia do Norte-VestfÃ¡lia Ã  AP. A nota solicita para 
+a universidade entrar em contato, mas nÃ£o lista nenhuma demanda, o que sÃ³ levanta mais suspeitas.
+
+A polÃ­cia local conseguiu entrar em contato com os atacantes e avisÃ¡-los que eles nÃ£o apenas erra
+ram o alvo pretendido, mas tambÃ©m colocaram em perigo pacientes do hospital no processo. Os invasor
+es supostamente abandonaram a tentativa de extorsÃ£o imediatamente e forneceram uma chave de descrip
+tografia para desbloquear todos os servidores hackeados. As autoridades perderam o contato com eles,
+ de acordo com o relatÃ³rio do ministro da JustiÃ§a.
+O hospital disse que os investigadores ligaram 
+o problema a um hacker explorando uma vulnerabilidade em âum software complementar comercial ampla
+mente usadoâ, que nÃ£o foi divulgado. No entanto, como a Wired aponta, a evidÃªncia sugere que Ã© 
+provavelmente um sistema da Citrix, uma ferramenta da Citrix Systems que Ã© usada para otimizar o tr
+Ã¡fego sem sacrificar a seguranÃ§a dos dados.
+Em um tuÃ­te, funcionÃ¡rios do hospital disseram ter a
+lertado autoridades alemÃ£s sobre o ataque, incluindo a agÃªncia alemÃ£ de seguranÃ§a cibernÃ©tica B
+SI. No dia anterior ao ataque, o BSI tuitou um alerta para as empresas alemÃ£s pedindo que atualizas
+sem seus gateways da rede Citrix, pois havia gente explorando uma vulnerabilidade crÃ­tica conhecida
+ como CVE-2013-19781.
+Essa mesma vulnerabilidade tambÃ©m ganhou as manchetes na quarta-feira da sema
+na passada, depois que a Cybersecurity and Infrastructure Agency, uma divisÃ£o do Departamento de Se
+guranÃ§a Interna dos EUA, publicou um alerta de seguranÃ§a de que o CVE-2019-19781 foi um dos vÃ¡rio
+s backdoors usados por hackers apoiados por Pequim para atacar fabricantes de jogos e software.
+Embo
+ra o incidente desta semana pareÃ§a ter sido uma confusÃ£o trÃ¡gica e fatal, os ataques de ransomwar
+e tÃªm se tornado cada vez mais frequentes em todo o mundo nos Ãºltimos meses.
+Dezenas dos maiores n
+omes da histÃ³ria do entretenimento foram atingidos em maio, com outras vÃ­timas de ransomware, incl
+uindo a Garmin, a empresa de cÃ¢mbio Travelex e a rede do sistema judicial do Texas, apenas para cit
+ar alguns. Os hackers supostamente arrecadaram milhÃµes de dÃ³lares com esses ataques, o que explica
+ por que cada vez mais atacantes estÃ£o arriscando a prisÃ£o para obter uma boa quantia de grana.
+ 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Gmail sabota quem precise fazer dowload pra ter q não pagar a hospedagem de dados
+.
+
+É praticamente um ransomware disfarçado de problema técnico.
+
+Vc passam por isso tb?
+
+/ ~ 4AC5DDE
+2 ~ /
+
+
+
+				[SiteMapSection12249585::BEGIN]
+				
+ Saiba Mais
+
+IBM Cloud
+Uma plataforma em nuvem c
+om um conjunto de soluções que abrange ambientes públicos, privados e híbridos. Crie com um conjunto
+ robusto de dados avançados e ferramentas de IA. . .
+
+
+				[SiteMapSection12249585::END]
+         
+       [SiteMapSection12249612::BEGIN]
+				
+ Saiba Mais
+
+Dados e IA
+Acelere sua jornada para a IA c
+om o portfólio de dados e IA da IBM. . .
+
+
+				[SiteMapSection12249612::END]                       
+        
+                [SiteMapSection12249535::BEGIN]
+				
+ Saiba Mais
+
+Infraestrutura de TI
+A 
+revolução digital está formando a base de uma nova era de negócios cognitivos.
+
+
+				[SiteMapSectio
+n12249535::END]
+                [SiteMapSection12249558::BEGIN]
+				
+ Saiba Mais
+
+IBM Security
+Voc
+ê já sabe que cibercriminosos estão atacando sua organização, e o sucesso desses ataques pode ser ap
+enas uma questão de tempo. . .
+
+
+				[SiteMapSection12249558::END]
+                
+             
+   [SiteMapSection12249602::BEGIN]
+				
+ Saiba Mais
+
+Watson Internet Of Things
+A Internet of Things
+ está mudando radicalmente a maneira como as empresas operam e como as pessoas interagem com o mundo
+ físico. . .
+
+
+				[SiteMapSection12249602::END]
+                [SiteMapSection12249500::BEGIN]
+
+				
+ Saiba Mais
+
+IBM Services
+Na era da transformação digital e da nuvem híbrida, as expectativas d
+as empresas com relação ao serviço contínuo, personalizado e sempre disponível são altas. . .
+
+
+			
+	[SiteMapSection12249500::END] 
+                [SiteMapSection12249512::BEGIN]
+				
+ Saiba Mais
+
+
+IBM Sterling
+Crie cadeias de suprimentos inteligentes e autocorretivas.
+O IBM Sterling ajuda a criar
+ redes de negócios mais inteligentes. Experimente a conectividade sempre ativa. . .
+
+
+				[SiteMapS
+ection12249512::END]
+                [SiteMapSection12249497::BEGIN]
+				
+ Saiba Mais
+
+IBM Global 
+Financing
+O IBM Global Financing pode integrar suas estratégias de negócio e soluções de TI a um per
+feito plano de financiamento. . .
+
+
+				[SiteMapSection12249497::END]
+			
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Prim
+era muerte por ransomware https://newsletter.carasycaretas.com.uy/primera-muerte-por-ransomware/…
+
+/
+ ~ 4AC5DDE2 ~ /
+
+Aí galera, meu pc pegou um ransomware
+Alguém sabe o que eu devo fazer pra resolver 
+esse problema?
+
+/ ~ 4AC5DDE2 ~ /
+
+isso me lembra quando eu baixei o crackeador do word pra fazer a d
+issertação e veio com ransomware e sequestrou todos os meus arquivos, inclusive a dissertação
+
+malwa
+re bytes é o único 100% pra resolver o problema
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou		
+	
+
+				Ver no Instagram			
+
+
+
+  1 
+
+
+  0 
+
+
+
+				O presidente do Chega conseguiu, este domingo, à 
+terceira tentativa, a maioria de dois terços dos votos exigida para eleger a sua direção na II Conve
+nção Nacional, em Évora.⁠
+⁠
+No discurso da vitória, Ventura prometeu “lutar até à última gota de san
+gue por Portugal” para que “seja de novo um grande e enorme país”.⁠
+⁠
+“Aqueles que pensavam que seri
+a um partido como os outros em que jogadas de bastidores decidiam o poder interno, desenganem-se. Es
+te partido é dos militantes. Nunca cederei a jogos de bastidores”, declarou ainda.⁠
+⁠
+🔎 +info no lin
+k da bio⁠
+⁠
+📸 Nuno Veiga / Lusa⁠
+⁠
+#ZAPaeiou #nacional #chega #andreventura #politica			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  7 
+
+
+  0 
+
+
+
+				De acordo com um novo est
+udo, as pessoas mais generosas são avaliadas como mais atraentes, e as pessoas que são mais atraente
+s também têm uma maior probabilidade de doar. Esta pode ser uma peça fundamental na forma como os ou
+tros nos veem.⁠
+⁠
+Sara Konrath, defende que esta conclusão não é de agora, uma vez que ao longo dos 
+anos “poetas e filósofos têm sugerido a ligação entre beleza moral e física”.⁠
+⁠
+🔎 +info no link da 
+bio⁠
+⁠
+📸 davidchief / Flickr⁠
+⁠
+#ZAPaeiou #ciencia #saude #psicologia			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap
+.aeiou			
+
+				Ver no Instagram			
+
+
+
+  7 
+
+
+  0 
+
+
+
+				As ferramentas de edição genética têm um 
+tremendo potencial não só no tratamento, mas também na prevenção de doenças.⁠
+⁠
+Com uma pequena alte
+ração no código genético de um embrião poderá ser possível fazer com que o bebé, e as gerações que d
+ele advenham, fiquem livres de certas doenças.⁠
+⁠
+As perspetivas são, pelo menos para já, meramente 
+utópicas.⁠
+⁠
+Um novo relatório de uma comissão internacional de cientistas e especialistas em ética 
+realçou que a tecnologia que temos ao nosso dispor ainda não é suficientemente madura para fazê-lo e
+m segurança.⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 CIPhotos / Canva⁠
+⁠
+#ZAPaeiou #ciencia #saude #biotecnol
+ogia #genetica #saude			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  5 
+
+
+  
+0 
+
+
+
+				Saber a data da sua morte influenciaria as suas ações? Saber quantos anos nos restam pode
+ influenciar muitos aspetos da nossa vida.⁠
+⁠
+My Longevity é a aplicação que lhe permite fazer uma p
+revisão de quantos anos de vida ainda lhe podem restar.⁠
+⁠
+O desenvolvimento da aplicação envolveu l
+idar com alguns problemas ao longo do caminho para estimar os benefícios potenciais para a saúde par
+a a população em geral com base em testes clínicos. Isto ocorre porque existem discrepâncias entre o
+s sujeitos do estudo e as populações por uma série de razões.⁠
+⁠
+A seriedade com que deve tratar as 
+previsões de uma aplicação deste tipo é basicamente uma função de quão precisamente ela reflete a su
+bpopulação na qual você se encaixa melhor.⁠
+⁠
+A equipa de cientistas espera que o acesso à calculado
+ra incentive os utilizadores a adotarem estilos de vida mais saudáveis. ⁠
+⁠
+🔎 +info no link da bio⁠
+
+⁠
+📸 Pixabay / Pexels⁠
+⁠
+#ZAPaeiou #ciencia #saude #longevidade			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou	
+		
+
+				Ver no Instagram			
+
+
+
+  8 
+
+
+  0 
+
+
+
+				Se sofre de enxaquecas, este assunto pode intere
+ssar-lhe.⁠
+⁠
+Um estudo liderado por Mohab Ibrahim, analisou um grupo de 29 pessoas que sofrem freque
+ntemente de enxaquecas, e conclui que consumir doses diárias de luz verde pode minimizar este proble
+ma que afeta grande parte da população mundial. 💡⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 hobvias sudoneighm/
+ Flickr⁠
+⁠
+#ZAPaeiou #ciencia #saude #medicina #neurologia			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+
+				Ver no Instagram			
+
+
+
+  6 
+
+
+  0 
+
+
+
+				Pastores de renas na remota ilha siberiana de Bolsho
+y Lyakhovsky descobriram o esqueleto inteiro de um urso da caverna com tecidos moles ainda preservad
+os após 22 mil anos enterrado no solo congelado.⁠
+⁠
+O urso das cavernas é uma espécie ou subespécie 
+pré-histórica que viveu na Eurásia no período do Pleistoceno Médio e Superior e foi extinta há cerca
+ de 20 mil anos.⁠
+⁠
+Os restos mortais de ursos das cavernas são comuns no registo fóssil.⁠
+⁠
+No enta
+nto, a carcaça agora descoberta está completamente preservada – com todos os órgãos internos ainda n
+o lugar. 🐻⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 North-Eastern Federal University⁠
+⁠
+#ZAPaeiou #ciencia #sa
+ude #artico #paleontologia			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  4 
+
+
+
+  0 
+
+
+
+				Milhares de pessoas apelaram na quinta-feira, através da rede social Twiteer, ao boi
+cote da Netflix, acusando a plataforma de streaming de estar a fazer uma distribuição do filme franc
+ês “Mignonnes” que – segundo os críticos – sexualiza as crianças.⁠
+⁠
+Os críticos não demoraram a rea
+gir e, na quinta-feira, escreveram-se mais de 200 mil “tweets” onde foi utilizada a palavra-chave #C
+ancelNetflix (cancele a Netflix), apoiando o boicote à plataforma der streaming que reúne mais subsc
+ritores no mundo inteiro.⁠
+⁠
+Os ataques nas redes sociais surgiram de várias fações, inclusive parti
+dárias. 🎥🎬⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 Netflix⁠
+⁠
+#ZAPaeiou #mundo #vida #lazer #cinema #EUA #net
+flix #pornografia #sexualidade			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+
+  6 
+
+
+  1 
+
+
+
+				A maioria das pessoas não resiste a um doce de vez em quando, ou talvez até mesm
+o um sumo ou umas bolachas. No entanto, a quantidade de açúcar que estes produtos levam é muitas vez
+es uma preocupação.⁠
+⁠
+O elevado consumo de açúcar provoca cáries dentárias, diabetes e problemas ca
+rdíacos.⁠
+⁠
+Agora, um grupo de cientistas do MIT descobriu uma maneira eficiente de produzir um suce
+dâneo do açúcar, que até pode ser mais benéfico para a nossa saúde.⁠
+⁠
+Estudos anteriores demonstrar
+am que a alose, um açúcar bastante raro, isolado das folhas do arbusto africano Protea rubropilosa, 
+pode ser um substituto ideal do açúcar. ⁠
+⁠
+No entanto, é cara de obter devido à sua raridade na nat
+ureza. 🍬🍭🍪🍩🍨⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 955169 / Pixabay⁠
+⁠
+#ZAPaeiou #ciencia #saude #alimentaç
+ão #quimica			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  9 
+
+
+  0 
+
+
+
+			
+	De acordo com um estudo realizado por investigadores do King’s College London, a busca pelo sol est
+á diretamente ligada aos nossos genes. Isso significa que o comportamento das pessoas em relação ao 
+sol é dominado por uma predisposição genética.⁠
+⁠
+Por isso, se é viciado em apanhar sol, já tem uma 
+justificação científica para explicar esse comportamento: são os genes! ☀⁠
+⁠
+🔎 +info no link da bio⁠
+
+⁠
+📸 Zai Aragon / Flickr⁠
+⁠
+#ZAPaeiou #ciencia #saude #comportamento #dermatologia #saude #medicina	
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  10 
+
+
+  0 
+
+
+
+				Uma equipa
+ de físicos do Instituto de Estudos Avançados de Nova Jérsia e da Universidade de Princeton descobri
+u algo que parecia impossível até agora: uma forma “segura” de enviar uma pessoa viva por um buraco 
+no espaço-tempo.⁠
+⁠
+Os buracos no espaço-tempo são hipotéticos “túneis” entre buracos negros que con
+ectam regiões distantes do Universo e cuja existência é prevista pela Teoria da Relatividade Geral d
+e Albert Einstein.⁠
+⁠
+Juan Maldacena e Alexey Milekhin calcularam que, se houvesse uma dimensão “ext
+ra” do espaço-tempo, implicaria a existência de um grande número de campos quânticos. ⁠
+⁠
+As flutuaç
+ões nesses campos produziriam a energia negativa necessária para evitar que o buraco entre em colaps
+o e feche.⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 Kjordand / Wikimedia⁠
+⁠
+#ZAPaeiou #ciencia #saude #astrofi
+sica #fisica			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  8 
+
+
+  0 
+
+
+
+		
+		Um dia antes do início da I Liga 2020/2021, espreitamos o relatório ‘Futebol em números’, publicad
+o no final de agosto pela própria Liga Portugal. Há muito para ler sobre a época passada, provavelme
+nte a mais estranha de sempre.⁠
+⁠
+A equipa com mais vitórias foi, sem surpresa, o FC Porto, que cheg
+ou aos 26 triunfos. Moreirense e Vitória de Setúbal foram os recordistas dos empates (13) e o Despor
+tivo das Aves perdeu mais jogos (27) do que aqueles que o FC Porto ganhou.⁠
+⁠
+Na contabilidade dos a
+deptos presentes nas bancadas, claro que não entraram as tais 10 últimas rondas, realizadas à porta 
+fechada.⁠
+⁠
+Antes disso, e sem novidades, Benfica, FC Porto e Sporting – por esta ordem – são as equ
+ipas com números mais altos no total de espectadores e na média de espectadores por jogo. Seguem-se 
+Vitória de Guimarães e Boavista. ⚽⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 José Coelho / Lusa⁠
+⁠
+#ZAPaeiou #d
+esporto #futebol			
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				zap.aeiou			
+
+				Ver no Instagram			
+
+
+
+  4 
+
+
+  0 
+
+
+
+
+				A ex-secretária de Estado Jamila Madeira, que se manifestou “surpreendida” com a sua exoneraçã
+o do Governo, salientou esta quinta-feira que vai continuar na vida política e que sai do executivo 
+com contas positivas no Serviço Nacional de Saúde (SNS).⁠
+⁠
+“Volto para a Assembleia da República. O
+ meu papel na vida política e partidária continua”, declarou a antiga líder da Juventude Socialista,
+ que foi também eurodeputada e dirigente do PS sob a liderança de António José Seguro.⁠
+⁠
+Jamila Mad
+eira abandonou as funções de secretária de Estado Adjunta e da Saúde, cargo que passa a ser desempen
+hado por António Lacerda Sales.⁠
+⁠
+🔎 +info no link da bio⁠
+⁠
+📸 António Pedro Santos / Lusa⁠
+⁠
+#ZAPae
+iou #nacional #governo #politica #PS #saude			
+
+ 
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Ataque de ransomware atinge e
+mpresa líder no mercado global de datacenter #datacenter @Arcserve_BR #segurancadainformacao
+
+/ ~ 4A
+C5DDE2 ~ /
+
+Ransomware comendo solto
+
+/ ~ 4AC5DDE2 ~ /
+
+A Tesla e o FBI aliaram-se para travar um at
+aque de ransomware que poderia ter posto em causa as operações da Gigafactory da empresa liderada po
+r Elon Musk no Estado norte-americano do Nevada.Por trás do esquema criminoso estava Egor Igorevich 
+Kriuchkov, um hacker russo de 27 anos, que tentou convencer um colaborador da Tesla a dar-lhe acesso
+ privilegiado aos sistemas informáticos da fábrica em troco de um pagamento de um milhão de dólares.
+De acordo com a queixa que deu entrada no Tribunal Distrital de Nevada, o hacker russo viajou até ao
+s Estados Unidos e entrou em contacto com um funcionário da Gigafactory da Tesla. Após encontrar-se 
+com ele, Egor Igorevich Kriuchkov propôs-lhe o acordo.O objetivo seria usar o ransomware para extrai
+r o máximo possível de dados da rede da Tesla e ameaçar tornar o caso público caso o resgate não fos
+se pago. No entanto, os planos do hacker acabaram por ir por “água abaixo” quando o funcionário cont
+actado decidiu alertar a Tesla.A empresa contactou imediatamente o FBI e as autoridades apanharam o 
+cibercriminoso em Los Angeles à medida que tentava escapar do país. Durante a operação de captura, o
+s agentes do FBI descobriram informações acerca de ataques levados a cabo por hackers do grupo de Eg
+or Igorevich Kriuchkov.O FBI não deu a conhecer quais foram as empresas, contudo, a norte-americana 
+CWT, uma empresa especializada na gestão de viagens e eventos, foi vítima de uma estratégia semelhan
+te em julho. De acordo com a Reuters, o ataque afetou cerca de 30 mil computadores da empresa, força
+ndo-a a pagar um resgate de 4,5 milhões de dólares.         Hackers atacam sistemas da Garmin com ra
+nsomware e exigem resgate de 10 milhões de dólares Ver artigo    Recorde-se que ainda em julho, a Ga
+rmin foi vítima de um ataque com o ransomware WastedLocker que comprometeu a sua rede interna e os s
+eus sistemas de produção.Por trás do ataque poderá estar o grupo Evil Corp, também conhecido como Dr
+idex, que está ativo desde 2007. Os cibercriminosos russos que estão na “mira” do Departamento do Te
+souro dos Estados Unidos, têm vindo a usar o ransomware para atacar empresas norte-americanas e pedi
+r resgates na ordem dos milhões de dólares.
+
+/ ~ 4AC5DDE2 ~ /
+
+Equinix é atingida por ransomware, at
+aque pode ter chegado ao Brasil
+
+/ ~ 4AC5DDE2 ~ /
+
+Se liga que foi procurando coisa dessa porra que 
+eu peguei aquele ransomware fudido
+
+/ ~ 4AC5DDE2 ~ /
+
+Tudo leva a crer que este é o primeiro caso de
+ alguém morrendo como resultado de um ataque de ransomware, mesmo que tenha sido indiretamente. 
+
+Au
+toridades alemãs estão investigando os hackers por suspeita de homicídio culposo.

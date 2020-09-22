@@ -1,0 +1,1854 @@
+Duits ziekenhuis raakte via Citrix-lek besmet met ransomware - "Het ministerie van Justitie van de D
+uitse deelstaat Noordrijn-Westfalen kwam gisteren met een bericht dat een patiënt als gevolg van de 
+ransomware-aanval was overleden." 
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware weekoverzicht week 38 - 2020
+Nu de 
+scholen over de hele wereld weer gestart zijn, blokkeren ransomware criminelen hen met cyberaanvalle
+n die het begin van het schooljaar verstoren
+
+Choose your language » (https://cybercrimeinfo.nl/lang
+uages)
+
+https://cybercrimeinfo.nl/intro/ransomware/ransomware-aanvallen-overzicht/507292_ransomware-
+weekoverzicht-week-38-2020…
+
+/ ~ 4AC5DDE2 ~ /
+
+Bedrijven zijn kwetsbaar voor virussen, hacks, ransom
+ware, phishing en datalekken. Uit internationaal onderzoek blijkt dat 68% van de Nederlandse bedrijv
+en in 2019 slachtoffer was van cybercrime. Met een cyberverzekering bescherm je jouw bedrijf tegen s
+ch
+
+/ ~ 4AC5DDE2 ~ /
+
+Citrix-lek leidde tot ransomware-aanval op Duits ziekenhuis
+
+/ ~ 4AC5DDE2 ~ /
+
+
+#DDOS #Ransomware #Phishing #cybercrime
+
+Citrix-lek #Ransomware treft Universitair Ziekenhuis Dusse
+ldorf. Mogelijk dode.
+
+https://bit.ly/2FVYait
+Ransomware te lijf?  
+http://bit.ly/3mbK0dH
+@KPN @BNR 
+@RTLZ @PwC_Nederland @Deloitte @MKBNL @KPMG_NL @EY_Nederland @NUnl #AX0
+
+/ ~ 4AC5DDE2 ~ /
+
+Dude, Whe
+re Are My Files? Reverse Engineering Ransomware #reverseengineering
+
+/ ~ 4AC5DDE2 ~ /
+
+Het covid19 v
+irus heeft ook enorme impact op het Nederlandse zakenleven. AX 0 bv Denktank is hier zakelijk en maa
+tschappelijk op veel facetten bij betrokken. Regelmatig zijn updates en medische publicaties en erva
+ringen nauwlettend in de gaten gehouden om zo goed mogelijk zakelijk relevante actuele informatie en
+ ondersteuning aan onderneming en organisatie te bieden. Realtime informatie is dagelijks gedeeld me
+t cliënten in de Benelux en Duitsland met heldere zakelijke adviezen voor herinrichting van bijvoorb
+eeld werkplekken, technisch beschermende adviezen, security en protocollen, processen en procedures.
+Vanuit die governance zetten AX 0 bv consultants voortdurend die extra stap. Vanwege die actualiteit
+ heeft AX 0 bv dan ook deel genomen aan de RTLZ uitzendingen gepresenteerd door Myrna Goossen, “Same
+n Sterk Tijdens Corona“.Wat is de impact van covid19 op het bedrijfsleven, de zaak en hoe ziet de za
+kelijke toekomst eruit na covid19? Vragen die in elke boardroom en aan directietafels leven. Middels
+ onze tickertape houden wij u graag van tal van aktuele zaken op de hoogte.
+
+/ ~ 4AC5DDE2 ~ /
+
+#DDoS
+-aanvallen, #phishing-mails en #ransomware…; maar liefst 1 op de 5 #ondernemers wordt slachtoffer va
+n #cybercrime. Bescherm uw bedrijf en ga aan de slag met praktische tips uit dit #webinar!
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Help! Mijn bedrijf is aangevallen door ransomware. Wat nu? http://ow.ly/pHaW102n7U0
+
+/ ~ 4
+AC5DDE2 ~ /
+
+#DDOS #Ransomware #Hacks #Cybercrime & IT
+
+Wat meer dan 85% #IT profs u niet vertelt, e
+n 99.99 van die dure consultants en IT Dienstverleners? 
+
+Dat Digitaal Automatiseren in alle denkbar
+e aspecten en facetten, #100% #Voorspelbaar is.
+
+Ook #Cybercrime!
+
+https://bit.ly/2En5FhW
+
+/ ~ 4AC5D
+DE2 ~ /
+
+Citrix-lek verantwoordelijk voor ransomware-aanval Duits ziekenhuis https://datanews.knack.
+be/ict/nieuws/citrix-lek-verantwoordelijk-voor-ransomware-aanval-duits-ziekenhuis/article-news-16438
+67.html?utm_term=Autofeed&utm_medium=social_datanl&utm_source=Twitter#Echobox=1600693996…
+
+/ ~ 4AC5D
+DE2 ~ /
+
+
+Home
+
+
+
+
+
+4 sep 2020
+
+
+Laat je niet chanteren door ransomware
+
+
+Ondernemers willen bezig z
+ijn met zakendoen. Hun producten of diensten aan de man brengen en daar inkomsten uit genereren. Het
+ is dan ook bijzonder zuur als fraudeurs kans zien een (groot) deel van die inkomsten naar zich toe 
+te trekken. Het kennen van de risico’s en weten hoe te handelen helpt om die fraudeurs de voet dwars
+ te zetten.
+Met een verse mok dampende koffie naast u start u ’s morgens enthousiast uw computer op.
+ Uw grootste klant heeft gisteren om een offerte gevraagd voor een mega-order. Die móet vandaag de d
+eur nog uit.
+Maar nadat u bent ingelogd voltrekt zich een ramp: gijzelsoftware heeft al uw bestanden
+ versleuteld! U kunt nergens meer bij en een eng scherm vertelt u dat dat zo blijft tot u betaalt. V
+éél betaalt.
+Dit horror-scenario heeft al menig organisatie getroffen. Grote organisaties zijn ermee
+ in het nieuws gekomen en sommige daarvan hebben enorme bedragen betaald in de hoop weer toegang tot
+ hun bestanden te krijgen.
+De virussen die de bestanden versleutelen gaan door het leven als ‘ransom
+ware’ of ‘gijzelsoftware’. Ze zijn niet selectief en kunnen op iedere willekeurige computer hun scha
+de aanrichten. Dat is vervelend als het gaat om de foto’s van de kleinkinderen van een particulier m
+aar kan funest zijn voor de bedrijfsvoering van een ondernemer.
+
+Voorkom dat u de dupe wordt
+
+Maak d
+agelijks back-ups van uw bestanden (en zorg dat de koppeling met die back-up verbroken is nadat u kl
+aar bent met het maken ervan);
+Gebruik goede anti-virussoftware die over heuristische functies besch
+ikt (deze analyseren gedragingen van programma’s en kunnen ook op basis daarvan ingrijpen bij een aa
+nval);
+Schakel de optie ‘extensies voor bekende bestandstypen verbergen’ uit op uw computer (crimine
+len misbruiken kunnen anders kwaadaardige bestanden vermommen: ‘voorbeeldbestand.doc.exe’ wordt u bi
+jvoorbeeld getoond als ‘voorbeeldbestand.doc’);
+Open nooit bestanden met een .exe, .vbs of .scr-exte
+nsie als u de herkomst niet kent en/of vertrouwt;
+Wordt u met een afwijkend proces geconfronteerd of
+ heeft u het vermoeden van een besmetting, koppel dan meteen uw computer los van uw netwerk;
+Zorg da
+t u doorlopend de nieuwste updates van uw programma’s installeert (daarmee worden o.a. beveiligingsg
+aten gedicht).
+
+Wat te doen als uw organisatie slachtoffer is geworden van gijzelsoftware:
+
+Doe aang
+ifte bij de politie;
+Check bij Nomoreransom.org of zij u kunnen helpen de bestanden te ontsleutelen;
+
+Controleer bij de Autoriteit Persoonsgegevens of er sprake is van een meldingsplichtig datalek;
+Bet
+aling wordt doorgaans afgeraden, omdat u allerminst de garantie hebt dat u weer toegang krijgt. Bove
+ndien helpt u onbedoeld mee deze criminele activiteiten in stand te houden;
+Meld het bij de Fraudehe
+lpdesk.
+
+
+Over deze fraude
+Wereldwijd is een trend zichtbaar waarbij het schadebedrag per slachtoffe
+r snel groeit. Bedrijven worden daarbij steeds meer gericht benaderd. Personeelsleden krijgen bijvoo
+rbeeld een op maat gemaakt mailtje op naam met het verzoek op een link te klikken. Gebeurt dat, dan 
+wordt via diens computer het hele netwerk geïnfecteerd.
+Is er in zo’n situatie geen back-up beschikb
+aar, dan kiest menig bedrijf voor het betalen van het afpersbedrag in de hoop dat men daarna weer ov
+er de bestanden kan beschikken.
+Hier is sprake van een spagaat, want aan de ene kant wil je je besta
+nden terug en tegelijk wil je deze vorm van criminaliteit niet in stand houden. Bovendien is er geen
+ enkele zekerheid dat de bestanden (definitief) ontsleuteld zullen worden en weer beschikbaar komen.
+
+1,6 miljard euro
+Wereldwijd was er vorig jaar sprake van een schadepost van 1,6 miljard euro door c
+ybercrime. In juni van dit jaar merkte minister Ferd Grapperhaus van Justitie en Veiligheid op dat h
+et aantal politieaangiftes van ‘cybercrime’ in Nederland groeide van 2700 in 2018, naar bijna 4500 a
+angiften in 2019.
+Diverse onderzoeken laten zien dat in Nederland vooral het midden- en kleinbedrijf
+ last heeft van ransomware. Bekend is ook, dat het Nederlandse bedrijfsleven achterloopt op omringen
+de landen als het gaat om de beveiliging van de automatisering. Dat terwijl de gevolgen, direct en i
+ndirect, voor een bedrijf enorm groot kunnen zijn. Zorg er dus voor dat uw bedrijf niet ook aangifte
+ moet gaan doen.
+
+https://www.fraudehelpdesk.nl/wp-content/uploads/2020/09/Ransomware-16-9.mp4
+ 
+Dez
+e pagina maakt deel uit van de campagne:
+Laat bedrijfsfraude niet werken
+Ontdek hoe je het herkent e
+n laat je als ondernemer niet verrassen:
+
+Acquisitiefraude
+Bedrijfsnaamfraude
+CEO-fraude
+Factuurfrau
+de
+Faillissementsfraude
+Ransomware
+Spooknota’s
+
+ 
+ 
+
+
+
+VorigeAlles weergevenVolgende 
+
+
+
+
+
+/ ~ 4AC5D
+DE2 ~ /
+
+Een persoon in een levensbedreigende toestand stierf nadat hij door een #ransomware-aanval 
+gedwongen was naar een verder weg gelegen ziekenhuis te gaan http://ow.ly/jHE450Bwxwd #cybersecurity
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#DDOS #Ransomware #Terreur #Cybercrime
+#Ransomware aanvallen op Engelse onderwij
+s  systemen gemeld. 
+
+#Ransomware te lijf? 
+http://bit.ly/35ONNrl 
+(Ransomware Checklist)
+
+@BNR @RTL
+Z @UWVnl @KPN @KPMG @Deloitte @PwC_Nederland @EY_Nederland @MKBNL #AX0
+@Politie #cloud #IT #ICT
+
+/ ~
+ 4AC5DDE2 ~ /
+
+#DDOS #Ransomware #Hacks #Cybercrime en Digitaal Automatiseren;
+
+100% Voorspelbaar
+
+W
+at zij u niet vertellen....
+
+Ook als het weer zo fout gaat 
+https://bit.ly/2En5FhW
+@politie @PwC_Ned
+erland 
+KNMG @KPN @Deloitte @EY_Nederland @RTLZ @BNR @MKBNL @MKBServicedesk @BINederland @NPO
+
+/ ~ 4
+AC5DDE2 ~ /
+
+#DDOS #Ransomware #Hacks #Cybercrime & #IT
+
+Regelmatig brengen wij mensen op de hoogte 
+van de stand van zaken in Nederland IT Risicoland. Heel veel commerciële entiteiten wille u graag do
+en geloven dat zij alles weten van #cybercrime en daarom dienstje A…
+
+/ ~ 4AC5DDE2 ~ /
+
+don't get ra
+nsomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+Nu de scholen over de hele wereld weer gestart zijn, blokkeren
+ ransomware criminelen hen met cyberaanvallen die het begin van het schooljaar verstoren.
+In de afge
+lopen weken hebben we een gestaag spervuur ​​van aanvallen gezien op basisscholen, hogescholen en un
+iversiteiten waar ransomware criminelen zich richten op slecht beveiligde  externe desktopservers en
+ de kwetsbaarheden van netwerkapparaten.
+Om onderwijsinstellingen voor deze aanvallen te waarschuwen
+, heeft het Britse National Cyber ​​Security Centre (NCSC) richtlijnen gegeven over de stappen die o
+rganisaties zouden moeten nemen om hun verdediging te versterken.
+Er zijn ook rampzalige gevolgen vo
+or de aanvallers op universiteiten, aangezien een aanval dacht dat ze een universiteit versleutelden
+, maar in plaats daarvan een aangesloten ziekenhuis trof.
+Deze fout leidde tot een onderbreking van 
+de spoedeisende hulp, wat mogelijk  de dood van een patiënt  met een levensbedreigende aandoening he
+eft veroorzaakt.
+
+
+
+September 12th 2020
+Scholen in Fairfax County zijn getroffen door Maze-ransomwar
+e, leerling gegevens zijn gelekt
+Fairfax County Public Schools (FCPS), de 10e grootste schooldivisie
+ in de VS, werd onlangs getroffen door ransomware volgens een officiële verklaring die vrijdagavond 
+werd gepubliceerd.
+
+
+
+September 14th 2020
+Nieuwe Xorist-variant
+Xiaopao  vond een nieuwe Xorist Rans
+omware-variant die de  .BD- extensie toevoegt  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nieuwe Chuk Dharma-variant
+Xiaopao 
+vond een nieuwe Dharma Ransomware-variant die de  .chuk- extensie toevoegt  .
+Emsisoft brengt een Cr
+ypt32-decryptor uit
+Emsisoft heeft een decryptor voor de Crypt32-ransomware uitgebracht.
+Nieuwe AHP 
+Dharma ransomware-variant
+Marcelo Rivero  vond een nieuwe Dharma Ransomware-variant die de .AHP- ext
+ensie toevoegt aan gecodeerde bestanden.
+Emsisoft brengt een Cyborg-ransomware-decryptor uit
+Emsisof
+t heeft een decryptor voor de Cyborg-ransomware uitgebracht die de .petra-, .EncryptedFilePayToGetBa
+ck-, .Cyborg1- en .LockIt-extensies ondersteunt.
+Nieuwe Nefilim-ransomwarevariant
+Michael Gillespie 
+ vond een nieuwe Nefilim-variant die de .MEFILIN-  extensie toevoegt en een losgeldbriefje plaatst m
+et de naam MEFILIN-README.txt .
+Nieuwe STOP-ransomwarevariant
+Michael Gillespie vond een nieuwe STOP
+-variant die de .npph- extensie toevoegt aan versleutelde bestanden.
+
+
+
+September 15th 2020
+Nieuwe Z
+eoticus 2.0 ransomware
+Michael Gillespie vond een nieuwe ransomware genaamd Zeoticus 2.0 die de exte
+nsie " ..immunityyoung @ aol.com.young " toevoegt en een losgeldbrief plaatst met de naam  README.ht
+ml .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nieuwe Demonware-ransomware
+JAMESWT heeft de nieuwe Demonware python-ransomware
+ gevonden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+De nieuwe PewPew-ransomware vernietigt bestanden
+GrujaRS  vond een nieuwe P
+ewPew Ransomware die de .abkir- extensie toevoegt en bestanden wist.
+
+
+
+September 16th 2020
+Universi
+ty Hospital New Jersey getroffen door SunCrypt-ransomware, gegevens gelekt
+University Hospital New J
+ersey (UHNJ) heeft te maken gehad met een enorme inbreuk op 48.000 documentgegevens nadat een ransom
+ware-operatie hun gestolen gegevens had gelekt.
+LockBit ransomware lanceert datalekkensite om slacht
+offers dubbel af te persen
+De LockBit-ransomware-bende heeft een nieuwe dataleksite gelanceerd die m
+oet worden gebruikt als onderdeel van hun dubbele afpersingsstrategie (doxware) om slachtoffers bang
+ te maken om losgeld te betalen.
+New TEREN Dharma variant
+Jakub Kroustek  vond een nieuwe variant va
+n de Dharma-ransomware die de extensie .TEREN toevoegt  .
+Nieuwe Xorist-ransomwarevariant
+Michael Gi
+llespie vond een nieuwe Xorist Ransomware-variant die de  extensie .YOURPCISHACK16024752552658 toevo
+egt  aan gecodeerde bestanden.
+Nieuwe DogeCrypt DesuCrypt-variant
+dnwls0719 vond een nieuwe DesuCryp
+t-variant die zichzelf DogeCrypt noemt en de  extensie .DogeCrypt toevoegt .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Septemb
+er 17th 2020
+Maze ransomware versleutelt nu via virtuele machines om detectie te omzeilen
+De Maze-ra
+nsomware-operators hebben een tactiek aangenomen die eerder werd gebruikt door de Ragnar Locker-bend
+e; om een ​​computer te versleutelen vanuit een virtuele machine.
+Ransomware-aanval in Duits ziekenh
+uis leidt tot dood van patiënt
+Een persoon in een levensbedreigende toestand stierf nadat hij door e
+en ransomwareaanval werd gedwongen naar een verder weg gelegen ziekenhuis te gaan.
+Nieuwe Xorist-var
+iant
+Xiaopao vond een nieuwe Xorist-variant die de  .TAKA-  extensie toevoegt .
+Nieuwe BlackHeart-ra
+nsomware gevonden
+Xiaopao vond dat een nieuwe BlackHeart-variant. Alix1011RVA extensie en plaatst ee
+n losgeldbrief met de naam ReadME-Alix1011RVA .
+New LINA Dharma variant
+Xiaopao vond een nieuwe Dhar
+ma-ransomwarevariant die de .lina- extensie toevoegt aan gecodeerde bestanden.
+Nieuwe ransomware ger
+icht op Vietnam
+MalwareHunterTeam  heeft een nieuwe ransomware gevonden die zich richt op Vietnam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 18th 2020
+VK waarschuwt voor sterke toename van ransomwarebedreigingen tege
+n de onderwijssector
+Het Britse National Cyber ​​Security Centre (NCSC) heeft een waarschuwing afgeg
+even over een toename van ransomware-incidenten gericht op onderwijsinstellingen en heeft hen aanges
+poord de onlangs bijgewerkte aanbevelingen voor het beperken van malware aanvallen op te volgen.
+Too
+naangevende Amerikaanse laserontwikkelaar IPG Photonics getroffen door ransomware
+IPG Photonics, een
+ toonaangevende Amerikaanse ontwikkelaar van fiberlasers voor snijden, lassen, medisch gebruik en la
+serwapens, heeft te maken gehad met een ransomwareaanval die hun activiteiten verstoort.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Met dank aan de bijdragers van deze week: @LawrenceAbrams, @VK_Intel, @FourOctets, @malwrhuntert
+eam, @jorntvdw, @struppigel, @DanielGallagher, @PolarToffee, @serghei, @fwosar, @malwareforme, @ dem
+onslayCIlaSCIla, @Sonute , @SophosLabs, @threatresearch, @AltShiftPrtScn, @Ax_Sharma, @TU_CARE, @Kan
+gxiaopao, @emsisoft, @MarceloRivero, @JakubKroustek, @JAMESWT_MHT, @ fbgwls245 en @GrujaRS.
+
+
+
+
+
+Ran
+somware
+Ransomware cyberaanvallen zijn een big business, zo groot zelfs dat onderzoek verwacht dat e
+en bedrijf elke 11 seconden wordt aangevallen door een cybercrimineel  en dat de schade als gevolg v
+an deze aanvallen tegen 2021 ongeveer 20.000.000.000.000,- (20 biljoen) dollar zal bedragen .
+
+
+
+Wat
+ is Ransomware?
+Ransomware is software waarmee de computer wordt ‘gegijzeld’. Het slachtoffer kan ni
+et meer bij zijn persoonlijke bestanden. Bij het opstarten van de computer verschijnt een melding da
+t een bedrag betaald moet worden om weer toegang te krijgen. Wil je meer weten over Ransomware, dan 
+kun je hier verder lezen.
+
+
+
+Doxware
+
+
+
+Wat is Doxware?
+Doxware is een soort ransomware die persoonl
+ijke gegevens aan het publiek dreigt vrij te geven als de gebruiker het losgeld niet betaalt.
+De ter
+m komt van de hacker-term 'doxing' of het vrijgeven van vertrouwelijke informatie via internet. Doxw
+are-aanvallen infecteren computers vaak via phishing-e-mails. Meer weten over doxware, dan kun je hi
+er verder lezen.
+
+
+
+Advies
+
+Installeer een goede virusscanner.
+Houd alle software up-to-date, waaron
+der besturingssysteem, internetbrowser, browser aanvullingen en populaire programma's, zoals Adobe R
+eader. Met ScanCircle zie je snel hoe je pc ervoor staat. Voor software als Adobe Flash en Java is u
+itschakelen aan te raden.
+Klik niet op bijlagen en links in e-mails, tenzij je zeker weet dat het ve
+rtrouwd is. Twijfel je, kijk dan op de Opgelicht website of de e-mail daar voorkomt. Zo niet, wacht 
+dan een dag en controleer nogmaals of stuur hem door naar digitaalgids@consumentenbond.nl voor uitsl
+uitsel. 
+Schakel geen macro's bij Office-documenten van derden, zeker niet als daar in het document 
+om wordt gevraagd.
+Ransomware is vaak een uitvoerbaar .exe-bestand, vermomd als ander soort bestand,
+ bijvoorbeeld een pdf-document. Schakel  bestandsextensies weergeven, zodat je de vermomming kunt do
+orzien.
+En tenslotte: back-ups maken! Dat is sowieso verstandig, maar bij ransomware-besmetting vaak
+ het enige redmiddel om verlies van al je gegevens te voorkomen.
+
+
+
+
+Wilt u weten hoe uw digitale ve
+iligheid is? Doe dan hier de test en ontvang uw test score. (.../10)
+
+
+
+Meer weekoverzichten
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                Ransomware weekoverzicht week 38 - 2020            
+
+
+
+Nu de sc
+holen over de hele wereld weer gestart zijn, blokkeren ransomware criminelen hen met cyberaanvallen 
+die het begin van het schooljaar verstoren.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+                
+      
+          Ransomware weekoverzicht week 37 - 2020            
+
+
+
+Afgelopen week zijn grote organisat
+ies over de hele wereld aangevallen met ransomware waarbij cybercriminelen miljoenen aan losgeld eis
+ten.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+                
+                Ransomware weekoverzicht week
+ 36 - 2020            
+
+
+
+xiaopao  vond de BlackKnight-schermvergrendeling waarvoor u een wachtwoord
+ moet invoeren om toegang te krijgen tot het Windows-bureaublad.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+  
+              
+                Ransomware maandoverzicht Augustus 2020            
+
+
+
+Augustus was d
+e tweede drukste maand van 2020 voor ransomware aanvallen, waarbij enkele bekende merken zoals Jack 
+Daniels, Carnival Cruises en Canon de krantenkoppen haalden. Bij de 20 incidenten die we ontdekten, 
+was de industrie de zwaarst getroffen sector, op de voet gevolgd door onderwijs.
+
+
+        Lees meer
+ »
+    
+
+
+
+
+
+
+                
+                Ransomware weekoverzicht week 34 - 2020            
+
+
+
+
+Ransomware cyberaanvallen zijn een big business, zo groot zelfs dat onderzoek verwacht dat een bed
+rijf elke 11 seconden wordt aangevallen door een cybercrimineel  en dat de schade als gevolg van dez
+e aanvallen tegen 2021 ongeveer 20.000.000.000.000,- (20 biljoen) dollar zal bedragen .
+
+
+        Le
+es meer »
+    
+
+
+
+
+
+
+                
+                Ransomware weekoverzicht week 33 - 2020       
+     
+
+
+
+Ransomware cyberaanvallen zijn een big business, zo groot zelfs dat onderzoek verwacht dat 
+een bedrijf elke 11 seconden wordt aangevallen door een cybercrimineel  en dat de schade als gevolg 
+van deze aanvallen tegen 2021 ongeveer 20.000.000.000.000,- (20 biljoen) dollar zal bedragen .
+
+
+   
+     Lees meer »
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                (1 / 2)
+            
+
+
+
+                    1     
+           
+
+
+
+                    2                
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Ransomware ber
+ichten
+
+
+
+
+
+
+
+
+
+
+
+                
+                Ransomware-aanval in Duits ziekenhuis leidt tot d
+ood van patiënt            
+
+
+
+Een persoon in een levensbedreigende toestand stierf nadat hij door e
+en ransomware-aanval gedwongen was naar een verder weg gelegen ziekenhuis te gaan.
+
+
+        Lees me
+er »
+    
+
+
+
+
+
+
+                
+                Update 3: Veligheidsregio (Noord- en Oost Gelderlan
+d) getroffen door Ransomware            
+
+
+
+Update 17-9-2020, 16.00 uur
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+
+                
+                De meest gevreesde Ransomware versleutelingen            
+
+
+
+N
+etwalker in een ransomware die in september 2019 werd ontdekt. Het draagt een tijdstempel van eind a
+ugustus 2019. Netwalker is een bijgewerkte versie van Mailto die ontdekt werd door de onafhankelijk 
+cybersecurity-onderzoeker en Twitter-gebruiker GrujaRS.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+           
+     
+                Spie International bevestigt ransomware aanval            
+
+
+
+Spie Internation
+al is het slachtoffer geworden van cybercriminelen. Ze slaagde erin om de Nefilim-ransomware op het 
+computernetwerk van het bedrijf te installeren. Inmiddels werken alle systemen weer en draait de pro
+ductie weer als vanouds. Wel is er data buitgemaakt van diverse klanten.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+
+                
+                Amerikaanse gemeente besluit tot betalen cybercriminelen     
+       
+
+
+
+Eind juli werd de Amerikaanse stad 'Lafeyette' het slachtoffer van een ransomware aanval.
+ Cybercriminelen hadden het stadsnetwerk geïnfecteerd en eisten € 38.000 euro voor het ontsleutelen 
+van de bestanden.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+                
+                Canon maakt rans
+omware aanvallen bekend aan werknemers            
+
+
+
+BleepingComputer heeft een screenshot ontvange
+n van een intern bericht dat door Canon naar medewerkers is gestuurd waarin de ransomware aanval wor
+dt onthuld.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+                
+                "Storing" bij Canon   
+         
+
+
+
+Dat er veel meer cybercrime slachtoffers zijn dan wordt gemeld, is inmiddels wel duidel
+ijk. Er heerst nog altijd een taboe rondom slachtofferschap van digitale delicten.
+
+
+        Lees me
+er »
+    
+
+
+
+
+
+
+                
+                Het businessmodel van 'Ransomware as a Service'    
+        
+
+
+
+Vorige week werd Garmin slachtoffer van een ransomware aanval door de Russische hackers 
+group Evil Corp. Dagenlang waren de diensten van Garmin onbereikbaar. Het is steeds makkelijker om d
+it soort aanvallen te doen omdat er zoiets bestaat als 'Ransomware as a Service' (RaaS).
+
+
+        L
+ees meer »
+    
+
+
+
+
+
+
+                
+                Hackers groep Lazarus zet actief 'VHD-ransomw
+are' in voor bedrijfsaanvallen            
+
+
+
+Door Noord-Korea gesteunde hackers groep Lazarus zet a
+ctief VHD-ransomware in tegen bedrijven, volgens een rapport dat gisteren is gepubliceerd door Kaspe
+rsky-onderzoekers.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+                
+                "Naar schatting
+ 538 miljoen euro bespaard aan ransom betalingen"            
+
+
+
+Het 'No More Ransom' Project viert 
+vandaag zijn vierde verjaardag. Het project dat de Nederlandse politie, Europol en antivirusbedrijve
+n Kaspersky Lab en McAfee in juli 2016 lanceerden bestaat inmiddels vier jaar.
+
+
+        Lees meer »
+
+    
+
+
+
+
+
+
+                
+                Geen storing maar gijzelsoftware bij 'Garmin'          
+  
+
+
+
+Het is al dagen niet mogelijk om sportactiviteiten te synchroniseren met de mobiele app 'Garmi
+n Connect'. Dat geldt ook voor andere diensten van het bedrijf.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+   
+             
+                Het Nederlands kenniscentrum watertechnologie en slachtoffer van Ranso
+mware, heeft besloten niet te zeggen wat er betaald is aan cybercriminelen            
+
+
+
+Het Friese
+ onderzoeksinstituut Wetsus heeft na overleg met de politie besloten om het bedrag dat aan een cyber
+crimineel werd betaald voor het ontsleutelen van bestanden niet bekend te maken. Begin februari raak
+te het netwerk van Wetsus via een "openstaande serverpoort" door niet nader genoemde ransomware besm
+et. Een dag na de infectie betaalde Wetsus het losgeld omdat dit goedkoper was dan het zelf herstell
+en van de systemen.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                (1 / 7)
+            
+
+
+
+ 
+                   1                
+
+
+
+                    2                
+
+
+
+                   
+ 3                
+
+
+
+                    4                
+
+
+
+                    5                
+
+
+
+
+                    6                
+
+
+
+                    7                
+
+
+
+
+
+
+
+
+
+
+
+Doxwar
+e berichten
+
+
+
+
+
+
+
+
+
+
+
+                
+                Cybercriminelen publiceren tientallen gigaby
+tes aan interne gegevens van LG en Xerox            
+
+
+
+De cybercriminelen van de Maze-ransomware he
+bben gisteren tientallen GB interne gegevens van de netwerken van de zakelijke reuzen 'LG' en 'Xerox
+' gepubliceerd na twee mislukte afpersingspogingen.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+               
+ 
+                LG Electronics slachtoffer van Doxware            
+
+
+
+De cybercriminelen achter de
+ Maze-ransomware claimt systemen van elektronicagigant 'LG Electronics' te hebben geïnfecteerd, waar
+bij ook door het bedrijf ontwikkelde broncode is buitgemaakt. Als LG het gevraagde losgeld niet beta
+alt zullen de criminelen de gestolen data openbaar maken.
+
+
+        Lees meer »
+    
+
+
+
+
+
+
+
+
+
+
+
+
+   
+             (1 / 1)
+            
+
+
+
+                    1                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ander nieu
+ws nieuws »
+Overzicht met cybercrime vormen en begrippen »
+Tips en tricks »
+Inschrijven wekelijkse n
+ieuwsbrief »
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Cookies op Tweakers
+
+Tweakers maakt gebruik van cookies
+
+							
+Tweakers is onderdeel van DPG Media. Onze sites en apps gebruiken cookies, JavaScript en vergelijkba
+re technologie onder andere om u een optimale gebruikerservaring te bieden. Ook kunnen we hierdoor h
+et gedrag van bezoekers vastleggen en analyseren, en deze informatie toevoegen aan bezoekersprofiele
+n.
+						
+
+							Cookies kunnen worden gebruikt om op Tweakers advertenties te tonen en artikelen a
+an te bevelen die aansluiten bij uw interesses. Ook derden kunnen uw internetgedrag volgen, zoals bi
+jvoorbeeld het geval is bij embedded video's van YouTube.
+						
+
+						    Cookies kunnen ook worde
+n gebruikt om op sites van derden relevante advertenties te tonen. Meer informatie hierover vindt u 
+op tweakers.net/cookies.
+						
+
+						    Om pagina's op Tweakers te kunnen bekijken, moet u de coo
+kies accepteren door op 'Ja, ik accepteer cookies' te klikken.
+                        
+
+
+ Ja, ik ac
+cepteer cookies
+
+
+
+
+
+
+Klik hier om in te loggen.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware-aanval op Duits ziek
+enhuis via Citrix-lek
+
+/ ~ 4AC5DDE2 ~ /
+
+Data Privacy 2020
+
+Stadion Feijenoord
+
+Rotterdam
+
+22sepAll 
+DayData Privacy 2020
+Event informatieDe invoering van de AVG heeft een grote impact gehad op de mani
+er waarop organisaties en burgers naar privacy en de bescherming van persoonsgegevens zijn gaan kijk
+en. De wet heeft
+
+Lees meer
+
+Event informatie
+De invoering van de AVG heeft een grote impact gehad o
+p de manier waarop organisaties en burgers naar privacy en de bescherming van persoonsgegevens zijn 
+gaan kijken. De wet heeft organisaties gedwongen de basis rondom data privacy op orde te brengen. Nu
+ we 2 jaar verder zijn gaan we de volgende fase in. Het is tijd om vooruit te denken en gegevensbesc
+herming te integreren in het bedrijfsproces en de organisatie.
+Deze 6e editie van het Data Privacy c
+ongres gaan we hier op in en geven we u praktische tips en concrete handvatten om uw privacy strateg
+ie toekomstbestendig te maken. Het thema luidt dan ook: De nieuwe privacy realiteit: innoveer mee!
+
+
+
+
+
+
+
+
+
+
+
+Tijd
+All Day (Tuesday)
+
+
+
+
+
+
+LocatieStadion FeijenoordRotterdam
+
+
+
+
+
+
+
+Organizer
+
+
+Heliview
+
+
+
+
+
+
+InformatieInformatie 
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+KalenderGoogleCal
+
+
+
+
+
+
+
+
+
+
+
+Test Automation Days
+
+
+Jaarbeurs Utrecht
+
+Jaarbeursplein 1,3521 AL,Utrecht
+
+22sepAll Day23Test Automation Days
+Event inform
+atieIn the last decade Test Automation Days has proven to be the key meeting place for the internati
+onal test automation community. A two day conference filled with innovative and transforming
+
+Event 
+informatie
+In the last decade Test Automation Days has proven to be the key meeting place for the in
+ternational test automation community. A two day conference filled with innovative and transforming 
+talks, workshops and hands-on experiences. Discover the most up-to-date techniques and test tools, n
+etwork with over 250 software testing professionals and learn from world’s leading test automation e
+xperts.
+
+
+
+
+
+
+
+
+
+
+Tijd
+september 22 (Tuesday) - 23 (Wednesday)
+
+
+
+
+
+
+LocatieJaarbeurs UtrechtJaarbeu
+rsplein 1,3521 AL,Utrecht
+
+
+
+
+
+
+
+Organizer
+
+ckcseminars
+
+
+
+
+
+InformatieInformatie 
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+
+KalenderGoogleCal
+
+
+
+
+
+
+
+
+
+
+
+Bits en Chips - System Architecting
+23sepAll DayBits en Chips - Sys
+tem Architecting
+Event informatieThe third edition of the Bits&Chips System Architecting Conference 
+takes place at the Verkadefabriek in ‘s-Hertogenbosch, the Netherlands, on 23 September 2020. Throug
+h an inspiring program, this event brings together
+
+Event informatie
+The third edition of the Bits&C
+hips System Architecting Conference takes place at the Verkadefabriek in ‘s-Hertogenbosch, the Nethe
+rlands, on 23 September 2020. Through an inspiring program, this event brings together system archit
+ects to share successful and failed development cases.
+System architecture is a distinguishing disci
+pline in the development and commercialization of complex systems, products and machines. The system
+ architect’s decisions can make or break a product. Experience is an important factor, but the syste
+m architect can also learn a lot from his peers.
+
+
+
+
+
+
+
+
+
+
+Tijd
+All Day (Wednesday)
+
+
+
+
+
+
+Locatie's-
+Hertogenbosch
+
+
+
+
+
+
+
+Organizer
+
+Bits&Chips
+
+
+
+
+
+InformatieInformatie 
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+KalenderG
+oogleCal
+
+
+
+
+
+Esri GIS Conferentie & Tech
+23sep(sep 23)1:00 am24(sep 24)1:00 amEsri GIS Conferentie 
+& Tech
+Event informatieDe Esri GIS Conferentie is het grootste, jaarlijkse GIS-evenement in Nederlan
+d. Jaarlijks nemen meer dan 1500 mensen deel aan deze tweedaagse conferentie.
+
+Het ochtendprogramm
+a van beide dagen bestaat uit key note-presentaties
+
+Lees meer
+
+Event informatie
+De Esri GIS Confere
+ntie is het grootste, jaarlijkse GIS-evenement in Nederland. Jaarlijks nemen meer dan 1500 mensen de
+el aan deze tweedaagse conferentie.
+Het ochtendprogramma van beide dagen bestaat uit key note-presen
+taties waarin sprekers hun visie op hun eigen vakgebied delen. Het middagprogramma bestaat uit verdi
+epende sessies met verhalen uit de praktijk en door de praktijk. Daarnaast worden er technische sess
+ies gehouden. Uiteraard is er ook een beurs met onder andere stands van bedrijven uit de GIS-sector.
+
+Een deel van de beurs bestaat uit paviljoens en pleinen waarin onder andere innovatie centraal staa
+t.
+De Esri GIS Conferentie kort samengevat:
+
+Keynote-presentaties
+Verhalen uit de praktijk
+Technisch
+e sessies
+Expert round tables
+Beurs met bedrijven uit de GIS-sector
+Diverse paviljoens en pleinen
+
+
+
+
+
+
+
+
+
+
+
+
+Tijd
+23 (Wednesday) 1:00 am - 24 (Thursday) 1:00 am
+
+
+
+
+
+
+LocatieOnline
+
+
+
+
+
+
+
+Organizer
+
+E
+sri
+
+
+
+
+
+InformatieInformatie 
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+KalenderGoogleCal
+
+
+
+
+
+Opleiding Project Control
+s
+28sepAll DayOpleiding Project Controls
+Event informatieDe Primaned Academy leidt op in Project Con
+trols. Organisaties richten zich steeds meer in als matrixorganisatie waarin projectmatig wordt gewe
+rkt. Om de projecten te kunnen beheersen is een strategie nodig
+
+Lees meer
+
+Event informatie
+De Prim
+aned Academy leidt op in Project Controls. Organisaties richten zich steeds meer in als matrixorgani
+satie waarin projectmatig wordt gewerkt. Om de projecten te kunnen beheersen is een strategie nodig 
+waarbij het goed opleiden van medewerkers een essentieel onderdeel is. De uitdaging van een Project 
+Controls zit in de onderlinge verbanden tussen verschillende kennisgebieden. Een scope-wijziging, is
+ bijvoorbeeld een change met potentieel effect op een andere schedule, resourcebezetting, communicat
+ieplan, risicoregister en budget. 
+Bij het samenstellen van ons opleidingspakket wordt rekening geho
+uden met onderlinge verbanden, waarbij projectplanning een centrale plaats inneemt. Door de geïntegr
+eerde aanpak leert de deelnemer niet alleen de theorie en tooling, maar kan deze ook meteen toepasse
+n om het projectenportfolio te beheersen.
+Het nieuwe semester van de opleiding Project Controls star
+t op 28-09-2020 t/m 14-12-2020.
+De opleiding bestaat uit 3 stappen: Eerst wordt er een basis gelegd 
+in de Foundation, daarna wordt er een Tooling gekozen voor de planning (Microsoft Project of Oracle 
+Primavera P6 Professional) en tot slot kunnen er specialisaties worden gekozen.
+
+
+
+
+
+
+
+
+
+
+Tijd
+All D
+ay (Monday)
+
+
+
+
+
+
+LocatieCapelle a/d IJssel
+
+
+
+
+
+
+
+Organizer
+
+
+Primaned
+
+
+
+
+
+InformatieInformatie 
+
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+KalenderGoogleCal
+
+
+
+
+
+Opleiding Outlook efficiënt e-mailbeheer en Timemanagemen
+t + OneNote
+
+Novotel Rotterdam Brainpark
+
+K.P. van der Mandelelaan 150, 3062 MB Rotterdam
+
+28sepAll 
+DayOpleiding Outlook efficiënt e-mailbeheer en Timemanagement + OneNote
+Event informatieLeer op een 
+deskundige manier met Outlook werken dankzij onze opleiding "Outlook efficiënt e-mailbeheer en Timem
+anagement". Outlook is de belangrijkste communicatie tool van uw bedrijf geworden. Leer eveneens de 
+prachtige
+
+Lees meer
+
+Event informatie
+Leer op een deskundige manier met Outlook werken dankzij onze
+ opleiding “Outlook efficiënt e-mailbeheer en Timemanagement”. Outlook is de belangrijkste communica
+tie tool van uw bedrijf geworden. Leer eveneens de prachtige nieuwe tools van Outlook 2010, 2013,201
+6,2019 en 365 die u zeer veel tijd doen besparen. Uiteraard worden de veiligheidsmaatregelen en afst
+andsregels gerespecteerd.
+Mis deze unieke kans niet!
+Agenda Outlook efficiënt e-mailbeheer en Timema
+nagement
+·         09:00 – 10:30 Nieuwe manier van werken in Outlook, verlies niet langer tijd met h
+et ordenen van mails.
+·         10:30 – 10:45 Break
+·         10:45 – 12:00 Efficiënt e-mail beheer 
+en gebruik van macro’s, autotekst, Snelonderdelen, snelle stappen
+·         12:00 – 13:00 Lunch
+·   
+      13:00 – 14:30 Beheer van agenda en taken + belangrijke opties
+·         14:30 – 14:45 Break
+· 
+        14:45 – 16:00 Demo OneNote voor dossierbeheer, en het notuleren tijdens vergaderingen + de i
+nteractie met Outlook.
+
+
+
+
+
+
+
+
+
+
+Tijd
+All Day (Monday)
+
+
+
+
+
+
+LocatieNovotel Rotterdam BrainparkK.P. 
+van der Mandelelaan 150, 3062 MB Rotterdam
+
+
+
+
+
+
+
+Organizer
+
+Beta consulting
+
+
+
+
+
+Informatieinformat
+ie 
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+KalenderGoogleCal
+
+
+
+
+
+Opleiding Outlook efficiënt e-mailbeheer en Timemana
+gement + OneNote (Copy)
+29sepAll DayOpleiding Outlook efficiënt e-mailbeheer en Timemanagement + One
+Note (Copy)
+Event informatieLeer op een deskundige manier met Outlook werken dankzij onze opleiding 
+"Outlook efficiënt e-mailbeheer en Timemanagement". Outlook is de belangrijkste communicatie tool va
+n uw bedrijf geworden. Leer eveneens de prachtige
+
+Lees meer
+
+Event informatie
+Leer op een deskundig
+e manier met Outlook werken dankzij onze opleiding “Outlook efficiënt e-mailbeheer en Timemanagement
+”. Outlook is de belangrijkste communicatie tool van uw bedrijf geworden. Leer eveneens de prachtige
+ nieuwe tools van Outlook 2010, 2013,2016,2019 en 365 die u zeer veel tijd doen besparen. Uiteraard 
+worden de veiligheidsmaatregelen en afstandsregels gerespecteerd.
+Mis deze unieke kans niet!
+Agenda 
+Outlook efficiënt e-mailbeheer en Timemanagement
+·         09:00 – 10:30 Nieuwe manier van werken in
+ Outlook, verlies niet langer tijd met het ordenen van mails.
+·         10:30 – 10:45 Break
+·       
+  10:45 – 12:00 Efficiënt e-mail beheer en gebruik van macro’s, autotekst, Snelonderdelen, snelle st
+appen
+·         12:00 – 13:00 Lunch
+·         13:00 – 14:30 Beheer van agenda en taken + belangrijke
+ opties
+·         14:30 – 14:45 Break
+·         14:45 – 16:00 Demo OneNote voor dossierbeheer, en he
+t notuleren tijdens vergaderingen + de interactie met Outlook.
+
+
+
+
+
+
+
+
+
+
+Tijd
+All Day (Tuesday)
+
+
+
+
+
+
+
+LocatieAmsterdam in Hotel Van der Valk Schiphol
+
+
+
+
+
+
+
+Organizer
+
+Beta consulting
+
+
+
+
+
+Informatiei
+nformatie 
+
+
+ 
+
+Aanmelden
+
+
+
+
+
+
+KalenderGoogleCal
+
+
+
+
+
+ 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+1 patient sterft door r
+ansomware aanval op Duits ziekenhuis. Patient Dies As German Hospital Ransomware Attack Unleashes Ch
+aos | Zero Hedge
+
+/ ~ 4AC5DDE2 ~ /
+
+Help! Mijn bedrijf is aangevallen door ransomware. Wat nu? http:
+//ow.ly/bUqy102n8hq
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Het Duitse ziekenhuis waar vorige week een dode viel na een 
+ransomware-aanval, raakte besmet via het Citrix-lek dat eind 2019 werd ontdekt.
+Een ransomware-aanva
+l die vorige week een ziekenhuis in Düsseldorf plat legde, waardoor patiënten moesten worden verplaa
+tst, raakte besmet via een Citrix-lek. Hetzelfde lek, een kritieke kwetsbaarheid in Citrix Gateway e
+n ADC, werd in december vorig jaar ontdekt. Het ziekenhuis meldt dat het in januari, op de dag van d
+e publicatie, de patch heeft geïnstalleerd die door Citrix werd uitgebracht. Het systeem zou dus voo
+r de beveiligingsupdate zijn geïnfiltreerd, iets wat wel vaker voorkomt, volgens de Bundesamt für Si
+cherheid in der Informationstechnik (BSI).
+Actie misbruikt
+Volgens de BSI, een dienst van het Duits 
+ministerie van Binnenlandse Zaken, is het mogelijk dat indringers de systemen compromitteerden voor 
+januari, en die toegang behielden nadat de patch werd geïnstalleerd. Het Belgische CERT waarschuwde 
+bedrijven er in januari voor dat de kwetsbaarheid in Citrix-systemen actief werd misbruikt in de per
+iode tussen de ontdekking en de uitrol van de eerste patch.
+De aanval wordt grondig onderzocht in Du
+itsland, omdat hij mogelijk tot een overlijden heeft geleid. Omdat de computersystemen in het zieken
+huis geblokkeerd waren, moest een patiënte in levensgevaar uitwijken naar een ziekenhuis een uur ver
+der, waar ze uiteindelijk overleed.
+In samenwerking met Datanews 
+
+/ ~ 4AC5DDE2 ~ /
+
+Help! Mijn bedr
+ijf is aangevallen door ransomware. Wat nu? http://ow.ly/wOYe102n820
+
+/ ~ 4AC5DDE2 ~ /
+
+Voor wie het
+ heeft gemist: 8 meestgestelde vragen en antwoorden over de dodelijke afloop van een ransomware-aanv
+al op een Duits ziekenhuis.  https://z-cert.nl/publicaties/articles/8-vragen-over-ransomware-met-dod
+elijke-afloop… #CyberSecurity #ransomware #healthcare #hackers
+
+/ ~ 4AC5DDE2 ~ /
+
+De Duitse politie 
+is bezig met een onderzoek naar het overlijden van een patiënt in een ziekenhuis. Dit gebeurde tijde
+ns een ransomware-aanval op het ziekenhuis waarin ze lag.
+https://bit.ly/3cgkgYQ
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Laat je niet chanteren door ransomware!
+
+Amerikaans onderzoek: 41% van van het MKB in de eerste helf
+t van 2020 getroffen door ransomware.
+
+Laat #bedrijfsfraude niet werken.
+Ontdek hoe je het herkent e
+n laat je als ondernemer niet verrassen. Kijk op
+http://fraudehelpdesk.nl/ransomware
+
+/ ~ 4AC5DDE2 ~
+ /
+
+
+Een ransomware-aanval die vorige week een ziekenhuis in Düsseldorf plat legde, waardoor patiënt
+en moesten worden verplaatst, raakte besmet via een Citrix-lek. Hetzelfde lek, een kritieke kwetsbaa
+rheid in Citrix Gateway en ADC, werd in december vorig jaar ontdekt. Het ziekenhuis meldt dat het in
+ januari, op de dag van de publicatie, de patch heeft geïnstalleerd die door Citrix werd uitgebracht
+. Het systeem zou dus voor de beveiligingsupdate zijn geïnfiltreerd, iets wat wel vaker voorkomt, vo
+lgens de Bundesamt für Sicherheid in der Informationstechnik (BSI). Volgens de BSI, een dienst van h
+et Duits ministerie van Binnenlandse Zaken, is het mogelijk dat indringers de systemen compromitteer
+den voor januari, en die toegang behielden nadat de patch werd geïnstalleerd. Het Belgische CERT waa
+rschuwde bedrijven er in januari voor dat de kwetsbaarheid in Citrix-systemen actief werd misbruikt 
+in de periode tussen de ontdekking en de uitrol van de eerste patch.De aanval wordt grondig onderzoc
+ht in Duitsland, omdat hij mogelijk tot een overlijden heeft geleid. Omdat de computersystemen in he
+t ziekenhuis geblokkeerd waren, moest een patiënte in levensgevaar uitwijken naar een ziekenhuis een
+ uur verder, waar ze uiteindelijk overleed.
+
+
+    Een ransomware-aanval die vorige week een ziekenhu
+is in Düsseldorf plat legde, waardoor patiënten moesten worden verplaatst, raakte besmet via een Cit
+rix-lek. Hetzelfde lek, een kritieke kwetsbaarheid in Citrix Gateway en ADC, werd in december vorig 
+jaar ontdekt. Het ziekenhuis meldt dat het in januari, op de dag van de publicatie, de patch heeft g
+eïnstalleerd die door Citrix werd uitgebracht. Het systeem zou dus voor de beveiligingsupdate zijn g
+eïnfiltreerd, iets wat wel vaker voorkomt, volgens de Bundesamt für Sicherheid in der Informationste
+chnik (BSI). Volgens de BSI, een dienst van het Duits ministerie van Binnenlandse Zaken, is het moge
+lijk dat indringers de systemen compromitteerden voor januari, en die toegang behielden nadat de pat
+ch werd geïnstalleerd. Het Belgische CERT waarschuwde bedrijven er in januari voor dat de kwetsbaarh
+eid in Citrix-systemen actief werd misbruikt in de periode tussen de ontdekking en de uitrol van de 
+eerste patch.De aanval wordt grondig onderzocht in Duitsland, omdat hij mogelijk tot een overlijden 
+heeft geleid. Omdat de computersystemen in het ziekenhuis geblokkeerd waren, moest een patiënte in l
+evensgevaar uitwijken naar een ziekenhuis een uur verder, waar ze uiteindelijk overleed.
+ 

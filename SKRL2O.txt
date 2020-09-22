@@ -1,0 +1,1234 @@
+Le ransomware : plus spécialisé et plus virulent en 2020
+
+/ ~ 4AC5DDE2 ~ /
+
+Même si vous ne vous app
+elez pas Laurence!
+
+Venez participer à la conférence digitale Rubrik Forward 
+                      
+  le jeudi 8 octobre 2020 
+#Rubrik #Backup #Ransomware #GOFORWARD #France #API #Recover #Database #O
+racle
+
+Agenda & Inscription  https://bit.ly/32Mkjsu
+
+/ ~ 4AC5DDE2 ~ /
+
+#Zerologon PoCs released, fiv
+e steps to recover from #ransomware, CISOs’ golden opportunity (FR) #microsoft a finalement mis à jo
+ur des failles de sécurité #Windows10 que la Homeland Security l'a pressé instamment, pendant le wee
+kend, pas plus, de combler
+
+/ ~ 4AC5DDE2 ~ /
+
+Article très intéressant sur la montée des ransomware 
+...
+Ransomware as a business !
+
+/ ~ 4AC5DDE2 ~ /
+
+Le ransomware Maze copie Ragnar Locker en se cacha
+nt en VM http://dlvr.it/Rh1yvB
+
+/ ~ 4AC5DDE2 ~ /
+
+Emotet? Le 0day sur netlogon?
+Jaime bcp le "reussi
+t à circonscrire" mais sans vouloir preciser le "ransomware" ....
+Pas rassurant...
+
+/ ~ 4AC5DDE2 ~ /
+
+
+#CyberSecurityAwareness #1
+Analyse de l'attaque #ransomware subie par le leader mondial des #datac
+enters Equinix  https://okt.to/DaoTs5
+@CYBERGUERRES
+ Retrouvez toute l'actualité #ransomware et #dat
+aleak https://okt.to/erfR5x
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : la France parmi les pays les plus attaqu
+és |
+
+/ ~ 4AC5DDE2 ~ /
+
+L'insécurité informatique l'a tuée. Doit on s'attendre à une prise de consci
+ence ou une proche banalisation ? 
+Une femme décède au cours d’un ransomware dans un hôpital alleman
+d https://siecledigital.fr/2020/09/18/une-femme-decede-au-cours-dun-ransomware-dans-un-hopital-allem
+and/…
+#esante #Cybercrime
+
+/ ~ 4AC5DDE2 ~ /
+
+Bon, #Conti et #Maze ont l'air de se tirer la bourre à 
+un rythme effréné... La barre des 190 incidents ce mois-ci est atteinte. #ransomware
+
+/ ~ 4AC5DDE2 ~
+ /
+
+Gouvernance de l’information, données personnelles, propriété intellectuelle… Le droit de l’info
+rmation est omniprésent. Les textes de référence peuvent être anciens ; parallèlement, internet et l
+e numérique conduisent à une production importante de nouvelles législations françaises ou européenn
+es. Les nouvelles questions juridiques sont pléthore : protection des données à caractère personnel 
+(RGPD), réforme du droit d’auteur, text et data mining, blockchain… Avec la legaltech, l’industrie d
+u droit est en plein renouvellement.
+Ce guide pratique décrypte toutes ces questions, permettant aux
+ organisations de se mettre à jour et aux documentalistes d’assurer une veille juridique complète. P
+our ces professionnels, de nombreux développements sont consacrés aux questions découlant du respect
+ du droit d’auteur - jusqu’à celle du scraping de données -, véritable pivot juridique de la pratiqu
+e documentaire. Sont aussi abordés des sujets de droit propres au document numérique : preuve, copie
+, signature, lettre recommandée, coffre-fort... Avocats, juristes et spécialistes interviennent dans
+ cette cinquième édition et délivrent avertissements et conseils pratiques.
+
+/ ~ 4AC5DDE2 ~ /
+
+Ranso
+mware : Maze menace d’extorsion au-delà de ses victimes
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+Les cyber-délinqua
+nts ont revendiqué près de 700 victimes à travers le monde depuis le début de l’année. Nous avons id
+entifié plusieurs dizaines de cas en France. Quelques exemples épars, plus ou moins marquants, suffi
+sent-ils à éveiller les consciences ? Rien n’est moins sûr. Mais il n’y a pas de doute : la menace d
+es rançongiciels est de plus en plus marquée.
+> Lire l'article de Valéry Marchive
+
+
+
+
+
+/ ~ 4AC5DDE2 
+~ /
+
+C'est moche : Un ransomware provoque un décès en paralysant par erreur un hôpital... Devant l'i
+mpossibilité d'opérer en urgence une patiente, elle a été réorientée dans un autre établissement de 
+santé où elle est décédée. https://lemondeinformatique.fr/actualites/lire-un-ransomware-cible-par-er
+reur-un-hopital-une-patiente-meurt-80428.html… via @MondeInformatiq #btssio #SSI
+
+/ ~ 4AC5DDE2 ~ /
+
+
+ On pourrait ajouter à cette liste d'acronymes : "QTZ" pour #Quackbot/#Trickbbot/#Zloader , la charg
+e virale déposée par #Emotet Epoch3. #Ransomware #malware
+
+/ ~ 4AC5DDE2 ~ /
+
+Le ransomware Maze copi
+e Ragnar Locker en se cachant en VM
+
+/ ~ 4AC5DDE2 ~ /
+
+01net write "Pour la première fois, une perso
+nne est morte à la suite d\’un ransomware" 
+See full original article:  https://01net.com/actualites
+/pour-la-premiere-fois-une-personne-est-morte-a-la-suite-d-un-ransomware-1977933.html… 
+All our feed
+s: https://secnews.physaphae.fr
+
+/ ~ 4AC5DDE2 ~ /
+
+Le ransomware Maze copie Ragnar Locker en se cach
+ant en VM: Les cyberpirates auraient-ils trouvé un moyen d'action imparable pour disséminer des rans
+omwares ? C'est la question que l'on peut se poser (...) http://dlvr.it/Rh2n8p htp://test.com
+
+/ ~ 4
+AC5DDE2 ~ /
+
+Pour la première fois, une cyber attaque tue. Tragique! #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+De l'intérêt de bien valider le mode dégradé dans les hôpitaux.
+Tout miser sur l'informatique n'est 
+judicieux dans aucun domaine. Et dans certains encore moins que d'autres.
+
+A Patient Dies After Rans
+omware Attack Paralyzes German Hospital Systems
+
+/ ~ 4AC5DDE2 ~ /
+
+Une solution A2F pour Windows pou
+r renforcer la sécurité suite à une attaque de ransomware [Etude de cas] http://dlvr.it/Rh4X5N
+
+/ ~ 
+4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié l
+e: 18 sept. 2020
+
+
+ 
+Comment déterminer l’importance de la menace ? Quelques exemples épars, plus ou
+ moins marquants, suffisent-ils à éveiller les consciences ? Rien n’est moins sûr. Mais il n’y a pas
+ de doute : la menace des rançongiciels est de plus en plus marquée.
+Suite de l'article ci-dessous
+
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Information sécurité 12 : Menace Cyber #NotPetya : les ens
+eignements tirés chez Maersk
+Le paysage de la menace cyber a fondamentalement changé, avec un risque
+ très réel d'être pris dans des activités parrainées par des États-nations. Ce numéro de Information
+ Sécurité vous livre la tendance en matière de cybersécurité, de la gestion des vulnérabilités à Toy
+ota en passant par le Danemark
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié
+ d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregi
+stré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Mer
+ci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTa
+rget, ainsi que la politique de confidentialité et le transfert de mes informations aux États-Unis p
+our traitement afin de me fournir les informations pertinentes décrites dans notre Politique de conf
+identialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations
+ soient traitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais du télé
+phone ou du courrier électronique et ce à propos d’informations pertinentes dans mon contexte profes
+sionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selon Acyma, aux commandes du portail cybermalveillance.gouv.fr, il 
+faut compter plus d’un millier de déclarations d’attaque par ransomware – ou cryptovirus, peut-on en
+tendre parfois – depuis le début de l’année. L’Agence nationale pour la sécurité des systèmes d’info
+rmation (Anssi) indique quant à elle être intervenue sur 104 incidents depuis le début de l’année.
+D
+e notre côté, nous avons dénombré au moins 45 incidents connus publiquement dans l’Hexagone depuis l
+e début de l’année. Ce chiffre est d’autant plus parcellaire qu’il ne tient pas compte des plusieurs
+ dizaines de victimes associées à la compromission de l’infrastructure Kaseya, d’administration à di
+stance, de Xefi, en janvier. Rien qu’avec cela, il est facile d’imaginer que le compte dépasse déjà 
+la centaine.
+
+
+
+
+
+
+À l’échelle de la planète, les données ne sont guère plus exhaustives. Nous avons
+ recensé ainsi près de 720 victimes revendiquées par les cybertruands depuis le début de l’année. Là
+, c’est la tendance, mois après mois, qui impressionne : la hausse est marquée et rapide. Mais les c
+hiffres compilés pour la fin août et le début septembre peuvent être trompeurs : ils sont fortement 
+marqués par le groupe aux commandes du ransomware Conti. Ce dernier est dit lié à Ryuk, qui était pl
+utôt discret, jusqu’ici, sur ses victimes. Dès lors, ce que l’on observe sur la fin de l’été traduit
+ peut-être moins une progression explosive que l’extension de la partie visible des attaques. Toutef
+ois, cela n’enlève rien à une tendance marquée à la hausse.
+Ci-dessous, vous retrouverez notre chron
+ologie des incidents connus en France depuis le début de l’année – soit à la date de survenue, soit 
+à la date de sa révélation.
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre la mon
+tre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir 
+sur Menaces informatiques
+
+
+
+Ransomware : les confirmations de l’ampleur de la menace se multiplient
+
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Enquête sur la face cachée des ransomwares : les négociations
+
+
+
+
+Par:
+ Valéry Marchive
+
+
+
+
+FIC 2020 : derrière l’humain, l’utilisateur final, et surtout le citoyen
+
+
+
+
+Pa
+r: Valéry Marchive
+
+
+
+
+L’e-mail, vecteur de référence d’attaques marquées par la patience
+
+
+
+
+Par: V
+aléry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#Cybersécurité #Ransomware : la plus grande menace actuelle.
+..
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware : une attaque suspectée d'avoir provoqué un décès en Allemagne. #c
+ybersecurité
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware : une attaque suspectée d'avoir provoqué un décès en All
+emagne https://zdnet.fr/actualites/ransomware-une-attaque-suspectee-d-avoir-provoque-un-deces-en-all
+emagne-39909843.htm… via @zdnetfr #cybersécurité
+
+/ ~ 4AC5DDE2 ~ /
+
+De l'intérêt de bine tester le m
+ode dégradé des hôpitaux. Tout miser sur l'informatique n'est judicieux dans aucun domaines. Et dans
+ certains encore moins que d'autres.
+
+A Patient Dies After Ransomware Attack Paralyzes German Hospit
+al Systems
+
+/ ~ 4AC5DDE2 ~ /
+
+REVUE DE PRESSE |  L’Anssi compte déjà deux fois plus de cyberattaques
+ par ransomware que l’année dernière http://dlvr.it/Rh25Wg #Technology
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware
+ : une attaque suspectée d'avoir provoqué un décès en Allemagne https://zdnet.fr/actualites/ransomwa
+re-une-attaque-suspectee-d-avoir-provoque-un-deces-en-allemagne-39909843.htm… via @zdnetfr
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Pour la première fois, une personne est morte à la suite d’un ransomware http://dlvr.it/Rh
+22Yc
+
+/ ~ 4AC5DDE2 ~ /
+
+ [ #Cybersécurité ] Quand un #ransomware est suspecté de la #mort  d'une mal
+ade
+@siecledigital
+http://swll.to/PGXax
+
+/ ~ 4AC5DDE2 ~ /
+
+#Webinar - Les sinistres cyber avec #Mars
+h et #CMS
+@gbillois revient sur les grandes tendances #cyber pour 2020 et 2021 !
+
+ Les #ransomware
+ 
+Les attaques par les #tiers
+ Les nouvelles attaques #Cloud.
+
+/ ~ 4AC5DDE2 ~ /
+
+Allemagne : un hôpita
+l victime d’une attaque de ransomware, une patiente perd la vie https://fredzone.org/premier-deces-s
+ignale-a-la-suite-dune-attaque-de-ransomware-contre-un-hopital-allemand-998?utm_source=dlvr.it&utm_m
+edium=twitter#utm_source=feed&utm_medium=feed&utm_campaign=feed…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Hacking 
+Allem
+agne : un hôpital victime d’une attaque de ransomware, une patiente perd la vie
+
+
+Holy
+
+            
+         | 21 septembre, 2020 at 17:04                
+
+
+
+									
+					181				
+
+
+1 
+
+
+
+
+Une attaqu
+e de ransomware perpétrée par erreur contre l’hôpital universitaire de Düsseldorf, en Allemagne, a c
+ausé la mort d’une femme qui avait besoin d’être hospitalisée en urgence. Bien que la patiente était
+ dans un état critique, l’établissement de santé susmentionné n’était pas en mesure de l’accueillir.
+
+
+
+
+
+
+
+ 
+
+L’attaque a mis le système informatique de l’hôpital hors service. Les ordinateurs et les 
+données numériques étaient inaccessibles.
+Crédits Pixabay
+Les responsables de la clinique ont donc p
+ris la décision difficile de fermer les urgences et transférer les patients vers d’autres hôpitaux l
+e temps de résoudre le problème. Au lieu de recevoir des soins à Düsseldorf, la patiente qui est mor
+te a été emmenée d’urgence à hôpital de la ville de Wuppertal. Le voyage d’une trentaine de kilomètr
+es et le retard de sa prise en charge ont aggravé son état.
+C’est la première fois dans l’histoire q
+u’une personne perde la vie à cause d’une attaque de ransomware.
+Les hackers auraient attaqué la mau
+vaise cible
+La cyberattaque est survenue le 10 septembre 2020.
+Le ministre de la Justice de l’État d
+e Rhénanie du Nord-Westphalie  a rapporté que les pirates informatiques ont réussi à chiffrer plus d
+e 30 serveurs internes. Ils ont profité de la même occasion pour laisser une note d’extorsion sur un
+ des serveurs.
+Les hackers n’avaient pas encore réclamé une rançon, ils s’attendaient cependant à ce
+ que l’Université Heinrich Heine de Düsseldorf entre en contact avec eux. Le nom du destinataire du 
+message a laissé croire que les acteurs de l’attaque se sont trompés de cible.
+Ils auraient voulu s’
+en prendre à l’université et non pas à l’établissement de santé qui y est affilié.
+À lire aussi : Un
+e installation de Tesla ciblée par une attaque au ransomware
+Les auteurs de l’attaque accusés d’homi
+cide involontaire
+La police de Düsseldorf a contacté les cybercriminels pour tirer la situation au c
+lair. Les pirates informatiques ont aussitôt fait machine arrière après avoir été avertis par les fo
+rces de l’ordre. Selon RTL.DE, sans demander de rançon, les malfaiteurs ont fourni un code numérique
+ pour déverrouiller les systèmes informatiques de la clinique.
+Bien que la situation à l’hôpital uni
+versitaire de Düsseldorf soit revenue à la normale, les procureurs n’ont pas classé l’affaire. Comme
+ l’attaque ayant entrainé la fermeture temporaire des urgences de l’établissement de santé se trouve
+ à l’origine de la mort d’une patiente, les autorités Allemandes ont ouvert une enquête pour homicid
+e involontaire contre les auteurs inconnus de l’attaque.
+À lire aussi : Carnival Corporation victime
+ d’une attaque de ransomware
+
+
+/ ~ 4AC5DDE2 ~ /
+
+L'exploitant de maisons de retraite #Orpea a annonc
+é ce  lundi avoir subi une #cyberattaque la semaine dernière !!
+
+#sécurité #infosec #hackers #ransom
+ware
+
+/ ~ 4AC5DDE2 ~ /
+
+Le ransomware DoppelPaymer a été utilisé par des hackers pour voler les donn
+ées appartenant à Tesla, SpaceX, Boeing, Ainsi qu’à d’autres sociétés clientes de l’américain Visser
+ Precision
+
+/ ~ 4AC5DDE2 ~ /
+
+#Podcast#NewsTech 
+
+« Première mort d'un être humain dans un hôpital d
+ue à un virus informatique » 
+
+ #Ransomware #malware #cyberattaque #santé
+diffusion Twitter app live
+ @ReservoirLive
+
+/ ~ 4AC5DDE2 ~ /
+
+Mise en place de la 2FA à la suite d’un ransomware
+https://datase
+curitybreach.fr/2fa-ville/
+#Infosec #Security #Ceptbiro #Cybersecurity #DamienBancal
+
+/ ~ 4AC5DDE2 ~
+ /
+
+Et voilà, ce n’est pas le premier hopital à se faire toucher, mais cette foit il y a un mort!!
+
+
+https://letemps.ch/economie/premiere-une-attaque-informatique-tue…
+#cyberattacks #cyber #ransomware
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Some news about  "Le ransomware Maze copie Ragnar Locker en se cachant en VM" at
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#Podcast #Tech 
+
+« Première mort d'un être humain dans un hôpital due à un virus 
+informatique » 
+
+ #MedTech #Ransomware #malware #cyberattacks #santé #Allemagne #Düsserdorf
+Diffusio
+n Twitter app live @ReservoirLive
+
+/ ~ 4AC5DDE2 ~ /
+
+
+L’été 2020 aura vraiment été meurtrier pour le
+s ransomwares. Une attaque menée probablement par erreur sur l’hôpital de Düsseldorf a provoqué la m
+ort d’une patiente. Cette dernière n’a pas pu être traitée en urgence dans l’établissement de santé,
+ car les données étaient bloquées. Elle a donc été réorientée vers un hôpital d’une autre ville (Wup
+ertal en l’occurrence) à une trentaine de kilomètres, mais trop tard.
+L’affaire débute le 10 septemb
+re dernier, l’University Hospital Düsseldorf (UKD), subit une attaque par ransomware. Pour entrer da
+ns le réseau, les attaquants ont visé « un add-on commercial largement utilisé » souligne l’établiss
+ement. Le BSI (équivalent de l’ANSSI) précise que les pirates se sont servis de la vulnérabilité CVE
+-2019-19781 sur l’ADC Citrix. Cette faille est connue depuis janvier 2020 et elle est une des préfér
+ées par les gangs de ransomware.
+Une erreur de cible fatale
+Une enquête a rapidement été menée par l
+es autorités et le ministère de la Justice du land de Rhénanie du Nord-Westphalie. Selon l’agence de
+ presse dpa, un rapport de ce dernier montre que 30 serveurs de l’hôpital ont été chiffrés et qu’un 
+message de demande de rançon avait été laissé sur l’un des serveurs. Problème, le message était adre
+ssé à l’Université Heinrich Heine, affiliée à l’hôpital de Dusseldorf, mais pas à l’établissement de
+ santé directement.
+La police de Düsseldorf a alors établi le contact et a dit aux auteurs que c'éta
+it l'hôpital, et non l'université, qui avait été touché, mettant ainsi les patients en danger. Les a
+ttaquants ont alors retiré la tentative d'extorsion et ont fourni une clé numérique pour décrypter l
+es données. Une erreur qui aura coûté une vie. La justice allemande continue l’enquête pour savoir s
+i cette attaque doit être considérée comme un homicide par négligence. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Pour la p
+remière fois, une personne est morte à la suite d’un ransomware https://01net.com/actualites/pour-la
+-premiere-fois-une-personne-est-morte-a-la-suite-d-un-ransomware-1977933.html… #cyberattaque
+
+/ ~ 4A
+C5DDE2 ~ /
+
+Un ransomware provoque le décès d'une femme en urgence vitale dans un hôpital allemand .
+..
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware : une menace majeure  https://bit.ly/32J1LsV @ValeryMarchive  & ht
+tps://bit.ly/2ZTuZDI @LeMagIT
+
+/ ~ 4AC5DDE2 ~ /
+
+C'est comme t'empêcher de rentrer chez toi via @PVy
+nckier, #Ransomware 
+
+/ ~ 4AC5DDE2 ~ /
+
+Via @Risk_Insight #Webinar - Les sinistres cyber avec #Marsh
+ et #CMS
+@gbillois revient sur les grandes tendances #cyber pour 2020 et 2021 !
+
+ Les #ransomware
+ L
+es attaques par les #tiers
+ Les nouvelles attaques #Cloud.
+
+/ ~ 4AC5DDE2 ~ /
+
+zataz published "Une s
+olution A2F pour Windows pour renforcer la sécurité suite à une attaque de ransomware [Etude de cas]
+" 
+See full original article:  https://zataz.com/une-solution-a2f-pour-windows-pour-renforcer-la-sec
+urite-suite-a-une-attaque-de-ransomware-etude-de-cas/… 
+All our feeds: https://secnews.physaphae.fr
+
+
+/ ~ 4AC5DDE2 ~ /
+
+C'est rien ... c'est le ransomware qui traine encore dans les postes de la métrop
+ole. :)
+
+/ ~ 4AC5DDE2 ~ /
+
+FRENCHNEWTECH Le ransomware Maze copie Ragnar Locker en se cachant en VM 
+http://dlvr.it/Rh1z8c #startup #entreprise #lemondeinformatique
+
+/ ~ 4AC5DDE2 ~ /
+
+Pour la première 
+fois, une personne est morte à la suite d’un ransomware http://dlvr.it/Rh276d
+
+/ ~ 4AC5DDE2 ~ /
+
+Une
+ solution A2F pour Windows pour renforcer la sécurité suite à une attaque de ransomware [Etude de ca
+s]
+https://zataz.com/une-solution-a2f-pour-windows-pour-renforcer-la-securite-suite-a-une-attaque-de
+-ransomware-etude-de-cas/…
+#Infosec #Security #Ceptbiro #Cybersecurity #Zataz
+
+/ ~ 4AC5DDE2 ~ /
+
+[SE
+CU] Le ransomware Maze copie Ragnar Locker en se cachant en VM
+
+/ ~ 4AC5DDE2 ~ /
+
+
+En Allemagne, une
+ femme est décédée dans la nuit du 11 au 12 septembre, et l’une des causes de son décès pourrait êtr
+e un ransomware. En effet, la personne a dû être transportée en urgence absolue vers un hôpital. Mal
+heureusement, l’établissement le plus proche, l’hôpital universitaire de Düsseldorf, n’a pas pu l’ac
+cueillir, car un rançongiciel a bloqué son système d’information. La patiente a donc été amenée à l’
+hôpital de Wuppertal, qui se trouvait 30 km plus loin, où elle est finalement décédée.
+
+A découvrir 
+aussi en vidéo
+
+ 
+
+
+Le parquet de Wuppertal enquête désormais sur le lien de causalité entre le rans
+omware et la mort de cette personne. Le cas échéant, les auteurs de ce code malveillant pourraient ê
+tre accusés d’homicide involontaire, ce qui serait une première.
+Selon Heise.de, les pirates ont pro
+bablement infecté les systèmes de l’hôpital grâce à une faille dans la passerelle VPN de Citrix. Tou
+tefois, l’établissement de soin aurait été ciblé par erreur, car le message du ransomware faisait ré
+férence à l’université de Düsseldorf. Contactés par la police, les pirates ont d’ailleurs transmis g
+ratuitement les clés de chiffrement. Mais pour la femme, ce geste est arrivé trop tard.
+Source: Heis
+e.de
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Une femme décède au cours d’un ransomware dans un hôpital allemand
+
+/ ~ 4AC
+5DDE2 ~ /
+
+
+Les cyberpirates auraient-ils trouvé un moyen d'action imparable pour disséminer des ran
+somwares ? C'est la question que l'on peut se poser avec la découverte par Sophos, presque 4 mois ap
+rès Ragnar Locker, du rançongiciel Maze ayant utilisé une technique similaire de dissimulation. Cett
+e dernière consiste à camoufler le logiciel malveillant dans une machine virtuelle afin de mieux tro
+mper la vigilance et la détection par des solutions de sécurité classiques. Maze est loin d'être un 
+inconnu dans le monde des rançongiciels, ayant déjà fait parler lui pour s'être attaqué à Bouygues C
+onstruction, Leon Grosse, LG, Xerox et Canon, SK Hynix ou encore Cognizant.
+« Lors de l'incident Maz
+e, les acteurs de la menace ont distribué la charge utile de chiffrement de fichier du ransomware su
+r le disque dur virtuel de la machine virtuelle (un fichier d'image de disque virtuel VirtualBox .vd
+i), qui a été livré dans un fichier d'installation Windows .msi de plus de 700 Mo en taille », expli
+que Sophos dans un billet. « Les attaquants ont également regroupé une copie épurée, vieille de 11 a
+ns, de l'hyperviseur VirtualBox dans le fichier .msi, qui exécute la VM comme un terminal non déterm
+iné, sans interface utilisateur. » Contrairement à ce qui s'est passé dans le cas de la cyberattaque
+ ayant visé le géant de l'énergie portugais EDP avec Ragnar Locker, la charge malveillante a été dép
+loyée dans une machine virtuelle sous Windows 7.
+Une cyberattaque soigneusement préparée
+Cette nouve
+lle technique de dissimulation a été découverte dans le cadre d'une enquête menée par Sophos en juil
+let dernier suite à une tentative d'infections de systèmes contre une organisation dont le nom n'a p
+as été précisée. Compte-tenu du montant de la rançon, 15 millions de dollars, nul doute qu'il s'agis
+se d'un très grand organisme, les cyberpirates prenant soin d'adapter le prix demandé à leur cible a
+fin d'avoir plus de chance qu'elle leur soit versée. « L'enquête a également révélé plusieurs script
+s d'installation qui ont révélé les tactiques des attaquants et ont révélé qu'ils avaient passé des 
+jours à se préparer à lancer le ransomware en créant des listes d'adresses IP à l'intérieur du résea
+u de la cible, en utilisant l'un des serveurs de contrôleur de domaine de la cible et en exfiltrant 
+données au fournisseur de stockage cloud Mega.nz », précise Sophos.
+D'après le fournisseur en sécuri
+té, les attaquants ont réalisé trois essais pour réussir leur coup. Les deux premiers, qui ont échou
+é, ont consisté à lancer des fichiers exécutables de ransomware en utiliser les tâches planifiées Wi
+ndows Update Security et Windows Update Security Patches, ou encore Google Chrome Security Update. L
+a troisième tentative a été la bonne avec le déploiement d'un fichier MSI contenant un installeur 32
+ et 64bits pour VirtualBox 3.0.4 ainsi qu'un disque virtuel non compressé d'1,9 Go baptisé micro.vdi
+ contenant lui-même une partition bootable de Windows 7 SPI et un nom de fichier micro.xml contenant
+ les informations de session et de configuration du disque dur virtuel. A sa racine, Sophos a trouvé
+ qu'il contenait trois fichiers associés au ransomware Maze (preload.bat, vrun.ex et payload). 
+Une 
+connaissance amont du réseau de la victime
+« La machine virtuelle a apparemment été configurée à l'a
+vance par quelqu'un qui savait quelque chose sur le réseau de la victime, car son fichier de configu
+ration (« micro.xml ») mappe deux lettres de lecteur qui sont utilisées comme lecteurs réseau partag
+és dans cette organisation particulière, vraisemblablement ainsi peut crypter les fichiers sur ces p
+artages ainsi que sur la machine locale. Il crée également un dossier dans C: \ SDRSMLINK \ et parta
+ge ce dossier avec le reste du réseau », explique Sophos. « À un moment donné (on ne sait pas quand 
+et comment, exactement, cela a été accompli), le logiciel malveillant a écrit également un fichier n
+ommé startup_vrun.bat. Nous avons trouvé ce fichier dans c: \ users \ Administrator \ AppData \ Roam
+ing \ Microsoft \ Windows \ Start Menu \ Startup, ce qui signifie qu'il s'agit d'un mécanisme de per
+sistance qui repose sur le redémarrage de l'ordinateur avant que les attaquants ne lancent le malwar
+e. » Après avoir copié les trois mêmes fichiers trouvés à la racine du disque de la machine virtuell
+e sur d'autres disques, le script a permis d'émettre une commande pour arrêter l'ordinateur immédiat
+ement. Une fois la machine rallumée par une personne, le script vrun.exe s'est exécuté avec pour con
+séquence le début des soucis. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Une femme décède au cours d’un ransomware dans un 
+hôpital allemand https://siecledigital.fr/2020/09/18/une-femme-decede-au-cours-dun-ransomware-dans-u
+n-hopital-allemand/… via @siecledigital
+
+/ ~ 4AC5DDE2 ~ /
+
+Le ransomware #Maze copie #Ragnar #Locker
+ en se cachant en #VM
+Les cyberpirates auraient-ils trouvé un moyen d'action imparable pour dissémin
+er des #ransomwares ? C'est la question que l'on peut se poser (...)
+
+/ ~ 4AC5DDE2 ~ /
+
+Un hôpital A
+llemand visé par un Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+[Actuellement sur LMI] Le ransomware Maze copie Ra
+gnar Locker en se cachant en VM - 
+Les cyberpirates auraient-ils trouvé un moyen d'action imparable 
+pour disséminer des ransomwares ? C'est la question que l'on peut se poser (...)
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Pour @emsisoft, le décès induit outre-Rhin, la semaine dernière, par une attaque de #ransomware (#Ma
+ze est fortement suspecté) mériterait de pousser les gouvernements à siffler la fin de la récré et à
+ interdire le paiement des rançons pour assécher le business.
+
+/ ~ 4AC5DDE2 ~ /
+
+Une solution #A2F p
+our #Windows pour renforcer la sécurité suite à une attaque de ransomware [Etude de cas]
+La ville de
+ #Keizer, située dans le comté de Marion, #Oregon, a récemment été victime d'une #attaque de #ransom
+ware. Son ad…https://lnkd.in/gEBZvdJ https://lnkd.in/gjnzpRJ
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ransomware provoq
+ue le décès d'une femme en urgence vitale dans un hôpital allemand ... | @scoopit
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+PARIS (Agefi-Dow Jones)--L'exploitant de maisons de retraite Orpea a annoncé lundi avoir subi un
+e cyberattaque la semaine dernière, tout en assurant que ses infrastructures, ses logiciels et donné
+es avaient été préservés. 
+
+Le groupe a annoncé avoir détecté dans la nuit du 17 septembre l'intrusi
+on d'un logiciel malveillant sur certains réseaux. Ses équipes informatiques ont ensuite fermé tempo
+rairement l'ensemble du réseau pour empêcher la propagation du logiciel. 
+
+"Cette interruption volon
+taire a provoqué des perturbations sur les systèmes informatiques mais n'affecte en rien la continui
+té des soins et la vie sociale au sein des établissements", a expliqué Orpea dans un communiqué. 
+
+"
+Après l'analyse d'experts reconnus en cybersécurité et grâce à la réactivité et au bon fonctionnemen
+t des systèmes de sécurité, l'ensemble des sauvegardes sont intactes et aucune donnée n'a été détrui
+te ou transférée", a poursuivi Orpea. 
+
+La société a ajouté que son infrastructure informatique, ses
+ logiciels et applications et l'ensemble des données étaient sains et n'avaient subi aucun dommage. 
+
+
+"Les équipes IT et des experts externes en cybersécurité travaillent activement pour relancer prog
+ressivement l'ensemble des serveurs et des applications", a expliqué le groupe. "Le bon fonctionneme
+nt, tant des établissements que des services administratifs, est assuré", a également affirmé Orpea.
+ 
+
+-Julien Marion, Agefi-Dow Jones; +33 (0)1 41 27 47 94; jmarion@agefi.fr ed: VLV 
+
+Agefi-Dow Jones
+ The financial newswire 
+
+Dow Jones Newswires
+
+September 21, 2020 02:24 ET (06:24 GMT)
+
+
+
+
+
+
+
+/ ~ 4A
+C5DDE2 ~ /
+
+Pour la première fois, une personne est morte à la suite d’un ransomware
+https://ift.tt/
+3hGMzkk
+
+/ ~ 4AC5DDE2 ~ /
+
+Faut-il tout miser sur le #numérique ? #non5G - Ma vie peut-elle en dépen
+dre ?
+Un #ransomware provoque le décès d'une femme en urgence vitale dans un hôpital allemand https:
+//usine-digitale.fr/article/un-ransomware-provoque-le-deces-d-une-femme-en-urgence-vitale-dans-un-ho
+pital-allemand.N1006284… via @LUsineDigitale
+
+/ ~ 4AC5DDE2 ~ /
+
+C’est une première, et une première 
+tragique. Jamais une personne n’avait succombé des suites d’une cyberattaque. Mais la semaine derniè
+re, une patiente d’un hôpital de Düsseldorf est décédée, faute d’avoir pu être soignée dans l’établi
+ssement, victime d’une attaque informatique. Cet événement tragique illustre tant l’importance de ce
+s agressions que la vulnérabilité des hôpitaux.Les conséquences tragiques de la cyberattaque ont été
+ communiquées jeudi par les autorités allemandes. Depuis le 9 septembre, l’hôpital universitaire de 
+Düsseldorf était en partie paralysé par une attaque par ransomware. Aussi appelé rançongiciel, c’est
+ un programme malveillant qui utilise des vulnérabilités de certains logiciels pour permettre à l’as
+saillant de prendre le contrôle, à distance, de systèmes informatiques. Ceux-ci sont totalement para
+lysés et inutilisables. Le pirate exige alors souvent une rançon de plusieurs dizaines, voire centai
+nes de milliers de francs pour rendre l’accès aux ordinateurs. Dans ce cas précis, il n’y a pas eu d
+e demande de rançon chiffrée.Trajet de 32 kilomètresAu total, une trentaine de serveurs informatique
+s de l’hôpital ont été paralysés, entravant sensiblement les activités de l’établissement. Vendredi 
+de la semaine passée, une femme s’est présentée aux urgences pour un problème vital – celui-ci n’a p
+as été précisé par les autorités. Incapable de la prendre en charge, l’hôpital l’a envoyée, dans une
+ ambulance, dans un autre établissement, à Wuppertal, distant d’environ 32 kilomètres. Faute d’avoir
+ pu être prise en charge à temps, la femme y est décédée.Lire aussi: Un hôpital suisse victime d’une
+ cyberattaqueLes autorités judiciaires de Rhénanie-du-Nord-Westphalie ont lancé une enquête pour hom
+icide involontaire. Découvrir l’identité des auteurs de l’attaque s’annonce extrêmement compliqué – 
+dans l’immense majorité des cas, les coupables de paralysie de système par ransomware ne sont pas dé
+couverts. Il semble que dans le cas l’attaque de Düsseldorf, les assaillants se soient trompés de ci
+ble. Une note laissée sur un serveur de l’hôpital par les pirates demandait aux informaticiens de l’
+Université Heinrich Heine de prendre contact avec eux. Or l’hôpital est certes affilié à l’universit
+é, mais n’en fait pas partie. Dès que la police a exigé des pirates qu’ils lui livrent la clé pour d
+ébloquer les ordinateurs, les attaquants se sont exécutés. Mais trop tard.Systèmes pas rétablisVendr
+edi, l’hôpital de Düsseldorf publiait un communiqué pour assurer que ses ingénieurs avaient scrupule
+usement suivi les recommandations officielles fédérales et mis à jour, ces derniers mois, leurs syst
+èmes informatiques. L’enquête devra le déterminer. Et côté opérationnel, le chaos provoqué par l’att
+aque n’est pas encore terminé. «L’hôpital et les entreprises spécialisées concernées ont pu faire de
+ nouveaux progrès dans la restauration du système informatique. Nous espérons pouvoir reprendre les 
+soins d’urgence dans le courant de la semaine prochaine», estimait vendredi Frank Schneider, directe
+ur médical de l'hôpital.Ce drame illustre la fragilité des hôpitaux face aux ransomwares. Ces derniè
+res semaines, des établissements en Thaïlande et aux Etats-Unis ont été la cible de telles attaques.
+ Cela a aussi été le cas en Suisse en 2019: l’hôpital de Wetzikon, dans le canton de Zurich, avait d
+û débrancher du système central plusieurs dispositifs médicaux à la suite d’une attaque par rançongi
+ciel, sans que les soins aient été affectés.Lire aussi: De plus en plus de villes sont prises en ota
+ge par des cyberpiratesLa diversité des machines et ordinateurs dans les hôpitaux en fait des cibles
+ faciles, d’autant que certains appareils sont souvent anciens et que leurs systèmes d’exploitation 
+ne sont parfois pas mis à jour. La tragédie survenue en Allemagne devrait inciter les établissements
+ hospitaliers à redoubler de vigilance.
+
+/ ~ 4AC5DDE2 ~ /
+
+Le CEO détient la clé pour enrayer le ran
+somware
+
+/ ~ 4AC5DDE2 ~ /
+
+Une femme est décédée jeudi en Allemagne après une attaque de ransomware 
+qui a ciblé par erreur un hôpital. À cause de la paralysie du système informatique, la patiente a dû
+ être transférée vers un autre établissement mais n'a pas survécu.Vous aimez nos Actualités ?Inscriv
+ez-vous à la lettre d'information La quotidienne pour recevoir nos toutes dernières Actualités une f
+ois par jour.Ce que les spécialistes en cybersécurité craignaient depuis longtemps a fini par arrive
+r. Une femme est décédée suite à une attaque de malware. Arrivée aux urgences dans un hôpital de Düs
+seldorf en Allemagne, elle n'a pas pu être prise en charge par les médecins car le système informati
+que était paralysé par un rançongiciel, ou ransomware.Au total, 30 serveurs de l'hôpital de Dusseldo
+rf ont été infectés par le ransomware, qui a chiffré les disques durs et laissé des instructions adr
+essées à l'université Heinrich Heine auquel l'établissement est affilié. L'hôpital n'était pas la ci
+ble des pirates, et a été pris dans l'attaque par erreur. La patiente a dû être transférée vers un h
+ôpital dans la ville voisine de Wuppertal, à 32 kilomètres. Les médecins n'ont pas pu commencer les 
+soins pendant une heure, et elle n'a pas survécu.Les auteurs risquent une accusation d’homicide invo
+lontaireLa police a contacté les auteurs de l'attaque pour les informer de la situation. Ceux-ci ont
+ alors immédiatement fourni la clé de chiffrement pour débloquer les serveurs affectés. L'hôpital in
+dique ne pas avoir subi de perte de données et que les systèmes sont en cours de redémarrage. L'atta
+que aurait exploité une faille dans un produit Citrix (CVE-2019-19781).Il ne s'agit pas de la premiè
+re attaque de ransomware sur un hôpital, d'autres ayant déjà obligé des médecins à transférer les pa
+tients vers d'autres établissements. Cependant, il pourrait s'agir du premier décès lié à un malware
+, que ce soit directement ou indirectement. Une enquête est en cours pour établir le lien de causali
+té. Dans ce cas, les auteurs pourraient être accusés d'homicide involontaire.Cela vous intéressera a
+ussiIntéressé par ce que vous venez de lire ?
+                    Abonnez-vous à la lettre d'informa
+tion La quotidienne : nos dernières actualités du jour. Toutes nos lettres d’informationVotre e-mail
+S'abonner!Merci pour votre inscription.Heureux de vous compter parmi nos lecteurs !Lien externeGerma
+n hospital hacked, patient taken to another city dies
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : la France parm
+i les pays les plus attaqués - https://sekurigi.com/2020/09/ransomware-la-france-parmi-les-pays-les-
+plus-attaques/…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Un hôpital en Allemagne a été la cible d'une grave attaque de ra
+nsomware début septembre, qui a entraîné une «panne informatique importante», empêchant un patient d
+e recevoir des soins urgents, marquant un cas rare dans lequel un ransomware a directement contribué
+ à un décès. 
+
+"Il y a actuellement une panne informatique importante à l'hôpital universitaire de D
+üsseldorf (UKD)", ont déclaré les responsables de l'hôpital UKD dans un déclaration le 11 septembre.
+ "Cela signifie, entre autres, que la clinique ne peut être jointe que dans une mesure limitée – à l
+a fois par téléphone et par courrier électronique. Les traitements planifiés et ambulatoires n'auron
+t pas non plus lieu et seront reportés. Les patients sont donc interrogés de ne pas visiter l'UKD – 
+même si un rendez-vous a été pris. "
+
+
+Selon les responsables de l'hôpital, l'attaque du ransomware 
+a eu lieu le 11 septembre et a entraîné une défaillance importante des systèmes informatiques et des
+ bases de données. 
+
+"De plus, la clinique ne peut pas être jointe par e-mail", indique le communiqu
+é. «À l'exception de quelques extensions, le système téléphonique est déjà de nouveau opérationnel. 
+La prise en charge des patients déjà traités en hospitalisation à l'UKD est toujours garantie».
+
+La 
+conséquence de la panne a contraint les responsables de l'hôpital à déplacer les patients vers d'aut
+res établissements médicaux et a reporté les opérations. Un décès a été attribué au piratage après q
+u'une femme ayant désespérément besoin de soins urgents a été redirigée vers un autre hôpital de la 
+région métropolitaine pour y être soignée. Elle a été transportée à 20 miles dans un hôpital de Wupp
+ertal, a déclaré Actualités RT, les médecins indiquant que le retard du traitement était fatal. En c
+onséquence, la police locale a ouvert une enquête sur l'homicide en relation avec l'incident. 
+RT no
+te également que le ransomware crypté 30 sert à l'hôpital, tenant en otage une grande partie de ses 
+systèmes informatiques et de ses bases de données. Les responsables de l'hôpital ont déclaré que le 
+ransomware ne contenait pas d'instructions explicites de virement d'argent ou de crypto-monnaie, mai
+s avait plutôt des instructions pour contacter les pirates.
+
+Les systèmes étaient "progressivement r
+estaurés et il ne pense pas que les données affectées seront irrémédiablement perdues", a déclaré RT
+. 
+L'attaque est le premier décès signalé par ransomware. Les hôpitaux ont souvent été ciblés par de
+s pirates parce que les systèmes informatiques critiques et les bases de données de ces établissemen
+ts augmentent la probabilité que les victimes paient leurs extorqueurs.
+Si les hôpitaux sont souvent
+ la cible, des municipalités entières ont été frappées par des attaques agressives de ransomwares. N
+ous avons noté en 2019 que des attaques de ransomwares «coordonnées» ont frappé au moins 23 villes d
+u Texas. 
+UNE ransomware de crypto-monnaie paralysé la ville de Baltimore alors que les pirates info
+rmatiques ont désactivé les réseaux de communication critiques l'année dernière. 
+En 2018, une petit
+e ville de Floride appelée Lake City a payé ransomware les extorqueurs autour de 462 000 $ pour débl
+oquer des réseaux informatiques critiques. 
+Même avec toute la technologie disponible pour les hôpit
+aux et les municipalités, les pirates continuent de pénétrer les systèmes critiques et d'extorquer d
+es millions de dollars par an. 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Cybersécurité : les hôpitaux plus que jamais en 
+première ligne #CyberSecurity #OT #IoT #RGPD #chatbots #eSante #ransomware #santé #COVID19 #smart #h
+ospital #hôpitaux #cyberattaques @Stormshield
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ransomware provoque le décès d'u
+ne femme en urgence vitale dans un hôpital allemand https://usine-digitale.fr/article/un-ransomware-
+provoque-le-deces-d-une-femme-en-urgence-vitale-dans-un-hopital-allemand.N1006284… via @LUsineDigita
+le
+
+/ ~ 4AC5DDE2 ~ /
+
+#Hôpital : une femme décède à cause d’un #ransomware https://buff.ly/3hTlLgO
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Une solution A2F pour Windows pour renforcer la sécurité suite à une attaque de ra
+nsomware [Etude de cas] https://ift.tt/35Wxlpo
+
+/ ~ 4AC5DDE2 ~ /
+
+Le ransomware Maze copie Ragnar Lo
+cker en se cachant en VM http://dlvr.it/Rh2Qvh
+
+/ ~ 4AC5DDE2 ~ /
+
+  &   https://libreinfo.world/un-p
+atient-meurt-alors-que-lattaque-du-ransomware-dans-un-hopital-allemand-declenche-le-chaos/?utm_sourc
+e=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost… #allemand #alors #chaos #dans #déclenc
+he #hôpital #l39attaque #meurt #patient #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : une menace majeu
+re aux multiples inconnues https://lemagit.fr/actualites/252489277/Ransomware-une-menace-majeure-aux
+-multiples-inconnues… par @ValeryMarchive
+
+/ ~ 4AC5DDE2 ~ /
+
+
+« Il pleut du ransomware comme à Grave
+lotte », voici une expression entendue à la rédaction du Monde Informatique pendant la période estiv
+ale. En effet, difficile de trouver une semaine sans voir une ou plusieurs entreprises victimes de c
+e fléau. En juillet, Netwalker a été soupçonné d’avoir fortement perturbé l’activité de l’assureur M
+MA, tout comme le groupe de BTP, Rabot Dutilleul. Une division d’Orange Business Services a quant à 
+elle subi les assauts de Nefilim dérobant au passage 350 Mo de données. Comment ne pas évoquer Garmi
+n, dont la production a été arrêtée pendant deux jours, ainsi que ses sites web, application mobile,
+ appels téléphoniques, chat en ligne et messagerie.
+Et le mois d’août n’a pas été plus paisible, bie
+n au contraire. Les vacances ont été gâchées pour Carlson Wangonlit Travel par le ransomware Ragnar 
+Locker. 30 000 PC auraient été bloqués et 2 To de données subtilisées. Autre spécialiste du voyage d
+ans la tourmente, une des marques du croisiériste Carnival a été ciblée par une attaque. La litanie 
+continue avec le groupe Maze épinglant plusieurs sociétés Canon, LG et Xerox. Plus récemment, ce fut
+ au tour de la firme coréenne de semi-conducteurs SK Hynix d’être frappée par ce gang. Le groupe der
+rière Sodinokibi a de son côté persécuté Brown-Forman, la maison-mère de Jack Daniel’s. Le prestatai
+re multiservice, Spie, a eu du mal à se défaire du ransomware Nefilim. 4 usines de production ont ét
+é mises à l’arrêt chez MOM, propriétaire des compotes Materne et des crèmes MontBlanc.
+Haro sur RDP 
+et intérêt sur les VPN
+Derrière cette liste à la Prévert se cachent des groupes très organisés, Maze
+, Nefilim, REvil/Sodinokibi, avec un modus operandi bien rôdé. La première étape consiste à s’introd
+uire dans le réseau de l’entreprise. Pas si difficile que cela comme le montre un rapport de Positiv
+e Technologies qui constate une moyenne de 4 jours pour pirater le réseau local d’une société et 93%
+ de réussite. Sur les vecteurs d’attaques, RDP reste le point d’entrée numéro un des attaquants scan
+nant sans relâche Internet à la recherche des maillons faibles. Mais selon un rapport de Coverware, 
+il ne serait efficace que sur des PME-PMI (cf graphique ci-dessous). Pour les grandes entreprises, l
+es gangs ont clairement changé leur angle d’attaque en passant par le phishing ou le spear phishing.
+ C’est le cas de Maze qui se focalise majoritairement sur la messagerie (63%) et moins sur la compro
+mission de port RDP (33%).
+
+Les opérateurs de ransomware ont privilégié le phishing pour attaquer le
+s grandes entreprises. 
+Un autre axe d’attaque s’est invité depuis le début 2020 : les VPN. Plusieur
+s vulnérabilités ont été découvertes auprès des éditeurs Pulse Secure, Palo Alto Networks, Fortinet,
+ Citrix, Secureworks et F5. Selon un rapport de Sensecy, une faille a particulièrement retenu l’atte
+ntion des organisations cybercriminelles : la CVE 2019-19781. En décembre 2019, l’équipe de Mikhail 
+Klyuchnikov, expert en cybersécurité chez Positive Technologies, a découvert une faille critique dan
+s ADC (application delivery controller) Netscaler et Citrix Gateway. La brèche, d’une criticité de 9
+,8 sur 10 a été très utilisée par les gangs de Maze à CLOP en passant par Nephilim et Sodinokibi/REv
+il. D’autres vulnérabilités comme la CVE 2019-11510 affectant les produits VPN de Pulse Secure ont é
+té aussi utilisées par les opérateurs de ransomware.
+Payer ou non la rançon : entre la théorie et la
+ réalité
+Autorités judiciaires, policières et en charge de la cybersécurité sont formelles, la règle
+ dans les affaires de ransomware est de ne jamais payer la rançon. Les arguments : le risque de ne r
+écupérer ni la totalité ni même une partie des fichiers chiffrés et la promotion de ces activités cy
+bercriminelles.
+Mais derrière les positions de principe se cache une réalité bien différente, comme 
+le montrent deux cas arrivés durant la période estivale. Le premier est Garmin victime du rançongici
+el WastedLocker, paralysant plusieurs de ses services. Les analystes ont été surpris par la rapidité
+ du rétablissement des activités de la firme et ont soupçonné le paiement d’une rançon pour obtenir 
+un décrypteur. Le groupe Evil Corp derrière le ransomware exigeait 10 millions de dollars. Au-delà d
+u probable paiement par Garmin, c’est la manière de procéder de l'éditeur, épaulé par les deux socié
+tés Emsisoft et à Coveware, qui interpelle. La première est une société en cybersécurité, connue pou
+r fournir des décodeurs de ransomware à partir de ceux fournis par les cybercriminels. La seconde pr
+opose des services de négociation de rançons. Garmin aurait donc à la fois payé pour obtenir cet out
+il, mais aurait demandé à Emsisoft de l’analyser et de le rendre pleinement opérationnel afin de déb
+loquer les machines et les fichiers.
+L’autre cas est celui de Carlson WagonLit Travel (CWT), spécial
+iste des voyages d’affaire. Victime de Ragnar Locker, il aurait payé 4,5 millions de dollars pour re
+mettre en route les 30 000 PC paralysés. Au départ, le gang réclamait 10 millions de dollars et c’es
+t le directeur financier de CWT en personne qui a assuré la négociation. Plaidant les difficultés de
+ l’entreprise liées à la crise sanitaire, il a réussi à réduire le montant de la rançon.
+Le ransomwa
+re as a business progresse
+Des deux exemples cités précédemment, plusieurs enseignements sont à tire
+r. Le premier est que les groupes d’attaquants se professionnalisent en ciblant des entreprises de p
+lus grande taille avec des rançons adaptées. Preuve en est le montant moyen des rançons qui a attein
+t 178 254 dollars au second trimestre (+60% par rapport au premier trimestre 2020), selon Coverware.
+
+Autre évolution à retenir, la montée en puissance du couplage du chiffrement des données avec leur 
+exfiltration. Dans la plupart des attaques estivales, les gangs ont rendu leurs exploits publics en 
+offrant un échantillon des informations dérobées. Une tactique servant à maintenir une pression sur 
+la victime en cas d’échec des négociations. Certains n’hésitent pas à mettre aux enchères les inform
+ations volées pour glaner encore un peu plus d’argent. Toujours sur l’aspect financier, les cybercri
+minels étudient de plus en plus les comptes des sociétés visées pour affiner leur demande de rançon 
+et s’inscrire dans la vague du ransomware as a business. Et comme on l’a vu certaines sociétés n’hés
+itent pas à discuter et à payer.
+Des groupes de plus en plus structurés
+Comme indiqué précédemment, 
+les cyberattaquants se structurent de plus en plus. Un document récent donne une idée du panorama (i
+ncomplet) et cartographie les différents gangs et groupes, ainsi que leurs victimes (cf photo ci-des
+sous). On peut également se référer au document publié par l’ANSSI en février 2020 sur l’état de la 
+menace rançongiciel qui dresse une liste des menaces et de leur modus operandi. Mais le paysage évol
+ue, comme le montre le rapport de Coverware en parlant de Maze qui s’est doté de partenaires de circ
+onstances et de spécialistes. Ces derniers ont des compétences sur l’hébergement sécurisé sur Tor, s
+ur le stockage et la migration des données dans le cloud, sur le développement web front end et des 
+appétences pour les négociations.
+
+Les gangs sont de plus en plus nombreux et les cartographies doiv
+ent s'actualiser régulièrement. (Crédit Photo: Dark Tracer)
+A ces groupes déjà connus, il faut ajout
+er des petits nouveaux comme DarkSide et Conti. Le deuxième vient de se faire connaître et serait un
+ dérivé du ransomware Ryuk. Il aurait déjà à son actif plusieurs victimes dont Peugeot Motocycles. D
+e son côté, Darkside se veut « un nouveau produit sur le marché » avant d’ajouter « cela ne veut pas
+ dire que nous n’avons pas d’expérience et que nous ne venons pas de nulle part ». Au final, l’été 2
+020 aura permis aux acteurs du ransomware de passer à une vitesse supérieure pour peaufiner les dema
+ndes de rançons et les attaques. Il présage d’une rentrée tout aussi tumultueuse pour les entreprise
+s et les administrations. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Data Security Breach write "Mise en place de la 2FA à 
+la suite d\’un ransomware" 
+See full original article:  https://datasecuritybreach.fr/2fa-ville/ 
+Al
+l our feeds: https://secnews.physaphae.fr
+
+/ ~ 4AC5DDE2 ~ /
+
+De @ValeryMarchive « Bon, #Conti et #Ma
+ze ont l'air de se tirer la bourre à un rythme effréné... La barre des 190 incidents ce mois-ci est 
+atteinte. #ransomware »
+
+/ ~ 4AC5DDE2 ~ /
+
+Première victime d'une #CyberAttaque : Une femme décède a
+u cours d’un ransomware dans un hôpital allemand https://siecledigital.fr/2020/09/18/une-femme-deced
+e-au-cours-dun-ransomware-dans-un-hopital-allemand/… via @siecledigital
+
+/ ~ 4AC5DDE2 ~ /
+
+Putain de
+ merde, quelle journée
+Piratage de tout le matériel informatique du groupe de mon entreprise avec ra
+nsomware
+Bossé de 9h30 à 21h avec le directeur pour éviter de foutre tout le site à l'arrêt
+M'faire 
+remercier car j'ai éviter le chômage à 70 personnes
+Fiou
+
+/ ~ 4AC5DDE2 ~ /
+
+Emsisoft propose de rend
+re le paiement des rançons illegales dans les affaires de ransomware, citant l'affaire de l'hopital 
+de düsseldorf comme point de non retour.
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : pourquoi payer les attaquan
+ts peut vous coûter plus cher sur le long terme

@@ -1,0 +1,221 @@
+
+Share this...FacebookTwitterLinkedinPinterestemailReddit
+Un severo incidente de seguridad ha afecta
+do a los usuarios de uno de los videojuegos más populares de la actualidad. Expertos de un curso de 
+pentest mencionan que un posible hackeo ha expuesto las credenciales de inicio de sesión de alrededo
+r de 500 mil de cuentas Activision, desarrolladores de la serie de videojuegos Call of Duty.
+Lo peor
+ del incidente es que los actores de amenazas están cambiando las contraseñas expuestas para que los
+ propietarios de las cuentas no puedan ingresar.
+
+
+
+Al inicio solo un usuario de Twitter identificad
+o como “oRemyy” había reportado el incidente, aunque eventualmente otros usuarios y miembros de las 
+comunidades de gamers y de ciberseguridad confirmaron los reportes. Okami, otro usuario de Twitter, 
+es quien mencionó que las cuentas comprometidas ya superaban el medio millón.
+
+Yeah, it's legit guys
+. Change your Activision account passwords and add 2FA immediately. Apparently over 500k accounts ha
+ve been breached already and it's still ongoing. @Activision @ATVIAssist https://t.co/mjKecaty1m— Ok
+ami (@Okami13_) September 21, 2020
+
+En entrevista para la plataforma especializada TheGamingRevoluti
+on, un experto del curso de pentest mencionó que los hackers avanzan a un ritmo de mil cuentas compr
+ometidas cada 10 minutos, lo que da muestra de sus avanzadas capacidades.
+
+
+
+
+Activision accounts ar
+e apparently being leaked so change your password, although that might not even help because they're
+ apparently generating 1,000 accounts every 10 minutes.— TheGamingRevolution (@TheGamingRevo3) Septe
+mber 20, 2020
+
+El principal uso de una cuenta de Activision es para iniciar sesión en los títulos de
+ la saga Call of Duty, incluyendo Warzone, Modern Warfare y COD Mobile. Estas cuentas también permit
+en acceder a otros títulos de Activision.
+Los expertos del curso de pentest mencionan que por el mom
+ento solo hay un método para proteger estas cuentas, y es que los usuarios cuyas cuentas no se han v
+isto afectadas deben cambiar su contraseña antes de que lo hagan los hackers. También es recomendabl
+e restablecer la contraseña de cualquier otra plataforma en línea.
+
+
+
+Además, los miembros de la com
+unidad gamer recomiendan desvincular cualquier otro servicio asociado a la cuenta de Activision como
+ cuentas de PSN, Xbox o información de pago.
+Por el momento Activision no cuenta con mecanismos como
+ autenticación multifactor, por lo que los usuarios deberán adoptar una postura proactiva para preve
+nir un ataque contra sus cuentas. La compañía aún no se pronuncia de forma oficial respecto a este i
+ncidente, aunque la confirmación podría llegar en las próximas horas.
+Para mayores informes sobre vu
+lnerabilidades, exploits, variantes de malware, riesgos de seguridad informática y cursos de segurid
+ad de la información se recomienda ingresar al sitio web del Instituto Internacional de Seguridad Ci
+bernética (IICS), al igual que a las plataformas oficiales de las compañías tecnológicas.
+  
+
+
+
+
+
+ 
+
+
+
+                BUSQUE A CUALQUIER PERSONA EN 299 SITIOS WEB DE REDES SOCIALES CON SOLO UN COMAND
+O            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                YA NO NECESITA RECORDAR LAS CARGAS ÚTILES PARA EL PENTES
+TING DE SITIOS WEB            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                TOP 5: Smartphones imposibles de hackea
+r y rastrear. Los celulares más seguros            
+
+
+
+ 
+
+
+
+
+ 
+
+
+                SITIOS WEB OSINT/O
+SINV PARA VISUALIZAR WEBCAMS DE TODAS PARTES DEL MUNDO EN VIVO            
+
+
+
+ 
+
+
+
+
+ 
+
+
+           
+     SITIOS PARA ENCONTRAR IMÁGENES SATELITALES – OSINT (INTELIGENCIA DE CÓDIGO ABIERTO)            
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+                YA NO HACE FALTA RECORDAR LOS COMANDOS NMAP AL HACER PENTEST         
+   
+
+
+
+ 
+
+
+
+
+ 
+
+
+                SITIOS WEB OSINT/OSINV PARA ENCONTRAR EMBARCACIONES            
+
+
+
+
+ 
+
+
+
+
+
+
+Alisa Esage GTrabajando como arquitecto de soluciones de ciberseguridad, Alisa se enfoca en
+ la protección de datos y la seguridad de datos empresariales. Antes de unirse a nosotros, ocupó var
+ios puestos de investigador de ciberseguridad dentro de una variedad de empresas de seguridad cibern
+ética. También tiene experiencia en diferentes industrias como finanzas, salud médica y reconocimien
+to facial.
+Envía tips de noticias a info@noticiasseguridad.com o WhatsApp +525525766324.
+También pue
+des encontrarnos en Telegram www.t.me/noticiasciberseguridad
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Introducing Elgato 
+Console
+
+/ ~ 4AC5DDE2 ~ /
+
+Un posible ataque ha expuesto las credenciales de inicio de sesión de alr
+ededor de 500K cuentas de usuarios de #Activision, desarrolladores de la serie de videojuegos Call o
+f Duty.
+
+https://noticiasseguridad.com/tecnologia/500-mil-cuentas-de-call-of-duty-hackeadas-informac
+ion-de-los-usuarios-es-filtrada-en-brecha-de-datos-de-activision/…
+#felizlunes #hacking #databreach 
+#ciberseguridad #callofduty #infosec
+
+/ ~ 4AC5DDE2 ~ /
+
+https://steelwoolstudios.com/security-breach
+
+Sorry por el tuit de antes, se coló una captura de pantalla (no era mía, la pasaron por un grupo de
+ WhatsApp, menos mal que no era nada raro xd)
+Security Breach está en la página de Steel Wool, segur
+o ahí ponen las nuevas cosas
+
+/ ~ 4AC5DDE2 ~ /
+
+amoo sofrer por garotos 
+
+/ ~ 4AC5DDE2 ~ /
+
+Vannie a
+nd Roxanne!! 
+
+Primeros diseños de los nuevos personajes de fnaf security breach 
+
+Espero con ansias
+ el juego AAAAAH-
+
+#FiveNightsAtFreddys #fnafsecuritybreach
+
+/ ~ 4AC5DDE2 ~ /
+
+se parece a la ilumin
+acion de FNAF security breach por poco y pensaba que era un fan art de eso
+
+/ ~ 4AC5DDE2 ~ /
+
+Ya no 
+siento emoción desde que ví el teaser de fnaf security breach, pero si está chido xd
+
+/ ~ 4AC5DDE2 ~
+ /
+
+no vaccines .

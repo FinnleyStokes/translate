@@ -1,0 +1,1071 @@
+
+
+
+
+
+
+
+
+
+
+Ascolta l'articolo
+
+
+
+
+
+
+
+
+
+Trend Micro presenta il report semestrale delle minacce, il no
+stro Paese è l’ottavo al mondo più colpito dai malware e l’undicesimo per quanto riguarda gli attacc
+hi ransomware
+
+I malware e i ransomware continuano ad abbattersi sull’Italia, che risulta ai primi p
+osti delle classifiche mondiali per questo genere di attacchi. Il nostro Paese è infatti l’ottavo al
+ mondo più colpito dai malware e l’undicesimo (secondo in Europa) per quanto riguarda le incursioni 
+ransomware. Il dato emerge da “Securing the Pandemic-Disrupted Workplace”, il report sulle minacce i
+nformatiche del primo semestre 2020, a cura di Trend Micro Research.
+
+
+
+
+
+Le minacce a tema pandemia
+ imperversano in tutto il mondo
+A livello globale il tema più utilizzato dai cybercriminali è stato 
+quello legato alla pandemia. Trend Micro ha infatti bloccato 8,8 milioni di minacce in sei mesi, di 
+cui il 92% via e-mail.
+Tra le minacce più rilevate le truffe Business Email Compromise (BEC), che ha
+nno cercato di capitalizzare al meglio le pratiche di smart working introdotte negli ultimi mesi e i
+ ransomware, che hanno visto le nuove famiglie crescere del 45%. Anche le vulnerabilità sono aumenta
+te e la Trend Micro Zero Day Initiative (ZDI) ha pubblicato un totale di 786 avvisi, ovvero il 74% i
+n più rispetto alla seconda metà del 2019, e con un particolare focus sui sistemi di controllo indus
+triali.
+Italia: i numeri della prima metà del 2020
+
+Malware – Il numero totale di malware intercetta
+ti in Italia nella prima metà del 2020 è di 6.955.764. L’Italia è l’ottavo Paese più colpito al mond
+o
+Ransomware – Nel primo semestre 2020 l’Italia è l’undicesimo Paese più colpito al mondo con una pe
+rcentuale di attacchi del’1,33%. In Europa è seconda solo alla Germania con il 18,67% di attacchi su
+biti
+Le minacce arrivate via mail sono state 151.884.242, tra cui 107.684 erano messaggi spam a tema
+ COVID
+Gli URL maligni visitati sono stati 6.064.101
+Il numero di app maligne scaricate nella prima 
+metà del 2020 è di 127.690
+Nella prima metà del 2020 sono stati 2.907 i malware di online banking ch
+e hanno colpito l’Italia
+
+Leggi anche:  Il 40% delle violazioni dei dati mira alle informazioni pers
+onali dei clientiIn tutto il mondo, Trend Micro ha bloccato nel primo semestre un totale di 28 milia
+rdi di minacce (27.823.212.959), quasi un miliardo in più rispetto allo stesso periodo dell’anno pre
+cedente. Il 93% di queste minacce è arrivato via mail.
+
+
+
+
+
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+"Di recente, Micros
+oft ha pubblicato un report dettagliato che descrive il funzionamento delle complesse varianti ranso
+mware, guidate manualmente dai criminali informatici". https://lttr.ai/W1hr
+#Ransomware #SentinelOne
+ #PiattaformaEDR
+
+/ ~ 4AC5DDE2 ~ /
+
+"Abbiamo visto aziende dichiarare di essere state vittima di #ra
+nsomware e altre crollare sotto le richieste di tali minacce." Nuovo episodio del podcast @CyberSaun
+a sulle ultime tendenze in ambito #cybersecurity https://blog.f-secure.com/podcast-2020-threats-so-f
+ar/…
+
+/ ~ 4AC5DDE2 ~ /
+
+attacchi ransomware: questa volta c'è scappato il morto; ne parliamo qui.
+
+/
+ ~ 4AC5DDE2 ~ /
+
+ Facebook   Twitter  LinkedIn WhatsApp Email A livello globale il tema più utilizza
+to dai cybercriminali è stato quello legato alla pandemia. Trend Micro ha infatti bloccato 8,8 milio
+ni di minacce in sei mesi, di cui il 92% via e-mail.Tra le minacce più rilevate le truffe Business E
+mail Compromise (BEC), che hanno cercato di capitalizzare al meglio le pratiche di smart working int
+rodotte negli ultimi mesi e i ransomware, che hanno visto le nuove famiglie crescere del 45%. Anche 
+le vulnerabilità sono aumentate e la Trend Micro Zero Day Initiative (ZDI) ha pubblicato un totale d
+i 786 avvisi, ovvero il 74% in più rispetto alla seconda metà del 2019, e con un particolare focus s
+ui sistemi di controllo industriali.Italia: i numeri della prima metà del 2020Malware – Il numero to
+tale di malware intercettati in Italia nella prima metà del 2020 è di 6.955.764. L’Italia è l’ottavo
+ Paese più colpito al mondoRansomware – Nel primo semestre 2020 l’Italia è l’undicesimo Paese più co
+lpito al mondo con una percentuale di attacchi del’1,33%. In Europa è seconda solo alla Germania con
+ il 18,67% di attacchi subitiLe minacce arrivate via mail sono state 151.884.242, tra cui 107.684 er
+ano messaggi spam a tema COVIDGli URL maligni visitati sono stati 6.064.101Il numero di app maligne 
+scaricate nella prima metà del 2020 è di 127.690Nella prima metà del 2020 sono stati 2.907 i malware
+ di online banking che hanno colpito l’ItaliaIn tutto il mondo, Trend Micro ha bloccato nel primo se
+mestre un totale di 28 miliardi di minacce (27.823.212.959), quasi un miliardo in più rispetto allo 
+stesso periodo dell’anno precedente. Il 93% di queste minacce è arrivato via mail.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+ #Ransomware, basta un clic per bloccare l'intera rete! 
+
+Scopri come proteggerti: scarica il #rep
+ort  https://bit.ly/2G0od7S
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Banda del ransomware ruba dati sensibili di 540 mil
+a arbitri sportivi negli Stati Uniti
+Colpita la lega degli arbitri di diverse discipline sportive. 
+Nel bottino dei cyber criminali dati sensibili, password, numeri di previdenza sociale e di carte di
+ pagamento, informazioni personali. Pagato il riscatto, ma nessuna certezza sul destino dei dati sot
+tratti.
+
+
+
+Breccia nel sistema di difesa informatica di una società che fornisce software gestionali
+ per la NCAA (National Collegiate Athletic Association), la lega nazionale degli arbitri, dei giudic
+i e degli ufficiali delle varie leghe e discipline sportive negli Stati Uniti.
+Secondo quanto riferi
+to ai media dal provider stesso, ArbiterSports, nei giorni scorsi, la software company è riuscita a 
+respingere un attacco ransomware, ma non ad evitare il data breach.
+
+La cyber banda ha effettuato un
+a copia dei backup e quindi dei dati di tutti gli arbitri e giudici sportivi registrati alla NCAA.
+I
+n tutto dovrebbero essere 540 mila gli utenti coinvolti dal cyber attacco.
+Un bottino classico, fatt
+o di dati sensibili, come indirizzi di casa, numero di previdenza sociale, carte di pagamento, passw
+ord, indirizzi email, account vari e anche licenze di guida.
+ArbiterSports, dopo aver subito l’attac
+co, si è vista recapitare una richiesta di riscatto, tipico di un ransomware. In cambio del pagament
+o, i cyber criminali avrebbero distrutto tutti i dati sottratti, altrimenti li avrebbero offerti sui
+ mercati del dark web.
+La società ha deciso di pagare il riscatto e la banda del ransomware ha assic
+urato che i dati sarebbero stati eliminati.
+Il problema è: ci si può fidare?Si può stare sicuri che 
+i cyber criminali nel frattempo non abbiamo eseguito copia dei dati in questione?
+Troppo spesso situ
+azioni del genere hanno dimostrato che i dati, una volta rubati, quasi sempre finiscono sul mercato 
+nero del web.
+Secondo un nuovo report diffuso da Coalition, il 41% degli attacchi sferrati contro il
+ settore delle assicurazioni online in Nord America, nella prima metà del 2020, è di tipo ransomware
+, con un incremento del +260% rispetto all’anno passato.
+
+
+
+L'autore
+
+
+Flavio Fabbri
+ Giornalista pu
+bblicista e digital content developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+La protezione antivirus pluripr
+emiata. Utilizzabile senza sforzo e semplice da installare.
+Il ransomware sta rapidamente diventando
+ uno dei tipi più diffusi, e dannosi. Gli hacker utilizzano il ransom...
+
+/ ~ 4AC5DDE2 ~ /
+
+Caricame
+nto in corso. Per commentare attendere...uncletoma22 Set 2020 @ 10:15 pullulalurdz22 Set 2020 @ 08:1
+4 Non sapevo che others fosse la traduzione di Italia, ma ho un misero vocabolario inglese, che ne p
+osso sapere..Mario22 Set 2020 @ 06:40 Sono Ciechi, e' grave la cosa.Mario22 Set 2020 @ 06:40 Manco i
+o,  ci cascherei in questi tranelli.Mario22 Set 2020 @ 06:38 No sono luxottici.Alex22 Set 2020 @ 06:
+23 Citrix è stata la più gran vaccata creata in informaticaAlex22 Set 2020 @ 06:22 Di che caxxo parl
+i ? Stai male ?Nus22 Set 2020 @ 05:16 prende i voti un miserabile come salvini, chiaramente il livel
+lo del paese è questo...Igioz22 Set 2020 @ 05:00 Che lolloneAhahahha21cole22 Set 2020 @ 04:54 La gen
+te non sa leggere (o meglio non possiede comprensione del testo), figurati evitare phishing e compag
+niatulio22 Set 2020 @ 04:21 Saranno tutti iPhone al 100%fabbro22 Set 2020 @ 04:11 l'analfabetismo in
+formatico è troppo diffuso in questo paese, i migliori sono quelli che ti inoltrano le mail infette 
+dicendo "mi è arrivata questa mail con un virus, la controlli"Poi ci sono quelli che cliccano sui li
+nk senza neanche leggere ma i migliori sono quelli che ricevono mail da una banca finta e danno i co
+dici senza problemi, poi gli chiedi se abbiamo quella banca e ti dicono di no.....Falloppo22 Set 202
+0 @ 03:42 Io devo essere una persona molto intelligente e sveglia dato che non sono mai caduto in tr
+anelli cosi' stupidi.Falloppo22 Set 2020 @ 03:40 Ma quelli di luxottica sono ciechi?!Falloppo22 Set 
+2020 @ 03:38 Ma se nella foto manco ci sta l'italia... ma qua so tutti orbi?Davide22 Set 2020 @ 03:2
+8 Non sempre si tratta di analfabeti funzionali. Durante il lockdown ho subito un attacco in azienda
+. Sono entrati (non so assolutamente come) dentro al server ed hanno iniziato ad infettare tutti i c
+lient accesi. Per fortuna mi sono reso conto dopo pochissimi minuti (credo) che c'era qualcosa che n
+on andava, in quanto dovendo riavviare il mio pc, mi dava che un utente era collegato. Ho mangiato l
+a foglia e collegandomi al server in RDP ho visto qualcuno che stava lavorando (c'erano una serie di
+ finestre aperte). Ho immediatamente staccato internet così da avere la situazione in mano. In prati
+ca tramite mimikatz aveva tirato fuori la password di amministratore di dominio e, con questi privil
+egi, con ipscanner ha tirato fuori tutti gli ip dei pc accesi e lanciato ransomware su tutti i clien
+t tramite terminale (avendo i privilegi di domain controller poteva farlo). Giusto l'altro giorno ho
+ letto un articolo su una patch di windows uscita ad agosto sulla vulnerabilità Zerologon, penso che
+ abbia usato questa falla. Per fortuna che avevo i backup non locali al giorno prima, è bastato ripr
+istinare tutte le VM su esxi e con una giornata di lavoro me la sono cavata. Ma se non avessi avuto 
+i backup "esterni" ero nella m, perché mi aveva già corrotto tutti i backup sui nas.riccardik22 Set 
+2020 @ 03:24 in unione a quello c'è anche da dire che il sistema antispam di microsoft fa abbastanza
+ schifo, cosa piuttosto sorprendente, alcune delle mail di phishing che ho ricevuto su gmail non sar
+ebbero mai passateqandrav22 Set 2020 @ 03:23 Niccolò ha giusto postato questo su ig:https://instagra
+m.fmxp6-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/119888379_3191228364337146_3694576997955706378_
+n.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=TfpTQAsx2p0AX_2kV4g&_nc_tp=15&oh=32
+d1bab43309d847a2b749af6cc81037&oe=5F91CB1CPietro Smusi22 Set 2020 @ 03:22 è la veramente la verità. 
+pensa che ci stanno cascando più persone del normale. mica saranno tutte della tua parte di giungla?
+??Igioz22 Set 2020 @ 03:21 e luxottica giusembra abbiano sfruttato in questo caso una CVE di CitrixL
+aVeraVerità22 Set 2020 @ 03:20 Daiii... veramente ?Baronz22 Set 2020 @ 03:19 Visto che l'analfabetis
+mo funzionale dilaga non mi stupisce.Pietro Smusi22 Set 2020 @ 03:14 proprio in questi giorni girano
+ email che hanno come oggetto  l 'email di un conoscente(cliente , fornitore ecc ecc), ma in realtà 
+sono email bot da domini veramente assurdi. ovviamente alcune sono scritte anche in italiano ed hann
+o il classico link pishing oppure archivio.
+
+/ ~ 4AC5DDE2 ~ /
+
+Banda del #Ransomware, rubati dati pe
+rsonali di 540 mila #arbitri sportivi negli Stati Uniti. #cybersecurity #databreach
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+Non si tratta di semplici varianti di ransomware ma di un nuovo vero e proprio modus operandi dei
+ criminal hacker in cui l’ingresso nei sistemi avviene sfruttando sevizi di accesso remoto configura
+ti male e accessibili dall’esterno e problemi sui server
+
+/ ~ 4AC5DDE2 ~ /
+
+Italia bersagliata da ma
+lware e ransomware https://ift.tt/2HoioC8
+
+/ ~ 4AC5DDE2 ~ /
+
+L’Italia continua a essere bersagliata 
+da malware e ransomware https://ift.tt/3hULy8t
+
+/ ~ 4AC5DDE2 ~ /
+
+Donna Muore per un attacco #ransom
+ware in un ospedale #tedesco
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Luxottica, la più grande produttrice mondiale di mo
+ntature per occhiali da vista e da sole, è ostaggio da parte di criminali informatici. 
+Secondo quan
+to riporta l’Ansa, gli stabilimenti della produzione e della logistica di Agordo e Sedico, nel bellu
+nese, sono fermi dalle 11 di stamane a causa di un non meglio precisato “guasto al sistema informati
+co”. 
+
+Fonti sindacali hanno confermato all’agenzia di stampa che i lavoratori sono stati raggiunti 
+da un SMS in cui si notifica loro che “il secondo turno di oggi 21 settembre è sospeso” a causa di ”
+ gravi problemi informatici“.
+Luxottica: ransomware dietro l’attacco? 
+Al momento non si hanno notiz
+ie certe sull’attacco informatico, ma date le circostanze, si può intuire che l’azienda fondata da L
+eonardo Del Vecchio sia vittima di un grave attacco ransomware. 
+Il ransomware è un programma inform
+atico dannoso (“malevolo”) che può “infettare” un dispositivo digitale, bloccando l’accesso a tutti 
+o ad alcuni dei suoi contenuti (foto, video, file, ecc.) per poi chiedere un riscatto da pagare per 
+“liberarli”. 
+La richiesta di pagamento, con le relative istruzioni, compare di solito in una finest
+ra che si apre automaticamente sullo schermo del dispositivo infettato. All’utente viene minacciosam
+ente comunicato che ha poche ore o pochi giorni per effettuare il versamento del riscatto, altriment
+i il blocco dei contenuti diventerà definitivo.
+Ransomware, imprese e cybersecurity
+La nuova generaz
+ione di attacchi ransomware colpisce i sistemi informativi delle imprese con varie azioni malevole e
+ adoperando diverse componenti.
+Lo scorso giugno, la Geox, colosso italiano delle calzature, è stata
+ vittima di un importante attacco hacker ai propri sistemi. 
+Le azioni malevole possono di vari tipi
+:
+sequestro file, criptando dischi e contenuti digitali;compromissione dell’operatività stessa dei s
+istemi colpiti, rendendoli inutilizzabili;esfiltrazione dei dati sensibili, intimandone la divulgazi
+one pubblica
+Non è non è scontato che il danno e i relativi problemi possano effettivamente risolver
+si con il pagamento del riscatto (solitamente richiesto in criptovaluta bitcoin), che richiede ogni 
+ransomware.
+Gli attacchi informatici stanno diventando sempre più frequenti e il rischio di un blocc
+o prolungato della produzione, come sta accadendo all’azienda di Agordo, può avere effetti pesantiss
+imi in termini di fatturato.
+In media, nel 2019, il costo sostenuto da ogni organizzazione colpita d
+a attacchi informatici, è stato di quasi 4 milioni di euro.
+
+Per saperne di più: 
+		    Cybercrime 
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica: è stato un attacco ransomware @Luxottica #cyberattack #ransomware: L
+uxottica ha chiarito i motivi del blocco informatico: si è trattato di un attacco ransomware. I sind
+acati rassicurano: i sistemi non sono stati violati, i sistemi di difesa… http://dlvr.it/Rh6BxV
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Hai chiesto, e #Veeam ti viene incontro! #VeeamV10 ti offre la moderna #protezionedat
+i per il NAS, la prevenzione dal ransomware e la portabilità dei dati avanzata. Provalo GRATIS!
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Attacco ransomware blocca Luxottica, ma la reazione è da manuale: ecco perché https:/
+/cybersecurity360.it/nuove-minacce/ransomware/attacco-ransomware-blocca-luxottica-ma-la-reazione-e-d
+a-manuale-ecco-perche/… @Cybersec360
+
+/ ~ 4AC5DDE2 ~ /
+
+
+                    Il blocco informatico 
+che ha paralizzato le attività produttive di Luxottica è stato causato da un attacco ransomware.  A 
+confermarlo sono state fonti sindacali del Femca-Cisl, a cui l'azienda ha riferito di essere stata v
+ittima di un "tentativo mosso dall'esterno di entrare negli apparati informatici Luxottica".La stess
+a fonte conferma inoltre che i cyber criminali non sono riusciti nell'intento perché i sistemi di di
+fesa informatica hanno retto. La decisione di disconnettere tutti i server è stata presa a titolo pr
+ecauzionale, e nelle ore successive i sistemi sono stati riavviati. L'operazione ha richiesto tempo,
+ per questo ieri la produzione si è fermata.Nicola Vanin, Data Governance and Information Security S
+enior Manager di TIM, ha postato due messaggi su LinkedIn che confermano quanto riferito dalle fonti
+ sindacali. Il manager mette in chiaro che al momento "Non risulta alcun accesso o sottrazione di in
+formazioni di utenti e consumatori". Quindi non ci sarebbe stato un data breach. Aggiunge che "Anali
+zzato l'evento, raccolto gli indizi in meno di 24 ore è iniziata la procedura di bonifica dei server
+ interessati. Le attività lavorative stanno tornando progressivamente alla normalità negli stabilime
+nti e nella sede di #Milano".  Vanin chiarisce anche la natura dell'attacco, all'interno di una prev
+isione realistica: "Entro la fine dell'anno #Luxottica subirà un altro migliaio di attacchi informat
+ici e questo recente incidente #ransomware permetterà di migliorare tutti gli indicatori di #Inciden
+t Response". La fonte sindacale ha tenuto anche a precisare che non ci sono stati problemi a carico 
+della logistica, perché sono state prontamente messe a disposizione dei dipendenti le navette hanno 
+riportato a casa anzitempo i circa 1.500 lavoratori senza auto.                
+
+/ ~ 4AC5DDE2 ~ /
+
+N
+el 2019, i ransomware hanno causato perdite economiche per 1,46 milioni di dollari.
+Proteggi il tuo 
+business con Kaspersky Anti Ransomware Tool for business
+Ottienilo gratis: https://kas.pr/mf2h
+#rans
+omware #wannacry #infosec #netsec #cybersec #malware
+
+/ ~ 4AC5DDE2 ~ /
+
+Se sei vittima di un #ransom
+ware, prova il nostro decryptor gratuito e riprendi il controllo della tua vita digitale.
+
+>>>  http
+s://kas.pr/n33c
+#cybersec #infosec #netsec
+
+/ ~ 4AC5DDE2 ~ /
+
+ovviamente non sono affascinanti quand
+o ti ritrovi un rootkit o un ransomware sul tuo pc, però che lavoraccio che fanno gli hacker wow
+
+/ 
+~ 4AC5DDE2 ~ /
+
+ Trump ha offerto la grazia a Assange in cambio di informazioni sugli hacker
+
+ Repor
+t: https://buff.ly/3kwAn7A
+#cybersecurity #infosec #malware #ransomware #dataleaks
+ Ora puoi seguire
+ gli aggiornamenti anche su #Telegram: https://buff.ly/2BoDiys
+
+/ ~ 4AC5DDE2 ~ /
+
+Siamo ora in diret
+ta con @lenovoitalia e @veeam_it con il webinar "Dalla Data Protection al Cloud Data Management"! Ac
+cedi direttamente al live streaming https://lnkd.in/dQ5qqg3
+#DataManagement #Ransomware #Cloud #Solu
+zioniIperconvergenti #InfrastrutturaCloud
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica: prende piede l'ipotesi dell'
+attacco ransomware, ecco perché @Luxottica #cyberattack #ransomware: Luxottica non ha chiarito i mot
+ivi del blocco informatico, ma alcune fonti bene informate parlano esplicitamente di attacco ransomw
+are. http://dlvr.it/Rh66Zv
+
+/ ~ 4AC5DDE2 ~ /
+
+REPORT TREND MICROMalware e ransomware: ecco come l'It
+alia è sotto il tiro dei cybercriminaliSiamo l'ottava nazione più colpita dai malware a livello mond
+iale e l'undicesima (nonché seconda in Europa) per quanto riguarda gli attacchi ransomware.di Gianni
+ Rusconi(beebright - stock.adobe.com)Siamo l'ottava nazione più colpita dai malware a livello mondia
+le e l'undicesima (nonché seconda in Europa) per quanto riguarda gli attacchi ransomware.17 settembr
+e 2020Salva0Commenta3' di letturaSei mesi di fuoco. E il Coronavirus e tutto ciò che ne è conseguito
+ (leggi forzata permanenza a casa davanti al computer) hanno sicuramente contribuito ad aumentare i 
+rischi legati alla sicurezza. L'attività dei cybercriminali durante il lockdown, come noto ed immagi
+nabile, non si è certo fermata (anzi) ma scoprire che il nostro Paese sia fra le vittime preferite d
+egli attacchi certo non fa piacere. Stando infatti all'ultimo rapporto semestrale delle minacce info
+rmatiche “Securing the Pandemic-Disrupted Workplace” realizzato da Trend Micro, che il Sole24ore.com
+ ha visionato in anteprima, siamo l'ottava nazione più colpita dai malware a livello mondiale e l'un
+dicesima (nonché seconda in Europa) per quanto riguarda gli attacchi ransomware. Ecco i numeri nel d
+ettaglio.Primo semestre da incuboI malware che hanno colpito l'Italia nella prima metà del 2020 sono
+ stati poco meno di sette milioni (6.955.764 per la precisione, e di questi 2.907 sono quelli catalo
+gabili nella categoria “online banking”) rispetto ai circa 228 milioni totali: in cima alla classifi
+ca svetta, si fa per dire, il Giappone con 61,6 milioni davanti a Stati Uniti (42,4 milioni) e Taiwa
+n (11 milioni). Alla voce ransomware, la percentuale di attacchi subiti da utenti della Penisola è d
+el'1,33% sul totale e solo la Germania, con il 18,67%, ha fatto peggio. Le minacce arrivate via mail
+ sono state invece oltre 151 milioni e di questi 107mila erano messaggi spam a tema Covid: nel mondo
+ ci sono 17 Paesi che hanno registrato numeri peggiori rispetto al nostro e il primato in questa cla
+ssifica va agli Usa, con più di 4,5 miliardi di messaggi di posta elettronica intercettati che conte
+nevano un virus. Tornando in Italia, sono stati poco più di sei milioni gli Url maligni visitati, nu
+mero che ci vale la 18esima posizione nel ranking mondiale, capeggiato nell'ordine da Hong Kong, Sin
+gapore e India, con 28, 19 e 18 milioni di indirizzi Internet a rischio cliccati da gennaio a giungo
+. Il numero di app maligne scaricate nella prima metà del 2020 in Italia, infine, ha toccato quota 1
+27.690 mentre quello delle vittime da botnet si aggira intorno ai 10.600, per una classifica che ci 
+vede al 20esimo posto e “premia” al primo la Cina con oltre 392mila.LA MINACCIA DEI MALWARE NEL MOND
+OLoading...I numeri a livello mondialeSu scala globale, Trend Micro ha bloccato nel primo semestre q
+ualcosa come 28 miliardi di minacce (27.823.212.959 il numero esatto), quasi un miliardo in più risp
+etto allo stesso periodo dell'anno precedente. E, dato particolarmente preoccupante, il 93% di quest
+e minacce è arrivato via mail. Il tema più utilizzato dagli attaccanti, si legge nella nota che acco
+mpagna lo studio, è stato per l'appunto quello legato alla pandemia e sono circa 8,8 milioni i messa
+ggi pericolosi e direttamente legati al Covid-19 che i software della società americana hanno blocca
+to in sei mesi. Particolarmente diffusi sono stati anche i tentativi di truffa di tipo BEC (Business
+ Email Compromise), che hanno cercato di capitalizzare al meglio le attività in smart working introd
+otte da molte aziende negli ultimi mesi e i generici ransomware, in crescita del 45%. In forte aumen
+to anche le vulnerabilità, con circa 786 avvisi pubblicati dalla Trend Micro Zero Day Initiative, il
+ 74% in più rispetto alla seconda metà del 2019. In questo caso l'attenzione degli attaccanti si è i
+ndirizzata in particolare sui sistemi di controllo industriali.
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco hacker a 
+Luxottica: fermata la produzione e logistica https://tech.everyeye.it/notizie/attacco-hacker-luxotti
+ca-fermata-produzione-logistica-469940.html… attacchi sempre più gravi e con target il core business
+ aziendale #Ransomware #DisasterRecovery #BusinessContinuity #CyberSecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+Tutti
+ siamo rimasti colpiti dalla recente notizia che una donna è deceduta a causa di un attacco ransomwa
+re all'ospedale di #Düsseldorf, in #Germania.La procura tedesca ha aperto un'indagine per #omicidio,
+ dopo che l'ospedale non è stato in grado di ammette la donna alle cure di primo soccorso, perché i 
+suoi sistemi erano stati messi fuori uso da un attacco informatico.La paziente, affetta da una malat
+tia pericolosa, è stata respinta la notte dell'11 settembre dall'ospedale universitario della città 
+ed è morta dopo che l'ambulanza che la trasportava è stata dirottata a #Wuppertal, a 30 km (20 migli
+a) di distanza.Il procuratore Christoph #Hebbecker, capo dell'unità di #crimine informatico a Coloni
+a, ha affermato di aver aperto un'indagine per omicidio colposo contro ignoti, secondo quanto riport
+ato dal quotidiano #Kölner Stadt-Anzeiger.I #malware, come previsto, stanno iniziando a passare dall
+e macchina all'uomo.#redhotcyber #cybersecurity #ransomware #cybercrime #theguardian https://www.the
+guardian.com/technology/2020/sep/18/prosecutors-open-homicide-case-after-cyber-attack-on-german-hosp
+ital
+
+/ ~ 4AC5DDE2 ~ /
+
+Aperta una inchiesta per omicidio colposo, dopo la morte della donna causata
+ da un ransomware.
+
+#redhotcyber #cybersecurity #ransomware #cybercrime #theguardian
+
+/ ~ 4AC5DDE2 ~
+ /
+
+
+
+
+
+La protezione antivirus pluripremiata. Utilizzabile senza sforzo e semplice da installare.
+I
+l ransomware sta rapidamente diventando uno dei tipi più diffusi, e dannosi. Gli hacker utilizzano i
+l ransomware per crittare file e documenti personali salvati nel computer o nel telefono, prendendol
+i in ostaggio e impedendo al proprietario di accedervi, a meno che non paghi un riscatto. Avast Free
+ Antivirus blocca il ransomware prima ancora che possa avvicinarsi ai tuoi file per crittarli.
+
+
+
+Ti
+ protegge in tempo reale analizzando i file sconosciuti prima che ti raggiungano, con una interfacci
+a estremamente intuitiva, protezione avanzata delle applicazioni, nuova modalità passiva per l'esecu
+zione di più prodotti di protezione.
+Rileva e blocca virus, malware, spyware, ransomware e phishing.
+ Utilizza avanzate funzionalità di analisi per bloccare le minacce prima che raggiungano il tuo disp
+ositivo.Individua le falle che consentono al malware di infiltrarsi, da password e impostazioni non 
+sicure a componenti aggiuntivi sospetti.
+Tra le novità, spiccano il rilevamento intelligente essenzi
+ale delle minacce e la protezione in tempo reale, con un impatto sul tuo PC così ridotto che non te 
+ne accorgerai mai.Un antivirus gratuito senza confronti.
+Requisiti di sistema:Sono sufficienti un PC
+ con Windows 10, 8.1, 8 o 7, 1 GB di RAM e 2 GB di spazio sul disco rigido.
+Windows 7 entrambe le ve
+rsioni a 32 e a 64 bit, tranne le edizioni Starter e RT.Compatibile con Windows 10Disponibile anche 
+per Mac, Android e iOS
+Download: Avast Free Antivirus
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+                    Il 4
+7% dei CISO italiani teme la guerra informatica in quanto possibile minaccia per la propria azienda.
+ Fra la teoria e la pratica però c'è un abisso, dato che il 32% degli esperti di sicurezza italiani 
+ammette di non avere una strategia per mitigare questo rischio. Il dato emerge dallo studio internaz
+ionale “10 in 10” di Bitdefender, condotto fra 6.724 professionisti del settore sicurezza e IT nel m
+aggio 2020 in diversi Paesi, fra cui l'Italia. L'argomento del cyberwarfare è di particolare attuali
+tà, anche a seguito della pandemia e dei numerosi attacchi sponsorizzati da stati nazione ai laborat
+ori ed enti che si occupano dei vaccini per il COVID-19. Questi si vanno a sommare alle attività ill
+ecite che erano già in corso per gli screzi commerciali fra Cina e Stati Uniti e i conflitti in Medi
+o Oriente. Si debbono poi aggiungere gli elementi che agevolano gli attacchi, fra cui la diffusione 
+dei dispostivi IoT e l'onnipresenza dei ransomware. Come abbiamo avuto occasione di ribadire più vol
+te, la guerra digitale non è un problema che interessa solo le istituzioni. Anzi, le tattiche coinvo
+lgono spesso aziende private, colpite per indebolire il tessuto industriale di un Paese e per lo spi
+onaggio industriale. Tornando alla ricerca, il 72% degli intervistati è cosciente del fatto che sian
+o necessarie difese avanzate di cyber security. Il problema è che mancano le skill per implementarle
+. Secondo il 33% del campione, la chiave di volta per questo annoso problema sarà la neurodiversità.
+ In sostanza, occorre operare un cambiamento all'interno della composizione stessa della forza lavor
+o ed è necessario cambiare profondamente il modo di comunicare di CIO e CISO. 
+La questione ransomwa
+re 
+Pare quasi superfluo sottolineare che i ransomware sono una vera piaga informatica. Il recentis
+simo attacco a Luxottica rendere bene l'idea della diffusione di questa minaccia. Secondo i dati col
+lezionati da Bitdefender, in Italia nel 2020 gli attacchi ransomware hanno segnato un incremento tal
+e per cui il 55% dei professionisti della sicurezza si aspetta un aumento degli attacchi nei prossim
+i 12-18 mesi, e il 46% teme che un attacco ransomware possa portare alla chiusura della propria azie
+nda, se non dovessero aumentare gli investimenti nella sicurezza. A cos'è dovuta questa crescita?  L
+a maggior parte punta il dito contro il crescente numero di persone che lavora da remoto. Il 35% deg
+li intervistati italiani inoltre ammette che l'azienda per cui lavora pagherebbe il riscatto pur di 
+impedire la pubblicazione di dati/informazioni aziendali sensibili: è la motivazione che spinge i cy
+ber criminali a scatenare proprio questo tipo di attacco. 
+Che cosa bisogna cambiare 
+Cyberwarfare,
+ ransomware e altri sono termini complessi che rappresentano problemi complessi. Usarli spesso porta
+ a non ottenere budget a sostegno dei progetti, perché il CdA non comprende i rischi e la gravità ad
+ essi associata. Il 54% dei professionisti della sicurezza italiani reputa quindi necessario una sem
+plificazione del linguaggio per poter aumentare gli investimenti nella sicurezza informatica. La nec
+essità è che tutti, all'interno e all'esterno dell'azienda, comprendano i rischi.  L'altro aspetto a
+ cui mettere mano è la sopraccitata neurodiversità. Consiste nello stravolgimento della composizione
+ della forza lavoro per colmare il divario di competenze nel settore della sicurezza informatica. At
+tualmente il 14% del campione reputa che lo skill gap aumenterà nei prossimi 12-18 mesi. di questo p
+asso, fra cinque anni si avranno conseguenze catastrofiche per le imprese. Per rimediare non basta a
+ssumere esperti qualificati. Occorre una diversificazione delle competenze che rifletta l'evoluzione
+ delle minacce. In caso non fosse possibile ottenere questo risultato internamente, meglio puntare s
+ui servizi gestiti esterni (MSSP) piuttosto che farne a meno.                
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Gr
+azie alla combinazione dell’infrastruttura storage e server Veeam e Lenovo, è possibile semplificare
+ la propria infrastruttura con prestazioni migliorate e maggiore agilità aziendale, riducendo i cost
+i attraverso la protezione dei dati per carichi di lavoro d’importanza critica in ambienti cloud ibr
+idi. • Come cambia la Data Protection e il Data Management in un contesto multicloud?• Quali sono gl
+i elementi architetturali che concretamente, con una soluzione integrata, consentono di possibile di
+sporre di dati più sicuri e in maniera più veloce?• La possibilità di aumentare fino a 20 venti volt
+e la velocità con cui vengono creati i backup dagli storage snapshot come si traduce in un miglioram
+ento complessivo della velocità di ripristino dell’intero sistema?Nel corso del webinar interverrann
+o Roberto Massiroli, Software Defined Solution Sales Executive di Lenovo e Giampiero Cannavò, Region
+al Alliance Manager, SEMEA di Veeam. Questi sono solo alcuni dei temi al centro del webinar "Dalla D
+ata Protection al Cloud Data Management" in diretta streaming in data 22 settembre a partire dalle o
+re 11:00. La partecipazione è GRATUITA previa iscrizione e soggetta a conferma da parte della Segret
+eria Organizzativa.---------------------------------------------------------------------------------
+--------------CONSENSO AL TRATTAMENTO DEI DATI PERSONALI - Con l’invio dei miei dati, letta la prese
+nte informativa Soiel in materia di protezione dei dati personali (https://www.soiel.it/documenti/In
+formativa-privacy-Soiel.pdf), io sottoscritto/a dichiaro di averne compreso il contenuto e di autori
+zzare il trattamento per le finalità ivi indicate
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco ransomware blocca Luxo
+ttica, ma la reazione è da manuale: ecco perché http://dlvr.it/Rh71PP
+
+/ ~ 4AC5DDE2 ~ /
+
+Una donna i
+n Germania è morta durante un attacco ransomware all’ospedale universitario di Duesseldorf, in quell
+o che potrebbe essere il primo decesso direttamente collegato a un attacco informatico a un ospedale
+. L’ospedale non poteva accettare pazienti di emergenza a causa dell’attacco, e la donna è stata inv
+iata a una struttura sanitaria a circa 20 miglia di distanza con tutte le complicanze del caso dovut
+o al trasferimento.L’attacco informatico non era destinato all’ospedale, secondo un rapporto del not
+iziario tedesco RTL. La richiesta di riscatto era indirizzata a un’università vicina. Gli aggressori
+ hanno interrotto l’attacco dopo che le autorità hanno detto loro che aveva effettivamente chiuso un
+ ospedale. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Italia tra le vittime preferite di malware e ransomware | Trend Micro
+ http://dlvr.it/Rh74GH via @HDblog
+
+/ ~ 4AC5DDE2 ~ /
+
+"Malware e ransomware: ecco come l'Italia è so
+tto il tiro dei cybercriminali". Scopri di più nell'articolo del @sole24ore
+ https://bit.ly/33z3RL6
+
+#Malware #Ransomware #CyberSecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco #ransomware blocca Luxottica, ma la r
+eazione è da manuale: ecco perché https://cybersecurity360.it/nuove-minacce/ransomware/attacco-ranso
+mware-blocca-luxottica-ma-la-reazione-e-da-manuale-ecco-perche/…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+I malware e i r
+ansomware continuano ad abbattersi sull’Italia, che risulta ai primi posti delle classifiche mondial
+i per questo genere di attacchi. Il nostro Paese è infatti l’ottavo al mondo più colpito dai malware
+ e l’undicesimo (secondo in Europa) per quanto riguarda le incursioni ransomware. Il dato emerge da 
+“Securing the Pandemic-Disrupted Workplace”, il report sulle minacce informatiche del primo semestre
+ 2020, a cura di Trend Micro Research.
+Le minacce a tema pandemia imperversano in tutto il mondo.
+A 
+livello globale il tema più utilizzato dai cybercriminali è stato quello legato alla pandemia. Trend
+ Micro ha infatti bloccato 8,8 milioni di minacce in sei mesi, di cui il 92% via e-mail.Tra le minac
+ce più rilevate le truffe Business Email Compromise (BEC), che hanno cercato di capitalizzare al meg
+lio le pratiche di smart working introdotte negli ultimi mesi e i ransomware, che hanno visto le nuo
+ve famiglie crescere del 45%. Anche le vulnerabilità sono aumentate e la Trend Micro Zero Day Initia
+tive (ZDI) ha pubblicato un totale di 786 avvisi, ovvero il 74% in più rispetto alla seconda metà de
+l 2019, e con un particolare focus sui sistemi di controllo industriali.
+Italia: i numeri della prim
+a metà del 2020
+
+Malware – Il numero totale di malware intercettati in Italia nella prima metà del 2
+020 è di 6.955.764. L’Italia è l’ottavo Paese più colpito al mondo
+Ransomware – Nel primo semestre 2
+020 l’Italia è l’undicesimo Paese più colpito al mondo con una percentuale di attacchi del’1,33%. In
+ Europa è seconda solo alla Germania con il 18,67% di attacchi subiti
+Le minacce arrivate via mail s
+ono state 151.884.242, tra cui 107.684 erano messaggi spam a tema COVID
+Gli URL maligni visitati son
+o stati 6.064.101
+Il numero di app maligne scaricate nella prima metà del 2020 è di 127.690
+Nella pr
+ima metà del 2020 sono stati 2.907 i malware di online banking che hanno colpito l’Italia
+
+In tutto 
+il mondo, Trend Micro ha bloccato nel primo semestre un totale di 28 miliardi di minacce (27.823.212
+.959), quasi un miliardo in più rispetto allo stesso periodo dell’anno precedente. Il 93% di queste 
+minacce è arrivato via mail.
+Condividi sui SocialFacebookTwitterLinkedinTumblrPinterestemailPrint 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+written byArianna Nistri
+
+Ransomware: un Attacco Complesso Necessita di un
+a Difesa Strutturata – SentinelOne
+
+                                Cyber Security
+                 
+           
+
+5 min read 
+
+
+
+SHARE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ransomware: un Attacco Complesso Necessita di un
+a Difesa Strutturata – SentinelOneQuando parliamo di attacco ransomware non facciamo riferimento ad 
+una semplice “infezione” da malware. Tale tipologia di attacco consiste in una complessa serie di az
+ioni in cui l'infezione iniziale è solo il primo passo.Un attacco ransomware di successo molto spess
+o coinvolge molteplici vettori di attacco, solitamente guidati dall’intervento umano. Far fronte a u
+n attacco del genere richiede l’implementazione di una soluzione in grado di neutralizzare l'intera 
+gamma di minacce proveniente da questi vettori. Di recente, Microsoft ha pubblicato un report dettag
+liato che descrive il funzionamento delle complesse varianti ransomware, guidate manualmente dai cri
+minali informatici.Ecco alcune caratteristiche in comune delle diverse varianti di attacco:l’attacco
+ inizia con tipologie di malware non sofisticate che possono far attivare più alert, ma tendono ad e
+ssere considerati non importanti e non sono analizzati a fondo;possono rilasciare più varianti di ma
+lware fino a quando una di esse non viene rilevata dal software antivirus;possono attaccare i server
+ che hanno il protocollo RDP (Remote Desktop Protocol) configurato come esposto a internet e forzare
+ gli accessi per entrare nella rete aziendale;una volta all’interno, sorvegliano la rete;possono sfr
+uttare altre modalità per appropriarsi delle credenziali e ottenere privilegi da admin;possono esegu
+ire script PowerShell collegandosi a un server di comando e controllo, consentendo un controllo pers
+istente su altre macchine;sono in grado di arrestare Exchange Server, SQL Server e altri servizi sim
+ili che possono bloccare determinati file in modo che non possano essere crittografati;possono intro
+durre file binari legittimi e utilizzare flussi di dati alternativi per camuffare l'esecuzione del c
+odice ransomware come codice legittimo.Tecniche RansomwareL’esecuzione del payload del ransomware al
+ massimo livello di privilegio con il minor numero di ostacoli è l'obiettivo finale del criminale in
+formatico. Spesso gli aggressori disabilitano o crittografano i sistemi di backup online che quindi 
+non possono essere utilizzati per recuperare i dati crittografati nell'attacco ransomware.Alcune var
+ianti di ransomware si appropriano di dati sensibili con l'obiettivo di minacciare la vittima con l'
+esposizione dei dati se il riscatto non viene pagato.Altre tecniche di ransomware includono il codic
+e polimorfico, un codice che si modifica costantemente per evitare il rilevamento oppure lo sfruttam
+ento di strategie fileless per infettare macchine.Lo Step Successivo nell’Evoluzione della Sicurezza
+: Piattaforma EPPI sistemi antivirus basati sulle firme sono totalmente inefficaci per respingere gl
+i attacchi ransomware. Una piattaforma di endpoint protection (EPP) è l’evoluzione nella scala di pr
+otezione dei dispositivi.Una piattaforma EPP è un insieme di strumenti e tecnologie software che con
+sentono la protezione dei dispositivi endpoint. È una soluzione di sicurezza unificata che combina d
+iversi elementi come antivirus, antispyware, rilevamento/prevenzione delle minacce, un firewall pers
+onale e altre soluzioni di protezione degli endpoint.Sebbene alcune soluzioni EPP includano funziona
+lità di threat intelligence e data analytics, a volte mancano di funzionalità come la capacità di an
+alizzare la memoria, che consentirebbe il rilevamento di attacchi presenti in memoria, o sistemi bin
+ari operativi esistenti (come PowerShell), che potrebbero rilevare attacchi LOL "Living-Off-the-Land
+” che compromettono funzioni del sistema operativo.Una piattaforma EPP è una soluzione che fornisce 
+un perimetro difensivo intorno all'organizzazione, su tutti gli endpoint che rappresentano potenzial
+i canali di accesso per il malware. Anche un solo punto di accesso non monitorato può essere sfrutta
+to per entrare all’interno della rete.Una delle conseguenze dell’implementazione di una piattaforma 
+EPP, tuttavia, è la generazione di una quantità ingente di dati dagli endpoint, che devono essere an
+alizzati al fine di rilevare gli hit generati anche da un processo di rilevamento basato su firma.In
+oltre, all'aumentare delle dimensioni dell’azienda, l’entità dei dati generati aumenta esponenzialme
+nte.Risoluzione del Problema: Piattaforma EDRCome sottolineato dal NIST Cybersecurity Framework, un 
+sistema basato su firme non sarà in grado di analizzare il contesto di un attacco e attivare un aler
+t se si presenta un modello, piuttosto che ripetuti tentativi di accesso ad un account, soprattutto 
+su molteplici endpoint, che può indicare quindi un tentativo di attacco forzato.Ma man mano che gli 
+attacchi diventano più sofisticati, la modalità in cui le soluzioni per la sicurezza implementano le
+ proprie capacità analitiche può diventare un problema.In termini di volume, uno studio dell'Univers
+ità del Maryland ha stimato che nel 2007 si sono verificati attacchi ogni 39 secondi, un volume che 
+è senza dubbio aumentato.Sia le soluzioni basate su cloud che quelle che coinvolgono un database cen
+trale possono presentare colli di bottiglia e ritardi nell'attivazione di alert, che potrebbero offr
+ire ai criminali informatici vantaggi critici nello stabilirsi all'interno delle reti.Gli attacchi s
+ono sempre più sofisticati, con alcune evidenti indicazioni che i criminali informatici stanno inizi
+ando a sfruttare l'intelligenza artificiale.Le soluzioni più efficaci e avanzate sono le soluzioni a
+ctive EDR, basate su intelligenza artificiale e machine learning (AI/ML).Queste soluzioni analizzano
+ i dati dell’endpoint, sfruttando metodi avanzati di applicazione di data science in tempo reale, co
+n un sovraccarico minimo delle prestazioni. Un altro vantaggio delle soluzioni active EDR è la rispo
+sta autonoma, quindi la capacità di rispondere rapidamente alle minacce.L'utilizzo dell'intelligenza
+ artificiale consente alla soluzione di rispondere a un attacco ransomware prima che il malware poss
+a crittografare i dati, molto più rapidamente di quanto un essere umano possa rispondere ad un alert
+.In ConclusioneConcentrandosi sul comportamento piuttosto che sulla conformità a una firma, l’active
+ EDR è in grado di rilevare processi che indicano attività sospette per isolarli prima che possano d
+iffondersi.L’active EDR automatizza anche l'analisi delle attività per fornire un contesto all'analy
+st, riducendo la quantità di dati generati rispetto ad una soluzione EPP.La tecnologia active EDR ha
+ dimostrato di essere efficace contro le varianti di ransomware più sofisticate utilizzate dai crimi
+nali informatici.SentinelOne è l'unica soluzione che offre prevenzione, rilevamento, risposta, remed
+iation ed analisi forense in un'unica piattaforma. Con SentinelOne puoi contrastare automaticamente 
+qualsiasi tipo di attacco da fonti note o sconosciute grazie a potenti sistemi di machine learning e
+d intelligenza artificiale.Se vuoi scoprire di più sulla piattaforma EDR SentinelOne invia una mail 
+a cio@florence-consulting.it o chiama lo (055) 538-3250. Visita la pagina dedicata sul nostro sito p
+er ricevere ulteriore materiale informativo o per richiedere una demo gratuita. In alternativa, puoi
+ compilare il form sottostante con la tua domanda. 
+ 
+
+cyber security
+sentinelone cyber security
+sen
+tinelone
+sentinelone active edr
+
+endpoint detection and response
+protezione endpoint
+endpoint protec
+tion sentinelone
+active edr sentinelone
+soluzione edr sentinelone
+
+
+more
+less
+
+
+
+
+
+
+
+Related stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Cyber Security
+                             
+       
+
+
+                            5 min read
+                        
+
+
+
+
+                      
+      11 Cattive Abitudini che Mettono a Rischio la Sicurezza della Tua Azienda – SentinelOne
+      
+                  
+
+
+
+
+
+
+Arianna Nistri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Cy
+ber Security
+                                    
+
+
+                            4 min read
+         
+               
+
+
+
+
+                            Violazione dei Dati: Quali Sono i Costi che Devono S
+ostenere le Aziende – Panda Security
+                        
+
+
+
+
+
+
+Arianna Nistri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Cyber Security
+                                    
+
+
+     
+                       2 min read
+                        
+
+
+
+
+                            Sicurezza
+ e Protezione in un Mondo Sempre più Connesso – Panda Security
+                        
+
+
+
+
+
+
+Ariann
+a Nistri
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Il cyberwarfare minaccia le aziende, servono cambiamenti @Bit
+defender #cybersecurity #cyberwarfare #ransomware: Uno studio di Bitdefender conferma che in Italia 
+CIO e CISO temono la guerra informatica, ma non sono preparati per affrontarla. Ecco che cosa… http:
+//dlvr.it/Rh72cv
+
+/ ~ 4AC5DDE2 ~ /
+
+Italia bersagliata da malware e ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+@d
+atamanager_it : Italia ancora bersaglio di malware e ransomware http://datamanager.it/2020/09/italia
+-ancora-bersaglio-di-malware-e-ransomware/?utm_source=dlvr.it&utm_medium=twitter…  (via Twitter http
+s://twitter.com/datamanager_it/status/1308358395519410178…)
+
+/ ~ 4AC5DDE2 ~ /
+
+Un grave attacco hack
+er ha paralizzato Luxottica questa mattina. Secondo quanto riferito dall'ANSA, gli stabilimenti di p
+roduzione e logistica di Agordo e Sedico sono fermi da qualche ora a causa di un attacco hacker. La 
+società ha invitato i dipendenti a restare a casa attraverso un SMS in cui parla di "gravi problemi 
+informatici".Non è chiaro di che tipo di attacco si tratti: secondo molti potrebbe trattarsi di un r
+ansomware che avrebbe preso in ostaggio i sistemi informatici, chiedendo il pagamento di un riscatto
+, ma giornali locali come Il Gazzettino parlano di un'intrusione nei sistemi informatici che sarebbe
+ iniziata nella giornata di ieri, domenica 20 Settembre, e che non sarebbe ancora stata completament
+e risolta da parte dei responsabili del comparto IT.
+Gli operati che avrebbero dovuto iniziare il se
+condo turno sono rimasti a casa, mentre per il terzo la situazione sarà valutata direttamente nel po
+meriggio.
+L'attacco è molto meno grave rispetto a quello che ha paralizzato il Baltimora lo scorso a
+nno. E' innegabile però che negli ultimi tempi si sia assistito ad un incremento degli attacchi rans
+omware, anche agli ospedali. Emblematico è il caso dell'ospedale di Dusseldorf, dove la scorsa setti
+mana si è registrato il primo decesso da ransomware dopo che un attacco ha paralizzato una clinica.
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#Emotet è tornato attivo. Ecco come ridurre il rischio. #cybersecurity #ransomwa
+re
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco ransomware blocca Luxottica, ma la reazione è da manuale: ecco perché 
+http://dlvr.it/Rh71Qc
+
+/ ~ 4AC5DDE2 ~ /
+
+Italia ancora bersaglio di malware e ransomware http://data
+manager.it/2020/09/italia-ancora-bersaglio-di-malware-e-ransomware/?utm_source=dlvr.it&utm_medium=tw
+itter…
+
+/ ~ 4AC5DDE2 ~ /
+
+Sarebbe stato un attacco ransomware a causare, nella giornata di ieri, il 
+blocco totale delle attività produttive di Luxottica, la più grande azienda di occhiali al mondo con
+ oltre 80.000 dipendenti e 9,4 miliardi di fatturato nel 2019.Dunque, quello che ieri era stato desc
+ritto dalla stessa azienda come un “guasto al sistema informatico” che ha causato la sospensione del
+ secondo turno produttivo negli stabilimenti di Agordo e Sedico, nel bellunese, e il blocco delle at
+tività produttive in Cina, sarebbe stato in realtà un vero e proprio “tentativo mosso dall’esterno d
+i entrare negli apparati informatici Luxottica”. A confermarlo, una nota del sindacato Femca-Cisl.La
+ buona notizia, sempre secondo quanto riferito dalla nota sindacale, è che la chiusura preventiva de
+gli apparati informatici e la corretta configurazione dei sistemi di difesa del colosso dell’occhial
+eria pare abbiano consentito di respingere l’attacco dei criminal hacker impedendo l’accesso e la co
+nseguente sottrazione di dati e informazioni riservati su utenti, consumatori e proprietà intellettu
+ali dell’azienda.Il malware, prontamente individuato e isolato, non avrebbe quindi causato alcun dan
+no all’infrastruttura, mentre sarebbe stata già completata l’opera di bonifica della rete di server 
+interessati dall’attacco informatico. Al momento, quindi, non ci sarebbe stato alcun data breach, me
+ntre l’attività produttiva sta pian piano tornando alla normalità.Indice degli argomenti
+Attacco ran
+somware a Luxottica: quale lezione da imparareLe nuove tecniche usate negli attacchi ransomwareI ran
+somware e la nuova tendenza della doppia estorsioneAttacco ransomware a Luxottica: l’importanza dell
+a security awarenessAttacco ransomware a Luxottica: quale lezione da imparareL’attacco hacker a Luxo
+ttica (qualora venissero confermate le notizie diffuse finora) e il recente caso Geox confermano che
+ gli attacchi ransomware sono in aumento, probabilmente perché i criminal hacker approfittano della 
+crisi globale per colpire reti e sistemi aziendali poco presidiati.Ce lo conferma anche Paolo Dal Ch
+ecco, esperto di informatica forense: “questo tipo di attacchi è ormai sempre più frequente, le vitt
+ime sono in genere grosse aziende con capitali rilevanti e struttura informatica complessa. Basta le
+ggere i giornali per osservare come quasi ogni giorno grossi brand e grosse realtà commerciali e azi
+endali subiscono disservizi, mandano a casa i dipendenti, si scusano con i clienti e poi, alla fine,
+ spesso viene fuori la verità”.“Non si tratta più dei vecchi ransomware”, continua Dal Checco, “spes
+so creati da piccoli gruppi di delinquenti, pensati per vittime private o piccole aziende, spesso co
+n meccanismi di diffusione, infezione e cifratura quasi automatici, basati ad esempio sull’apertura 
+di un allegato o la visita di un sito compromesso. I primi anni hanno visto protagonisti questi picc
+oli malware, che infettavano un singolo PC, spesso di privati, bloccavano i dati rendendoli inutiliz
+zabili e chiedevano riscatti di poche centinaia di euro per permettere al proprietario di tornare a 
+sbloccare dei propri documenti. Spesso erano soluzioni embrionali, cifravano male, con chiavi note, 
+con algoritmi usati male (es. Xor con stesso pattern), lasciavano le password nella RAM, utilizzavan
+o server C&C vulnerabili che, attaccati da hacker buoni, servivano poi per predisporre antidoti (chi
+amati in genere decryptor) per tutte le vittime”.Le nuove tecniche usate negli attacchi ransomwareL’
+analisi tecnica di Dal Checco continua segnalando che “questo nuovo tipo di compromissioni è organiz
+zato su una scala più massiccia e assimilabile a vere e proprie intrusioni informatiche, eseguite in
+ genere tramite un accesso abusivo da parte di team di cybercriminali che una volta entrati su un PC
+ o su un server procedono con metodo e dedizione a comprometterli tutti. Sono persone, non software,
+ agiscono spesso manualmente, osservando per giorni le attività dell’azienda e cercando i documenti 
+importanti, quelli che poi verranno rubati e, infine, cifrati”.Non si tratta, dunque, di semplici nu
+ove varianti di ransomware ma di un nuovo vero e proprio modus operandi dei criminal hacker in cui, 
+ci dice ancora Dal Checco, “l’ingresso nei sistemi target avviene spesso sfruttando vulnerabilità (s
+evizi di accesso remoto configurati male e accessibili dall’esterno, problemi sui server) o tramite 
+social engineering. Sembra che per Tesla, qualche mese fa, per tentare di entrare sulla rete alcuni 
+cyber criminali abbiano tentato persino di corrompere un dipendente, pagandolo centinaia di migliaia
+ di euro, sapendo che in caso di successo, probabilmente ne avrebbero ottenuti mille volte tanto”.I 
+ransomware e la nuova tendenza della doppia estorsioneIl primo problema, è proprio che da un po’ di 
+tempo, i dati vengono prelevati, soprattutto quelli strategici per l’azienda come segreti industrial
+i, dati contabili e anagrafiche dei clienti, minacciando poi l’azienda di divulgarli in caso di manc
+ato pagamento del riscatto.Siamo davanti, cioè, ad una vera e propria evoluzione dei ransomware che 
+non si accontentano più di richiedere alla vittima il pagamento di un riscatto per rientrare in poss
+esso dei suoi dati, ma la minacciano con una doppia estorsione.La cifratura dei dati, quindi, è il p
+roblema minore, dato che le grosse realtà hanno imparato a fare copie di sicurezza dei propri file i
+mportanti, spesso con soluzioni in grado di ripristinare singoli PC, server o persino l’intera rete 
+in poche ore.Altro problema, le cifre richieste non sono più nell’ordine di qualche centinaio di eur
+o: nei recenti attacchi si sono viste richieste di riscatto di svariati milioni di euro, addirittura
+ si può arrivare anche a diverse decine, se non centinaia.I criminal hacker, dunque, fanno leva sull
+a divulgazione dei dati, più che sulla cifratura, sapendo che per l’azienda rendere pubblici tutti i
+ suoi “segreti” sarebbe un colpo più grande del dover impiegare qualche giorno per ripristinare i si
+stemi, sia dal punto di vista della reputazione, sia legale. Entrerebbero in gioco, infatti, fattori
+ legati al GDPR quali rischio di data breach, notifica al Garante e agli interessati.Attacco ransomw
+are a Luxottica: l’importanza della security awarenessL’attacco ransomware subito da Luxottica deve 
+dunque servire da lezione per tutte le aziende e le organizzazioni pubbliche e private.Ancora Dal Ch
+ecco ci fa notare che “i tempi sono cambiati, devono quindi cambiare anche le contromisure, sempre p
+iù difficili da attuare, soprattutto perché una volta compromesso il sistema e prelevati i dati, c’è
+ poco da fare”.“Se non si hanno copie di sicurezza da qualche parte”, è la considerazione finale del
+ nostro esperto, “i dati molto raramente si recuperano: i criminali saranno anche “cattivi” ma non s
+ono ingenui, hanno ormai imparato come non lasciare tracce, come cifrare in modo corretto, silenzios
+o, permanente, a modo loro efficace”.In questo senso, anche l’analisi di quanto successo lo scorso a
+nno durante l’attacco ransomware all’italiana Bonfiglioli Riduttori può essere lo spunto giusto per 
+ricordare a tutti, ancora una volta, quanto importante sia la security awareness aziendale. I tempi 
+sono maturi, ormai, affinché tutte le aziende comprendano finalmente che anche la sicurezza informat
+ica delle proprie infrastrutture e dei dati deve diventare un asset strategico per la crescita e lo 
+sviluppo competitivo delle aziende stesse.
+@RIPRODUZIONE RISERVATA
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco ransom
+ware blocca Luxottica, ma la reazione è da manuale: ecco perché - Cyber Security 360

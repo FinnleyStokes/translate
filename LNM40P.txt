@@ -1,0 +1,2181 @@
+Mir schwahnt böses... Wenn Bund und Länder "mit Computer machen", kann das hierzulande im Grunde nur
+ schiefgehen. Mal sehn, wie lange es dauert, bis die Lehrer alle Ransomware haben.
+"Aber, aber, aber
+ das wussten wir doch nicht!"
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Nach dem Angriff auf die Düsseldorfer Uni-Klinik f
+ührt eine mögliche Spur der Täter laut Justizministerium nach Russland. So hätten die Angreifer eine
+ Schadsoftware namens "DoppelPaymer" in das System geschleust. Dieser Verschlüsselungstrojaner sei b
+ereits in zahlreichen anderen Fällen weltweit gegen Unternehmen und Institutionen von einer kriminel
+len Hacker-Gruppe eingesetzt worden, die nach Einschätzung privater Sicherheitsunternehmen in der Ru
+ssischen Föderation beheimatet sein soll. Das teilte das Ministerium von Nordrhein-Westfalen am Dien
+stag laut dpa in einem Bericht an den Rechtsausschuss mit.
+
+
+
+Die Cybercrime-Bande hinter DoppelPaym
+er hat sich ähnlich wie die mit der Emotet-Gang zusammenarbeitende Trickbot-Bande auf das Erpressen 
+von Firmen und Organisationen spezialisiert. Sie setzen ebenfalls sehr ausgefeilte Techniken ein, um
+ sich in den Netzen auszubreiten und dabei unbemerkt zu bleiben, bis sie tatsächlich Daten verschlüs
+seln. Ihre Lösegeldforderungen richten sich nach dem "Wert" des jeweiligen Angriffsziels und können 
+Millionenhöhe erreichen. Mitte März dieses Jahres hatte die DoppelPaymer-Gang, wie auch einige ander
+e Ransomware-Gruppen, eine "Corona-Pause" für Krankenhäuser versprochen – ein Versprechen, das sie d
+ann doch nicht einhielt.
+
+
+Einbruch via "Shitrix" bestätigt
+Die Ermittler wissen inzwischen, dass di
+e kriminellen Hacker zunächst einen sogenannten "Loader" zum Nachladen des eigentlichen Schadprogram
+ms ins System der Uni-Klinik einschmuggelten. Offen blieb in dem Bericht, wann das war. Das Bundesam
+t für Sicherheit in der Informationstechnologie (BSI) hatte vergangene Woche mitgeteilt, dass die en
+tsprechende Sicherheitslücke in Software von Citrix bereits seit dem Jahreswechsel bekannt war. Dabe
+i handelte es sich um eine Lücke in der Citrix-VPN-Software, die unter dem Namen "Shitrix" bekannt w
+urde (CVE-2019-19781):
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cyber-Angriff auf Uniklin
+ik Düsseldorf: #Shitrix schlug zu
+          
+
+
+
+
+
+
+
+
+Die Uni-Klinik hatte nach eigenen Angaben damal
+s sofort reagiert. Zwei Spezialfirmen hätten das System noch einmal überprüft – ohne Hinweis auf ein
+e Gefährdung durch die nun geschlossene Sicherheitslücke. Offenbar schlummerte der "Loader" da aber 
+bereits auf einem Server der Uni-Klinik.
+Das wahrscheinlichste Szenario ist somit derzeit, dass die 
+Cyberkriminellen die Shitrix-Lücke sehr bald nach ihrem Bekanntwerden und noch vor der Bereitstellun
+g des Patches durch Citrix ausgenutzt haben. Sie sind dann darüber in das Netz der Uni-Klinik einged
+rungen und haben dort heimlich eine Backdoor platziert. Das kann durchaus auch auf einem anderen Sys
+tem als dem eigentlichen VPN-Server geschehen sein, sodass die Hintertür beim Installieren der Citri
+x-Updates nicht gefunden wurde. Erst jetzt, viele Monate später, haben sie diese Backdoor benutzt, u
+m wieder Zugriff auf das Netz der Uni-Klinik zu erlangen.
+
+Täter halfen nach "Irrtum" beim Entschlüs
+seln
+Der eigentliche Angriff durch die nachgeladene Verschlüsselungssoftware passierte erst in der N
+acht vom 10. auf den 11. September. 30 Server der Uni-Klinik wurden durch das Schadprogramm verschlü
+sselt – wobei die Cyberkriminellen eigentlich wohl die Düsseldorfer Universität attackieren wollten.
+ Zu der hatten sie ein digitales Erpresserschreiben adressiert. Als die Polizei den Tätern ihren mut
+maßlichen Fehler mitteilte, schickten diese einen digitalen Schlüssel, um das Krankenhaus wieder zum
+ Laufen zu bekommen.
+Die Ermittler vermuten laut dem Bericht an den Landtag, dass die Uni-Klinik Opf
+er einer "weltweiten kommerziellen Malware-Kampagne" geworden sein könnte. Weitere Details nannte ei
+n Sprecher der zuständigen Staatsanwaltschaft bei der Zentrale- und Ansprechstelle Cybercrime (ZAC) 
+am Dienstag nicht. Laut einer Statistik der US-amerikanischen Temple University liegt die Frequenz d
+er Attacken mit Erpresser-Software dieses Jahr auf dem Höchststand seit 2013. Dabei gezählt wurden a
+llerdings nur die öffentlich bekannten Angriffe. Ermittler gehen von einer hohen Dunkelziffer aus, b
+ei der zum Beispiel Unternehmen auf die Forderungen der Erpresser eingehen.
+
+
+
+
+Ermittlungen und Ber
+einigung laufen weiter
+Die Ermittlungen um den Verdacht der fahrlässigen Tötung einer Patientin lief
+en unterdessen weiter, erklärte der ZAC-Sprecher. Die Frau war statt in die nahe Uni-Klinik in ein w
+eiter entferntes Krankenhaus nach Wuppertal gebracht worden und gestorben. Für den Vorwurf der fahrl
+ässigen Tötung ist unter anderem entscheidend, ob die Frau eine Überlebenschance gehabt hatte, wenn 
+sie in die Uni-Klinik gekommen wäre.
+Die IT des Krankenhauses ist unterdessen weiter nicht voll eins
+atzbereit. Die größte Klinik der Landeshauptstadt rechnet nach Angaben eines Sprechers damit, dass d
+ie Zentrale Notaufnahme diese Woche eventuell ihren Dienst wieder aufnehmen kann. Noch seien aber ni
+cht alle entsprechenden Systeme wieder hochgefahren.
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+     Cybercrime: Erpressung auf neuem Niveau
+          
+
+
+
+
+
+
+
+
+
+
+(ovw)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+
+    
+      Kommentare lesen
+      (39)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 4AC5D
+DE2 ~ /
+
+Sophos hat eine Maze-Ransomware-Attacke analysiert, bei der auf drei verschiedene Arten ver
+sucht wurde, 15 Millionen Dollar an Lösegeld von einer Organisation zu erbeuten. Alle drei Angriffsv
+ersuche schlugen aufgrund geeigneter Maßnahmen fehl. Sie zeigen jedoch die Beharrlichkeit und Anpass
+ungsfähigkeit der Angreifer.Sophos veröffentlicht seinen neuen Report „Maze Attackers Adopt Ragnar L
+ocker Virtual Machine Technique“. In diesem Bericht beschreiben die Security-Experten, wie Cyberkrim
+inelle bei einem Angriff auf drei unterschiedliche Arten versuchten, die Ransomware Maze bei ihrem O
+pfer zu aktivieren. Als Lösegeld verlangten die Gangster 15 Millionen Dollar. Maze ist eine der berü
+chtigtsten Ransomware-Familien und seit 2019 aktiv. Sie entwickelte sich aus der Chacha-Ransomware u
+nd ist eine der ersten, die Datenverschlüsselung mit Informationsdiebstahl kombinierte. Drei Angriff
+svarianten auf ein und dasselbe OpferDie Cybergangster hinter Maze sind hartnäckig und versuchen die
+ Ransomware auf unterschiedliche Arten im Unternehmen zu verbreiten. Forensische Untersuchungen erga
+ben, dass die Angreifer mindestens sechs Tage vor ihrem ersten Versuch, die Ransomware zu aktivieren
+, in das Netzwerk eingedrungen waren. Während dieser Zeit erkundeten sie die Netzinfrastruktur, star
+teten reguläre Tools von Drittanbietern, stellten Verbindungen her und leiteten Daten zu einem Cloud
+-Speicherdienst. Diese Schritte dienten der Vorbereitung für die eigentliche Ransomware.Nach Aktivie
+rung der Ransomware verlangten die Cyberkriminellen ein Lösegeld in Höhe von 15 Millionen Dollar. Da
+s Opfer zahlte die Summe jedoch nicht und als die Angreifer merkten, dass der erste Angriff fehlgesc
+hlagen war, starteten sie einen zweiten, modifizierten Versuch. Dieser wurde von Security-Lösungen u
+nd dem Sophos-Managed-Threat-Response- (MTR-)Team, das für die Reaktion auf den Vorfall zuständig wa
+r, entdeckt und abgewehrt. Doch die Maze-Angreifer gaben noch nicht auf. Beim dritten Versuch verwen
+deten sie eine neu konfigurierte Version der Ragnar-Locker-VM-Technologie unter Einsatz von Windows-
+7 anstelle der Windows-XP-VM. Zudem konzentrierten sie den Angriff nur auf einen Dateiserver. Auch d
+ieser Versuch wurde erkannt und blockiert.„Die Angriffskette, die vom Sophos-MTR-Team nachverfolgt w
+urde, zeigt die Agilität und Hartnäckigkeit der Angreifer. Sie veranschaulicht auch ihre Fähigkeit, 
+Tools schnell zu ersetzen und neu zu konfigurieren, um für eine weitere Runde in den Ring zurückzuke
+hren“, sagt Peter Mackenzie, Incident Response Manager bei Sophos. „Der Einsatz der VM-Technologie v
+on Ragnar-Locker mit starkem Footprint und hohem Bedarf an CPU-Leistung könnte ein Zeichen für die w
+achsende Frustration der Angreifer sein, nachdem die ersten beiden Ransomware-Angriffe fehlgeschlage
+n sind.“ Tipps zur Abwehr von CyberattackenZur Abwehr von Cyberattacken, insbesondere von Ransomware
+, empfehlen die Sophos-Security-Spezialisten eine Verkleinerung der Angriffsfläche. Dies kann durch 
+mehrschichtige und Cloud-basierte Security-Lösungen mit wirksamem Ransomware-Schutz erreicht werden.
+ Zudem sollten Mitarbeiter geschult sein und wissen, worauf sie achten müssen. Auch kann das Einrich
+ten oder beauftragen eines Threat-Hunting-Services entscheidend dazu beitragen, aktive Attacken zu i
+dentifizieren.Der Komplette Report steht zum Download bereit unter: https://news.sophos.com/en-us/20
+20/09/17/maze-attackers-adopt-ragnar-locker-virtual-machine-technique/#Sophos Tags:CyberattackeCyber
+crimeCyberdefenseCybersecurityCybersicherheitIT-SecurityIT-SicherheitMaze-RansomwareRansomwareSophos
+Threat-HuntingThreat-Response
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Originalartikel von Trend Micro
+
+Wie Trend Micro i
+m Halbjahresbericht 2020 darlegt, sagen die Zahlen zur Lösegeldforderung auf den ersten Blick nicht 
+mehr viel aus. Zwar ist die Zahl der Infektionen, der Offenlegungen von Unternehmen und der Ransomwa
+re-Familien zurückgegangen, doch der geschätzte Geldbetrag, der für den Zugriff auf die verschlüssel
+te Daten ausgegeben wurde, ist stetig gestiegen. Cyberkriminelle greifen Institutionen und Unternehm
+en an, für die der Zugriff auf ihre Daten und die Wiederherstellung ihre Systeme sehr wichtig ist. D
+eshalb können die Kriminellen exorbitante Lösegeldforderungen stellen.
+
+
+Bild 1. Die Gesamtzahl der 
+Ransomware-Familien ist von 2012 bis 2020 zurückgegangen (oben). Das zeigen die monatlichen Erkennun
+gszahlen für neue Ransomware-Familien im ersten Halbjahr 2020 (unten).
+Die Bedrohungsakteure zielen 
+nicht mehr auf einzelne Benutzer und Maschinen ab, um zufällige Ransomware-Infektionen auszulösen. D
+eshalb fehlt es in der Öffentlichkeit an Aktualisierungen und Mundpropaganda über deren Verbreitung.
+ Betroffene Unternehmen und Behörden versuchen, Stillschweigen über die Angelegenheit zu bewahren, b
+is sie intern gelöst ist. Die Öffentlichkeit wird erst dann auf diese Vorfälle aufmerksam gemacht, w
+enn Nachforschungen angestellt oder wenn Vorfälle schließlich gemeldet werden. Doch diese Verlautbar
+ungen geben nur wenige Einzelheiten (wenn überhaupt) darüber, wie die Organisationen zu Opfern wurde
+n oder ob dabei Lösegeld gezahlt wurde. Leider bietet die Bezahlung von Cyberkriminellen keine Garan
+tie dafür, dass die Dateien wieder zugänglich werden oder dafür, dass es in Zukunft keine weiteren A
+ngriffe geben kann.
+Arten der Ransomware
+Wie bereits erwähnt, gibt ein Vergleich der Erkennungszahle
+n mit denen von 2019 ein nur unvollständiges Bild des Geschehens. Eine Analyse der Techniken und Rou
+tinen der früher und derzeit installierten Ransomware macht deutlich, dass die Cyberkriminellen mitt
+lerweile ihre Aufmerksamkeit auf bestimmte Ziele und größere Geldsummen lenken, die sie von ihren Op
+fern erpressen können. Diese Ziele sind häufig in Branchen oder Organisationen mit kritischen öffent
+lichen Geschäftsvorgängen und Infrastrukturen zu finden.
+Bedrohungsakteure können immer noch willkür
+lich Spam-E-Mails an ein Verzeichnis von E-Mail-Adressen senden, um mindestens ein Opfer anzulocken.
+ Doch die jüngsten Angriffe sind gezielter, und die Opfer wurden vorher ausgekundschaftet, um einen 
+größtmöglichen Gewinn zu erzielen. Im Laufe der Jahre haben die Forscher drei verschiedene Arten von
+ Ransomware beobachtet mit verschiedenen Routinen für das Eindringen in die Systeme der Opfer.
+Wurm-
+basierte oder Legacy Ransomware
+Wurm-basierte Ransomware verbreitet sich ähnlich den Würmern über re
+plizierte Kopien ihrer selbst durch Systeme. Legacy Ransomware nutzt den eingestellten Support für B
+etriebssysteme aus. Sie setzen auf Schwachstellen als Einstiegspunkte und beeinträchtigen andere Sys
+teme im Netzwerk auch ohne menschliche Interaktion. Einige dieser Bedrohungsvektoren lassen sich ver
+hindern, wenn von den Herstellern veröffentlichte Patches aufgespielt oder die virtuellen Patches vo
+n Sicherheitsanbietern heruntergeladen werden, wenn der Support für ein Betriebssystem endet.
+Ransom
+ware-Routinen, die Zero-Day-Schwachstellen ausnutzen, können jedoch den größten Schaden in Systemen 
+anrichten. Ein Beispiel dafür ist WannaCry, das 2017 eingeführt wurde, Monate nachdem die Gruppe Cyb
+erkrimineller Shadow Brokers mehrere Hacker-Tools veröffentlichte, darunter EternalBlue. Die Ransomw
+are verbreitete sich rasch in Unternehmen auf der ganzen Welt und hielt Systeme als Geiseln und dere
+n Betrieb im Stillstand, bis Forscher den Kill Switch in der Kodierung der Routine fanden.
+Gängige R
+ansomware
+Diese Art von Ransomware wird über Spam verbreitet. Cyberkriminelle kennen die Opfer nicht
+ und senden die infizierten E-Mails einfach an eine Liste von Adressen, die sie gesammelt, gestohlen
+ oder gekauft haben. Sie setzen Social Engineering-Techniken ein, um die Opfer zu täuschen, so dass 
+diese die E-Mail oder den bösartigen Anhang öffnen und so ihre Systeme mit Lösegeldern infizieren.
+B
+ei den meisten dieser Routinen verschlüsselt die Malware fast alle Arten von Dateien, die sich in ei
+nem System befinden können, wie z. B. Mediendateien, Dokumente, ausführbare Dateien und Anwendungen.
+ Zu diesen Routinen gehört vermutlich auch eine Datei oder eine ausführbare Datei, in der die Höhe d
+es Lösegeldes angegeben ist, sowie Support-Anweisungen, wie die Opfer Kryptowährungen erwerben könne
+n, um ihre Dateien wiederherzustellen. Dennoch gibt es keine Garantie dafür, dass ihnen der Entschlü
+sselungsschlüssel zugesandt wird oder dass ihre Dateien nach Zahlung des Lösegelds wiederhergestellt
+ werden.
+
+
+
+2016
+2017
+2018
+2019
+2020 1H
+
+
+LOCKY
+82,805
+WCRY
+321,814
+WCRY
+616,399
+WCRY
+416,215
+WCRY
+1
+09,838
+
+
+KOVTER
+50,390
+CERBER
+40,493
+GANDCRAB
+14,623
+LOCKY
+7,917
+LOCKEY
+6,967
+
+
+NEMUCOD
+46,276
+LOCKY
+
+29,436
+LOCKY
+10,346
+CERBER
+5,556
+CERBER
+2,360
+
+
+CERBER
+40,788
+CRYSIS
+10,573
+CERBER
+8,786
+GANDCRAB
+4
+,050
+CRYSIS
+1,100
+
+
+CRYPTESLA
+26,172
+SPORA
+8,044
+CRYSIS
+2,897
+RYUK
+3,544
+SODINOKIBI
+727
+
+
+
+ 
+Tabelle
+ 1. Top fünf Ransomware-Familien von 2016 bis zum ersten Halbjahr 2020 (Daten aus dem Smart Protecti
+on Network, SPN)
+Lesen Sie die Historie dieser Familien im Originalartikel.
+Solch gängige Ransomware
+ ist mittlerweile ein geringeres Problem für Unternehmen. Viele heute verfügbare Sicherheitssysteme 
+und auch veröffentlichte Patches umfassen Mechanismen, die über verhaltensbasierte und Dateiüberwach
+ungs-Technologien die Malware erkennen.
+Gezielte oder auf Einbrüchen basierte Ransomware
+Gezielte od
+er auf einem Einbruch basierte Ransomware beinhaltet die Techniken in Routinen, die in den letzten J
+ahren eingesetzt wurden. Diese Art von Ransomware dringt in ein System mittels z.B. gestohlener RDPs
+ ein, über nicht gepatchte Schwachstellen und schlecht gesicherte Anwendungen. Von Untergrund-Websit
+es können Cyberkriminelle Zugangsdaten wie RDP-Benutzernamen und Passwörter erwerben. Sie können auc
+h Social-Engineering-Techniken einsetzen, um die benötigten Zugangsdaten zu phishen, oder die Zielco
+mputer mit Malware wie InfoStealer infizieren, um die Bedrohungsvektoren zu finden, die sie missbrau
+chen können.
+Cyberkriminelle nutzen die genannten Zugangsdaten auch, um in die Systeme eines Unterne
+hmens einzubrechen. Manchmal wird dies mit einer Eskalation der Privilegien, Tools oder Methoden kom
+biniert, die die installierte Sicherheit ausschalten. Im Fall des Vorhandenseins von technologisch f
+ortschrittlicheren Systeme, wie z.B. Verhaltens-/Dateierkennung, ist Living Off the Land Binaries an
+d Scripts (LOLBAS) eine Möglichkeit, der Erkennung beim Ausführen von Ransomware zu entgehen.
+Auch h
+ier fügen die Kriminellen Anleitungen in die Lösegeldforderung mit ein, wie das Opfer Bitcoins erwer
+ben kann. Da die Erpresser ihre Ziele kennen, ist die Forderung häufig höher als bei den gängigen Ra
+nsomware-Angriffen. Sie setzen darauf, dass die Unternehmen ihre Dateien bzw. Systeme sofort wieder 
+nutzen müssen. Cyberkriminelle können auch Fristen setzen, damit die Sicherheitsteams die Infektion 
+vor Ablauf der Zeit unmöglich allein beheben können und deswegen das Opferunternehmen gezwungen ist 
+zu zahlen. Mittlerweile drohen einige Cyberkriminelle ihren Opfern auch, die verschlüsselten Dateien
+ zu veröffentlichen oder  die gestohlenen Informationen im Untergrund zu verkaufen, sollte das Löseg
+eld nicht rechtzeitig bezahlt werden.
+Bei dieser Art der Ransomware-Angriffe werden nicht alle Datei
+en verschlüsselt, sondern eher bestimmte Dateitypen oder Anwendungen, die für den Alltagsgeschäftsbe
+trieb unerlässlich sind, so etwa Systemdateien und ausführbare Dateien. Auch hier gibt es keine Gara
+ntie, dass die Dateien wieder verwendbar sind, wenn das Opfer zahlt. Auch besteht die Gefahr, dass d
+ie Kriminellen weitere Arten von Malware installieren, die nicht auffindbar ist und für weitere Angr
+iffe genutzt wird.
+Zu den Zielen gehören auch mittelständische Betriebe wie Krankenhäuser, die als e
+inträglich angesehen werden, weil ihre Sicherheitssysteme weniger fortschrittlich sein könnten und s
+ie dennoch über genügend Ressourcen verfügen, um das Lösegeld zu bezahlen.
+Im Jahr 2016 begannen Cry
+sis und Dharma als gängige Arten von Ransomware. Die Techniken beider Routinen änderten sich jedoch 
+schnell, um höher bezahlte potenzielle Opfer durch den Einsatz anderer Software und gestohlener RDPs
+ anzugreifen. Dharma zeigte, wie vielseitig Ransomware sein kann, denn die Malware passte ihre Routi
+nen an und nutzte andere legitime Software, um die Überwachung und Aufmerksamkeit umzulenken. Crysis
+ wiederum nahm Unternehmen ins Visier und erlangte selbst nach der Entfernung der Malware wieder Zug
+ang,  indem sie andere angeschlossene Geräte wie Drucker und Router für spätere Angriffe infizierte.
+ Sie wurde als RaaS im Untergrund angeboten und war damit auch weiteren Hackern leicht zugänglich.
+C
+harakteristiken neuer Techniken und Ziele
+Diese Ransomware-Techniken des Eindringens in Systeme gezi
+elter Opfern sind nicht neu. Unternehmen und Institutionen mit kritischer Infrastruktur gelten als h
+ochwertige Ziele Da zudem im Untergrund mehr gestohlene Daten wie RDP-Zugangsdaten angeboten werden,
+ können sich riskante Online-Gewohnheiten (wie das Recycling von Benutzernamen und Passwörtern) nich
+t nur für einzelne Benutzer, sondern auch für ein ganzes Unternehmen als schädlich erweisen.
+
+Bild 2
+. Die wichtigsten Zielbranchen auf der Grundlage der Ransomware-Erkennung für 1H 2020 (Daten aus dem
+ Trend Micro Smart Protection Network)
+Die Ransomware-Routinen sind nun in der Lage, mit fortgeschri
+ttenen Verschleierungstechniken ihre Erkennung zu vermeiden. Auch können sie über die Beschränkung a
+uf nur wenige und bestimmte Dateitypen manche Sicherheitssysteme umgehen, vor allem solche ohne Moni
+toring von Dateien und Verhalten. So erlauben es die Routinen der Ransomware  Ryuk, das Netzwerk zu 
+infizieren und dann durch laterale Bewegung nach Systemen zu suchen, die den größten Gewinn versprec
+hen.
+Ransomware-Trends
+Die Sicherheitsforscher gehen davon aus, dass die eingesetzten Routinen bezüg
+lich ihrer Installation und Verschleierungstechniken komplexer werden und noch mehr Unternehmen und 
+Behörden ins Visier nehmen.
+Ebenso werden auch weiterhin mehr Regierungsbehörden und Großunternehmen
+ mit ihren Assets und nach außen gerichteten Systeme zum Ziel werden. Von Websites, Anwendungen, E-M
+ails, Dateien und zentralisierten Kontrollsystemen bis hin zu firmeneigenen Geschäfts- und vertrauli
+chen Sicherheitsinformationen könnten Kunden und Mitarbeiter gleichermaßen gefährdet sein.
+Auch das 
+Industrial Internet of Things (IIoT) und Industrial Control Systems (ICS) könnten profitable Ziele d
+arstellen. Produktionslinien und Lieferketten dienen als Ziele und Bedrohungsvektoren, und Störungen
+ in diesen automatisierten Sektoren könnten sich nicht nur für das Unternehmen, sondern auch für die
+ Wirtschaft und den Ruf eines Landes als katastrophal erweisen.
+Fazit
+Es gibt einige Best Practices,
+ die Einzelpersonen, Unternehmen und Institutionen zu ihrem Schutz beachten sollten:
+
+Gute Passwort-
+Strategie verwenden: Keine Benutzernamen und Passwörter für die Online-Konten und –Geräte wiederverw
+enden sowie die Standard-Anmeldedaten für alle Geräte ändern.
+Netzwerksegmentierung einführen: Unter
+nehmen sollten das Prinzip der geringsten Privilegien umsetzen und den Zugriff auf wichtige Daten un
+d Systemverwaltungswerkzeuge einschränken.
+Überprüfen der RDP-Servereinstellungen: Sie müssen regelm
+äßig überwacht und aktualisiert werden. Empfehlenswert ist auch der Einsatz eines Brute-Force-Schutz
+systems für RDP-Server sowie die stetige Aktualisierung der Anzahl der Benutzer und Konten mit RDP-Z
+ugriff. Benutzer mit RDP-Zugriff müssen komplizierte und sichere Passwörter verwenden, die regelmäßi
+g geändert werden.
+Überwachen der nach außen gerichteten Server: IT-Teams sollten gewährleisten, das
+s die Patch-Zeitpläne eingehalten werden. Bei Implementierungsschwierigkeiten sind virtuelle Patchin
+g-Lösungen ein bewährtes Schutzmittel.
+Aufbewahren der Sicherheitskopien von wichtigen Informationen
+: Mit der 3-2-1-Methode werden drei Sicherungskopien in mindestens zwei verschiedenen Formaten aufbe
+wahrt, von denen eine separat und außerhalb des Standorts lagert.
+
+
+Ungeprüfte und verdächtige E-Mai
+ls und eingebettete Links nicht öffnen: Ist der Absender unbekannt, und sind die Nachricht und ihre 
+Anhänge nicht verifiziert, so sollte die Nachricht gelöscht und/oder melden die E-Mail sofort an das
+ Sicherheitsteam gemeldet werden.
+
+
+Konsequentes Patchen und Aktualisieren der Systeme, Netzwerke, S
+oftware, Geräte, Server und Anwendungen: Sobald die Hersteller Patches oder Updates veröffentlichen,
+ sollten diese angewendet werden, um zu verhindern, dass Schwachstellen offen bleiben, die von Bedro
+hungsakteuren ausgenutzt werden können.
+
+
+Auf keine Lösegeldforderungen eingehen: Die Bezahlung ermu
+tigt Cyberkriminellen nur, ihre Aktivitäten fortzusetzen. Es gibt auch keine Garantie dafür, dass ve
+rschlüsselte Daten abgerufen oder nicht gestohlen werden oder dass es nicht zu anderen späteren Angr
+iffen kommt.
+
+Trend Micro-Lösungen
+Ein mehrschichtiger Ansatz kann Ransomware davon abhalten, Netzwe
+rke und Systeme zu erreichen. Unternehmen sollten ihre gesamte IT-Infrastruktur vor Malware und Einb
+rüchen schützen. Mittelständler können den Schutz von Trend Micro™ Worry-Free™ Services Advanced, un
+d für Heimanwender bietet Trend Micro Internet Security funktionsreichen Schutz für bis zu zehn Gerä
+ten. Trend Micro Ransomware File Decryptor Tool kann Dateien entschlüsseln, die von bestimmten Ranso
+mware-Varianten verschlüsselt wurden.
+
+Ähnliche Artikel:
+Ransomware-Report: Neue Techniken und beson
+ders betroffene Branchen 
+Frequently Asked Questions: Petya Ransomware-Angriffe 
+Wie sich gezielte A
+ngriffe 2014 verändert haben 
+Gezielte Angriffe: Nicht jeder muss ausgeklügelt sein 
+Angriff auf Fin
+anzinstitute: Taktiken und Techniken 
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Heise-News: Uniklinik Düsseldorf: Ransom
+ware "DoppelPaymer" soll hinter dem Angriff stecken
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+                           
+ Wie können wir Ihnen heute helfen?                            
+
+
+
+Wie können wir Ihnen heute helfen
+?
+
+
+Frohe Festtage!
+Unser Chat ist derzeit offline. Füllen Sie bitte das Formular aus, damit wir Sie
+ zurückrufen können.
+
+
+
+
+
+
+Technik
+
+
+
+ALLGEMEINES UND LIZENZIERUNG
+
+
+
+Vertragsverlängerung
+
+
+
+Vertri
+eb
+
+
+
+Partnerschaft
+
+
+
+
+Haben Sie ein Problem oder benötigen Sie technische Post-Sales-Unterstützung
+? *Wenn Sie Hilfe bei der Auswahl des richtigen Produkts brauchen, wählen Sie bitte den Chat unter „
+Vertrieb“.
+
+
+Benötigen Sie Orientierungshilfe auf der Website, Unterstützung beim Upgrade oder Hilfe
+ zu Ihren Lizenzen/Konten?
+
+
+Sie haben Fragen zur Verlängerung Ihres Veeam-Vertrags? Setzen Sie sich
+ mit uns in Verbindung und erfahren Sie mehr darüber, wie Sie von maximaler Ersparnis profitieren.
+
+
+
+Benötigen Sie weitere Informationen zu Lizenzen, Preisen oder Produkten oder haben Sie eine andere 
+Frage an den Vertrieb?
+
+
+Möchten Sie Veeam-Partner werden oder benötigen Sie Hilfe als bestehender P
+artner?
+
+
+
+
+Einen Supportcase öffnen
+
+Chat starten
+Wir bitten um Entschuldigung, aber dieser Chat is
+t derzeit nicht verfügbar
+
+
+Chat starten
+Wir bitten um Entschuldigung, aber dieser Chat ist derzeit 
+nicht verfügbar
+
+
+Chat starten
+Wir bitten um Entschuldigung, aber dieser Chat ist derzeit nicht verf
+ügbar
+
+
+Chat starten
+Wir bitten um Entschuldigung, aber dieser Chat ist derzeit nicht verfügbar
+
+
+
+
+
+Hinweis zum Datenschutz. Mit dem Absenden stimmen Sie der Verwendung Ihrer personenbezogenen Daten d
+urch Veeam gemäß der Datenschutzrichtlinie zu.                                
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Uniklinik Düsseldorf: Ransomware “DoppelPaymer” soll hinter dem Angriff stecken
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Vertrauen Sie auf IT-Technologien Made in Germany.
+#Cybersicherheit, #Datensicherheit, #Hackerangrif
+f, #Hacking, #Malware, #Cyberangriff, #Emotet, #Informationssicherheit,#Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+O.M.G. Na ja, was wir relativ sicher wissen: es dauert nicht sonderlich lange, und die ganzen Dien
+stlaptops sind von Ransomware befallen. Das wird das totale Chaos, wenn Bund und Länder hier tätig w
+erden. Lasst die Finger von Computern! Ihr habt's verpennt, lasst es einfach.
+
+/ ~ 4AC5DDE2 ~ /
+
+RAN
+SOMWARE OPERATORS ARE DANGEROUS ENOUGH ON THEIR OWN BUT MULTIPLE GROUPS ARE NOW TEAMING UP
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Was definitiv neu ist, sind diese Ransomware Erpresser. Ransomware gibt es schon ein paar 
+Jahre und man ging er auf Masse. Einzelne Banden suchen sich lieber größere, lukrativere Ziele.
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Uniklinik Düsseldorf: Ransomware "DoppelPaymer" soll hinter dem Angriff stecken https
+://ift.tt/3iZkZR2 #heiseonline #tech #news
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Nach dem Angriff auf die Düsseldorfer
+ Uni-Klinik führt eine mögliche Spur der Täter laut Justizministerium nach Russland. So hätten die A
+ngreifer eine Schadsoftware namens "DoppelPaymer" in das System geschleust. Dieser Verschlüsselungst
+rojaner sei bereits in zahlreichen anderen Fällen weltweit gegen Unternehmen und Institutionen von e
+iner kriminellen Hacker-Gruppe eingesetzt worden, die nach Einschätzung privater Sicherheitsunterneh
+men in der Russischen Föderation beheimatet sein soll. Das teilte das Ministerium von Nordrhein-West
+falen am Dienstag laut dpa in einem Bericht an den Rechtsausschuss mit.
+
+
+
+Die Cybercrime-Bande hint
+er DoppelPaymer hat sich ähnlich wie die mit der Emotet-Gang zusammenarbeitende Trickbot-Bande auf d
+as Erpressen von Firmen und Organisationen spezialisiert. Sie setzen ebenfalls sehr ausgefeilte Tech
+niken ein, um sich in den Netzen auszubreiten und dabei unbemerkt zu bleiben, bis sie tatsächlich Da
+ten verschlüsseln. Ihre Lösegeldforderungen richten sich nach dem "Wert" des jeweiligen Angriffsziel
+s und können Millionenhöhe erreichen. Mitte März dieses Jahres hatte die DoppelPaymer-Gang, wie auch
+ einige andere Ransomware-Gruppen, eine "Corona-Pause" für Krankenhäuser versprochen – ein Versprech
+en, das sie dann doch nicht einhielt.
+
+
+Einbruch via "Shitrix" bestätigt
+Die Ermittler wissen inzwis
+chen, dass die kriminellen Hacker zunächst einen sogenannten "Loader" zum Nachladen des eigentlichen
+ Schadprogramms ins System der Uni-Klinik einschmuggelten. Offen blieb in dem Bericht, wann das war.
+ Das Bundesamt für Sicherheit in der Informationstechnologie (BSI) hatte vergangene Woche mitgeteilt
+, dass die entsprechende Sicherheitslücke in Software von Citrix bereits seit dem Jahreswechsel beka
+nnt war. Dabei handelte es sich um eine Lücke in der Citrix-VPN-Software, die unter dem Namen "Shitr
+ix" bekannt wurde (CVE-2019-19781):
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cyber-Angrif
+f auf Uniklinik Düsseldorf: #Shitrix schlug zu
+          
+
+
+
+
+
+
+
+
+Die Uni-Klinik hatte nach eigenen 
+Angaben damals sofort reagiert. Zwei Spezialfirmen hätten das System noch einmal überprüft – ohne Hi
+nweis auf eine Gefährdung durch die nun geschlossene Sicherheitslücke. Offenbar schlummerte der "Loa
+der" da aber bereits auf einem Server der Uni-Klinik.
+Das wahrscheinlichste Szenario ist somit derze
+it, dass die Cyberkriminellen die Shitrix-Lücke sehr bald nach ihrem Bekanntwerden und noch vor der 
+Bereitstellung des Patches durch Citrix ausgenutzt haben. Sie sind dann darüber in das Netz der Uni-
+Klinik eingedrungen und haben dort heimlich eine Backdoor platziert. Das kann durchaus auch auf eine
+m anderen System als dem eigentlichen VPN-Server geschehen sein, sodass die Hintertür beim Installie
+ren der Citrix-Updates nicht gefunden wurde. Erst jetzt, viele Monate später, haben sie diese Backdo
+or benutzt, um wieder Zugriff auf das Netz der Uni-Klinik zu erlangen.
+
+Täter halfen nach "Irrtum" b
+eim Entschlüsseln
+Der eigentliche Angriff durch die nachgeladene Verschlüsselungssoftware passierte 
+erst in der Nacht vom 10. auf den 11. September. 30 Server der Uni-Klinik wurden durch das Schadprog
+ramm verschlüsselt – wobei die Cyberkriminellen eigentlich wohl die Düsseldorfer Universität attacki
+eren wollten. Zu der hatten sie ein digitales Erpresserschreiben adressiert. Als die Polizei den Tät
+ern ihren mutmaßlichen Fehler mitteilte, schickten diese einen digitalen Schlüssel, um das Krankenha
+us wieder zum Laufen zu bekommen.
+Die Ermittler vermuten laut dem Bericht an den Landtag, dass die U
+ni-Klinik Opfer einer "weltweiten kommerziellen Malware-Kampagne" geworden sein könnte. Weitere Deta
+ils nannte ein Sprecher der zuständigen Staatsanwaltschaft bei der Zentrale- und Ansprechstelle Cybe
+rcrime (ZAC) am Dienstag nicht. Laut einer Statistik der US-amerikanischen Temple University liegt d
+ie Frequenz der Attacken mit Erpresser-Software dieses Jahr auf dem Höchststand seit 2013. Dabei gez
+ählt wurden allerdings nur die öffentlich bekannten Angriffe. Ermittler gehen von einer hohen Dunkel
+ziffer aus, bei der zum Beispiel Unternehmen auf die Forderungen der Erpresser eingehen.
+
+
+
+
+Ermittl
+ungen und Bereinigung laufen weiter
+Die Ermittlungen um den Verdacht der fahrlässigen Tötung einer P
+atientin liefen unterdessen weiter, erklärte der ZAC-Sprecher. Die Frau war statt in die nahe Uni-Kl
+inik in ein weiter entferntes Krankenhaus nach Wuppertal gebracht worden und gestorben. Für den Vorw
+urf der fahrlässigen Tötung ist unter anderem entscheidend, ob die Frau eine Überlebenschance gehabt
+ hatte, wenn sie in die Uni-Klinik gekommen wäre.
+Die IT des Krankenhauses ist unterdessen weiter ni
+cht voll einsatzbereit. Die größte Klinik der Landeshauptstadt rechnet nach Angaben eines Sprechers 
+damit, dass die Zentrale Notaufnahme diese Woche eventuell ihren Dienst wieder aufnehmen kann. Noch 
+seien aber nicht alle entsprechenden Systeme wieder hochgefahren.
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cybercrime: Erpressung auf neuem Niveau
+          
+
+
+
+
+
+
+
+
+
+
+(ovw)
+
+
+
+
+
+
+comments_
+outline_white
+
+
+
+    
+      Kommentare lesen
+      (38)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Uniklinik Düsseldorf: #Ransomware "#DoppelPaymer" soll hinter dem #CyberAngrif
+f stecken
+
+/ ~ 4AC5DDE2 ~ /
+
+Im Endeffekt ist es das Problem. Und es gibt dann kein Softwareupdate m
+ehr für das 3 Jahre alte Auto und man steht mit Ransomware da
+
+/ ~ 4AC5DDE2 ~ /
+
+Bei der Konkurrenz 
+"abgekupfert": 
+
+"Maze Ransomware" nutzt jetzt - genauso wie "Ragnar Locker Ransomware" die Dateiver
+schlüsselung in virtuellen Maschinen um von Anti-Malware-Software in Ruhe gelassen zu werden:
+
+/ ~ 4
+AC5DDE2 ~ /
+
+Ransomware: Hunderttausende Passdaten von Reisenden veröffentlicht https://glm.io/15098
+2?t via @golem #Cybercrime #Malware #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Facebook liefert Informationen, m
+it denen du die Intention von Seiten besser verstehst. Hier erfährst du mehr zu den Personen, die di
+e Seiten verwalten und Beiträge darin posten.
+
+/ ~ 4AC5DDE2 ~ /
+
+#Hacker entsperrten ihre #Ransomwar
+e, als sie erfuhren, dass sie ein Krankenhaus gehackt hatten - sollte wohl die #Uni sein.
+
+Das entsc
+huldigt selbstverständlich nichts, zeigt aber eine andere Absicht als zunächst vermutet.
+
+#CyberKrim
+inalität #CyberAttack
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+Nach einem Ransomware-Angriff auf die argentinisch
+e Einwanderungsbehörde hat eine Ransomware-Gruppe Hunderttausende Passdaten veröffentlicht, wie die 
+Tagesschau berichtet. Unter den Betroffenen sollen sich demnach 12.000 aus Deutschland und 11.000 au
+s der Schweiz befinden. Bei dem Angriff wurden die Daten zuerst entwendet, dann die betroffenen Syst
+eme verschlüsselt und anschließend die Zahlung eines Lösegeldes gefordert.
+
+
+Stellenmarkt
+
+IT-System
+haus der Bundesagentur für Arbeit, Fürth
+PM-International AG, Speyer
+
+
+
+
+
+
+
+Der Angriff soll sich be
+reits am 27. August 2020 ereignet haben. In den Morgenstunden sei der IT des argentinischen Innenmin
+isteriums von zahlreichen Grenzbeamten der Ausfall ihrer IT-Systeme gemeldet worden. Um eine weitere
+ Ausbreitung der Schadsoftware zu verhindern, seien die Systeme heruntergefahren worden, heißt es in
+ einer Anzeige der argentinischen Einwanderungsbehörde, aus der die Tagesschau zitiert.
+Die Erpresse
+rgruppe verlangte von der Behörde vier Millionen US-Dollar Lösegeld. Nachdem dieses nicht bezahlt wu
+rde, hatte die Gruppe eine rund 2 GByte große Datei im Internet hochgeladen. Laut dem Bericht veröff
+entlichte die Gruppe das Passwort und den Link zu der Datei am 10. September auf einem Blog im Darkn
+et.
+Diese soll die Informationen von Hunderttausenden Reisenden aus verschiedenen Ländern umfassen, 
+die zwischen Februar und April dieses Jahres in Argentinien ein- oder ausgereist sind. Die Daten sol
+len unter anderem den Namen, das Geburtsdatum sowie die Passnummern und das verwendete Reisedokument
+ umfassen. Der Bayrische Rundfunk (BR) habe die Daten von mehreren Personen auf Echtheit überprüft, 
+heißt es in dem Bericht.
+
+
+
+
+
+
+
+Bei den Angriffen soll die Ransomware Netwalker zum Einsatz gekommen
+ sein. Diese wird laut der Sicherheitsfirma McAfee als Ransomware-as-a-Service (RaaS) angeboten, die
+ von anderen Kriminellen gemietet und genutzt werden kann. Ähnlich wie bei der Ransomware Maze werde
+n Daten häufig nicht nur verschlüsselt, sondern zuvor kopiert. Den Betroffenen wird anschließend nic
+ht nur die Entschlüsselung der Daten für ein zu entrichtendes Lösegeld angeboten, sondern auch mit d
+er Veröffentlichung der kopierten Daten gedroht.
+
+
+
+    Bitte aktivieren Sie Javascript.
+    Oder 
+nutzen Sie das Golem-pur-Angebot
+    und lesen Golem.de
+    
+ohne Werbung
+mit ausgeschaltetem Java
+script
+mit RSS-Volltext-Feed
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Uniklinik Düsseldorf: #Ransomware "DoppelPayme
+r" soll hinter dem Angriff stecken | heise online
+
+/ ~ 4AC5DDE2 ~ /
+
+Maze-Ransomware-Triple und doch
+ kein Tor
+
+Sophos hat eine Maze-#Ransomware-#Attacke analysiert, bei der auf drei verschiedene Arten
+ versucht wurde, 15 Millionen Dollar an Lösegeld von einer Organisation zu erbeuten.
+
+/ ~ 4AC5DDE2 ~
+ /
+
+Uniklinik Düsseldorf: Ransomware "DoppelPaymer" soll hinter dem Angriff stecken via .@heisec
+
+/ 
+~ 4AC5DDE2 ~ /
+
+Cyberkriminelle greifen mit Ransomware mittlerweile vorwiegend gezielt Institutionen
+ und Unternehmen an, für die der Zugriff auf ihre Daten und die Wiederherstellung ihre Systeme sehr 
+wichtig ist. Trend Micro zeigt im Detail die aktuellen Trends auf https://bit.ly/2RP5wXy
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Uniklinik Düsseldorf: Ransomware "DoppelPaymer" soll hinter dem Angriff stecken
+
+/ ~ 4AC5DDE
+2 ~ /
+
+1. ZEIT Online kann nicht einmal "Doppel" richtig buchstabieren.
+
+2. Offensichtlich hat dort 
+niemand die geringste Ahnung von Ransomware und Exploit Kits.
+
+3. Es geht nur darum, "Russland" wied
+er mal in einem kriminellen Kontext zu erwähnen.
+
+/ ~ 4AC5DDE2 ~ /
+
+Maze-Ransomware mit neuer Taktik
+: die Betreiber nutzen VirtualBox Windows XP Virtual Machines für die Verschlüsselung von Computern,
+ um der Entdeckung zu entgehen
+
+/ ~ 4AC5DDE2 ~ /
+
+Das Online-Event von @storage2day startet morgen! 
+Unser @HiSolutions-Kollege informiert um 15:00 Uhr zum Thema "Back(up) to Paradise – Cloud-Storage g
+egen #Ransomware schützen". 
+Melden Sie sich heute noch an: https://storage2day.de/programm.php?sour
+ce=0#id12412…
+#Cloud #DataSecurity #backup
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+My Account
+
+
+
+Suchen
+
+
+
+
+
+Log
+in
+
+
+Registrierung
+
+
+
+
+  
+Suchen				
+
+
+
+
+
+
+IT Awards
+
+
+
+Background 
+
+Berichterstattung 
+
+
+
+Bedrohung
+en
+
+
+Netzwerke
+
+
+Plattformen
+
+
+Applikationen
+
+
+Identity- und Access-Management
+
+
+Security-Management
+
+
+
+Specials
+
+
+
+Head Geeks Speech 
+
+SAP-Sicherheit 
+
+Definitionen 
+
+Security-Startups 
+
+Security Corn
+er 
+
+DSGVO 
+
+
+
+eBooks
+
+
+Kompendien
+
+
+Mediathek
+
+
+
+Webinare 
+
+Whitepaper 
+
+Firmen 
+
+Bilder 
+
+
+
+CIO Br
+iefing
+
+
+Forum
+
+
+Akademie
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+IT Awards
+
+
+
+Background
+
+
+Berichterstattung
+
+
+
+
+		Aktuelle B
+eiträge aus "IT Awards"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								IT-Awards 2019							
+
+
+								Die beliebtesten SIEM-
+Anbieter 2019							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								IT-Awards 2019							
+
+
+								Die beliebtesten Enterpr
+ise Network Firewalls 2019							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								IT-Awards 2019							
+
+
+								Die beliebt
+esten Web Application Firewalls 2019							
+
+
+
+
+
+
+
+
+Bedrohungen
+
+
+
+		Aktuelle Beiträge aus "Bedrohun
+gen"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Cyberkriminelle nehmen Smartphones ins Visier							
+
+
+								Neuer Tren
+d: Phishing per SMS							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Security-Insider Podcast – Folge 22							
+
+
+					
+			DNA-Diskussion mit offenem Ende							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Einfallstor für Hacker							
+
+
+			
+					Mobile Geräte als Gefahren­quelle im KRITIS-Sektor							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Stratgien zum 
+Aufgbau eines Security Operations Center							
+
+
+								Schlüsselfaktoren für das SOC der Zukunft	
+						
+
+
+
+
+
+
+
+
+Netzwerke
+
+
+
+		Aktuelle Beiträge aus "Netzwerke"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Neue Firewalls
+ von Sonicwall							
+
+
+								IT-Security für geringe Budgets							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Neue P
+robleme für das Netzwerk							
+
+
+								Remote-Arbeit verschärft Heraus­forderungen für die IT-Sic
+herheit							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Warum es nicht egal ist, was über ein Netzwerk fließt							
+
+
+
+								Kein Troubleshooting ohne detailliertes Payload-Wissen							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Sicher
+heitswerkzeug oder Angriffs-Tool?							
+
+
+								Nutzen und Manipulations­gefahr von Grey Hat Tool
+s							
+
+
+
+
+
+
+
+
+Plattformen
+
+
+
+		Aktuelle Beiträge aus "Plattformen"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Einstieg
+ in die VM-Verschlüsselung							
+
+
+								Verschlüsselung in VMware-Umgebungen							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Home-Office-Tipp: Daten rückstandslos entfernen							
+
+
+								PrivaZer – Dateien siche
+r löschen							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Einfallstor für Hacker							
+
+
+								Mobile Geräte als Ge
+fahren­quelle im KRITIS-Sektor							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								MITRE Common Weakness Enumeration (CWE)
+							
+
+
+								Die 25 gefährlichsten Softwarefehler und ihre praktische Relevanz							
+
+
+
+
+
+
+
+
+A
+pplikationen
+
+
+
+		Aktuelle Beiträge aus "Applikationen"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Sicherheitswerkzeug od
+er Angriffs-Tool?							
+
+
+								Nutzen und Manipulations­gefahr von Grey Hat Tools							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Home-Office-Tipp: Daten rückstandslos entfernen							
+
+
+								PrivaZer – Dateien 
+sicher löschen							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Checkliste für Security Teams							
+
+
+								Kollabor
+ationsplattformen richtig absichern							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Slack: Updates für Sicherheitsfunk
+tionen							
+
+
+								Mehr IT-Security für Unternehmen							
+
+
+
+
+
+
+
+
+Identity- und Access-Managem
+ent
+
+
+
+		Aktuelle Beiträge aus "Identity- und Access-Management"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Security-Insi
+der Podcast – Folge 22							
+
+
+								DNA-Diskussion mit offenem Ende							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+		Netzwerksicherheit wird vernachlässigt							
+
+
+								Die Top 10 der unsicheren Router-Passwörte
+r							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Wege zur qualifizierten elektronischen Signatur							
+
+
+								Die
+ elektronische Signatur in Geschäftsabschlüsse einbinden							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Schwachstelle
+nanalyse von CVE-2020-7958							
+
+
+								Sicherheitsrisiken in Trusted Execution Environments (TE
+E)							
+
+
+
+
+
+
+
+
+Security-Management
+
+
+
+		Aktuelle Beiträge aus "Security-Management"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Neue Probleme für das Netzwerk							
+
+
+								Remote-Arbeit verschärft Heraus­forderungen
+ für die IT-Sicherheit							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Security-Insider Podcast – Folge 22							
+
+
+		
+						DNA-Diskussion mit offenem Ende							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Kommentar von Prof. Michael Huth
+, XAIN AG							
+
+
+								Wie entwickelt man DSGVO-konforme Modelle Künstlicher Intelligenz?							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Security Incident Response Management							
+
+
+								Strukturierte Planung
+ einer Incident Response Readiness							
+
+
+
+
+
+
+
+
+Specials
+
+
+
+Head Geeks Speech
+
+
+SAP-Sicherheit
+
+
+D
+efinitionen
+
+
+Security-Startups
+
+
+Security Corner
+
+
+
+Security Management 
+
+Security Best Practices 
+
+
+(ISC)² und die Autoren 
+
+
+
+DSGVO
+
+
+
+
+
+eBooks
+
+
+Kompendien
+
+
+Mediathek
+
+
+
+Webinare
+
+
+Whitepaper
+
+
+Fi
+rmen
+
+
+Bilder
+
+
+
+
+
+CIO Briefing
+
+
+Forum
+
+
+Akademie
+
+
+mehr...
+
+
+
+
+
+ 
+
+
+
+ 
+
+					Suchen				
+
+
+
+
+
+
+
+
+
+	
+					Login					
+
+
+
+						Registrierung					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Startseite			
+
+
+
+							Netzwerke					
+	
+
+
+Das autonome SOC
+
+
+
+
+
+
+Gesponsert
+
+Need for Speed Das autonome SOC 31.08.2020Kaum eine Disziplin
+ der Informationssicherheit hat sich in den letzten Jahren so dramatisch entwickelt wie die Security
+ Operations Center (SOC). Die SOC’s sind als letzte Meile der Verteidigung gegen Cyber Angriffe kaum
+ mehr wegzudenken, weil durch die zunehmende Digitalisierung und Vernetzung die Anzahl der Gefahren 
+und Risiken für Unternehmen rasant gestiegen ist.
+
+
+		Gesponsert von	
+
+
+
+			Palo Alto Networks (Germ
+any) GmbH		
+
+
+
+SOCs die Ihre Prozesse und Technologien konsequent rund um Automatisierung und Kollab
+oration aufbauen, können sich schnell auf die ständig wachsenden Business-Anforderungen und Bedrohun
+gen anpassen.
+                                        (Bild: Palo Alto Networks)
+                   
+                 
+Viele Unternehmen setzen aber auch aus anderen Gründen auf schlagkräftige SOC’s. O
+ft kann nämlich die in die Jahre gekommene IT-Infrastruktur nicht so einfach oder schnell modernisie
+ren werden. Security Operations Center sollen dann durch zusätzliches Monitoring und schnelle Gegenm
+aßnahmen potenzielle Angreifer draußen halten.Ursprünglich aus den Network Operations Center entwick
+elt, haben die SOC’s viele Entwicklungen durchlebt wie zum Beispiel die Threat-Intelligence Ausricht
+ung oder die Zusammenführung mit den CERTs. Dabei sind die SOCs immer größer und größer geworden, um
+ dem Spektrum der administrativen Tätigkeiten und der Anzahl der Stakeholder gerecht zu werden. Doch
+ bei den neuen Cybersicherheits-Herausforderungen, stoßen auch große SOC’s schnelle auf Ihr Grenzen.
+Entwicklung der Security Operations Center. 
+                            (Bild: Palo Alto Networks /
+ Sergej Epp)
+                        
+Das “New Normal” für die SOC’sEin SOC in einem Digitalunterneh
+men definiert sich in erster Linie über die enge Integration in die Produktentwicklung und als zweit
+es über die Geschwindigkeit neue Umgebungen abzusichern. Historisch war der Fokus eher Governance un
+d Infrastruktur Compliance. „Ein SOC in einem Digitalunternehmen definiert sich in erster Linie über
+ die enge Integration in die Produktentwicklung und als zweites über die Geschwindigkeit neue Umgebu
+ngen abzusichern. Historisch war der Fokus eher Governance und Infrastruktur Compliance.“Die Beschle
+unigung der Digitalisierung durch COVID-19 hat teilweise über Nacht viele SOC Architekturen auf den 
+Kopf gestellt. Kann das SOC von zu Hause aus operiert werden? Wie gehe ich mit BYOD oder Mitarbeiter
+n aus der Incident Response oder Forensik Perspektive um? Wie überwache ich neue Technologien wie Pu
+blic Cloud oder die diversen Remote Tools, die im Zuge von COVID eingeführt wurden? Wie komme ich mi
+t der Geschwindigkeit der DevOps Prozesse mit? Viele dieser Frage müssen von den SOCs schnellstmögli
+ch gelöst werden. Doch die Fachkräfte, die dafür bei Unternehmen zusätzlich aufgebaut werden müssen,
+ fehlen bekanntlich auf dem Markt.Zusätzlich dazu setzen die Angreifer zunehmend auf Automatisierung
+ und erhöhen das Spieltempo für die Verteidiger. Bei Non-Petya Ransomware 2016, waren es zum Beispie
+l nur sieben (7) Minuten bis manche Organisation hundert Tausende von Geräten verloren haben. Nun, d
+ie KI-Basierte Malware ist zwar noch Science-Fiction, doch die Labors weltweit brühen schon dran die
+se bald Realität werden zu lassen.
+
+ Mehr erfahren
+
+
+
+
+Fragmentierung und FrankensteinZur effektiven
+ Verteidigung haben wir uns historisch in Cybersecurity eine Reihe an Konzepten überlegt, die die Hü
+rde für die Angreifer immer höher setzen. Defense in Depth, Kill Chain/MITRE ATT&CK, Pyramide of Pai
+n, Zero Trust, DevSecOps sind wohl die wichtigsten Strategien auf, die jedes moderne Security Operat
+ions Center aufbauen sollte. Die meisten dieser Konzepte haben eins gemeinsam: den Gesamtblick auf d
+ie Cybersecurity.Die Cybersecurity Technologien, die in den letzten Jahrzehnten entstanden sind, war
+en dagegen immer auf Teilbereiche unserer Organisationen oder auf einzelne Probleme ausgerichtet. Zw
+ei Beispiele. Defense in Depth also das klassische Zwiebelmodel von Cybersecurity wird sehr oft von 
+SOCs aus Produkten unterschiedlicher Hersteller aufgebaut. Falls ein Angriff vom Network Threat Anal
+ytics (NTA) entdeckt wird, ist dieses dann weder dem Endpoint Security System (EPP/EDR) bekannt, noc
+h dem der Firewall. Die SOC Mitarbeiter müssen also manuell nachhelfen, um alle Technologien mit den
+ neuen Indikatoren zu füttern.  Ein weiteres Beispiel sind die Security Information Event Management
+ (SIEM) Systeme und die damit verbundene Obsession mehr und mehr Daten zu sammeln, ohne sich ursprün
+glich Gedanken zu machen wie diese später in Analytiken oder Incident Response Aktivitäten verwertet
+ werden. Weil man so viel Zeit in die Daten investiert hat, zwingt man sich dann irgendwelche Analyt
+iken daraus zu machen. Das Resultat sind Alarme mit einer geringen Qualität und noch mehr manuelle A
+rbeit und Konsolen Burnout für die SOC’s. Bei einem Unternehmen, können locker innerhalb von einem M
+onaten Zehntausende von Alarmen anfallen, die alle von Analysten abgearbeitet werden müssen. Bei ein
+em DAX Unternehmen sind es noch mehr. Es gibt wohl aber nur wenige Angriffe die keine Spuren hinterl
+assen. Die Angreifer stolpern fast immer über ein Anti-Virus, welches eines ihrer Tools erkennt, ein
+em zu offensivem Portscan oder einem User der auf bestimmten Systemen nichts verloren hat. Es gilt a
+lso die Alarme schnell in Kontext zu bringen und die Abarbeitung der Playbooks wie zum Beispiel die 
+Implementierung der Gegenmaßnahmen schnell durchzuführen, anstatt noch mehr Alarme zu generieren.Dur
+ch fragmentierte Technologien und viele manuelle Prozesse, erinnern die SOC’s daher oft an einen Fra
+nkenstein der aus unterschiedlichen Teilen zusammengesetzt wurde und sich deshalb nur langsam bewegt
+ und spricht. In einer zunehmend schnellen Welt, eine Spezies mit wenig Überlebenschancen.
+Vom EDR z
+u XDRDer Erfolg der Endpoint Detection & Response (EDR) Systeme seit 2013, basiert auf dem Misserfol
+g der SIEM Systeme qualitative Alarme zu generieren und dem Alarm mehr Kontext zu geben. EDR Systeme
+ bauen dafür auf vordefinierten Analytiken auf und generieren so viel weniger False-Positives. Doch 
+jeder Forensiker weiß, dass auch Endpoint-Daten nur ein Teil von dem Gesamtpuzzle sind. Einmal vom A
+ngreifer übernommen, können die Logs auf jedem Gerät gelöscht oder manipuliert werden. Schließlich k
+ann der EDR Agent auf einem Gerät ganz abgeschaltet werden.  Wie soll man dann z.B. herausfinden ob 
+und wieviele Daten abgeflossen sind? Gab es Seitwärtsbewegung im Unternehmen? Welches Gerät war der 
+Patient Zero? All diese Fragen bleiben dann unbeantwortet.Zumal, mit Schatten IT und der steigenden 
+Anzahl von IoT Geräten, können bei Unternehmen oft auf 50-80% der Geräte gar keine EDR Agenten insta
+lliert werden. Ein wachsendes Risiko.eXtended Detection & Response (XDR) ist die natürliche Weiteren
+twicklung von EDR. Dabei wird nicht nur die Telemetrie von den Endpoints ausgewertet, sondern auch d
+ie Telemetrie von weiteren Sicherheitstechnologien wie Firewalls (NGFW), Netzwerk Analytik (NTA), Us
+er Behaviour Analytics (UBA) oder Cloud Security einbezogen.Die Idee von XDR ist es ein unternehmens
+weites Cockpit für den SOC-Bereich bereitzustellen, der sich rund um die Analytiken dreht und nicht 
+um die Daten - wie es bei einem klassischen SIEM der Fall ist. Durch die hohe Qualität der Alarme im
+ XDR, ergeben sich zusätzlich bessere Perspektiven die nachfolgenden Response Aktivitäten zu automat
+isieren.
+
+ Weiterlesen
+
+
+
+
+DevSecOps ist SOARXDR automatisiert aber nicht alles. Viele Playbooks im 
+SOC benötigen unternehmens- oder sogar applikationsspezifische Schritte bevor die Gefahr mitigiert i
+st. Das kann zusätzliche maschinelle oder manuelle Analyse von Stakeholdern sein, Kommunikationsanfo
+rderungen oder spezielle Gegenmaßnahmen wie Konfigurationsanpassung oder User-Verwaltung. Diese Aufg
+aben sind zeitfressend und sind an Mangel von Programmierern in SOC’s nur selten automatisiert.Secur
+ity Orchestration, Automation and Response (SOAR) Tools fokussieren sich genau auf diese Problemstel
+lung. Durch eine breite Unterstützung von API’s zu diversen Technologien und Threat Intelligence Que
+llen können Workflows auch von nicht technischen Mitarbeitern abgebildet werden, um wiederkehrende A
+bläufe automatisiert auszuführen. Die Vorteile liegen auf der Hand. Lästige Aufgaben wie Tickets pfl
+egen, Dedublication oder Enrichment von Tickets muss nicht mehr gemacht werden. Man bekommt mehr Zei
+t für Analyse Tätigkeiten und reduziert das Risiko, weil die Angriffe in Minuten oder Sekundenschnel
+le abgewehrt werden können. Viele Nebenprodukte wie effektive Metriken oder Audit Möglichkeiten erge
+ben sich dabei als das Sahnehäubchen auf dem Pudding dazu. Aber der entscheidende Erfolgsfaktor ist 
+ein ganz anderer. Die Flexibilität beliebige Workflows zu Automatisieren ermöglicht es den Security 
+Teams mit der Geschwindigkeit und Agilität der DevOps Teams mitzuhalten und somit Security von vorne
+ rein in die Produkte zu integrieren. DevSecOps Ansatz für die SOC’s wird damit kinderleicht.Ein Aut
+opilot für den SOC durch Technologiekonsolidierung und Automatisierung der Playbooks. 
+             
+               (Bild: Palo Alto Networks / Sergej Epp)
+                        
+Ein Autopilot für SO
+CSOC’s die Ihre Prozesse und Technologien konsequent rund um Automatisierung und Kollaboration aufba
+uen, können sich schnell auf die ständig wachsenden Business-Anforderungen und Bedrohungen anpassen 
+und so zum Geschäftserfolg der Unternehmen beitragen. Automatisierte Playbooks die den ganzen Kreisl
+auf zwischen Detection, Response und Prevention abbilden ermöglichen sogar eine ganz neue Klasse von
+ SOCs‘. Einen Autopiloten, der ähnlich wie im Flugzeug oder im modernen Auto, simple Aufgaben überni
+mmt oder dem SOC hilft Ihre Prozesse zu skalieren. Die SOC’s bekommen damit mehr Ressourcen und Zeit
+ sich auf das wesentliche zu fokussieren, wie Analyse, Threat Hunting oder Red Teaming.
+
+Advertorial
+ - Was ist das?
+Über Advertorials bieten wir Unternehmen die Möglichkeit relevante Informationen für
+ unsere Nutzer zu publizieren. Gemeinsam mit dem Unternehmen erarbeiten wir die Inhalte des Advertor
+ials und legen dabei großen Wert auf die thematische Relevanz für unsere Zielgruppe. Die Inhalte des
+ Advertorials spiegeln dabei aber nicht unbedingt die Meinung der Redaktion wider.
+
+(ID:46830588)
+
+
+
+
+
+
+
+
+Please enable JavaScript to view comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+Weiterführende Inhalte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gesponsert
+
+IT-Profis gesucht!
+
+
+SOC sollte ein Standardmodell in der IT-Sicherheit sein
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gesponsert
+
+Unternehmensweites Detection & Response
+
+
+Cyberbedrohungen effizienter er
+kennen und bekämpfen
+
+
+
+
+ 
+
+
+
+
+
+
+Folgen Sie uns auf:
+
+
+
+
+
+
+
+
+
+			AGB		
+
+			EWG		
+
+			Hilfe		
+
+			Kun
+dencenter		
+
+			Mediadaten		
+
+			Datenschutz		
+
+			Impressum & Kontakt		
+
+
+
+  
+Copyright © 2020 Voge
+l Communications Group
+Diese Webseite ist eine Marke von Vogel Communications Group. Eine Übersicht 
+von allen Produkten und Leistungen finden Sie unter				 www.vogel.de				
+
+
+
+BWI; Trend Micro; Palo A
+lto Networks / Sergej Epp; Palo Alto Networks; gemeinfrei; Pixabay; Vogel IT-Medien; diy13 - stock.a
+dobe.com; © yurich84 - stock.adobe.com; © PUNEET - stock.adobe.com; Eset; XAIN AG
+
+
+
+
+
+
+/ ~ 4AC5DDE2
+ ~ /
+
+2016 dauerte es 7 Minuten bei Non-Petya #Ransomware bis Organisationen Tausende Geräte verlore
+n haben. KI-Basierte #Malware ist zwar noch sci-fi, doch mit #Covid19 wurden viele Sicherheitslücken
+ aufgedeckt. Höchste Zeit für autonome SOC von @PaloAltoNtwks
+
+/ ~ 4AC5DDE2 ~ /
+
+#RT @prosoft_de: RT
+ @heisec: Uniklinik Düsseldorf: Ransomware "DoppelPaymer" soll hinter dem Angriff stecken https://he
+ise.de/news/Uniklinik-Duesseldorf-Ransomware-DoppelPaymer-soll-hinter-dem-Angriff-stecken-4908608.ht
+ml… #DoppelPaymer #Duesseldorf
+
+/ ~ 4AC5DDE2 ~ /
+
+Aufkommende Ransomware-Techniken für gezielte Angr
+iffe
+
+/ ~ 4AC5DDE2 ~ /
+
+Erfahren Sie morgen in unserer 30-minütigen Live-Demo, wie Sie mit der Veeam
+ Availability Suite Ransomware-Angriffe abwehren und Risiken kontrollieren. Hier geht‘s zur Anmeldun
+g: https://bddy.me/33MyD3y
+
+/ ~ 4AC5DDE2 ~ /
+
+Hacker-Angriff? Das war Ransomware. Und der Verantwort
+liche bei der Klinik, der für die IT-Sicherheit zuständig ist, gehört zur Rechenschaft gezogen. http
+s://blog.fefe.de/?ts=a19dfb18
+
+/ ~ 4AC5DDE2 ~ /
+
+PSA:
+Kollege Volker erklärt, wieso wir Anti-#Ransom
+ware sind 
+
+Thematisierte Fragen:
+
+Wie gehen aktuelle Verschlüsselungstrojaner vor und wieso sind #B
+ackup's der wichtigste Baustein in einer sicheren Verteidigungsstrategie?
+
+Strategien zur Sicherung 
+und zur Wiederherstellung

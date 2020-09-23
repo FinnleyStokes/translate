@@ -1,0 +1,48 @@
+Muere una mujer durante un ataque de 'ransomware' a un hospital de Dusseldorf (Alemania) https://eur
+opapress.es/portaltic/ciberseguridad/noticia-muere-mujer-ataque-ransomware-hospital-dusseldorf-alema
+nia-20200918100804.html… a través de @portaltic
+
+/ ~ 4AC5DDE2 ~ /
+
+El programari de segrest (en angl
+ès, ransomware) és un tipus de programari maliciós (en anglès, malware) que restringeix totalment o 
+parcialment l'accés als fitxers d'un dispositiu fins que no es paga una determinada quantitat de din
+ers.
+Durant el 2020 aquests tipus d’atacs han estat malauradament notícia, i el darrer de ressò en e
+ls mitjans ha tingut lloc en un hospital català, en què uns ciberdelinqüents van aconseguir introdui
+r-se en uns servidors i bloquejar-ne l’accés.
+El terme anglès es forma a partir de ransom, que signi
+fica ‘rescat’ i –ware, de malware, ‘programari maliciós’; paral·lelament, la forma catalana completa
+ es forma també a partir de programari maliciós i de l’ús figurat de segrestar, que és l’acció que d
+esencadena el ciberatac.
+Els ciberatacs prenen diverses formes i habitualment el programari de segre
+st infecta el sistema operatiu com a troià o cuc i inicia l’encriptació dels fitxers infectats. El r
+escat acostuma a demanar-se en bitcoins, que és la criptomoneda descentralitzada que funciona per mi
+tjà d'un protocol propi basat en la tecnologia de la cadena de blocs i en xarxes d'igual a igual.
+Po
+deu consultar aquests termes a la Terminologia de la ciberseguretat.
+ 
+[Font de la imatge: https://i
+nternetsegura.cat/cibermot/]
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+ El 'programari de segrest' ('ransomware') és un t
+ipus de 'programari maliciós' ('malware') que restringeix totalment o parcialment l'accés als fitxer
+s d'un dispositiu fins que no es paga una determinada quantitat de diners.
+
+ Aquí en parlem! 
+https:
+//bit.ly/3iTP6ct #TermTic
+
+/ ~ 4AC5DDE2 ~ /
+
+Data center giant Equinix discloses ransomware incident
+ https://zdnet.com/article/data-center-giant-equinix-discloses-ransomware-incident/… #ransomware
+
+/ 
+~ 4AC5DDE2 ~ /
+
+Muere una mujer durante un ataque de 'ransomware' a un hospital de Dusseldorf (Alema
+nia) http://dlvr.it/Rh7h84

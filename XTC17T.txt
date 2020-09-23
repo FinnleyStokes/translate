@@ -1,0 +1,180 @@
+Awe. So lucky . Such sweetness
+
+/ ~ 4AC5DDE2 ~ /
+
+FNAF SECURITY BREACH GAMEPLAY LEAKED AHHHHHHHHHHHH
+H
+
+/ ~ 4AC5DDE2 ~ /
+
+FNaF NEW SECURITY BREACH GAME!
+
+/ ~ 4AC5DDE2 ~ /
+
+John...
+
+/ ~ 4AC5DDE2 ~ /
+
+
+ 
+   TechCrunch ist Teil von Verizon Media. Wir und unsere Partner nutzen Cookies und ähnliche Technik
+, um Daten auf Ihrem Gerät zu speichern und/oder darauf zuzugreifen, für folgende Zwecke: um persona
+lisierte Werbung und Inhalte zu zeigen, zur Messung von Anzeigen und Inhalten, um mehr über die Ziel
+gruppe zu erfahren sowie für die Entwicklung von Produkten.
+
+Personenbezogene Daten, die ggf. verwen
+det werden
+
+Daten über Ihr Gerät und Ihre Internetverbindung, darunter Ihre IP-Adresse
+Such- und Bro
+wsingaktivität bei Ihrer Nutzung der Websites und Apps von Verizon Media
+ Genauer Standort
+
+
+    Für
+ nähere Informationen zur Nutzung Ihrer Daten lesen Sie bitte unsere Datenschutzerklärung und Cookie
+-Richtlinie.
+
+    Damit Verizon Media und unsere Partner Ihre personenbezogenen Daten verarbeiten kö
+nnen, wählen Sie bitte 'Ich stimme zu.' aus oder wählen Sie 'Einstellungen verwalten', um weitere In
+formationen zu erhalten und eine Auswahl zu treffen. Dazu gehört der Widerspruch gegen die Verarbeit
+ung Ihrer Daten durch Partner für deren berechtigte Interessen. Sie können Ihre Einstellungen jederz
+eit ändern. Dies geschieht in Ihren Datenschutzeinstellungen.
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+@SenFeinstein is 
+COMPROMISED by Trump! Hint: Stock Market
+
+/ ~ 4AC5DDE2 ~ /
+
+OH SHIT YEAH I DIDNT EVEN LIST ’S FUCJIN
+G PRONOUNS !!!! ARGHSJDJD
+
+/ ~ 4AC5DDE2 ~ /
+
+Gn
+
+/ ~ 4AC5DDE2 ~ /
+
+BIG W
+
+/ ~ 4AC5DDE2 ~ /
+
+Seit ein
+iger Zeit promoten wir unsere Initiative „Tschuess Passwort – Die Zukunft des Logins“Gerne greifen w
+ir das auch in diesem Blog Beitrag nochmals auf und stellen dabei die Vorteile von passwortlosen Aut
+hentifizierungsverfahren heraus.Aber von Anfang! Ende Juli sind wir mit einem Beitrag zu den drei hä
+ufigsten Hackerangriffe gestartet: https://www.cidaas.com/de/blog-de/identitaetsdiebstahl-hacker-att
+acken/, und dann mit einem Beitrag Ende August, der erklärt warum 4 von 5 Datenschutzverstößen mit s
+chwachen oder gestohlenen Passwörtern zusammenhängen: https://www.cidaas.com/de/blog-de/datenverstoe
+sse-durch-passwoerter/.Es geht um ein inhärentes Problem von Geheimnissen: ich kann mit einfachem Au
+sprobieren irgendwann das Geheimnis erraten.Dieses Problem hat man bisher versucht zu lösen, indem e
+rstens versucht wurde Bruteforce Attacken zu verhindern oder zumindest auszubremsen und zweitens die
+ Passwortstärke entsprechend hoch definiert wurde. Als kurzes Beispiel ein Passwort mit 6 Kleinbuchs
+taben (26 Buchstaben ohne äöü und ß), z. B. geheim ergeben 266 mögliche unterschiedliche Passwörter.
+ Setzt man die Passwortstärke entsprechend hoch auf ein Passwort mit 12 Zeichen, die eine Kombinatio
+n aus Groß- und Kleinbuchstaben (ohne äöü und ß), der 10 möglichen Ziffern und 10 Sonderzeichen best
+ehen (z.B. !, @, #, $, %, ^, &, ?, / und +), z. B. Geh3imn1ss!2 ergeben sich 7212 mögliche unterschi
+edliche Passwörter. Das macht es einem Angreifer deutlich schwerer, das Passwort zu erraten.Nun komm
+en wir aber zum eigentlichen Problem von Geheimnissen – dem Menschen. Wir Menschen verwenden nicht z
+ufällig gewählte Kombinationen aus Ziffern- und Zeichen, wir folgen bestimmten Mustern und nutzen be
+stimmte Variationen, um so Passwörter zu schaffen, die für uns „einfacherer“ zu merken sind und den 
+Passwortrichtlinien der Digitalen Portale genügen, so auch das Beispiel von oben Geh3imn1ss!2. Das f
+ührt dazu, dass wir oft ein und dasselbe Passwort, eine Erweiterung oder kleine Variation davon verw
+enden. Und schon wird es für den Angreifer leichter. Sie müssen nicht den gesamten Lösungsraum von 7
+212 adressieren, sondern können den Lösungsraum durch Modelle, Pattern und insbesondere mit bereits 
+gestohlenen Passwörtern strukturiert durchsuchen.Wie kann man dieses Problem lösen? – Die Antwort is
+t, man kann es nicht!Nur weil man Nutzer dazu auffordert sichere Passwörter und für jedes Portal gän
+zlich unterschiedliche Passwörter zu vergeben, werden Sie dies nicht tun. Studien liefern die unters
+chiedlichsten Zahlen zu der Anzahl an Identitäten bzw. Accounts, die Nutzer auf digitalen Portalen h
+aben, von 30 bis weit über 100 – die Größenordnungen zeigt, dass Nutzer viele Accounts haben und sic
+h nicht für alle ein unterschiedliches Passwort merken können.Da für viele Personen der traditionell
+e Login gang und gebe ist, und sich noch etwas halten wird, arbeiten wir daran, die Sicherheit bei d
+er bestehenden Authentifizierung mit Passwörtern kontinuierlich zu erhöhen. Dabei freuen wir uns das
+ neue cidaas Feature Compromissed Credentials Detection anzukündigen, was seit dieser Woche im Beta 
+Test ist. Wir bieten mit unserem neuen Feature die Möglichkeit, die Passwörter von Nutzern gegen ber
+eits gestohlene Passwörter zu prüfen. Durch eine Integration in den Registrierungsprozess, oder den 
+Passwort-Ändern- bzw. -Vergessen Prozess, kann dem Nutzer angezeigt werden, dass ihr gewähltes Passw
+ort bereits mehrmals geknackt bzw. in gestohlenen Passwort-Datensätzen aufgetaucht ist. Auf diese We
+ise helfen wir Nutzern sichere Passwörter zu wählen, die Hacker nicht durch den Einsatz von gestohle
+nen Datensätzen einfach erraten können.Lasst uns dennoch noch einen Schritt weiterdenken. Neben der 
+Merkfähigkeit schwingt auch ein noch viel wichtigeres Kriterium der Menschen mit – der Benutzerkomfo
+rt. Nutzer suchen und verlangen heute den bestmöglichen Benutzerkomfort und strafen Anbieter von dig
+italen Services mit Nichtbenutzung, wenn sie diesen nicht geboten bekommen. Sei es ein Shop bei dem 
+sie den Kauf abbrechen und zu einem anderen Anbieter wechseln, weil das Registrierungsformular zu la
+nge ist, oder die App bei der der Nutzer nicht angemeldet bleibt oder sich einfach mit den Device Bi
+ometrics authentifizieren kann, sondern mit einem traditionellen Benutzername und Passwort Login aus
+einandersetzen muss.Das alles sind Indikatoren, dass der Lebenszyklus des Passwortes für die breite 
+Masse sich in absehbarer Zeit dem Ende nähert. Zeitgleich tun sich immer mehr passwortlose Alternati
+ven auf, mit denen sich Nutzer sicher und komfortable authentifizieren. Wir, bei cidaas, wollen die 
+Passwortlose Authentifizierung weiter vorantreiben und haben daher die Initiative www.tschuesspasswo
+rt.de ins Leben gerufen.Um die Sicherheit weiter zu erhöhen, können Multi-Faktor-Authentifizierungsm
+ethoden in den Login Prozess integriert werden. Um hierbei den Komfort weiter hochzuhalten, eignet s
+ich eine risikobasierte Multi-Faktor-Authentifizierung, mit der nur bei einem Verdacht auf Identität
+sdiebstahl oder bei erhöhtem Risiko eine Multi-Faktor-Authentifizierung angefragt wird.Ganz besonder
+s freuen wir uns aber, unseren Kunden mit den Passwortlosen Authentifizierungsverfahren einen Wettbe
+werbsvorteil in Puncto Sicherheit und Komfort bieten zu können.
+
+/ ~ 4AC5DDE2 ~ /
+
+:DDDDDD
+
+/ ~ 4AC5
+DDE2 ~ /
+
+SCP-106 HAS BREACHED CONTAINMENT
+
+/ ~ 4AC5DDE2 ~ /
+
+BATTLE BUS CAR
+
+/ ~ 4AC5DDE2 ~ /
+
+OH S
+HIT
+
+SECURITY BREACH
+
+/ ~ 4AC5DDE2 ~ /
+
+Brandneu!!! 
+Die Compromised Credentials Detection - zeigt E
+uren Kunden wie sicher Ihr Passwort ist und ob es bereits von Hackern gestohlen wurde.
+
+Für alle die
+  einen Schritt weiter gehen wollen - Passwortlose Authentifizierung von cidaas 
+https://buff.ly/3mL
+3S7u
+
+/ ~ 4AC5DDE2 ~ /
+
+Heist 2nd style 
+
+/ ~ 4AC5DDE2 ~ /
+
+TRUMP WILL NEVER CRITICIZE PUTIN!!!!!!! 
+THE COUNTRY DESERVES A POTUS THAT ISN'T COMPROMISED BY FOREIGN POWER!!! #BIDENHARRIS2020 #BIDENHARRI
+S2020 #BIDENHARRIS2020 #BIDENHARRIS2020 #GOEARLYVOTE #VOTEEARLY #VOTEEARLY #VOTEEARLY #VOTEEARLY #VO
+TEEARLY #VOTEEARLY #VOTEEARLY #VOTEEARLY
+
+/ ~ 4AC5DDE2 ~ /
+
+AMAZING !!!!!!!!!!!!!!!!
+
+/ ~ 4AC5DDE2 ~
+ /
+
+POR QUÉ NADIE ESTÁ HABLANDO DE LOS CARTELES PROMOCIONALES DE FNAF SECURITY BREACH?? SON UNA MARA
+VILLA
+
+/ ~ 4AC5DDE2 ~ /
+
+//BRO THOSE SECURITY BREACH LEAKS LOOK AMAZING HOLY SHIT
+
+/ ~ 4AC5DDE2 ~ /
+
+
+YOOO FNAF SECURITY BREACH GAMEPLAY IS GETTING LEAKED SOON

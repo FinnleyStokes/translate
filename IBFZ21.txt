@@ -1,0 +1,81 @@
+Bilgisayar, tablet veya telefon; üzerinde verileriniz bulunan tüm cihazlarınızın saldırganlar tarafı
+ndan şifrelenebileceğini unutmayın. 
+Fidye yazılımı nedir, nasıl bulaşır ve nasıl korunuruz?  https:
+//bit.ly/3c3v0d7
+#ransomware #sibergüvenlik #ESET #fidyeyazılımı
+
+/ ~ 4AC5DDE2 ~ /
+
+Asıl şaşırdığım 
+şey benim hesaplarım neden sızdı ve neden işsizlerin bazıları girmeyi deniyor. Olum ne elinize geçec
+ek lan. En son ransomware olayı patlak verdiğinde bende etkilendim yedeklerim olsun olmasın hard f a
+tıp geçtim. Ne geçecek yani elinize.
+
+/ ~ 4AC5DDE2 ~ /
+
+Can Erginkurban13.08.2020Bugün son yılların 
+en sinir bozucu ve en tehlikeli zararlı yazılımlarından olan fidye yazılımlarından (Ransomware) bahs
+edelim. 2017 yılında dünya yepyeni bir siber saldırı yöntemi ile tanıştı. Fidye saldırısı diyebilece
+ğimiz bu yöntem aslında çok da yeni sayılmazdı. 1987 yılından beri kullanılıyordu ama 12 Mayıs 2017 
+tarihinde gerçekleştirilen ve WannaCry adı verilen saldırı Avrupa ve Amerika’da ki birçok hastaneyi,
+ FedEx, Nissan, Renault, Hitachi gibi büyük firmaları; Rus Telekom ve tren yolu şirketleri gibi çok 
+çeşitli kurumları ve dolayısı ile bunlara bağlı sektörleri çalışamaz duruma getirdiğinde dünyada ‘si
+ber saldırı’ ve ‘fidye’ kavramlarını duymayan kimse kalmamıştı. Windows işletim sistemlerinde buluna
+n bir açığı kullanarak gerçekleştirilen saldırının ilk birkaç saati içerisinde 200 bin bilgisayar et
+kilenmiş ve çalışamaz duruma gelmişti. Zararın boyutu 10 milyar dolardı. Hemen birkaç hafta ardından
+ NotPetya adı verilen başka bir saldırı gerçekleşti. Aynı Windows açığını kullanan saldırının bu sef
+erki hedefi Ukrayna, Almanya, İngiltere, Rusya ve diğer birkaç ülkedeki bankalar, elektrik santralle
+ri, enerji şirketleri ve diğer sektörlerdeki çeşitli şirketler oldu. Saldırıda kullanılan ve Eternal
+Blue adı verilen Windows açığı aslında Amerikan Ulusal Güvenlik Ajansı (NSA) tarafından daha önce ke
+şfedilmiş fakat Microsoft bu konuda bilgilendirilmemişti. Saldırıdan bir ay önce NSA’nın araçlarını 
+çalan Shadow Brokers hacker grubu tarafından duyuruldu ve Microsoft kısa süre içinde açığı kapatan y
+amalarını yayınladı. Peki, madem açık kapatıldı, saldırının etkisi neden bu kadar fazla oldu? Yanıtı
+ basit. Bilgisayar kullanıcılarının çoğu ister şahıs olsun ister şirket, işletim sistemi ve yazılıml
+arının güncellemelerini yüklemekten imtina ediyor. Nedir bu fidye yazılımı?Kısaca bilgisayar ve tele
+fon gibi üzerinde veri saklanan cihazların saldırgan tarafından çok güçlü algoritmalar ile şifrelenm
+esi ve cihazın sahibinden şifreyi çözecek kod için fidye talep edilmesine fidye yazılımı saldırısı d
+iyoruz. Talep edilen fidye hedef şirketin büyüklüğüne, verilerin değerine göre değişiklik gösteriyor
+. Fidye yazılımlarının diğer zararlı yazılımlardan bazı farkları var. Verilere zarar vermek yerine o
+nları (anahtar olmadan) erişilemeyecek şekilde şifreliyor, adlarını değiştiriyor. Güvenlik tespitler
+inden kaçınmak için sofistike teknikler kullanıyor ve aynı ağda bulunan diğer cihazlara oldukça hızl
+ı bir şekilde bulaşabiliyor. Kimler hedef?Değerli verileri bulunan okullar, hastaneler, polis teşkil
+atları, belediyeler ve devlet kurumları ilk hedefler. Ayrıca bilgisayar veya telefonlarındaki verile
+ri neredeyse hiç yedeklemedikleri bilinen tüm bireysel kullanıcılar da fidye yazılımlarının potansiy
+el hedefleri arasında. Fidye saldırısına uğrayan işletmelerin yaklaşık yüzde 70’inin fidyeyi ödemek 
+zorunda kaldığı biliniyor. Bu işletmelerin sadece yüzde 42’si verilerine tekrar erişebilmiş durumda.
+ Nasıl bulaşıyor?Fidye yazılımları genellikle e-posta eklentisi olarak kullanıcıya ulaşır. Bazı duru
+mlarda saldırganlar hedefleri hakkında önceden araştırma yaparak o firmada çalışan birilerinin isiml
+erini, e-posta adreslerini taklit ederler ve e-postanın içeriğini firmaya uygun bilgilerle oluşturur
+lar. Bu gibi kandırma yöntemleri e-postayı alan kullanıcının şüphelenmeden eklentileri açmasını sağl
+ar. Bir diğer yöntem sosyal medya ve çeşitli ortamlarda verilen kısa internet adresleridir. Kullanıc
+ı adresin tamamını görmediği için ancak tıkladıktan ve ilgili siteyi açtıktan sonra fark edebilir. E
+n yaygın yöntemlerden biri de dışarıya açık uzak masaüstü protokolünü kullanmaktır. Bazı çalışanlar 
+firma dışından örneğin evlerinden de sistemlere erişebilmek için RDP adı verilen uzak masaüstü proto
+kolünü dışarıya açarlar ve tahmin edilmesi çok da zor olmayan bir parola ile erişirler. Saldırganlar
+ için bazı araçlar kullanarak dışarıya açık bu kapıları tespit etmek ve kullanılan parolayı deneyere
+k bulmak sadece dakikalar alacak şekilde kolay bir işlemdir. Nasıl korunuruz? Öncelikle fidye saldır
+ılarının hem teknolojik hem de psikolojik yöntemler kullandığının farkında olalım. Sosyal mühendisli
+k dediğimiz bu psikolojik yöntemler, hedefi n algıları ile oynayarak zararlı yazılımı sisteme alması
+nı amaçlar.  Aşağıda başlıca önlemleri sıralıyorum. Her biri basit önlemler gibi görünse de kullanıc
+ıların büyük bir çoğunluğunun hala bunları uygulamadığını lütfen unutmayın. Bu basit önlemleri önems
+emeyen kullanıcılar ve yöneticiler nedeni ile WannaCry saldırısı yaklaşık 150 ülkede 200 binden fazl
+a kullanıcının verilerine mal oldu ve yaklaşık 10 milyar Amerikan Doları zarara neden oldu.  - Tanım
+adığınız (hatta tanıdığınız) kişilerden gelen ve eklenti içeren epostaları açarken dikkatli olun. Ma
+kro içeren eklentileri açmayın.  - Web bağlantılarına tıklarken dikkatli olun. Tam olarak göremediği
+niz kısa bağlantılara tıklamayın veya checkshorturl.com gibi bir servis ile önce kontrol edin. Daha 
+iyisi bir güvenlik çözümü kullanın ki otomatik olarak kontrol edilsin.  - Mutlaka güvenilir bir uç n
+okta güvenlik çözümü (antivirüs) kullanın. İnsan gözünden kaçan e-posta eklentileri ve zararlı bağla
+ntıların çoğu güvenlik yazılımından kaçmaz.  - İşyeri ağınıza ve sistemlerinize erişirken şirketiniz
+e özel VPN kullanın.  - RDP adı verilen uzak masaüstü protokolünü dışarıya açarken çok dikkatli olun
+.  - Kullandığınız tüm işletim sistemi ve yazılımlarınızı güncel tutun. Otomatik güncellemeleri kapa
+tmayın ve geciktirmeden uygulayın.  - Bazı saldırganlar belirli sitelerin içine zararlı yazılımları 
+gömebilirler. Bu durumda kullanıcının siteye erişmesi ile sistemi otomatik olarak taranır ve bir açı
+k bulunduğunda kullanılarak zararlı yazılım arka planda yüklenir. Kullanıcının siteyi açmak dışında 
+bir şey yapmasına gerek bile kalmaz. Bir güvenlik yazılımı kullanın.  - Korsan yazılım kullanmayın. 
+Bu tür yazılımların kodları ile oynanmıştır ve içerisine ne tür zararlı yazılım ve kodlar eklendiğin
+i kimse bilemez.  - USB bellek gibi cihazlarınızı tanımadığınız bilgisayar, televizyon, telefon gibi
+ cihazlara takmayın. Zararlı yazılımların taşınmasına neden olursunuz.  - Parola güvenliğinize dikka
+t edin. Her hizmet ve site için farklı, karmaşık parolalar kullanın. Mümkün olan her yerde iki faktö
+rlü doğrulama kullanın. İki faktörlü doğrulamayı firma içindeki sistemlerinize mutlaka entegre edin 
+ve parola güvenliğinizi çalışanlara bırakmayın.Daha eskiBalina Avı; nedir, nasıl çalışır, nasıl koru
+nuruz?Daha yeniParola kullanmaya veda mı ediyoruz?

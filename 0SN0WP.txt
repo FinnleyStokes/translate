@@ -1,0 +1,3532 @@
+Une femme décède au cours d’un ransomware dans un hôpital allemand
+
+/ ~ 4AC5DDE2 ~ /
+
+Equinix affirm
+e avoir contenu la virulente attaque du ransomware Netwalker - #datacenter #datacentres #sécurité #c
+ybersécurité #ransomware @EquinixFR @Equinix
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 22 sept. 2020
+
+
+ 
+Le groupe de restauration col
+lective a fait l’objet d’une cyberattaque début juin par les cybertruands aux commandes du rançongic
+iel Sodinokibi. Un échantillon de celui-ci mentionnant explicitement Elior est désormais accessible 
+publiquement. De quoi confirmer une information qui nous avait précédemment été glissée, mais qu’auc
+une communication officielle du groupe n’était jusqu’ici venue confirmer – que ce soit à destination
+ de la presse ou des investisseurs. Selon cet échantillon du ransomware, les assaillants demandaient
+ initialement le paiement d’une rançon de 650 000 $.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger 
+gratuitement ce guide
+
+
+
+
+Information sécurité 12 : Menace Cyber #NotPetya : les enseignements tirés
+ chez Maersk
+Le paysage de la menace cyber a fondamentalement changé, avec un risque très réel d'êtr
+e pris dans des activités parrainées par des États-nations. Ce numéro de Information Sécurité vous l
+ivre la tendance en matière de cybersécurité, de la gestion des vulnérabilités à Toyota en passant p
+ar le Danemark
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer une 
+adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez v
+ous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entrer une 
+adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi que 
+la politique de confidentialité et le transfert de mes informations aux États-Unis pour traitement a
+fin de me fournir les informations pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient traitées
+ par TechTarget et ses partenaires afin de communiquer avec moi par le biais du téléphone ou du cour
+rier électronique et ce à propos d’informations pertinentes dans mon contexte professionnel. Je peux
+ me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous avons sollicité Elior dès que nous avons trouvé l’échantillon en question. Init
+ialement, le groupe ne souhaitait pas communiquer, affirmant avec assurance l’absence de vol de donn
+ées, mais également celle d’un impact opérationnel ou financier, et surtout, celle d’un versement de
+ rançon.
+Mais voilà, les cyberdélinquants nous ont contactés directement, dans le cadre de leurs eff
+orts pour accentuer la pression médiatique sur l’une de leurs autres victimes, que nous ne nommerons
+ pas afin d’éviter de faire leur jeu.
+
+
+
+Extrait du message déposé après chiffrement par l'échantill
+on du ransomware.
+ 
+
+
+
+
+Dans le cadre de cet échange, les assaillants nous ont indiqué avoir dérobé 
+« à peu près » 5 To de données à Elior. Pour appuyer leur propos, ils nous ont présenté ce qu’ils av
+ancent comme une copie de données d’authentification, pour des comptes administrateurs liés à des do
+maines du groupe, dérobées à l’aide de Mimikatz. Selon eux, c’est tout ce qu’il leur reste, à ce jou
+r, des éléments volés dans le système d’information d’Elior.
+Les données présentées correspondent bi
+en à une sortie de Mimikatz, utilisé qui plus est avec des arguments permettant d’obtenir des détail
+s cruciaux pour s’assurer une plus grande discrétion dans l’utilisation de tickets d’authentificatio
+n dérobés. Selon nos sources, la nomenclature correspondrait à celle qui était utilisée chez Elior à
+ l’époque des faits. Autant d’éléments incohérents avec la position du groupe.
+Et cela d’autant plus
+ que, typiquement, les opérateurs de Revil conservent les données de leurs victimes jusqu’à ce qu’un
+e rançon soit payée. Et de faire pression pour obtenir ce résultat en divulguant graduellement les é
+léments dérobés, après avoir simplement menacé de le faire. Il leur est également arrivé de vendre c
+es données aux enchères. Dès lors, nous avons demandé aux cyberdélinquants quel montant aurait été f
+inalement payé. Réponse : « malheureusement, nous avons peu de choses à dire là-dessus ». 
+Pour Elio
+r, la situation peut être d’autant plus amère qu’elle souligne que le ransomware, ça n’arrive pas qu
+’aux autres : son RSSI, Gérard Leymarie, est titulaire du grand prix RSSI 2019, et a officié durant 
+près de huit ans à l’Agence nationale pour la sécurité des systèmes d’information (Anssi).
+Surtout, 
+si les affirmations des cybertruands s’avéraient fondées, mais pas celles d’Elior, ce cas illustrera
+it à quel point céder à l’extorsion et faire confiance aux cyberdélinquants est une mauvaise idée. N
+otre enquête sur les négociations avait déjà laissé entrevoir une absence nette de scrupules. Dans l
+e cas présent, si les assaillants disent vrai, alors ils n’ont pas hésité à briser le silence, montr
+ant à quel point espérer leur discrétion peut être vain.
+En outre, les éléments qu’ils nous ont comm
+uniqués tendent à souligner l’importance d’un nettoyage complet et profond de l’infrastructure en ca
+s d’attaque : si ce travail de reconstruction n’est pas fait, le risque est que les assaillants disp
+osent encore de vecteurs d’accès au système d’information. Ce qu’un cas comme celui d’Artech avait d
+éjà pu suggérer.  
+Nous avons transmis à Elior les éléments avancés par les cybertruands et demandé 
+des commentaires additionnels sur les questions qu’ils soulèvent. Nous ne manquerons pas de mettre à
+ jour cet article lorsqu’ils nous parviendront.
+[Mise à jour 22/09/2020 @ 21h00] Elior nous a fait p
+arvenir une réponse écrite que nous partageons ici en intégralité, avec l’autorisation du groupe : 
+
+« Nous avons bien pris connaissance de vos différents messages et de la publication de votre article
+.Votre article véhicule de nombreuses fausses informations ainsi que de nombreuses imprécisions. Il 
+est également volontairement anxiogène et vise à faire croire que notre entreprise a été fortement i
+mpactée par cette attaque voir laisse sous-entendre que nous avons payé une rançon, ce qui est total
+ement faux.Pour l’ensemble de ces raisons, nous ne souhaitons pas répondre à vos sollicitations au s
+ujet de cette tentative de ransomware dont notre Groupe a été la cible il y a déjà plusieurs mois.A 
+l’époque, notre réaction immédiate nous avait permis d’assurer la continuité de nos services et pres
+tations auprès de nos clients, convives et fournisseurs. Et l’ensemble des mesures qui devaient être
+ prises l’ont été. Par ailleurs, nous n’avions constaté aucunes fuites de données autres que des don
+nées purement techniques. Aucune fuite de données personnelles donc, mais par mesure de précaution E
+lior avait adressé une notification auprès de la CNIL, autorité compétente en la matière.En revanche
+, comme vous l’imaginez, l’entreprise a déposé plainte à l’époque de faits. Ce dossier est aujourd’h
+ui judiciarisé et tous les éléments permettant de faire avancer l’enquête en cours doivent être tran
+smis aux services de police compétents. »
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course 
+contre la montre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour
+ approfondir sur Menaces informatiques
+
+
+
+Ransomware : pourquoi la menace peut encore s’aggraver
+
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : l’attaque peut être maîtrisée sans que la situation soit sous
+ contrôle
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+BTP, cabinet d’avocats : Maze revendique deux nouvelles victi
+mes en France
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Expanscience, sauvé de Maze par le cloud ?
+
+
+
+
+Par: Valér
+y Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Quelles sont les mesures préventives contre les rançongiciels ? 
+#rançongiciels #support #entreprises #amiens #protectiondesdonnées #ransomware #cybermalveillance #m
+aintenance #informatique #assistance #qualité #réactivité #sécurité #disponibilité
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Putain j'suis épuisé avec le boulot, on s'croirait dans un film avec cette histoire de ransomware
+
+
+/ ~ 4AC5DDE2 ~ /
+
+[Actuellement sur LMI] Luxottica touché par un ransomware - 
+Luxxotica, fabricant
+ et distributeur mondial de lunettes - comptant Ray Ban, Armani et Chanel dans son portefeuille de m
+arques - est la nouvelle victime (...)
+
+/ ~ 4AC5DDE2 ~ /
+
+Ta pas dutout besoin de monter une VM pour
+ sa  un simple script en shell et voilà 
+
+Pour que sa soit lancer au démarrage c'est juste une clef 
+de registre ducoup ou une task schedule et hop tu fait démarrer un .exe juste au démarrage ( les ran
+somware utilise des moyens équivalen
+
+/ ~ 4AC5DDE2 ~ /
+
+A New Hacking Group Hitting Russian Companie
+s With Ransomware
+#ankaa #technologies #actualités #sécuritédelinformationetdusi #sécuritédelinforma
+tion #sécuritédusystèmedinformation
+
+/ ~ 4AC5DDE2 ~ /
+
+Une solution A2F pour Windows pour renforcer 
+la sécurité suite à une attaque de ransomware [Etude de cas] https://buff.ly/3hLME6h
+
+/ ~ 4AC5DDE2 ~
+ /
+
+Le ministère de l'Information et de la Communication a lancé la campagne "Examiner et supprimer 
+les logiciels malveillants dans tout le pays en 2020" pour améliorer la #cybersécurité du pays.
+
+#sé
+curité #hackers #infosec #ransomware
+https://fr.vietnamplus.vn/la-cybersecurite-la-priorite-du-minis
+tere-de-linformation-et-de-la-communication/149166.vnp…
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : pourquoi qua
+nd il détone, c’est vraiment trop tard https://bit.ly/2Tq0EKz via @lemagit
+
+/ ~ 4AC5DDE2 ~ /
+
+#FastF
+acts - #Ransomware
+En 2020, les #URL malveillantes ont détrôné les #emails pour devenir le principal
+ vecteur de ransomwares (56% contre 27%).
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 14 janv. 2020
+
+
+ 
+Longtemps, le message fut simple
+ : « contre les rançongiciels, soignez vos sauvegardes ». Il apparaît désormais bien insuffisant. Ca
+r les cyberdélinquants aux manettes ne frappent pas au hasard : après une intrusion initiale, ils se
+ déplacent patiemment dans l’environnement de leur victime pour accéder aux outils qui leur permettr
+ont de distribuer largement leur charge malicieuse, avant de la faire détoner.
+Suite de l'article ci
+-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Cybersécurité : Caractériser les menaces de 2020
+ 
+Nul RSSI n'ignore la présence de ransomware, mais beaucoup sous-estiment leur côté pernicieux et à
+ quel point ces derniers peuvent être ciblés. Ce guide vous présente ce danger ainsi que les mesures
+ pour s'en préserver.
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiqu
+er une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veu
+illez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entr
+er une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ain
+si que la politique de confidentialité et le transfert de mes informations aux États-Unis pour trait
+ement afin de me fournir les informations pertinentes décrites dans notre Politique de confidentiali
+té.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient t
+raitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais du téléphone ou 
+du courrier électronique et ce à propos d’informations pertinentes dans mon contexte professionnel. 
+Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le résultat est alors aussi spectaculaire que dramatique : une grande partie 
+– sinon l’ensemble – des ressources du système d’information commence à être chiffrée, d’un seul cou
+p, sans que rien de bien visible ne le laisse présager.
+
+Une menace tout sauf superficielle
+Les expe
+rts l’évoquaient déjà au printemps dernier, alors que LockerGoga faisait parler de lui, notamment ch
+ez Norsk Hydro. Ivan Kwiatkowski, chercheur en sécurité chez Kaspersky, l’assurait alors : « les act
+eurs derrière LockerGoga ont réfléchi sérieusement et longuement à la manière de maximiser leurs gai
+ns ». Félix Aimé, analyste chez le même éditeur, ajoutait : « ils savent parfaitement combien de pos
+tes de travail et de serveurs ont été visés grâce à [l’annuaire] Active Directory ».
+Forts de cette 
+connaissance, les attaquants n’ont pas besoin d’identifier précisément chaque machine chiffrée par l
+eurs soins, ni de définir une clé de déchiffrement unique pour chacune d’entre elles : l’extorsion v
+ise l’organisation touchée dans son entièreté.
+Un peu plus tard, l’Agence nationale pour la sécurité
+ des systèmes d’information (Anssi) confortait ces analyses : l’exécution du ransomware « est réalis
+ée sur plusieurs semaines (voire plusieurs mois) après la compromission effective de la cible. Une é
+tude approfondie de la cible et de son infrastructure est donc fortement probable ».
+Ce type de mode
+ opératoire n’est pas isolé. On le retrouve dans bon nombre d’attaques par ransomware. Cela vaut ain
+si pour les cas Friedex/BitPaymer, comme le relevait l’Anssi à l’automne dernier : après quelques jo
+urs de reconnaissance, les assaillants déploient, « le week-end et au milieu de la nuit, la charge d
+e chiffrement », expliquait alors l’Agence, « notamment sur les systèmes de sauvegarde de fichiers r
+estés connectés ». Ryuk, MegaCortex, ou encore Crytomix Clop, qui a fait parler de lui notamment ave
+c le CHU de Rouen, n’échappent pas à la règle.
+
+
+Une reconstruction laborieuse
+Dans un tel contexte,
+ les défis techniques à relever sont nombreux. Gérôme Billois, directeur de la practice Cybersécurit
+é de Wavestone, fort de l’expérience acquise à l’occasion de plusieurs interventions, le soulignait 
+à l’époque.
+La première difficulté peut consister à accéder aux sauvegardes. Car il n’est manifestem
+ent pas si rare que « les serveurs de sauvegarde aient été eux-mêmes chiffrés ». Là, « on a les cart
+ouches de sauvegarde, mais on n’a plus le lecteur et l’index – ou le catalogue – qui permet de savoi
+r où sont les données sur les sauvegardes ». A ce stade, la question de savoir si l’on choisit de re
+staurer ou pas à partir d’elles, en fonction de l’ampleur supposée de la compromission, ne se pose d
+onc même pas. Et pour reconstruire l’index des sauvegardes, « souvent, c’est plusieurs jours » de tr
+avail avec les outils disponibles sur site.
+Mais pour ne rien gâcher, « le serveur de sauvegarde est
+ très souvent lui-même dépendant de l’annuaire ». Alors pour Gérôme Billois, l’une des principales m
+esures à prendre avant un incident, consiste « à s’assurer que les procédures de restauration peuven
+t être lancées même dans une situation où il n’y a plus les fonctions de support classiques ». La qu
+estion étant : « imaginons un cas où il n’y a plus rien ; combien de temps faut-il pour accéder à no
+uveau aux sauvegardes » ?
+Mais dans un cas où l’on est amené à soupçonner une atteinte à l’intégrité
+ de l’annuaire, la restauration apparaît bien difficile. « Dans un cas pareil, on repart d’une infra
+structure de base, en réinstallant de zéro. Et on en profite pour appliquer les bonnes règles d’arch
+itecture Active Directory qui, bien souvent, ne l’étaient pas avant ». De là, il devient possible d’
+envisager de récupérer prudemment, en les nettoyant soigneusement si nécessaire, les données d’appli
+cations qui n’étaient pas la cible de l’attaque.
+D’aucun soupçonnent que l’université de Gießen, en 
+Allemagne, ait été récemment confrontée à une telle situation, même si elle n’a pour l’heure communi
+qué que très sporadiquement sur l’épisode de ransomware dont elle a été victime en décembre 2018.
+
+
+
+Chercher les signaux faibles
+Dans un tel contexte, la prévention joue un rôle déterminant. Et cela d
+’autant plus qu’à la demande de rançon s’ajoute la menace de divulgation de données personnelles, vo
+ire sensibles, dérobées avant la détonation. De quoi infliger une sévère peine multiple aux organisa
+tions affectées – notamment dans le contexte du règlement général de protection des données (RGPD).
+
+Andrew Thompson, chez FireEye/Mandiant, il faut notamment se concentrer sur les signaux faibles, car
+ après « les téléchargeurs, ou étapes initiales, [qui] sont des choses personnalisées comme Dridex, 
+Trickbot, Emotet, Terraloader/Squid », la suite passe « par des outils de sécurité offensive [OST, O
+ffensive Security Tool] ». Et d’expliquer ainsi que les « utilisateurs/clients » des outils téléchar
+geurs initiaux « déploient Empire, Metasploit, Cobalt Strike, PoshC2, etc. ».
+Pour mémoire, l’Anssi 
+recommandait justement récemment de « porter ses efforts de détection » sur Powershell Empire et Dri
+dex. C’était dans le cadre de l’alerte qu’elle lançait face à la menace Friedex/Bitpaymer.
+Dans le c
+adre de LockerGoga, Félix Aimé recommandait de bloquer tous les serveurs de commande et de contrôle 
+connus de Cobalt Strike, relevant que la plupart de ceux-ci, n’étant pas mis à jour régulièrement, «
+ sont largement liés à des cochonneries (APTs, débutants, et autres) ».
+Et de conseiller également d
+’activer la traçabilité de Powershell, « bloquer les appels entrants sur le port 445 des servers et 
+des postes de travail en utilisant le pare-feu local, bloquer toutes les communications [de commande
+ et de contrôle] avec la certification Cobalt Strike par défaut, prévenir l’utilisation de PSexec vi
+a Applocker ou en utilisant votre solution d’EDR préférée ».
+
+Some flavors of #Emotet, which other f
+lavor you know??? pic.twitter.com/uzSUow0GpX — \_(ʘ_ʘ)_/ (@pollo290987) 
+  January 7, 2020
+
+
+Et il c
+onvient encore de ne pas oublier les outils et services légitimes, susceptibles d’être détournés par
+ les assaillants à leur profit, à l’instar de ceux permettant le déport d’affichage ou l’administrat
+ion de systèmes. Pour LockerGoga, l’Anssi indiquait ainsi que l’assaillant « prend le contrôle d’au 
+moins un compte administrateur et effectue différents rebonds via le protocole RDP dans l’infrastruc
+ture ciblée pour ensuite déposer ses outils dans des serveurs spécifiques ».
+Accessoirement, sur cer
+tains incidents, la console d’administration des outils de protection des postes de travail s’est mê
+me vue détournée pour déployer les charges malicieuses…
+
+
+Identifier et protéger les points d’entrée
+
+Mais la protection commence avant cela, au niveau des points d’entrée. L’un des plus affectés reste
+ la messagerie électronique. Et c’est là qu’Emotet ne manque pas de faire régulièrement parler de lu
+i. Pour Marcus Hutchins, le menace est à prendre très au sérieux : « si vous êtes alerté d’une infec
+tion par Emotet ou Trickbot sur votre réseau, nettoyez immédiatement. Les deux essaient de se diffus
+er à tous les systèmes du réseau. Et en cas de réussite, le ransomware Ryuk peut être déployé simult
+anément sur tous les ordinateurs ». Pire encore, Ryuk ne frappe pas au hasard, mais après une longue
+ et prudente reconnaissance. Du coup, au moment du verrouillage des systèmes, « votre réseau a été i
+nfecté depuis des semaines voire des mois ».
+
+Full network emotet (or trickbot) infection resulting 
+in all servers and workstations infected with ryuk ransomware. I'm trying to laugh... But it's still
+ raw :P — Justin (@echoztrip) 
+  January 11, 2020
+
+
+Mais voilà, le nettoyage, n’a rien de trivial. K
+yle Hanslovan, PDG de Huntress Labs, le soulignait en mars 2019 : « chaque jour, notre équipe voit l
+es réseaux de 5 à 15 clients touchés par Emotet. Le nettoyage peut prendre entre 3 jours et 3 mois s
+uivant les compétences, les outils et la télémétrie disponibles ».
+Et ce n’est pas la seule porte d’
+entrée. Le phénomène n’est pas nouveau : certains acteurs s’invitent directement via des services RD
+P exposés ouvertement sur Internet sans véritable sécurité, à commencer par une authentification de 
+l’utilisateur au niveau du réseau (NLA, ou Network Level Authentification). Certaines vulnérabilités
+ ne manquent d’ailleurs pas de les y aider, lorsque les correctifs requis n’ont pas été appliqués.
+L
+’état américain du Texas a d’ailleurs émis plusieurs recommandations à la suite de l’attaque d’une v
+ingtaine d’entités locales de gouvernement dans le courant de l’été dernier : « n’autoriser l’authen
+tification sur les outils d’accès à distance que de l’intérieur du réseau du prestataire ; utiliser 
+l’authentification à double facteur sur les outils d’administration à distance et des tunnels VPN pl
+utôt que RDP ; bloquer tout le trafic entrant provenant de nœuds de sortie Tor ; bloquer tout le tra
+fic sortant vers Pastebin ; des outils d’EDR pour détecter les scripts PowerShell exécutant des proc
+essus inhabituels ».
+Mais d’autres systèmes servant de point d’entrée sur le système d’information p
+euvent être affectés par des vulnérabilités, à l’instar de serveurs de réseau privé virtuel (VPN). L
+e rançongiciel Revil/Sodinokibi ne manque ainsi pas d’être distribué via des serveurs VPN Pulse Secu
+re laissés vulnérables. Travelex est soupçonné d’en avoir fait les frais. Et d’aucuns s’attendent à 
+ce que la vulnérabilité CVE-2019-19781 affectant les systèmes Citrix/Netscaler ADC/Gateway soit égal
+ement prochainement exploitée avec le même objectif.
+
+
+Se préparer au pire
+Face à la difficulté de l
+a protection et aux défis de la reconstruction, même avec les meilleures volontés, il apparaît essen
+tiel de se préparer à la gestion d’incident – y compris lorsque la menace est arrêtée tôt dans la ch
+aîne d’attaque. Et cela d’autant plus qu’une crise de cybersécurité n’est pas une crise IT.
+Jérôme S
+aiz, d’Opfor Intelligence, le soulignait récemment dans nos colonnes : la principale différence tien
+t au fait qu’un plan de reprise de l’activité (PRA) traditionnel ne tient pas compte de la présence 
+d’un assaillant. De fait, avec un PRA, il s’agit de « remettre l’outil informatique debout le plus v
+ite possible », quitte à effacer des traces ou à prendre des raccourcis susceptibles de conduire à u
+ne recompromission très rapide. Mais par exemple, « dans une crise cyber, il faut considérer que l’o
+n n’a plus confiance en ses moyens de communication », avec tout ce que cela peut avoir comme vastes
+ implications – or, « les plans de secours informatiques considèrent, implicitement ou explicitement
+, que les moyens de communication sont accessibles ».
+Maersk, Fleury Michon ou Norsk Hydro, voire mê
+me Altran et le groupe M6, ont sûrement des histoires à raconter dans le domaine, même si tous ne se
+ prêtent pas à l’exercice, et c’est bien regrettable.
+Mais même d’une crise comme celle traversée pa
+r Travelex, il y a au moins un enseignement à tirer : préparer une solide réponse à un incident affe
+ctant une fonction métier critique, est indispensable et implique bien plus que la seule DSI. De fai
+t, comme le souligne Brian Honan dans les colonnes de ComputerWeekly (groupe TechTarget), « Travelex
+ est rapidement devenu l’exemple de ce qu’il ne faut pas faire pour répondre à un incident de sécuri
+té ».  
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+NOVALINK, par tenaire ARUBA, vous accompagne dans la mise en 
+place de la ...
+–Novalink Aruba
+
+
+Les clés de l'IT : Spécial Sécurité
+–LeMagIT
+
+
+Information Sécurit
+é N°4 : Immersion dans les méthodes des cyber-attaquants
+–LeMagIT
+
+
+
+
+
+
+Pour approfondir sur Gestion
+ de la sécurité
+
+
+
+Ransomware : les confirmations de l’ampleur de la menace se multiplient
+
+
+
+
+Par: 
+Valéry Marchive
+
+
+
+
+VPN, Exchange, etc. : ces vulnérabilités qui peuvent coûter des millions
+
+
+
+
+Par
+: Valéry Marchive
+
+
+
+
+Ransomware : quand les assaillants atteignent leur but en un clin d’œil
+
+
+
+
+Pa
+r: Valéry Marchive
+
+
+
+
+Le Danois ISS se fait à son tour piéger par un ransomware
+
+
+
+
+Par: Valéry Mar
+chive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica touché par un ransomware http://dlvr.it/RhCCtp
+
+/ ~ 4AC5DDE
+2 ~ /
+
+#CyberSecurityAwareness #3
+Découvrez pourquoi la cyberattaque lancée contre Bouygues et SFR é
+tait hors-norme  https://okt.to/5fqLoE 
+@01net
+ Retrouvez toute l'actualité #ransomware et #dataleak
+ https://okt.to/F1BxL4
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Ré
+dacteur en chef
+
+
+
+	Publié le: 22 sept. 2020
+
+
+ 
+Le groupe de restauration collective a fait l’objet
+ d’une cyberattaque début juin par les cybertruands aux commandes du rançongiciel Sodinokibi. Un éch
+antillon de celui-ci mentionnant explicitement Elior est désormais accessible publiquement. De quoi 
+confirmer une information qui nous avait précédemment été glissée, mais qu’aucune communication offi
+cielle du groupe n’était jusqu’ici venue confirmer – que ce soit à destination de la presse ou des i
+nvestisseurs. Selon cet échantillon du ransomware, les assaillants demandaient initialement le paiem
+ent d’une rançon de 650 000 $.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+
+7 attaques informatiques à la loupe
+Les attaques informatiques ne cessent d'impressioner et beau
+coup d'entreprises se sont retrouvées les bras ballants face à ce polymorphisme informatique. 
+Start
+ Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'ad
+resse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entrer une adresse e-mail profe
+ssionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi que la politique de conf
+identialité et le transfert de mes informations aux États-Unis pour traitement afin de me fournir le
+s informations pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la c
+ase si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et s
+es partenaires afin de communiquer avec moi par le biais du téléphone ou du courrier électronique et
+ ce à propos d’informations pertinentes dans mon contexte professionnel. Je peux me désinscrire à to
+ut moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous
+ avons sollicité Elior dès que nous avons trouvé l’échantillon en question. Initialement, le groupe 
+ne souhaitait pas communiquer, affirmant avec assurance l’absence de vol de données, mais également 
+celle d’un impact opérationnel ou financier, et surtout, celle d’un versement de rançon.
+Mais voilà,
+ les cyberdélinquants nous ont contactés directement, dans le cadre de leurs efforts pour accentuer 
+la pression médiatique sur l’une de leurs autres victimes, que nous ne nommerons pas afin d’éviter d
+e faire leur jeu.
+
+
+
+Extrait du message déposé après chiffrement par l'échantillon du ransomware.
+ 
+
+
+
+
+
+Dans le cadre de cet échange, les assaillants nous ont indiqué avoir dérobé « à peu près » 5 To 
+de données à Elior. Pour appuyer leur propos, ils nous ont présenté ce qu’ils avancent comme une cop
+ie de données d’authentification, pour des comptes administrateurs liés à des domaines du groupe, dé
+robées à l’aide de Mimikatz. Selon eux, c’est tout ce qu’il leur reste, à ce jour, des éléments volé
+s dans le système d’information d’Elior.
+Les données présentées correspondent bien à une sortie de M
+imikatz, utilisé qui plus est avec des arguments permettant d’obtenir des détails cruciaux pour s’as
+surer une plus grande discrétion dans l’utilisation de tickets d’authentification dérobés. Selon nos
+ sources, la nomenclature correspondrait à celle qui était utilisée chez Elior à l’époque des faits.
+ Autant d’éléments incohérents avec la position du groupe.
+Et cela d’autant plus que, typiquement, l
+es opérateurs de Revil conservent les données de leurs victimes jusqu’à ce qu’une rançon soit payée.
+ Et de faire pression pour obtenir ce résultat en divulguant graduellement les éléments dérobés, apr
+ès avoir simplement menacé de le faire. Il leur est également arrivé de vendre ces données aux enchè
+res. Dès lors, nous avons demandé aux cyberdélinquants quel montant aurait été finalement payé. Répo
+nse : « malheureusement, nous avons peu de choses à dire là-dessus ». 
+Pour Elior, la situation peut
+ être d’autant plus amère qu’elle souligne que le ransomware, ça n’arrive pas qu’aux autres : son RS
+SI, Gérard Leymarie, est titulaire du grand prix RSSI 2019, et a officié durant près de huit ans à l
+’Agence nationale pour la sécurité des systèmes d’information (Anssi).
+Surtout, si les affirmations 
+des cybertruands s’avéraient fondées, mais pas celles d’Elior, ce cas illustrerait à quel point céde
+r à l’extorsion et faire confiance aux cyberdélinquants est une mauvaise idée. Notre enquête sur les
+ négociations avait déjà laissé entrevoir une absence nette de scrupules. Dans le cas présent, si le
+s assaillants disent vrai, alors ils n’ont pas hésité à briser le silence, montrant à quel point esp
+érer leur discrétion peut être vain.
+En outre, les éléments qu’ils nous ont communiqués tendent à so
+uligner l’importance d’un nettoyage complet et profond de l’infrastructure en cas d’attaque : si ce 
+travail de reconstruction n’est pas fait, le risque est que les assaillants disposent encore de vect
+eurs d’accès au système d’information. Ce qu’un cas comme celui d’Artech avait déjà pu suggérer.  
+N
+ous avons transmis à Elior les éléments avancés par les cybertruands et demandé des commentaires add
+itionnels sur les questions qu’ils soulèvent. Nous ne manquerons pas de mettre à jour cet article lo
+rsqu’ils nous parviendront.
+[Mise à jour 22/09/2020 @ 21h00] Elior nous a fait parvenir une réponse 
+écrite que nous partageons ici en intégralité, avec l’autorisation du groupe : 
+« Nous avons bien pr
+is connaissance de vos différents messages et de la publication de votre article.Votre article véhic
+ule de nombreuses fausses informations ainsi que de nombreuses imprécisions. Il est également volont
+airement anxiogène et vise à faire croire que notre entreprise a été fortement impactée par cette at
+taque voir laisse sous-entendre que nous avons payé une rançon, ce qui est totalement faux.Pour l’en
+semble de ces raisons, nous ne souhaitons pas répondre à vos sollicitations au sujet de cette tentat
+ive de ransomware dont notre Groupe a été la cible il y a déjà plusieurs mois.A l’époque, notre réac
+tion immédiate nous avait permis d’assurer la continuité de nos services et prestations auprès de no
+s clients, convives et fournisseurs. Et l’ensemble des mesures qui devaient être prises l’ont été. P
+ar ailleurs, nous n’avions constaté aucunes fuites de données autres que des données purement techni
+ques. Aucune fuite de données personnelles donc, mais par mesure de précaution Elior avait adressé u
+ne notification auprès de la CNIL, autorité compétente en la matière.En revanche, comme vous l’imagi
+nez, l’entreprise a déposé plainte à l’époque de faits. Ce dossier est aujourd’hui judiciarisé et to
+us les éléments permettant de faire avancer l’enquête en cours doivent être transmis aux services de
+ police compétents. »
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre la montre
+–Cr
+owdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Men
+aces informatiques
+
+
+
+Ransomware : pourquoi la menace peut encore s’aggraver
+
+
+
+
+Par: Valéry Marchiv
+e
+
+
+
+
+Ransomware : l’attaque peut être maîtrisée sans que la situation soit sous contrôle
+
+
+
+
+Par: V
+aléry Marchive
+
+
+
+
+BTP, cabinet d’avocats : Maze revendique deux nouvelles victimes en France
+
+
+
+
+Pa
+r: Valéry Marchive
+
+
+
+
+Expanscience, sauvé de Maze par le cloud ?
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ 
+~ 4AC5DDE2 ~ /
+
+Action préventive : comment faire le maximum pour éviter le phishing ou hameçonnage 
+en vidéo (54sec.) | par @cybervictimes via @cyberGEND
+#CyberSecurity #cybersécurité #Email #Phishing
+ #Ransomware #cyberfraude
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : Quand il détone, c’est trop tard de @LeMag
+IT 
+Les assaillants sont probablement installés de longue date dans le système d’information. Les tr
+avaux de reconstruction seront de toute façon longs. D’où importance de stopper l’infection en amont
+.
+
+/ ~ 4AC5DDE2 ~ /
+
+En ces temps d’espionnage intensif et de tensions internationales, six responsa
+bles informatiques français sur dix (59%) pensent que la #cyberguerre est une menace pour leur organ
+isation. 
+
+#securiteinformatique
+#hacking
+#ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Une petite équipe en provin
+ce développe des solutions informatiques elle n'imaginait pas se retrouver bloqués, les données numé
+riques et la messagerie sont inaccessibles… Impossible de travailler, l'entreprise est victime d'un 
+ransomware.
+#cyberattacks
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+                        Optimisez votre temps
+Tri aut
+omatique des emails, spams et newsletters FacilitÃ© de gestion et dâutilisation Gain de productivi
+tÃ©
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+ Comment nous utilisons les cookies
+
+
+Nous utilisons les cookies pour nous 
+faire savoir quand vous visitez nos sites Web, comment vous interagissez avec nous, pour enrichir vo
+tre expérience utilisateur et pour personnaliser votre relation avec notre site Web. 
+Cliquez sur le
+s différents titres de catégories pour en savoir plus. Vous pouvez également modifier certaines de v
+os préférences. Notez que le blocage de certains types de cookies peut avoir un impact sur votre exp
+érience sur nos sites Web et les services que nous sommes en mesure d'offrir.
+
+
+
+ Cookies essentiels
+ sur ce site
+
+
+These cookies are strictly necessary to provide you with services available through o
+ur website and to use some of its features. 
+Because these cookies are strictly necessary to deliver
+ the website, you cannot refuse them without impacting how our site functions. You can block or dele
+te them by changing your browser settings and force blocking all cookies on this website.
+
+
+
+ Cookie
+s Google Analytics
+
+
+Ces cookies recueillent des renseignements qui sont utilisés sous forme agrégée
+ pour nous aider à comprendre comment notre site Web est utilisé ou l'efficacité de nos campagnes de
+ marketing, ou pour nous aider à personnaliser notre site Web et notre application pour vous afin d'
+améliorer votre expérience. 
+Si vous ne voulez pas que nous suivions votre visite sur notre site, vo
+us pouvez désactiver le suivi dans votre navigateur ici : Cliquez pour activer/désactiver le dépista
+ge de Google Analytics. 
+
+
+
+ Autres services
+
+
+Nous utilisons également différents services externes
+ comme Google Webfonts, Google Maps et les fournisseurs externes de vidéo. Comme ces fournisseurs pe
+uvent collecter des données personnelles comme votre adresse IP, nous vous permettons de les bloquer
+ ici. Veuillez noter que cela pourrait réduire considérablement la fonctionnalité et l'apparence de 
+notre site. Les changements prendront effet une fois que vous aurez rechargé la page.
+.
+Paramètres d
+e Google Webfont Settings :
+Cliquez pour activer/désactiver les caractères Web.
+Google Map :
+Cliquez
+ pour activer/désactiver Google Maps.
+Vimeo et Youtube :
+Cliquez pour activer/désactiver l'incorpora
+tion de vidéos.
+
+
+
+ Politique de confidentialité
+
+
+Vous pouvez lire nos cookies et nos paramètres de
+ confidentialité en détail sur la page suivante 
+Mentions légales.
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Le #biohac
+king peut être encore plus dangereux en imaginant qu'une personne puisse arrêter à distance un pacem
+aker, par exemple. Il ne sera pas exclu d'imaginer des #ransomware visant à menacer des vies, prévie
+nt @T_de_Coatpont DG #Kaspersky Fr via @CNEWS https://cnews.fr/vie-numerique/2020-09-23/cyberpunk-20
+77-voici-les-5-defis-de-lhumain-augmente-1000982…
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ransomware c'est une attaque
+ informatique qui consiste à bloquer les accès aux systèmes informatiques d'une entreprise, institut
+ion etc, et les libérer en échange d'une rançon (souvent en bitcoin)
+
+C'est une prise d'otage de vot
+re système informatique
+
+/ ~ 4AC5DDE2 ~ /
+
+C’est une première, et une première tragique. Jamais une 
+personne n’avait succombé des suites d’une cyberattaque. Mais la semaine dernière, une patiente d’un
+ hôpital de Düsseldorf est décédée, faute d’avoir pu être soignée dans l’établissement, victime d’un
+e attaque informatique. Cet événement tragique illustre tant l’importance de ces agressions que la v
+ulnérabilité des hôpitaux.Les conséquences tragiques de la cyberattaque ont été communiquées jeudi p
+ar les autorités allemandes. Depuis le 9 septembre, l’hôpital universitaire de Düsseldorf était en p
+artie paralysé par une attaque par ransomware. Aussi appelé rançongiciel, c’est un programme malveil
+lant qui utilise des vulnérabilités de certains logiciels pour permettre à l’assaillant de prendre l
+e contrôle, à distance, de systèmes informatiques. Ceux-ci sont totalement paralysés et inutilisable
+s. Le pirate exige alors souvent une rançon de plusieurs dizaines, voire centaines de milliers de fr
+ancs pour rendre l’accès aux ordinateurs. Dans ce cas précis, il n’y a pas eu de demande de rançon c
+hiffrée.Trajet de 32 kilomètresAu total, une trentaine de serveurs informatiques de l’hôpital ont ét
+é paralysés, entravant sensiblement les activités de l’établissement. Vendredi de la semaine passée,
+ une femme s’est présentée aux urgences pour un problème vital – celui-ci n’a pas été précisé par le
+s autorités. Incapable de la prendre en charge, l’hôpital l’a envoyée, dans une ambulance, dans un a
+utre établissement, à Wuppertal, distant d’environ 32 kilomètres. Faute d’avoir pu être prise en cha
+rge à temps, la femme y est décédée.Lire aussi: Un hôpital suisse victime d’une cyberattaqueLes auto
+rités judiciaires de Rhénanie-du-Nord-Westphalie ont lancé une enquête pour homicide involontaire. D
+écouvrir l’identité des auteurs de l’attaque s’annonce extrêmement compliqué – dans l’immense majori
+té des cas, les coupables de paralysie de système par ransomware ne sont pas découverts. Il semble q
+ue dans le cas l’attaque de Düsseldorf, les assaillants se soient trompés de cible. Une note laissée
+ sur un serveur de l’hôpital par les pirates demandait aux informaticiens de l’Université Heinrich H
+eine de prendre contact avec eux. Or l’hôpital est certes affilié à l’université, mais n’en fait pas
+ partie. Dès que la police a exigé des pirates qu’ils lui livrent la clé pour débloquer les ordinate
+urs, les attaquants se sont exécutés. Mais trop tard.Systèmes pas rétablisVendredi, l’hôpital de Düs
+seldorf publiait un communiqué pour assurer que ses ingénieurs avaient scrupuleusement suivi les rec
+ommandations officielles fédérales et mis à jour, ces derniers mois, leurs systèmes informatiques. L
+’enquête devra le déterminer. Et côté opérationnel, le chaos provoqué par l’attaque n’est pas encore
+ terminé. «L’hôpital et les entreprises spécialisées concernées ont pu faire de nouveaux progrès dan
+s la restauration du système informatique. Nous espérons pouvoir reprendre les soins d’urgence dans 
+le courant de la semaine prochaine», estimait vendredi Frank Schneider, directeur médical de l'hôpit
+al.Ce drame illustre la fragilité des hôpitaux face aux ransomwares. Ces dernières semaines, des éta
+blissements en Thaïlande et aux Etats-Unis ont été la cible de telles attaques. Cela a aussi été le 
+cas en Suisse en 2019: l’hôpital de Wetzikon, dans le canton de Zurich, avait dû débrancher du systè
+me central plusieurs dispositifs médicaux à la suite d’une attaque par rançongiciel, sans que les so
+ins aient été affectés.Lire aussi: De plus en plus de villes sont prises en otage par des cyberpirat
+esLa diversité des machines et ordinateurs dans les hôpitaux en fait des cibles faciles, d’autant qu
+e certains appareils sont souvent anciens et que leurs systèmes d’exploitation ne sont parfois pas m
+is à jour. La tragédie survenue en Allemagne devrait inciter les établissements hospitaliers à redou
+bler de vigilance.
+
+/ ~ 4AC5DDE2 ~ /
+
+ Pack @1000Partenaires – Sécurisez vos mails  Découvrez la sol
+ution pour protéger votre entreprise et vos collaborateurs des nouvelles menaces par email : #malwar
+e, #phishing, #ransomware, #spam... Pour tout savoir et être accompagné https://ift.tt/2KiCfS7 #1000
+partenair…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+InformatiqueNews.fr
+openNewsMobilité
+Sécurité
+Infrastructures
+Applica
+tions
+Cloud
+Poste de travail
+stockage
+Avis des fournisseurs
+Economie
+RH
+
+
+
+La réalité virtuelle, en 
+berne en 2020 mais en accélération en 2021 ?
+
+
+
+Atos et Ring Central lancent Unify Office
+
+
+
+Alibaba
+ lance un cloud PC qui tient dans la main
+
+
+
+Huawei veut survivre sans les technologies américaines
+
+
+
+
+Bambou, un projet français de lunettes AR+VR à 300 euros
+
+
+
+Des nouveautés chez Axyn Robotique à 
+l’occasion du SIDO de Lyon
+
+
+
+
+
+
+[Infographie] Les entreprises françaises se sentent menacées par la
+ cyberguerre !
+
+
+
+Sentinel Application Control Engine surveille et protège les applications cloud
+
+
+
+
+Vade Secure lance un coach pour sensibiliser les collaborateurs au phishing
+
+
+
+Extreme renforce les
+ capacités d’ExtremeCloud IQ
+
+
+
+Darktrace Immune System redéfinit la sécurité des entreprises
+
+
+
+Thy
+cotic Identity Bridge rationalise le contrôle d’accès
+
+
+
+
+
+
+L’Europe mobilise 8 milliards d’euros po
+ur exister face aux supercalculateurs chinois et américains
+
+
+
+IBM dévoile son ambitieuse roadmap qu
+antique jusqu’en 2023
+
+
+
+NVIDIA acquiert ARM pour 44 milliards de dollars
+
+
+
+Paessler améliore PRTG 
+Network Monitor et l’enrichit de 5 nouvelles sondes essentielles
+
+
+
+Coup de tonnerre sur la Silicon 
+Valley : Dheeraj Pandey quitte Nutanix !
+
+
+
+SFR lance un service SD-WAN managé et sécurisé pour PME
+
+
+
+
+
+
+
+CineVR, l’ambiance ciné sans bouger de chez soi
+
+
+
+CentralPay Push & Pay, le paiement digitali
+sé intégré aux logiciels d’entreprise
+
+
+
+Progress s’offre Chef
+
+
+
+Smyler, création, animation et ges
+tion d’événements en mode SaaS
+
+
+
+Fiverr Business, pour intégrer les freelances au travail d’équipe
+
+
+
+
+Zoho Workplace, une nouvelle plateforme collaborative et unifiée
+
+
+
+
+
+
+Azure connecte les satelli
+tes à son Cloud
+
+
+
+De l’ARM et des GPU pour du HPC dans Oracle Cloud
+
+
+
+Sage annonce Business Cloud 
+Paie
+
+
+
+OVH fait feu de tout bois…
+
+
+
+Talend Trust Score mesure instantanément la fiabilité des donn
+ées
+
+
+
+Oracle Cloud devrait héberger TikTok aux USA.
+
+
+
+
+
+
+Qualcomm contre-attaque pour imposer ARM 
+dans l’univers Windows
+
+
+
+Splashtop, pour accéder à l’informatique scolaire malgré la Covid-19
+
+
+
+Mi
+crosoft réorganise une nouvelle fois sa division Windows
+
+
+
+Toshiba quitte définitivement et complèt
+ement le marché PC
+
+
+
+Une station de travail animée par 64 cœurs mais 1 seul CPU chez Lenovo grâce à
+ AMD.
+
+
+
+La pandémie de Covid-19 a boosté les ventes de PC au second trimestre
+
+
+
+
+
+
+Commvault Disas
+ter Recovery, optimisé pour le cloud
+
+
+
+Pure Storage acquiert la plateforme de stockage pour contain
+ers Portworx
+
+
+
+Cohesity, un « I/O Boost » pour accélérer le « all-flash » dans la protection des do
+nnées…
+
+
+
+Cloudian HyperIQ métamorphose la supervision d’un stockage cloud et distribué
+
+
+
+Rubrik ac
+quiert Opas AI, un spécialiste de l’analyse des causes profondes
+
+
+
+Box intègre une protection antim
+alware dans Box Shield
+
+
+
+
+
+
+Des données contextualisées, le cœur d’un projet de jumeau numérique ré
+ussit. Stéphane Guignard, Aras
+
+
+
+Simplifier pour mieux se développer : l’enjeu déterminant de la ge
+stion des données pour les directions des PME. Jean-Baptiste Mérel, Report One
+
+
+
+Comment le search 
+permet de doper ses ventes en ligne. Stéphane Vendramini, Sensefuel
+
+
+
+Cybersécurité : les hôpitaux 
+plus que jamais en première ligne
+
+
+
+Extreme renforce les capacités d’ExtremeCloud IQ
+
+
+
+Les sites E
+dge : ces capteurs qui deviennent les yeux et les oreilles des équipes informatiques. Séverine Hanau
+er, Vertiv 
+
+
+
+
+
+
+45 propositions pour lutter contre l’illectronisme en France
+
+
+
+Intuiz+, pour rédu
+ire le risque client par l’analyse des données économiques
+
+
+
+Quatre entrées en bourse à suivre cett
+e semaine : Snowflake, Unity, Sumo Logic, JFrog.
+
+
+
+Lilo, le moteur de recherche français qui aide l
+es associations
+
+
+
+La France, mauvaise élève du « Green IT »
+
+
+
+Le marché du IaaS est toujours en fo
+rte croissance
+
+
+
+
+
+
+PIXID intègre la solution d’entretien vidéo Visiotalent de CleverConnect au coe
+ur de sa solution RH en mode SaaS.
+
+
+
+Qualtrics, pour écouter les collaborateurs et les clients sur 
+l’après crise sanitaire
+
+
+
+COVID-19 : l’appel conjoint du Cigref et de Syntec numérique
+
+
+
+Battle De
+v : codeurs, démontrez votre savoir faire
+
+
+
+Easyrecrue automatise les rendez-vous
+
+
+
+IronMan répond
+ à toutes vos questions sur l’IA 
+
+
+
+
+
+
+VidéosInvité de la semaine
+Evénement
+InfoNews Hebdo
+
+
+
+« Nos
+ clients ont pris conscience de l’importance du logiciel pour leur business » – Olivier Brot, New Re
+lic
+
+
+
+« Il y a une prise de conscience que la transformation digitale est indispensable » Philippe 
+Guénault Software AG
+
+
+
+« Il y a une très grande inégalité des entreprises dans leur capacité à gére
+r leur relation client  » Georges Anidjar, Pegasystems
+
+
+
+« L’interaction avec les organisations qui
+ nous emploient va changer » Bruno Buffenoir, ServiceNow
+
+
+
+« Les clients réfléchissent de manière b
+eaucoup plus détaillée à leurs investissements » Denis Herriau, Informatica
+
+
+
+« Il y a des mutation
+s importantes qui vont s’opérer » Alain Melon, HPE
+
+
+
+
+
+
+L’accélération de la transformation numériq
+ue
+
+
+
+Les données dans un environnement cloud hybride
+
+
+
+« Faire face aux attaques de Ransomwares » 
+Serge Hardoin, Micro Focus
+
+
+
+Spécial FIC – « Les collectivités locales doivent protéger leur SI » –
+ Jean-Pierre Faysse – Fortinet
+
+
+
+Spécial FIC – « Les systèmes industriels sont peu protégés » Renau
+d Bidou – Trend Micro
+
+
+
+Spécial FIC – « En 2020, Micro Focus lancera 3 nouveaux produits » Christop
+he Gaultier- Micro Focus
+
+
+
+
+
+
+Windows 10, OVHcloud & T-Systems, NVIDIA, Pure Storage, Snowflake, 5G
+, Adobe & Fisc
+
+
+
+Le résumé de l’été IT (suite et fin…) : KPMG&Teams, Emploi IT, Accenture, Supinfo,
+ Cigref, Privacy Shield, HPE-Aruba, OpenIo
+
+
+
+Le résumé de l’été IT : IBM, TSMC, IE 11, Firefox, Ora
+cle, Huawei, Ransomware
+
+
+
+AWS, Red Hat, Déconfinement, Femmes & IT, Dépenses cloud, le Métro en 4G
+
+
+
+
+HPE, Top500 Supercalculateur, Talkspirit, Safe Documents, Trufle 100, Numérique et écologie, Bpif
+rance
+
+
+
+Dell EMC, Palo Alto Networks, Atos&CSC&IQM, Zoom&VAAS, IBM, McKinsey, Apple
+
+
+
+
+
+
+DossiersI
+nfogérance d'impression
+DSI et Métiers : concurrence ou coopération
+Cybersécurité
+
+
+
+Dossier Impress
+ion 1/5  La transformation numérique aura-t-elle raison du papier ?
+
+
+
+Dossier Impression 2/5  Des e
+ntreprises en quête de sécurité et de flexibilité
+
+
+
+Dossier Impression 3/5 Ziegler en marche vers l
+a dématérialisation
+
+
+
+Dossier Impression 4/5  Services de base et offre complémentaire
+
+
+
+Dossier I
+mpression 5/5  Accélérateurs et freins de mise en œuvre
+
+
+
+L’infogérance d’impression (MPS) chez Lex
+mark France
+
+
+
+
+
+
+Viseo pour aller plus loin avec Anaplan
+
+
+
+« Itinéraire d’un CIO connecté » épisod
+e 3
+
+
+
+Le DSI, vers un dialogue fructueux avec les métiers
+
+
+
+« Itinéraire d’un CIO connecté » épiso
+de 2
+
+
+
+Le DSI, interlocuteur naturel de la direction générale ?
+
+
+
+« Itinéraire d’un CIO connecté »
+ épisode 1
+
+
+
+
+
+
+Dossier cybersécurité 5/5 Des IA pour défendre les entreprises : avenir de la cyber
+sécurité ?
+
+
+
+Dossier cybersécurité 4/5 Le Groupe Tessi fait confiance à l’IA de Darktrace pour lutt
+er contre les cyberattaques
+
+
+
+Dossier cybersécurité 3/5 Comment Darktrace, une start-up européenne,
+ révolutionne l’IA et la cybersécurité
+
+
+
+Dossier cybersécurité 2/5 La pandémie a favorisé l’émergen
+ce des Fearwares…
+
+
+
+Dossier cybersécurité 1/5 La cybersécurité dans un nouveau monde «à distance»
+
+
+
+
+
+
+
+Partner ZonePoly
+HPE
+Rubrik
+Fortinet
+Veeam
+Micro Focus
+LastPass
+Darktrace
+Rescue
+GoToMeeting
+Al
+catel-Lucent Enterprise
+
+
+
+La réalité des open spaces et ce que vous pouvez faire pour y remédier
+
+
+
+
+Des solutions de video-conférences adaptées aux nouvelles générations
+
+
+
+Comment résoudre les diffi
+cultés liées à la multiplicité des plates-formes vidéo pour améliorer l’expérience utilisateur ?
+
+
+
+
+L’invité de la semaine : Frédéric Batut VP Europe du sud Polycom
+
+
+
+
+
+
+Découvrez une nouvelle archit
+ecture d’infrastructure hyperconvergée encore plus flexible
+
+
+
+Le Negresco redonne du souffle à son 
+infrastructure avec HPE Simplivity
+
+
+
+HPE Primera réinitialise les attentes en matière de stockage h
+aut de gamme
+
+
+
+Migrer vers l’hyperconvergence dans le retail
+
+
+
+Architecture hyperconvergée, pourqu
+oi la performance et l’évolutivité sont au rendez-vous ?
+
+
+
+Réussir sa mise en place de DevOps avec 
+l’Infrastructure Composable
+
+
+
+
+
+
+FranceTV Publicité passe à la vitesse supérieure en termes de clou
+d hybride avec Rubrik
+
+
+
+Guide d’achat d’une solution de sauvegarde et de restauration
+
+
+
+Rubrik acc
+élère la conformité avec le RGPD
+
+
+
+Guide Rubrik du cloud public : Technologie et fonctionnement
+
+
+
+
+
+
+
+Fortinet SD-Branch sécurise le réseau étendu des sites distants
+
+
+
+La consolidation des fonctionn
+alités réseau et sécurité peut réduire la vulnérabilité des sites distants
+
+
+
+Repensez votre approch
+e en matière de cybersécurité !
+
+
+
+Les ransomwares continuent de se développer, quelles conséquences
+ ?
+
+
+
+Comprendre l’explosion de l’IoT  et son impact sur la sécurité des entreprises
+
+
+
+45 minutes p
+our présenter trois scénarios de cohabitation avec du sandboxing
+
+
+
+
+
+
+« Réussir sa transition vers 
+le multi-cloud : comment garantir la meilleure protection de ses données »
+
+
+
+Trois raisons d’adopte
+r une licence portable pour protéger tous les workloads
+
+
+
+Les 10 meilleures pratiques de sauvegarde
+ pour vSphere
+
+
+
+Les 10 mauvaises pratiques de l’utilisation de Veeam Backup & Replication
+
+
+
+AKKA T
+echnologies déploie Veeam pour accélérer sa transformation digitale
+
+
+
+Rapport Veeam 2019 sur la ges
+tion des données dans le Cloud
+
+
+
+
+
+
+L’ingénierie de la performance : la clef pour gérer la hausse d
+u trafic
+
+
+
+Vos applications sont-elles sécurisées ?
+
+
+
+Transformation numérique et gestion des serv
+ices d’entreprise (ESM)
+
+
+
+Observatoire DSI 2019 : De l’ITSM à l’Enterprise Service Management
+
+
+
+L’
+Observatoire DevSecOps pour la DSI 2019
+
+
+
+Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+
+
+
+
+
+
+
+Exploiter l’identité pour positionner la sécurité en tant que catalyseur d’activité
+
+
+
+10 mes
+ures pour augmenter la sécurité et la productivité dans le cadre du travail à distance
+
+
+
+Les contrô
+les des identités intégrés au sein de l’entreprise offrent sécurité et avantages commerciaux
+
+
+
+Comb
+ien coûte la protection de votre identité numérique ? Moins que vous pourriez le penser
+
+
+
+Guide des
+ avantages et fonctionnalités des solutions d’identité
+
+
+
+Pourquoi les mots de passe ne suffisent pa
+s à assurer la sécurité de votre entreprise ?
+
+
+
+
+
+
+Cyber IA Darktrace Un système immunitaire pour l
+a sécurité du cloud
+
+
+
+Alors que la cybermenace s’intensifie, la demande en matiére de sécurité e-ma
+il basée sur l’IA augmente de 400 %
+
+
+
+Les solutions de Darktrace Cyber AI maintenant disponibles en
+ déploiement virtuel
+
+
+
+Darktrace Antigena : la réponse autonome générée par l’IA
+
+
+
+Les attaques re
+nforcées par l’IA et la bataille des algorithmes
+
+
+
+88 % des responsables sécurité affirment que les
+ attaques dopées par l’intelligence artificielle sont inévitables
+
+
+
+
+
+
+L’évolution des attentes des
+ clients motive l’adoption d’outils d’engagement visuel
+
+
+
+Rescue : une vidéo découverte
+
+
+
+LogMeIn 
+Rescue : Dix trucs à essayer !
+
+
+
+La prise en charge mobile : désormais incontournable
+
+
+
+Les appare
+ils mobiles : nouvel horizon de l’assistance pour le service informatique
+
+
+
+
+
+
+Comment MITEGRO a ré
+uni plus de 5 000 personnes au pied levé !
+
+
+
+Pourquoi l’opérateur OpenIP a choisi GotoWebinar ?
+
+
+
+
+Comment IDEX a amélioré l’efficacité des réunions et réduit les déplacements professionnels ?
+
+
+
+La 
+communication et la collaboration, un enjeu critique dans l’espace de travail modernisé
+
+
+
+
+
+
+Facili
+tez la collaboration entre professionnels de santé avec une solution certifiée HDS
+
+
+
+Mobilité dans 
+l’entreprise, pourquoi faut-il choisir le Wi-Fi ?
+
+
+
+Le podcast pour tout savoir sur le Wi-Fi 6 en e
+ntreprise !
+
+
+
+« Nos solutions réseau accompagnent la transition numérique des entreprises », Lauren
+t Bouchoucha, ALE
+
+
+
+Les 6 étapes incontournables pour une migration Wi-Fi 6 réussie
+
+
+
+
+
+
+ 
+S’inscr
+ire
+
+
+Twitter
+Facebook
+Linkedin
+Flux RSS
+
+ Recevoir la newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Lu
+xottica touché par un ransomware http://dlvr.it/RhCZnv
+
+/ ~ 4AC5DDE2 ~ /
+
+Beaucoup d'entreprises com
+muniquent assez ouvertement ces derniers mois sur les attaques de ransomware dont elles sont victime
+s. C'est bien. Mais comme le montre LeMagIT, c'est loin d'être une évidence pour tous
+
+/ ~ 4AC5DDE2 
+~ /
+
+UnderNews_fr: RT @argevise: Ransomware : Quand il détone, c’est trop tard de @LeMagIT 
+Les assa
+illants sont probablement installés de longue date dans le système d’information. Les travaux de rec
+onstruction seront de toute façon longs. D’où importance de…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Luxxotica, fabrican
+t et distributeur mondial de lunettes - comptant Ray Ban, Armani et Chanel dans son portefeuille de 
+marques - est la nouvelle victime au sombre tableau de chasse des rançonneurs du web. Quelques mois 
+après Essilor, qui l'avait racheté en 2018, la société italienne employant 80 000 personnes dans le 
+monde pour près de 9 milliards d'euros, a essuyé une cyberattaque par ransomware. Ce vendredi, les s
+ites de plusieurs de ses marques sont tombés, avant de voir courir dans la presse italienne des arti
+cles faisant état d'une panne système globale ayant contraint le groupe a renvoyé travailler chez eu
+x de nombreux employés.
+Dans un billet sur Linkedin, le RSSI de Luxxotica, Nicola Vanin, a fini par 
+lâcher le morceau en confirmant que l'entreprise avait bien été attaquée par un ransomware. « Il n'y
+ a actuellement aucun accès ou vol d'informations aux utilisateurs et aux consommateurs », a précisé
+ Nicola Vanin. Les cyberpirates sont, d'après Bad Packets, parvenus à leur fin en exploitant une vul
+nérabilité critique CVE-2019-19781 permettant d'exécuter du code à distance (RCE) affectant le contr
+ôleur de mise à disposition d'applications ADC de Citrix. Si cela est le cas, on peut se poser la qu
+estion de la réactivité des équipes IT a appliquer un patch aussi critique, disponible depuis 9 mois
+.
+Une vulnérabilité dangereuse
+« Les vulnérabilités RCE sont parmi les plus dangereuses et peuvent p
+ermettre à un attaquant d'exécuter le code de son choix sur la machine ciblée - comme le téléchargem
+ent et l'exécution de ransomwares. Les organisations doivent s'assurer qu'un système de gestion des 
+correctifs robuste est en place - en particulier pour leurs infrastructures publiques », a expliqué 
+Michael Barragry, responsable des opérations chez Edgescan. 
+
+/ ~ 4AC5DDE2 ~ /
+
+    Sécurité informa
+tiqueYour best defense against ransomware: Find the early warning signs – Help Net Security9 heures 
+de ça Finding the early warning signs of an infection is your best defense against ransomware. Learn
+ what to be on the lookout for and stay secure.Source : Your best defense against ransomware: Find t
+he early warning signs – Help Net Security Navigation d'articleLa formation à la détection de phishi
+ng s’estompe après 6 moisLa Russie veut interdire l’utilisation de protocoles sécurisés  Un commenta
+ire AnnulerNom * Adresse de messagerie * Site web      Retrouvez-nousEnéo GrivegnéeAtelier libre le 
+mercredi de 9h30 à 12h30Rue Fraischamps, 78bEnéo EmbourgAtelier Libre le mardi et le jeudi de 9h30 à
+ 11hVieux Chemin 32 Rechercher  Recherche :  À propos de ce siteC’est peut-être le bon endroit pour 
+vous présenter et votre site ou insérer quelques crédits. Abonnez-vous à notre lettre d’informations
+Vous pouvez recevoir un mail contenant les dernière publications de notre site.  Prénom ou nom compl
+etEmail En continuant, vous acceptez la politique de confidentialité À propos de ce siteC’est peut-ê
+tre le bon endroit pour vous présenter et votre site ou insérer quelques crédits. Rechercher  Recher
+che :  
+
+/ ~ 4AC5DDE2 ~ /
+
+Sodinokibi : ce ransomware que le groupe Elior peine à digérer
+
+/ ~ 4AC5D
+DE2 ~ /
+
+#CyberSecurity : Les équipes de sécurité sont aux prises avec les #Ransomware  et les servi
+ces #Cloud
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica touché par un ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : les
+ confirmations de l’ampleur de la menace se multiplient https://lemagit.fr/actualites/252489011/Rans
+omware-les-confirmations-de-lampleur-de-la-menace-se-multiplient… #ransomwares
+
+/ ~ 4AC5DDE2 ~ /
+
+Al
+ors que les #ransomware se multiplient, à Düsseldorf, la première victime directe de ce type d'attaq
+ue est morte : une patiente que l'hôpital n'a pu prendre en charge à cause de la cyberattaque.
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Un nouveau groupe de piratage frappe les entreprises russes avec un ransomware Source:
+ https://ift.tt/3016xAa
+
+/ ~ 4AC5DDE2 ~ /
+
+FRENCHNEWTECH Luxottica touché par un ransomware http://d
+lvr.it/RhCF4q #startup #entreprise #lemondeinformatique
+
+/ ~ 4AC5DDE2 ~ /
+
+« Le cloud n’est pas une 
+solution magique pour protéger les données des attaques, il faut que les entreprises aient une infra
+structure consolidée et sure » Gabriel Ferreira au #cpib2b #sécurité #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Et aussi rappeler où il s'inscrit dans la chaîne d'attaque qui peut conduire au déclenchement d'un #
+ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Comment 2 entreprises de récupération de données auraient financé ds H
+ackers | @usberetrika
+
+Ils promettaient à des victimes d'un ransom. de récupérer leurs données et il
+s n'ont fait que payer les hackers
+
+http://bit.ly/3cgF1Uq #jcit
+#CyberSecurity #Ransomware #cybersec
+urity
+
+/ ~ 4AC5DDE2 ~ /
+
+Je fais un petit thread parce qu'il s'est passé un truc assez important la 
+semaine dernière.
+
+La première mort indirectement causée par une attaque informatique type ransomwar
+e
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware : une #attaque suspectée d'avoir provoqué un décès en #Allemagne
+
+/
+ ~ 4AC5DDE2 ~ /
+
+Retrouvez nous demain au salon Var Up pour pitcher et concourir au prix PÉPITE 2020
+ 
+@PepiteFrance @PepiteProvence
+#cybersecurity #B2B #securite #madeinfrance #bkube #stockage #storag
+e #bigdata #pme #virus #informatique #malware #ransomware #startup #innovation #concours
+
+/ ~ 4AC5DD
+E2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 14 
+sept. 2020
+
+
+ 
+Les groupes de cyberdélinquants aux commandes de ransomwares continuent d’égrainer le
+urs noms de victimes. Ce week-end, Equinix, Bisnode et Interway – notamment – sont ainsi venus gross
+ir les rangs de ceux qui apparaissent résister à l’extorsion.
+Suite de l'article ci-dessous
+
+
+
+
+
+Tél
+écharger gratuitement ce guide
+
+
+
+
+7 attaques informatiques à la loupe
+Les attaques informatiques ne
+ cessent d'impressioner et beaucoup d'entreprises se sont retrouvées les bras ballants face à ce pol
+ymorphisme informatique. 
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'in
+diquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré.
+ Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’
+entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget,
+ ainsi que la politique de confidentialité et le transfert de mes informations aux États-Unis pour t
+raitement afin de me fournir les informations pertinentes décrites dans notre Politique de confident
+ialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soie
+nt traitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais du téléphone
+ ou du courrier électronique et ce à propos d’informations pertinentes dans mon contexte professionn
+el. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus tôt cette année, Beazley et Hiscox présentaient des regards contrast
+és sur une situation préoccupante. Publié début avril dernier, le Beazley Breach Briefing 2020 a fai
+t état d’une augmentation de 131 % des attaques signalées contre les clients de l’assureur l’an dern
+ier. Et pour celui-ci, c’était une véritable explosion : en 2018 et 2017, il n’avait enregistré qu’u
+ne progression de 20 % et 9 %, respectivement, pour ce type de cyberattaque. Et pour ne rien gâcher,
+ « les sommes demandées par les cyberdélinquants ont également augmenté de manière exponentielle, le
+s demandes à sept ou huit chiffres n’étant pas inhabituelles ».
+De son côté, Hiscox, dans son rappor
+t annuel sur la gestion des cyber risques, indiquait que 18 % des entreprises françaises ayant été a
+insi attaquées ont versé une rançon. Sur l’ensemble de l’échantillon considéré, au-delà de la seule 
+France, donc, « les pertes étaient presque trois fois plus importantes pour les entreprises ayant su
+bi une attaque via un ransomware, par rapport à celle ayant subi un [simple] malware », soit 821 000
+ € contre 436 000 €… et cela que la rançon ait été payée ou non.
+Tout récemment, l’Américain Coaliti
+on a publié son rapport sur les demandes d’indemnisation au premier semestre, basé sur « 25 000 inci
+dents rapportés par 25 000 PME que sert [l’assureur] aux États-Unis et au Canada ». Et les signaux n
+e sont pas plus rassurants. Au second trimestre, il fait ainsi état d’une « progression de 47 % de l
+a sévérité des attaques par ransomware, en plus d’une progression de 100 % au premier trimestre, d’u
+ne année sur l’autre ». Au total, les cyberattaques par rançongiciel comptent pour rien que 41 % des
+ demandes d’indemnisation.
+Selon Coalition, le montant moyen des rançons demandées s’établit à 420 0
+00 $ pour Maze, 282 590 $ pour Ryuk, 176 190 $ pour Netwalker, mais encore 132 573 $ pour Zepplin, 1
+30 694 $ pour DoppelPaymer, 81 825 $ pour Dharma, et enfin un peu moins de 74 000 $ pour Sodinokibi.
+ Et encore, on rappellera que notre enquête sur les négociations a montré l’importance de l’éventail
+ des rançons demandées, mais également que les menaces de divulgation de données ne représentent que
+ moins d’un tiers des cas.
+Les chiffres de Bitdefender sur la menace au premier semestre soulignent 
+cette tendance. Selon eux, les familles de ransomware les plus actives en juin étaient ainsi Crypt0l
+0cker, Locky, Locky_diablo6, et Zepto. Pour l’éditeur, le nombre de notifications d’incidents de ran
+çongiciels a été multiplié par 7 au premier semestre, par rapport à la même période en 2019.
+Tout ré
+cemment, l’Agence nationale pour la sécurité des systèmes d’information (Anssi) a indiqué avoir trai
+té, depuis le début de l’année, 104 attaques de ransomwares, contre 54 sur 2019 dans son ensemble. D
+e son côté, le directeur général du GIP Acyma, Jérôme Notin, fait état de 1 082 signalements de rans
+omware 7 mois après le lancement de la plateforme, avec 44 % d’entreprises ou d’associations et 10 %
+ d’administrations ou collectivités. Las, plusieurs éléments convergent pour laisser à penser que la
+ vague est loin d’être passée.
+Et les raisons de s’attendre à une fin d’année difficile sur ce front
+ sont nombreuses, dont l’intense reprise d’activité du très dangereux Emotet, qu’il n’est pas rare d
+e voir utilisé en préalable au déploiement d’un rançongiciel.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-ad
+versaires et course contre la montre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatique
+s
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Ransomware : regards contrastés d’assu
+reurs sur une situation préoccupante
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : les assaillants pours
+uivent leurs activités agressivement
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : ceux qui font le plus
+ parler d’eux ne sont pas les plus dangereux
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : au-delà de l’
+impression, les chiffres confirment un retour en fanfare
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE
+2 ~ /
+
+« Le chiffrement des données par un #ransomware reste assez invisible, donc difficile à repér
+er » Gabriel Ferreira au Club de la Presse Informatique #cpib2b
+
+/ ~ 4AC5DDE2 ~ /
+
+#cyberassurance #
+prevention #cyber #cyberattaque #cybersecurite #pme #tpe #industrie #seproteger #extorsion #ransomwa
+re #crypte #logiciel #virus #informatique #numerique #rancongiciel #fleau #protection #unagentquiass
+ure #chefdentreprise
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+                Une entreprise n'a pas besoin d'être ci
+blée pour être victime d'un ransomware. Que ladite entreprise soit petite, moyenne ou grande, les co
+nséquences d'une telle attaque peuvent être dramatiques, surtout si l'on n'est pas équipé pour y rép
+ondre.        
+" Attention ! Votre ordinateur est bloqué. "  Une petite équipe en province développe
+ des solutions informatiques pour diverses entreprises. Elle n'imaginait pas se retrouver un lundi m
+atin avec cette page d'accueil affichée sur tous les écrans d'ordinateur de la société. Ces derniers
+ sont bloqués, les données numériques et la messagerie sont inaccessibles… Il est impossible de trav
+ailler, l'entreprise est victime d'un ransomware.
+" Le ransomware n'est pas forcément une attaque ci
+blée, explique Frédéric Rousseau, responsable marché Cyber chez Hiscox Assurance France. Les attaque
+s peuvent être tout à fait aléatoires et elles ne font pas forcément de distinction entre petits ou 
+gros. "
+Sur les écrans, une fenêtre explique les modalités du paiement d'une rançon. Elle pourrait s
+ervir à sélectionner son bouquet TV, sauf que cette fois, les offres Silver, Gold et Platinum permet
+tent de récupérer tel fichier ou de bénéficier de la possibilité de reprendre le travail. On peut mê
+me chatter avec les pirates ! " La présentation d'un ransomware est de plus en plus ergonomique et d
+e plus en plus esthétique, signale Frédéric Rousseau. Ce sont des professionnels qui sont à la manœu
+vre. Ils vont presque vous souhaiter une bonne journée à la fin de l'opération… " Cependant, entre-t
+emps, ils exigent le paiement d'une rançon. En l'occurrence, ici, elle est de 20 Bitcoin (1 Bitcoin 
+vaut près de 10 000 euros).
+En pleine incertitude, l'entreprise fait appel à Hiscox. À distance, un 
+expert IT évalue la gravité de la situation. " Le premier principe est de ne pas payer la rançon, ex
+plique Frédéric Rousseau. Deuxième principe :  Nous passer des services du cyber-pirate. Nos experts
+ peuvent être en capacité de décrypter les données, ou de restaurer les systèmes et données de l'ass
+uré. Si toutefois par malheur, aucune de ces solutions ne s'avère envisageable et que nos experts es
+timent que le pirate est en capacité de décrypter, alors et alors seulement le paiement de la rançon
+ devient une option. Lorsque c'est la seule issue possible, nos experts accompagnent l'assuré dans c
+ette négociation. " Hiscox remboursera la rançon. Les pertes de revenus en raison de l'interruption 
+de l'activité seront également indemnisées par l'assureur.
+
+
+                            Newsletter 
+quotidienne
+                    
+
+
+
+
+
+Abonnement newsletters
+
+
+
+Voir un exemple
+
+
+
+Les informations 
+recueillies sont destinées à CCM Benchmark Group pour vous assurer l'envoi de votre newsletter.
+Elle
+s seront également utilisées sous réserve des options souscrites, à des fins de ciblage publicitaire
+. 
+Vous bénéficiez d'un droit d'accès et de rectification de vos données personnelles, ainsi que cel
+ui d'en demander l'effacement dans les limites prévues par la loi. 
+Vous pouvez également à tout mom
+ent revoir vos options en matière de ciblage. En savoir plus sur notre politique de confidentialité.
+
+
+
+
+Selon le rapport Hiscox 2020 sur la gestion des cyber risques, près d'une entreprise française s
+ur cinq ayant subi ce type d'attaque a versé la rançon.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+"Une femme est décédée à
+ Düsseldorf, l’hôpital allemand ayant été paralysé par un rançongiciel, ou «ransomware». Un événemen
+t qui illustre la fragilité du secteur de la santé face à ces agressions"
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomw
+are : pourquoi quand il détone, c’est vraiment trop tard https://lemagit.fr/conseil/Ransomware-pourq
+uoi-quand-il-detone-cest-vraiment-bien-trop-tard… 
+Par @ValeryMarchive
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 14 janv. 2020
+
+
+ 
+Lon
+gtemps, le message fut simple : « contre les rançongiciels, soignez vos sauvegardes ». Il apparaît d
+ésormais bien insuffisant. Car les cyberdélinquants aux manettes ne frappent pas au hasard : après u
+ne intrusion initiale, ils se déplacent patiemment dans l’environnement de leur victime pour accéder
+ aux outils qui leur permettront de distribuer largement leur charge malicieuse, avant de la faire d
+étoner.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Priorités IT 2020 :
+ Les enjeux Sécurité des 12 prochains mois
+Les cyberattaques sont en hausse constante et peuvent s'a
+vérer fatales pour les entreprises. Découvrez au travers de cette enquête menée par LeMagIT, les pri
+orités et enjeux en matière de cybersécurité des entreprises pour 2020. 
+Start Download
+
+
+
+
+
+
+Adress
+e e-mail professionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée 
+semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le 
+nombre maximum de caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'acce
+pte les conditions d'utilisation de TechTarget, ainsi que la politique de confidentialité et le tran
+sfert de mes informations aux États-Unis pour traitement afin de me fournir les informations pertine
+ntes décrites dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez con
+tinuer.
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses partenaires afin de
+ communiquer avec moi par le biais du téléphone ou du courrier électronique et ce à propos d’informa
+tions pertinentes dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez
+ cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le résultat est alors auss
+i spectaculaire que dramatique : une grande partie – sinon l’ensemble – des ressources du système d’
+information commence à être chiffrée, d’un seul coup, sans que rien de bien visible ne le laisse pré
+sager.
+
+Une menace tout sauf superficielle
+Les experts l’évoquaient déjà au printemps dernier, alors
+ que LockerGoga faisait parler de lui, notamment chez Norsk Hydro. Ivan Kwiatkowski, chercheur en sé
+curité chez Kaspersky, l’assurait alors : « les acteurs derrière LockerGoga ont réfléchi sérieusemen
+t et longuement à la manière de maximiser leurs gains ». Félix Aimé, analyste chez le même éditeur, 
+ajoutait : « ils savent parfaitement combien de postes de travail et de serveurs ont été visés grâce
+ à [l’annuaire] Active Directory ».
+Forts de cette connaissance, les attaquants n’ont pas besoin d’i
+dentifier précisément chaque machine chiffrée par leurs soins, ni de définir une clé de déchiffremen
+t unique pour chacune d’entre elles : l’extorsion vise l’organisation touchée dans son entièreté.
+Un
+ peu plus tard, l’Agence nationale pour la sécurité des systèmes d’information (Anssi) confortait ce
+s analyses : l’exécution du ransomware « est réalisée sur plusieurs semaines (voire plusieurs mois) 
+après la compromission effective de la cible. Une étude approfondie de la cible et de son infrastruc
+ture est donc fortement probable ».
+Ce type de mode opératoire n’est pas isolé. On le retrouve dans 
+bon nombre d’attaques par ransomware. Cela vaut ainsi pour les cas Friedex/BitPaymer, comme le relev
+ait l’Anssi à l’automne dernier : après quelques jours de reconnaissance, les assaillants déploient,
+ « le week-end et au milieu de la nuit, la charge de chiffrement », expliquait alors l’Agence, « not
+amment sur les systèmes de sauvegarde de fichiers restés connectés ». Ryuk, MegaCortex, ou encore Cr
+ytomix Clop, qui a fait parler de lui notamment avec le CHU de Rouen, n’échappent pas à la règle.
+
+
+
+Une reconstruction laborieuse
+Dans un tel contexte, les défis techniques à relever sont nombreux. Gé
+rôme Billois, directeur de la practice Cybersécurité de Wavestone, fort de l’expérience acquise à l’
+occasion de plusieurs interventions, le soulignait à l’époque.
+La première difficulté peut consister
+ à accéder aux sauvegardes. Car il n’est manifestement pas si rare que « les serveurs de sauvegarde 
+aient été eux-mêmes chiffrés ». Là, « on a les cartouches de sauvegarde, mais on n’a plus le lecteur
+ et l’index – ou le catalogue – qui permet de savoir où sont les données sur les sauvegardes ». A ce
+ stade, la question de savoir si l’on choisit de restaurer ou pas à partir d’elles, en fonction de l
+’ampleur supposée de la compromission, ne se pose donc même pas. Et pour reconstruire l’index des sa
+uvegardes, « souvent, c’est plusieurs jours » de travail avec les outils disponibles sur site.
+Mais 
+pour ne rien gâcher, « le serveur de sauvegarde est très souvent lui-même dépendant de l’annuaire ».
+ Alors pour Gérôme Billois, l’une des principales mesures à prendre avant un incident, consiste « à 
+s’assurer que les procédures de restauration peuvent être lancées même dans une situation où il n’y 
+a plus les fonctions de support classiques ». La question étant : « imaginons un cas où il n’y a plu
+s rien ; combien de temps faut-il pour accéder à nouveau aux sauvegardes » ?
+Mais dans un cas où l’o
+n est amené à soupçonner une atteinte à l’intégrité de l’annuaire, la restauration apparaît bien dif
+ficile. « Dans un cas pareil, on repart d’une infrastructure de base, en réinstallant de zéro. Et on
+ en profite pour appliquer les bonnes règles d’architecture Active Directory qui, bien souvent, ne l
+’étaient pas avant ». De là, il devient possible d’envisager de récupérer prudemment, en les nettoya
+nt soigneusement si nécessaire, les données d’applications qui n’étaient pas la cible de l’attaque.
+
+D’aucun soupçonnent que l’université de Gießen, en Allemagne, ait été récemment confrontée à une tel
+le situation, même si elle n’a pour l’heure communiqué que très sporadiquement sur l’épisode de rans
+omware dont elle a été victime en décembre 2018.
+
+
+Chercher les signaux faibles
+Dans un tel contexte
+, la prévention joue un rôle déterminant. Et cela d’autant plus qu’à la demande de rançon s’ajoute l
+a menace de divulgation de données personnelles, voire sensibles, dérobées avant la détonation. De q
+uoi infliger une sévère peine multiple aux organisations affectées – notamment dans le contexte du r
+èglement général de protection des données (RGPD).
+Andrew Thompson, chez FireEye/Mandiant, il faut n
+otamment se concentrer sur les signaux faibles, car après « les téléchargeurs, ou étapes initiales, 
+[qui] sont des choses personnalisées comme Dridex, Trickbot, Emotet, Terraloader/Squid », la suite p
+asse « par des outils de sécurité offensive [OST, Offensive Security Tool] ». Et d’expliquer ainsi q
+ue les « utilisateurs/clients » des outils téléchargeurs initiaux « déploient Empire, Metasploit, Co
+balt Strike, PoshC2, etc. ».
+Pour mémoire, l’Anssi recommandait justement récemment de « porter ses 
+efforts de détection » sur Powershell Empire et Dridex. C’était dans le cadre de l’alerte qu’elle la
+nçait face à la menace Friedex/Bitpaymer.
+Dans le cadre de LockerGoga, Félix Aimé recommandait de bl
+oquer tous les serveurs de commande et de contrôle connus de Cobalt Strike, relevant que la plupart 
+de ceux-ci, n’étant pas mis à jour régulièrement, « sont largement liés à des cochonneries (APTs, dé
+butants, et autres) ».
+Et de conseiller également d’activer la traçabilité de Powershell, « bloquer 
+les appels entrants sur le port 445 des servers et des postes de travail en utilisant le pare-feu lo
+cal, bloquer toutes les communications [de commande et de contrôle] avec la certification Cobalt Str
+ike par défaut, prévenir l’utilisation de PSexec via Applocker ou en utilisant votre solution d’EDR 
+préférée ».
+
+Some flavors of #Emotet, which other flavor you know??? pic.twitter.com/uzSUow0GpX — \_
+(ʘ_ʘ)_/ (@pollo290987) 
+  January 7, 2020
+
+
+Et il convient encore de ne pas oublier les outils et se
+rvices légitimes, susceptibles d’être détournés par les assaillants à leur profit, à l’instar de ceu
+x permettant le déport d’affichage ou l’administration de systèmes. Pour LockerGoga, l’Anssi indiqua
+it ainsi que l’assaillant « prend le contrôle d’au moins un compte administrateur et effectue différ
+ents rebonds via le protocole RDP dans l’infrastructure ciblée pour ensuite déposer ses outils dans 
+des serveurs spécifiques ».
+Accessoirement, sur certains incidents, la console d’administration des 
+outils de protection des postes de travail s’est même vue détournée pour déployer les charges malici
+euses…
+
+
+Identifier et protéger les points d’entrée
+Mais la protection commence avant cela, au nivea
+u des points d’entrée. L’un des plus affectés reste la messagerie électronique. Et c’est là qu’Emote
+t ne manque pas de faire régulièrement parler de lui. Pour Marcus Hutchins, le menace est à prendre 
+très au sérieux : « si vous êtes alerté d’une infection par Emotet ou Trickbot sur votre réseau, net
+toyez immédiatement. Les deux essaient de se diffuser à tous les systèmes du réseau. Et en cas de ré
+ussite, le ransomware Ryuk peut être déployé simultanément sur tous les ordinateurs ». Pire encore, 
+Ryuk ne frappe pas au hasard, mais après une longue et prudente reconnaissance. Du coup, au moment d
+u verrouillage des systèmes, « votre réseau a été infecté depuis des semaines voire des mois ».
+
+Ful
+l network emotet (or trickbot) infection resulting in all servers and workstations infected with ryu
+k ransomware. I'm trying to laugh... But it's still raw :P — Justin (@echoztrip) 
+  January 11, 2020
+
+
+
+Mais voilà, le nettoyage, n’a rien de trivial. Kyle Hanslovan, PDG de Huntress Labs, le soulignai
+t en mars 2019 : « chaque jour, notre équipe voit les réseaux de 5 à 15 clients touchés par Emotet. 
+Le nettoyage peut prendre entre 3 jours et 3 mois suivant les compétences, les outils et la télémétr
+ie disponibles ».
+Et ce n’est pas la seule porte d’entrée. Le phénomène n’est pas nouveau : certains
+ acteurs s’invitent directement via des services RDP exposés ouvertement sur Internet sans véritable
+ sécurité, à commencer par une authentification de l’utilisateur au niveau du réseau (NLA, ou Networ
+k Level Authentification). Certaines vulnérabilités ne manquent d’ailleurs pas de les y aider, lorsq
+ue les correctifs requis n’ont pas été appliqués.
+L’état américain du Texas a d’ailleurs émis plusie
+urs recommandations à la suite de l’attaque d’une vingtaine d’entités locales de gouvernement dans l
+e courant de l’été dernier : « n’autoriser l’authentification sur les outils d’accès à distance que 
+de l’intérieur du réseau du prestataire ; utiliser l’authentification à double facteur sur les outil
+s d’administration à distance et des tunnels VPN plutôt que RDP ; bloquer tout le trafic entrant pro
+venant de nœuds de sortie Tor ; bloquer tout le trafic sortant vers Pastebin ; des outils d’EDR pour
+ détecter les scripts PowerShell exécutant des processus inhabituels ».
+Mais d’autres systèmes serva
+nt de point d’entrée sur le système d’information peuvent être affectés par des vulnérabilités, à l’
+instar de serveurs de réseau privé virtuel (VPN). Le rançongiciel Revil/Sodinokibi ne manque ainsi p
+as d’être distribué via des serveurs VPN Pulse Secure laissés vulnérables. Travelex est soupçonné d’
+en avoir fait les frais. Et d’aucuns s’attendent à ce que la vulnérabilité CVE-2019-19781 affectant 
+les systèmes Citrix/Netscaler ADC/Gateway soit également prochainement exploitée avec le même object
+if.
+
+
+Se préparer au pire
+Face à la difficulté de la protection et aux défis de la reconstruction, m
+ême avec les meilleures volontés, il apparaît essentiel de se préparer à la gestion d’incident – y c
+ompris lorsque la menace est arrêtée tôt dans la chaîne d’attaque. Et cela d’autant plus qu’une cris
+e de cybersécurité n’est pas une crise IT.
+Jérôme Saiz, d’Opfor Intelligence, le soulignait récemmen
+t dans nos colonnes : la principale différence tient au fait qu’un plan de reprise de l’activité (PR
+A) traditionnel ne tient pas compte de la présence d’un assaillant. De fait, avec un PRA, il s’agit 
+de « remettre l’outil informatique debout le plus vite possible », quitte à effacer des traces ou à 
+prendre des raccourcis susceptibles de conduire à une recompromission très rapide. Mais par exemple,
+ « dans une crise cyber, il faut considérer que l’on n’a plus confiance en ses moyens de communicati
+on », avec tout ce que cela peut avoir comme vastes implications – or, « les plans de secours inform
+atiques considèrent, implicitement ou explicitement, que les moyens de communication sont accessible
+s ».
+Maersk, Fleury Michon ou Norsk Hydro, voire même Altran et le groupe M6, ont sûrement des histo
+ires à raconter dans le domaine, même si tous ne se prêtent pas à l’exercice, et c’est bien regretta
+ble.
+Mais même d’une crise comme celle traversée par Travelex, il y a au moins un enseignement à tir
+er : préparer une solide réponse à un incident affectant une fonction métier critique, est indispens
+able et implique bien plus que la seule DSI. De fait, comme le souligne Brian Honan dans les colonne
+s de ComputerWeekly (groupe TechTarget), « Travelex est rapidement devenu l’exemple de ce qu’il ne f
+aut pas faire pour répondre à un incident de sécurité ».  
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+NOVALINK, 
+par tenaire ARUBA, vous accompagne dans la mise en place de la ...
+–Novalink Aruba
+
+
+Les clés de l'I
+T : Spécial Sécurité
+–LeMagIT
+
+
+Information Sécurité N°4 : Immersion dans les méthodes des cyber-att
+aquants
+–LeMagIT
+
+
+
+
+
+
+Pour approfondir sur Gestion de la sécurité
+
+
+
+Ransomware : les confirmations
+ de l’ampleur de la menace se multiplient
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+VPN, Exchange, etc. : ces vul
+nérabilités qui peuvent coûter des millions
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : quand les assa
+illants atteignent leur but en un clin d’œil
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Le Danois ISS se fait à so
+n tour piéger par un ransomware
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 14 janv. 2020
+
+
+ 
+Longtemps, 
+le message fut simple : « contre les rançongiciels, soignez vos sauvegardes ». Il apparaît désormais
+ bien insuffisant. Car les cyberdélinquants aux manettes ne frappent pas au hasard : après une intru
+sion initiale, ils se déplacent patiemment dans l’environnement de leur victime pour accéder aux out
+ils qui leur permettront de distribuer largement leur charge malicieuse, avant de la faire détoner.
+
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Comment effectuer la migrat
+ion vers le cloud
+Les migrations en cloud peuvent produire des résultats inattendus. Pour éviter de 
+se retrouver à devoir réparer l’inenvisageable, découvrez dans ce PDF les 4 erreurs les plus courant
+es à éviter lors du passage au cloud. 
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous ave
+z oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déj
+à enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autor
+isé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation d
+e TechTarget, ainsi que la politique de confidentialité et le transfert de mes informations aux État
+s-Unis pour traitement afin de me fournir les informations pertinentes décrites dans notre Politique
+ de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes info
+rmations soient traitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais
+ du téléphone ou du courrier électronique et ce à propos d’informations pertinentes dans mon context
+e professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez con
+tinuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le résultat est alors aussi spectaculaire que dramatique : u
+ne grande partie – sinon l’ensemble – des ressources du système d’information commence à être chiffr
+ée, d’un seul coup, sans que rien de bien visible ne le laisse présager.
+
+Une menace tout sauf super
+ficielle
+Les experts l’évoquaient déjà au printemps dernier, alors que LockerGoga faisait parler de 
+lui, notamment chez Norsk Hydro. Ivan Kwiatkowski, chercheur en sécurité chez Kaspersky, l’assurait 
+alors : « les acteurs derrière LockerGoga ont réfléchi sérieusement et longuement à la manière de ma
+ximiser leurs gains ». Félix Aimé, analyste chez le même éditeur, ajoutait : « ils savent parfaiteme
+nt combien de postes de travail et de serveurs ont été visés grâce à [l’annuaire] Active Directory »
+.
+Forts de cette connaissance, les attaquants n’ont pas besoin d’identifier précisément chaque machi
+ne chiffrée par leurs soins, ni de définir une clé de déchiffrement unique pour chacune d’entre elle
+s : l’extorsion vise l’organisation touchée dans son entièreté.
+Un peu plus tard, l’Agence nationale
+ pour la sécurité des systèmes d’information (Anssi) confortait ces analyses : l’exécution du ransom
+ware « est réalisée sur plusieurs semaines (voire plusieurs mois) après la compromission effective d
+e la cible. Une étude approfondie de la cible et de son infrastructure est donc fortement probable »
+.
+Ce type de mode opératoire n’est pas isolé. On le retrouve dans bon nombre d’attaques par ransomwa
+re. Cela vaut ainsi pour les cas Friedex/BitPaymer, comme le relevait l’Anssi à l’automne dernier : 
+après quelques jours de reconnaissance, les assaillants déploient, « le week-end et au milieu de la 
+nuit, la charge de chiffrement », expliquait alors l’Agence, « notamment sur les systèmes de sauvega
+rde de fichiers restés connectés ». Ryuk, MegaCortex, ou encore Crytomix Clop, qui a fait parler de 
+lui notamment avec le CHU de Rouen, n’échappent pas à la règle.
+
+
+Une reconstruction laborieuse
+Dans
+ un tel contexte, les défis techniques à relever sont nombreux. Gérôme Billois, directeur de la prac
+tice Cybersécurité de Wavestone, fort de l’expérience acquise à l’occasion de plusieurs intervention
+s, le soulignait à l’époque.
+La première difficulté peut consister à accéder aux sauvegardes. Car il
+ n’est manifestement pas si rare que « les serveurs de sauvegarde aient été eux-mêmes chiffrés ». Là
+, « on a les cartouches de sauvegarde, mais on n’a plus le lecteur et l’index – ou le catalogue – qu
+i permet de savoir où sont les données sur les sauvegardes ». A ce stade, la question de savoir si l
+’on choisit de restaurer ou pas à partir d’elles, en fonction de l’ampleur supposée de la compromiss
+ion, ne se pose donc même pas. Et pour reconstruire l’index des sauvegardes, « souvent, c’est plusie
+urs jours » de travail avec les outils disponibles sur site.
+Mais pour ne rien gâcher, « le serveur 
+de sauvegarde est très souvent lui-même dépendant de l’annuaire ». Alors pour Gérôme Billois, l’une 
+des principales mesures à prendre avant un incident, consiste « à s’assurer que les procédures de re
+stauration peuvent être lancées même dans une situation où il n’y a plus les fonctions de support cl
+assiques ». La question étant : « imaginons un cas où il n’y a plus rien ; combien de temps faut-il 
+pour accéder à nouveau aux sauvegardes » ?
+Mais dans un cas où l’on est amené à soupçonner une attei
+nte à l’intégrité de l’annuaire, la restauration apparaît bien difficile. « Dans un cas pareil, on r
+epart d’une infrastructure de base, en réinstallant de zéro. Et on en profite pour appliquer les bon
+nes règles d’architecture Active Directory qui, bien souvent, ne l’étaient pas avant ». De là, il de
+vient possible d’envisager de récupérer prudemment, en les nettoyant soigneusement si nécessaire, le
+s données d’applications qui n’étaient pas la cible de l’attaque.
+D’aucun soupçonnent que l’universi
+té de Gießen, en Allemagne, ait été récemment confrontée à une telle situation, même si elle n’a pou
+r l’heure communiqué que très sporadiquement sur l’épisode de ransomware dont elle a été victime en 
+décembre 2018.
+
+
+Chercher les signaux faibles
+Dans un tel contexte, la prévention joue un rôle déter
+minant. Et cela d’autant plus qu’à la demande de rançon s’ajoute la menace de divulgation de données
+ personnelles, voire sensibles, dérobées avant la détonation. De quoi infliger une sévère peine mult
+iple aux organisations affectées – notamment dans le contexte du règlement général de protection des
+ données (RGPD).
+Andrew Thompson, chez FireEye/Mandiant, il faut notamment se concentrer sur les sig
+naux faibles, car après « les téléchargeurs, ou étapes initiales, [qui] sont des choses personnalisé
+es comme Dridex, Trickbot, Emotet, Terraloader/Squid », la suite passe « par des outils de sécurité 
+offensive [OST, Offensive Security Tool] ». Et d’expliquer ainsi que les « utilisateurs/clients » de
+s outils téléchargeurs initiaux « déploient Empire, Metasploit, Cobalt Strike, PoshC2, etc. ».
+Pour 
+mémoire, l’Anssi recommandait justement récemment de « porter ses efforts de détection » sur Powersh
+ell Empire et Dridex. C’était dans le cadre de l’alerte qu’elle lançait face à la menace Friedex/Bit
+paymer.
+Dans le cadre de LockerGoga, Félix Aimé recommandait de bloquer tous les serveurs de command
+e et de contrôle connus de Cobalt Strike, relevant que la plupart de ceux-ci, n’étant pas mis à jour
+ régulièrement, « sont largement liés à des cochonneries (APTs, débutants, et autres) ».
+Et de conse
+iller également d’activer la traçabilité de Powershell, « bloquer les appels entrants sur le port 44
+5 des servers et des postes de travail en utilisant le pare-feu local, bloquer toutes les communicat
+ions [de commande et de contrôle] avec la certification Cobalt Strike par défaut, prévenir l’utilisa
+tion de PSexec via Applocker ou en utilisant votre solution d’EDR préférée ».
+
+Some flavors of #Emot
+et, which other flavor you know??? pic.twitter.com/uzSUow0GpX — \_(ʘ_ʘ)_/ (@pollo290987) 
+  January 
+7, 2020
+
+
+Et il convient encore de ne pas oublier les outils et services légitimes, susceptibles d’ê
+tre détournés par les assaillants à leur profit, à l’instar de ceux permettant le déport d’affichage
+ ou l’administration de systèmes. Pour LockerGoga, l’Anssi indiquait ainsi que l’assaillant « prend 
+le contrôle d’au moins un compte administrateur et effectue différents rebonds via le protocole RDP 
+dans l’infrastructure ciblée pour ensuite déposer ses outils dans des serveurs spécifiques ».
+Access
+oirement, sur certains incidents, la console d’administration des outils de protection des postes de
+ travail s’est même vue détournée pour déployer les charges malicieuses…
+
+
+Identifier et protéger le
+s points d’entrée
+Mais la protection commence avant cela, au niveau des points d’entrée. L’un des pl
+us affectés reste la messagerie électronique. Et c’est là qu’Emotet ne manque pas de faire régulière
+ment parler de lui. Pour Marcus Hutchins, le menace est à prendre très au sérieux : « si vous êtes a
+lerté d’une infection par Emotet ou Trickbot sur votre réseau, nettoyez immédiatement. Les deux essa
+ient de se diffuser à tous les systèmes du réseau. Et en cas de réussite, le ransomware Ryuk peut êt
+re déployé simultanément sur tous les ordinateurs ». Pire encore, Ryuk ne frappe pas au hasard, mais
+ après une longue et prudente reconnaissance. Du coup, au moment du verrouillage des systèmes, « vot
+re réseau a été infecté depuis des semaines voire des mois ».
+
+Full network emotet (or trickbot) inf
+ection resulting in all servers and workstations infected with ryuk ransomware. I'm trying to laugh.
+.. But it's still raw :P — Justin (@echoztrip) 
+  January 11, 2020
+
+
+Mais voilà, le nettoyage, n’a r
+ien de trivial. Kyle Hanslovan, PDG de Huntress Labs, le soulignait en mars 2019 : « chaque jour, no
+tre équipe voit les réseaux de 5 à 15 clients touchés par Emotet. Le nettoyage peut prendre entre 3 
+jours et 3 mois suivant les compétences, les outils et la télémétrie disponibles ».
+Et ce n’est pas 
+la seule porte d’entrée. Le phénomène n’est pas nouveau : certains acteurs s’invitent directement vi
+a des services RDP exposés ouvertement sur Internet sans véritable sécurité, à commencer par une aut
+hentification de l’utilisateur au niveau du réseau (NLA, ou Network Level Authentification). Certain
+es vulnérabilités ne manquent d’ailleurs pas de les y aider, lorsque les correctifs requis n’ont pas
+ été appliqués.
+L’état américain du Texas a d’ailleurs émis plusieurs recommandations à la suite de 
+l’attaque d’une vingtaine d’entités locales de gouvernement dans le courant de l’été dernier : « n’a
+utoriser l’authentification sur les outils d’accès à distance que de l’intérieur du réseau du presta
+taire ; utiliser l’authentification à double facteur sur les outils d’administration à distance et d
+es tunnels VPN plutôt que RDP ; bloquer tout le trafic entrant provenant de nœuds de sortie Tor ; bl
+oquer tout le trafic sortant vers Pastebin ; des outils d’EDR pour détecter les scripts PowerShell e
+xécutant des processus inhabituels ».
+Mais d’autres systèmes servant de point d’entrée sur le systèm
+e d’information peuvent être affectés par des vulnérabilités, à l’instar de serveurs de réseau privé
+ virtuel (VPN). Le rançongiciel Revil/Sodinokibi ne manque ainsi pas d’être distribué via des serveu
+rs VPN Pulse Secure laissés vulnérables. Travelex est soupçonné d’en avoir fait les frais. Et d’aucu
+ns s’attendent à ce que la vulnérabilité CVE-2019-19781 affectant les systèmes Citrix/Netscaler ADC/
+Gateway soit également prochainement exploitée avec le même objectif.
+
+
+Se préparer au pire
+Face à l
+a difficulté de la protection et aux défis de la reconstruction, même avec les meilleures volontés, 
+il apparaît essentiel de se préparer à la gestion d’incident – y compris lorsque la menace est arrêt
+ée tôt dans la chaîne d’attaque. Et cela d’autant plus qu’une crise de cybersécurité n’est pas une c
+rise IT.
+Jérôme Saiz, d’Opfor Intelligence, le soulignait récemment dans nos colonnes : la principal
+e différence tient au fait qu’un plan de reprise de l’activité (PRA) traditionnel ne tient pas compt
+e de la présence d’un assaillant. De fait, avec un PRA, il s’agit de « remettre l’outil informatique
+ debout le plus vite possible », quitte à effacer des traces ou à prendre des raccourcis susceptible
+s de conduire à une recompromission très rapide. Mais par exemple, « dans une crise cyber, il faut c
+onsidérer que l’on n’a plus confiance en ses moyens de communication », avec tout ce que cela peut a
+voir comme vastes implications – or, « les plans de secours informatiques considèrent, implicitement
+ ou explicitement, que les moyens de communication sont accessibles ».
+Maersk, Fleury Michon ou Nors
+k Hydro, voire même Altran et le groupe M6, ont sûrement des histoires à raconter dans le domaine, m
+ême si tous ne se prêtent pas à l’exercice, et c’est bien regrettable.
+Mais même d’une crise comme c
+elle traversée par Travelex, il y a au moins un enseignement à tirer : préparer une solide réponse à
+ un incident affectant une fonction métier critique, est indispensable et implique bien plus que la 
+seule DSI. De fait, comme le souligne Brian Honan dans les colonnes de ComputerWeekly (groupe TechTa
+rget), « Travelex est rapidement devenu l’exemple de ce qu’il ne faut pas faire pour répondre à un i
+ncident de sécurité ».  
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+NOVALINK, par tenaire ARUBA, vous accompagne
+ dans la mise en place de la ...
+–Novalink Aruba
+
+
+Les clés de l'IT : Spécial Sécurité
+–LeMagIT
+
+
+In
+formation Sécurité N°4 : Immersion dans les méthodes des cyber-attaquants
+–LeMagIT
+
+
+
+
+
+
+Pour approf
+ondir sur Gestion de la sécurité
+
+
+
+Ransomware : les confirmations de l’ampleur de la menace se mult
+iplient
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+VPN, Exchange, etc. : ces vulnérabilités qui peuvent coûter des
+ millions
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : quand les assaillants atteignent leur but en un 
+clin d’œil
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Le Danois ISS se fait à son tour piéger par un ransomware
+
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Une longue enquête publiée le 15 mai par le site am
+éricain ProPublica a révélé que deux entreprises américaines qui promettaient à leurs clients, victi
+mes d'une cyberattaque, de récupérer leurs données, ont en réalité payé les hackers pour obtenir ces
+ dernières, et donc indirectement financé des « actions terroristes », le tout durant trois ans, ent
+re 2015 et 2018.
+C’est une nouvelle qui souligne la vulnérabilité des organismes publics et privés f
+ace aux cyberattaques. Le 15 mai dernier, le média indépendant américain ProPublica a publié une enq
+uête fouillée sur deux entreprises spécialisées dans la récupération de données, qui promettaient de
+ restaurer, grâce à une technologie innovante, les données des organismes ou des individus ayant été
+ touchés par un ransomware (ces logiciels qui vous forcent à payer une rançon pour récupérer vos don
+nées personnelles). En réalité, ces sociétés ont payé les hackers et ont demandé un extra aux victim
+es afin de dégager du profit.
+L’histoire remonte à 2015. Le ransomware SamSam, développé par des hac
+kers iraniens, paralyse alors 200 organismes américains et britanniques, qui comptabilisent au total
+ une perte de 30 millions d’euros. Parmi les victimes : le service de paiement en ligne des factures
+ d’eau à Atlanta, le Département des transports du Colorado, et des patients dont les traitements et
+ les rendez-vous ont été retardés. Les organismes ont tous reçu la même alerte : « Vous avez sept jo
+urs pour nous envoyer la somme en BitCoin ».
+Un risque de « faillites immédiates »
+Face à l’urgence,
+ deux sociétés ont proposé leurs services : Proven Data Recovery, une entreprise new-yorkaise ; et M
+onsterCloud, basée en Floride. Selon ProPublica, qui a eu accès aux documents de quatre transactions
+, à un rapport du FBI et au témoignage d’un ancien employé, ces deux entreprises ont payé des rançon
+s aux hackers de SamSam (pendant plus d’un an en ce qui concerne Proven Data Recovery). « Je ne sera
+is pas surpris si une part importante de l'argent généré par ces ransomwares avait financé le terror
+isme et le crime organisé », a déclaré à ProPublica Jonathan Storfer, un ancien employé de Proven Da
+ta Recovery. S’il est difficile de tracer les transactions en Bitcoin à cause de l’opacité qui carac
+térise la crypto-monnaie, les journalistes ont montré que ces paiements étaient destinés à des hacke
+rs iraniens. Des opérations qui prennent fin en 2018, lorsque Donald Trump renforce les sanctions co
+ntre l'État iranien.
+
+Les locaux de l'entreprise Proven Data Recovery à New York / © Proven Data Rec
+overy
+
+Si ces deux entreprises en sont arrivées à payer les hackers, c'est probablement parce qu'ell
+es n'avaient pas d'autres solutions, analyse le rapport. Depuis 2017, de telles attaques se sont mul
+tipliées, nous explique Julien Nocetti, chercheur à l’Institut français des relations internationale
+s : « On résume souvent ces enjeux à une grande complexité, on imagine une grande armée de hackers, 
+mais souvent ce n'est pas vraiment le cas. Aujourd'hui, un tel logiciel peut être élaboré sans compé
+tences de pointe et peut même être revendu. »
+
+Capture d'écran du ransomware WannaCry, qui a touché 
+150 pays en 2017
+
+Une des menaces principales concerne les organismes de santé, en particulier les h
+ôpitaux, qui détiennent une grande quantité de données confidentielles et ont besoin de leurs systèm
+es informatiques pour soigner les patients. On se souvient notamment de l'attaque WannaCry en 2017, 
+considérée comme le plus grand « piratage à rançon » de l'histoire d'Internet. Dans 150 pays, plus d
+e 300 000 ordinateurs avaient été infectés et d'importantes structures avaient été touchées, à l'ins
+tar du système de santé britannique, des chemins de fer allemands ou des usines Renault en France. «
+ La menace concerne également les systèmes financiers et bancaires », complète Julien Nocetti : « S'
+ils sont mis à plat, il peut y avoir des faillites immédiates, des divulgations de données confident
+ielles. »
+Le lien étroit entre régimes et cybercriminels
+Pour se préparer à ces attaques, et peut-êt
+re un jour développer des outils technologiques pour y répondre, encore faut-il connaître les profil
+s des hackers et démêler les liens entre les États et les groupes criminels. D'autant plus avec le d
+éploiement de la 5G et l'aménagement de Smart Cities, comme nous l'expliquions dans un reportage réa
+lisé en 2017 à l'occasion des Assises de la Sécurité et des systèmes d'information. Même si, pour l'
+instant, le développement de la 5G en est encore à un stade embryonnaire, les États occidentaux se p
+réparent à ces risques, selon Julien Nocetti : « Sur un plan sécuritaire, de réelles menaces d'espio
+nnage et de sabotage sont possibles. Quand un acteur chinois pourra maîtriser des structures de Smar
+t Cities europénnes, il pourra mener des opérations de sabotage en cas de tensions politiques ou s'i
+l veut obtenir quelque chose de tel ou tel État. »
+
+Ever wonder what the end of the world feels like
+? #dallas #sirens pic.twitter.com/dvokKWkZ6N
+— ManicPixieDreamGay (@deadlyblonde) 8 avril 2017
+La q
+uestion d'une potentielle cyberguerre prend aujourd'hui une nouvelle tournure, en plein conflit comm
+ercial entre les États-Unis et la Chine et alors que Google, qui détient le système d'exploitation A
+ndroid, a annoncé suspendre ses relations avec le fabricant d'appareils chinois Huawei. « L'Europe e
+st un des grands enjeux numériques pour les géants américains et chinois, et cela pose la question d
+e l'autonomisation de l'Europe face à ces deux États aux stratégies très impériales. Toutefois, il f
+aut mesurer ce propos car les principaux acteurs chinois, en dehors de Huawei - je pense notamment à
+ Baidu - ont été conçus en mandarin et pour un public chinois. La capacité d'export de ces services 
+pour des Occidentaux reste limitée », nuance Julien Nocetti.
+Reste à attendre que l'Union européenne
+ se donne les moyens d'une vraie politique globale de cybersécurité. Mais il faudra pour cela que le
+s États membres soient prêts à partager entre eux des données qu'ils considèrent aujourd'hui comme c
+onfidentielles, notamment dans le domaine nucléaire.
+ 
+ SUR LE MÊME SUJET :
+> Cyberattaques : « On v
+a commencer à compter les morts »
+> « Nous sommes dans une situation de cyberguerre froide »
+>  « Le
+s outils de cyberguerre vont être de plus en plus accessibles »
+Image à la Une tirée de la série Mr.
+ Robot / © Mr Robot 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Gabriel Ferreira s’exprime sur le fléau du #ransomware pour
+ les entreprises aujourd’hui au Club de la Presse Informatique #cpib2b
+
+/ ~ 4AC5DDE2 ~ /
+
+Dites aux 
+spécialistes des spécialistes du #ransomware on a des noms de groupe utilisant du #netwalker ?
+
+/ ~ 
+4AC5DDE2 ~ /
+
+
+
+En ayant tenu ses engagements sécuritaires de confinement et d’atténuation, le numér
+o un mondial des datacenter Equinix affirme avoir “contenu complètement le récent incident de sécuri
+té” (lire “Equinix victime d’un ransomware… qui n’aurait affecté aucun de ses clients“).
+Rappelons q
+ue Equinix aurait été victime de la souche de ransomware Netwalker, une attaque double effet : les p
+irates mafieux auraient exigé le paiement d’une rançon de 4,5 millions de dollars ; et au-delà du ch
+iffrage des systèmes rendus inutilisables et de la tentative de destruction des sauvegardes, ils aur
+aient dérobé des fichiers contenant des informations financières, paie et comptabilité, des audits e
+t des rapports des datacenters. Le conditionnel s’impose ici, Equinix n’a confirmé aucun de ces déta
+ils.
+Ce qu’il est important de noter, c’est que la stratégie ‘zero trust’ adoptée par Equinix – qui 
+se traduit par la séparation entre les système internes de l’entreprise et les systèmes de ses clien
+ts – a été gagnante. A n’en pas douter, si les systèmes de ses clients avaient été touchés, l’ampleu
+r du phénomène aurait été autre…
+Pour un investissement mafieux minime dans l’achat de codes de rans
+onwares, les datacenters sont une cible de choix des pirates même faiblement qualifiés : comme toute
+s les organisations, ils sont soumis à des règles d’hygiène sécuritaire pour éviter les points faibl
+es les plus répandus, systèmes non corrigés, mot de passe faible ou e-mails de phishing. Mais surtou
+t ils accueillent des clients qui accumulent ces points faibles et représentent autant de risques ma
+l maîtrisés dont il convient de s’isoler. 
+Et ne nous risquons pas à jeter la pierre à Equinix, dans
+ tous les systèmes informatique la question n’est pas de savoir ‘si’ mais ‘quand’ l’attaque aura lie
+u.
+
+Articles similaires
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Morte "à cause" d'un #ransomware. Quelle horreur... Il 
+va peut-être pas falloir digitaliser tout l'hôpital tout de suite... Au moins pas avant d'avoir amél
+iorer la sécurité... Via @Siecledigital

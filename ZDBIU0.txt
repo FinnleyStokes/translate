@@ -1,0 +1,3482 @@
+
+
+
+Prev |
+					       							Next
+
+
+LOADINGActualidadGrave brecha de seguridad en Windows ServersAct
+ualidadEvo, primer banco de España en proteger a sus clientes con biometría de vozActualidadProteger
+ al empleado para evitar ciberamenazasActualidadLa suplantación de identidad o phishing, el ataque f
+avorito de los ciberdelincuentes en España
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualidadSup
+erBowl 2020, Supercrack: ataque masivo al corazón de EEUUActualidadDescubren una vulnerabilidad que 
+pone en riesgo la seguridad de smartphones Android como Samsung, Huawei, LG y SonyAPTSEl robo de más
+ de 40 millones de bitcoins resalta el ciberpeligro de los activos digitalesAPTSLos ciberdelincuente
+s se esconden en Telegram
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualidadCiberseguridad 101: 
+conoce los conceptos básicos para evitar que suceda lo peorActualidadLos CISOs consideran que los ci
+bercriminales superan sus capacidades de defensaCases StudiesLos cibercriminales apuestan por técnic
+as de evasión y anti análisisCases StudiesUna vulnerabilidad en OpenDreamBox ha afectado a 1 de cada
+ 3 empresas a nivel mundial
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualidadH&M: investigada e
+n Alemania por espiar a sus propios empleadosActualidadColega, ¿dónde está mi coche?ActualidadEstos 
+son los cibercriminales más buscados del mundoActualidad¿Son tus videoconferencias realmente seguras
+?
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualidad#CyberCoffee11 Deepak Daswani: «Si desde cas
+a quiero conectarme a la red de la oficina una VPN me lo permite hacer de forma segura»Actualidad🎙#C
+yberCoffee11 con Victor Delgado: «En las microempresas, por poca información que tengas, si te la en
+criptan, estás abocado al cierre»Actualidad🎙#CyberCoffee10 con Andrés Naranjo: «Los ciberdelitos rel
+acionados con el gaming gozan de cierta sensación de impunidad»Actualidad🎙#CyberCoffee08 con Juan Mi
+guel R. «Las Fake News han provocado una alarma social e incluso guerras interurbanas»
+
+
+Prev |
+			 
+      											Next
+
+
+LOADINGActualidad¿Qué son los Deepfake?  La polémica de Zao, la app china de
+ rostros «DeepFake»Cyberpedia¿Qué es el Reglamento Europeo de Ciberseguridad?CyberpediaQué es el Phi
+shing Car y cómo evitar esta y otras estafas en la compraventa de segunda manoActualidadLas diferenc
+ias clave entre  Ciberacoso, Cyberbullying y Grooming
+
+
+Prev |
+			       											Next
+
+
+LOADINGAc
+tualidadLa demanda de profesionales en ciberseguridad se ha multiplicado x30 en la última décadaActu
+alidadDemanda en ciberseguridad, sector de pleno empleoActualidadLa ciberseguridad se convierte en u
+no de los sectores más atractivos para formarse y trabajarEmpleoEmpleos destacados de Ciberseguridad
+ en septiembre de 2019
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualidadNetskope anuncia Cloud 
+Threat Exchange para impulsar el intercambio de información sobre amenazas cloudEntrevistas«El creci
+miento de ataques que estamos viviendo este verano está siendo especialmente preocupante»Entrevistas
+«La Ciberseguridad es una prioridad estratégica para el Grupo BBVA»Entrevistas“En Seguridad estamos 
+totalmente volcados en la aplicación de analítica avanzada para la resolución de problemas extremada
+mente complejos”
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualidadCISO Day 2020: La importancia
+ del DevSecOps y la gestión de OSSActualidadCISO Day 2020: International CISO´ Experience: One & One
+ InterviewActualidadSigue en directo el CISO Day 2020ActualidadSonatype expondrá en CISO Day 2020 la
+ importancia del DevSecOps y la gestión de OSS
+
+
+Prev |
+			       											Next
+
+
+LOADINGActualida
+dHackean las redes sociales  del F.C. BarcelonaActualidadUn ciberataque tumba por completo la ciudad
+ alemana de PotsdamActualidadDescubren una vulnerabilidad crítica en Qualcomm que podría afectar a c
+asi la mitad de los smartphones del mundoSecurity BreachesDescubren una nueva vulnerabilidad de día 
+cero en el navegador Google Chrome
+
+/ ~ 4AC5DDE2 ~ /
+
+Un nuevo #Ransomware entra en escena: #OldGrem
+lin está utilizando malware diseñado a medida para atacar a grandes organizaciones, vía @BleepinComp
+uter
+
+/ ~ 4AC5DDE2 ~ /
+
+@arieltorres Buenas tardes! Te envío esta entrevista que le realicé al Dr. A
+lberto Saúl de Trend Micro Inc. sobre Ransomware. Desde ya, cualquier observación y/o aporte son bie
+nvenidos. Muchas gracias. Saludos.
+
+/ ~ 4AC5DDE2 ~ /
+
+Fácil: recomiendo ampliamente el uso de tabla 
+de particiones GPT  (Ni hablar del sistema operativo)
+
+THANOS RANSOMWARE - https://bit.ly/3607ixh Ví
+a: @_SecureSoft
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Un ataque de ransomware al Hospital Universitario de Dusseldorf 
+(Alemania) que cifró 30 de sus servidores y provocó su colapso, teniendo que cerrar temporalmente la
+ sala de urgencias y, como resultado de ello, una paciente gravemente enferma falleció mientras era 
+trasladada al hospital de Wuppertal a apenas 30 km de distancia.
+No está claro si los ciberdelincuen
+tes pretendían atacar al hospital o a la Universidad de Dusseldorf. Sin embargo, la policía contactó
+ con los cibercriminales a través de la nota que acompañaba al ransomware, informándoles de que su a
+taque había colapsado el hospital. Estos retiraron la extorsión y ofrecieron el código para desencri
+ptar los equipos afectados.
+El ataque parece ser que se produjo gracias a una vulnerabilidad en Citr
+ix VPN, para la que ya existía un parche desde diciembre de 2019.
+Christoph Hebbecker, jefe de la un
+idad contra el cibercrimen de Colonia, ha declarado que ha abierto una investigación por homicidio.
+
+Desde Sophos ya hemos alertado en numerosas ocasiones sobre los peligros de los ciberataque a centro
+s sanitarios. De hecho ya hemos comentado y publicado con anterioridad nuestras recomendaciones para
+ este sector.
+Nuestros consejos para evitar el ransomware siguen siendo los mismos. Queremos en esta
+ ocasión recalcar el sexto: actualizar, actualizar, actualizar.
+1. Realiza copias de seguridad habit
+ualmente
+La única copia de seguridad que te arrepentirás de no haber hecho es la que dejaste “para o
+tro día”.
+2. No habilites los macros
+Gran parte del ransomware se distribuye a través de documentos 
+Office que engañan a los usuarios para que habiliten los macros.
+3. Valora instalar visores de Micro
+soft Office
+Estos programas te permiten ver un fichero Word o Excel sin macros. Estos visores no sop
+ortan los macros, así que no puedes activarlos por error.
+4. Cuidado al abrir ficheros adjuntos no s
+olicitados
+La mayor parte del ransomware se encuentra en ficheros adjuntos de correos electrónicos. 
+Extrema las precauciones al abrir estos archivos.
+5. No te otorgues más privilegios que los necesari
+os
+Conéctate como administrador solo el tiempo necesario. Evita navegar o abrir documentos cuando es
+tés conectado en tu ordenador como administrador.
+6. Actualiza, actualiza, actualiza
+El malware apro
+vecha las vulnerabilidades en el software, pero estas normalmente tienen solución. Para ello instala
+ todas las actualizaciones de tu sistema operativo y programas que uses.
+7. Forma a tus empleados
+Lo
+s usuarios son el eslabón más débil en la cadena de la seguridad. Fórmalos en seguridad para evitar 
+problemas.
+8. Segmenta la red local
+Separa las distintas áreas con un firewall, de manera que los si
+stemas y servicios solo sean accesibles cuando son realmente necesarios.
+También es indispensable me
+jorar la seguridad del endpoint. Para ello os recomendamos asistir al webinar “Best Practices Endpoi
+nt Protection” que ofreceremos el viernes 25. Puedes registrarte siguiendo este enlace.
+
+
+/ ~ 4AC5DD
+E2 ~ /
+
+“El Ransomware es un software malicioso que desde hace tiempo han usado para tomar control d
+e las computadoras, y después te piden que deposites cierto dinero en una cuenta, normalmente en cri
+tomonedas…” Alcides León @aleon1969 en #Lomejordetodo #AsiSomos
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ataque ransomw
+are a un hospital puede haber cobrado su primera víctima fatal
+
+/ ~ 4AC5DDE2 ~ /
+
+Cómo estar mejor p
+reparados ante una nueva ola de ransomware https://bit.ly/32Ygu3e a través de @datacenteres
+
+/ ~ 4AC
+5DDE2 ~ /
+
+
+Mapfre se una a la lista de las víctimas del ransomware junto a los gigantes como Adif u
+ Orange
+Mapfre ha sido víctima de un ataque de ransomware, así lo ha asegurado la propia compañía en
+ un comunicado en su página web, en el que, además, la compañía aseguradora pide disculpas a sus cli
+entes por no haberles ofrecido los servicios contratados con la calidad habitual y asegura que el ci
+berataques “no compromete la información de clientes”.
+Mapfre se une así a gigantes como Adif, Garmi
+n, Orange o Canon que este mismo verano han sufrido un ataque de estas características. Parece ser q
+ue el ataque se lanzó con el ransomware Ragnar Locker, un software que infecta un ordenador o una re
+d, cifrando sus datos de modo que para acceder a ellos los ciberdelincuentes piden un rescate, gener
+almente en criptomonedas para evitar ser rastreados, a cambio de volver a darle acceso.
+Sin duda, un
+ duro golpe para la aseguradora que ya anunció hace semanas un descenso en sus ganancias de cerca de
+ un 28% resultado de la caída de la actividad económica causada por la crisis sanitaria. Además, est
+e varapalo llega en un fin de semana clave para la movilidad e incidencias de tráfico como es el del
+ 15 de agosto.
+La empresa dice que sus equipos de tecnología y ciberseguridad están investigando lo 
+ocurrido y repeliendo el ataque. De hecho, en las últimas horas, el trabajo de los técnicos se ha ce
+ntrado en localizar y neutralizar el malware a la vez que protegiendo los sistemas de información, y
+ deteniendo cualquier tipo de fuga de datos.
+Ante la avalancha de quejas de clientes en redes social
+es, la aseguradora ha dicho estar prestando sus servicios con normalidad “aunque para determinadas o
+peraciones está siendo necesario hacerlo mediante procedimientos alternativos establecidos en nuestr
+o Plan de Continuidad de Negocios”, afirman.
+Fuente: globbsecurity.com
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Este nuev
+o ransomware encripta tu PC usando máquinas virtuales
+
+https://redeszone.net/noticias/seguridad/maze
+-ransomware-encripta-maquinas-virtuales-evadir-seguridad/…
+
+/ ~ 4AC5DDE2 ~ /
+
+Mapfre se una a la lis
+ta de las víctimas del #ransomware junto a los gigantes como Adif u Orange. #ciberataque #cibersegur
+idad
+
+/ ~ 4AC5DDE2 ~ /
+
+Consulta nuestra página y encuentra una solución para ti http://bit.ly/2XN6l
+n5
+#Seguridad #infosec #cybersecurity #IoT #Internet #ransomware #malware #pymes #Privacidad #securi
+tyhumor #Malware #fraude #feedly #divsecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+Esté atento a estas señales revelad
+oras, es posible que le ayuden a evitar ser víctima de #ransomware. 5 señales de que estas a punto d
+e ser golpeado por Ransomware
+ https://zcu.io/EV2R #CyberSecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+que wea las teo
+rias conspirativas xd
+
+escribir tonteras asi, es no entender como ataca el ransomware  y como las vi
+ctimas caen en esto xd
+
+/ ~ 4AC5DDE2 ~ /
+
+¿Se podría decir viendo como siempre todos tus tweets .w. 
+y algún que otro video que los servicios de ransomware personalizados para ataques a empresas es una
+ de las cosas que mas "eficiencia" dan a la ahora de un ataque combinado con una estrategia para ata
+car?
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+por
+
+
+				Gonzalo García
+
+
+	Publicado:23 sep 2
+020
+
+
+ 
+El ransomware es, de todos los diversos tipos de malware existentes, el que más repercusión 
+mediática ha tenido en los últimos años debido a que diversas empresas y gobiernos de todo tamaño, a
+ nivel global, han sido sus víctimas. En varias ocasiones, las organizaciones criminales han logrado
+ impactar en las operaciones de sus objetivos, que debieron pasar distintas áreas de negocio a un es
+tado de contingencia operativa. Solo basta con leer los casos en los periódicos de Argentina, Chile 
+o México, por mencionar solo algunos países de la región.  
+
+
+
+
+
+
+
+
+El ransomware es un tipo de soft
+ware malicioso que tiene como objetivo apoderarse de la información que reside en la computadora de 
+la víctima, solicitando un pago de rescate a cambio de liberarla. La técnica utilizada por el ransom
+ware es encriptar la información de la computadora de la víctima, volviéndola inaccesible. Tras el p
+ago del rescate, que es típicamente en criptoactivos, la víctima recibe la clave para desencriptar l
+a información. O no.
+Inicialmente, los ciberdelincuentes apuntaban al público general; sin embargo, 
+han mutado a atacar a empresas y organismos de gobierno en busca de mayor rentabilidad de su activid
+ad criminal. Ya no solo se limitan a secuestrar la información, también realizan extorsiones al amen
+azar con divulgarla públicamente.
+Detrás de los ataques de ransomware hay organizaciones criminales,
+ incluso algunas con afiliaciones de distintas personas en múltiples países, que cuentan con recurso
+s para financiar sus operaciones y están muy bien capacitadas. Se estima que, para 2021, los costos 
+por los daños de ransomware a escala global van a ser de USD 20.000 millones de dólares, incrementán
+dose un 5.700 % comparado con el 2015, de acuerdo con Cybersecurityventures.
+La elección del blanco 
+de un ataque no es azarosa: es un proceso con inteligencia previa. Incluso existen criminales que br
+indan servicios de ransomware, facilitando conocimiento, herramientas, infraestructura y otros compo
+nentes necesarios para llevar a cabo esta modalidad criminal a gran escala en modo de campañas.
+
+¿Có
+mo se lleva a cabo un ataque de ransomware? 
+Técnicamente, un ataque tiene distintas fases, cada una
+ de ellas con un propósito específico:
+1. Infección: Los atacantes intentarán engañar a un empleado 
+de la organización para que ejecute un programa malicioso. La forma más común es a través de un corr
+eo electrónico de phishing, o explotando alguna vulnerabilidad conocida no corregida para ejecutar s
+u malware. También existe la posibilidad de la participación deliberada de algún empleado de la orga
+nización víctima.
+2. Movimiento lateral: Una vez controlando un dispositivo de la organización, los 
+atacantes pondrán en marcha la segunda fase, que denominamos “movimiento lateral”, y que consiste en
+ propagarse a la mayor cantidad de computadoras posible. Si bien intentarán hacer esto lo más rápido
+ posible, puede tomar largos períodos de tiempo, pudiendo llegar a varios meses. Los criminales trab
+ajarán con mucho sigilo, utilizando técnicas de evasión, para pasar lo más desapercibidos posibles. 
+Durante esta etapa, buscarán vulnerar los servidores de autenticación para poder crear usuarios con 
+privilegios administrativos, instalar masivamente software para controlar los servidores de gestión 
+de actualizaciones y destruir los mecanismos de respaldo para que, cuando se secuestre la informació
+n, no sea posible recuperarla. La finalización de esta segunda fase dependerá de cuándo los criminal
+es decidan que pueden causar el suficiente daño a la víctima para inducirla a pagar un rescate. En p
+aralelo, los cibercriminales estarán robando la mayor cantidad de información posible a fin de usarl
+a luego de forma extorsiva y/o venderla a otros actores criminales.
+3. Cifrado de datos: En esta eta
+pa se da la instrucción al software malicioso previamente instalado para cifrar la información media
+nte una clave que hasta ese momento solo los atacantes conocen. Se ejecuta muy velozmente y es muy d
+ifícil de mitigar llegado a este punto, por lo que se dará notificación a la víctima y se le exigirá
+ el rescate. Lo siguiente es muy similar a la operatoria de un secuestro extorsivo convencional, pue
+s los delincuentes abren canales de comunicación y negociación con la pretensión de obtener el pago 
+a cambio de entregar la clave de descrifrado.
+
+
+La prevención no basta, es necesario poder detectar 
+y reaccionar
+
+Gonzalo García
+ 
+La seguridad es un proceso, no es una única acción. Por tanto, es nec
+esario encarar el problema del ransomware con decisión e inversión. Tener solo una estrategia de pre
+vención no basta; hay que invertir tanto en la capacidad de prevenir, como en la de detectar y reacc
+ionar. Es aconsejable privilegiar tener una visión central y unificada de toda la superficie de ataq
+ue, así como incorporar capacidad de análisis y reacción a velocidad digital, asistida por inteligen
+cia artificial, para poder tener una detección temprana y una respuesta automatizada, las cuales se 
+vuelven críticas por el volumen de información.
+Algunas recomendaciones de por dónde empezar:
+
+Reali
+ce entrenamientos para concientizar acerca de esta problemática y tener una fuerza de trabajo ciberc
+onsciente en su empresa u organismo público. Una práctica habitual es realizar campañas de phishing 
+de prueba, buscando identificar a los empleados que son engañados y así profundizar el entrenamiento
+ de estas personas.
+Mantenga la higiene digital de los dispositivos, instalando las actualizaciones 
+de seguridad provistas por los fabricantes lo más rápido posible para reducir la brecha de exposició
+n.
+Despliegue confianza cero en la red por medio de segmentación, robusteciendo la autenticación y e
+l manejo de identidad, implementando firewalls de nueva generación y políticas de mínimo privilegio,
+ y analizando los eventos de seguridad en busca de indicadores de compromiso.
+Implemente soluciones 
+de detección y respuesta. La prevención basada en firmas que tienen los antivirus en la actualidad p
+ara los dispositivos no basta y por eso es necesario sumar software de detección y respuesta (EDR, p
+or sus siglas en inglés), que se focalizan en la posejecución.
+
+A medida que las redes se vuelven má
+s complejas, también lo es defenderlas. Ya no es un trabajo de una solución puntual. Las soluciones 
+que permiten no solo prevenir, sino también detectar y responder de forma integrada y automatizada, 
+pueden aliviar la carga del equipo de TI y ayudar a cerrar las puertas al ransomware.
+Sobre el autor
+: Gonzalo García es vicepresidente de Fortinet para Sudamérica.
+
+
+
+
+
+
+
+
+Investigue más sobre Las ame
+nazas de seguridad de la información
+
+
+
+Por qué los ataques de ransomware a municipios subieron en 2
+019
+
+
+
+
+
+Sodinokibi emerge como una amenaza diversa multivectorial para las empresas
+
+
+
+
+Por: Alex S
+croxton
+
+
+
+
+¿Cómo ha cambiado la recuperación del ransomware en los últimos años?
+
+
+
+
+Por: Brien Pos
+ey
+
+
+
+
+La recuperación segura de desastres será una prioridad en 2019
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+M
+ientras no se aplique “Zero Trust Security” en TODA la banca seguirán estos problemas. En México por
+ ejemplo fue gravemente afectado Santander por un Ransomware.
+
+/ ~ 4AC5DDE2 ~ /
+
+Campaña de #AgeLock
+er activa y dirigida a servidores QNAP’s expuestos a Internet.  
+
+#Ransomware Alert 
+
+/ ~ 4AC5DDE2 ~
+ /
+
+@SophosIberia ayuda con los servicios de Managed Threat Response a detectar adversarios latentes
+ en las organizaciones antes de que roben información confidencial o desplieguen un #ransomware. C
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Y si tienes una falla de capa 8 (humana), que logre vulnerar tu seguridad. Como un
+ exploit que afecte tu equipo, alguna aplicación infectada y que no sea detectado por los antivirus,
+ o algo peor... un ransomware? D:
+
+/ ~ 4AC5DDE2 ~ /
+
+El tiempo es la principal razón para protegerno
+s del ransomware.
+Básicamente es un software malicioso que ha sido diseñado para agregar una extensi
+ón a nuestros archivos. 
+Les dejo consejos para PROTECCIÓN del Ransomware
+https://redeszone.net/tuto
+riales/seguridad/consejos-seguridad-ransomware/…
+
+/ ~ 4AC5DDE2 ~ /
+
+2020 ha sido un año de cambios, 
+para el mundo en general y para la industria de #ciberseguridad en particular. Conoce las principale
+s conclusiones del informe  de @Bitdefender "10 in 10": 
+https://muyseguridad.net/2020/09/22/bitdefe
+nder-10-in-10/… @muyseguridad
+#Ransomware #virus #internet
+
+/ ~ 4AC5DDE2 ~ /
+
+Hasta no hace mucho, s
+e podía instalar un programa antivirus en la computadora y todo estaba resuelto. Pero las cosas ya n
+o son tan sencillas.Para velar por la privacidad ya no basta con proteger la computadora en la que u
+no puede trabajar desde casa y las laptops que usan los chicos en la escuela. Seguramente tienes otr
+os aparatos conectados a internet en el hogar: teléfonos, tabletas, juegos con consolas, televisores
+, termostatos, neveras, lámparas, juegos para niños, cámaras de seguridad o asistentes digitales.Por
+ ejemplo, en EU, cada vivienda tiene un promedio de 11 de esos aparatos, según Deloitte, muchos de l
+os cuales son vulnerables al hackeo. Si no quieres que alguien penetre el sistema de esos dispositiv
+os para instalar malware o ransomware, más vale que asegures toda la red casera.¿Cuáles son los ries
+gos?Las redes de las casas son uno de los principales blancos de los ciberdelincuentes, que usan apa
+ratitos de aspecto inocente para extraer información de computadoras y teléfonos. También pueden inc
+orporar esos aparatos a ‘botnets’ mucho más grandes que causan caos en la red.Una de cada tres conex
+iones mediante redes caseras se hace a través de aparatos que no son ni una computadora ni un teléfo
+no, lo que quiere decir que hay muchas oportunidades de causar estragos si no se toman medidas preve
+ntivas.Una persona puede programar esas medidas por su cuenta, pero es algo complejo y cualquier err
+or se puede pagar caro. En la mayoría de los casos, es mejor pagar por servicios que protegen las re
+des caseras, a través del proveedor del servicio de internet u otras empresas. Eso, sin embargo, no 
+es barato.¿Cómo funciona?Hagamos de cuenta que la red consiste en una serie de latas atadas por tira
+s. Son todos tus aparatos y la información que comparten entre ellos.Ahora imagínate que de las lata
+s salen miles de cables. Son conexiones que tus aparatos entablan con otros. Y nos resulta imposible
+ monitorear todas esas conexiones. Necesitamos ayuda.Un buen servicio de protección crea ‘firewalls’
+ que bloquean el tráfico indeseado. Pero esto no se termina allí. Los firewalls no son perfectos y e
+s necesario monitorear el tráfico usando inteligencia artificial para detectar patrones inusuales. V
+igila no solo tus aparatos sino también dominios de internet nocivos, que alertan sobre posibles ame
+nazas y bloquean portales sospechosos.Uno no puede configurar su seguridad y responder a las alertas
+ desde una laptop o un teléfono. Eso lo hacen los proveedores, que permiten bloquear usuarios y port
+ales no autorizados, para que no se puedan conectar con sus aparatos caseros. Los padres usan estos 
+servicios para decidir qué portales pueden visitar los hijos y fijar límites al tiempo que pueden pa
+sar frente a la pantalla.“La mayoría de la gente no tiene los conocimientos necesarios para proteger
+ la red de su casa”, dijo Michael Philpott, experto de la firma investigadora Omedia. “La única solu
+ción real es tener un servicio que pueda monitorear todos los aparatos conectados”.¿Qué hacer?Para e
+mpezar, investiga si tu proveedor o el router que usas ofrecen estos servicios. Si es fácil instalar
+ y usar el software.También se pueden comprar kits directamente a empresas de seguridad, aunque gene
+ralmente cuestan más ya que hay que incorporar otro aparato a su red.Busca software que te permita c
+rear dos redes virtuales separadas. Reserva una para las computadoras y el almacenamiento de datos, 
+y la otra para los televisores y los altoparlantes.
+
+/ ~ 4AC5DDE2 ~ /
+
+Los objetivos de ransomware m
+ás vulnerables son las instituciones en las que más confiamos
+
+/ ~ 4AC5DDE2 ~ /
+
+Pregunta seria: tie
+nes alguna relación (comercial, laboral, etc) con Mapfre? Hace poco fue víctima de un ataque ransomw
+are y tengo una sospecha... MD y te cuento.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Deep tech, inversión, management...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si estuviéramos en una partida de póker, esta semana 
+llevaríamos escalera de color: una amenaza, una proyección de futuro, una incógnita, un globo que se
+ deshincha y un fracaso. ¿Adivinas cuál es cuál? Es necesario apreciar la realidad desde todos los á
+ngulos para lograr una imagen verdaderamente completa y que nos proporcione un aprendizaje útil. Baj
+a y verás que no vamos de farol.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L
+inkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reenvía
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📲 La cara más oscura de las redes sociales contada por sus art
+ífices
+Te lo pensarás dos veces antes de volver a usar tus perfiles cuando veas el interesantísimo d
+ocumental de Netflix El dilema de las redes sociales. Desde el creador del botón Me gusta a la diseñ
+adora del primigenio Instagram; convencidos, arrepentidos e iluminados relatan los sofisticados meca
+nismos de persuasión y manipulación diseñados para captar nuestra atención y apropiarse de nuestro t
+iempo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si tienes una gran startup, ya sabes que puedes venir y pr
+esentar tu proyecto en GoHub. Invertimos en startups con tecnologías transformadoras que abordarán l
+os problemas sociales, económicos y ambientales más importantes y fundamentales del mundo.
+¿A qué es
+tás esperando? 👆
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧠 Qué esperar de la inteligencia artificial en 2
+021, el año de la reconstrucción
+La IA sigue siendo una tendencia clave cuando se trata de elegir la
+s tecnologías que cambiarán la forma en que vivimos, trabajamos y jugamos. Tras la ruptura que ha su
+puesto la pandemia, Bernard Marr avanza lo que podemos esperar en el próximo año, en que la priorida
+d pasa por repensar las estrategias y prioridades comerciales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🛍  El gigante Walmart se lanza a la entrega de productos frescos con drones
+Es una pr
+ueba piloto en EEUU, pero es el primer paso para que deje de ser ciencia-ficción. Los alimentos y pr
+oductos del hogar llegarán caídos del cielo a los hogares de Fayetteville, de una manera rápida y se
+gura. El precursor de los códigos de barras sigue pensando en la tecnología para mejorar su servicio
+ a los clientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+☣ El 'ransomware' se convierte en letal: un ciberat
+aque a un hospital se cobra su primera vida
+El coste de un ataque informático puede ser cuantioso en
+ términos económicos. Sin embargo, cuando daña infraestructuras sensibles las consecuencias devienen
+ dramáticas. Ha sucedido en el Hospital de Dusseldörf, donde los cibercriminales infectaron el siste
+ma y dejaron sin posibilidad de ser intervenido a un paciente en estado crítico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📉 La oportunidad perdida de Slack: ya no es un disruptor sexy
+Si ha habid
+o una herramienta on fire durante la pandemia y la eclosión del trabajo en remoto, esa es Zoom, que 
+se ha convertido en popular y ha generado enormes ingresos. Otra de las ganadoras debería haber sido
+ Slack, pero su modelo de negocio ha jugado tan en su contra que, algunos, empiezan a encontrarla ab
+urrida.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GoHub QuickNews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📌 El camino hacia 
+la industria 5.0 de la mano de Nexus Integra 
+
+La compañía lanza su nuevo ebook para mostrar la evol
+ución del sector hacia sinergias que surgen como resultado de la combinación de tecnología y factor 
+humano
+
+📌 ' The use of radar satellites in maritime applications: oil spills' Artículo de Juan Peña,
+ CEO de Orbital EOS, en Linkedin
+
+
+📰🎙 Press & COM
+
+📌 Solver IA desembarcará en otras ciudad de Españ
+a y mira hacia su internacionalización elDiario.es
+
+
+📢 Startups are hiring!
+
+✅ Analyticalls Senior F
+rontend Developer
+✅ Linkener Técnico especialista en electricidad y gestión energética 
+✅ Sales Laye
+r QA Tester - Junior 
+✅ Kenmei IT/Devops Engineer | Solution Architect
+✅ Fivecomm We are looking for
+ talent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gracias por llegar hasta el final y te esperamos en la pr
+óxima #GoHubNews. Recuerda que puedes reenviar este correo a quien creas que le puede interesar.
+
+Su
+scríbete aquí mismo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2020 Organization, All rights reser
+ved.
+
+
+Want to change how you receive these emails?
+You can update your preferences or unsubscribe f
+rom this list.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Dispositivos NAS de QNAP se han convertido
+ en el objetivo del #ransomware AgeLocker, el cual encripta los datos almacenados en el NAS y, en al
+gunos casos, roba información del dispositivo de la víctima. #malware https://bit.ly/3hVgEwH | @Blee
+pinComputer
+
+/ ~ 4AC5DDE2 ~ /
+
+El tiempo, la principal defensa para evitar la amenaza del #Ransomwar
+e
+http://feedproxy.google.com/~r/redeszone/redes/~3/PCjY1F-6sd0/…
+#ciberseguridad #Malware
+
+/ ~ 4AC5
+DDE2 ~ /
+
+
+Las autoridades alemanas han descubierto que un ciberataque con ransomware, perpetrado la
+ semana pasada en el UKD -Hospital Universitario de Dusseldorf- ha provocado la muerte de una pacien
+te, que tuvo que ser trasladada a gran distancia. 
+Según los informes, se produjo un fallo en la red
+ que los responsables del centro anunciaron la semana y que, finalmente, era un ransomware que estab
+a cifrando los archivos del hospital. 
+Víctima mortal en ciberataque a un hospital
+Es la primera vez
+ que se asocia una muerte directa a un ciberataque en un hospital. Era algo que tenía que pasar ante
+s o después, la exposición de los organismos públicos, particularmente hospitales, es mayor de lo qu
+e se piensa.
+En la mañana del sábado 10 de Septiembre, una gran parte de la infraestructura TI del H
+ospital Universitario de Dusseldorf dejó de funcionar. […] Esto tiene gran alcance para el funcionam
+iento cotidiano de un hospital, dado que actividades computacionales son necesarias para muchos proc
+esos. Por este motivo, el UKD ha cancelado los cuidados intensivos.Boletín del hospital de Dusseldor
+f
+El día 11 de Septiembre, un día después, el UKD ya estaba estudiando lo que parecía apuntar a un c
+iberataque. Associated Press ha informado que:
+Las autoridades alemanas afirman que el ataque provoc
+ó un fallo catastrófico de los sistemas de TI. Una mujer que necesitaba admisión urgente falleció tr
+as haber sido reubicada de urgencia en otro centro a 30 kms. 
+La mujer no llegó a tiempo, por desgra
+cia. Como véis, un ciberataque puede tener consecuencias que no son únicamente económicas…
+En los se
+rvidores afectados (unos 30) se dejó una nota de rescate –ransom note– y en la misma se facilitó una
+ dirección para ponerse en contacto, aunque no se especificaba suma económica.
+Lo curioso del caso
+L
+a policía de Dusseldorf estableció contacto con los delincuentes (quizá poco más que unos gamberros 
+con ciertos recursos). Les dijeron que en lugar de atacar la Universidad (posible objetivo inicial) 
+lo habían hecho con el hospital, y que estaban poniendo en grave riesgo a los pacientes.
+
+Entonces, 
+decidieron liberar la clave de recuperación y compartirla con las autoridades. Era demasiado tarde p
+ara la paciente afectada. En cuanto a los atacantes, hay una investigación en curso, pero no se sabe
+ su paradero.
+764 hospitales fueron víctimas de ransomware en 2019
+El ransomware es una amenaza muy 
+popular actualmente, aporta grandes beneficios a los delincuentes, normalmente no requiere gran sofi
+sticación en el ataque y, para las víctimas, supone perder el control total de los datos y sistemas 
+en muchos casos.
+Solamente en EEUU, 764 centros de salud u hospitales han sido afectados por ransomw
+are el pasado año, según datos de Emsisoft. Esta no era la primera vez que un paciente tuvo que ser 
+trasladado a un nuevo centro por este motivo.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Maze: ransomware que usa máquinas 
+virtuales https://ift.tt/2RQhu3o
+
+/ ~ 4AC5DDE2 ~ /
+
+Y otra cosa importante, que el sistema de backup
+ en las empresas no esté en la misma red de las PC's /servidores de los que se hace backup. Conozco 
+casos de redes que fueron atacadas por ransomware y les cifraron hasta los backups.
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+
+
+
+
+
+
+   MADRID, 18 Sep. (Portaltic/EP) - 
+   Un ataque de 'ransomware' al Hospital Universitario
+ de Dusseldorf (Alemania) colapsó este martes el servicio de urgencias del centro, que tuvo que cerr
+ar temporalmente la sala de urgencias y, como resultado de ello, una paciente gravemente enferma fal
+leció mientras era trasladada a otro hospital.
+
+
+   El colapso informático del hospital tuvo lugar d
+ebido a un ataque de 'ransomware' dirigido originalmente contra los ordenadores de la Universidad de
+ Dusseldorf, pero en su lugar afectó también a los equipos de la clínica, encriptando 30 de sus serv
+idores, como ha informado el portal local RTL.
+   Este fallo en los equipos del hospital redujo la c
+antidad de pacientes que habitualmente se atiende en el centro, pasando de 1.000 a 550 personas, y t
+ambién la de operaciones, que de entre 120 y 70 pasó a menos de 15, según aseguraron fuentes de la c
+línica a la agencia DPA.
+
+
+   Como resultado del colapso, una paciente gravemente enferma tuvo que s
+er trasladada al hospital de Wuppertal en ambulancia. Aunque se trata de un trayecto de apenas 25 mi
+nutos, la mujer falleció. Se trata de la primera muerte registrada debida a un ciberataque.
+   La po
+licía de Dusseldorf contactó con los cibercriminales a través de la nota que acompañaba al 'ransomwa
+re', informándoles de que su ataque había colapsado el hospital, y estos retiraron la extorsión y of
+recieron el código para desencriptar los equipos afectados.
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+¿Qué es un #ransom
+ware ? Es un tipo de #software malicioso que tiene como objetivo apoderarse de la información que re
+side en la
+computadora de la víctima, solicitando un pago de rescate a cambio de liberarla.
+
+/ ~ 4AC
+5DDE2 ~ /
+
+ Ransomware - #OldGremlin 
+
+Los IOC se encuentra en el hilo 2/3. 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ciberdelincuencia y pandemia
+
+Los ciberdelincuentes están explotando
+ la pandemia mundial a gran escala: Atacan a los teletrabajadores para acceder a las redes empresari
+ales y a los datos críticos.
+Fortinet, líder global en soluciones de ciberseguridad completas, integ
+radas y automatizadas, ha publicado las conclusiones de su Índice global de amenazas realizado por s
+u equipo de expertos, FortiGuard Labs.
+
+Para Derek Manky, Chief, Security Insights & Global Threat 
+Alliances en FortiGuard Labs, “"en los primeros seis meses de 2020 hemos sido testigos de un panoram
+a de ciberamenazas sin precedentes. La dramática escalada y la rápida evolución de los métodos de at
+aque demuestran la agilidad de los cibercriminales para adaptar rápidamente sus estrategias con el f
+in de maximizar el momento actual marcado por la pandemia. Nunca ha sido tan evidente el por qué las
+ organizaciones necesitan ajustar sus estrategias de defensa a futuro en un entorno en el que el per
+ímetro de la red se extiende hasta el hogar. Es fundamental que las organizaciones tomen medidas par
+a proteger a sus teletrabajadores y les ayuden a asegurar sus dispositivos y redes domésticas a larg
+o plazo. Debemos adoptar una estrategia igual que en la vida real, reconociendo cuáles son los riesg
+os y manteniendo el distanciamiento de ellos".
+Entre las principales conclusiones extraídas del Índi
+ce global de amenazas de Fortinet, cabe destacar:
+•    La inteligencia de amenazas de FortiGuard Lab
+s durante el primer semestre de 2020 ha puesto en evidencia la dramática escalada del cibercrimen en
+ la pandemia, una oportunidad aprovechada por ciberdelincuentes y determinadas naciones para impleme
+ntar múltiples y variados ciberataques en todo el mundo. Su capacidad de adaptación les permitió pro
+ducir oleadas de ataques dirigidos a “explotar” el miedo y la incertidumbre de los acontecimientos a
+ctuales, así como el inusual número de teletrabajadores fuera de la red corporativa, lo que rápidame
+nte amplió la superficie de los ataques digitales de la noche a la mañana.
+•    Aunque muchas amenaz
+as estaban relacionadas con la pandemia, algunas tenían sus propias motivaciones. Por ejemplo, el ra
+nsomware y los ataques dirigidos a los dispositivos IoT, así como a la tecnología operativa (OT) no 
+han disminuido, sino que están evolucionando para ser más selectivos y sofisticados.
+•    A nivel gl
+obal, la mayoría de las amenazas se producen en todo el mundo y en todas las industrias, con alguna 
+variación regional o vertical. De manera similar a la pandemia, una determinada amenaza que podría h
+aberse iniciado en una zona, se extiende casi por todas partes, lo que significa que la mayoría de l
+as organizaciones podrían enfrentarse a dicha amenaza. Por supuesto, existen diferencias regionales 
+en las tasas de infección basadas en factores como las políticas, las prácticas o la respuesta.
+
+Apr
+ovechar la oportunidad en los acontecimientos mundiales: Los ciberciminales siempre se han valido de
+ la actualidad para sus señuelos de ingeniería social, pero con la pandemia han alcanzado otro nivel
+. Desde los oportunistas phishers hasta las confabulaciones de algunas naciones, los cibercriminales
+ han descubierto múltiples maneras de explotar la pandemia global a gran escala para su beneficio. A
+sí, por ejemplo, se han visto ataques de phishing y de correos electrónicos comprometidos, campañas 
+respaldadas por una nación y ataques ransomware. La táctica era maximizar la naturaleza global de un
+a pandemia que afectaba a todo el mundo combinada con una superficie de ataque digital ampliada. Est
+as tendencias demuestran lo rápido que los atacantes pueden moverse para aprovechar los grandes acon
+tecimientos con un amplio impacto social a nivel mundial.
+El perímetro se vuelve más personal: La pr
+oliferación del teletrabajo generó una intensa actividad de las redes corporativas de un día para ot
+ro, situación que los cibercriminales supieron aprovechar. En la primera mitad de 2020, los intentos
+ de exploit contra routers y dispositivos IoT de carácter doméstico se situaron a la cabeza de la li
+sta de detecciones de IPS. Además, Mirai y Gh0st dominaron las detecciones de redes de bots más frec
+uentes, impulsadas por un aparente interés de los atacantes por las vulnerabilidades antiguas y nuev
+as de los productos IoT domésticos. Estas tendencias son dignas de mención porque demuestran cómo el
+ perímetro de la red se ha extendido hasta el hogar y cómo los ciberdelincuentes que tratan de afian
+zarse en las redes de las empresas explotan dispositivos que los trabajadores remotos podrían utiliz
+ar para conectarse a las redes de sus organizaciones.
+Los navegadores se convierten en objetivo: Par
+a los atacantes, el teletrabajo ha significado una oportunidad sin precedentes para atacar a individ
+uos desprevenidos de múltiples maneras. Por ejemplo, a principios de este año, el malware basado en 
+web utilizado en campañas de phishing y otro tipo de estafas superó a los tradicionales ataques al c
+orreo electrónico. De hecho, una familia de malware que incluye todas las variantes de los señuelos 
+y estafas de phishing basados en la web ocupó la parte superior de la lista de malware en enero y fe
+brero, y bajó de los cinco primeros puestos en junio. Esto demuestra el intento de los ciberdelincue
+ntes de dirigir sus ataques cuando los individuos son los más vulnerables y crédulos, navegando por 
+la web desde casa. Los navegadores web, no solo los dispositivos, también son objetivos principales 
+de los ciberdelincuentes, quizás más de lo habitual.
+El ransomware sigue aquí: Las amenazas conocida
+s, como el ransomware, no han disminuido en los últimos seis meses. Los mensajes temáticos y los arc
+hivos adjuntos de COVID-19 se utilizaron como señuelo en varias campañas de este tipo de ataque. Otr
+os programas de ransomware fueron descubiertos reescribiendo el Master Boot Record (MBR) del ordenad
+or antes de cifrar los datos. Además, se produjo un aumento en los incidentes de ransomware en los q
+ue los atacantes no solo bloquearon los datos de la organización víctima sino que también los robaro
+n y amenazaron con su publicación a gran escala como una ventaja adicional para tratar obtener el pa
+go por el rescate. Esta tendencia aumenta considerablemente el riesgo de que las organizaciones pier
+dan información valiosa u otros datos confidenciales en futuros ataques con programas ransomware. A 
+nivel mundial, ninguna industria se libró de la actividad de este tipo de ataques y los datos muestr
+an que los cinco sectores más atacados fueron las empresas de telecomunicaciones, MSSPs, el sector e
+ducativo, los gobiernos y la industria tecnológica.
+Las amenazas a OT después de Stuxnet: En junio s
+e celebró el décimo aniversario de Stuxnet, una amenaza que marcó un hito y revolucionó la seguridad
+ de la tecnología operativa. Ahora, muchos años después, las redes OT siguen siendo un objetivo para
+ los cibercriminales. El ransomware EKANS, que se hizo popular a principios de este año, muestra cóm
+o los adversarios continúan ampliando el foco de los ataques ransomware para incluir a los entornos 
+OT. Además, el marco de trabajo del programa de espionaje Ramsay, diseñado para la recogida y exfilt
+ración de archivos confidenciales dentro de redes aisladas o altamente restringidas, es un ejemplo d
+e cómo los cibercriminales buscan nuevas formas de infiltrarse en este tipo de redes. La prevalencia
+ de las amenazas dirigidas a los sistemas de control de supervisión y adquisición de datos (SCADA) y
+ otros tipos de sistemas de control industrial (ICS) es menor en volumen que las que afectan a las t
+ecnologías de la información, si bien esto no resta importancia a esta tendencia.
+Mapeo de los explo
+its:  La lista CVE muestra que el número de nuevas vulnerabilidades publicadas ha aumentado en los ú
+ltimos años, generando un gran debate sobre la priorización de la aplicación de parches. Aunque el a
+ño 2020 parece estar a punto de romper el número de vulnerabilidades publicadas en un solo año, ésta
+s también tienen la tasa de explotación más baja jamás registrada en los 20 años de historia de la L
+ista CVE. Sin embargo, las vulnerabilidades de 2018 tuvieron la mayor prevalencia de explotación con
+ un 65%, y más de un cuarto de las organizaciones registraron intentos de explotación de CVE de 15 a
+ños de antigüedad. Para los cibercriminales explotar el desarrollo a escala y la distribución a trav
+és de herramientas de piratería legítima y maliciosa sigue llevando tiempo.
+Urge asegurar el perímet
+ro de la red hasta el hogar: Con el aumento de la conectividad, los dispositivos y la necesidad cont
+inua de teletrabajo, la superficie de ataque digital se está expandiendo. El perímetro de la red cor
+porativa llega al hogar y los atacantes buscan el eslabón más débil y nuevas oportunidades para perp
+etrar sus ataques. Las organizaciones deben prepararse tomando medidas concretas para proteger a sus
+ usuarios, dispositivos e información de manera similar a si estuvieran en la red corporativa. Las o
+rganizaciones de inteligencia e investigación de amenazas son importantes aliados a la hora de propo
+rcionar una amplia visión de la evolución del panorama de las amenazas, así como un análisis en prof
+undidad de los métodos de ataque, los actores y las nuevas tácticas para ayudar a complementar los c
+onocimientos cibernéticos de las organizaciones. Es más determinante que nunca contar con soluciones
+ seguras para el teletrabajo que permitan un acceso protegido a los recursos críticos y al mismo tie
+mpo sean escalables para satisfacer las demandas de toda la fuerza de trabajo. Solo una plataforma d
+e ciberseguridad diseñada para proporcionar una visibilidad y protección completa en toda la superfi
+cie del ataque -incluidos los entornos de red, de aplicaciones, multi-nube o móviles- es capaz de as
+egurar las redes actuales.
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+@sysarmy Buenas tardes! Les envío esta entrevista qu
+e le realicé a @AlbertoSaulIT sobre #Ransomware. Desde ya, cualquier observación y/o aporte son bien
+venidos. Muchas gracias. Saludos!
+
+/ ~ 4AC5DDE2 ~ /
+
+Los operadores de ransomware de Bitcoin liberan
+ datos robados de residentes de EE. UU.
+
+/ ~ 4AC5DDE2 ~ /
+
+#video https://youtu.be/2WFZ0LusPek
+Hoy a
+nalizamos #Emotet , junto con @BlackBerry y su tecnología de #MachineLearning . No te pierdas este c
+oncreto análisis y aprende como defenderte frente a este tipo de #Ransomware 
+.
+#ran #ransecurity #C
+yberSecurity #seguridadinformatica
+
+/ ~ 4AC5DDE2 ~ /
+
+La guerra contra el ransomware es real
+
+/ ~ 4A
+C5DDE2 ~ /
+
+
+Se cree que un ataque de ransomware ha cobrado su primera víctima fatal en un hospital 
+de Dusseldorf, Alemania. La fiscalía está abriendo un caso de homicidio para que la justicia profund
+ice sobre el caso de una mujer que falleció al no poder ser admitida en el centro de salud porque lo
+s sistemas habían sido bloqueados por un programa chantajista.
+El ataque de ransomware ocurrió el 10
+ de septiembre y afectó a 30 servidores del Hospital de la Universidad de Dusseldorf. Este tipo de a
+menazas bloquea el acceso a los servidores que se devuelve a cambio de un pago a los criminales.
+A r
+aíz del bloqueo de los sistemas, el hospital afectado se vio obligado a rechazar a los nuevos pacien
+tes, incluyendo aquellos que llegaban de emergencia. Una de ellas fue esta paciente crítica que, tra
+s ser rechazada por el Hospital de la Universidad de Dusseldorf, tuvo que transportarse en ambulanci
+a a un hospital a 32 kilómetros y no sobrevivió por el retraso en su tratamiento.
+Los hospitales son
+ blanco frecuente de ataques de ransomware porque, precisamente por la urgencia de su labor, es más 
+posible que paguen el rescate exigido para volver a tener acceso a sus sistemas.
+“Si se confirma, es
+ta tragedia sería el primer caso que conozco en el mundo en el que la pérdida de una vida humana pue
+de vincularse de cualquier modo con un ciberataque”, opinó Ciaran Martin, ex director del Centro Nac
+ional de Seguridad Informática de Gran Bretaña.
+Las autoridades de Alemania siguen investigando el c
+aso. Se sabe que los hackers irrumpieron en los sistemas explotando una vulnerabilidad en Citrix, pe
+ro todavía no se ha identificado a los responsables del incidente. Por ahora, el hospital no se ha r
+ecuperado del ataque y sigue sin aceptar nuevos pacientes, mientras que el caso judicial se ha abier
+to contra personas desconocidas.
+Mientras tanto, Arne Schönbohm, Directora de la Oficina Federal de 
+Seguridad Informática de Alemania ha destacado la importancia de prestarle atención a la seguridad i
+nformática de las infraestructuras críticas. Schönbohm destacó que la vulnerabilidad de Citrix que a
+fectó al hospital de Dusseldorf se conoce desde diciembre de 2019 e hizo un llamado a los centros de
+ salud para que actualicen sus sistemas de seguridad.
+“Lo único que puedo hacer es pedirles que no i
+gnoren o pospongan estas alertas y que tomen las medidas necesarias de inmediato”, dijo Schönbohm en
+ sus declaraciones. “Este incidente nos demuestra una vez más que estos peligros deben tomarse muy e
+n serio”.
+Fuentes
+Woman dies during a ransomware attack on a German hospital • The Verge
+Prosecutors
+ open homicide case after cyber-attack on German hospital • The Guardian
+Cyber Attack Suspected in G
+erman Woman’s Death • The New York Times
+
+
+/ ~ 4AC5DDE2 ~ /
+
+ #Ransomware #OldGremlin, el nuevo malw
+are que estaría apuntando a las grandes redes corporativas usando malware personalizados.
+
+OldGremli
+n utiliza puertas traseras (TinyPosh y TinyNode) y el ransomware TinyCrypt, junto con software de te
+rceros para su infección.
+
+Hilo (1/3)
+
+/ ~ 4AC5DDE2 ~ /
+
+Detectar el ransomware a tiempo, lo más imp
+ortante
+Como sabemos, el ransomware es una amenaza que está muy presente en nuestros días y que tien
+e como objetivo cifrar los sistemas y archivos. Los piratas informáticos buscan cobrar un rescate pa
+ra lucrarse económicamente. A veces incluso puede que el objetivo sea amenazar con hacer pública la 
+información que encuentran, más que hacer que sea imposible acceder a los equipos.
+En la etapa final
+ del ataque, cuando ya se ha ejecutado, resulta muy evidente saber que estamos contagiados. Básicame
+nte veremos algún mensaje donde nos indican todo lo relacionado con el rescate y no podremos abrir a
+rchivos o iniciar el sistema. Esto nos indicaría que efectivamente somos víctimas del ransomware.
+Si
+n embargo antes de llegar ahí hay diferentes puntos, etapas o fases, que pueden indicarnos que estam
+os ante este problema. Precisamente en los inicios, adelantándonos a lo que viene posteriormente, es
+ la clave principal para protegernos, según los expertos.
+Hay determinadas señales que pueden mostra
+rnos que estamos siendo víctimas de este tipo de ataques. Esto nos daría ese tiempo necesario para n
+o caer en problemas, para no terminar siendo víctima.
+
+Según indican desde FireEye lo normal es que 
+haya tres días de margen entre los primeros signos del ransomware hasta que definitivamente es ejecu
+tado. Ahora bien, ¿cómo se detectan estas primeras fases? Algo fundamental es el acceso inicial. Las
+ medidas de seguridad, los propios usuarios analizando la red, pueden detectar acceso remoto externo
+ como el RDP de Windows, archivos adjuntos o enlaces de Phishing. En definitiva, vectores de acceso 
+inicial.
+Detectar ese primer acceso, esas primeras señales, es la mejor respuesta para poder mitigar
+ el impacto y que no vaya a más.
+Pero no solo hay que tener en cuenta esto. La fase de ejecución tam
+bién es una etapa temprana que puede ser controlable. El ataque aún puede ser bloqueado y evitar que
+ termine afectando a los usuarios. Por ejemplo cuando los usuarios han sido engañados para que hagan
+ clic en algún enlace, descarguen algún archivo o ejecuten algo.
+En definitiva, detectar en una etap
+a temprana un ataque de ransomware es lo más efectivo para evitar ser víctimas. Una vez el ataque se
+ ha completado y ha tenido éxito, lo cierto es que revertir el problema es complicado. Algunas de la
+s variedades de ransomware cuentan con herramientas de descifrado disponibles gratuitamente en la re
+d. Sin embargo otras muchas no tienen esta opción o tardan meses en que estén disponibles. Por tanto
+ esto se convierte en un problema grave para usuarios particulares y empresas que son víctimas de es
+tas amenazas.
+Os dejamos un amplio artículo donde damos consejos para protegerse del ransomware. Un 
+recopilatorio por lo más importante.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+De Rusia con "Amor" para todo el mundo meno
+s Rusia. #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Mirror Shielding y Data Engrams: la última línea de defensa 
+contra el #ransomware
+http://ow.ly/P8uI50BuP31 #ciberseguridad
+
+/ ~ 4AC5DDE2 ~ /
+
+Los ciberdelincuen
+tes siempre andan buscando nuevas fórmulas, incluso observan las de sus compañeros para realizar los
+ ataques a sus víctimas. En esta ocasión, ha sido lo segundo y se han inspirado en la banda Ragnar L
+ocker. Así con su ransomware Maze, al igual que los anteriores, han utilizado una máquina virtual pa
+ra cifrar por completo los ordenadores y pedir el típico rescate de los ransomware.
+   El antecedent
+e del ransomware Ragnar Locker
+En mayo de este año, Shophos alertó sobre la presencia del ransomware
+ Ragnar Locker que cifraba a través de de máquinas virtuales VirtualBox Windows XP para eludir el so
+ftware de seguridad en el host final. Esa máquina virtual monta las unidades de un host como recurso
+s compartidos remotos, después, ejecuta el ransomware en una máquina virtual para cifrar los archivo
+s del recurso compartido. Debido a que la máquina virtual no está ejecutando ningún software de segu
+ridad y está montando las unidades del host, el software de seguridad del host no puede detectar el 
+malware y bloquearlo. Este ataque se inicia creando primero una carpeta de herramientas que incluye 
+VirtualBox, un mini disco virtual de Windows XP llamado micro.vdi y varios ejecutables y scripts par
+a preparar el sistema. Luego también, cuenta con el archivo vrun.bat, que montará cada unidad compar
+tida, la cifrará y luego pasará a la siguiente unidad compartida con la máquina virtual.
+
+Como ya he
+mos explicado antes, el software de seguridad que se ejecuta en el host de la víctima no detecta el 
+ejecutable del ransomware en la máquina virtual, y seguirá ejecutándose y cifrando los archivos. En 
+el momento que finalice, la víctima encontrará una nota de rescate personalizada que explica que su 
+empresa ha sido atacada y sus archivos encriptados por completo.
+El ransomware Maze y su uso de las 
+máquinas virtuales
+Todo comienza cuando Shopos, atendiendo la incidencia de un cliente, descubrió qu
+e el ransomware Maze había intentado implementar su ransomware dos veces. Sin embargo, gracias a la 
+función Intercept X de Sophos fue bloqueada. La máquina virtual utilizada por Maze estaba ejecutando
+ Windows 7, mientras que la del Ragnar Locker como mencionamos antes, era de Windows XP. La investig
+ación también reveló los siguientes datos:
+
+Encontraron varios scripts de instalación gracias los cu
+ales se pudo descubrir su forma de actuación.
+Se descubrió que los atacantes habían pasado días crea
+ndo listas de direcciones IP dentro de la red del objetivo. Para ello, utilizaron uno de los servido
+res de controlador de dominio del objetivo, y exfiltraron datos de Mega.nz.
+
+
+Los ataques con el ran
+somware Maze empezaron mediante el uso de archivos por lotes e hicieron varios intentos por cifrar l
+as máquinas en la red. A continuación, como no consiguieron su objetivo, crearon tareas programadas 
+para ejecutar el ransomware basados en:
+
+Windows Update Security.
+Windows Update Security Patches.
+A
+ctualización de seguridad de Google Chrome.
+
+Sin embargo, gracias a que se activaron las proteccione
+s de comportamiento Cryptoguard de Intercept X, esas cargas del ransomware Maze se capturaron y se p
+usieron en cuarentena en máquinas protegidas antes de que pudieran causar daños. Los atacantes, como
+ había fracasado en sus dos primeros intentos, entonces optaron por un enfoque más radical.
+En el te
+rcer ataque, Maze implementó un archivo MSI que instaló el software VirtualBox VM en el servidor jun
+to con una máquina virtual personalizada de Windows 7. En el disco raíz de ese disco virtual tenemos
+ tres archivos asociados con el ransomware Maze:
+
+preload.bat
+vrun.exe
+payload (sin extensión de arc
+hivo), que es la carga útil real de Maze DLL.
+
+Luego con la máquina virtual ya iniciada, el ransomwa
+re Maze, se ejecutaría un archivo por lotes llamado startup_vrun.bat que prepara la máquina con los 
+ejecutables de Maze.
+
+A continuación, la máquina se apaga y, una vez que se reinicia de nuevo, ejecu
+tará vrun.exe para cifrar los archivos del host. Debido a que el cifrado se realiza en las unidades 
+montadas del host, el software de seguridad no pudo detectar el comportamiento y detenerlo.
+Comparat
+iva de ransomware Maze respecto a Ragnar Locker
+Los investigadores de SophosLabs señalan que el rans
+omware Maze es más costoso de implementar en términos de tamaño de disco en comparación con el de Ra
+gnar Locker. Aquí tenemos una tabla en el que se puede apreciar esto:
+
+Ragnar Locker se implementó d
+entro de una máquina virtual Oracle VirtualBox Windows XP. La carga útil del ataque fue un instalado
+r de 122 MB con una imagen virtual de 282 MB. En cambio, los atacantes del ransomware Maze adoptaron
+ un enfoque diferente utilizando una máquina virtual con Windows 7. Esto provocó que aumentase signi
+ficativamente el tamaño del disco virtual, pero también le agregó algunas funciones nuevas. En este 
+caso pasamos a un instalador de 733 MB y a un disco duro virtual de 1.90 GB. Para finalizar, como ha
+bréis podido apreciar, los creadores del ransomware Maze han utilizado técnicas similares a las de o
+tros ciberdelincuentes como los de Ragnar Locker.
+  
+
+/ ~ 4AC5DDE2 ~ /
+
+El tiempo es vital para prot
+egernos de un ataque ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Ojo quienes usen Virtual Box: ransomware usa máqu
+inas virtuales
+
+/ ~ 4AC5DDE2 ~ /
+
+Un fallecido en un hospital alemán por culpa de un #ransomware. La
+ #ciberseguridad en el ámbito sanitario es especialmente importante...
+
+/ ~ 4AC5DDE2 ~ /
+
+Los operad
+ores de ransomware de Bitcoin liberan datos robados de residentes de EE. UU.
+
+/ ~ 4AC5DDE2 ~ /
+
+Un n
+uevo grupo de piratería que ataca a empresas rusas con ransomware. La banda de ransomware cuyo nombr
+e en código es "OldGremlin" posiblemente es un actor de amenazas de habla rusa, la cual ha estado de
+trás de nueve campañas entre mayo y agosto. 
+#BackTrackAcademyNews
+
+/ ~ 4AC5DDE2 ~ /
+
+A medida que l
+os ataques de ransomware  contra la infraestructura crítica continúan aumentando en los últimos mese
+s, los investigadores de ciberseguridad han descubierto un nuevo participante que ha estado tratando
+ activamente de realizar ataques de múltiples etapas en grandes redes corporativas de laboratorios m
+édicos, bancos, fabricantes y desarrolladores de software en Rusia.La banda de ransomware, cuyo nomb
+re en código es «OldGremlin» y se cree que es un actor de amenazas de habla rusa, ha estado vinculad
+a a una serie de campañas al menos desde marzo, incluido un ataque exitoso contra un laboratorio de 
+diagnóstico clínico que ocurrió el mes pasado el 11 de agosto.«El grupo se ha dirigido solo a empres
+as rusas hasta ahora, lo que era típico de muchos adversarios de habla rusa, como  Silence  y  Cobal
+t , al comienzo de su camino delictivo», dijo la firma de ciberseguridad de Singapur Group-IB en un 
+informe publicado hoy y compartido con The Hacker News.«Usando Rusia como campo de pruebas, estos gr
+upos luego cambiaron a otras geografías para distanciarse de las acciones viciosas de la policía del
+ país víctima y disminuir las posibilidades de terminar entre rejas».El modus operandi de OldGremlin
+ implica el uso de puertas traseras personalizadas, como TinyNode y TinyPosh para descargar cargas ú
+tiles adicionales, con el objetivo final de cifrar archivos en el sistema infectado utilizando el ra
+nsomware TinyCryptor (también conocido como decr1pt) y mantenerlo como rehén por aproximadamente $ 5
+0,000.Además, los operadores ganaron un punto de apoyo inicial en la red mediante un correo electrón
+ico de phishing enviado en nombre del Grupo RBC de Rusia, un importante grupo de medios con sede en 
+Moscú, con «Factura» en el asunto.El mensaje informó al destinatario de su incapacidad para comunica
+rse con el colega de la víctima con respecto al pago de una factura urgente junto con un enlace mali
+cioso para pagar la factura que, al hacer clic, descargó el malware TinyNode.Al encontrar su camino,
+ el actor malicioso utilizó el acceso remoto a la computadora infectada, aprovechándolo para moverse
+ lateralmente a través de la red a través de Cobalt Strike y recopilar datos de autenticación del ad
+ministrador del dominio.En una variante diferente del ataque observado en marzo y abril, se descubri
+ó que los ciberdelincuentes utilizaban  señuelos de phishing con temática de COVID  para empresas fi
+nancieras que se hacían pasar por una organización de microfinanzas rusa para entregar el troyano Ti
+nyPosh.Posteriormente, se detectó una ola separada de la campaña el 19 de agosto, cuando los ciberde
+lincuentes enviaron mensajes de spear-phishing explotando las  protestas en curso en Bielorrusia  de
+nunciando al gobierno, demostrando una vez más que los actores de amenazas son expertos en capitaliz
+ar los eventos mundiales para su beneficio.En total, OldGremlin ha estado detrás de nueve campañas e
+ntre mayo y agosto, según Group-IB.«Lo que distingue a OldGremlin de otros actores de amenazas de ha
+bla rusa es su valentía para trabajar en Rusia», dijo Oleg Skulkin, analista forense digital senior 
+de Group-IB.«Esto indica que los atacantes están afinando sus técnicas beneficiándose de la ventaja 
+de jugar en casa antes de globalizarse, como fue el caso de Silence y Cobalt, o son representantes d
+e algunos de los vecinos de Rusia que tienen un fuerte dominio del ruso».Fuente: https://thehackerne
+ws.com/2020/09/russian-ransomware-hack.html
+
+/ ~ 4AC5DDE2 ~ /
+
+Es el momento para detener el ransomw
+are con protección basada en IA con #Acronis. Conoce más aquí: https://bit.ly/3kB8Hi9
+
+/ ~ 4AC5DDE2 
+~ /
+
+#MovistarEsNoticia Ransomware de nueva generación, más peligroso que nunca @ImpactoTIC @dsespit
+ia @MovistarEmpCo https://impactotic.co/las-empresas-en-la-mira-de-secuestro-extorsivo-de-la-informa
+cion/…
+
+/ ~ 4AC5DDE2 ~ /
+
+El tiempo, la principal defensa para evitar la amenaza del ransomware
+
+/ ~
+ 4AC5DDE2 ~ /
+
+"La nueva era del #ransomware"
+
+Nuestro CSA Diego Espitia (@dsespitia) explica cómo e
+stá evolucionando este tipo de ciberataques y los sistemas de seguridad que deben implementar las em
+presas para prevenirlos en este artículo para @ImpactoTIC
+
+/ ~ 4AC5DDE2 ~ /
+
+Eso teniendo cuenta que
+ en internet existen cursitos de ciberseguridad. Es lamentable que tengan que suceder cosas como est
+as para que recién se tomen cartas en el asunto de prevención de ciberataques. No olvide que hace un
+os años el RANSOMWARE generó consecuencias similares.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+Los atacantes det
+rás del ransomware LockBit Bitcoin han liberado algunos de los datos robados de una empresa con sede
+ en EE. UU. Llamada Skyline, que organiza ferias comerciales y exposiciones, según el Telegram "Info
+rmation Leaks". canal. Medios de comunicación informes no mencionó si la compañía había pagado el re
+scate para recuperar los datos o los fondos involucrados. 
+Se publicaron 182.719 archivos en total q
+ue, según se dijo, contenían escaneos de pasaportes y formularios de cuentas bancarias de residentes
+ en los EE. UU. No está claro si estos residentes eran empleados o visitantes profesionales de la em
+presa. 
+Los operadores de LockBit, que exigen un rescate en BTC a los usuarios que desean recuperar 
+sus datos, propagan el virus pirateando configuraciones de escritorio remoto no seguras, phishing sp
+am con archivos adjuntos maliciosos, botnets, exploits, anuncios maliciosos, inyección de código, ac
+tualizaciones falsas e instaladores infectados. El ransomware también puede eludir el control de cue
+ntas de usuario.
+Además, este ransomware a menudo se dirige a empresas y usuarios comerciales con se
+de en los Estados Unidos, pero también ha afectado a usuarios en Alemania, Francia y China. Además, 
+el McAfee  La base de datos GTI de Global Threat Intelligence compartió la propagación global del vi
+rus LockBit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Frente a un ataque hay determinadas señales que pueden 
+mostrarnos que estamos siendo atacados. Esto nos daría ese tiempo necesario para no caer en problema
+s, para no terminar siendo víctima. #territoriociberseguro #ciberseguridad #ransomware
+
+/ ~ 4AC5DDE2
+ ~ /
+
+
+Bitdefender ha celebrado un evento virtual que hemos podido seguir en directo, para presentar
+ un interesante informe «10 in 10» que nos pone sobre la pista de la situación actual del segmento d
+e la ciberseguridad a nivel mundial y de las amenazas presentes y futuras a las que se enfrentan emp
+resas y usuarios.
+Bitdefender «10 in 10» ha sido realizado tras completar una encuesta global que re
+coge la visión, retos y preocupaciones sobre ciberseguridad de cerca de 7.000 responsables de tecnol
+ogía y seguridad de compañías de todos los tamaños y sectores, incluyendo 526 españoles. 
+MS Recomie
+nda
+
+Estudio sobre ciberseguridad en la empresa española ¡Participa en nuestra encuesta y gana!
+
+
+
+E
+studio "La virtualización en las empresas españolas" ¡Descárgate el informe!
+
+
+
+Gestiona los disposi
+tivos de tu empresa de forma inteligente Leer
+
+
+
+El estudio se llevó a cabo en mayo de 2020 y recoge
+ las opiniones de miles de profesionales de IT de Reino Unido, EE. UU., Australia, Nueva Zelanda, Al
+emania, Francia, Italia, España, Dinamarca y Suecia que trabajan en empresas de distintos sectores y
+ tamaños, desde pequeñas empresas con 100 empleados hasta otras que cotizan en bolsa y dan empleo a 
+más de 10.000 personas. El 23% de los encuestados son CISO y CIO en sus organizaciones. El resto son
+ analistas de seguridad IT, directores de seguridad, etc., pero todos con poder de decisión sobre el
+ presupuesto y la estrategia de seguridad de sus empresas.
+Liviu Arsene, Senior Threat Analyst de Bi
+tdefender, ha adelantado lo que está por llegar en materia de seguridad informática y los datos no s
+on buenos: «2020 ha sido un año de cambios, para el mundo en general y para la industria de segurida
+d en particular. Este sector está evolucionando rápidamente para adaptarse a una nueva normalidad qu
+e viene definida por un incremento del teletrabajo y la aparición de nuevas amenazas. Entre estas úl
+timas se encuentra la guerra cibernética, que ya se ha convertido en una gran preocupación para las 
+empresas y la economía, a pesar de que no todo el mundo está preparado para afrontarla. 
+El ejecutiv
+o también ha destacado amenazas más tradicionales con las que los profesionales de la seguridad info
+rmática han tenido que lidiar como el ransomware como «estrella» presionando a la tecnología mundial
+. La parte positiva del estudio es que los profesionales de la ciberseguridad son conscientes de los
+ riesgos, de la necesidad de reforzar sus defensas y de las medidas a implementar.
+Bitdefender «10 i
+n 10», principales conclusiones
+
+Ciberguerra:
+– El 68% de los responsables de seguridad españoles (6
+3% a nivel global) cree que la guerra cibernética supone una amenaza para sus empresas.
+– Sin embarg
+o, el 30% de ellos no tiene o no sabe si su empresa tiene una estrategia para mitigar este riesgo.
+–
+ Un problema ya que la mitad de los responsables de la seguridad de la información españoles (49%) e
+stá de acuerdo en que el aumento de ataques relacionados con la ciberguerra supondrá un perjuicio re
+al para la economía en los próximos 12 meses.
+– El 51% y el 48%, respectivamente de CISO y profesion
+ales de Infosec a nivel global, aseguran que necesitarán disponer una estrategia contra la guerra ci
+bernética en los próximos 12 a 18 meses.
+Ransomware:
+– Un 44% de los responsables de seguridad españ
+oles dice que está observando un incremento de los ataques de ransomware y un 57% (63% a nivel globa
+l) espera que durante los próximos meses este tipo de ataques siga creciendo.
+– Un 47% de los encues
+tados españoles (42% a nivel global) piensa que es posible que un ataque de ransomware pueda acabar 
+con su negocio en los próximos 12 a 18 meses si no se incrementa la inversión en seguridad para evit
+arlo.
+– El 47% de los encuestados españoles (50% a nivel global) está convencido de que su empresa p
+agaría el rescate para evitar la publicación de sus datos.
+– En cuanto a las causas del aumento de l
+os ataques de ransomware, algunos encuestados sugieren que se debe al teletrabajo, lo que convierte 
+a estos empleados en un objetivo más fácil al permanecer fuera de la protección del sistema corporat
+ivo.
+Comunicación entre equipos:
+– El 53% de los profesionales de seguridad de la información españo
+les (51% a nivel global) cree que para revertir esta realidad y conseguir aumentar la inversión que 
+se destina a sus proyectos es necesario dar un giro drástico a su comunicación.
+– Este porcentaje au
+menta hasta el 55% entre los CISO y CIO a nivel global, profesionales que cuentan, en gran medida, c
+on presencia en los consejos de dirección de sus organizaciones.
+– Un 41% de los encuestados español
+es piensa que es fundamental mejorar la comunicación con la alta dirección de sus compañías para log
+rar que comprenda mejor los riesgos a los que está expuesto el negocio.
+– Un 37% (41% a nivel global
+) cree que es importante hacer hincapié en la comunicación a empleados y clientes.
+– Finalmente, un 
+36% afirma que es necesario emplear un lenguaje menos técnico si lo que se pretende es que todo el m
+undo entienda bien tanto los riesgos como las formas de estar protegido.
+Falta de talento:
+– Un 39% 
+de los españoles (43% a nivel global) considera que sus empresas se están viendo afectadas por la es
+casez de personal especializado.
+– El 28% de los CISO y CIO a nivel global consideran que si el défi
+cit de talento continúa durante otros cinco años, es muy probable que acabe afectando a la supervive
+ncia de las empresas.
+– Igualmente, un 50% de los directores de IT y seguridad a nivel global piensa
+n también que este es un problema que puede llegar a ser muy perjudicial para la evolución del negoc
+io.
+Diversidad:
+. El 55% de los encuestados españoles (52% a nivel global) considera que en el secto
+r de la ciberseguridad, aparte de talento, falta también diversidad, algo que supone una preocupació
+n para ellos.
+– En este sentido, un 36% de los profesionales españoles (40% a nivel global) coincide
+ en afirmar que para ser eficaz, el sector de la ciberseguridad debería ser un reflejo de la socieda
+d a la que intenta proteger.
+– Así, un 82% de los encuestados españoles (un 72% a nivel global) pien
+sa que es necesario ampliar el conjunto de habilidades de los profesionales de la seguridad, para ha
+cerlo más diverso.
+– Finalmente, el 41% de los profesionales de seguridad españoles (39% a nivel glo
+bal) dice que añadir neurodiversidad servirá para fortalecer las defensas de ciberseguridad cibernét
+ica. Otro 38% (34% a nivel global) está convencido de que una fuerza laboral más neurodiversa servir
+á para nivelar el campo de juego en el que se lucha contra los malos.
+¿Qué hacer en este escenario?
+
+«Lo único que sabemos con certeza es que el panorama de la seguridad va a seguir evolucionando. Segu
+irán los cambios, pero ahora podemos trabajar para que sean para bien. Para afrontar la nueva realid
+ad con éxito es necesario que este sector comience a comunicar de una forma más accesible, en la que
+ todo el mundo entienda lo que se está diciendo. De esta forma, seguramente se incrementará el apoyo
+ e inversión necesarios dentro de las empresas. Además, para derrotar a los malos tenemos que empeza
+r a cerrar el déficit de talento de una manera diferente, enfocándonos en la diversidad de los equip
+os y, más específicamente, en la neurodiversidad», explica el Senior Threat Analyst de Bitdefender.
+
+No cabe duda. Nos queda mucho por hacer en materia de ciberseguridad comenzando por los propios depa
+rtamentos empresariales y profesionales que combaten a los «malos». Más información | Bitdefender «1
+0 in 10».
+
+
+
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+“Todos sus archivos se han cifrado.” Esta es una frase que esperam
+os no vea nunca en su pantalla. Descubra los pasos prácticos que hay que dar para desarrollar una de
+fensa sólida multicapa frente a #ransomware en este kit gratuito de #Veeam.
+
+/ ~ 4AC5DDE2 ~ /
+
+¿Sabí
+as que el #ransomware es una de las 5 principales amenazas a nivel de #ciberseguridad?
+
+Hoy te conta
+mos qué es exactamente y cómo funciona este tipo de #ciberataque con esta  infografía.
+
+#Ciberconsej
+o #Miércoles #Ataques #Seguridad
+
+/ ~ 4AC5DDE2 ~ /
+
+La compañía Luxottica confirmó este martes haber
+ sido afectada por un ataque de ransomware que los ha obligado a cerrar sus operaciones en Italia y 
+China por el momento.
+
+https://buff.ly/2RUrMPM
+#RayBan #Ciberataque #Ransomware #Luxottica #Cyberatt
+ack #infoSecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+El tiempo, la principal defensa para evitar la amenaza del rans
+omware https://redeszone.net/noticias/seguridad/tiempo-vital-ataque-ransomware/…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Delitos informáticos: ¿Cómo protegerte? 
+
+El ransomware es un ciberdelito que consiste en el "secues
+tro de datos" mediante programas o archivos que dañan tus equipos. En este video te contamos más det
+alles y cómo evitar ser víctima.
+
+/ ~ 4AC5DDE2 ~ /
+
+Un nuevo grupo de piratería que ataca a empresas
+ rusas con ransomware
+#hack #ciberseguridad #CyberSecurity #ITsecurity #ITservices #Ransomware
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Descubren un nuevos ataques de múltiples etapas en grandes redes corporativas de labor
+atorios médicos, bancos, fabricantes y desarrolladores de software. #Hacking #Ransomware #CyberSecur
+ity #vulnerabilities #ciberseguridad https://bit.ly/2ZXegiX
+
+/ ~ 4AC5DDE2 ~ /
+
+Una mujer fallece en 
+un hospital alemán durante ataque de ransomware.
+Podría tratarse de la primera muerte derivada de un
+ #ciberataque.
+La ciberseguridad será una de las prioridades tecnológicas de los próximos años.
+http
+s://theverge.com/2020/9/17/21443851/death-ransomware-attack-hospital-germany-cybersecurity…
+#ciberse
+guridad #health
+
+/ ~ 4AC5DDE2 ~ /
+
+Los #analistas #MTR de @Sophos descubren cómo los #ciberdelincuen
+tes de #Maze adoptan la técnica de máquina virtual de #RagnaLocker
+https://news.sophos.com/es-es/202
+0/09/18/los-ciberdelincuentes-de-maze-adoptan-la-tecnica-de-maquina-virtual-de-ragnar-locker/…
+
+vía 
+@SophosIberia #ciberseguridad #ransomware #Maze #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Acabo de saber que un
+a empresa aqui en Afta, fue atacada por un ransomware. Lamentablemente no tengo mayor info cc @1ZRR4
+H
+
+/ ~ 4AC5DDE2 ~ /
+
+Un #ransomware en un centro hospitalario hizo que muriera una mujer que necesit
+aba cuidados intensivos
+
+#ciberataque #seguridad #salud
+https://technologyreview.es/s/12647/una-pers
+ona-fallece-causa-de-un-ciberataque-por-primera-vez-en-la-historia…
+
+/ ~ 4AC5DDE2 ~ /
+
+Hackers alema
+nes acusados de homicidio involuntario tras un ataque ransomware - RedUSERS
+
+/ ~ 4AC5DDE2 ~ /
+
+
+A me
+dida que los ataques de ransomware  contra la infraestructura crítica continúan aumentando en los úl
+timos meses, los investigadores de ciberseguridad han descubierto un nuevo participante que ha estad
+o tratando activamente de realizar ataques de múltiples etapas en grandes redes corporativas de labo
+ratorios médicos, bancos, fabricantes y desarrolladores de software en Rusia.
+La banda de ransomware
+, cuyo nombre en código es «OldGremlin» y se cree que es un actor de amenazas de habla rusa, ha esta
+do vinculada a una serie de campañas al menos desde marzo, incluido un ataque exitoso contra un labo
+ratorio de diagnóstico clínico que ocurrió el mes pasado el 11 de agosto.
+«El grupo se ha dirigido s
+olo a empresas rusas hasta ahora, lo que era típico de muchos adversarios de habla rusa, como  Silen
+ce  y  Cobalt , al comienzo de su camino delictivo», dijo la firma de ciberseguridad de Singapur Gro
+up-IB en un informe publicado hoy y compartido con The Hacker News.
+«Usando Rusia como campo de prue
+bas, estos grupos luego cambiaron a otras geografías para distanciarse de las acciones viciosas de l
+a policía del país víctima y disminuir las posibilidades de terminar entre rejas».
+El modus operandi
+ de OldGremlin implica el uso de puertas traseras personalizadas, como TinyNode y TinyPosh para desc
+argar cargas útiles adicionales, con el objetivo final de cifrar archivos en el sistema infectado ut
+ilizando el ransomware TinyCryptor (también conocido como decr1pt) y mantenerlo como rehén por aprox
+imadamente $ 50,000.
+Además, los operadores ganaron un punto de apoyo inicial en la red mediante un 
+correo electrónico de phishing enviado en nombre del Grupo RBC de Rusia, un importante grupo de medi
+os con sede en Moscú, con «Factura» en el asunto.
+
+El mensaje informó al destinatario de su incapaci
+dad para comunicarse con el colega de la víctima con respecto al pago de una factura urgente junto c
+on un enlace malicioso para pagar la factura que, al hacer clic, descargó el malware TinyNode.
+Al en
+contrar su camino, el actor malicioso utilizó el acceso remoto a la computadora infectada, aprovechá
+ndolo para moverse lateralmente a través de la red a través de Cobalt Strike y recopilar datos de au
+tenticación del administrador del dominio.
+En una variante diferente del ataque observado en marzo y
+ abril, se descubrió que los ciberdelincuentes utilizaban  señuelos de phishing con temática de COVI
+D  para empresas financieras que se hacían pasar por una organización de microfinanzas rusa para ent
+regar el troyano TinyPosh.
+Posteriormente, se detectó una ola separada de la campaña el 19 de agosto
+, cuando los ciberdelincuentes enviaron mensajes de spear-phishing explotando las  protestas en curs
+o en Bielorrusia  denunciando al gobierno, demostrando una vez más que los actores de amenazas son e
+xpertos en capitalizar los eventos mundiales para su beneficio.
+En total, OldGremlin ha estado detrá
+s de nueve campañas entre mayo y agosto, según Group-IB.
+«Lo que distingue a OldGremlin de otros act
+ores de amenazas de habla rusa es su valentía para trabajar en Rusia», dijo Oleg Skulkin, analista f
+orense digital senior de Group-IB.
+«Esto indica que los atacantes están afinando sus técnicas benefi
+ciándose de la ventaja de jugar en casa antes de globalizarse, como fue el caso de Silence y Cobalt,
+ o son representantes de algunos de los vecinos de Rusia que tienen un fuerte dominio del ruso».
+Fue
+nte y redacción: thehackernews.com
+CompartirCompartirTweetCompartir
+
+/ ~ 4AC5DDE2 ~ /
+
+En general, s
+i primero usas malwares para tener acceso a un host y luego lanzar el payload (carga util - Ransomwa
+re), y si tiene características de propagación por lo segmentos de la red, es más que eficiente. Al 
+menos este usa puestas traseras personalizadas para x servicio.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+  Los ciberdeli
+ncuentes siempre andan buscando nuevas fórmulas, incluso observan
+  las de sus compañeros para reali
+zar los ataques a sus víctimas. En esta
+  ocasión, ha sido lo segundo y se han inspirado en la banda
+ Ragnar Locker. Así
+  con su ransomware Maze, al igual que los anteriores, han utilizado una máquina
+
+  virtual para cifrar por completo los ordenadores y pedir el típico rescate de
+  los ransomware.
+
+
+El antecedente del ransomware Ragnar Locker
+
+      En mayo de este año,
+      Sophos
+      alertó so
+bre la presencia del ransomware Ragnar Locker que cifraba a
+      través de de máquinas virtuales Vi
+rtualBox Windows XP para eludir el
+      software de seguridad en el host final. Esa máquina virtual
+ monta las
+      unidades de un host como recursos compartidos remotos, después, ejecuta el
+      ra
+nsomware en una máquina virtual para cifrar los archivos del recurso
+      compartido. Debido a que 
+la máquina virtual no está ejecutando ningún
+      software de seguridad y está montando las unidade
+s del host, el software
+      de seguridad del host no puede detectar el malware y bloquearlo. Este
+
+      ataque se inicia creando primero una carpeta de herramientas que incluye
+      VirtualBox, un 
+mini disco virtual de Windows XP llamado micro.vdi y varios
+      ejecutables y scripts para prepara
+r el sistema. Luego también, cuenta con
+      el archivo vrun.bat, que montará cada unidad compartid
+a, la cifrará y
+      luego pasará a la siguiente unidad compartida con la máquina virtual. Como ya 
+hemos explicado antes, el software de seguridad que se
+    ejecuta en el host de la víctima no detec
+ta el ejecutable del ransomware en
+    la máquina virtual, y seguirá ejecutándose y cifrando los arc
+hivos. En el
+    momento que finalice, la víctima encontrará una nota de rescate
+    personalizada q
+ue explica que su empresa ha sido atacada y sus archivos
+    encriptados por completo.
+    El ransom
+ware Maze y su uso de las máquinas virtuales
+    Sophos, atendiendo la incidencia de un
+    cliente,
+ descubrió que el ransomware
+    Maze
+    había intentado implementar su ransomware dos veces. La má
+quina virtual utilizada
+    por Maze estaba ejecutando Windows 7, mientras que la del Ragnar Locker 
+como
+    mencionamos antes, era de Windows XP. La investigación también reveló los
+    siguientes da
+tos:
+    
+
+        Encontraron varios scripts de instalación gracias los cuales se pudo
+        desc
+ubrir su forma de actuación.
+      
+
+        Se descubrió que los atacantes habían pasado días crean
+do listas de
+        direcciones IP dentro de la red del objetivo. Para ello, utilizaron uno
+       
+ de los servidores de controlador de dominio del objetivo, y exfiltraron
+        datos de Mega.nz.
+ 
+     
+
+
+      Los ataques con el ransomware Maze empezaron mediante el uso de archivos
+      por lot
+es e hicieron varios intentos por cifrar las máquinas en la red. A
+      continuación, como no consi
+guieron su objetivo, crearon tareas programadas
+      para ejecutar el ransomware basados en:
+    
+
+
+Windows Update Security.
+Windows Update Security Patches.
+Actualización de seguridad de Google Chrom
+e.
+En
+    el tercer ataque, Maze implementó un archivo MSI que instaló el software
+    VirtualBox VM
+ en el servidor junto con una máquina virtual personalizada de
+    Windows 7. En el disco raíz de es
+e disco virtual tenemos tres archivos
+    asociados con el ransomware Maze:
+    
+preload.bat vrun.ex
+e  payload (sin extensión de archivo), que es la carga útil real de Maze DLL. 
+
+    Luego con la máq
+uina virtual ya iniciada, el ransomware Maze, se
+    ejecutaría un archivo por lotes llamado startup
+_vrun.bat que prepara la
+    máquina con los ejecutables de Maze.
+   
+    A continuación, la máquina
+ se apaga y, una vez que se reinicia
+    de nuevo, ejecutará vrun.exe para cifrar los archivos del h
+ost. Debido a que
+    el cifrado se realiza en las unidades montadas del host, el software de
+    se
+guridad no pudo detectar el comportamiento y detenerlo.
+    Comparativa de ransomware Maze respecto 
+a Ragnar Locker
+    El ransomware Maze
+    es más costoso de implementar en términos de tamaño de di
+sco en comparación
+    con el de Ragnar Locker. Aquí tenemos una tabla en el que se puede apreciar
+ 
+   esto:
+   
+    Ragnar Locker se implementó dentro de una máquina virtual Oracle
+    VirtualBox Win
+dows XP. La carga útil del ataque fue un instalador de 122 MB
+    con una imagen virtual de 282 MB. 
+En cambio, los atacantes del ransomware
+    Maze adoptaron un enfoque diferente utilizando una máqui
+na virtual con
+    Windows 7.Esto provocó que aumentase significativamente el tamaño del disco
+    v
+irtual, pero también le agregó algunas funciones nuevas. En este caso
+    pasamos a un instalador de
+ 733 MB y a un disco duro virtual de 1.90 GB. Para
+    finalizar, como habréis podido apreciar, los 
+creadores del ransomware Maze
+    han utilizado técnicas similares a las de otros ciberdelincuentes 
+como los
+    de Ragnar Locker. Fuente: RedesZone 
+
+
+Enviar esto por correo electrónicoBlogThis!Compa
+rtir en TwitterCompartir en Facebook
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#ciberseguridad El ransomware Maze, enc
+ripta tu PC usando máquinas virtuales
+
+/ ~ 4AC5DDE2 ~ /
+
+• Aunque muchas amenazas estaban relacionad
+as con la pandemia, algunas tenían sus propias motivaciones. Por ej., el ransomware y los ataques di
+rigidos a los dispositivos IoT y a OT no han disminuido, sino que están evolucionando para ser más s
+ofisticados https://haycanal.com/noticias/14980/ciberdelincuencia-y-pandemia…
+
+/ ~ 4AC5DDE2 ~ /
+
+Con
+tinuando con el reto de enfrentar el #ransomware detalles de algunas estrategias para defender y ant
+icipar esta amenaza. Comparte con tus colegas!!! #CiberLideraXgo
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Mientras realiz
+aban una investigación sobre un ataque en julio en el que los atacantes intentaron, repetidamente in
+fectar computadoras con Maze ransomware, los analistas de Managed Threat Response (MTR) de Sophos de
+scubrieron que los atacantes habían adoptado una técnica iniciada anteriormente por los ciberdelincu
+entes detrás de Ragnar Locker, en el que la carga útil del ransomware se distribuyó dentro de una má
+quina virtual (VM).
+En el incidente de Maze, los ciberdelincuentes distribuyeron la carga útil de ci
+frado de archivos del ransomware en el disco duro virtual de la máquina virtual (un archivo de image
+n de disco virtual VirtualBox (.vdi)), que se entregó dentro de un archivo de instalación .msi de Wi
+ndows de más de 700 MB en tamaño. Los atacantes también incluyeron una copia de hace 11 años simplif
+icada del hipervisor VirtualBox dentro del archivo .msi, que ejecuta la VM como un dispositivo “head
+less”, sin una interfaz de cara al usuario.
+
+La máquina virtual entregada por Maze ejecutaba Windows
+ 7, a diferencia de la VM con Windows XP distribuida en el incidente de Ragnar Locker. Una búsqueda 
+de amenazas a través de datos de telemetría indicó inicialmente que los atacantes pueden haber estad
+o presentes en la red del objetivo del ataque durante al menos tres días antes de que el ataque come
+nzara en serio, pero el análisis posterior reveló que los atacantes habían penetrado en la red al me
+nos seis días antes de la entrega de la carga útil del ransomware.
+La investigación también reveló v
+arios scripts de instalación que revelaron las tácticas de los atacantes, y descubrió que los atacan
+tes habían pasado días preparándose para lanzar el ransomware creando listas de direcciones IP dentr
+o de la red del objetivo, utilizando uno de los servidores de controlador de dominio del objetivo y 
+exfiltrando datos al proveedor de almacenamiento en la nube Mega.nz.
+Los actores de la amenaza inici
+almente exigieron un rescate de 15 millones de dólares. La víctima no pagó el rescate.
+Cómo ocurrió 
+el ataque
+El análisis posterior realizado por el equipo de MTR reveló que los atacantes organizaron 
+el ataque utilizando archivos por lotes e hicieron múltiples intentos de cifrar malintencionadamente
+ las máquinas en la red. La primera iteración de cargas útiles de ransomware se copió en la raíz de 
+la carpeta %programdata%, utilizando los nombres de archivo enc.exe, enc6.exe y network.dll. Luego, 
+los atacantes crearon tareas programadas que lanzarían el ransomware con nombres basados ​​en varian
+tes de Windows Update Security o Windows Update Security Patches.
+El ataque inicial no produjo el re
+sultado deseado. Los atacantes hicieron un segundo intento, con una carga útil de ransomware llamada
+ license.exe, lanzada desde la misma ubicación. Pero antes de lanzarlo, ejecutaron un script que des
+habilitó la función de monitoreo en tiempo real de Windows Defender.
+
+Luego, los ciberdelincuentes, 
+una vez más, ejecutaron un comando que crearía una tarea programada en cada ordenador en el que habí
+an copiado la carga útil license.exe, esta vez llamada Actualización de seguridad de Google Chrome, 
+y la configuraron para que se ejecutara una vez a la medianoche (en la zona horaria local de los equ
+ipos infectados).
+
+Estas detecciones indican que las cargas útiles de ransomware se capturaron y se 
+pusieron en cuarentena en máquinas protegidas por productos de terminales de Sophos antes de que pud
+ieran causar daños. Los analistas de Sophos comenzaron a ver detecciones que indicaban que el malwar
+e estaba activando las protecciones de comportamiento Cryptoguard de Intercept X. En este caso, Cryp
+toguard estaba impidiendo que el malware encriptara archivos al interceptar y neutralizar las API de
+ Windows que el ransomware intentaba usar para encriptar el disco duro.
+Entonces, los atacantes deci
+dieron intentar un enfoque más radical para su tercer intento.
+Máquina virtual armada
+Los ciberdelin
+cuentes de Maze entregaron los componentes del ataque para el tercer ataque en forma de un archivo d
+e instalación .msi. Dentro de .msi había un instalador para las versiones de 32 y 64 bits de Virtual
+Box 3.0.4. Esta versión se remonta a 2009 y todavía lleva la marca del entonces editor, Sun Microsys
+tems.
+El .msi también contenía un disco virtual de 1.9GB (sin comprimir) llamado micro.vdi, que a su
+ vez contenía una partición de arranque de Windows 7 SP1, y un archivo llamado micro.xml que contení
+a información de configuración para el disco duro virtual y la sesión.
+La raíz de ese disco virtual 
+contenía tres archivos asociados con el ransomware Maze: preload.bat, vrun.exe y un archivo llamado 
+payload (sin extensión de archivo), que es el payload real de Maze DLL.
+El archivo DLL tenía un nomb
+re interno diferente para sí mismo.
+
+El archivo preload.bat (que se muestra a continuación) modifica
+ el nombre del ordenador de la máquina virtual, genera una serie de números aleatorios para usar com
+o nombre y une la máquina virtual al dominio de red de la red de la organización víctima usando una 
+línea de comandos WMI.
+
+Al parecer, la máquina virtual fue configurada de antemano por alguien que s
+abía algo sobre la red de la víctima, porque su archivo de configuración (“micro.xml”) mapea dos let
+ras de unidad que se utilizan como unidades de red compartidas en esta organización en particular, p
+resumiblemente así puede cifrar los archivos en esos recursos compartidos, así como en la máquina lo
+cal. También crea una carpeta en C: \ SDRSMLINK \ y comparte esta carpeta con el resto de la red.
+En
+ algún momento (no está claro cuándo y cómo, exactamente, lo logró), el malware también escribe un a
+rchivo llamado startup_vrun.bat. Encontramos este archivo en C:\users\Administrator\AppData\Roaming\
+Microsoft\Windows\Start Menu\Startup, lo que significa que es un mecanismo de persistencia que se ba
+sa en el reinicio de la computadora antes de que los atacantes lancen el malware.
+La secuencia de co
+mandos copia los mismos tres archivos que se encuentran en la raíz del disco de la máquina virtual (
+los archivos binarios vrun.exe y la DLL de carga útil, y la secuencia de comandos por lotes preload.
+bat) en otros discos, luego emite un comando para apagar el ordenador inmediatamente. Cuando alguien
+ vuelve a encender apagar el ordenador, el script ejecuta vrun.exe.
+
+La ubicación de la carpeta C:\S
+DRSMLINK\, creada cuando el archivo .msi se ejecuta por primera vez, actúa como una cámara de compen
+sación para carpetas específicas que el malware desea rastrear. Está lleno de enlaces simbólicos (en
+laces simbólicos, similares a los accesos directos de Windows) a carpetas en el disco duro local.
+
+L
+a conexión de Ragnar Locker
+La técnica utilizada en el tercer ataque es completamente diferente a la
+s utilizadas antes por los ciberdelincuentes detrás de Maze, pero los investigadores lo reconocieron
+ de inmediato porque el equipo que respondió a este ataque de Maze es el mismo equipo que respondió 
+al ataque de ransomware Ragnar Locker, donde esta técnica fue vista por primera vez.
+En un ataque an
+terior, Ragnar Locker también implementó una máquina virtual en un intento de eludir las medidas de 
+protección
+En un informe anterior de Sophos sobre Ragnar Locker, escribimos que “El ransomware Ragna
+r Locker se implementó dentro de una máquina virtual Oracle VirtualBox Windows XP. La carga útil del
+ ataque fue un instalador de 122 MB con una imagen virtual de 282 MB en su interior, todo para ocult
+ar un ejecutable de ransomware de 49 kB”. MITRE ha añadido esta técnica a su marco ATT & CK.
+Los ata
+cantes de Maze adoptaron un enfoque ligeramente diferente, utilizando una máquina virtual con Window
+s 7 en lugar de XP. Esto aumentó significativamente el tamaño del disco virtual, pero también agrega
+ algunas funciones nuevas que no estaban disponibles en la versión de Ragnar Locker. Los ciberdelinc
+uentes incluyeron un instalador de VirtualBox y la unidad virtual de VM armada dentro de un archivo 
+llamado pikujuwusewa.msi. Luego, los atacantes utilizaron un script por lotes llamado starter.bat. P
+ara lanzar el ataque desde dentro de la VM.
+La máquina virtual (VM) que Sophos extrajo del ataque Ma
+ze muestra que esta VM (más nueva) está configurada de tal manera que permite la fácil inserción de 
+otro ransomware en la máquina “constructora” del atacante. Pero el costo en términos de tamaño es si
+gnificativo: el disco virtual Ragnar Locker tenía solo una cuarta parte del tamaño del disco virtual
+ de casi 2GB utilizado en el ataque Maze, todo solo para ocultar un ejecutable ransomware de 494 KB 
+de la detección.
+
+
+
+ 
+Ragnar Locker
+Maze
+
+
+MSI installer
+122 MB
+OracleVA.msi
+733 MB
+pikujuwusewa.msi
+
+
+
+Virtual Disk Image (VDI)
+282 MB
+micro.vdi
+1.90 GB
+micro.vdi
+
+
+Ransomware binary in VDI
+49 KB
+vrun
+.exe
+494 KB
+payload
+
+
+
+ 
+Los ciberatacantes también ejecutaron los siguientes comandos en el ordenad
+or host durante el ataque Maze:
+cmd /c msiexec /qn /i \\<machine-hosting-malware>\frs\pikujuwusewa.m
+si
+Esto ejecutó el instalador de Microsoft que instala VirtualBox y el disco duro virtual.
+C:\Window
+s\System32\cmd.exe /C sc stop vss
+Detiene el servicio Volume Shadow Copy, el propio ransomware inclu
+ye un comando para eliminar las instantáneas existentes.
+C:\Windows\System32\cmd.exe /C sc stop sql
+
+Detiene los servicios SQL para asegurarse de que pueden cifrar cualquier base de datos.
+C:\Windows\S
+ystem32\cmd.exe /C taskkill /F /IM SavService.exe
+Intenta detener los servicios de protección de end
+points de Sophos (no lo consigue).
+C:\Windows\System32\cmd.exe /C sc start VBoxDRV
+Finalmente, inici
+an el servicio VirtualBox y lanzan la VM.
+¿El futuro del ransomware?
+Los ciberdelincuentes de Maze h
+an demostrado ser expertos en la adopción de técnicas que otras bandas de ransomware demostraron ten
+er éxito, incluido el uso de la extorsión como medio para obtener el pago de las víctimas. A medida 
+que los productos de protección para endpoints mejoran su capacidad para defenderse del ransomware, 
+los atacantes se ven obligados a realizar un mayor esfuerzo para evitar esas protecciones.
+Los produ
+ctos de punto final de Sophos detectan componentes de este ataque como Troj/Ransom-GAV o Troj/Swrort
+-EG. Los indicadores de compromiso se pueden encontrar en el Github SophosLabs.
+Contar con una soluc
+ión de protección Endpoint debidamente configurada, es uno de los métodos más eficaces para proteger
+se contra los ataques de ransomware de esta clase. Asiste a nuestro webinar para descubrir las mejor
+es prácticas para detener el Ransomware. Regístrate aquí.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+No te quedes en negro 
+protégete con nosotros.
+#ciberseguridad #ciberseguridadencasa #hacker #seguridadencasa #ransomware
+
+
+/ ~ 4AC5DDE2 ~ /
+
+En Alemania, más precisamente en el Hospital Universitario de Dusseldorf, se produ
+jo la primer muerte como consecuencia de un #ciberataque de ransomware.
+
+Si queres conocer la histor
+ia, te dejo el siguiente link:
+
+/ ~ 4AC5DDE2 ~ /
+
+Aviso de Seguridad
+El ransomware "Maze" descubiert
+o en 2019 está utilizando un nuevo método para cifrar archivos de un dispositivo sin que pueda ser d
+etectado por sistemas de seguridad. Esto lo realiza usando el método del ransomware “Ragnar Locker”.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+El #ransomware #Maze  encripta tu PC  usando máquinas virtuales 
+
+#ciberataque #
+ciberseguridad #malware #ataque
+
+/ ~ 4AC5DDE2 ~ /
+
+Los #analistas #MTR de @Sophos descubren cómo los
+ #ciberdelincuentes de #Maze adoptan la técnica de máquina virtual de #RagnaLocker https://news.soph
+os.com/es-es/2020/09/18/los-ciberdelincuentes-de-maze-adoptan-la-tecnica-de-maquina-virtual-de-ragna
+r-locker/…
+vía @SophosIberia #ciberseguridad #ransomware #Maze #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+ El #r
+ansomware' se convierte en letal: un ciberataque a un hospital se cobra la vida de un paciente #cibe
+rseguridad
+ Sigue la historia en #GoHubNews https://bit.ly/gohubnews73
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+ 
+
+
+Twe
+et
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Las autoridades alemanas están investigando a un grupo de hackers por la muerte de 
+una mujer durante el viernes de la semana pasada.
+El cargo en concreto es homicidio por negligencia.
+
+La víctima fue llevada de urgencia al hospital de Dusseldorf, pero dicho establecimiento había sido
+ el blanco de un ataque ransomware.
+Como el hospital tenía serios problemas de funcionamiento la pac
+iente fue derivada a otra institución más lejana. Esto supuso unos 30 kilómetros de recorrido extra 
+y la lógica demora en la atención.
+La demora fue de una hora y la paciente murió.
+El objetivo equivo
+cado
+El ataque sobre el hospital de Dusseldorf se dio el jueves. Unos 30 servidores fueron afectados
+.
+La tragedia ocurrida es aún más terrible considerando que el objetivo de los hackers no había sido
+ el hospital, sino la Universidad Heinrich Heine, un detalle que fue evidente por el mensaje con las
+ demandas de rescate. El hospital está afiliado a la Universidad.
+Cuando la policía se comunicó con 
+los hackers y les informó que en realidad habían afectado al área de emergencias de un hospital la d
+emanda fue retirada y una clave para la liberación de los servidores fue provista.
+Debilidad
+No es l
+a primera vez que se realizan ataques ransomware a hospitales, y en la mayoría de las ocasiones esta
+s acciones son intencionales. Los criminales suelen jugar con la necesidad que tienen estas instituc
+iones de recuperarse lo más pronto posible, sabiendo que cualquier retraso puede tener graves consec
+uencias.
+Los hospitales a menudo trabajan con software antiguo porque los dispositivos que utilizan 
+son extremadamente costosos y no pueden ser renovados cada pocos años.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Cuando le
+s caiga un ransomware que no lloren.
+
+/ ~ 4AC5DDE2 ~ /
+
+¡Así se vivió Webinar!: Ransomware, brechas 
+de datos y los desafíos de seguridad aceleran la transformación digital http://ow.ly/1yID50BzsPJ
+
+/ 
+~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+La guerra contra el ransomware es real.  En los últimos años, esta forma de at
+aque se ha convertido en una amenaza válida para las empresas.  Hemos sido testigos de ataques masiv
+os que han hecho a las organizaciones multinacionales, incluso a los gobiernos, vulnerables e incapa
+ces de continuar operaciones críticas.  En 2017, WannaCry llevó departamentos de TI a hospitales de 
+toda Europa, con más de 200.000 ordenadores afectados, lo que demuestra el potencial destructivo del
+ ransomware.
+Aunque WannaCry y Petya siguen siendo los ataques de ransomware más notables, esta form
+a de ciberataque sigue aumentando, según el informe de Europol de evaluación de amenazas contra la d
+elincuencia organizada de 2019 (IOCTA).  Las organizaciones deben reconocer esta amenaza y tomar med
+idas para prepararse, defender y estar preparadas para enfrentarla.  Este es un paso esencial para e
+vitar una respuesta imprevista y posiblemente ineficaz más adelante en un incidente de ransomware.
+U
+na estrategia y una defensa de seguridad cibernética sólidas y de varias capas para abordar el ranso
+mware consta de tres elementos clave: educación, implementación y reparación.  Además, tener un enfo
+que ultrarresistente para realizar copias de seguridad, recuperar y restaurar datos es vital para pr
+oteger la continuidad del negocio en caso de un evento.
+Educar al negocio
+Desde una perspectiva educ
+ativa, se deben apuntar dos públicos principales: el personal de TI y los usuarios de la organizació
+n.  Es importante apuntar a ambos grupos, ya que ambos personajes pueden introducir amenazas.
+Los pr
+incipales puntos de entrada a un negocio para el ransomware son el Protocolo de escritorio remoto (R
+DP) u otros mecanismos de acceso remoto, phishing y actualizaciones de software.  En pocas palabras,
+ en la mayoría de los casos, los atacantes cibernéticos no tienen que trabajar tan duro como debería
+n para ganar grandes premios.  Saber que estos son los tres mecanismos principales es de gran ayuda 
+para determinar dónde invertir el mayor esfuerzo para ser resiliente desde la perspectiva del vector
+ de ataque.
+La mayoría de los administradores de TI utilizan RDP para su trabajo diario, con muchos 
+servidores RDP conectados directamente a Internet.  La realidad es que el RDP conectado a Internet d
+ebe detenerse.  Los administradores de TI pueden ser creativos en direcciones IP especiales, redirig
+ir puertos RDP, contraseñas complejas y más;  Pero los datos no mienten que más de la mitad del rans
+omware llega a través de RDP.  Esto nos dice que exponer servidores RDP a Internet no es una estrate
+gia de resistencia de ransomware de vanguardia.
+El otro modo de entrada frecuente es el correo de ph
+ishing.  Todos hemos visto correos electrónicos que no parecen correctos.  Lo correcto es eliminar e
+ste elemento.  Sin embargo, no todos los usuarios manejan estas situaciones de la misma manera.  Exi
+sten herramientas populares para evaluar el riesgo de una amenaza de phishing exitosa para una organ
+ización como Gophish y KnowBe4.  En combinación con la capacitación para ayudar a los empleados a id
+entificar correos electrónicos o enlaces de phishing, las herramientas de autoevaluación pueden ser 
+una defensa de primera línea eficaz.
+La tercera área que entra en juego es el riesgo de explotación 
+de vulnerabilidades.  Actualizar sistemas es una responsabilidad de TI ancestral que es más importan
+te que nunca.  Si bien no es una tarea glamorosa, rápidamente puede parecer una buena inversión si u
+n incidente de ransomware explotó una vulnerabilidad conocida y parcheada.  Asegúrese de mantenerse 
+actualizado con las actualizaciones de las categorías críticas de activos de TI: sistemas operativos
+, aplicaciones, bases de datos y firmware de dispositivos.  Varias cepas de ransomware, incluidas Wa
+nnaCry y Petya, se basan en vulnerabilidades descubiertas anteriormente que desde entonces se han pa
+rcheado con el software de administración de parches adecuado.
+Incluso las organizaciones que siguen
+ las mejores prácticas para evitar la exposición al ransomware están en riesgo.  Si bien la educació
+n y la capacitación en ciberseguridad es un paso fundamental, las organizaciones deben prepararse pa
+ra el peor de los casos.  Si hay algo que los gerentes de TI y de negocios deben recordar, es tener 
+algún tipo de almacenamiento de respaldo ultrarresistente.  En Veeam, defendemos la regla 3-2-1 como
+ una estrategia general de gestión de datos.  La regla 3-2-1 recomienda que haya al menos tres copia
+s de datos importantes, en al menos dos tipos diferentes de medios, con al menos una de esas copias 
+fuera del sitio.  La mejor parte es que esta regla no requiere ningún tipo de hardware en particular
+ y es lo suficientemente versátil para abordar casi cualquier escenario de falla.
+La copia «única» d
+e la estrategia 3-2-1 debe ser de alta resistencia.  Con esto nos referimos a un espacio vacío, desc
+onectado o inmutable.  Existen diferentes formas de medios en los que esta copia de datos se puede a
+lmacenar de una manera ultrarresistente.  Estos incluyen medios de cinta, copias de seguridad inmuta
+bles en almacenamiento de objetos compatible con S3 o S3, espacio libre y medios fuera de línea, o s
+oftware como servicio de copia de seguridad y recuperación ante desastres (DR).
+A pesar de estas téc
+nicas de educación e implementación, las organizaciones aún deben estar preparadas para remediar una
+ amenaza si se presenta.  En Veeam, nuestro enfoque es simple.  No pagues el rescate.  La única opci
+ón es restaurar los datos.  Además, las organizaciones deben planificar su respuesta cuando se descu
+bre una amenaza.  La primera acción es contactar al soporte.  Los clientes de Veeam tienen acceso a 
+un equipo especial con operaciones específicas para guiarlos a través del proceso de restauración de
+ datos en caso de incidentes de ransomware.  No ponga en riesgo sus copias de seguridad porque son e
+senciales para su capacidad de recuperación.
+En desastres de todo tipo, la comunicación se convierte
+ en uno de los primeros desafíos a superar.  Tenga un plan sobre cómo comunicarse con las personas a
+decuadas fuera de la banda.  Esto incluiría listas de texto grupales, números de teléfono u otros me
+canismos de uso común para alinear las comunicaciones dentro de un equipo extendido.  En este libro 
+de contactos, también necesita expertos en seguridad, respuesta a incidentes y gestión de identidade
+s, tanto internas como externas.
+Decisiones de recuperación
+También hay conversaciones sobre la auto
+ridad de toma de decisiones.  Las empresas deben decidir quién solicita la restauración o la conmuta
+ción por error antes de que algo salga mal.  Una vez que se ha tomado una decisión de reversión, las
+ organizaciones deben implementar controles de seguridad adicionales antes de volver a poner los sis
+temas en línea.  También se debe tomar una decisión sobre si recuperar una máquina virtual (VM) comp
+leta es la mejor solución o si la recuperación a nivel de archivo tiene más sentido.
+Por último, el 
+proceso de restauración en sí debe ser seguro, ejecutar análisis completos de virus y malware en tod
+os los sistemas y requerir que los usuarios cambien sus contraseñas después de la recuperación.  Si 
+bien la amenaza del ransomware es real, con la preparación adecuada, las organizaciones pueden aumen
+tar la resistencia a un incidente para minimizar el riesgo de pérdida de datos, pérdidas financieras
+ y daños a la reputación.  Un enfoque de varios niveles es esencial.  Capacite a sus equipos y emple
+ados de TI para minimizar el riesgo y maximizar la prevención.  Sin embargo, implemente soluciones p
+ara garantizar la seguridad y la copia de seguridad de los datos.  Por último, esté preparado para r
+emediar los sistemas de datos con capacidades integrales de respaldo y recuperación ante desastres s
+i fallan sus antiguas líneas de defensa.
+
+Rick Vanover, director senior de estrategia de productos, 
+Veeam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparte esto:TweetMe gusta esto:Me gusta Carga
+ndo...
+
+
+Vídeos de interes
+Error 403 The request cannot be completed because you have exceeded your 
+quota. : quotaExceeded 
+  
+
+/ ~ 4AC5DDE2 ~ /
+
+Son muchas las amenazas que podemos encontrarnos a la 
+hora de navegar por la red. Muchos tipos de malware que pueden poner en riesgo el buen funcionamient
+o de nuestros sistemas. La manera en la que pueden infectar nuestros equipos también es muy variada.
+ En este artículo nos vamos a centrar en el ransomware. Como sabemos es una de las amenazas que más 
+han aumentado en los últimos tiempos. Esto significa que pueden ser muchos los usuarios que se vean 
+afectados por este problema. Vamos a explicar cómo actúa el ransomware, cómo nos pueden infectar y, 
+lo más importante, cómo protegernos.
+   Cómo actúa el ransomware
+El ransomware es una de las amenaza
+s más peligrosas que pueden infectar nuestros equipos. Es un tipo de malware que tiene como objetivo
+ cifrar nuestros sistemas y archivos. Posteriormente pide un rescate económico para que podamos acce
+der nuevamente a esos archivos.
+Básicamente es un software malicioso que ha sido diseñado para agreg
+ar una extensión a nuestros archivos. Eso es lo que provoca que queden cifrados y únicamente podamos
+ descifrarlos a través de la clave que lo permita. Puede afectar a archivos Word, PDF, imágenes… Una
+ gran variedad.
+Normalmente nos envía un mensaje para informarnos de las instrucciones para recupera
+r el archivo. Puede que ese ransomware deje inutilizado un sistema. Al entrar podemos ver un archivo
+ de texto o una imagen donde nos indica qué debemos hacer si queremos acceder al sistema con normali
+dad.
+Para acceder a los archivos suelen pedirnos un rescate económico a cambio. Generalmente hay que
+ enviar una cantidad de dinero a una cartera de criptomonedas. Una vez el atacante ha recibido el pa
+go (aunque ojo con esto, ya que en muchas ocasiones incluso haciendo esto no podremos acceder nunca 
+al contenido) nos enviará la clave e instrucciones para descifrar el sistema.
+Hay que mencionar que 
+hoy en día existen códigos genéricos que pueden ayudarnos a descifrar algunas variedades de ransomwa
+re. Sin embargo sigue habiendo otras que en la actualidad son imposibles de descifrar.
+Cómo infecta 
+el ransomware
+El ransomware, como ocurre con la mayoría de variedades de malware que podemos encontr
+arnos, puede infectar de formas muy diversas. Vamos a explicar cuáles son las más comunes y que por 
+tanto debemos tener en cuenta para evitar.
+A través de un correo electrónico
+El correo electrónico e
+s un tipo de servicios muy utilizado en Internet. Es una manera muy utilizada por los usuarios y emp
+resas para estar en contacto con otros. Podemos enviar documentos, recibir archivos, mensajes… Ademá
+s está presente en la mayoría de plataformas.
+Ahora bien, el correo electrónico es también un medio 
+muy utilizado por los piratas informáticos para llevar a cabo sus ataques. Podemos ver cómo nuestro 
+dispositivo es infectado a través de un simple e-mail que hemos recibido. Generalmente utilizan arch
+ivos adjuntos que al abrirlos o descargarlos pueden ejecutar código malicioso.
+Estos archivos adjunt
+os pueden ser archivos de texto, PDF, una simple imagen… Son muy variados y es vital evitar descarga
+r archivos adjuntos sin conocer realmente la fuente.
+Actualizaciones falsas
+A través de las actualiz
+aciones falsas también podrían infectarnos con ransomware. Esto puede ocurrir a la hora de navegar p
+or la red. Podemos toparnos con mensajes que aparecen en el navegador y que nos indican que debemos 
+actualizar el sistema. Puede que nos aparezca un mensaje de que el equipo está en riesgo, por ejempl
+o.
+Estas actualizaciones no son más que software malicioso que ha sido creado con el fin de infectar
+ nuestro sistema. Es un ransomware oculto en actualizaciones falsas. Esto puede estar presente en cu
+alquier tipo de navegador.
+Descargas en sitios fraudulentos
+Algo similar puede ocurrir a la hora de 
+descargar software de Internet. Puede que lleguemos a un sitio que ofrece descargar software que en 
+realidad es un fraude. Este tipo de programas es posible que se puedan instalar en el equipo pero en
+ realidad estaríamos agregando malware.
+Hay que tener siempre presente la importancia de instalar so
+ftware desde fuentes legítimas. Es vital instalar desde sitios oficiales y de esta forma asegurarnos
+ de que ese software no ha sido modificado de forma maliciosa.
+Vulnerabilidades en el sistema
+Las vu
+lnerabilidades pueden provocar la entrada de malware en general. Los piratas informáticos pueden bas
+arse en errores de seguridad que hay en los dispositivos. Esto significa que tendrían vía libre para
+ introducir ransomware que ponga en riesgo el buen funcionamiento del sistema y, en definitiva, nues
+tra seguridad y privacidad.
+Especialmente el ransomware suele llegar mediante vulnerabilidades que h
+ay presentes en el sistema. Será necesario contar siempre con los últimos parches y actualizaciones 
+que eviten la entrada de malware.
+Sitios web infectados
+Puede ocurrir que un pirata informático logr
+e la manera de infectar un sitio web y redirigirnos a él. De esta forma podría distribuir malware qu
+e comprometa nuestro sistema. En este caso debemos tener cuidado y conocer en todo momento la seguri
+dad de las páginas por las que navegamos.
+
+Cómo protegernos del ransomware
+Hemos explicado cómo actú
+a el ransomware y en qué se basan los piratas informáticos para infectarnos. Ahora vamos a explicar 
+una serie de consejos importantes para protegernos. El objetivo no es otro que evitar que nuestro eq
+uipo se vea comprometido.
+Contar con herramientas de seguridad
+Un primer punto importante es el de c
+ontar con herramientas de seguridad. Vamos a necesitar tener instalado un buen antivirus para preven
+ir la entrada de malware que pueda poner en riesgo nuestro sistema. Será necesario tener por tanto s
+oftware de seguridad que nos permita realizar análisis y evitar amenazas.
+Esto es algo que debemos a
+plicar sin importar el tipo de dispositivo o sistema operativo que estamos utilizando. Todos pueden 
+ser vulnerables llegado el momento y ser víctimas de algún tipo de amenaza.
+Mantener los sistemas ac
+tualizados
+Tampoco podemos olvidarnos de mantener los sistemas actualizados. A veces surgen vulnerab
+ilidades que pueden ser aprovechadas por los piratas informáticos para llevar a cabo sus ataques. Se
+rá vital tener siempre los últimos parches y actualizaciones instalados.
+Nuevamente hay que menciona
+r que estas actualizaciones las debemos aplicar siempre, sin importar el tipo de equipo que tenemos 
+o sistema operativo que estamos utilizando. De esta forma podremos mejorar la seguridad de nuestros 
+dispositivos y no correr riesgos innecesarios.
+Descargar solo de fuentes oficiales
+Hemos visto que a
+ través de la descarga de software puede entrar malware en nuestro sistema. Por tanto vamos a aconse
+jar descargar únicamente desde fuentes oficiales. De esta forma nos aseguraremos que ese software qu
+e estamos agregando no ha sido modificado de forma maliciosa.
+Siempre que vayamos a instalar un prog
+rama, por ejemplo, debemos agregarlo desde tiendas o páginas oficiales. No importa si estamos utiliz
+ando un equipo de escritorio o un dispositivo móvil.
+Utilizar el sentido común
+Por último, aunque qu
+izás lo más importante, el sentido común. Muchas veces el ransomware llega a través de archivos adju
+ntos que recibimos en el correo, por ejemplo. Normalmente requieren de la interacción del usuario pa
+ra ejecutarse. Esto hace que sea vital el sentido común y no cometer errores que puedan poner en rie
+sgo nuestros equipos.
+Nuestro consejo es nunca descargar o abrir archivos adjuntos que recibamos en 
+nuestro e-mail. Tampoco acceder a posibles links fraudulentos que puedan poner en riesgo nuestros si
+stemas. Estos enlaces fraudulentos pueden llegar también a través de las redes sociales o incluso ap
+licaciones de mensajería instantánea como puede ser WhatsApp.
+  
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Recientemente s
+e ha detectado una nueva cepa del ransomware Thanos tiene problemas para dejar la nota de rescate en
+ los sistemas comprometidos, eso se debe a que este nuevo sobrescribir el registro de arranque maest
+ro de Windows (MBR, por sus siglas en inglés) de manera correcta. 
+
+SERVICIOS AFECTADOS:
+ • Sistema 
+operativo Windows 
+DETALLES TÉCNICOS:
+La variante de Thanos analizada intenta sobrescribir el MBR, e
+sto podría hacer que la recuperación de los archivos después de un ataque de ransomware sea más comp
+licado. Sin embargo, en este caso el código responsable de realizar dicha actividad es erróneo debid
+o a que el mensaje de rescate contiene caracteres no válidos, lo que deja el MBR de la víctima intac
+to y permitiendo que la computadora se inicie correctamente. 
+Petya ransomware tuvo anteriormente fu
+e amenaza que implemento este comportamiento en el año 2016 de manera exitosa, alterando el MBR de l
+as computadoras afectadas, para mostrar una pantalla de bloqueo junto con la nota de rescate. 
+Pese 
+a que los atacantes detrás de Thanos no pudieron sobrescribir los MBR de las computadoras comprometi
+das, dejaron la nota de rescate de manera habitual creando archivos de texto y pidiendo a las víctim
+as que paguen 20,000 dólares americanos para poder recuperarlos.
+Se cree que los atacantes obtuviero
+n acceso a las redes de los objetivos antes de que se implementaran los payloads del ransomware, ya 
+que se encontraron credenciales válidas dentro de las muestras recuperadas después del ataque.
+Los a
+tacantes utilizaron un enfoque basado en capas para entregar los payloads, con scripts de PowerShell
+ personalizados, código C# y código para enviar el ransomware localmente.
+Thanos es un ransomware co
+mo servicio (RaaS, por sus siglas en inglés), este se encuentra activo desde febrero de 2020. Por ot
+ro lado, Thanos es el primer ransomware en usar la técnica de evasión RIPlace también puede obtener 
+archivos de la computadora afectada y propagarse automáticamente entre dispositivos Windows utilizan
+do el programa PSExec.
+
+Indicadores de CompromisoIP
+107[.]174[.]241[.]175
+Hashes
+MD5: 03b76a5130d0df
+8134a6bdea7fe97bcdSHA-256: ae66e009e16f0fad3b70ad20801f48f2edb904fa5341a89e126a26fd3fc80f75
+MD5: e01
+e11dca5e8b08fc8231b1cb6e2048cSHA-256: 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c17
+1f
+MD5: 7c12a63096a6b157564dc912e62b2773SHA-256: a224cbaaaf43dfeb3c4f467610073711faed8d324c81c65579f
+49832ee17bda8
+MD5: af0e33cf527b9c678a49d22801a4f5dcSHA-256: 40890a1ce7c5bf8fda7bd84b49c577e76e0431e4
+ce9104cc152694fc0029ccbf
+MD5: 7bdd4b25e222b74e8f0db54fcfc3c9ebSHA-256: cbb95952001cdc3492ae8fd56701c
+eff1d1589bcfafd74be86991dc59385b82dMD5: d6d956267a268c9dcf48445629d2803eSHA-256: c460fc0d4fdaf5c6862
+3e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850MD5: be60e389a0108b2871dff12dfbb542acSHA-256: 5d4061570
+1c48a122e44f831e7c8643d07765629a83b15d090587f469c77693d
+
+
+Para el personal de seguridad de informaci
+ón:
+• Considerar deshabilitar PowerShell, evitando que pueda ser aprovechado por softwares malicioso
+s.
+• Mantener un protocolo estricto para realizar copias de seguridad de los activos de información 
+de mayor criticidad.
+• Mantener un protocolo de actualizaciones estricto de sistemas operativos, ant
+ivirus y todas las aplicaciones que se ejecutan en ellos.
+• Concientizar constantemente a los usuari
+os en temas relacionados a seguridad informática.
+• Mantener el conocimiento situacional de las últi
+mas amenazas y zonas vulnerables de la organización.
+• Bloquear los indicadores de compromisos (IOC)
+ mostrados, en los dispositivos de seguridad de su infraestructura.
+** Antes de realizar el bloqueo 
+de IOCs es importante que previamente en ambiente de desarrollo se valide y confirme a nivel de sus 
+servicios internos y externos, con el propósito de aplicar los cambios de manera controlada.
+** Es i
+mportante que previamente en ambiente de desarrollo se valide y confirme a nivel de los servicios, c
+on el propósito de aplicar los cambios de manera controlada.
+
+FUENTE:
+ Fuente 1: Thanos Ransomware a
+dds Windows MBR locker that fails every timeFuente 2: Equipo de Ciberinteligencia SecureSoft 
+
+
+
+
+
+
+
+
+
+
+Si usted tiene alguna pregunta no dude en contactarse con nosotros: informes@securesoftcorp.com
+C
+yber Security Operation CenterSECURE SOFT CORPORATION
+Síguenos en :
+
+Somos miembros de :
+    
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compartir esto:FacebookTwitterLinkedInImprimirMásSkypeWhatsAppPinterest 
+
+/ ~ 4AC5DDE2 ~ /
+
+El
+ ransomware Maze, encripta tu PC usando máquinas virtuales
+
+/ ~ 4AC5DDE2 ~ /
+
+@ekoparty Buenas tarde
+s! Les envío esta entrevista que le realicé a @AlbertoSaulIT  sobre #Ransomware. Desde ya, cualquier
+ observación y/o aporte son bienvenidos. Muchas gracias. Saludos.
+
+/ ~ 4AC5DDE2 ~ /
+
+Cadena de tiend
+as Luxottica de Rayban confirma #ciberataque #Ransomware #2020 #hacking
+
+/ ~ 4AC5DDE2 ~ /
+
+A princip
+ios de año hubo algunos "cuasi accidentes" en hospitales europeos por ataques de #ransomware. Recien
+temente, una mujer en cuidados intensivos murió en #Alemania tras un #ciberataque a un centro sanita
+rio
+
+#ciberseguridad #tecnología #salud
+https://technologyreview.es/s/12647/una-persona-fallece-caus
+a-de-un-ciberataque-por-primera-vez-en-la-historia…
+
+/ ~ 4AC5DDE2 ~ /
+
+El lio con esa vulnerabilidad
+ es que las posibilidades de afectación son multiples, desde Ransomware, sacar todas las credenciale
+s del AD, generar un codiciado "Golden Ticket" y dejar el AD comprometido totalmente, convertir equi
+pos en bots gracias a los permisos admin...
+
+/ ~ 4AC5DDE2 ~ /
+
+Análisis de Malware (virus, ransomwar
+e, etc) es de lo que vamos a hablar hoy.
+Te voy a enseñar una forma de analizar el archivo que sospe
+chas, sin arriesgar tu información ni tu computadora.
+De forma gratuita y a través de una web.
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Los malos no descansan. 
+Una paciente que necesitaba cuidados intensivos tuvo que ser 
+trasladada cuando los sistemas del hospital en el que se encontraba dejaron de funcionar por un ataq
+ue ransomware.
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ataque de #ransomware a #Luxottica, empresa propietaria de marc
+as como Ray-Ban, provocó la interrupción de sus operaciones por horas.
+
+fuente: @BleepinComputer
+
+ht
+tps://buff.ly/3mKXAVr
+#ciberataque #infosec #ciberseguridad #cybersecurity #cyberattack #felizmiérco
+les
+
+/ ~ 4AC5DDE2 ~ /
+
+Lo más importante de tu empresa son las bases de datos. Protégelas del secues
+tro del #ransomware Auditamos tus sistemas. Analizamos e implantamos las políticas de #seguridadinfo
+rmatica en tu empresa o despacho profesional. No corras riesgos http://ow.ly/Ug9F30fD61O
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Raros ataques de #Ransomware coordinados apuntan a negocios Rusos 
+
+https://zd.net/3iUQc7G
+
+
+ a través de @ZDNet & @campuscodi
+
+/ ~ 4AC5DDE2 ~ /
+
+Si no quieres que alguien penetre el sistema de
+ esos dispositivos para instalar malware o ransomware, más vale que asegures toda la red casera.
+
+/ 
+~ 4AC5DDE2 ~ /
+
+Siempre que trabajamos con víctimas de ransomware, pasamos algún tiempo mirando haci
+a atrás a través de nuestros registros de telemetría que abarcan la semana anterior o dos. Estos reg
+istros a veces incluyen anomalías de comportamiento que (por sí mismas) pueden no ser intrínsecament
+e maliciosas, pero en el contexto de un ataque que ya ha tenido lugar, podrían tomarse como un indic
+ador temprano de un actor de amenazas que realiza operaciones en la red de la víctima.
+
+
+Si vemos al
+guno de estos cinco indicadores, en particular, saltamos sobre ellos de inmediato. Cualquiera de est
+os encontrados durante una investigación es casi con certeza una indicación de que los atacantes han
+ hurgado: para tener una idea de cómo se ve la red y para saber cómo pueden obtener las cuentas y el
+ acceso que necesitan para lanzar un ataque de ransomware.
+
+Los atacantes utilizan herramientas de a
+dministración legítimas para preparar el escenario para los ataques de ransomware. Sin saber qué her
+ramientas utilizan normalmente los administradores en sus máquinas, fácilmente se podrían pasar por 
+alto estos datos. En retrospectiva, estos cinco indicadores representan banderas rojas de investigac
+ión.
+
+
+1. Un escáner de red, especialmente en un servidor
+
+Los atacantes suelen comenzar obteniendo 
+acceso a una máquina en la que buscan información: si se trata de una Mac o Windows, cuál es el nomb
+re del dominio y de la empresa, qué tipo de derechos de administrador tiene la computadora, etc. A c
+ontinuación, los atacantes querrán saber qué más hay en la red y a qué pueden acceder. La forma más 
+sencilla de determinar esto es escanear la red. Si se detecta un escáner de red, como AngryIP o Adva
+nced Port Scanner , pregunte al personal de administración. Si nadie intenta usar el escáner, es hor
+a de investigar.
+
+
+
+2. Herramientas para deshabilitar el software antivirus
+
+Una vez que los atacant
+es tienen derechos de administrador, a menudo intentarán deshabilitar el software de seguridad utili
+zando aplicaciones creadas para ayudar con la eliminación forzada de software, como Process Hacker, 
+IOBit Uninstaller, GMER y PC Hunter. Este tipo de herramientas comerciales son legítimas, pero en la
+s manos equivocadas, los equipos de seguridad y los administradores deben preguntarse por qué han ap
+arecido de repente.
+
+3. La presencia de MimiKatz
+
+Se debe investigar cualquier detección de MimiKatz
+ en cualquier lugar. Si nadie en un equipo de administración puede responder por el uso de MimiKatz,
+ esto es una señal de alerta porque es una de las herramientas de piratería más utilizadas para el r
+obo de credenciales. Los atacantes también usan Microsoft Process Explorer , incluido en Windows Sys
+internals, una herramienta legítima que puede volcar LSASS.exe de la memoria, creando un archivo .dm
+p. Luego pueden llevar esto a su propio entorno y usar MimiKatz para extraer de forma segura nombres
+ de usuario y contraseñas en su propia máquina de prueba.
+
+
+
+Mimikatz y los scripts de PowerShell re
+lacionados utilizados para iniciarlo, que se encuentran entre un repositorio de herramientas utiliza
+das por los actores de amenazas de ransomware Netwalker.
+
+4. Patrones de comportamiento sospechoso
+
+
+Cualquier detección que ocurra a la misma hora todos los días, o en un patrón repetido, es a menudo 
+una indicación de que algo más está sucediendo, incluso si se han detectado y eliminado archivos mal
+iciosos. Los equipos de seguridad deben preguntarse "¿por qué vuelve?" Los respondedores de incident
+es saben que normalmente significa que ha estado ocurriendo algo más malicioso que no se ha identifi
+cado (hasta ahora).
+
+5. Prueba de ataques
+
+Ocasionalmente, los atacantes implementan pequeños ataque
+s de prueba en algunas computadoras para ver si el método de implementación y el ransomware se ejecu
+tan correctamente o si el software de seguridad lo detiene. Si las herramientas de seguridad detiene
+n el ataque, cambian de táctica y vuelven a intentarlo. Esto mostrará su mano y los atacantes sabrán
+ que su tiempo ahora es limitado. A menudo, es cuestión de horas antes de que se lance un ataque muc
+ho mayor.
+
+
+Te recomendamos: 
+
+5 consejos para evitar ataques de spear-phishing
+
+Síntomas de un corr
+eo electrónico comprometido
+
+Home office de forma segura con Sophos Mobile
+
+Seguridad de la nube púb
+lica
+
+Guía de ciberseguridad para la pandemia del coronavirus
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ataque de #ran
+somware a un #hospital alemán se aprovechó de la vulnerabilidad de una red privada virtual que el ce
+ntro llevaba sin solucionar desde enero
+
+#ciberataque #Alemania #ciberseguridad #salud
+https://techn
+ologyreview.es/s/12647/una-persona-fallece-causa-de-un-ciberataque-por-primera-vez-en-la-historia…
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Nuestros conocimientos de ciberseguridad y nuestra amplia experiencia nos permiten
+ desarrollar servicios de ciberseguridad de nueva generación para proteger tu empresa.
+info@light-ey
+es.com
+
+#cyberdefence #malware #phishing #cybersecurite #ciberseguretat #teletreball #ransomware
+
+/ 
+~ 4AC5DDE2 ~ /
+
+
+
+
+Por primera vez en la historia, la muerte de una persona puede relacionarse direc
+tamente con un ciberataque. La policía ha abierto una investigación por "homicidio involuntario" des
+pués de que un ransomware interrumpiera el servicio de urgencias en el Hospital Universitario de Düs
+seldorf (Alemania).
+La víctima: los fiscales de Colonia (Alemania) afirman que una paciente de Düsse
+ldorf iba a someterse a cuidados intensivos en el mencionado hospital cuando un ataque realizado el 
+9 de septiembre inhabilitó los sistemas. Al ser imposible proporcionarle la atención médica que la p
+aciente requería, tuvo que ser trasladada a otro hospital a 30 kilómetros de distancia. La BBC infor
+ma que la policía alemana podría considerar responsables por su muerte a los hackers.
+La primera tra
+gedia: "Si se confirma, esta tragedia sería el primer caso conocido de una muerte relacionada direct
+amente con un ciberataque", aseguró el antiguo director ejecutivo del Centro Nacional de Ciberseguri
+dad de Reino Unido, Ciaran Martin, en su discurso en el Royal United Services Institute. Y añadió: "
+Aunque el propósito del ransomware es ganar dinero, también paraliza el funcionamiento de los sistem
+as. Así que, si alguien ataca un hospital, es probable que sucedan cosas como esta. Hubo algunos cua
+si accidentes en Europa a principios de año y, lamentablemente, parece que ya somos testigos de las 
+peores consecuencias".
+El negocio en auge: el ransomware es una industria criminal de miles de millo
+nes de euros. Los hackers suelen atacar a empresas, bloqueando su tecnología y robando sus datos par
+a exigir millones de euros como extorsión. Los hospitales han sido sus objetivos en muchas ocasiones
+ en el pasado y, dado que la economía criminal ha crecido tan rápidamente en los últimos años, ya ha
+bía temores de que la muerte de algún paciente fuera algo inevitable.
+El historial: en agosto, un mu
+ltimillonario plan para hackear y chantajear a Tesla llegó a los titulares cuando un empleado alertó
+ a las autoridades. Antes de eso, los piratas informáticos atacaron la empresa de tecnología estadou
+nidense Garmin durante semanas, lo que supuestamente obligó a la compañía a pagar un rescate por val
+or de unos 8,5 millones de euros.
+Un peligro mayor: existe una gran diferencia entre hackear ordenad
+ores y las vidas humanas. Ahora que la amenaza a las personas ya no es solo teórica, puede haber una
+ nueva urgencia por solucionar algunos problemas fundamentales. Las autoridades alemanas han informa
+do de que los hackers se aprovecharon de una vulnerabilidad en el software de la red privada virtual
+ Citrix que se conocía públicamente desde enero, pero que el hospital no logró solucionar.
+Resolver 
+las vulnerabilidades resulta mucho más difícil de lo que parece, especialmente en un lugar que no du
+erme nunca, como un hospital. Pero con vidas humanas en juego, está más claro que nunca que este sta
+tu quo no es aceptable.

@@ -1,0 +1,170 @@
+Você sabia que os ataques de ransomware continuam em alta e o malware mais detectado no continente a
+mericano é o Wannacry? Como você se previne deste e de outros ataques de ransomware?
+
+/ ~ 4AC5DDE2 ~
+ /
+
+alguém conhece alguma vulnerabilidade pela porta 9378? Um cliente meu abriu essa porta no rotead
+or para uma aplicação e NO OUTRO DIA o servidor tava com um ransomware.
+
+/ ~ 4AC5DDE2 ~ /
+
+Hoje vamo
+s ter o @lgrangeia, que com toda a segurança, vai falar connosco sobre Amazon Sidewalk, Facebook, Yo
+utube e fakenews, TikTok e Trump, Ransomware e como as noticias politicas aumentam stress.
+
+Começa a
+qui ao vivo às 21h30  #TTL
+@vd @BaiaVieira @igama
+
+/ ~ 4AC5DDE2 ~ /
+
+Acabei de fazer um exposed da m
+inha antiga empresa na aula sobre um ataque de ransomware que aconteceu lá
+
+/ ~ 4AC5DDE2 ~ /
+
+Gatefy
+: solução de antispam e antiphishing para empresas http://ow.ly/2esG50BzkZv
+#gatefy #startup #cibers
+eguranca #phishing #spam #malware #ransomware #bec #ti #empresas #negocios #ceo #cio #ciso #intelige
+nciaartificial #ia #aprendizadodemaquina #email #lgpd
+
+/ ~ 4AC5DDE2 ~ /
+
+Hackers atacam universidade
+s com ransomware
+Veja a matéria em: https://buff.ly/2RMqgiG
+
+/ ~ 4AC5DDE2 ~ /
+
+#RT @TugaTech: Luxott
+ica confirma ataque de ransomware em sistemas internos
+https://tugatech.com.pt/t35252-luxottica-conf
+irma-ataque-de-ransomware-em-sistemas-internos…
+
+/ ~ 4AC5DDE2 ~ /
+
+migo, meu marido é da área de seg
+urança e perguntou se vc sabe dizer qual que é o ransomware (se vc pode dar mais infos e tals, ele t
+á mapeando essas coisa, se quiser/puder vir de DM tb)
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware causa pane em ho
+spital e morte na Alemanha; ataques atingem o Brasil
+
+/ ~ 4AC5DDE2 ~ /
+
+Mds gnt já paguei alguns vír
+us na minha vida mas nunca um ransomware noss tem que ser dedicado pra pegar um desses viu
+
+/ ~ 4AC5
+DDE2 ~ /
+
+mas é muita burrice. Sério, Serra que ele não tem ideia de como um ransomware funciona?
+
+/
+ ~ 4AC5DDE2 ~ /
+
+Projeto da Universidade rastreia ataques de ransomware em infraestrutura crítica 
+
+
+http://redirectlink.minutodaseguranca.blog.br/g08
+#mindsec #minutodaseguranca #informationsecurity #
+segurancadainformacao #cybersecurity #ciberseguranca #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Então gente, é i
+sso mesmo, baixei junto com o arquivo um ransomware que é esse trem que "sequestra" todos os arquivo
+s, hoje apareceu um arquivo de texto explicando como faz pra recuperar, segundo o texto, assim que e
+u responder para e-mail lá contido, eles me mandam uma "amostra"
+
+/ ~ 4AC5DDE2 ~ /
+
+mano ransomware 
+é WACK imagina você de boa e do nada você tem que pagar pra ter seus arquivo de novo vtnc OASDUVHOS 
+vsf nem sei qq eu faria
+
+/ ~ 4AC5DDE2 ~ /
+
+¡El último NOVA News Ciberseguridad! http://cibersegurida
+d.pcnova.es/?edition_id=6be33990-fd61-11ea-80c3-0cc47a0d164b… Gracias a @sho220183 @GregoryComCo @an
+nsensi #ransomware #ciberseguridad
+
+/ ~ 4AC5DDE2 ~ /
+
+comik
+
+/ ~ 4AC5DDE2 ~ /
+
+ransomware não é um s
+er supremo não, vê qual você pegou e pesquisa no google como recupera, se for um velho ele ja é manj
+ado
+
+/ ~ 4AC5DDE2 ~ /
+
+Enfim, não estou querendo dizer que é o caso dele. Só que vi esse contexto ac
+ontecer também recente. Mas esse ransomware ai, pelo jeito tem rolado até em pdfs, arquivos de serie
+s e coisas do tipo.
+
+/ ~ 4AC5DDE2 ~ /
+
+Daniela Costa, vice-presidente para a América Latina da Arcse
+rve, aconselha cinco pontos primordiais quando o assunto é segurança
+
+Confira: https://bit.ly/3coqmq
+j
+#neotel #gocryptwithneotel #cybersecurity #gosafecloudwithneotel #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+A 
+aplicação tem alguma vulnerabilidade que daria abertura a instalação do ransomware? A porta em si nã
+o é o problema se o programa escutando nela for seguro...
+
+/ ~ 4AC5DDE2 ~ /
+
+ Uma das maiores fabric
+antes de lentes para óculos no mercado, a Italiana Luxottica, confirmou recentemente ter sido vitima
+ de um ataque de ransomware nos seus sistemas internos, e do qual se encontra a afetar a produção em
+ geral. A Luxottica é uma das maiores fabricantes de lentes no mercado, com mais de 80.000 funcionár
+ios e uma receita bruta de 9.4 mil milhões de dólares em 2019. Marcas como a Ray-Ban, Oakley, Oliver
+ Peoples, Ferrari, Michael Kors, Bulgari, Armani e Prada usam os serviços da entidade para as suas p
+róprias produções. No final da semana passada surgiram relatos de que o portal da empresa estaria in
+acessível para os parceiros, com falhas no login e do próprio site a apresentar falhas de carregamen
+to. Durante o dia de hoje, vários funcionários da empresa foram alertados via SMS que poderiam perma
+necer em casa e não necessitariam de se dirigir para os seus postos, visto que a empresa estaria a v
+erificar uma grave falha a nível de sistemas informáticos. Através do LinkedIn, poucas horas depois,
+ o executivo responsável pelo departamento de segurança digital da empresa, Nicola Vanin, confirmou 
+que a marca terá sido alvo de um ataque de ransomware, o qual terá afetado vários sistemas internos 
+da mesma e as operações regulares da entidade. Vanin afirmou que nenhuma entidade, independentemente
+ da sua dimensão, se encontra fora de possíveis ataques. No caso da empresa, foram aplicados de imed
+iato os protocolos de segurança necessários para conter a infeção e evitar que mais dados pudessem s
+er roubados ou encriptados. Até ao momento ainda se desconhece como os atacantes terão obtido acesso
+ aos sistemas da empresa, nem quais os conteúdos afetados pelo ransomware. No entanto, como costuma 
+ser o normal neste género de ataques, é possível que a informação da entidade tenha sido roubada ant
+es de ser encriptada, e que os atacantes estejam agora a ponderar publicar os conteúdos online caso 
+o pagamento do resgate não seja realizado.
+
+/ ~ 4AC5DDE2 ~ /
+
+Você sabia que os ataques de #Ransomwa
+re continuam em alta e o #Malware mais detectado no continente americano é o #Wannacry?
+
+A #NTTLtdBr
+asil explica quais são as 7 características de proteção digital para auxiliar o seu negócio.
+https:/
+/bit.ly/2ZBPWmB
+
+/ ~ 4AC5DDE2 ~ /
+
+Muerte por ransomware:
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica confirma ataq
+ue de ransomware em sistemas internos
+https://tugatech.com.pt/t35252-luxottica-confirma-ataque-de-ra
+nsomware-em-sistemas-internos…

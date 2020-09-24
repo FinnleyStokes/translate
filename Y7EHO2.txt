@@ -1,0 +1,7 @@
+AgeLocker ransomware targets QNAP NAS devices, steals data #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Finns väl 
+många vägar in för APT's med $ för ögonen? Svenska företag sägs ju vara väldigt dåliga på att inte b
+etala ransomware så marknaden har ju byggts upp ordentligt. :/

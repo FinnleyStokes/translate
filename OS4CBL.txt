@@ -1,0 +1,1291 @@
+Maze, il ransomware adesso usa le macchine virtuali per diffondersi: i dettagli https://cybersecurit
+y360.it/nuove-minacce/ransomware/maze-il-ransomware-adesso-usa-le-macchine-virtuali-per-diffondersi-
+i-dettagli/?utm_source=dlvr.it&utm_medium=twitter… cybersecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+"Se anche un big
+ come Luxottica si prende un ransomware, per i piccoli non c'è speranza".
+Un big come Luxottica avev
+a un Citrix esposto con una vulnerabilità del 2019 conosciuta e sfruttata anche dai cani. Non servon
+o SOC/NOC/SOAR se poi non patchate la merda che mettete in rete.
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco ransomwa
+re blocca Luxottica, ma la reazione è da manuale: ecco perché
+
+/ ~ 4AC5DDE2 ~ /
+
+Maze, il #ransomwar
+e adesso usa le macchine virtuali per diffondersi: i dettagli https://cybersecurity360.it/nuove-mina
+cce/ransomware/maze-il-ransomware-adesso-usa-le-macchine-virtuali-per-diffondersi-i-dettagli/…
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Maze, il ransomware adesso usa le macchine virtuali per diffondersi: i dettagli https:
+//cybersecurity360.it/nuove-minacce/ransomware/maze-il-ransomware-adesso-usa-le-macchine-virtuali-pe
+r-diffondersi-i-dettagli/… @Swascan
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Luxottica, la più grande produttrice mondial
+e di montature per occhiali da vista e da sole, è ostaggio da parte di criminali informatici. 
+Secon
+do quanto riporta l’Ansa, gli stabilimenti della produzione e della logistica di Agordo e Sedico, ne
+l bellunese, sono fermi dalle 11 di stamane a causa di un non meglio precisato “guasto al sistema in
+formatico”. 
+Fonti sindacali hanno confermato all’agenzia di stampa che i lavoratori sono stati ragg
+iunti da un SMS in cui si notifica loro che “il secondo turno di oggi 21 settembre è sospeso” a caus
+a di ” gravi problemi informatici“.
+Luxottica: ransomware dietro l’attacco? 
+Al momento non si hanno
+ notizie certe sull’attacco informatico, ma date le circostanze, si può intuire che l’azienda fondat
+a da Leonardo Del Vecchio sia vittima di un grave attacco ransomware. 
+Il ransomware è un programma 
+informatico dannoso (“malevolo”) che può “infettare” un dispositivo digitale, bloccando l’accesso a 
+tutti o ad alcuni dei suoi contenuti (foto, video, file, ecc.) per poi chiedere un riscatto da pagar
+e per “liberarli”. 
+La richiesta di pagamento, con le relative istruzioni, compare di solito in una 
+finestra che si apre automaticamente sullo schermo del dispositivo infettato. All’utente viene minac
+ciosamente comunicato che ha poche ore o pochi giorni per effettuare il versamento del riscatto, alt
+rimenti il blocco dei contenuti diventerà definitivo.
+Ransomware, imprese e cybersecurity
+La nuova g
+enerazione di attacchi ransomware colpisce i sistemi informativi delle imprese con varie azioni male
+vole e adoperando diverse componenti.
+Lo scorso giugno, la Geox, colosso italiano delle calzature, è
+ stata vittima di un importante attacco hacker ai propri sistemi. 
+Le azioni malevole possono di var
+i tipi:
+sequestro file, criptando dischi e contenuti digitali;compromissione dell’operatività stessa
+ dei sistemi colpiti, rendendoli inutilizzabili;esfiltrazione dei dati sensibili, intimandone la div
+ulgazione pubblica
+Non è non è scontato che il danno e i relativi problemi possano effettivamente ri
+solversi con il pagamento del riscatto (solitamente richiesto in criptovaluta bitcoin), che richiede
+ ogni ransomware.
+Gli attacchi informatici stanno diventando sempre più frequenti e il rischio di un
+ blocco prolungato della produzione, come sta accadendo all’azienda di Agordo, può avere effetti pes
+antissimi in termini di fatturato.
+In media, nel 2019, il costo sostenuto da ogni organizzazione col
+pita da attacchi informatici, è stato di quasi 4 milioni di euro.
+
+Per saperne di più: 
+		    Cyber
+crime 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+REPORT TREND MICROMalware e ransomware: ecco come l'Italia è sotto il tir
+o dei cybercriminaliSiamo l'ottava nazione più colpita dai malware a livello mondiale e l'undicesima
+ (nonché seconda in Europa) per quanto riguarda gli attacchi ransomware.di Gianni Rusconi(beebright 
+- stock.adobe.com)Siamo l'ottava nazione più colpita dai malware a livello mondiale e l'undicesima (
+nonché seconda in Europa) per quanto riguarda gli attacchi ransomware.17 settembre 2020Salva0Comment
+a3' di letturaSei mesi di fuoco. E il Coronavirus e tutto ciò che ne è conseguito (leggi forzata per
+manenza a casa davanti al computer) hanno sicuramente contribuito ad aumentare i rischi legati alla 
+sicurezza. L'attività dei cybercriminali durante il lockdown, come noto ed immaginabile, non si è ce
+rto fermata (anzi) ma scoprire che il nostro Paese sia fra le vittime preferite degli attacchi certo
+ non fa piacere. Stando infatti all'ultimo rapporto semestrale delle minacce informatiche “Securing 
+the Pandemic-Disrupted Workplace” realizzato da Trend Micro, che il Sole24ore.com ha visionato in an
+teprima, siamo l'ottava nazione più colpita dai malware a livello mondiale e l'undicesima (nonché se
+conda in Europa) per quanto riguarda gli attacchi ransomware. Ecco i numeri nel dettaglio.Primo seme
+stre da incuboI malware che hanno colpito l'Italia nella prima metà del 2020 sono stati poco meno di
+ sette milioni (6.955.764 per la precisione, e di questi 2.907 sono quelli catalogabili nella catego
+ria “online banking”) rispetto ai circa 228 milioni totali: in cima alla classifica svetta, si fa pe
+r dire, il Giappone con 61,6 milioni davanti a Stati Uniti (42,4 milioni) e Taiwan (11 milioni). All
+a voce ransomware, la percentuale di attacchi subiti da utenti della Penisola è del'1,33% sul totale
+ e solo la Germania, con il 18,67%, ha fatto peggio. Le minacce arrivate via mail sono state invece 
+oltre 151 milioni e di questi 107mila erano messaggi spam a tema Covid: nel mondo ci sono 17 Paesi c
+he hanno registrato numeri peggiori rispetto al nostro e il primato in questa classifica va agli Usa
+, con più di 4,5 miliardi di messaggi di posta elettronica intercettati che contenevano un virus. To
+rnando in Italia, sono stati poco più di sei milioni gli Url maligni visitati, numero che ci vale la
+ 18esima posizione nel ranking mondiale, capeggiato nell'ordine da Hong Kong, Singapore e India, con
+ 28, 19 e 18 milioni di indirizzi Internet a rischio cliccati da gennaio a giungo. Il numero di app 
+maligne scaricate nella prima metà del 2020 in Italia, infine, ha toccato quota 127.690 mentre quell
+o delle vittime da botnet si aggira intorno ai 10.600, per una classifica che ci vede al 20esimo pos
+to e “premia” al primo la Cina con oltre 392mila.LA MINACCIA DEI MALWARE NEL MONDOLoading...I numeri
+ a livello mondialeSu scala globale, Trend Micro ha bloccato nel primo semestre qualcosa come 28 mil
+iardi di minacce (27.823.212.959 il numero esatto), quasi un miliardo in più rispetto allo stesso pe
+riodo dell'anno precedente. E, dato particolarmente preoccupante, il 93% di queste minacce è arrivat
+o via mail. Il tema più utilizzato dagli attaccanti, si legge nella nota che accompagna lo studio, è
+ stato per l'appunto quello legato alla pandemia e sono circa 8,8 milioni i messaggi pericolosi e di
+rettamente legati al Covid-19 che i software della società americana hanno bloccato in sei mesi. Par
+ticolarmente diffusi sono stati anche i tentativi di truffa di tipo BEC (Business Email Compromise),
+ che hanno cercato di capitalizzare al meglio le attività in smart working introdotte da molte azien
+de negli ultimi mesi e i generici ransomware, in crescita del 45%. In forte aumento anche le vulnera
+bilità, con circa 786 avvisi pubblicati dalla Trend Micro Zero Day Initiative, il 74% in più rispett
+o alla seconda metà del 2019. In questo caso l'attenzione degli attaccanti si è indirizzata in parti
+colare sui sistemi di controllo industriali.
+
+/ ~ 4AC5DDE2 ~ /
+
+Italia in vetta alle classifiche mon
+diali per malware e ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Nuove minacce ransomware, problemi di comunicazion
+e e skill gap di competenze stanno 
+https://notiziariofinanziario.com/il-63-dei-professionisti-della
+-sicurezza-informatica-ritiene-che-la-guerra-informatica-sia-una-minaccia-per-la-loro-azienda/…
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Attacco Cyber a Luxottica: un caso da manuale di mancato patching.
+
+Un penetration te
+st costa 10k mentre un ransomware fa fallire le aziende. Ora forse è più chiaro.
+
+#redhotcyber #cybe
+rsecurity #luxottixa
+
+/ ~ 4AC5DDE2 ~ /
+
+Sondaggio: il 37% dei lavoratori ignari del ransomware, mett
+endo a rischio le aziende
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco #Ransomware a Luxottica e l’importanza della se
+curity awareness
+
+/ ~ 4AC5DDE2 ~ /
+
+Avui Jordi Iparraguirre (@jordiipa) parla del "ransomware"​, a L
+'@altraradio de @radio4_rne https://linkedin.com/pulse/jordi-iparraguirre-parla-del-ransomware-laltr
+a-r%25C3%25A0dio-cinto-niqui… . A les 12:05 i 22:05 hores.
+
+/ ~ 4AC5DDE2 ~ /
+
+#News #Sicurezza #info
+rmatica #SicurezzaInformatica, Attacco hacker Ransomware blocca luxottica, ma le difese tengono e ..
+ https://cybersecurity360.it/nuove-minacce/ransomware/attacco-ransomware-blocca-luxottica-ma-la-reaz
+ione-e-da-manuale-ecco-perche/… to keep update, rimani informato ! ;)
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco ran
+somware blocca Luxottica, ma la reazione è da manuale: ecco perché http://dlvr.it/Rh8zXP
+
+/ ~ 4AC5DD
+E2 ~ /
+
+
+
+
+
+ Proteggi i dipendenti remoti
+  Prova la protezione a livello DNS in mobilità  Prova l'a
+utenticazione a più fattori    Passport
+
+Lavora 
+liberamente 
+in sicurezza
+ 
+
+ WatchGuard Passport o
+ffre ai tuoi dipendenti la sicurezza del Private Cloud
+che consente la dematerializzazione del loro 
+workspace per lavorare liberamente in ufficio, da casa o in giro. Ciascuno dei servizi Passport offr
+e protezione persistente, sempre attiva, che viaggia con i tuoi utenti.
+ 
+
+ Autenticazione a più fat
+tori
+Autentica le persone e applica una potente autenticazione a più fattori a VPN, applicazioni clo
+ud, endpoint e altro ancora.
+ 
+
+ Protezione sempre attiva
+Proteggi gli utenti su Internet, blocca i 
+tentativi di phishing e applica la politica Web ovunque e sempre senza richiedere una VPN.
+ 
+
+ Rispo
+sta immediata
+Rispondi rilevando e arrestando malware e minacce, contenendo nel contempo ransomware 
+e canali C&C correlati.
+ 
+
+ Protezione a livello DNS per gli utenti sempre in giro
+Tieni i tuoi uten
+ti al sicuro da phishing, ransomware e altri attacchi senza richiedere una VPN.
+Provalo gratuitament
+e per 60 giorni >
+  
+Autenticazione di facile utilizzo
+direttamente dal telefono cellulare
+Nessun bi
+sogno di portarsi dietro i token - autenticati utilizzando una semplice app mobile dal tuo cellulare
+.
+Provalo gratuitamente per 60 giorni >
+
+ 
+
+
+
+ Private Cloud di Netech
+Il servizio disponibile 24 x 
+7 senza interruzioni, che consente di dematerializzare il tuo spazio di lavoro nel più avanzato e si
+curo Data Center del sud Europa.
+Prenota una visita nel Data Center >
+  Vuoi SAPERNE di più ?  Scari
+ca subito i Datasheet: Passport, DNSWatchGO e AuthPoint  Per scaricare il kit
+è sufficiente compilar
+e il modulo qui di seguito 
+
+
+ 
+ 
+Scarica i documenti WatchGuard
+
+
+
+
+
+
+
+Acconsento di ricevere comun
+icazioni periodiche a mezzo email da parte di WatchGuard e di Netech, relative a prodotti, eventi e 
+webinar WatchGuard.
+
+ 
+ Netech e WatchGuard processano i dati personali in conformità alla normativa
+ sulla Privacy e in conformità con GDPR 2016/679 - (Informativa Netech sulla privacy)( Informativa W
+atchGuard sulla privacy) 
+
+   
+
+
+Datasheet Passport
+
+
+  
+ 
+
+Datasheet DNSWatchGO
+
+
+  
+
+
+Datasheet Au
+thPoint
+
+
+  
+
+
+
+@2020 NETECH - P.Iva 02659750968 - Cap. Sociale 50.000 € - Strada 4 Palazzo A5 - 200
+57 Assago Milanofiori (Mi)
+
+
+
+
+ 
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacchi ransomware: una società di assicurazi
+oni li ha ridotti del 65% (http://securityinfo.it)
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Una donna è morta a causa di 
+un attacco informatico che ha bloccato la rete dell’ospedale di Duesseldorf, in Germania, il 10 sett
+embre. Lo riportano i media tedeschi, definendolo il primo caso di morte legato direttamente al rans
+omware, codice malevolo che blocca i computer delle vittime a scopo di ricatto. La paziente, al mome
+nto identificata come una donna che necessitava di cure mediche urgenti, è deceduta dopo essere stat
+a reindirizzata in un ospedale della città di Wuppertal, a più di 30 km dalla sua destinazione inizi
+ale, che era appunto l'ospedale universitario di Duesseldorf. La struttura non ha potuto accogliere 
+la paziente a causa di un blocco informatico ma il trasferimento è stato fatale per la donna decedut
+a in seguito al ritardo delle cure.
+
+
+
+
+
+
+
+
+Sicurezza
+
+Privacy, Garante: nel 2019 oltre ottomila tra
+ reclami e segnalazioni
+
+
+
+
+Secondo il notiziario tedesco Rtl, la banda di criminali dietro il ranso
+mware ha ritirato la sua richiesta di riscatto dopo essere stata contattata dalla polizia tedesca. H
+a anche fornito i codici per decrittare i sistemi dell’ospedale. Su di loro pende una possibile impu
+tazione per omicidio, oltre che per cybercrime. Dalle prime analisi, "l’infezione" sembra essere par
+tita da una vulnerabilità presente nei gateway di rete Citrix usati dall’ospedale, che era già stata
+ segnalata a partire da gennaio.
+
+
+
+
+
+
+
+
+Sicurezza
+
+Coronavirus, sempre piÃ¹ attacchi informatici e 
+truffe web. Ecco come evitarli
+
+
+
+
+Molti esperti in queste ore commentano con apprensione la notizia
+. “Probabilmente non è la prima morte causata da un ransomware, dato che Wannacry ha bloccato miglia
+ia di ospedali nel mondo, soprattutto nel Regno Unito, nel 2017”, dice Paolo dal Checco, esperto inf
+ormatico forense. Ma è probabilmente il primo caso riportato, dove c’è insomma un rapporto chiaro di
+ causa effetto, fino al decesso di una paziente individuata. Secondo uno studio 2019 dell’università
+ Vanderbilt, Wannacry ha indirettamente aumentato la mortalità ospedaliera contribuendo al decesso d
+i 36 persone su 10 mila casi di arresto cardiaco riportati. Gli ospedali, rallentati nella loro norm
+ale operatività per colpa del ransomware, hanno infatti impiegato più tempo del consueto nelle cure 
+e nelle diagnosi. Ad esempio, i ricercatori hanno scoperto che ci sono voluti 2,7 minuti extra perch
+é i pazienti sospettati di infarto ricevessero un elettrocardiogramma.
+
+
+
+
+
+
+
+
+Sicurezza
+
+Ransomware
+, l'attacco informatico che fa paura alle aziende: il 41% ne ha subito almeno uno nell'ultimo anno
+
+
+
+
+
+“La notizia rattrista ma non stupisce. Non è il primo caso di attacco informatico che mette in cr
+isi una struttura ospedaliera, né sarà l'ultimo”, commenta Alessio Pennasilico, tra i più noti esper
+ti di cybersecurity in Italia, membro del consiglio direttivo dell’associazione Clusit per la sicure
+zza informatica. “Per questa ragione diventa indispensabile che tutte le strutture, soprattutto di r
+ilevanza sociale, si dotino delle misure di sicurezza organizzative e tecnologiche adeguate”, contin
+ua.
+
+Il consiglio vale certo anche per gli ospedali italiani, che pure sono stati soggetti a un cres
+cendo di attacchi informatici negli ultimi mesi: ad esempio un ransomware che ha bloccato l’ospedale
+ Fatebenefratelli di Erba a dicembre scorso; idem lo Spallanzani di Roma ad aprile scorso. Di fondo,
+ i cybercriminali mirano agli ospedali e alle pubbliche amministrazioni come i Comuni perché sanno d
+i trovarli mal difesi e anche di poter causare gravi danni (e quindi di poter ottenere con facilità 
+un riscatto). Il rischio non è solo quello del ransomware, ma anche di furto di dati personali dei p
+azienti, attraverso cui è possibile compiere ulteriori ricatti e frodi. È successo anche questo al F
+atebenefratelli, dove l’attacco ha portato al furto di 35 mila radiografie.
+
+
+
+
+
+Il tuo contributo Ã
+¨ fondamentale per avere unâinformazione di qualitÃ . Sostieni il giornalismo di Repubblica.
+Abbon
+ati a Rep: 1 mese a solo 1â¬
+
+
+
+
+
+germania
+ransomware
+
+
+
+
+
+
+
+
+Â© Riproduzione riservata
+18 settembr
+e 2020
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Sarebbe stato un attacco ransomware a causare, nella giornata di ieri,
+ il blocco totale delle attività produttive di Luxottica, la più grande azienda di occhiali al mondo
+ con oltre 80.000 dipendenti e 9,4 miliardi di fatturato nel 2019.Dunque, quello che ieri era stato 
+descritto dalla stessa azienda come un “guasto al sistema informatico” che ha causato la sospensione
+ del secondo turno produttivo negli stabilimenti di Agordo e Sedico, nel bellunese, e il blocco dell
+e attività produttive in Cina, sarebbe stato in realtà un vero e proprio “tentativo mosso dall’ester
+no di entrare negli apparati informatici Luxottica”. A confermarlo, una nota del sindacato Femca-Cis
+l.La buona notizia, sempre secondo quanto riferito dalla nota sindacale, è che la chiusura preventiv
+a degli apparati informatici e la corretta configurazione dei sistemi di difesa del colosso dell’occ
+hialeria pare abbiano consentito di respingere l’attacco dei criminal hacker impedendo l’accesso e l
+a conseguente sottrazione di dati e informazioni riservati su utenti, consumatori e proprietà intell
+ettuali dell’azienda.Il malware, prontamente individuato e isolato, non avrebbe quindi causato alcun
+ danno all’infrastruttura, mentre sarebbe stata già completata l’opera di bonifica della rete di ser
+ver interessati dall’attacco informatico. Al momento, quindi, non ci sarebbe stato alcun data breach
+, mentre l’attività produttiva sta pian piano tornando alla normalità.Indice degli argomenti
+Attacco
+ ransomware a Luxottica: quale lezione da imparareLe nuove tecniche usate negli attacchi ransomwareI
+ ransomware e la nuova tendenza della doppia estorsioneAttacco ransomware a Luxottica: l’importanza 
+della security awarenessAttacco ransomware a Luxottica: quale lezione da imparareL’attacco hacker a 
+Luxottica (qualora venissero confermate le notizie diffuse finora) e il recente caso Geox confermano
+ che gli attacchi ransomware sono in aumento, probabilmente perché i criminal hacker approfittano de
+lla crisi globale per colpire reti e sistemi aziendali poco presidiati.Ce lo conferma anche Paolo Da
+l Checco, esperto di informatica forense: “questo tipo di attacchi è ormai sempre più frequente, le 
+vittime sono in genere grosse aziende con capitali rilevanti e struttura informatica complessa. Bast
+a leggere i giornali per osservare come quasi ogni giorno grossi brand e grosse realtà commerciali e
+ aziendali subiscono disservizi, mandano a casa i dipendenti, si scusano con i clienti e poi, alla f
+ine, spesso viene fuori la verità”.“Non si tratta più dei vecchi ransomware”, continua Dal Checco, “
+spesso creati da piccoli gruppi di delinquenti, pensati per vittime private o piccole aziende, spess
+o con meccanismi di diffusione, infezione e cifratura quasi automatici, basati ad esempio sull’apert
+ura di un allegato o la visita di un sito compromesso. I primi anni hanno visto protagonisti questi 
+piccoli malware, che infettavano un singolo PC, spesso di privati, bloccavano i dati rendendoli inut
+ilizzabili e chiedevano riscatti di poche centinaia di euro per permettere al proprietario di tornar
+e a sbloccare dei propri documenti. Spesso erano soluzioni embrionali, cifravano male, con chiavi no
+te, con algoritmi usati male (es. Xor con stesso pattern), lasciavano le password nella RAM, utilizz
+avano server C&C vulnerabili che, attaccati da hacker buoni, servivano poi per predisporre antidoti 
+(chiamati in genere decryptor) per tutte le vittime”.Le nuove tecniche usate negli attacchi ransomwa
+reL’analisi tecnica di Dal Checco continua segnalando che “questo nuovo tipo di compromissioni è org
+anizzato su una scala più massiccia e assimilabile a vere e proprie intrusioni informatiche, eseguit
+e in genere tramite un accesso abusivo da parte di team di cybercriminali che una volta entrati su u
+n PC o su un server procedono con metodo e dedizione a comprometterli tutti. Sono persone, non softw
+are, agiscono spesso manualmente, osservando per giorni le attività dell’azienda e cercando i docume
+nti importanti, quelli che poi verranno rubati e, infine, cifrati”.Non si tratta, dunque, di semplic
+i nuove varianti di ransomware ma di un nuovo vero e proprio modus operandi dei criminal hacker in c
+ui, ci dice ancora Dal Checco, “l’ingresso nei sistemi target avviene spesso sfruttando vulnerabilit
+à (sevizi di accesso remoto configurati male e accessibili dall’esterno, problemi sui server) o tram
+ite social engineering. Sembra che per Tesla, qualche mese fa, per tentare di entrare sulla rete alc
+uni cyber criminali abbiano tentato persino di corrompere un dipendente, pagandolo centinaia di migl
+iaia di euro, sapendo che in caso di successo, probabilmente ne avrebbero ottenuti mille volte tanto
+”.I ransomware e la nuova tendenza della doppia estorsioneIl primo problema, è proprio che da un po’
+ di tempo, i dati vengono prelevati, soprattutto quelli strategici per l’azienda come segreti indust
+riali, dati contabili e anagrafiche dei clienti, minacciando poi l’azienda di divulgarli in caso di 
+mancato pagamento del riscatto.Siamo davanti, cioè, ad una vera e propria evoluzione dei ransomware 
+che non si accontentano più di richiedere alla vittima il pagamento di un riscatto per rientrare in 
+possesso dei suoi dati, ma la minacciano con una doppia estorsione.La cifratura dei dati, quindi, è 
+il problema minore, dato che le grosse realtà hanno imparato a fare copie di sicurezza dei propri fi
+le importanti, spesso con soluzioni in grado di ripristinare singoli PC, server o persino l’intera r
+ete in poche ore.Altro problema, le cifre richieste non sono più nell’ordine di qualche centinaio di
+ euro: nei recenti attacchi si sono viste richieste di riscatto di svariati milioni di euro, addirit
+tura si può arrivare anche a diverse decine, se non centinaia.I criminal hacker, dunque, fanno leva 
+sulla divulgazione dei dati, più che sulla cifratura, sapendo che per l’azienda rendere pubblici tut
+ti i suoi “segreti” sarebbe un colpo più grande del dover impiegare qualche giorno per ripristinare 
+i sistemi, sia dal punto di vista della reputazione, sia legale. Entrerebbero in gioco, infatti, fat
+tori legati al GDPR quali rischio di data breach, notifica al Garante e agli interessati.Attacco ran
+somware a Luxottica: l’importanza della security awarenessL’attacco ransomware subito da Luxottica d
+eve dunque servire da lezione per tutte le aziende e le organizzazioni pubbliche e private.Ancora Da
+l Checco ci fa notare che “i tempi sono cambiati, devono quindi cambiare anche le contromisure, semp
+re più difficili da attuare, soprattutto perché una volta compromesso il sistema e prelevati i dati,
+ c’è poco da fare”.“Se non si hanno copie di sicurezza da qualche parte”, è la considerazione finale
+ del nostro esperto, “i dati molto raramente si recuperano: i criminali saranno anche “cattivi” ma n
+on sono ingenui, hanno ormai imparato come non lasciare tracce, come cifrare in modo corretto, silen
+zioso, permanente, a modo loro efficace”.In questo senso, anche l’analisi di quanto successo lo scor
+so anno durante l’attacco ransomware all’italiana Bonfiglioli Riduttori può essere lo spunto giusto 
+per ricordare a tutti, ancora una volta, quanto importante sia la security awareness aziendale. I te
+mpi sono maturi, ormai, affinché tutte le aziende comprendano finalmente che anche la sicurezza info
+rmatica delle proprie infrastrutture e dei dati deve diventare un asset strategico per la crescita e
+ lo sviluppo competitivo delle aziende stesse.
+@RIPRODUZIONE RISERVATA
+
+/ ~ 4AC5DDE2 ~ /
+
+Leggi il n
+uovo articolo di Security Info: Attacchi ransomware: una società di assicurazioni li ha ridotti del 
+65%
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Attacco ransomware mette in ginocchio Luxottica
+Le reti aziendali sono state
+ fuori uso per alcuni giorni.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ZEUS News - www.zeusnews.it 
+- 23-09-2020] Commenti
+La conferma è arrivata da Luxottica stessa: un attacco ransomware ha messo in
+ ginocchio le attività dell'azienda sia in Italia che in Cina.
+
+
+
+
+
+Luxottica è, a livello mondiale,
+ la maggiore azienda a produrre e vendere occhiali: dà lavoro a oltre 80.000 persone e nel 2019 ha g
+enerato 9,4 miliardi di euro di fatturato.
+
+È Luxottica che gestisce molti marchi famosi, da Ray-Ban
+ a Oakley, da Bulgari a Chanel, Prada e Armani: si capisce quindi come l'attacco si possa considerar
+e "di alto profilo".
+
+
+
+
+
+Tutto è iniziato lo scorso venerdì, quando i siti di Ray-Ban, EyeMed e alt
+ri hanno smesso di funzionare. Poi sono spariti dal web i portali di Luxottica (lasciando soltanto d
+ei laconici messaggi che indicavano attività di manutenzione in corso), e in Rete hanno preso a rinc
+orrersi le ipotesi.
+
+Martedì 22, infine, è arrivata la conferma ufficiale: Luxottica ha spiegato che
+ i sistemi informatici di Agordo e Sedico sono stati messi completamente fuori uso, tanto che i dipe
+ndenti sono stati rimandati a casa.
+
+Nicola Vanin, esperto di cyber security, è intervenuto a chiari
+re la situazione, ricordando come nessuna realtà sia mai perfettamente al sicuro dal cybercrimine pe
+r quanti sforzi si facciano ma sottolineando anche come i piani di emergenza per limitare i danni si
+ano stati immediatamente attuati.
+
+A causare tutti i problemi è stato un ransomware, che ha causato 
+la disattivazione delle reti «per alcune ore». Al momento in cui scriviamo è ancora in corso il ripr
+istino delle funzionalità, segno che i problemi causati sono stati molti.
+
+
+
+
+
+Sebbene quello appena
+ accaduto sia stato un attacco particolarmente serio, poiché è riuscito ad andare a segno e a fare d
+ei danni, Vanin ricorda come siano migliaia i tentativi analoghi cui Luxottica deve fare fronte.
+
+Ne
+l caso specifico, sebbene non ci siano indicazioni ufficiali sul mezzo usato dal ransomware per diff
+ondersi nelle reti informatiche dell'azienda, Bad Packets ipotizza che la colpa sia di un controller
+ Citrix ADX, in cui tempo fa è stata individuata una falla.
+
+La buona notizia, come comunica Vanin s
+tesso via Twitter, è che pare non esserci stata alcuna sottrazione dei dati di utenti e consumatori.
+
+
+
+
+
+
+Se questo articolo ti è piaciuto e vuoi rimanere sempre informato con Zeus News
+
+
+ti consiglia
+mo di iscriverti alla Newsletter gratuita.
+Inoltre puoi consigliare l'articolo utilizzando uno dei p
+ulsanti qui 
+sotto, inserire un commento
+(anche anonimo)
+o segnalare un refuso.
+
+© RIPRODUZIONE RISE
+RVATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+Commenti all'articolo (0)
+Inserisci un commento - anche se
+ NON sei registrato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hai a disposizione ancora  caratteri.
+        Per inserire co
+mmenti più lunghi (e senza CAPTCHA), iscriviti.
+
+
+
+
+Il tuo nome:
+
+
+
+ 
+
+La tua email:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La liberta' di parola e' un diritto inviolabile, ma nei forum di Zeus News vige un regolamento che
+ impone delle restrizioni e che l'utente e' tenuto a rispettare. I moderatori si riservano il diritt
+o di cancellare o modificare i commenti inseriti dagli utenti, senza dover fornire giustificazione a
+lcuna. Gli utenti non registrati al forum inoltre sono sottoposti a moderazione preventiva. La respo
+nsabilita' dei commenti ricade esclusivamente sui rispettivi autori. I principali consigli: rimani s
+empre in argomento; evita commenti offensivi, volgari, violenti o che inneggiano all'illegalita'; no
+n inserire dati personali, link inutili o spam in generale.
+
+
+
+
+
+
+
+
+
+
+News(12 commenti)
+
+
+
+Bambino c
+ompra un monster truck da oltre 20.000 euro su eBay
+
+
+
+
+Sicurezza(3 commenti)
+
+
+
+Duplicare una chiav
+e col microfono dello smartphone
+
+
+
+
+
+
+
+
+News(4 commenti)
+
+
+
+Da Microsoft una tastiera wireless con 
+tasto misterioso a forma di cuore
+
+
+
+
+News(2 commenti)
+
+
+
+Facebook, la vecchia interfaccia ha i gior
+ni contati
+
+
+
+
+
+
+
+ 
+News(26 commenti)
+
+
+
+Windows 10, disattivare Defender diventa impossibile
+
+
+
+
+Si
+curezza(5 commenti)
+
+
+
+Chrome, Url troncati per combattere il phishing
+
+
+
+
+
+
+E' VIETATA la riproduzi
+one dei testi e delle immagini senza l'espressa autorizzazione scritta di Zeus News.  Tutti i marchi
+ e i marchi registrati citati sono di proprietà delle rispettive società.        
+            Inform
+ativa sulla privacy.
+            I tuoi suggerimenti sono di vitale importanza per Zeus News. Contat
+ta la redazione e contribuisci anche tu a migliorare il sito: pubblicheremo sui forum le lettere piu
+' interessanti. 
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#CyberSecurity | #Maze, il #ransomware adesso usa le macchine 
+virtuali per diffondersi: i dettagli
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacchi ransomware: una società di assicura
+zioni li ha ridotti del 65%
+
+/ ~ 4AC5DDE2 ~ /
+
+In Germania una donna è morta durante attacco #ransom
+ware all'ospedale... le autorità stanno verificando se si sarebbe potuta salvare in condizioni “norm
+ali”
+
+/ ~ 4AC5DDE2 ~ /
+
+Una nuova variante di Maze, uno dei ransomware più temuti nel panorama delle
+ cyber minacce, ha appena aggiunto un’altra arma al proprio arsenale, prendendo in prestito una tecn
+ica osservata per la prima volta da un altro “competitor”, Ragnar Locker.Si tratta della distribuzio
+ne dei payload attraverso le macchine virtuali (VM). Un nuovo approccio pensato per evitare di “sbat
+tere” contro le soluzioni di difesa degli endpoint.Indice degli argomenti
+Nuova variante del ransomw
+are Maze: come riconoscerlaCome avviene l’attaccoCome difendersi dalla nuova variante del ransomware
+ MazeNuova variante del ransomware Maze: come riconoscerlaSecondo una recente ricerca, il gruppo die
+tro l’omonimo ransomware è stato osservato consegnare il malware sottoforma di una VirtualBox Disk I
+mage (una forma di file VDI). Il file VDI in sé e per sé veniva invece consegnato nascosto all’inter
+no di un file MSI, usato principalmente per l’installazione e la rimozione di programmi Windows.Per 
+assicurarsi di far funzionare la VM all’interno del network bersaglio, gli aggressori hanno utilizza
+to una vecchia copia (vecchia di almeno 11 anni!) dell’hypervisor della VirtualBox all’interno del f
+ile .msi. Questo ha permesso loro di far funzionare la VM senza far risultare presente alcuna interf
+accia utente e come applicazione affidabile, aiutando così il ransomware a nascondersi.Un vantaggio 
+amplificato dal fatto che la maggior parte delle soluzioni endpoint hanno visibilità unicamente sui 
+drive “fisici” e non sulle VM, che di solito necessitano delle loro soluzioni separate di monitoragg
+io.Questo ha permesso al ransomware di “girare” liberamente all’interno delle VM, lontano dalla port
+ata dei software e soluzioni di sicurezza.In questo modo tutti i dati sui drive e sulle macchine fis
+iche vengono sistematicamente attaccati dalla “apparentemente legittima VboxHeadless.exe, il softwar
+e di virtualizzazione di VirtualBox.
+ WHITEPAPERStrategie DevOps: perché puntare su un'infrastruttur
+a capace di gestire al meglio le applicazioni?
+ Cloud
+ DevOps
+Scarica subito
+Scarica il WhitepaperNe
+ll’ultimo attacco perpetrato con questo metodo, Maze era riuscito a nascondere il payload del suo om
+onimo ransomware all’interno di un installer di Windows 7.Il percorso scelto per questa infezione co
+nteneva sia l’installer della versione 32 bit sia di quella a 64 bit di VirtualBox 3.0.4 (una versio
+ne del 2009). E la scelta di Windows 7 non è casuale, perché anche se è vero che un installer di Win
+dows 7 è considerevolmente più “pesante” di Windows XP (la versione del sistema operativo sfruttata 
+da Ragnar Locker), questo permette agli operatori di Maze di avere un numero maggiore di funzionalit
+à.Come avviene l’attaccoÈ interessante anche notare come la fase di ricognizione prima dell’attacco 
+di Maze fosse durata almeno sei giorni.Un classico del gruppo di criminal hacker, che è solito spend
+ere giorni all’interno dei sistemi bersaglio. In questo caso avevano abusato dei loro accessi per co
+struire liste di IP dentro il network vittima utilizzando uno dei domain controller della vittima e 
+esfiltrando dati verso un cloud esterno.Una volta che il ransomware si era propagato all’interno del
+ sistema, la richiesta di riscatto recapitata alla vittima sembra sia stata di 15 milioni di dollari
+. Ma il bersaglio in questo caso si è rifiutato di pagare.Un pericolo scampato, forse, visto che Maz
+e è da annoverare tra quei gruppi di criminal hacker che hanno iniziato a utilizzare la tattica del 
+“doppio riscatto”, dove la vittima si vede ricattata dalla minaccia di un data leak nel Dark Web in 
+caso di mancato pagamento.Ad aprile, per rinforzare la validità della loro minaccia, Maze aveva crea
+to una pagina web che elencava per nome tutte le organizzazioni che erano state colpite e si erano r
+ifiutate di pagare, aggiungendo anche piccoli “campioni” dei dati in loro possesso.Le vittime, che s
+uperavano la quarantina in numero, comprendevano studi legali, ospedali, assicurazioni e istituti di
+ credito.Come difendersi dalla nuova variante del ransomware MazeLa nuova variante del ransomware Ma
+ze testimonia di come anche tra i criminal hacker l’attitudine al cambiamento e all’innovazione non 
+manca. E con il costante miglioramento delle soluzioni di protezione degli endpoint, sembra proprio 
+che anche gli aggressori abbiano cambiato marcia.In questo caso, la difesa contro un attacco così ra
+ffinato passa da un framework di sicurezza ben impostato, con diversi layer di protezione in grado d
+i “coprire” sia l’aspetto tecnologico sia quello umano.Ridurre la superfice d’attacco richiede sia l
+’impiego di attività regolari di security testing come Penetration Test, Vulnerability Assessment e 
+Network Scan, sia un sistema ben congeniato di Early warning come Cyber Threat Intelligence e Domain
+ Threat Intelligence.A questo dobbiamo aggiungere la parte “umana” dell’equazione, con attività mira
+te di training e awareness in grado di mettere i dipendenti dell’organizzazione nelle condizioni di 
+riconoscere ed evitare una minaccia.Non dobbiamo mai dimenticare, infine, che tutte le aziende sono 
+un possibile target: ogni e-mail di phishing, ogni RDP mal configurato, ogni gateway di rete vulnera
+bile o set di credenziali rubate rappresentano una porta di accesso che i criminal hacker possono sf
+ruttare per fare irruzione nei sistemi della vittima e diffondere la propria infezione ransomware.
+@
+RIPRODUZIONE RISERVATA
+
+/ ~ 4AC5DDE2 ~ /
+
+
+                    Nella prima metà del 2020 in Italia 
+sono stati intercettati 6.955.764 malware, abbastanza per rendere il nostro Paese l’ottavo più colpi
+to al mondo. Con i ransomware è andata anche peggio: nello stesso periodo il Belpaese è il secondo p
+iù bersagliato dopo la Germania, con una percentuale di attacchi del’1,33%. Resta stabile la minacci
+a del phishing, con 151.884.242 minacce recapitate via email, di cui 107.684 erano a tema COVID. È q
+uesta nei numeri la situazione fotografata dal Trend Micro 2020 Midyear Cybersecurity Report, il tra
+dizionale report semestrale delle minacce informatiche, che a questo giro s'intitola "Securing the P
+andemic-Disrupted Workplace".  Il titolo non è casuale, perché richiama a due argomenti che hanno in
+fluenzato la cyber security in tutto il mondo: la pandemia da COVID-19 e il lavoro da casa. Da una p
+arte ci sono state (e ci sono ancora) campagne i spam a tema coronavirus che hanno bersagliato gli u
+tenti. Dall'altra questi ultimi, più indifesi al di fuori del perimetro aziendale, sono stati più su
+scettibili. Il picco di aprile ormai è superato, ma i numeri delle minacce restano comunque alti. Se
+mpre a tema email, tra le minacce più gettonate ci sono state le truffe Business Email Compromise (B
+EC). Spesso questi attacchi sono mirati alla consegna di ransomware destinati a colpire le aziende: 
+le campagne in questo senso sono cresciute, con attacchi mirati che hanno minacciato la pubblicazion
+e dei dati rubati alle vittime che non hanno pagato il riscatto. Anche il malware viaggia sulla cres
+ta dell'onda. A giugno hanno toccato l'apice i malware a tema coronavirus, sfruttati non solo da sin
+goli attaccanti, ma anche da gruppi APT. 
+Gli attacchi 
+Come noto, gli attacchi sono stati orchestr
+ati sfruttando soprattutto le vulnerabilità degli endpoint e delle reti domestiche. Come si può vede
+re nell'infografica pubblicata da Trend Micro Research, la stragrande maggioranza è consistita in at
+tacchi brute force per forzare il login, il che richiama il tema dell'importanza delle password comp
+lesse e univoche.  I malware sono stati anche grandi protagonisti degli attacchi alle piattaforme di
+ collaboration, in primis Zoom. In ultimo, i cyber criminali hanno approfittato a man bassa delle vu
+lnerabilità note di Microsoft, Citrix e Pulse Secure.                
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco #ha
+cker a #Luxottica, produzione ferma e dipendenti a casa
+
+#Cybersecurity #infosecurity #Ransomware #c
+yberattacks
+
+/ ~ 4AC5DDE2 ~ /
+
+L’Italia è l'ottavo paese più colpito dai #malware a livello mondiale
+ e l'undicesimo (secondo in Europa) per quanto riguarda gli attacchi #ransomware. L’analisi del @sol
+e24ore:
+
+/ ~ 4AC5DDE2 ~ /
+
+#Emotet, il #trojanbancario, è tornato con un’azione di #email #spamming 
+contenente un allegato dannoso che lancia il payload del #trojan.
+
+L’attacco diventa ancora più peri
+colo e dannoso quando si unisce al #ransomware Ryuk.
+https://cutt.ly/8fQd3zY
+
+/ ~ 4AC5DDE2 ~ /
+
+Il r
+ansomware che ha ucciso la donna in Germania era di origine russa 
+Link all'articolo --> https://is.
+gd/BuVWIF
+
+/ ~ 4AC5DDE2 ~ /
+
+Per lavorare liberamente ovunque in sicurezza, con qualsiasi dispositiv
+o, scopri la soluzione @watchguard utilizzata dal Private Cloud @NetechSolution per l'accesso con au
+tenticazione a più fattori e il blocco di phishing, ransomware e altri attacchi. https://netech-solu
+tion.it/passport-per-lavorare-in-mobility/…
+
+/ ~ 4AC5DDE2 ~ /
+
+Italia presa di mira da malware e ran
+somware @TrendMicroRSRCH @TrendMicroItaly #COVID19 #malware #ransomware #phishing: Malware e ransomw
+are hanno bersagliato l'Italia durante il lockdown. Il phishing a tema COVID-19 è stato il veicolo d
+i infezione… http://dlvr.it/Rh9nSC
+
+/ ~ 4AC5DDE2 ~ /
+
+Per quasi 24 ore, Luxottica è stata vittima di
+ un attacco condotto con molta probabilità mediante un #ransomware che ha portato al blocco della pr
+oduzione, senza tuttavia sottrarre dati riservati.
+
+https://bit.ly/32Szi47
+#CyberSecurity #dataprote
+ction
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Nuove minacce ransomware, problemi di comunicazione e skill gap di compete
+nze stanno minando le aziende e impongono nei prossimi mesi e anni interventi concreti per affrontar
+e e debellare la criminalità informatica.
+Lo studio condotto da Sapio Research interpellando online 
+6.724 professionisti del settore sicurezza e IT, fà emergere che poco più di un quinto (22% – dato g
+lobale e ben il 32% degli esperti di sicurezza in Italia) ammette di non avere una strategia in atto
+ per mitigare questo rischio.
+Ciò è particolarmente allarmante in un periodo di sconvolgimento globa
+le senza precedenti, poiché la metà dei professionisti della sicurezza informatica (dato globale 50%
+ – Italia 53%) concorda sul fatto che l’inasprimento di una guerra informatica danneggerà l’economia
+ nei prossimi 12 mesi.
+Capire il cambiamento e saperlo attuare
+I CISO e i professionisti della sicur
+ezza informatica stanno comunque rafforzando le loro difese – con il 48% (43% dato italiano) rispett
+ivamente che ritengono di aver bisogno di una strategia contro la guerra informatica nei prossimi 12
+-18 mesi.
+Lo studio internazionale “10 in 10” di Bitdefender evidenzia, inoltre, come, nei prossimi 
+10 anni, il successo della sicurezza informatica risieda nell’adattabilità dei responsabili delle de
+cisioni in materia di sicurezza, e allo stesso tempo guarda all’ultimo decennio per vedere se sono g
+ià state apprese preziose lezioni sulla necessità di apportare cambiamenti tangibili in settori come
+ la diversità.
+In dettaglio, lo studio esplora il divario tra il modo in cui i responsabili delle de
+cisioni in materia di sicurezza e i professionisti della sicurezza informatica vedono l’attuale pano
+rama della cybersecurity e mette in evidenza i cambiamenti che sanno di dover apportare nei prossimi
+ mesi e anni.
+L’incremento delle violazioni causate dai ransomware
+Oltre all’incremento delle minacc
+e relative alla guerra informatica, una vecchia minaccia sta tornando in auge: il ransomware. Nel co
+rso di questo travagliato 2020, il ransomware ha subito un’impennata con ben il 43% (dato italiano –
+ 44%) dei professionisti della sicurezza informatica che hanno segnalato di aver rilevato un aumento
+ degli attacchi ti questa tipologia. La cosa più preoccupante è che il 70% dei CISO/CIO e il 63% di 
+tutti i professionisti della sicurezza intervistati (55% dato italiano) si aspettano un aumento degl
+i attacchi ransomware nei prossimi 12-18 mesi. Ciò è particolarmente interessante in quanto quasi la
+ metà dei CISO/CIO (49%) e poco più di due quinti dei professionisti della sicurezza informatica (da
+to globale – 42% dato italiano – 46%) temono che un attacco ransomware possa portare alla chiusura d
+ella loro attività nei prossimi 12-18 mesi se non dovessero aumentare gli investimenti nella sicurez
+za.
+Ma cosa sta provocando l’aumento degli attacchi ransomware?
+Alcuni esperti suggeriscono che sia 
+dovuto al crescente numero di persone che lavorano da remoto nelle proprie abitazioni, in questo mod
+o il dipendente, non più tutelato dal firewall aziendale, diventa un bersaglio più facile da attacca
+re. La vera causa potrebbe tuttavia essere più strettamente legata alla riscossione del riscatto. In
+fatti, più della metà dei CISO/CIO (59%) e metà dei professionisti coinvolti nell’indagine (50% dato
+ globale – 35% dato italiano) ritengono che l’azienda per cui lavorano pagherebbe il riscatto pur di
+ impedire la pubblicazione di dati/informazioni aziendali sensibili – questo comportamento rende cos
+ì gli attacchi ransomware una fonte potenzialmente molto redditizia.
+Serve una svolta radicale nelle
+ modalità di comunicazione
+Nell’ambito delle tematiche relative alla sicurezza informatica, cyberwar
+fare e ransomware sono argomenti complessi da affrontare. La difficoltà intrinseca in questi concett
+i e nei temi che in generale coinvolgono il settore, rende arduo il percorso per ottenere budget int
+erni da investire a sostegno dei progetti. Per questo motivo i professionisti del settore credono ch
+e sia necessario un cambiamento. Infatti, il 51% dei professionisti della sicurezza intervistati (da
+to italiano 54%) concorda sul fatto che, per poter aumentare gli investimenti nella sicurezza inform
+atica, il modo in cui comunicano le questioni a essa legate debba cambiare radicalmente. Questa perc
+entuale sale fino al 55% tra i CISO e i CIO – molti dei quali hanno un elevato potere decisionale al
+l’interno delle loro aziende.
+In questo contesto è quindi necessario porsi la domanda su quali siano
+ quindi i cambiamenti da apportare. Due quinti dei professionisti della sicurezza informatica (41% d
+ato globale – 38% dato italiano) ritengono che in futuro sarà necessario comunicare di più ad un tar
+get di referenti più ampio e con i clienti, in modo che tutti, sia all’interno che all’esterno della
+ società, comprendano meglio i rischi. Inoltre, il 38% (dato italiano 35%) sottolinea la necessità d
+i facilitare una migliore comunicazione con la dirigenza, soprattutto quando si tratta di comprender
+e i rischi aziendali più ampi. E infine, ma non meno importante, ben il 39% degli intervistati (dato
+ italiano 37%) ritiene che l’uso di un linguaggio meno tecnico aiuterebbe tutto il settore a comunic
+are meglio, in modo che l’intera azienda possa comprendere quali sono i rischi e come rimanere prote
+tta.
+Come sottolineato in una nota ufficiale da Neeraj Suri, Distinguished Professorship e Chair in 
+Cybersecurity della Cybersecurity alla Lancaster University: «Il motivo per cui il 63% dei professio
+nisti della sicurezza informatica ritiene che la guerra informatica sia una minaccia per la loro azi
+enda è presto detto. La dipendenza dalla tecnologia è altissima e se qualcuno dovesse togliere il Wi
+Fi in una casa o in un ufficio, nessuno sarebbe in grado di fare nulla. Questa dipendenza non c’era 
+qualche anno fa e non era così alta nemmeno qualche mese fa. Questa elevata dipendenza dalla tecnolo
+gia, non solo apre la porta ai ransomware o alle minacce che prendono di mira i dispositivi IoT a li
+vello individuale, ma anche alla guerra informatica, che può essere così catastrofica da danneggiare
+ intere economie. Ritengo che la ragione per cui quasi un quarto dei professionisti della sicurezza 
+informatica non abbia attualmente una strategia di protezione contro la guerra informatica sia proba
+bilmente l’autocompiacenza. Dal momento che non hanno subito un attacco, o non hanno visto su larga 
+scala i danni che possono essere causati, non hanno ritenuto necessario investire tempo per protegge
+rsi contro l’eventualità che un attacco possa colpirli».
+La neurodiversità chiave del successo nel p
+rossimo futuro
+Oltre ai radicali cambiamenti necessari nel modo in cui i professionisti della sicure
+zza informatica comunicano, c’è anche la necessità di operare un cambiamento all’interno della compo
+sizione stessa della forza lavoro. Il settore della sicurezza informatica nel suo complesso ha soffe
+rto a lungo di una carenza di competenze, e questo continua a essere un problema persistente e sempr
+e più evidente. Il 15% dei professionisti della sicurezza informatica (dato italiano – 14%) ritiene 
+che l’aspetto legato alla sicurezza informatica che aumenterà maggiormente nei prossimi 12-18 mesi s
+arà l’incremento del deficit di competenze. Se lo skill gap continuerà per altri cinque anni, il 28%
+ dei CISO e dei CIO a livello globale crede che avrà conseguenze catastrofiche per le imprese. Un’al
+tra metà dei professionisti coinvolti nella survey (50% dato globale per tutti i professionisti inte
+rvistati – 59% dato italiano) ritiene che il deficit di competenze comprometterà gravemente il setto
+re se proseguirà per i prossimi 5 anni.
+Oggi, tuttavia, è necessario qualcosa di più che il semplice
+ reclutamento di esperti qualificati per portare un effettivo cambiamento e proteggere le aziende. N
+el 2015, il 52% (50% – dato italiano) dei lavoratori della sicurezza informatica avrebbero convenuto
+ che c’è mancanza di diversificazione delle competenze nella sicurezza informatica e che è fonte di 
+reale preoccupazione. Cinque anni dopo, nel 2020, questo aspetto rimane esattamente lo stesso – e qu
+esto è un problema significativo in quanto il 40% dei professionisti della sicurezza informatica (36
+% – dato italiano) affermano che l’industria della sicurezza informatica dovrebbe riflettere la soci
+età che la circonda per essere efficace. Inoltre, il 72% dei professionisti interpellati (75% – dato
+ italiano), ritiene che vi sia la necessità di una serie di competenze più diversificate tra coloro 
+che si occupano di sicurezza informatica. Questo perché il 39% dei professionisti della sicurezza in
+formatica (43% – dato italiano) dice che la neurodiversità renderà le difese della sicurezza informa
+tica più forti, e il 34% (30% – dato italiano) ha rivelato che una maggior neurodiversità della forz
+a lavoro porterà a un confronto più paritario con gli hacker.
+Se da un lato è chiaro che la carenza 
+di competenze in materia di sicurezza informatica continuerà, dall’altro è anche chiaro il motivo pe
+r cui è necessario apportare dei cambiamenti alla composizione del settore.
+A tale proposito, Liviu 
+Arsene, Global Cybersecurity Researcher di Bitdefender, fa sapere che: «Il 2020 è stato un anno di c
+ambiamenti, non solo per il mondo intero, ma anche per il mondo della sicurezza informatica. Il pano
+rama in questo settore è in rapida evoluzione e cerca di adattarsi alla nuova normalità costituita s
+ia da una forza lavoro eterogeneamente distribuita sia da nuove minacce. Tra esse, una menzione part
+icolare va alla guerra informatica. È di grande preoccupazione per le imprese e per l’economia – epp
+ure non tutti sono preparati ad affrontarla. Allo stesso tempo, i professionisti della sicurezza inf
+ormatica hanno dovuto tenere il passo con le nuove minacce provenienti da una vecchia conoscenza, il
+ ransomware, che può influenzare i profitti delle aziende se non viene gestito con attenzione».
+Semp
+re per Arsene: «L’unica cosa che sappiamo è che il panorama della sicurezza continuerà a evolversi. 
+Assisteremo a dei cambiamenti, ma ora possiamo fare in modo che questi avvengano in chiave positiva 
+e non negativa. Per avere successo nel nuovo panorama della sicurezza, il modo in cui noi, come sett
+ore, parliamo di sicurezza deve diventare più accessibile a un pubblico più ampio per ottenere suppo
+rto e investimenti dall’interno dell’azienda. Inoltre, dobbiamo iniziare a pensare di colmare il gap
+ di competenze in un modo diverso – dobbiamo concentrarci sulla diversità, e in particolare sulla ne
+urodiversità, se vogliamo mantenere la nostra posizione e alla fine debellare la criminalità informa
+tica».
+Il 63% dei professionisti della sicurezza informatica ritiene che la guerra informatica sia u
+na minaccia per la loro azienda
+ultima modifica:  2020-09-23T17:32:57+02:00 
+da Andrea M. 
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Attacco ransomware mette in ginocchio Luxottica
+
+/ ~ 4AC5DDE2 ~ /
+
+Il ransomware che ha uc
+ciso la donna in Germania era di origine russa
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Attacchi ransomware: una società
+ di assicurazioni li ha ridotti del 65%
+
+ Set 23, 2020  Marco Schiaffino
+ Gestione dati, In evidenza
+, News, Prodotto, RSS, Scenario, Tecnologia, Vulnerabilità
+ 0
+
+
+Un miracolo? No. È bastato imporre a
+i suoi assicurati l’uso di software di sicurezza per eliminare le vulnerabilità dei sistemi IT.
+A vo
+lte gli esperti di sicurezza vengono accusati di sembrare un disco rotto, soprattutto quando richiam
+ano le aziende a implementare una pianificazione nelle strategie di cyber security. Come dimostra la
+ vicenda di Corvus, però, gli esperti di sicurezza hanno ragione da vendere.
+Corvus è una società di
+ assicurazione contro i rischi cyber, un settore che ha vissuto un’ampia crescita negli ultimi anni 
+e che vede nei ransomware il maggior numero di eventi dannosi per i loro assicurati.
+Per limitare il
+ numero di incidenti ed evitare di trovarsi a dover pagare continuamente risarcimenti ai suoi assist
+iti, dalle parti di Corvus hanno pensato bene di agire in un’ottica di prevenzione, cercando di indi
+viduare il modus operandi più comune dei pirati e mettendo in campo delle contromisure per mitigare 
+il rischio di attacchi ransomware.
+
+Sorpresa: non è stato per niente difficile. Analizzando le stati
+stiche delle società di sicurezza e i documenti pubblicati da varie agenzie, emerge infatti come la 
+maggior parte degli attacchi segua uno schema piuttosto definito e che il vettore di attacco più com
+une sia l’utilizzo di collegamenti RDP (Remote Desktop) che vengono compromessi per ottenere l’acces
+so alla rete.
+Corvus ha quindi modificato le sue policy per gli assicurati prevedendo una scansione 
+di sicurezza con un software fornito dalla società stessa, chiamato Corvus Scan 2.0. Il programma co
+nsente di individuare i server RDP esposti, così come impostazioni errate o vulnerabilità a livello 
+di rete.
+Risultato: dall’introduzione delle nuove policy (lo scorso aprile) a oggi i clienti di Corv
+us hanno subito un numero di attacchi ransomware inferiore del 65% rispetto al periodo precedente.
+N
+el comunicato stampa, viene spiegato anche che i clienti che hanno adottato le nuove policy non hann
+o subito alcun attacco ransomware attraverso la violazione di sistemi RDP.
+L’elemento sconcertante è
+ che le aziende abbiano applicato una verifica della cyber security solo quando sono stati obbligati
+ a farlo dal loro assicuratore. Evidentemente c’è ancora da lavorare parecchio su quella “cultura de
+lla sicurezza” di cui gli esperti continuano a parlare.
+Condividi l'articoloTweet
+
+
+  Corvus, Marco 
+Schiaffino, Ransomware, RDP
+
+
+Un bug consente di superare il sistema di autenticazione Microsoft
+
+
+
+
+Marco Schiaffino
+
+
+
+
+
+Articoli correlati
+
+
+
+
+
+									Un bug consente di superare il sistema...    
+                                
+                                    
+
+ Set 22, 2020  0
+
+
+
+
+
+
+
+					
+				Iran: malware per Android che aggira...                                    
+                    
+                
+
+ Set 21, 2020  0
+
+
+
+
+
+
+
+									In Germania la prima morte provocata da...       
+                             
+                                    
+
+ Set 18, 2020  0
+
+
+
+
+
+
+
+								
+	Attacco BLESA ai dispositivi Bluetooth:...                                    
+                    
+                
+
+ Set 17, 2020  0
+
+
+
+
+
+
+Altro in questa categoria
+
+
+
+
+
+									I migliori trucchi 
+di phishing usati...                                    
+
+ Set 09, 2020
+ 0
+
+
+
+
+
+
+
+									Allarme Q
+Snatch: il malware ha colpito...                                    
+
+ Lug 28, 2020
+ 0
+
+
+
+
+
+
+
+						
+			WatchGuard acquisisce Panda Security:...                                    
+
+ Giu 26, 2020
+ 0
+
+
+
+
+
+
+
+
+									La cybersecurity raccontata con i...                                    
+
+ Giu 08, 202
+0
+ 0
+
+
+
+
+
+
+
+
+
+Leave a Reply Annulla rispostaDevi essere connesso per inviare un commento. 
+

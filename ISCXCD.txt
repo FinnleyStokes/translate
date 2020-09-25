@@ -1,0 +1,2886 @@
+Selon un nouveau rapport de Netwrix sur les cybermenaces, 85 % des organisations ont été victimes de
+ phishing, 50 % d’un ransomware et 46 %, d’erreurs commises par les administrateurs. 
+
+Découvrez le 
+rapport : https://bit.ly/3kFMTlp
+#cybersecurite #informatique #infosec
+
+/ ~ 4AC5DDE2 ~ /
+
+Pour préve
+nir les attaques de #ransomware, attention à ne pas oublier de protéger et surveiller les outils d’a
+dministration de systèmes !
+De @ValeryMarchive @LeMagIT
+
+/ ~ 4AC5DDE2 ~ /
+
+La bande dans tous ses ét
+ats... - Nouvel épisode du Podcast Français du Stockage avec S. Cardot @Quantum E. Gameiro @Fujifilm
+DS et J. Demeulenaere @IBM http://pn7.fr/B5F558DE #MultiCloud #AirGap #Ransomware #Tape #LTO #LTFS #
+DataManagement #ITPT @Podcast_USP @sigmaOS
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Bitcoin – “The Dark Overlor
+d”condamné à 1,5 million de dollars et 5 ans de prison https://buff.ly/3kH3vcr #bitcoin #altcoin #Cr
+yptocurrency #cryptomonnaie #cryptonews #blockchain @LeJournalDuCoin
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware B
+itcoin – “The Dark Overlord”condamné à 1,5 million de dollars et 5 ans de prison
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 18 sept. 20
+20
+
+
+ 
+Comment déterminer l’importance de la menace ? Quelques exemples épars, plus ou moins marquan
+ts, suffisent-ils à éveiller les consciences ? Rien n’est moins sûr. Mais il n’y a pas de doute : la
+ menace des rançongiciels est de plus en plus marquée.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharge
+r gratuitement ce guide
+
+
+
+
+Ransomware : La menace se fait plus ciblée
+Nul RSSI n'ignore la présence
+ de ransomware, mais beaucoup sous-estiment leur côté pernicieux et à quel point ces derniers peuven
+t être ciblés. Ce guide vous présente ce danger ainsi que les mesures pour s'en préserver.
+Start Dow
+nload
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adress
+e e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vou
+s avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entrer une adresse e-mail professio
+nnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi que la politique de confiden
+tialité et le transfert de mes informations aux États-Unis pour traitement afin de me fournir les in
+formations pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case 
+si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses p
+artenaires afin de communiquer avec moi par le biais du téléphone ou du courrier électronique et ce 
+à propos d’informations pertinentes dans mon contexte professionnel. Je peux me désinscrire à tout m
+oment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selon Ac
+yma, aux commandes du portail cybermalveillance.gouv.fr, il faut compter plus d’un millier de déclar
+ations d’attaque par ransomware – ou cryptovirus, peut-on entendre parfois – depuis le début de l’an
+née. L’Agence nationale pour la sécurité des systèmes d’information (Anssi) indique quant à elle êtr
+e intervenue sur 104 incidents depuis le début de l’année.
+De notre côté, nous avons dénombré au moi
+ns 45 incidents connus publiquement dans l’Hexagone depuis le début de l’année. Ce chiffre est d’aut
+ant plus parcellaire qu’il ne tient pas compte des plusieurs dizaines de victimes associées à la com
+promission de l’infrastructure Kaseya, d’administration à distance, de Xefi, en janvier. Rien qu’ave
+c cela, il est facile d’imaginer que le compte dépasse déjà la centaine.
+
+
+
+
+
+
+À l’échelle de la pla
+nète, les données ne sont guère plus exhaustives. Nous avons recensé ainsi près de 720 victimes reve
+ndiquées par les cybertruands depuis le début de l’année. Là, c’est la tendance, mois après mois, qu
+i impressionne : la hausse est marquée et rapide. Mais les chiffres compilés pour la fin août et le 
+début septembre peuvent être trompeurs : ils sont fortement marqués par le groupe aux commandes du r
+ansomware Conti. Ce dernier est dit lié à Ryuk, qui était plutôt discret, jusqu’ici, sur ses victime
+s. Dès lors, ce que l’on observe sur la fin de l’été traduit peut-être moins une progression explosi
+ve que l’extension de la partie visible des attaques. Toutefois, cela n’enlève rien à une tendance m
+arquée à la hausse.
+Ci-dessous, vous retrouverez notre chronologie des incidents connus en France de
+puis le début de l’année – soit à la date de survenue, soit à la date de sa révélation.
+
+
+
+
+
+
+
+
+			S
+ur le même sujet
+
+
+Cyber-adversaires et course contre la montre
+–CrowdStrike
+
+
+Rapport Thales 2020 s
+ur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Ransomware 
+: les confirmations de l’ampleur de la menace se multiplient
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Enquête su
+r la face cachée des ransomwares : les négociations
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+FIC 2020 : derrière
+ l’humain, l’utilisateur final, et surtout le citoyen
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+L’e-mail, vecteur
+ de référence d’attaques marquées par la patience
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Ransomware : les confirmations de l’ampleur de la menace se multiplient ! @LeMagIT
+ https://bit.ly/2
+RRPT1L
+
+/ ~ 4AC5DDE2 ~ /
+
+Pour prévenir les attaques de #ransomware, attention à ne pas oublier de p
+rotéger et surveiller les outils d’administration de systèmes !
+
+/ ~ 4AC5DDE2 ~ /
+
+Ne manquez pas le
+ #Webinar le 29/09 à 11h en compagnie de @Commvault : "Comment assurer la sécurisation des données e
+n cas d'attaque de type #ransomware ?" Pour vous inscrire : https://bit.ly/3g6gdP6
+#cybersécurité @G
+lobalNTT_FR
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+Afficher ce message, sur le web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+    Face Ã  une constante Ã©volution de lâutilisation du Cloud et Ã  un contexte dâattaques de p
+lus en plus frÃ©quentes, monitorer et faire Ã©voluer la sÃ©curisation des donnÃ©es constitue une pri
+oritÃ© absolue et un enjeu majeur pour les entreprises pour parer aux imprÃ©vus, garantir la disponi
+bilitÃ© et une maÃ®trise optimales des donnÃ©es.
+
+               Connaitre son niveau de prÃ©paratio
+n actuelle en termes de sÃ©curisation des donnÃ©es constitue la premiÃ¨re Ã©tape pour dÃ©terminer un
+ plan dâactions personnalisÃ© afin de permettre une reprise dâactivitÃ© et de garantir fondament
+alement la survie de lâentreprise en cas dâattaques.
+             
+
+
+
+
+
+                Au progr
+amme et grÃ¢ce Ã  notre expertise en sÃ©curitÃ©, rÃ©seau, centre de donnÃ©es et Cloud, venez dÃ©couv
+rir, en collaboration avec Commvault :
+              
+
+
+                 Comment nous pouvons vous a
+ider Ã  faire face Ã  des attaques sur vos donnÃ©es et Ã  garantir une continuitÃ© dâactivitÃ©s,
+ 
+               
+
+                  Et nos recommandations sur la sÃ©curisation des donnÃ©es au trave
+rs de bonnes pratiques stratÃ©giques, tactiques et opÃ©rationnelles.
+                
+
+
+
+           
+     PrÃªt Ã  en discuter ?
+                
+DÃ©couvrez comment nous aidons les clients Ã  assurer l
+a sÃ©curisation de leurs donnÃ©es en cas dâattaque de type Ransomware.
+
+                Rejoignez 
+nos experts lors dâun webinar sur la protection des donnÃ©es le mardi 29 septembre Ã  11 heures.
+ 
+              
+
+
+
+
+
+
+Date : 29 Septembre 
+Heure : 11h
+
+Speakers :
+
+
+
+
+
+
+
+
+Fabien Deneuville
+
+       
+                 GTM Intelligent Infrastructure
+                        DataCenter & Cloud Manager
+ 
+                     NTT France
+
+
+
+
+
+
+
+
+
+Tarik Boumaza
+Senior Sales Specialist
+                     
+ NTT France
+
+
+
+
+
+
+
+
+
+Alexandre Patti
+
+                        Partner Success
+                      
+  Desk Engineer
+                      Commvault
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+                  Cet email a Ã©tÃ© envoyÃ© par NTT France. Pour plus d'informat
+ions sur le traitement de vos donnÃ©es personnelles par NTT France, veuillez-vous reporter Ã  notre 
+dÃ©claration de confidentialitÃ© du groupe.
+                  
+DÃ©claration de confidentialitÃ©     
+    |         Conditions d'utilisation         |         Se dÃ©sabonner   
+                  
+      
+            Â© 2020 NTT Ltd France - 3 rue Saarinen, Immeuble Venise, Parc Orly Rungis, 94618 Rungis
+, France
+                
+              
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Le ransomware est l’une des attaq
+ues les plus sophistiquées et les plus redoutées des menaces actuelles.
+Forme spécialisée de malware
+, le ransomware est conçu pour crypter de force les fichiers d’une victime.
+L’attaquant exige alors 
+un paiement de la victime en échange de la clé de déchiffrement pour restaurer l’accès aux données l
+ors du paiement.
+Les coûts peuvent aller de quelques centaines de dollars à des millions, en plus de
+ la perturbation subie alors que les données restent inaccessibles.
+Et même si la rançon est payée, 
+rien ne garantit que la clé promise en échange de la rançon sera fournie.
+La capacité d’une attaque 
+de ransomware à rendre les données de sa victime inaccessibles en fait une menace bien plus grande q
+ue le simple vol de données, faisant de la protection contre les ransomwares une priorité absolue en
+ matière de cyberdéfense pour chaque organisation.
+Dans cet article, nous définirons les ransomwares
+, y compris la montée en puissance des tactiques d’exfiltration de données, et discuterons des récen
+tes attaques de ransomwares contre des victimes telles que Garmin, Lion et The Toll Group.
+Qu’est-ce
+ qu’une attaque de ransomware?
+Les attaques de ransomware peuvent être lancées de plusieurs manières
+.
+L’une des plus courante est le phishing, par lequel un e-mail délivre une pièce jointe déguisée en
+ fichier professionnel légitime.
+Une fois celle-ci téléchargée et ouverte, souvent par une victime a
+vec de bonnes intentions et ignorant la menace de la pièce jointe, le malware prend le contrôle de l
+’ordinateur de la victime et peut même utiliser des outils d’ingénierie sociale intégrés pour obteni
+r un accès administratif.
+À ce stade, le ransomware peut se propager latéralement d’un ordinateur à 
+un autre et finalement infecter l’ensemble du réseau.
+Les formes les plus agressives de ransomwares,
+ telles que Petrwrap / Petya, contournent complètement l’utilisateur et infectent les ordinateurs vi
+a des failles de sécurité existantes.
+Une fois que le logiciel malveillant a pris le contrôle de l’o
+rdinateur de la victime, l’étape suivante classique consiste à crypter tout ou une partie des fichie
+rs sensibles de l’utilisateur et à redémarrer de force le système de l’utilisateur.
+L’utilisateur es
+t alors informé de l’exploit et est alors informé de la demande de rançon, généralement sous la form
+e d’un paiement Bitcoin intraçable, ainsi que d’une date limite de paiement.
+Si l’organisation ciblé
+e paie la rançon, la clé de déchiffrement sera fournie ou le plus généralement promis.
+Auquel cas, l
+es données resteront cryptées et inaccessibles.
+Bien que tout type d’organisation puisse être la pro
+ie de ce genre d’attaque, les cibles de ransomware sont souvent sélectionnées en fonction de facteur
+s tels que leur vulnérabilité perçue identifiée, la sensibilité de leurs données ou leur désir d’évi
+ter une publicité ou communication nuisible.
+Par exemple, les universités ont tendance à avoir des n
+iveaux inférieurs de protection contre les ransomwares et autres cyberdéfenses que les autres organi
+sations et dispose d’un niveau élevé de partage de fichiers, ce qui en fait des proies relativement 
+faciles pour une attaque de phishing.
+Les villes et autres agences gouvernementales s’appuient sur d
+es systèmes informatiques pour les services publics vitaux tels que l’application de la loi, les int
+erventions d’urgence, les transports publics et le système judiciaire, augmentant la pression pour u
+ne restauration rapide de l’accès aux données.
+Pour les hôpitaux et autres installations médicales, 
+les données peuvent littéralement être une question de vie ou de mort.
+Les institutions financières,
+ les cabinets d’avocats et les grandes entreprises peuvent être disposés à payer rapidement pour évi
+ter d’être associés à une attaque de ransomware et disposer des ressources pour le faire.
+Dans un se
+ns, les ransomwares peuvent représenter un danger encore plus important que le simple vol de données
+.
+Alors que le vol de données peut être embarrassant et coûteux pour sa victime, les données qui ont
+ été compromises restent accessibles.
+Dans une attaque de ransomware, en revanche, les données ont e
+ffectivement disparu, rendant les opérations commerciales normales impossibles.
+Comment l’exfiltrati
+on des données est-elle liée aux ransomwares et au vol de données?
+Les attaques de ransomware contin
+uent d’évoluer en termes de technologie et de technique.
+Ces derniers mois, les experts en cybersécu
+rité ont été alarmés par la convergence des ransomwares avec le vol et l’exfiltration de données pou
+r créer une menace particulièrement pernicieuse.
+L’exfiltration de données traditionnelle est elle-m
+ême un mélange de vol de données et d’extorsion.
+Un pirate informatique compromet les défenses d’une
+ organisation et exfiltre des données sensibles qui peuvent avoir de la valeur  tel que des dossiers
+ financiers, propriété intellectuelle, données commerciales, etc.
+Après avoir proposé les données à 
+la vente sur le marché noir pour en établir la valeur, l’attaquant contacte alors la victime et dema
+nde un paiement pour empêcher une vente.
+L’effet de levier de l’attaquant dans ce cas est le dommage
+ important lié à la réputation de l’entreprise qui résulteraient de la publication des données même 
+si celles-ci restent disponibles pour la victime.
+Au cours de l’année en cours, des variantes de ran
+somware telles que Maze et DopplePaymer ont été utilisées pour ajouter la menace d’exfiltration de d
+onnées à une attaque de ransomware.
+Si une victime hésite à payer la rançon demandée, le hacker libè
+re une partie des données pour communiquer sûr l’attaque et accroître la pression. Combinant les att
+eintes à la réputation du vol de données ou de l’exfiltration de données avec la perturbation opérat
+ionnelle d’une attaque de ransomware, ce type d’attaque peut être dangereusement efficace pour contr
+er l’utilisation des sauvegardes de données comme défense contre les ransomwares, comme le conseille
+ le FBI .
+Attaques de ransomwares en 2020
+Des attaques majeures de ransomwares ont secoué la communa
+uté de la cybersécurité en 2020.
+Garmin, une grande entreprise de technologie avec des entreprises a
+llant du GPS de l’aviation civile au fitness personnel, a subi une attaque de ransomware utilisant l
+e fameux WastedLocker qui a gelé les services en ligne de l’entreprise pour des millions d’utilisate
+urs.
+Des rapports ultérieurs ont suggéré que Garmin aurait payé une rançon allant jusqu’à 10 million
+s de dollars pour obtenir une clé de déchiffrement fonctionnelle.
+Une attaque de ransomware contre L
+ion, un géant australien de boissons, a retardé les opérations de brassage de l’entreprise et limité
+ sa communication sur ses produits.
+La Rhode Island College Foundation et le Providence Children’s M
+useum ont tous deux été affectés par une attaque de ransomware contre Blackbaud, un fournisseur de s
+ervices logiciels externe pour l’engagement et la collecte de fonds, qui aurait pu révéler des infor
+mations personnelles.
+The Toll Group, une société de transport mondiale basée en Australie, a été to
+uchée par un ransomware à deux reprises en moins de six mois.
+Les attaques comprenaient le vol d’éno
+rmes quantités de données, y compris des rapports financiers et des factures, et ont entraîné plusie
+urs mois de perturbations opérationnelles. 
+Alors que la société avait initialement refusé de payer 
+la rançon, la publication de ses données volées sur le Dark Web suggère que des tactiques d’exfiltra
+tion de données ont été mises en place.
+Comment A10 Networks contribue à la protection contre les ra
+nsomwares
+Une protection efficace contre les ransomwares dépend d’une visibilité complète du trafic 
+chiffré et de l’arrêt de toute attaque cachée en périphérie du réseau.
+A10 Networks Thunder® SSL Ins
+ight (SSLi®) permet le décryptage SSL et l’inspection SSL pour améliorer l’efficacité de l’infrastru
+cture de sécurité existante et détecter les ransomwares, malwares et autres, cachés dans le trafic d
+e cryptage.
+Pour en savoir plus sur l’activation de la protection contre les ransomwares, contactez 
+A10 Networks .
+
+
+
+
+
+
+
+
+
+Source : A10 Networks
+
+
+/ ~ 4AC5DDE2 ~ /
+
+La mort au bout du ransomware http
+s://buff.ly/33FNhJL
+
+/ ~ 4AC5DDE2 ~ /
+
+La cogip s’est mangé un ransomware. Du coup tous les accès à 
+distance sont coupés. La nouvelle politique de télétravail réduite à néant grâce à Didier de la comp
+ta qui voulait agrandir sa bite. Merci gros 
+
+/ ~ 4AC5DDE2 ~ /
+
+Doppelpaymer #ransomware crew finger
+ed for attack hospital that caused death of a patient  ou "quand l’absence d’un patch Citrix coûte u
+ne vie", ce titre est largement trop exagéré, cf il y a eu d’autres soucis en // IT et métier, mais 
+quand même...
+
+/ ~ 4AC5DDE2 ~ /
+
+Je viens de mettre à jour la frise chronologique de l'année pour le
+s incidents français connus de #ransomware pour aboutir à 42 cas. Déjà 7 sur le seul mois de septemb
+re 
+
+/ ~ 4AC5DDE2 ~ /
+
+Sodinokibi : ce ransomware que le groupe Elior peine à digérer ...
+
+/ ~ 4AC5D
+DE2 ~ /
+
+Le cheval de Troie bancaire « Alien », nouveau cauchemar des utilisateurs Android #Android 
+#Ransomware #Hacking | via @01net
+
+/ ~ 4AC5DDE2 ~ /
+
+Une femme a perdu la vie lors d’une cyberattaqu
+e de type #ransomware menée contre un #hôpital. Si son décès est bel et bien lié au transfert, la cy
+berattaque sera considérée comme un homicide. #esanté #cybersécurité via @lebigdata_fr
+
+/ ~ 4AC5DDE2
+ ~ /
+
+Oui escroquerie ici, il faut bien faire le distinguo avec le ransomware qui ressemble davantag
+e à l'extorsion. Mais ce n'est pas le sujet ici !
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Les malwares sous Android sont
+ en perpétuel renouvellement. A peine Cerberus, le fameux cheval de Troie bancaire, est-il parti en 
+retraite qu’un autre se place sur le devant de la scène. Baptisé « Alien », ce nouveau cauchemar des
+ utilisateurs Android, a été détecté et analysé par les chercheurs en sécurité de ThreatFabric. Il s
+’agit en réalité d’un rejeton de Cerberus, dont il reprend une bonne partie du code source. Il n’est
+ donc pas impossible que son auteur ait fait partie de cet ancien groupe de pirates, qui s’est dislo
+qué pendant l’été.
+
+A découvrir aussi en vidéo
+
+ 
+
+
+Toutefois, Alien n’est pas un simple remake de C
+erberus, mais plutôt une version remastérisée et augmentée. Ainsi le code malveillant présente deux 
+nouvelles fonctionnalités que son ancêtre n’avait pas, à savoir l’installation d’une porte dérobée e
+t l’interception de notifications. La première est implémentée de façon assez basique, par le biais 
+d’un exécutable TeamViewer, et permet d’avoir un contrôle total de l’appareil. Dans les prochaines v
+ersions d’Alien, il est probable que les auteurs créeront leur propre logiciel d’accès à distance, p
+our gagner en furtivité.
+Accès privilégié
+L’interception de notifications, de son côté, s’appuie sur
+ un droit d’accès spécial du système Android (Notification Listener Service), que le malware s’octro
+ie de façon « manuelle » en bidouillant avec l’interface graphique, par le biais des privilèges d’ac
+cessibilité, plus faciles à obtenir. Au total, ce cheval de Troie est capable de s’attaquer à 226 ap
+plications mobiles, principalement liées à des services bancaires ou de cryptomonnaies.
+
+
+
+         
+                           ThreatFabric
+                                                    - Nombre
+ de codes malveillants "Alien" détectés
+                            
+
+Alien est surtout diffusé en E
+urope, à commencer par l’Espagne, la Turquie et l’Allemagne. La France figure en sixième position. S
+elon Zdnet, le vecteur d’infection principal est la diffusion par l’intermédiaire d’un site piégé. C
+ertains exemplaires peuvent aussi se retrouver sur Play Store. Raison de plus de toujours être vigil
+ant quant aux logiciels que l’on installe sur son smartphone Android.
+Sources: ThreatFabric, ZDnet
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Une cyberattaque virant à l'homicide:
+ c'est ainsi que la justice allemande pourrait qualifier l'action des pirates ayant mené à la paraly
+sie d'un hôpital de Düsseldorf et, peut-être, à la mort d'une femme.Comme le rapporte l'agence Assoc
+iated Press, l'attaque en question semble n'avoir pas initialement été dirigée vers l'établissement 
+de santé mais vers la Heinrich-Heine-Universität, à laquelle il est affilié. Une trentaine des serve
+urs de l'hôpital ont été chiffrés, et une demande de rançon évoquant l'université a été retrouvée su
+r l'un d'entre eux.À lire aussiHacker un hôpital, le casse du siècle?Malheureusement, ce sont bien l
+es systèmes informatiques de l'hôpital qui ont été paralysés. La police a pu prendre contact avec le
+s pirates et leur expliquer leur sombre méprise. Ces derniers ont alors cessé leur attaque et fourni
+ une clé permettant de déchiffrer les machines touchées, avant bien sûr de disparaître dans la natur
+e.Repenti tardifMais ce repenti fut trop tardif. Une femme en urgence vitale n'a pu être prise en ch
+arge par l'hôpital, qui n'a eu d'autre choix que de la rediriger vers un autre établissement situé à
+ Wuppertal, à 32 kilomètres de distance. Ce délai qui a précédé la prise en charge lui a coûté la vi
+e: le trajet a trop duré et la femme est décédée lors de son transfert.Si cette attaque au rançongic
+iel ne visait pas spécifiquement l'établissement de santé, les hôpitaux sont particulièrement prisés
+ par les hackers.À lire aussiDu matériel médical menacé de piratage par une série de failles informa
+tiquesLes expert·es alertent depuis des années sur la sécurité très relative de leurs systèmes infor
+matiques (un «logiciel commercial très utilisé» semble ici en cause) –la NHS britannique a notamment
+ été durement touchée par la vague Wannacry.Pour les cybercriminel·les, les données récoltées peuven
+t valoir de l'or, et les conséquences d'un blocage sont telles que l'acquittement de la coûteuse ran
+çon peut, dans l'urgence, être l'unique solution.S'il est difficile de confirmer l'information, ce t
+ype d'attaque étant souvent gardé secret pour d'évidentes raisons, ce pourrait être la première fois
+ qu'un ransomware tue quelqu'un.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+ 
+Pack @1000Partenaires – Sécurisez vos mails  Découvrez la solution pour protéger votre entreprise et
+ vos collaborateurs des nouvelles menaces par email : #malware, #phishing, #ransomware, #spam... Pou
+r tout savoir et être accompagné https://ift.tt/2KiCfS7 #1000partenair…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Les aut
+orités allemandes ont révélé la semaine dernière qu’une attaque de ransomware contre l’hôpital unive
+rsitaire de Düsseldorf (UKD) avait provoqué une défaillance des systèmes informatiques, ce qui aurai
+t entraîné la mort d’une patiente alors que les médecins tentaient de la transférer dans un autre hô
+pital.
+Le premier cas du genre ? L’attaque a exploité une vulnérabilité dans un logiciel VPN Citrix 
+CVE-2019-19781 pour paralyser les systèmes hospitaliers le 9 septembre. Mais elle aurait été « mal d
+irigée »,  destinée à l’origine à l’Université Heinrich Heine. La demande de rançon aurait été retir
+ée et la clé de déchiffrement des données fournie.
+La semaine dernière, l’Office fédéral allemand de
+ la sécurité des technologies de l’information (BSI) a mis en garde les organisations contre « des i
+ncidents dans lesquels les systèmes Citrix ont été compromis avant l’installation des mises à jour d
+e sécurité mises à disposition en janvier 2020« . « Cela signifie que les attaquants ont toujours ac
+cès au système et aux réseaux qui le sous-tendent, même après la correction de la faille de sécurité
+ « .
+Le site de la BBC rapporte que des experts en cybersécurité auraient été appelés à la rescousse
+ pour vérifier s’il existait un lien entre le piratage et la mort de la patiente, l’hôpital étant ég
+alement susceptible de faire l’objet d’une enquête.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+C’est une triste nouvelle q
+ue nous apprenons ce matin. Une femme est morte au cours d’une cyberattaque qui a touché l’hôpital u
+niversitaire de Düsseldorf, en Allemagne. Selon The Verge, il s’agirait du premier décès directement
+ lié à un ransomware.
+Le premier décès lié directement à un ransomware
+Les cyberattaques sont fréque
+ntes. Elles sont quand même plus rares contre les hôpitaux, surtout depuis le début de la crise du C
+ovid-19 mais malheureusement certains hackers n’ont pas de pitié. Alors que de nombreux hackers avai
+ent promis un répit pour les hôpitaux tant que la pandémie de Covid-19 serait là, l’hôpital universi
+taire de Düsseldorf n’a pas été épargné. Toutefois, selon la presse allemande ce ransomware n’était 
+pas destiné à toucher l’établissement de santé mais visait plutôt l’université voisine. Les hackers 
+ont stoppé leur attaque dès l’instant où ils ont compris qu’ils avaient touché un hôpital.
+
+Dans la 
+même catégorie
+
+
+
+ 
+
+Twitter renforce la sécurité des comptes des politiciens
+
+
+
+Malheureusement il 
+était déjà trop tard. Une femme est morte au cours de cette cyberattaque. Les autorités estiment qu’
+il s’agit du premier décès qui survient directement pendant une cyberattaque. L’hôpital de Düsseldor
+f n’a pas pu prendre en charge cette patiente à cause justement du ransomware en cours. Cela a contr
+aint la femme à rouler 30 kilomètres supplémentaires pour trouver un autre établissement de santé, m
+ais son état de santé était trop instable.
+Les hackers peuvent-ils être tenus responsables ?
+Pour le
+s pirates informatiques, les établissements de soins représentent une cible de choix. Depuis plusieu
+rs années les experts en cybersécurité veillent au grain pour surveiller ces lieux si sensibles. Une
+ immense majorité des hôpitaux ne sont pas préparés à de telles attaques. Une grande partie des équi
+pements est connectée à Internet, comme les équipements de radiologie par exemple.
+Sans ces outils, 
+les médecins ne sont pas capables de soigner leurs patients. Cette vulnérabilité incite les hackers 
+à lancer des ransomwares contre les hôpitaux pensant qu’ils répondront très vite à leurs demandes de
+ rançons. En France, le CHU de Rouen était par exemple victime d’un ransomware l’année dernière. 200
+ applications de son système informatique avaient été touchées. À l’époque, les patients qui n’étaie
+nt pas en situation d’urgence ont été orientés vers d’autres établissements, la prise en charge des 
+patients, les prescriptions, et la gestion des admissions avaient également été perturbées.
+De telle
+s attaques peuvent semer une pagaille monstre en quelques minutes seulement. À Düsseldorf, les autor
+ités allemandes ont ouvert une enquête sur la mort de cette femme. La presse allemande précise que s
+i son transfert vers un autre hôpital s’avère être la cause de sa mort, les autorités pourront consi
+dérer que cette cyberattaque a causé le décès de cette patiente et pourront donc traiter cette affai
+re comme un homicide.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica touché par un ransomware - Le Monde Informatique
+
+
+/ ~ 4AC5DDE2 ~ /
+
+.....directement lié à une #CyberAttaque !?
+
+#Hopitaux #Ransomware #CryptoLocker
+ #Malware #VPN #Citrix
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Luxxotica, fabricant et distributeur mondial de lunettes 
+- comptant Ray Ban, Armani et Chanel dans son portefeuille de marques - est la nouvelle victime au s
+ombre tableau de chasse des rançonneurs du web. Quelques mois après Essilor, qui l'avait racheté en 
+2018, la société italienne employant 80 000 personnes dans le monde pour près de 9 milliards d'euros
+, a essuyé une cyberattaque par ransomware. Ce vendredi, les sites de plusieurs de ses marques sont 
+tombés, avant de voir courir dans la presse italienne des articles faisant état d'une panne système 
+globale ayant contraint le groupe a renvoyé travailler chez eux de nombreux employés.
+Dans un billet
+ sur Linkedin, le RSSI de Luxxotica, Nicola Vanin, a fini par lâcher le morceau en confirmant que l'
+entreprise avait bien été attaquée par un ransomware. « Il n'y a actuellement aucun accès ou vol d'i
+nformations aux utilisateurs et aux consommateurs », a précisé Nicola Vanin. Les cyberpirates sont, 
+d'après Bad Packets, parvenus à leur fin en exploitant une vulnérabilité critique CVE-2019-19781 per
+mettant d'exécuter du code à distance (RCE) affectant le contrôleur de mise à disposition d'applicat
+ions ADC de Citrix. Si cela est le cas, on peut se poser la question de la réactivité des équipes IT
+ a appliquer un patch aussi critique, disponible depuis 9 mois.
+Une vulnérabilité dangereuse
+« Les v
+ulnérabilités RCE sont parmi les plus dangereuses et peuvent permettre à un attaquant d'exécuter le 
+code de son choix sur la machine ciblée - comme le téléchargement et l'exécution de ransomwares. Les
+ organisations doivent s'assurer qu'un système de gestion des correctifs robuste est en place - en p
+articulier pour leurs infrastructures publiques », a expliqué Michael Barragry, responsable des opér
+ations chez Edgescan. 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Vulnérabilité de Check Point ZoneAlarm Anti-Ransomware : 
+élévation de privilèges
+Synthèse de la vulnérabilité 
+Un attaquant peut contourner les restrictions 
+de Check Point ZoneAlarm Anti-Ransomware, afin d'élever ses privilèges.Produits vulnérables : ZoneAl
+arm.
+Gravité de cette faille : 2/4.
+Date de création : 24/09/2020.
+Références de ce bulletin : CVE-2
+020-6012, VIGILANCE-VUL-33408.
+Description de la vulnérabilité 
+Un attaquant peut contourner les res
+trictions de Check Point ZoneAlarm Anti-Rans...Bulletin complet, filtrage par logiciel, emails, corr
+ectifs, ... (Demandez votre essai gratuit)Cette annonce de faille informatique concerne les logiciel
+s ou systèmes comme ZoneAlarm.
+Notre équipe Vigil@nce a déterminé que la gravité de cette annonce de
+ vulnérabilité informatique est moyen.
+Le niveau de confiance est de type confirmé par l'éditeur, av
+ec une provenance de shell utilisateur.
+Un attaquant avec un niveau de compétence expert peut exploi
+ter ce bulletin de faille informatique.
+Solutions pour cette menace 
+Les solutions, correctifs, patc
+hes et contre-mesures pour cette vulnérabilité ne sont pas encore publics.
+Bulletin complet, filtrag
+e par logiciel, emails, correctifs, ... (Demandez votre essai gratuit)
+Service de veille sur les vul
+nérabilités informatiques 
+Vigil@nce fournit des annonces cyber-sécurité. Le service de veille sur l
+es vulnérabilités informatiques Vigil@nce alerte vos équipes des failles et des menaces qui concerne
+nt votre système d'information.
+
+Partagez ce bulletin 
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+                  
+      Optimisez votre temps
+Tri automatique des emails, spams et newsletters FacilitÃ© de gestion et
+ dâutilisation Gain de productivitÃ©
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware #Bitcoin $BTC – “The Dark Ove
+rlord”condamné à 1,5 million de dollars et 5 ans de prison
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Selon un nouveau rapp
+ort de Netwrix sur les cybermenaces, 85 % des organisations ont été victimes de phishing, 50 % d’un 
+ransomware et 46 %, d’erreurs commises par les administrateurs. 
+ 
+L’étude réalisée auprès de 937 pr
+ofessionnels de l’IT dans le monde, dont 102 en France a analysé l’évolution des cybermenaces dans l
+e contexte de la pandémie.
+Dans son rapport 2020 sur les cybermenaces , le fournisseur de cybersécur
+ité  Netwrix indique qu’une organisation française sur quatre estime être exposée à un risque plus i
+mportant qu’auparavant en matière de cybersécurité ; 80 % d’entre elles craignent que les utilisateu
+rs ne respectent pas les consignes de sécurité.
+Les types de menaces les plus courants qui ont sévi 
+parmi les organisations françaises lors de la flambée de COVID-19 sont ceux qui reposent sur le fact
+eur humain. En effet, au cours des derniers mois, 85 % des organisations ont été victimes d’au moins
+ une attaque de phishing, 50 % d’une attaque par ransomware, et 46 % ont subi un incident de sécurit
+é résultant d’une erreur des administrateurs.
+Voici quelques-unes des autres conclusions notables du
+ rapport :
+
+63 % des organisations qui ont pâti d’une erreur des administrateurs ont mis des jours a
+vant de le signaler, ce qui fait de ce type d’incident celui dont la détection est la plus longue. D
+ans l’ensemble, 83 % des professionnels interrogées estiment que les erreurs des administrateurs con
+stituent leur principale menace.
+Les inquiétudes concernant la mauvaise configuration du cloud ont e
+xplosé, passant de 33 % avant la pandémie à 97 % aujourd’hui.
+98 % des organisations françaises sont
+ préoccupées par l’exploitation des VPN.
+33 % des organisations françaises ont signalé des vols de d
+onnées au cours des derniers mois.
+
+Télécharger l'étude complète
+ 
+
+Partager l'article
+
+
+
+
+
+
+/ ~ 4AC
+5DDE2 ~ /
+
+ #CyberSecurityAwareness #4
+ Un employé Tesla refuse 1M€ de la part d'un cyber-espion rus
+se... #ransomware  https://okt.to/6fHiMw
+(Le Monde Informatique)
+
+ Retrouvez toute l'actualité #rans
+omware et #dataleak https://okt.to/Bw75qr
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Bitcoin – “The Dark Overlord
+”condamné à 1,5 million de dollars et 5 ans de prison http://dlvr.it/RhFKrG
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les articles repris dans cet espace sont des articles fournis par les flux RSS de site con
+sacrés, en général, à l'actualité ICT. Ces articles ne sont donc pas le résultat de travail de l'équ
+ipe de Simple CRM (qui est éditeur du logiciel CRM du même nom) mais bien le résultat d'un mashup de
+ contenu, également appellé curation.
+
+Notre travail se limite à vous faire découvrir le travail de 
+qualité effectué par des sites web de référence; nous ne rédigeons de ce fait aucun contenu. Nous ne
+ sommes donc pas éditeur mais hébergeur et n'exerçons de ce fait aucun contrôle sur les informations
+ référencées dont nous respectons le droit d'auteur en indiquant la source fournie dans les flux RSS
+.
+
+Afin de découvrir la totalité des articles proposés, merci de cliquer sur le lien de source menti
+onné en haut et en bas de chaque article afin de découvrir l'excellent travail de ces différents réd
+acteurs; de nombreux autres contenus de qualités vous attendent sur leur site web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curation d'information réalisée par:
+
+
+
+
+
+Catherine De Luca
+
+
+En charge du Simple CRM
+ CLUB, je cherche les bonnes infos qui vous intéressent.
+
+Afficher mon profil complet
+
+
+
+
+
+
+
+
+
+
+
+
+
+G
+énérateur de mot de passe
+
+
+Site web incubé par zeBridge, entreprise établie au 24 rue Piretfontaine
+, 4140 Sprimont, Belgique, TVA BE 0882433150.
+Service gratuit hébergé par Google Inc., entreprise ét
+ablie au 1600 Amphitheatre Parkway Mountain View, CA 94043 USA. Info et contact: google (at) zebridg
+e.tk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+ Un crypto-hacker démasqué de plus par les autorités américaine
+s – Un ressortissant du Royaume-Uni a plaidé coupable le 22 septembre 2020. L’homme est accusé de vo
+l d’identité aggravé, ainsi que de fraude informatique globale. La sentence est finalement fixée à c
+inq ans de prison fédérale.The Dark Overlord : un groupe actifL’accusation est de taille : Nathan Wy
+att, 39 ans, a été membre d’un collectif de hackers connu sous le nom de « The Dark Overlord ». Ce g
+roupe a fait pression sur d’innombrables sociétés aux États-Unis, et ce, à de nombreuses reprises. L
+’objectif était d’accéder à distance aux réseaux informatiques de plusieurs entreprises, sans leur a
+utorisation. Les victimes comprenaient des prestataires de santé, des cabinets comptables, et autres
+.Wyatt a admis qu’à partir de 2016, il était membre du groupe de pirates. Son rôle était d’obtenir d
+es données sensibles sur les entreprises ciblées, puis de menacer ces dernières en demandant une ran
+çon pouvant aller de 75 000 à 350 000 dollars. La note devait bien entendu être payée en Bitcoin. Da
+ns certains cas, les pirates utilisaient même des informations sensibles relatives aux familles des 
+victimes.” Maybe your [sic] just a dumb rich girl who doesn’t [sic] understand the dangers here. Im 
+gonna try Chels. she may have an iq. stay hot. “Nathan Wyatt a utilisé ses compétences pour développ
+er des moyens de communication, ainsi que des réseaux virtuels privés, qui ont servi pour émettre le
+s messages de menace aux victimes. Une erreur fatale a tout de même permis d’identifier l’homme. Wya
+tt a en effet utilisé son propre téléphone portable pour contacter une de ses victimes.La justice a 
+tranchéL’homme avait été extradé du Royaume-Uni, vers le District est du Missouri, en décembre 2019,
+ pour comparaître en justice. Après plus d’un an de procédure, le juge américain Ronni White, a cond
+amné Wyatt à 5 ans de prison, et lui a ordonné de payer 1 467 048 de dollars en guise de dédommageme
+nt.Le rapport publié par le DoJ démontre une forte volonté de la justice de s’attaquer aux pirates q
+ui s’introduisent illégalement dans la vie privée des Américains.“Les cyberpirates croient à tort qu
+’ils peuvent se cacher derrière un clavier. Dans cette affaire, le FBI a démontré une fois de plus q
+u’il imposera des conséquences aux cybercriminels, quels que soient le temps et l’endroit où ils se 
+trouvent.” – Richard, agent spécial en charge du dossierLes « ransomware » se développent de façon f
+ulgurante, et gagnent en ingéniosité. Selon un rapport, ces logiciels malveillants représentent un c
+oût estimé à 7,5 milliards de dollars, rien qu’en 2019. À l’heure où le télétravail est de mise, de 
+nombreuses personnes voient désormais leur espace de travail exposé au web. Ce type d’attaque a donc
+ un bel avenir devant lui…L’article Ransomware Bitcoin – “The Dark Overlord”condamné à 1,5 million d
+e dollars et 5 ans de prison est apparu en premier sur Journal du Coin.[…]  En savoir plusPartager :
+Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur Facebook
+(ouvre dans une nouvelle fenêtre)PlusCliquer pour imprimer(ouvre dans une nouvelle fenêtre)Cliquez p
+our partager sur LinkedIn(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur Reddit(ouvre dan
+s une nouvelle fenêtre)Cliquez pour partager sur Tumblr(ouvre dans une nouvelle fenêtre)Cliquez pour
+ partager sur Pinterest(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur Pocket(ouvre dans 
+une nouvelle fenêtre)Cliquez pour partager sur Telegram(ouvre dans une nouvelle fenêtre)Cliquez pour
+ partager sur WhatsApp(ouvre dans une nouvelle fenêtre)Cliquez pour partager sur Skype(ouvre dans un
+e nouvelle fenêtre)WordPress:J'aime chargement…Articles similaires
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Bit
+coin - “The Dark Overlord”condamné à 1,5 million de dollars et 5 ans de prison - Journal du Coin
+
+/ 
+~ 4AC5DDE2 ~ /
+
+#Sécurité : Luxottica touché par un ransomware https://curation-actu.blogspot.com/20
+20/09/securite-luxottica-touche-par-un.html…
+
+/ ~ 4AC5DDE2 ~ /
+
+Luxottica touché par un ransomware
+
+
+/ ~ 4AC5DDE2 ~ /
+
+[SECU] Luxottica touché par un ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Vigil@nce #Vulnérabil
+ité de Check Point ZoneAlarm Anti-Ransomware : élévation de privilèges. https://vigilance.fr/vulnera
+bilite/Check-Point-ZoneAlarm-Anti-Ransomware-elevation-de-privileges-33408… Références : #CVE-2020-6
+012. #CyberSecurite
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transporteur Gefco pris à son tour dans la tourmente d’une
+ cyberattaque majeure par #Ransomware.
+#CyberSecurity #DataBreach #Privacy #infosec
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+Je t’assure je suis fan. Puis il a refait un autre ransomware sous un autre nom. Le gars continue
+ de se sucrer .
+
+/ ~ 4AC5DDE2 ~ /
+
+Cyberattaque contre l’hôpital Dusseldorf : une femme décédée à ca
+use d’un ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Les gars qui font des attaques de ransomware se font des mill
+ions de $ en quelques mois. Si d’ici 26 ans j’arrive pas à être millionnaire dans la légalité. Je cr
+ois que je vais m’y convertir.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marc
+hive,
+Rédacteur en chef
+
+
+
+	Publié le: 24 sept. 2020
+
+
+ 
+Le PDG de Gefco, Luc Nadal, vient d’indique
+r, dans un message publié sur le site de l’entreprise, que celle-ci a « subi une cyberattaque extern
+e destinée à perturber [son] business ». Et d’expliquer que « dès que nous avons appris la nouvelle 
+de cette cyberattaque, nous avons contacté nos clients et nos partenaires pour les informer et nous 
+avons mobilisé nos employés pour identifier et mettre en œuvre les processus alternatifs, afin d’ass
+urer la continuité de notre activité ».
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement 
+ce guide
+
+
+
+
+Ransomware : La menace se fait plus ciblée
+Nul RSSI n'ignore la présence de ransomware,
+ mais beaucoup sous-estiment leur côté pernicieux et à quel point ces derniers peuvent être ciblés. 
+Ce guide vous présente ce danger ainsi que les mesures pour s'en préserver.
+Start Download
+
+
+
+
+
+
+Adr
+esse e-mail professionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiqu
+ée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé 
+le nombre maximum de caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'a
+ccepte les conditions d'utilisation de TechTarget, ainsi que la politique de confidentialité et le t
+ransfert de mes informations aux États-Unis pour traitement afin de me fournir les informations pert
+inentes décrites dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez 
+continuer.
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses partenaires afin
+ de communiquer avec moi par le biais du téléphone ou du courrier électronique et ce à propos d’info
+rmations pertinentes dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuil
+lez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selon Luc Nadal, l’équi
+pe et les partenaires IT du logisticien travaillent désormais « vingt-quatre heures sur vingt-quatre
+ pour restaurer nos applications, et nous avons déjà fait de nombreux progrès en trouvant des soluti
+ons alternatives ».
+Gefco pourrait être là aidé par ses choix passés, dont celui d’Office 365, reten
+u en 2014. La migration a été conduite sur deux ans. Tôt, dans le cadre de celle-ci, la sécurité app
+araît avoir été rigoureusement prise en compte, avec notamment le recours aux solutions d’Idecsi pou
+r protéger la population la plus sensible : le comex et les VIP.
+Mais cela n’augure pas pour autant 
+d’une résolution aisée. Selon nos informations, Gefco fait face à un rançongiciel. En la matière, c’
+est désormais bien connu, les assaillants sont probablement installés en profondeur dans le système 
+d’information. Ce qui implique des travaux de reconstruction longs et laborieux, ne serait-ce que po
+ur s’assurer que les cybertruands n’ont plus le moindre accès aux ressources IT de l’entreprise. L’i
+llusion d’un système d’information assaini est peut-être pire qu’une attaque en elle-même.
+
+
+
+
+
+
+Las
+, la menace des ransomwares a littéralement explosé cette année, et plus encore depuis la fin août. 
+Dans le monde entier, on totalise désormais près de 210 incidents de ce type pour ce mois de septemb
+re seul. Un décompte qui semble bien parti pour au moins doubler celui du mois d’août, établi autour
+ de 120.
+Les cyberdélinquants rendent de plus en plus souvent public le nom de leur victime, avec à 
+ce jour, au moins 20 familles de ransomware employées dans des campagnes d’extorsion. Un nouveau ven
+u vient tout juste de faire son apparition : Egregor. Il est soupçonné d’être lié à Sekhmet.
+Tout dé
+but septembre, nous détaillions les indicateurs suggérant le risque d’explosion de cette menace à l’
+automne. Parmi eux, il en manquait au moins un : Emotet, qui s’avère particulièrement actif depuis q
+uelques semaines et appelle à la plus grande prudence avec la messagerie électronique et les pièces 
+jointes Office.
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre la montre
+–CrowdStr
+ike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Menaces i
+nformatiques
+
+
+
+Ransomware : les confirmations de l’ampleur de la menace se multiplient
+
+
+
+
+Par: Val
+éry Marchive
+
+
+
+
+Ransomware : pourquoi la menace peut encore s’aggraver
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+Ransomware : l’attaque peut être maîtrisée sans que la situation soit sous contrôle
+
+
+
+
+Par: Valéry
+ Marchive
+
+
+
+
+Prismaflex International allonge la liste des victimes du ransomware NetWalker
+
+
+
+
+Par
+: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+R
+édacteur en chef
+
+
+
+	Publié le: 14 sept. 2020
+
+
+ 
+Les groupes de cyberdélinquants aux commandes de r
+ansomwares continuent d’égrainer leurs noms de victimes. Ce week-end, Equinix, Bisnode et Interway –
+ notamment – sont ainsi venus grossir les rangs de ceux qui apparaissent résister à l’extorsion.
+Sui
+te de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+7 attaques informatiques à la 
+loupe
+Les attaques informatiques ne cessent d'impressioner et beaucoup d'entreprises se sont retrouv
+ées les bras ballants face à ce polymorphisme informatique. 
+Start Download
+
+
+
+
+
+
+Adresse e-mail pro
+fessionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erron
+ée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maxim
+um de caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les cond
+itions d'utilisation de TechTarget, ainsi que la politique de confidentialité et le transfert de mes
+ informations aux États-Unis pour traitement afin de me fournir les informations pertinentes décrite
+s dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses partenaires afin de communiquer
+ avec moi par le biais du téléphone ou du courrier électronique et ce à propos d’informations pertin
+entes dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la c
+ase si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus tôt cette année, Beazley et Hisco
+x présentaient des regards contrastés sur une situation préoccupante. Publié début avril dernier, le
+ Beazley Breach Briefing 2020 a fait état d’une augmentation de 131 % des attaques signalées contre 
+les clients de l’assureur l’an dernier. Et pour celui-ci, c’était une véritable explosion : en 2018 
+et 2017, il n’avait enregistré qu’une progression de 20 % et 9 %, respectivement, pour ce type de cy
+berattaque. Et pour ne rien gâcher, « les sommes demandées par les cyberdélinquants ont également au
+gmenté de manière exponentielle, les demandes à sept ou huit chiffres n’étant pas inhabituelles ».
+D
+e son côté, Hiscox, dans son rapport annuel sur la gestion des cyber risques, indiquait que 18 % des
+ entreprises françaises ayant été ainsi attaquées ont versé une rançon. Sur l’ensemble de l’échantil
+lon considéré, au-delà de la seule France, donc, « les pertes étaient presque trois fois plus import
+antes pour les entreprises ayant subi une attaque via un ransomware, par rapport à celle ayant subi 
+un [simple] malware », soit 821 000 € contre 436 000 €… et cela que la rançon ait été payée ou non.
+
+Tout récemment, l’Américain Coalition a publié son rapport sur les demandes d’indemnisation au premi
+er semestre, basé sur « 25 000 incidents rapportés par 25 000 PME que sert [l’assureur] aux États-Un
+is et au Canada ». Et les signaux ne sont pas plus rassurants. Au second trimestre, il fait ainsi ét
+at d’une « progression de 47 % de la sévérité des attaques par ransomware, en plus d’une progression
+ de 100 % au premier trimestre, d’une année sur l’autre ». Au total, les cyberattaques par rançongic
+iel comptent pour rien que 41 % des demandes d’indemnisation.
+Selon Coalition, le montant moyen des 
+rançons demandées s’établit à 420 000 $ pour Maze, 282 590 $ pour Ryuk, 176 190 $ pour Netwalker, ma
+is encore 132 573 $ pour Zepplin, 130 694 $ pour DoppelPaymer, 81 825 $ pour Dharma, et enfin un peu
+ moins de 74 000 $ pour Sodinokibi. Et encore, on rappellera que notre enquête sur les négociations 
+a montré l’importance de l’éventail des rançons demandées, mais également que les menaces de divulga
+tion de données ne représentent que moins d’un tiers des cas.
+Les chiffres de Bitdefender sur la men
+ace au premier semestre soulignent cette tendance. Selon eux, les familles de ransomware les plus ac
+tives en juin étaient ainsi Crypt0l0cker, Locky, Locky_diablo6, et Zepto. Pour l’éditeur, le nombre 
+de notifications d’incidents de rançongiciels a été multiplié par 7 au premier semestre, par rapport
+ à la même période en 2019.
+Tout récemment, l’Agence nationale pour la sécurité des systèmes d’infor
+mation (Anssi) a indiqué avoir traité, depuis le début de l’année, 104 attaques de ransomwares, cont
+re 54 sur 2019 dans son ensemble. De son côté, le directeur général du GIP Acyma, Jérôme Notin, fait
+ état de 1 082 signalements de ransomware 7 mois après le lancement de la plateforme, avec 44 % d’en
+treprises ou d’associations et 10 % d’administrations ou collectivités. Las, plusieurs éléments conv
+ergent pour laisser à penser que la vague est loin d’être passée.
+Et les raisons de s’attendre à une
+ fin d’année difficile sur ce front sont nombreuses, dont l’intense reprise d’activité du très dange
+reux Emotet, qu’il n’est pas rare de voir utilisé en préalable au déploiement d’un rançongiciel.
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre la montre
+–CrowdStrike
+
+
+Rapport Thale
+s 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Ran
+somware : regards contrastés d’assureurs sur une situation préoccupante
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+Ransomware : les assaillants poursuivent leurs activités agressivement
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+Ransomware : ceux qui font le plus parler d’eux ne sont pas les plus dangereux
+
+
+
+
+Par: Valéry Marc
+hive
+
+
+
+
+Ransomware : au-delà de l’impression, les chiffres confirment un retour en fanfare
+
+
+
+
+Par:
+ Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Bitcoin – “The Dark Overlord”condamné à 1,5 mil
+lion de dollars et 5 ans de prison
+
+/ ~ 4AC5DDE2 ~ /
+
+#Cybersécurité : Les trois conseils techniques
+ de l’Anssi pour se défendre contre un #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Un #rançongiciel provoque le d
+écès d'une femme en urgence vitale dans un #hôpital allemand.
+https://frama.link/ecdT0rU_
+#cybersecu
+rite #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Face à la recrudescence des attaques par ranson
+giciels (ransomwares), l’Agence française de la cybersécurité publie son premier guide pour s’en pré
+munir et agir en cas d’attaques. Industrie & Technologies a sélectionné pour vous les trois mesures 
+opérationnelles recommandées par l’agence quand on est victime d'une telle cyberattaque.
+
+
+
+	La ten
+dance de 2019 s’est largement confirmée en 2020 : les cyberattaques par rançongiciels (ransomwares),
+ ces logiciels malveillants chargés de chiffrer les données d’un organisme pour lui extorquer de l’a
+rgent, deviennent le fléau numéro un des cyberattaques en France. « Elles connaissent une augmentati
+on sans précédent », et un niveau de sophistication de plus en plus élevé, affirme l’Agence de sécur
+ité des systèmes d’information (Anssi), l’autorité de référence en matière de cybersécurité dans l’H
+exagone dans son premier guide pour sensibiliser les entreprises et les collectivités, publié le 4 s
+eptembre avec la Direction des Affaires criminelles et des grâces (DACG) du ministère de la Justice.
+
+
+	Au total, l’agence a identifié près de 104 attaques de ce type cette année, soit deux fois plus 
+que l’année précédente (54 attaques). Et encore, ces chiffres « ne s'appuie[nt] que sur les faits po
+rtés à la connaissance de l'Anssi et traités par elle », précise le document. Dans la seconde partie
+ de ce document, l’Anssi fournit les clés de ce qu’il faut faire en cas d’attaque de ransomware. Pou
+r étayer son propos, l’agence y fait intervenir les responsables de trois organisations françaises q
+ui ont récemment été victimes d’une telle attaque : le groupe M6, le CHU de Rouen et Fleury Michon.
+
+
+	En plus des bonnes pratiques organisationnelles - déposer une main courante détaillée le plus rap
+idement possible puis porter plainte, déployer une cellule de crise et communiquer sur l’attaque, el
+le détaille surtout les mesures opérationnelles à prendre - témoignage des victimes à l’appui.
+
+	1.
+ Eteindre ce qui peut l’être et conserver les données chiffrées
+
+	La première action à faire impéra
+tivement : « Déconnecter au plus tôt vos supports de sauvegardes après vous être assurés qu’ils ne s
+ont pas infectés et isoler les équipements infectés du système d’information en les déconnectant du 
+réseau » afin de neutraliser le lien entre l’attaquant et son logiciel.
+
+	Une fois les programmes m
+alveillants identifiés, l’Anssi recommande de « rechercher dans les journaux du système d’informatio
+n les éventuelles caractéristiques de ceux-ci (exemple : URL utilisées pour communiquer avec l’infra
+structure de l’attaquant, nom de fichier, condensat, objet du courrier électronique, etc.) » car « c
+es éléments pourront être utilisés sur les passerelles applicatives ou sur les équipements de filtra
+ge réseau pour éviter de nouvelles infections » – comme créer une nouvelle règle sur le pare-feu de 
+la victime pour bloquer l’accès à une URL donnée.
+
+	« Malgré le chiffrement des données par le ranç
+ongiciel, il est possible qu’une solution de chiffrement soit découverte et rendue publique ultérieu
+rement », poursuit le document. C’est pourquoi la victime devrait conserver les données chiffrées. «
+ Le projet No More Ransom, d’Europol, du National High Tech Crime Unit de la police néerlandaise et 
+de l’éditeur McAfee recense les moyens de déchiffrement applicables à un grand nombre de rançongicie
+ls. »
+
+	« L’une des premières actions mises en oeuvre a été de couper les accès au réseau Internet 
+et au réseau interne puis d’isoler tous les composants non impactés, à commencer par les sauvegardes
+, les bases de données ainsi que les baies de stockages », témoigne, Cédric Hamelin, responsable adj
+oint à la sécurité du système d’information du CHU de Rouen.
+
+	2. Ne pas payer la rançon
+
+	La ranç
+on est souvent l’objet de nombreuses tribulations au sein de la communauté cyber. Sur ce point, le c
+onseil de l’Anssi est sans appel : il ne faut jamais la payer.
+
+	L’agence avance trois raisons prin
+cipales. Tout d’abord, son paiement ne garantit pas le déchiffrement de la part de l’attaquant. Ensu
+ite, même si l’attaquant livre la clé de déchiffrement, celle-ci n’assure pas toujours le rétablisse
+ment de la totalité des fichiers. Enfin, et surtout, payer la rançon « n’empêchera pas votre n’empêc
+hera pas votre entité d’être à nouveau la cible de cybercriminels ».
+
+	3. Restaurer les systèmes de
+puis des sources saines
+
+	Et quand il est temps de revenir à la vie normale ? Alors, « il est préfé
+rable de réinstaller le système sur un support connu et de restaurer les données depuis les sauvegar
+des effectuées, de préférence, antérieures à la date de compromission du système », détaille l’Anssi
+.
+
+	Pour restaurer ses données, il est primordial de suivre les règles suivantes :
+
+
+		La vulnérab
+ilité initialement utilisée par l’attaquant doit être corrigée afin d’éviter une nouvelle infection 
+(exemple : mise à jour logicielle, modification de la politique de filtrage réseau).
+
+		Si les rech
+erches ont permis d’identifier le rançongiciel, vérifier l’absence des modifications réalisées par l
+e programme malveillant afin de se maintenir après le redémarrage d’une machine précédemment infecté
+e (exemple : valeurs de registre et fichiers malveillants).
+
+		Changer les mots de passe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Une femme décède au cours d'un ransomware dans un hôpital allemand https://buff
+.ly/35J5sAZ
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware
+@GEFCO_Group logisticien français vient de reconnaître êt
+re victime d’une attaque informatique de grande ampleur. Selon nos informations, il s’agit d’un ranç
+ongiciel. Avec à la clé, un important chantier de reconstruction.
+https://lemagit.fr/actualites/2524
+89533/Gefco-pris-a-son-tour-dans-la-tourmente-dune-cyberattaque-majeure… v/@LeMagIT
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 22 sept.
+ 2020
+
+
+ 
+Le groupe de restauration collective a fait l’objet d’une cyberattaque début juin par les 
+cybertruands aux commandes du rançongiciel Sodinokibi. Un échantillon de celui-ci mentionnant explic
+itement Elior est désormais accessible publiquement. De quoi confirmer une information qui nous avai
+t précédemment été glissée, mais qu’aucune communication officielle du groupe n’était jusqu’ici venu
+e confirmer – que ce soit à destination de la presse ou des investisseurs. Selon cet échantillon du 
+ransomware, les assaillants demandaient initialement le paiement d’une rançon de 650 000 $.
+Suite de
+ l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Ransomware : La menace se fait plus
+ ciblée
+Nul RSSI n'ignore la présence de ransomware, mais beaucoup sous-estiment leur côté pernicieu
+x et à quel point ces derniers peuvent être ciblés. Ce guide vous présente ce danger ainsi que les m
+esures pour s'en préserver.
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'
+indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistr
+é. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci 
+d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarge
+t, ainsi que la politique de confidentialité et le transfert de mes informations aux États-Unis pour
+ traitement afin de me fournir les informations pertinentes décrites dans notre Politique de confide
+ntialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations so
+ient traitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais du télépho
+ne ou du courrier électronique et ce à propos d’informations pertinentes dans mon contexte professio
+nnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous avons sollicité Elior dès que nous avons trouvé l’échantillon en q
+uestion. Initialement, le groupe ne souhaitait pas communiquer, affirmant avec assurance l’absence d
+e vol de données, mais également celle d’un impact opérationnel ou financier, et surtout, celle d’un
+ versement de rançon.
+Mais voilà, les cyberdélinquants nous ont contactés directement, dans le cadre
+ de leurs efforts pour accentuer la pression médiatique sur l’une de leurs autres victimes, que nous
+ ne nommerons pas afin d’éviter de faire leur jeu.
+
+
+
+Extrait du message déposé après chiffrement pa
+r l'échantillon du ransomware.
+ 
+
+
+
+
+Dans le cadre de cet échange, les assaillants nous ont indiqué 
+avoir dérobé « à peu près » 5 To de données à Elior. Pour appuyer leur propos, ils nous ont présenté
+ ce qu’ils avancent comme une copie de données d’authentification, pour des comptes administrateurs 
+liés à des domaines du groupe, dérobées à l’aide de Mimikatz. Selon eux, c’est tout ce qu’il leur re
+ste, à ce jour, des éléments volés dans le système d’information d’Elior.
+Les données présentées cor
+respondent bien à une sortie de Mimikatz, utilisé qui plus est avec des arguments permettant d’obten
+ir des détails cruciaux pour s’assurer une plus grande discrétion dans l’utilisation de tickets d’au
+thentification dérobés. Selon nos sources, la nomenclature correspondrait à celle qui était utilisée
+ chez Elior à l’époque des faits. Autant d’éléments incohérents avec la position du groupe.
+Et cela 
+d’autant plus que, typiquement, les opérateurs de Revil conservent les données de leurs victimes jus
+qu’à ce qu’une rançon soit payée. Et de faire pression pour obtenir ce résultat en divulguant gradue
+llement les éléments dérobés, après avoir simplement menacé de le faire. Il leur est également arriv
+é de vendre ces données aux enchères. Dès lors, nous avons demandé aux cyberdélinquants quel montant
+ aurait été finalement payé. Réponse : « malheureusement, nous avons peu de choses à dire là-dessus 
+». 
+Pour Elior, la situation peut être d’autant plus amère qu’elle souligne que le ransomware, ça n’
+arrive pas qu’aux autres : son RSSI, Gérard Leymarie, est titulaire du grand prix RSSI 2019, et a of
+ficié durant près de huit ans à l’Agence nationale pour la sécurité des systèmes d’information (Anss
+i).
+Surtout, si les affirmations des cybertruands s’avéraient fondées, mais pas celles d’Elior, ce c
+as illustrerait à quel point céder à l’extorsion et faire confiance aux cyberdélinquants est une mau
+vaise idée. Notre enquête sur les négociations avait déjà laissé entrevoir une absence nette de scru
+pules. Dans le cas présent, si les assaillants disent vrai, alors ils n’ont pas hésité à briser le s
+ilence, montrant à quel point espérer leur discrétion peut être vain.
+En outre, les éléments qu’ils 
+nous ont communiqués tendent à souligner l’importance d’un nettoyage complet et profond de l’infrast
+ructure en cas d’attaque : si ce travail de reconstruction n’est pas fait, le risque est que les ass
+aillants disposent encore de vecteurs d’accès au système d’information. Ce qu’un cas comme celui d’A
+rtech avait déjà pu suggérer.  
+Nous avons transmis à Elior les éléments avancés par les cybertruand
+s et demandé des commentaires additionnels sur les questions qu’ils soulèvent. Nous ne manquerons pa
+s de mettre à jour cet article lorsqu’ils nous parviendront.
+[Mise à jour 22/09/2020 @ 21h00] Elior 
+nous a fait parvenir une réponse écrite que nous partageons ici en intégralité, avec l’autorisation 
+du groupe : 
+« Nous avons bien pris connaissance de vos différents messages et de la publication de 
+votre article.Votre article véhicule de nombreuses fausses informations ainsi que de nombreuses impr
+écisions. Il est également volontairement anxiogène et vise à faire croire que notre entreprise a ét
+é fortement impactée par cette attaque voir laisse sous-entendre que nous avons payé une rançon, ce 
+qui est totalement faux.Pour l’ensemble de ces raisons, nous ne souhaitons pas répondre à vos sollic
+itations au sujet de cette tentative de ransomware dont notre Groupe a été la cible il y a déjà plus
+ieurs mois.A l’époque, notre réaction immédiate nous avait permis d’assurer la continuité de nos ser
+vices et prestations auprès de nos clients, convives et fournisseurs. Et l’ensemble des mesures qui 
+devaient être prises l’ont été. Par ailleurs, nous n’avions constaté aucunes fuites de données autre
+s que des données purement techniques. Aucune fuite de données personnelles donc, mais par mesure de
+ précaution Elior avait adressé une notification auprès de la CNIL, autorité compétente en la matièr
+e.En revanche, comme vous l’imaginez, l’entreprise a déposé plainte à l’époque de faits. Ce dossier 
+est aujourd’hui judiciarisé et tous les éléments permettant de faire avancer l’enquête en cours doiv
+ent être transmis aux services de police compétents. »
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversair
+es et course contre la montre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thal
+es
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Gefco pris à son tour dans la tourmente d’une
+ cyberattaque majeure
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : l’attaque peut être maîtrisée sans q
+ue la situation soit sous contrôle
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Expanscience, sauvé de Maze par le c
+loud ?
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : DarkSide et Conti menacent à leur tour de divulguer
+ les données
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#A10_Networks : Attaques de ransomwar
+es et exfiltration des données.
+Le ransomware est l’une des attaques les plus sophistiquées et les p
+lus redoutées des menaces actuelles.
+
+Comment  #2SB et #A10_Networks contribue à vous protéger contr
+e les ransomwares?
+https://2sb.fr/blog/2020/09/23/a10_networks_ransomware_exfiltration_donnes/…
+
+/ ~
+ 4AC5DDE2 ~ /
+
+
+
+
+
+Ransomware Bitcoin – “The Dark Overlord”condamné à 1,5 million de dollars et 5 an
+s de prison
+
+
+
+
+Par Louis Roche -   24 septembre 2020 - 9h09 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GO
+
+
+
+Oui, j'accepte de 
+recevoir des emails selon votre politique de confidentialité.
+
+
+
+
+
+
+
+
+
+
+Continuez »
+
+
+
+
+
+
+
+
+
+
+J'acce
+pte de recevoir des emails selon votre politique de confidentialité.
+
+
+non
+oui
+
+
+
+
+
+
+TweetezPartagez
+PartagezEnregistrer0 Partages      5    (1) Un crypto-hacker démasqué de plus par les autorités amér
+icaines – Un ressortissant du Royaume-Uni a plaidé coupable le 22 septembre 2020. L’homme est accusé
+ de vol d’identité aggravé, ainsi que de fraude informatique globale. La sentence est finalement fix
+ée à cinq ans de prison fédérale.
+The Dark Overlord : un groupe actif
+L’accusation est de taille : N
+athan Wyatt, 39 ans, a été membre d’un collectif de hackers connu sous le nom de « The Dark Overlord
+ ». Ce groupe a fait pression sur d’innombrables sociétés aux États-Unis, et ce, à de nombreuses rep
+rises. L’objectif était d’accéder à distance aux réseaux informatiques de plusieurs entreprises, san
+s leur autorisation. Les victimes comprenaient des prestataires de santé, des cabinets comptables, e
+t autres.
+Wyatt a admis qu’à partir de 2016, il était membre du groupe de pirates. Son rôle était d’
+obtenir des données sensibles sur les entreprises ciblées, puis de menacer ces dernières en demandan
+t une rançon pouvant aller de 75 000 à 350 000 dollars. La note devait bien entendu être payée en Bi
+tcoin. Dans certains cas, les pirates utilisaient même des informations sensibles relatives aux fami
+lles des victimes.
+” Maybe your [sic] just a dumb rich girl who doesn’t [sic] understand the dangers
+ here. Im gonna try Chels. she may have an iq. stay hot. “
+Nathan Wyatt a utilisé ses compétences po
+ur développer des moyens de communication, ainsi que des réseaux virtuels privés, qui ont servi pour
+ émettre les messages de menace aux victimes. Une erreur fatale a tout de même permis d’identifier l
+’homme. Wyatt a en effet utilisé son propre téléphone portable pour contacter une de ses victimes.
+
+
+La justice a tranché
+L’homme avait été extradé du Royaume-Uni, vers le District est du Missouri, en 
+décembre 2019, pour comparaître en justice. Après plus d’un an de procédure, le juge américain Ronni
+ White, a condamné Wyatt à 5 ans de prison, et lui a ordonné de payer 1 467 048 de dollars en guise 
+de dédommagement.
+Le rapport publié par le DoJ démontre une forte volonté de la justice de s’attaque
+r aux pirates qui s’introduisent illégalement dans la vie privée des Américains.
+“Les cyberpirates c
+roient à tort qu’ils peuvent se cacher derrière un clavier. Dans cette affaire, le FBI a démontré un
+e fois de plus qu’il imposera des conséquences aux cybercriminels, quels que soient le temps et l’en
+droit où ils se trouvent.” – Richard, agent spécial en charge du dossier
+Les « ransomware » se dével
+oppent de façon fulgurante, et gagnent en ingéniosité. Selon un rapport, ces logiciels malveillants 
+représentent un coût estimé à 7,5 milliards de dollars, rien qu’en 2019. À l’heure où le télétravail
+ est de mise, de nombreuses personnes voient désormais leur espace de travail exposé au web. Ce type
+ d’attaque a donc un bel avenir devant lui…
+   Vous avez apprécié cet article ?   Cliquez pour lui d
+onner votre note !                       Voter   Moyenne 5 / 5. Nombre de votes : 1   Pas encore de 
+votes ! Soyez le premier à noter cet article.     TweetezPartagezPartagezEnregistrer0 Partages
+
+
+/ ~
+ 4AC5DDE2 ~ /
+
+
+
+Email
+Print
+ Facebook
+ Twitter
+ Linkedin
+
+Je ne sais pas ce qu’il s’est passé cet é
+té, ou peut-être quelques semaines ou quelques mois avant. Toutes ces histoires de virus… Je veux pa
+rler bien sûr de toutes ces entreprises qui ont été victimes de ransomwares, les unes à la suite des
+ autres, comme un effet domino sans fin… Et cette question existentielle : « Payer… Ou ne pas payer…
+ »
+Par Mathieu Flecher, DSI d’une entreprise industrielle française
+On ne va pas revenir sur les cau
+ses. On sait tous que le problème est entre la chaise et le clavier. Que lorsqu’une entreprise est v
+ictime d’un ransomware, c’est majoritairement, voire exclusivement, dû à un utilisateur qui, par exc
+ès de confiance, clique là où il ne faut pas, s’authentifie alors qu’il ne faut pas, et ouvre la por
+te aux méchants hackers. Bref, le faux pas.
+Je vais parler ici de deux phénomènes. Le premier est la
+ communication que l’on va mettre en place autour de cet événement. Le second est la décision que l’
+on va prendre : allons-nous payer ou pas ?
+Si l’on prend l’exemple de Garmin, qui a été rendu public
+ relativement tôt, beaucoup ont jugé que leur communication a été mal organisée. Pour eux, il y avai
+t un vrai risque à la fois de corruption et de vol de leurs données, qui pouvait de plus entacher gr
+andement la confiance que les utilisateurs pouvaient avoir dans leur système. C’est clairement un co
+up à faire fuir tous les clients si vous n’êtes pas capable d’assurer la sécurité des données les co
+ncernant.
+Alors, forcément, quand vous êtes victime d’un ransomware et qu’on vous réclame 10 M$ sur 
+un chiffre d’affaires trimestriel avoisinant les 800 M$, c’est tout à fait raisonnable … bien que to
+ujours déraisonnable.
+Payer 10 millions et étouffer l’affaire ? Ne pas payer 10 millions et rendre l
+’affaire publique ? Payer les 10 millions et néanmoins voir cette affaire arriver sur la place publi
+que ? Cruel dilemme du fait que les implications dépassent le simple management des systèmes d’infor
+mation et ont bien trait à la survie de l’entreprise tout entière.
+Donc vous avez beau préparer en a
+mont cette éventualité, lorsqu’elle se présente, tout ce que vous avez imaginé peut varier en foncti
+on de la typologie d’attaque, et de la réaction que les hackers auront vis-à-vis de votre entreprise
+. Ah oui, car vous pouvez très bien, qui plus est, payer et ne jamais recevoir votre clé de décrypta
+ge. Ce qui met à mal le moindre de vos scénarios élaborés.
+Et vous, avez-vous déjà eu une discussion
+ en tête-à-tête avec votre PDG pour lui poser la question fatidique : « Dites-moi, Gérard, si jamais
+ nous sommes victimes d’un ransomware et qu’on nous réclame une somme avoisinant 5 % du chiffre d’af
+faires, quelle sera votre position ? »
+Je pense qu’aucun d’entre nous n’a eu cette discussion de faç
+on aussi frontale. Pourtant, il me semble important de préparer un minimum cette éventualité. Une so
+rte de PCA en quelque sorte.
+Ce qui m’a bien fait rire pendant l’été, c’est de lire dans les journau
+x les propos de toutes ces personnes bien pensantes qui se gargarisaient d’avis sur la question, en 
+expliquant et en clamant haut et fort qu’en aucun cas il ne fallait payer.
+Cette position très vertu
+euse, je peux la comprendre, je peux l’entendre, mais quand c’est vous qui êtes concerné, je doute f
+ort que le discours soit le même.
+Quand vos données se sont envolées, quand vos clients sont dans le
+ doute, je pense que vous êtes prêt à tout pour retrouver une situation normale. Bien sûr qu’il ne f
+aut pas payer, parce que, quelque part, c’est encourager un commerce illégal. Un peu comme un parrai
+n de la pègre dans les années 1920 qui venait casser votre boutique si vous n’acceptiez pas sa « pro
+tection ». Expliqué sous cet angle, on se dit qu’effectivement il ne faut surtout pas payer, qu’il f
+aut résister, aller voir la police, demander par exemple conseil à l’ANSSI.
+Malheureusement, il ne s
+’agit plus d’un petit commerce illicite à l’échelle d’une ville secondaire, mais bien de sociétés in
+ternationales que l’on détrousse comme de vulgaires marchands de légumes – contre lesquels je n’ai r
+ien et cela m’embêterait bien, d’ailleurs, que le mien ait des soucis tellement il m’a dépanné penda
+nt le confinement. Et la somme n’est évidemment pas la même. De quoi attiser toutes les convoitises,
+ et de générer des vocations chez les apprentis hackers.
+Je vous avoue que, personnellement, je suis
+ complètement démuni face à cette situation. Si demain nous étions victimes de ce genre d’escroqueri
+e, parce qu’il s’agit bien d’escroquerie, je suis dans l’incapacité d’établir le moindre plan de con
+tinuité d’activité.
+Malheureusement, en quelque sorte, ce qui viendra sauver certaines entreprises, 
+c’est leur secteur d’activité. Pour un hacker, c’est sexy, c’est tentant, c’est jubilatoire même, de
+ se dire qu’on est en train de détrousser les données personnelles de millions d’utilisateurs qui pr
+atiquent leur activité sportive préférée. C’est moins sexy de se gargariser d’avoir rançonné une soc
+iété industrielle de la Creuse qui fabrique des joints en silicone pour des robinets. Et probablemen
+t moins rémunérateur également, car le montant de la rançon demandée ne sera certainement pas le mêm
+e.
+Mais, comme dirait le meilleur RSSI de France, dont personne ne connaît le nom pour des raisons é
+videntes de sécurité, « l’essentiel n’est pas de se protéger, mais de savoir comment se relever ».
+C
+hers amis DSI, je vous laisse imaginer vos plans de reprise d’activité sous cette période doublement
+ « vérolée ».
+
+(*) Mathieu Flecher est le pseudonyme d’un DSI bien réel…
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ce qui 
+serait intéressant c’est pourquoi ? Ransomware de la clinique, des http://patient.es ? Sinon 5 ans c
+’est assez conséquent quand même  pour ca, vu les competences, moi j’opterai pour des travaux d’inté
+rêt général 
+
+/ ~ 4AC5DDE2 ~ /
+
+Sodinokibi : ce ransomware que le groupe Elior peine à digérer ... |
+ @scoopit
+
+/ ~ 4AC5DDE2 ~ /
+
+Le fabricant de lunettes Luxottica a été victime d'un rançongiciel, san
+s toutefois accès ou vol de données client.
+#CyberAttack #CyberSecurity #ransomware
+https://bit.ly/2
+FVQT2q
+
+/ ~ 4AC5DDE2 ~ /
+
+Une femme a perdu la vie lors d’une cyberattaque de type ransomware menée 
+contre un hôpital allemand. Incapable de prendre en charge la patiente, l’établissement a tenté de l
+a transférer vers un autre complexe, mais elle n’a pas survécu au trajet…C’est probablement le premi
+er décès directement provoqué par une cyberattaque. Lors d’une attaque au ransomware contre le Dusse
+ldorf University Hospital, une femme a perdu la vie.L’hôpital, paralysé par le malgiciel, était inca
+pable d’accepter les patients au service d’urgences. La femme a donc été envoyée dans un autre établ
+issement, situé à environ 30 kilomètres.    En savoir plus  Malheureusement, elle n’a pas survécu à 
+ce trajet. La police va mener l’enquête, et si son décès est bel et bien lié au transfert vers l’aut
+re hôpital, la cyberattaque sera considérée comme un homicide.Selon RTL, toutefois, l’attaque ne vis
+ait initialement pas l’hôpital. La note de rançon était adressée à une université située à proximité
+.Lorsque les autorités ont annoncé aux hackers qu’ils avaient neutralisé un hôpital, ils ont d’aille
+urs immédiatement cessé l’offensive. Hélas, il était trop tard.Ransomware : les hôpitaux ne sont pas
+ suffisamment protégésDepuis maintenant plusieurs années, les experts en cybersécurité tirent la son
+nette d’alarme : les hôpitaux ne sont pas suffisamment préparés contre les cyberattaques. Pourtant, 
+ils représentent une cible de choix pour les criminels et un ransomware peut avoir des conséquences 
+dramatiques comme le prouve cette tragédie.Ces établissements reposent sur des appareils, tels que l
+es équipements de radiologie, désormais très souvent connectés à internet. Sans ces outils, ils sont
+ incapables de traiter les patients.La connexion à internet apporte de nombreux avantages en termes 
+de performances, de précision et d’efficacité. Cependant, la dépendance à la technologie induit égal
+ement un risque. La moindre attaque, la moindre panne peut engendrer un désastre.Même les attaques v
+isant à dérober des données médicales de patients, sans impacter les appareils électroniques, peuven
+t être dangereuses. Selon une étude, le taux de décès par attaque cardiaque d’un hôpital augmente fo
+rtement dans les années suivant une fuite de données.Pour cause, les hôpitaux doivent consacrer leur
+s ressources à réagir à l’attaque ou mettre à jour leurs logiciels et la façon dont les médecins opè
+rent s’en trouve bouleversée. Toute attaque informatique représente donc un fléau pour les établisse
+ments de santé.C’est loin d’être la première fois qu’un hôpital est paralysé par une cyberattaque. D
+éjà en 2017, le malware WannaCry avait paralysé les systèmes des plus grands hôpitaux. Le National H
+ealth Service du Royaume uni avait été totalement désactivé.Certes, aucun décès ne s’en était suivi,
+ mais les experts craignaient qu’il ne s’agisse que d’une question de temps. Leurs funestes prédicti
+ons se sont avérées fondées.A patient died when a German hospital was hit by ransomware, causing del
+ays in life-saving treatment. Looks like the fears of healthcare cybersecurity professionals have co
+me true 🙁 https://t.co/de0xjpF2VH— Steve Christey Coley (@SushiDude) September 17, 2020Dans un monde
+ où le cybercrime est en pleine effervescence, il est indispensable que les hôpitaux du monde entier
+ renforcent la cybersécurité de leurs systèmes. Le danger ne fera qu’à s’accroître au fil des années
+.La dépendance à la technologie va continuer d’augmenter, et les hôpitaux vont générer toujours plus
+ de données attirant la convoitise des hackers. De plus, ces derniers utilisent des malwares de plus
+ en plus sophistiqués en exploitant de nouvelles technologies comme l’intelligence artificielle. La 
+protection des établissements de santé est donc désormais une priorité pour les experts de la cybers
+écurité…
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Bitcoin – “The Dark Overlord”condamné à 1,5 million de dollar
+s et 5 ans de prison 
+              
+  100% de l'actu crypto sur https://cryptoflux.fr
+https://journ
+alducoin.com/actualites/ransomware-bitcoin-the-dark-overlordcondamne-a-15-million-dollars-5-ans-pris
+on/…
+#Cryptomonnaies #Bitcoin #Blockchain
+
+/ ~ 4AC5DDE2 ~ /
+
+Cyberattaue contre l’hôpital Dusseldorf
+ : une femme décédée à cause d’un ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Le cheval de troie Emotet est pris 
+très au sérieux par l'ANSSI et le CERT-FR qui a diffusé un bulletin d'alerte à son sujet notamment p
+arce qu'il est très actif en France. Pendant 5 mois, Emotet ne donnait plus de signe de vie mais dep
+uis juillet 2020 il est de retour.
+A la base, ce trojan cible les données bancaires mais il s'avère 
+que son spectre d'attaque s'est élargi et il s'appuie sur du spear phishing pour tromper ses victime
+s. En effet, des e-mails sont envoyés avec un faux historique de conversation par e-mail pour tenter
+ de tromper l'utilisateur et de gagner sa confiance. L'ANSSI constate que depuis quelques jours ce t
+rojan s'attaque aux entreprises et administrations françaises.
+Emotet n'est pas nouveau puisqu'il a 
+été repéré la première fois en 2014. Il dispose de trois modules capable de récupérer les mots de pa
+sse stockés dans les navigateurs (Internet Explorer, Mozilla Firefox, Google Chrome, Safari, Opera) 
+et dérober des pièces jointes, listes de contacts ainsi que des courriels, pour ensuite se propager 
+au travers du réseau en exploitant des vulnérabilités du protocole SMB notamment EternalBlue. L'ANSS
+I mentionne que Emotet s'attaque aux clients de messagerie suivants : Microsoft Outlook, Windows Mai
+l, Mozilla Thunderbird, Hotmail, Yahoo! Mail et Gmail.
+L'ANSSI explique clairement et précisément co
+mment s'y prend Emotet pour tromper les victimes : "Une fois la boîte courriel d’un employé de l’ent
+ité victime compromise, le code malveillant Emotet exfiltre le contenu de certains de ses courriels.
+ Sur la base de ces derniers, les attaquants produisent des courriels d’hameçonnage prenant la forme
+ d’une réponse à une chaîne de courriels échangés entre l’employé et des partenaires de l’entité pou
+r laquelle il travaille. L’objet légitime du courriel d’hameçonnage est alors précédé d’un ou plusie
+urs « Re : », et le courriel lui-même contient l’historique d’une discussion, voire même des pièces 
+jointes légitimes."
+En lisant ces quelques lignes, vous pouvez rapidement comprendre que ce trojan e
+st astucieux et qu'il peut en tromper plus d'un. En effet, les courriels générés par Emotet ont une 
+apparence légitime et ils vont être envoyés aux personnes ayant participées à la conversation d'orig
+ine, de quoi accroître sa crédibilité.
+Un détail est important : les e-mails ne sont pas envoyés à p
+artir des boites aux lettres compromises. Ils sont envoyés directement par le groupe de hackers TA52
+ à partir d'adresses ayant une orthographe douteuse : un point important à mettre en avant auprès de
+ vos utilisateurs.
+L'e-mail en lui-même n'est pas dangereux mais ce sont les éléments qu'il contient
+ qui sont dangereux. En fait, l'e-mail contient généralement une pièce jointe malveillant, soit un d
+ocument Word, soit un PDF, et parfois un lien qui renvoie vers des sites compromis ou vers un docume
+nt Word doté de macros malveillantes.
+En cas d'infection, le nettoyage de la machine par l'antivirus
+ n'est pas la garantie que la machine est complètement nettoyée. Le mieux étant de réinstaller la ma
+chine. Si vous avez un doute, vous pouvez télécharger l'outil Emocheck sur votre machine pour vérifi
+er la présence du trojan sur une machine Windows. Il s'agit d'un outil créé par le CERT Japonais et 
+disponible à cette adresse : Emocheck
+En complément d'information, l'ANSSI recommande de consulter l
+e site cryptolaemus.com pour récupérer une liste des adresses IP des serveurs associés à Emotet.
+Sou
+rce 
+
+/ ~ 4AC5DDE2 ~ /
+
+"L’ANSSI prévient : le Trojan Emotet est très actif en France"
+Genre rouge é
+carlate ?
+#cybersecurite #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valér
+y Marchive,
+Rédacteur en chef
+
+
+
+	Publié le: 22 sept. 2020
+
+
+ 
+Le groupe de restauration collective 
+a fait l’objet d’une cyberattaque début juin par les cybertruands aux commandes du rançongiciel Sodi
+nokibi. Un échantillon de celui-ci mentionnant explicitement Elior est désormais accessible publique
+ment. De quoi confirmer une information qui nous avait précédemment été glissée, mais qu’aucune comm
+unication officielle du groupe n’était jusqu’ici venue confirmer – que ce soit à destination de la p
+resse ou des investisseurs. Selon cet échantillon du ransomware, les assaillants demandaient initial
+ement le paiement d’une rançon de 650 000 $.
+Suite de l'article ci-dessous
+
+
+
+
+
+Télécharger gratuite
+ment ce guide
+
+
+
+
+Information sécurité 12 : Menace Cyber #NotPetya : les enseignements tirés chez Ma
+ersk
+Le paysage de la menace cyber a fondamentalement changé, avec un risque très réel d'être pris d
+ans des activités parrainées par des États-nations. Ce numéro de Information Sécurité vous livre la 
+tendance en matière de cybersécurité, de la gestion des vulnérabilités à Toyota en passant par le Da
+nemark
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer une adresse 
+e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vous iden
+tifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entrer une adresse 
+e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi que la polit
+ique de confidentialité et le transfert de mes informations aux États-Unis pour traitement afin de m
+e fournir les informations pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+Veuillez
+ cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient traitées par Tec
+hTarget et ses partenaires afin de communiquer avec moi par le biais du téléphone ou du courrier éle
+ctronique et ce à propos d’informations pertinentes dans mon contexte professionnel. Je peux me dési
+nscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous avons sollicité Elior dès que nous avons trouvé l’échantillon en question. Initialement
+, le groupe ne souhaitait pas communiquer, affirmant avec assurance l’absence de vol de données, mai
+s également celle d’un impact opérationnel ou financier, et surtout, celle d’un versement de rançon.
+
+Mais voilà, les cyberdélinquants nous ont contactés directement, dans le cadre de leurs efforts pou
+r accentuer la pression médiatique sur l’une de leurs autres victimes, que nous ne nommerons pas afi
+n d’éviter de faire leur jeu.
+
+
+
+Extrait du message déposé après chiffrement par l'échantillon du ra
+nsomware.
+ 
+
+
+
+
+Dans le cadre de cet échange, les assaillants nous ont indiqué avoir dérobé « à peu 
+près » 5 To de données à Elior. Pour appuyer leur propos, ils nous ont présenté ce qu’ils avancent c
+omme une copie de données d’authentification, pour des comptes administrateurs liés à des domaines d
+u groupe, dérobées à l’aide de Mimikatz. Selon eux, c’est tout ce qu’il leur reste, à ce jour, des é
+léments volés dans le système d’information d’Elior.
+Les données présentées correspondent bien à une
+ sortie de Mimikatz, utilisé qui plus est avec des arguments permettant d’obtenir des détails crucia
+ux pour s’assurer une plus grande discrétion dans l’utilisation de tickets d’authentification dérobé
+s. Selon nos sources, la nomenclature correspondrait à celle qui était utilisée chez Elior à l’époqu
+e des faits. Autant d’éléments incohérents avec la position du groupe.
+Et cela d’autant plus que, ty
+piquement, les opérateurs de Revil conservent les données de leurs victimes jusqu’à ce qu’une rançon
+ soit payée. Et de faire pression pour obtenir ce résultat en divulguant graduellement les éléments 
+dérobés, après avoir simplement menacé de le faire. Il leur est également arrivé de vendre ces donné
+es aux enchères. Dès lors, nous avons demandé aux cyberdélinquants quel montant aurait été finalemen
+t payé. Réponse : « malheureusement, nous avons peu de choses à dire là-dessus ». 
+Pour Elior, la si
+tuation peut être d’autant plus amère qu’elle souligne que le ransomware, ça n’arrive pas qu’aux aut
+res : son RSSI, Gérard Leymarie, est titulaire du grand prix RSSI 2019, et a officié durant près de 
+huit ans à l’Agence nationale pour la sécurité des systèmes d’information (Anssi).
+Surtout, si les a
+ffirmations des cybertruands s’avéraient fondées, mais pas celles d’Elior, ce cas illustrerait à que
+l point céder à l’extorsion et faire confiance aux cyberdélinquants est une mauvaise idée. Notre enq
+uête sur les négociations avait déjà laissé entrevoir une absence nette de scrupules. Dans le cas pr
+ésent, si les assaillants disent vrai, alors ils n’ont pas hésité à briser le silence, montrant à qu
+el point espérer leur discrétion peut être vain.
+En outre, les éléments qu’ils nous ont communiqués 
+tendent à souligner l’importance d’un nettoyage complet et profond de l’infrastructure en cas d’atta
+que : si ce travail de reconstruction n’est pas fait, le risque est que les assaillants disposent en
+core de vecteurs d’accès au système d’information. Ce qu’un cas comme celui d’Artech avait déjà pu s
+uggérer.  
+Nous avons transmis à Elior les éléments avancés par les cybertruands et demandé des comm
+entaires additionnels sur les questions qu’ils soulèvent. Nous ne manquerons pas de mettre à jour ce
+t article lorsqu’ils nous parviendront.
+[Mise à jour 22/09/2020 @ 21h00] Elior nous a fait parvenir 
+une réponse écrite que nous partageons ici en intégralité, avec l’autorisation du groupe : 
+« Nous a
+vons bien pris connaissance de vos différents messages et de la publication de votre article.Votre a
+rticle véhicule de nombreuses fausses informations ainsi que de nombreuses imprécisions. Il est égal
+ement volontairement anxiogène et vise à faire croire que notre entreprise a été fortement impactée 
+par cette attaque voir laisse sous-entendre que nous avons payé une rançon, ce qui est totalement fa
+ux.Pour l’ensemble de ces raisons, nous ne souhaitons pas répondre à vos sollicitations au sujet de 
+cette tentative de ransomware dont notre Groupe a été la cible il y a déjà plusieurs mois.A l’époque
+, notre réaction immédiate nous avait permis d’assurer la continuité de nos services et prestations 
+auprès de nos clients, convives et fournisseurs. Et l’ensemble des mesures qui devaient être prises 
+l’ont été. Par ailleurs, nous n’avions constaté aucunes fuites de données autres que des données pur
+ement techniques. Aucune fuite de données personnelles donc, mais par mesure de précaution Elior ava
+it adressé une notification auprès de la CNIL, autorité compétente en la matière.En revanche, comme 
+vous l’imaginez, l’entreprise a déposé plainte à l’époque de faits. Ce dossier est aujourd’hui judic
+iarisé et tous les éléments permettant de faire avancer l’enquête en cours doivent être transmis aux
+ services de police compétents. »
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre l
+a montre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfo
+ndir sur Menaces informatiques
+
+
+
+Gefco pris à son tour dans la tourmente d’une cyberattaque majeure
+
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : l’attaque peut être maîtrisée sans que la situation soit 
+sous contrôle
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Expanscience, sauvé de Maze par le cloud ?
+
+
+
+
+Par: Valér
+y Marchive
+
+
+
+
+Ransomware : DarkSide et Conti menacent à leur tour de divulguer les données
+
+
+
+
+Par:
+ Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Orpea, qui gère plus de 1000 Ehpad dans 22 pays, a été vic
+time d'une #cyberattaque
+ https://usine-digitale.fr/article/le-gestionnaire-de-maison-de-retraite-or
+pea-victime-d-une-cyberattaque.N1008179… #ransomware #cybersécurité w./ @LUsineDigitale

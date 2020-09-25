@@ -1,0 +1,928 @@
+Attacchi #ransomware: una società di assicurazioni li ha ridotti del 65%
+Un miracolo? No. È bastato 
+imporre ai suoi assicurati l’uso di #software di #sicurezza per eliminare le vulnerabilità dei siste
+mi IT.
+https://securityinfo.it/2020/09/23/attacchi-ransomware-una-societa-di-assicurazioni-li-ha-rid
+otti-del-65/…
+#euroinformatica #cybercrime #CyberSecurity
+
+/ ~ 4AC5DDE2 ~ /
+
+Denunciato l'attacco ra
+nsomware all'ospedale di Düsseldorf dove è morta la donna che richiedeva cure urgenti. È stato Doppe
+lpaymer.Secondo le notizie, l'ospedale di #Düsseldorf, in #Germania, ha respinto un'ambulanza che tr
+asportava una donna che necessitava di cure di emergenza in quanto paralizzato da un attacco #ransom
+ware.La paziente di 78 anni, che soffriva di aneurisma aortico, è morta dopo essere stato dirottata 
+presso un'altra struttura.Il quotidiano Aachener Zeitung ha riportato in un rapporto dell'Associazio
+ne tedesca della stampa (#DPA), che la banda di ransomware #Doppelpaymer aveva introdotto nella rete
+ dell'#ospedale universitario il #malware attraverso un prodotto #Citrix vulnerabile.Il rapporto del
+l'Ufficio federale per la sicurezza delle informazioni (#BSI), collega specificamente l'attacco all'
+ospedale di Düsseldorf alla  CVE-2019-19781 che affligge i prodotti #Citrix. Il team federale di #in
+fosec è stato coinvolto nel ripristino dei sistemi informatici dell'ospedale.Forse ci troviamo di fr
+onte alla stessa banda che ha preso di mira #Luxottica?#redhotcyber #cybersecurity #news https://www
+.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2020/UKDuesseldorf_170920.html
+
+/ ~ 4AC5DDE2 ~ /
+
+Al
+la luce dell'esito letale dell'attacco #ransomware contro l'ospedale di Düsseldorf una bella analisi
+ di @Cybersec360 in merito alla scarsa #sicurezza nelle strutture sanitarie https://buff.ly/2FMs6Ol
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Attacchi ransomware: una società di assicurazioni li ha ridotti del 65%
+
+ Set 2
+3, 2020  Marco Schiaffino
+ Gestione dati, In evidenza, News, Prodotto, RSS, Scenario, Tecnologia, Vu
+lnerabilità
+ 0
+
+
+Un miracolo? No. È bastato imporre ai suoi assicurati l’uso di software di sicurezz
+a per eliminare le vulnerabilità dei sistemi IT.
+A volte gli esperti di sicurezza vengono accusati d
+i sembrare un disco rotto, soprattutto quando richiamano le aziende a implementare una pianificazion
+e nelle strategie di cyber security. Come dimostra la vicenda di Corvus, però, gli esperti di sicure
+zza hanno ragione da vendere.
+Corvus è una società di assicurazione contro i rischi cyber, un settor
+e che ha vissuto un’ampia crescita negli ultimi anni e che vede nei ransomware il maggior numero di 
+eventi dannosi per i loro assicurati.
+Per limitare il numero di incidenti ed evitare di trovarsi a d
+over pagare continuamente risarcimenti ai suoi assistiti, dalle parti di Corvus hanno pensato bene d
+i agire in un’ottica di prevenzione, cercando di individuare il modus operandi più comune dei pirati
+ e mettendo in campo delle contromisure per mitigare il rischio di attacchi ransomware.
+
+Sorpresa: n
+on è stato per niente difficile. Analizzando le statistiche delle società di sicurezza e i documenti
+ pubblicati da varie agenzie, emerge infatti come la maggior parte degli attacchi segua uno schema p
+iuttosto definito e che il vettore di attacco più comune sia l’utilizzo di collegamenti RDP (Remote 
+Desktop) che vengono compromessi per ottenere l’accesso alla rete.
+Corvus ha quindi modificato le su
+e policy per gli assicurati prevedendo una scansione di sicurezza con un software fornito dalla soci
+età stessa, chiamato Corvus Scan 2.0. Il programma consente di individuare i server RDP esposti, cos
+ì come impostazioni errate o vulnerabilità a livello di rete.
+Risultato: dall’introduzione delle nuo
+ve policy (lo scorso aprile) a oggi i clienti di Corvus hanno subito un numero di attacchi ransomwar
+e inferiore del 65% rispetto al periodo precedente.
+Nel comunicato stampa, viene spiegato anche che 
+i clienti che hanno adottato le nuove policy non hanno subito alcun attacco ransomware attraverso la
+ violazione di sistemi RDP.
+L’elemento sconcertante è che le aziende abbiano applicato una verifica 
+della cyber security solo quando sono stati obbligati a farlo dal loro assicuratore. Evidentemente c
+’è ancora da lavorare parecchio su quella “cultura della sicurezza” di cui gli esperti continuano a 
+parlare.
+Condividi l'articoloTweet
+
+
+  Corvus, Marco Schiaffino, Ransomware, RDP
+
+
+Allarme di Micros
+oft per Zerologon: “I pirati stanno sfruttando la falla”
+Un bug consente di superare il sistema di a
+utenticazione Microsoft
+
+
+
+Marco Schiaffino
+
+
+
+
+
+Articoli correlati
+
+
+
+
+
+									Allarme di Microso
+ft per Zerologon:...                                    
+                                    
+
+ Set 
+24, 2020  0
+
+
+
+
+
+
+
+									Un bug consente di superare il sistema...                               
+     
+                                    
+
+ Set 22, 2020  0
+
+
+
+
+
+
+
+									Iran: malware per Andro
+id che aggira...                                    
+                                    
+
+ Set 21, 
+2020  0
+
+
+
+
+
+
+
+									In Germania la prima morte provocata da...                                  
+  
+                                    
+
+ Set 18, 2020  0
+
+
+
+
+
+
+Altro in questa categoria
+
+
+
+
+
+					
+				I migliori trucchi di phishing usati...                                    
+
+ Set 09, 2020
+ 0
+
+
+
+
+
+
+
+
+									Allarme QSnatch: il malware ha colpito...                                    
+
+ Lug 28
+, 2020
+ 0
+
+
+
+
+
+
+
+									WatchGuard acquisisce Panda Security:...                                  
+  
+
+ Giu 26, 2020
+ 0
+
+
+
+
+
+
+
+									La cybersecurity raccontata con i...                           
+         
+
+ Giu 08, 2020
+ 0
+
+
+
+
+
+
+
+
+
+Leave a Reply Annulla rispostaDevi essere connesso per inviare 
+un commento. 
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware, basta poco per “uccidere” una pmi: quali soluzioni ht
+tps://bit.ly/3mOpoIQ via
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Attacco ransomware mette in ginocchio Luxottica
+Le reti
+ aziendali sono state fuori uso per alcuni giorni.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ZEUS Ne
+ws - www.zeusnews.it - 23-09-2020] Commenti
+La conferma è arrivata da Luxottica stessa: un attacco r
+ansomware ha messo in ginocchio le attività dell'azienda sia in Italia che in Cina.
+
+
+
+
+
+Luxottica è
+, a livello mondiale, la maggiore azienda a produrre e vendere occhiali: dà lavoro a oltre 80.000 pe
+rsone e nel 2019 ha generato 9,4 miliardi di euro di fatturato.
+
+È Luxottica che gestisce molti marc
+hi famosi, da Ray-Ban a Oakley, da Bulgari a Chanel, Prada e Armani: si capisce quindi come l'attacc
+o si possa considerare "di alto profilo".
+
+
+
+
+
+Tutto è iniziato lo scorso venerdì, quando i siti di 
+Ray-Ban, EyeMed e altri hanno smesso di funzionare. Poi sono spariti dal web i portali di Luxottica 
+(lasciando soltanto dei laconici messaggi che indicavano attività di manutenzione in corso), e in Re
+te hanno preso a rincorrersi le ipotesi.
+
+Martedì 22, infine, è arrivata la conferma ufficiale: Luxo
+ttica ha spiegato che i sistemi informatici di Agordo e Sedico sono stati messi completamente fuori 
+uso, tanto che i dipendenti sono stati rimandati a casa.
+
+Nicola Vanin, esperto di cyber security, è
+ intervenuto a chiarire la situazione, ricordando come nessuna realtà sia mai perfettamente al sicur
+o dal cybercrimine per quanti sforzi si facciano ma sottolineando anche come i piani di emergenza pe
+r limitare i danni siano stati immediatamente attuati.
+
+A causare tutti i problemi è stato un ransom
+ware, che ha causato la disattivazione delle reti «per alcune ore». Al momento in cui scriviamo è an
+cora in corso il ripristino delle funzionalità, segno che i problemi causati sono stati molti.
+
+
+
+
+
+
+Sebbene quello appena accaduto sia stato un attacco particolarmente serio, poiché è riuscito ad anda
+re a segno e a fare dei danni, Vanin ricorda come siano migliaia i tentativi analoghi cui Luxottica 
+deve fare fronte.
+
+Nel caso specifico, sebbene non ci siano indicazioni ufficiali sul mezzo usato da
+l ransomware per diffondersi nelle reti informatiche dell'azienda, Bad Packets ipotizza che la colpa
+ sia di un controller Citrix ADX, in cui tempo fa è stata individuata una falla.
+
+La buona notizia, 
+come comunica Vanin stesso via Twitter, è che pare non esserci stata alcuna sottrazione dei dati di 
+utenti e consumatori.
+
+
+
+
+
+Se questo articolo ti è piaciuto e vuoi rimanere sempre informato con Zeu
+s News
+
+
+ti consigliamo di iscriverti alla Newsletter gratuita.
+Inoltre puoi consigliare l'articolo 
+utilizzando uno dei pulsanti qui 
+sotto, inserire un commento
+(anche anonimo)
+o segnalare un refuso.
+
+
+© RIPRODUZIONE RISERVATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+Commenti all'articolo (0)
+Inserisci u
+n commento - anche se NON sei registrato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hai a disposizione ancora  caratteri.
+  
+      Per inserire commenti più lunghi (e senza CAPTCHA), iscriviti.
+
+
+
+
+Il tuo nome:
+
+
+
+ 
+
+La tua e
+mail:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La liberta' di parola e' un diritto inviolabile, ma nei forum di Zeus News vi
+ge un regolamento che impone delle restrizioni e che l'utente e' tenuto a rispettare. I moderatori s
+i riservano il diritto di cancellare o modificare i commenti inseriti dagli utenti, senza dover forn
+ire giustificazione alcuna. Gli utenti non registrati al forum inoltre sono sottoposti a moderazione
+ preventiva. La responsabilita' dei commenti ricade esclusivamente sui rispettivi autori. I principa
+li consigli: rimani sempre in argomento; evita commenti offensivi, volgari, violenti o che inneggian
+o all'illegalita'; non inserire dati personali, link inutili o spam in generale.
+
+
+
+
+
+
+
+
+
+
+News(3 co
+mmenti)
+
+
+
+YTS fa la spia sui propri utenti
+
+
+
+
+News(3 commenti)
+
+
+
+Word 365 ha imparato a fare il d
+ettato
+
+
+
+
+
+
+
+
+News(12 commenti)
+
+
+
+Bambino compra un monster truck da oltre 20.000 euro su eBay
+
+
+
+
+
+Sicurezza(3 commenti)
+
+
+
+Duplicare una chiave col microfono dello smartphone
+
+
+
+
+
+
+
+ 
+News(4 commen
+ti)
+
+
+
+Da Microsoft una tastiera wireless con tasto misterioso a forma di cuore
+
+
+
+
+News(2 commenti)
+
+
+
+
+Facebook, la vecchia interfaccia ha i giorni contati
+
+
+
+
+
+
+E' VIETATA la riproduzione dei testi 
+e delle immagini senza l'espressa autorizzazione scritta di Zeus News.  Tutti i marchi e i marchi re
+gistrati citati sono di proprietà delle rispettive società.        
+            Informativa sulla pr
+ivacy.
+            I tuoi suggerimenti sono di vitale importanza per Zeus News. Contatta la redazion
+e e contribuisci anche tu a migliorare il sito: pubblicheremo sui forum le lettere piu' interessanti
+. 
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+I cyber criminali sono sempre alla ricerca del modo migliore per separare g
+li ignari utenti di dispositivi dai loro soldi. E hanno scoperto che vale la pena usare la pubblicit
+à.
+I nostri SophosLabs hanno recentemente analizzato un insieme di truffe che sfruttano i network pu
+bblicitari sul web per far apparire falsi alert di sistema su computer e dispositivi mobili. L’obiet
+tivo: spaventare le persone e indurle a pagare per trovare una soluzione a un problema che non hanno
+ nemmeno.
+Non è esattamente un nuovo trucco. I pop-up “scareware” sono stati utilizzati per anni per
+ indurre le persone a scaricare falsi antivirus e altri software dannosi, incluso il ransomware.
+Ma 
+le ultime variazioni trovano altri modi per sfruttare i falsi alert: li usano come punto di ingresso
+ per truffe di supporto tecnico o inducono le loro vittime ad acquistare app fraudolente o “fleecewa
+re” da un app store mobile.
+I browser developer hanno fatto molto per limitare i danni che possono e
+ssere causati da siti pop-up dannosi, comprese le recenti correzioni di Mozilla che cercano di limit
+are la capacità delle pagine Web dannose di rallentare e bloccare Firefox.
+Ma anche se i truffatori 
+non bloccano il tuo browser, possono far sembrare che qualcosa sia andato terribilmente storto e che
+ tu debba fare immediatamente qualcosa al riguardo.
+È qui che inizia il potenziale danno, quando le 
+vittime consentono ai truffatori di accedere al proprio dispositivo e di installare ed estrarre il p
+agamento per software totalmente non necessario (e potenzialmente dannoso). Queste truffe raccolgono
+ decine di milioni di dollari dalle loro vittime ogni anno.
+Intorno a questo fenomeno è sorto un int
+ero settore, compresi gli sviluppatori di kit di strumenti di truffa e piattaforme commerciali per l
+a gestione di campagne pubblicitarie dannose.
+Si tratta di un settore che sta anche diversificando l
+a sua base di clienti. Di recente abbiamo individuato campagne di alert falsi rivolte a utenti Windo
+ws e macOS di lingua giapponese, tedesca e francese e abbiamo osservato gli sforzi dei truffatori de
+l supporto tecnico per trovare persone che parlano quelle lingue per coinvolgerle nelle loro truffe.
+
+Cosa fare?
+Fortunatamente, queste truffe sono generalmente abbastanza facili da individuare se esam
+inate con attenzione. Come i messaggi di phishing, spesso contengono frasi strane, lettere maiuscole
+ e errori di grammatica o ortografia.
+Per renderti più nervoso, a volte includono un conto alla rove
+scia alla fine del quale sostengono che il tuo telefono o computer sarà danneggiato.
+Alcune truffe d
+i supporto tecnico riprodurranno messaggi vocali generati dal computer che ti esortano ad agire.
+Ma 
+tutte queste frodi hanno una cosa molto specifica in comune: scompaiono quando chiudi il browser.
+Me
+ntre i fake alert mobili e pagine simili sui browser desktop possono essere facilmente chiusi, le pa
+gine truffa che includono il “browser lock” utilizzano spesso script che rendono difficile o impossi
+bile chiudere normalmente il browser web o uscire dalla pagina. Essi inoltre possono:
+
+Forzare la fi
+nestra del browser a schermo intero.
+Nascondere o camuffare il cursore del mouse.
+Avviare download d
+i file senza fine.
+Visualizzare caselle di accesso che richiedono un nome utente e una password.
+Ten
+tare di acquisire le sequenze di tasti per impedire di uscire dalla pagina con le scorciatoie da tas
+tiera.
+
+L’utilizzo di Task Manager (su Windows) o Uscita forzata (su macOS) potrebbe essere l’unico 
+modo per uscire da alcune di queste pagine, a meno di un restart, senza consentire al browser di rip
+ristinare le pagine dall’ultima sessione al riavvio.
+Tuttavia, il modo migliore per prevenire la mag
+gior parte di questi attacchi è eliminare i network pubblicitari su cui si basano.
+Strumenti per la 
+privacy all’interno del browser come l’add-on Electronic Frontier Foundation’s Privacy Badger blocca
+no i tracker utilizzati dai network pubblicitari meno affidabili. Anche i servizi di monitoraggio de
+lla reputazione possono aiutare, bloccando domini noti per ospitare o fornire annunci dannosi.
+Come 
+per il phishing, anche la conoscenza è fondamentale. Se stai in guardia da queste truffe, è meno pro
+babile che ti faccia ingannare.
+Se desideri saperne di più dai un’occhiata al rapporto approfondito 
+dei SophosLabs.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Denunciato l'attacco ransomware all'ospedale di Düsseldorf dove 
+è morta la donna che richiedeva cure urgenti. È stato Doppelpaymer.
+
+#redhotcyber #cybersecurity #ne
+ws
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware, basta poco per “uccidere” una pmi: quali soluzioni
+
+/ ~ 4AC5DDE2 ~
+ /
+
+#Luxottica conferma un attacco #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Attacco ransomware mette in ginocc
+hio Luxottica - Zeus News
+
+/ ~ 4AC5DDE2 ~ /
+
+Secondo quanto riferito, il gigante italiano degli occh
+ialii Luxottica ha subito un attacco informatico che ha portato alla chiusura delle attività in Ital
+ia e Cina. Luxottica è la più grande azienda di occhiali al mondo che impiega oltre 80.000 persone e
+ ha generato 9,4 miliardi di ricavi per il 2019.Venerdì sera, molti utenti hanno segnalato che i sit
+i Web di Ray-Ban, Sunglass Hut, LensCrafters, EyeMed e Pearle Vision non funzionavano e si chiedevan
+o se fossero stati violati.Securityopenlab  riferisce  che i sistemi informatici per gli uffici Luxo
+ttica di Agordo e Sedico, in Italia, stavano soffrendo di “guasti al sistema informatico”. Poiché i 
+dipendenti non potevano lavorare, è stato detto loro di tornare a casa tramite un SMS.  
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Non tutte le piccole e medie imprese possono permettersi sistemi di difesa cyber tali da azz
+erare il pericolo di attacchi in grado di paralizzarne l’operatività, e gli hacker questo lo sanno. 
+Non a caso, proprio le PMI sono diventate l’obiettivo primario di hacker governativi, i cui attacchi
+ oggi non sono più su commissione, ma rappresentano un modo facile e immediato per ammortizzare i co
+sti del cyber-arsenale che hanno costruito nel tempo al servizio degli Stati canaglia.Per contrastar
+li serve una “democratizzazione” della difesa (non della sola protezione) nel digitale.Indice degli 
+argomenti
+Perché le PMI sono nel mirino degli hackerCome ti blocco una PMI con un attacco ransomware
+La democratizzazione della difesa nel digitaleConclusioniPerché le PMI sono nel mirino degli hackerC
+erto si sono “democratizzate” da tempo, ossia diventate davvero accessibili, le armi del cyber crime
+. I gruppi paramilitari di hacker governativi, per monetizzare i loro investimenti, sempre più spess
+o si calano nel dark web e pubblicizzano le loro soluzioni di Malware-as-a-service, pacchetti di sof
+tware a consumo per perpetrare attacchi criminali. La loro strategia purtroppo si è rivelata vincent
+e con la scelta di bersagli che non hanno il budget o il personale necessario per fronteggiare gli a
+ttacchi informatici.Questi “mercenari” appartenenti agli APT (Advanced Persistent Threats) infatti, 
+prima attaccavano la supply chain di grandi realtà aziendali, adesso attaccano direttamente le picco
+le e medie imprese, proprio quelle PMI che sono il tessuto connettivo dell’Italia. Ponendo dei probl
+emi seri all’economia in lenta ripresa dalla pandemia.Nel nostro paese le difficoltà che si incontra
+no nel fare impresa sono numerose, e alcune sembrano insormontabili come, ad esempio, il cambio di f
+ornitori, di sede operativa, ma alcune hanno la capacità di bloccare letteralmente l’impresa, da un 
+momento all’altro, rendendola inerme e vulnerabile come un bimbo stanco dopo una giornata di mare.Co
+me ti blocco una PMI con un attacco ransomwareUn attacco ransomware ha questo effetto nell’80% delle
+ medie e piccole organizzazioni italiane. 
+È esattamente quanto accaduto a Giovanni, imprenditore ed
+ amministratore delegato di una media impresa emiliano-romagnola di ingegneria meccanica. La sua org
+anizzazione che fino a qualche anno fa andava “a gonfie vele” da un paio di anni aveva rallentato il
+ suo fatturato quando all’inizio della fase 2 della convivenza con il Covid incontra malauguratament
+e un ransomware. Questo evento, giunto come un’improvvisa malattia durante un mercoledì mattina, ha 
+cambiato drasticamente la vita di Giovanni e dei suoi dipendenti che, da un giorno all’altro, si son
+o trovati impossibilitati a lavorare.Le macchine di taglio e gli utensili controllati da un server c
+entrale non erano più capaci di interpretare i file di controllo, gli operai addestrati a programmar
+e PLC non sapevano utilizzare un tornio, una fresa, un trapano montante manuale fermando di fatto l’
+intera produzione. Il sistema CRM ed il gestionale ordini erano completamente cifrati. Non solo non 
+potevano avanzare con la produzione, ma addirittura non sapevano cosa produrre né per chi produrre. 
+Gli ordini erano illeggibili. Si era a inizio mese ma numerose fatture di competenza del mese preced
+ente dovevano ancora essere emesse però, sfortunatamente, anche i dati di fatturazione erano stati c
+ifrati, illeggibili. Per Giovanni non era possibile nemmeno fatturare il lavoro svolto fino allora. 
+La richiesta di riscatto era alta, troppo alta. Non dimentichiamo che in Italia è illegale cedere a 
+ricatti, che Giovanni non sapeva nemmeno acquistare Bitcoin e che non trovava nessun consulente che 
+volesse infrangere la legge aiutandolo nella illecita attività di pagamento del riscatto. La sua att
+ività non poteva permettersi costosi strumenti di protezione né team dedicati per la difesa del prop
+rio spazio cibernetico. Così Giovanni si è trovato in un vicolo cieco.La democratizzazione della dif
+esa nel digitale
+ WHITEPAPERStrategie DevOps: perché puntare su un'infrastruttura capace di gestire 
+al meglio le applicazioni?
+ Cloud
+ DevOps
+Scarica subito
+Scarica il WhitepaperAver partecipato in pr
+ima persona a tale dramma ha contribuito notevolmente a farmi porre una fondamentale domanda sulla r
+eale democratizzazione del digitale. È evidente che Internet (e il digitale) ha democratizzato l’int
+era informazione, basti pensare ai social network ove chiunque (autorevole e non) ha la possibilità 
+di esprimersi liberamente e – tipicamente ma non esclusivamente – senza censure. Sul Web si può trov
+are tutto ed il contrario di tutto: l’immensa quantità di dati rende difficile estrarre informazione
+, haters e likers trovano la loro massima espressione, ma permette anche ai popoli senza diritti di 
+comunicare, i liberi pensatori possono contribuire alla scienza anche senza essere scienziati e gli 
+artisti possono mostrare le loro incredibili doti. Ma il Web è anche il luogo dove i nuovi attaccant
+i trovano un nuovo spazio per attaccare e mettere in difficoltà il prossimo e dove Giovanni non ha s
+aputo difendersi adeguatamente.I nuovi strumenti per la difesa digitale sono molto complessi, coinvo
+lgono numerose reti, necessitano di numerosi sistemi orchestrati tra loro, interagiscono con nuove t
+ecnologie, ricevono input da intelligenze artificiali che richiedono elevate prestazioni, necessitan
+o di spazi e tempi di risposta significativamente veloci, anni di studio, mesi di sperimentazione pr
+ima di poter essere efficaci. Tutti strumenti che obbligano a test continui e hanno una manutenzione
+ precisa e costante, e sono solo alcuni dei motivi sul perché i sistemi di protezione digitale di ul
+tima generazione sono altamente costosi. Non tutte le organizzazioni possono permettersi tali costi 
+e per questo motivo decidono di restare scoperte, rischiando il dramma di Giovanni.ConclusioniQuindi
+ se da un lato il digitale ha notevolmente democratizzato la società contemporanea, dall’altro lato,
+ indirettamente e involontariamente, ha causato un gap tecnologico sul fronte della difesa digitale,
+ creando una barriera economica difficile da abbattere per organizzazioni di medie/piccole dimension
+i.La buona notizia è che sono oramai diventati più accessibili, anche alle pmi, strumenti avanzati e
+ completi di sicurezza informatica.Se basta così poco per fare saltare una pmi, è doveroso che il me
+rcato cerchi di proteggerla in modo facile ed economico.
+@RIPRODUZIONE RISERVATA
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Con il #remoteworking, i sistemi aziendali faticano a reggere l’urto dell'impennata di #cyber attacc
+hi.
+
+#Malware e #ransomware: l’Italia è sotto il tiro dei #cybercriminali. 
+
+Come rafforzare la sicu
+rezza delle reti?
+
+#CyberSecurity
+Leggi di più
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Un altro hacker smascherato dalle
+ autorità statunitensi – Un cittadino del Regno Unito si è dichiarato colpevole il 22 settembre 2020
+. L’uomo è accusato di furto di identità aggravato e frode informatica globale. La pena è fissata a 
+cinque anni in una prigione federale.
+The Dark Overlord: un gruppo attivo
+L’accusa è seria: Nathan W
+yatt, 39 anni, era un membro di un collettivo di hacker noto come “The Dark Overlord”. Questo gruppo
+ ha esercitato numerose pressioni su innumerevoli società negli Stati Uniti in numerose occasioni. L
+’obiettivo era accedere da remoto alle reti di computer di diverse aziende, senza la loro autorizzaz
+ione. Le vittime includevano operatori sanitari, società di contabilità e altri. Wyatt ha ammesso ch
+e a partire dal 2016 era un membro del Partito Pirata. Il suo ruolo era quello di ottenere dati sens
+ibili sulle aziende prese di mira, per poi minacciarle con un riscatto compreso tra $ 75.000 e $ 350
+.000. La nota doveva ovviamente essere pagata in Bitcoin. In alcuni casi, gli hacker hanno persino u
+tilizzato informazioni sensibili relative alle famiglie delle vittime. 
+” Maybe your [sic] just a du
+mb rich girl who doesn’t [sic] understand the dangers here. Im gonna try Chels. she may have an iq. 
+ stay hot. “ Nathan Wyatt ha utilizzato le sue capacità per sviluppare mezzi di comunicazione, nonch
+é reti private virtuali, che sono state utilizzate per inviare messaggi di minaccia alle vittime. Un
+ errore fatale ha comunque identificato l’uomo. Wyatt ha infatti usato il suo cellulare per contatta
+re una delle sue vittime.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Sicuro di saperne quanto basta in fatto di #ransomware
+? Cosa sono, tipologie, best practices... Meglio saper individuare ogni minaccia esterna e non sotto
+valutare questa tipologia di #malware. RT @Netwrix
+
+/ ~ 4AC5DDE2 ~ /
+
+#Bitcoin Ransomware - "The Dar
+k Overlord" condannato a $ 1,5 milioni e 5 anni di prigione
+https://notizie-economiche.com/bitcoin-r
+ansomware-the-dark-overlord-condannato-a-15-milioni-e-5-anni-di-prigione/…
+
+/ ~ 4AC5DDE2 ~ /
+
+ Il nu
+ovo ransomware OldGremlin utilizza malware personalizzato per colpire le organizzazioni più importan
+ti
+
+ Report: https://buff.ly/2RTQfVx
+#cybersecurity #infosec #malware #ransomware
+ Ora puoi seguire 
+gli aggiornamenti anche su #Telegram: https://buff.ly/2BoDiys
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware, basta p
+oco per “uccidere” una pmi: quali soluzioni https://agendadigitale.eu/sicurezza/cyber-difesa-pmi-sem
+pre-piu-a-rischio-i-pericoli-e-gli-strumenti-per-proteggersi/… Marco Ramilli
+
+/ ~ 4AC5DDE2 ~ /
+
+Una 
+nuova variante di Maze, uno dei ransomware più temuti nel panorama delle cyber minacce, ha appena ag
+giunto un’altra arma al proprio arsenale, prendendo in prestito una tecnica osservata per la prima v
+olta da un altro “competitor”, Ragnar Locker.Si tratta della distribuzione dei payload attraverso le
+ macchine virtuali (VM). Un nuovo approccio pensato per evitare di “sbattere” contro le soluzioni di
+ difesa degli endpoint.Indice degli argomenti
+Nuova variante del ransomware Maze: come riconoscerlaC
+ome avviene l’attaccoCome difendersi dalla nuova variante del ransomware MazeNuova variante del rans
+omware Maze: come riconoscerlaSecondo una recente ricerca, il gruppo dietro l’omonimo ransomware è s
+tato osservato consegnare il malware sottoforma di una VirtualBox Disk Image (una forma di file VDI)
+. Il file VDI in sé e per sé veniva invece consegnato nascosto all’interno di un file MSI, usato pri
+ncipalmente per l’installazione e la rimozione di programmi Windows.Per assicurarsi di far funzionar
+e la VM all’interno del network bersaglio, gli aggressori hanno utilizzato una vecchia copia (vecchi
+a di almeno 11 anni!) dell’hypervisor della VirtualBox all’interno del file .msi. Questo ha permesso
+ loro di far funzionare la VM senza far risultare presente alcuna interfaccia utente e come applicaz
+ione affidabile, aiutando così il ransomware a nascondersi.Un vantaggio amplificato dal fatto che la
+ maggior parte delle soluzioni endpoint hanno visibilità unicamente sui drive “fisici” e non sulle V
+M, che di solito necessitano delle loro soluzioni separate di monitoraggio.Questo ha permesso al ran
+somware di “girare” liberamente all’interno delle VM, lontano dalla portata dei software e soluzioni
+ di sicurezza.In questo modo tutti i dati sui drive e sulle macchine fisiche vengono sistematicament
+e attaccati dalla “apparentemente legittima VboxHeadless.exe, il software di virtualizzazione di Vir
+tualBox.
+ WHITEPAPERStrategie DevOps: perché puntare su un'infrastruttura capace di gestire al megli
+o le applicazioni?
+ Cloud
+ DevOps
+Scarica subito
+Scarica il WhitepaperNell’ultimo attacco perpetrato
+ con questo metodo, Maze era riuscito a nascondere il payload del suo omonimo ransomware all’interno
+ di un installer di Windows 7.Il percorso scelto per questa infezione conteneva sia l’installer dell
+a versione 32 bit sia di quella a 64 bit di VirtualBox 3.0.4 (una versione del 2009). E la scelta di
+ Windows 7 non è casuale, perché anche se è vero che un installer di Windows 7 è considerevolmente p
+iù “pesante” di Windows XP (la versione del sistema operativo sfruttata da Ragnar Locker), questo pe
+rmette agli operatori di Maze di avere un numero maggiore di funzionalità.Come avviene l’attaccoÈ in
+teressante anche notare come la fase di ricognizione prima dell’attacco di Maze fosse durata almeno 
+sei giorni.Un classico del gruppo di criminal hacker, che è solito spendere giorni all’interno dei s
+istemi bersaglio. In questo caso avevano abusato dei loro accessi per costruire liste di IP dentro i
+l network vittima utilizzando uno dei domain controller della vittima e esfiltrando dati verso un cl
+oud esterno.Una volta che il ransomware si era propagato all’interno del sistema, la richiesta di ri
+scatto recapitata alla vittima sembra sia stata di 15 milioni di dollari. Ma il bersaglio in questo 
+caso si è rifiutato di pagare.Un pericolo scampato, forse, visto che Maze è da annoverare tra quei g
+ruppi di criminal hacker che hanno iniziato a utilizzare la tattica del “doppio riscatto”, dove la v
+ittima si vede ricattata dalla minaccia di un data leak nel Dark Web in caso di mancato pagamento.Ad
+ aprile, per rinforzare la validità della loro minaccia, Maze aveva creato una pagina web che elenca
+va per nome tutte le organizzazioni che erano state colpite e si erano rifiutate di pagare, aggiunge
+ndo anche piccoli “campioni” dei dati in loro possesso.Le vittime, che superavano la quarantina in n
+umero, comprendevano studi legali, ospedali, assicurazioni e istituti di credito.Come difendersi dal
+la nuova variante del ransomware MazeLa nuova variante del ransomware Maze testimonia di come anche 
+tra i criminal hacker l’attitudine al cambiamento e all’innovazione non manca. E con il costante mig
+lioramento delle soluzioni di protezione degli endpoint, sembra proprio che anche gli aggressori abb
+iano cambiato marcia.In questo caso, la difesa contro un attacco così raffinato passa da un framewor
+k di sicurezza ben impostato, con diversi layer di protezione in grado di “coprire” sia l’aspetto te
+cnologico sia quello umano.Ridurre la superfice d’attacco richiede sia l’impiego di attività regolar
+i di security testing come Penetration Test, Vulnerability Assessment e Network Scan, sia un sistema
+ ben congeniato di Early warning come Cyber Threat Intelligence e Domain Threat Intelligence.A quest
+o dobbiamo aggiungere la parte “umana” dell’equazione, con attività mirate di training e awareness i
+n grado di mettere i dipendenti dell’organizzazione nelle condizioni di riconoscere ed evitare una m
+inaccia.Non dobbiamo mai dimenticare, infine, che tutte le aziende sono un possibile target: ogni e-
+mail di phishing, ogni RDP mal configurato, ogni gateway di rete vulnerabile o set di credenziali ru
+bate rappresentano una porta di accesso che i criminal hacker possono sfruttare per fare irruzione n
+ei sistemi della vittima e diffondere la propria infezione ransomware.
+@RIPRODUZIONE RISERVATA
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Free #webinar @SophosItalia 
+
+Scopri come bloccare il #ransomware configurando al megl
+io il tuo #Firewall. https://lnkd.in/drBzBqZ
+ Appuntamento giovedì 1 ottobre ore 15 con gli esperti 
+#SOPHOS.
+
+#sicurezzaIT #CyberSecurity #DigitalTransformation #CyberAttack
+
+/ ~ 4AC5DDE2 ~ /
+
+"Tutti 
+i file sono stati crittografati". Questa è una frase che ci auguriamo tu non veda mai sul tuo scherm
+o. Scopri i passaggi pratici per una difesa solida e multilivello contro il #ransomware in questo ki
+t gratuito di #Veeam.
+
+/ ~ 4AC5DDE2 ~ /
+
+I cybercriminali hanno pensato di sfruttare gli annunci pub
+blicitari per tentare delle truffe ai danni degli utenti. E la tua azienda come si protegge dalle mi
+nacce del web? #sophos #scam #security #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Maze, il ransomware adesso usa
+ le macchine virtuali per diffondersi: i dettagli http://dlvr.it/RhDmwz
+
+/ ~ 4AC5DDE2 ~ /
+
+L’Italia 
+continua a essere bersagliata da #malware e #ransomware - @ComputerworldIT https://buff.ly/3csTTzh
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Una donna in Germania è morta durante un attacco ransomware all’ospedale universit
+ario di Duesseldorf. Varie fonti ed esperti lo definiscono come, probabilmente, il primo decesso dir
+ettamente collegato a un attacco informatico a un ospedale.Indice degli argomenti
+Com’è avvenuta la 
+morte per ransomwareLa vulnerabilità Cytrix era notaLo storico: Wannacry negli ospedaliMettere in si
+curezza gli ospedaliCom’è avvenuta la morte per ransomwareIl motivo è che l’ospedale non ha potuto a
+ccettare i pazienti a causa dell’attacco e la donna è stata mandata in una struttura sanitaria lonta
+na, secondo l’Associated Press.Il trasferimento è stato fatale per la paziente. Poco cambia che seco
+ndo un rapporto del notiziario tedesco RTL l’attacco informatico non era destinato all’ospedale ma a
+ una università vicina. Fatto sta l’infezione si è estesa all’ospedale.La vulnerabilità Cytrix era n
+otaBloccati 30 server interni, il 10 settembre, sfruttando una vulnerabilità dei gateway Citrix, den
+ominata CVE-2019-19871. Indicativo che già da gennaio questa vulnerabilità era una nota porta di ing
+resso per i ransomware e proprio il giorno prima dell’attacco BSI aveva avvisato le organizzazioni t
+edesche di un grave rischio in merito, chiedendo di aggiornare subito il gateway.Gli aggressori hann
+o interrotto l’attacco dopo che le autorità hanno comunicato loro le conseguenze.Le strutture sanita
+rie sono uno dei principali obiettivi degli attacchi informatici e gli esperti di sicurezza informat
+ica hanno avvertito per anni che la maggior parte degli ospedali non è preparata. Il problema è che 
+molti dispositivi medici, come le apparecchiature di radiologia, sono spesso connessi a Internet. E 
+senza questi strumenti, non sono in grado di curare i pazienti.Cyber security nel settore sanitario,
+ a rischio apparecchiature mediche e dati riservati: lo scenarioDifficilmente è il primo caso di mor
+te causata da un ransomware, ma è probabilmente il primo dove c’è una chiara relazione tra i due eve
+nti.Lo storico: Wannacry negli ospedaliI principali attacchi informatici, come il ransomware WannaCr
+y del 2017, hanno bloccato migliaia di sistemi ospedalieri. WannaCry ha bloccato il Servizio sanitar
+io nazionale del Regno Unito, ad esempio. Nessun decesso era direttamente collegato a quell’attacco,
+ ma uno studio della Owen Graduate School of Management della Vanderbilt University ha rilevato un a
+umentato tasso di mortalità connesso all’attacco. Pari a fino a 36 decessi aggiuntivi ogni 10mila at
+tacchi di cuore che si sono verificati ogni anno nelle centinaia di ospedali esaminati.I ricercatori
+ hanno scoperto ci sono voluti 2,7 minuti extra perché i pazienti sospettati di infarto ricevessero 
+un elettrocardiogramma. Tutto questo perché gli ospedali erano rallentati nelle attività dalle opera
+zioni di ripristino sistemi.L’attacco ha causato un’interruzione significativa dell’assistenza ai pa
+zienti, come l’annullamento di circa 19mila appuntamenti, comprese le operazioni, e l’interruzione d
+ei sistemi IT per almeno un terzo di tutti gli ospedali del Servizio Sanitario Nazionale (NHS) del R
+egno Unito e l’8% dei medici generici. In diversi casi, gli ospedali del Regno Unito sono stati cost
+retti a deviare i visitatori del pronto soccorso verso altri ospedali.Anche se non ci sono stati cas
+i specifici di persone morte per questi motivi, l’aumentato tasso di mortalità associata all’evento 
+è indicativo dei danni causati dall’attacco.Mettere in sicurezza gli ospedali“Ovviamente gli ospedal
+i hanno procedure di continuità operativa che garantiscono l’erogazione di alcuni servizi (es. triag
+e) indipendentemente dal sistema informatico; tuttavia tali procedure non hanno la stessa velocità e
+d efficienza del sistema automatico. Per questa ragione è plausibile che vi possano essere impatti s
+oprattutto sui casi connotati da maggiore urgenza di intervento”, commenta Alessio Pennalisico, di P
+4i e responsabile scientifico Cybersecurity360.it. “Era quindi inevitabile che prima o poi ci fosse 
+un impatto sui pazienti. Per questa ragione diventa indispensabile che tutte le strutture, soprattut
+to quelle di rilevanza sociale come gli ospedali, si dotino delle misure di sicurezza organizzative 
+e tecnologiche adeguate”.Degli ultimi mesi gli attacchi ransomware agli ospedali Spallanzani di Roma
+ e Fatebenefratelli di Erba, segno di quanto anche in Italia sia alto il rischio di danni ai pazient
+i per colpa della scarsa sicurezza informatica sanitaria.“Gli esperti lo dicono da tempo: attenzione
+ che le vulnerabilità e in generale la scarsa sensibilità cyber degli ospedali può causare morti, ol
+tre a danni economici e privacy”, dice Corrado Giustozzi, esperto di cyber security pubblica. “Adess
+o purtroppo è successo quanto temuto. Succederà di nuovo”, aggiunge.
+@RIPRODUZIONE RISERVATA
+
+/ ~ 4A
+C5DDE2 ~ /
+
+#SPS Italia Digital Days dal 28 al 30 settembre: Stormshield c'è. Non perdete l'interven
+to di @DavidePala83: #EKANS: Quando il #ransomware pensa all' #OT.
+Ci vediamo su #ContactPlace

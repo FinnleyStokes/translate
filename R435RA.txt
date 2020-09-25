@@ -1,0 +1,1576 @@
+Der Windows XP Sourcecode leak wird diverse #KRITIS Betreiber hart treffen.
+
+#Geheimdienst'e und org
+anisierte Kriminalität #OK wird Lücken suchen und Malware oder #Ransomware herstellen.
+
+Das Desaster
+ ist vorprogrammiert. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Nutzen Sie die Konferenz für Ihr Update, Wissensvorsprung 
+und die Möglichkeit sich virtuell auszutauschen. #VMware und #Cloudian wird rund um das Thema „Ranso
+mware Protection as a Service“ vertreten sein. Jetzt registrieren über http://arw.li/6010GStnw
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Patientin stirbt nach Ransomware-Angriff
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Am 17. August 2020 starb 
+nach einem Erpresserangriff auf die Uniklinik Düsseldorf eine Patientin. Der Hacker-Angriff hatte am
+ Dienstag weite Teile der Uniklinik lahmgelegt. Die Staatsanwaltschaft hat ein Todesermittlungsverfa
+hren eingeleitet.
+Mit dem anhaltenden Ausfall des IT-Systems am Düsseldorfer Uniklinikum nach einem 
+mutmaßlichen Hackerangriff wuchs die Zahl der betroffenen Patienten von Tag zu Tag. Nur noch ungefäh
+r die Hälfte der etwa 1000 Patienten in einer stationären Behandlung konnten noch versorgt werden.
+L
+aut einem Bericht des Justizministers wurden vergangene Woche 30 Server des Klinikums verschlüsselt.
+ Auf einem Server wurde ein Erpresserschreiben hinterlassen, das allerdings an die Düsseldorfer Hein
+rich Heine-Uni gerichtet war.
+Die Düsseldorfer Polizei nahm Kontakt auf und hat den Tätern mitgeteil
+t, dass sie durch ihren Hackerangriff ein Krankenhaus – und nicht die Uni – betroffen sei. Damit sei
+en Patienten erheblich gefährdet. Die Täter hätten daraufhin die Erpressung zurückgezogen und einen 
+digitalen Schlüssel ausgehändigt, mit dem die Daten wieder entschlüsselt werden können.
+Uni Klinik D
+üsseldorf Twitter Feed (Bildquelle: Universität Düsseldorf)
+Seit Donnerstag letzter Woche (10.9.) wa
+r das IT-System des Universitätsklinikums Düsseldorf (UKD) weitreichend gestört. Daher ist das UKD w
+eiterhin von der Notfallversorgung abgemeldet und Patienten mit Terminen sollten zur Abstimmung Kont
+akt mit der behandelnden Abteilung aufnehmen.
+Nach Informationen der Staatsanwaltschaft und des Just
+izministeriums hat die Polizei in Zusammenarbeit mit externen Spezialisten und den IT-Fachleuten der
+ Klinik inzwischen konkrete Anhaltspunkte für die Ursache ermittelt. Hintergrund des Ausfalls ist na
+ch diesen Analysen ein Hackerangriff, der eine Schwachstelle in einer Anwendung ausnutzte. Die Siche
+rheitslücke befand sich in einer marktüblichen und weltweit verbreiteten kommerziellen Zusatzsoftwar
+e. Bis zur endgültigen Schließung dieser Lücke durch die Softwarefirma war ein ausreichendes Zeitfen
+ster gegeben, um in die Systeme einzudringen. Als Folge des damit ermöglichten Sabotageakts fielen n
+ach und nach Systeme aus, Zugriffe auf gespeicherte Daten waren nicht mehr möglich.
+Die IT-Experten 
+konnten mittlerweile den genauen Umfang analysieren und den Zugang zu den Daten wiederherstellen. Bi
+sher gibt es keine Anhaltspunkte dafür, dass Daten unwiederbringlich zerstört worden sind. Auch für 
+das Abfischen von konkreten Daten gibt es nach heutigem Stand keine Belege. Eine konkrete Lösegeldfo
+rderung gab es nicht.
+„Wir danken als Vorstand allen unseren Beschäftigten und insbesondere unseren 
+IT-Fachleuten für die hervorragende Arbeit in dieser schwierigen Situation. Ganz besonders wollen wi
+r die gute Zusammenarbeit mit der Polizei, dem LKA und den hinzugezogenen IT-Experten herausstellen.
+ Sie haben innerhalb kurzer Zeit herausarbeiten können, dass es sich um einen Angriff von außen hand
+elte und nicht um einen Fehler eines Nutzers. Es war also nicht nur das Universitätsklinikum durch d
+ie Sicherheitslücke gefährdet, sondern weltweit sehr viele Unternehmen,“ erläutert Prof. Dr. Frank S
+chneider, Ärztlicher Direktor des UKD.
+In NRW waren neben der Uniklinik in Düsseldorf das Lukaskrank
+enhaus in Neuss, das Forschungszentrum Jülich sowie mehrere Unternehmen in der Vergangenheit Ziele v
+on Hackerangriffen. In Deutschland war wegen einer Ramsomware-Attacke die Universität Gießen um Weih
+nachten 2019 mehrere Wochen komplett oder teilweise offline.
+
+
+
+ANZEIGE
+Kollaborationsplattform Slac
+k: Effizient arbeiten – egal von wo
+Vor COVID-19 war Remote-Work für viele Unternehmen fast undenkba
+r. Heute haben sie erkannt, dass es sehr gut funktionieren kann, wenn die Rahmenbedingungen stimmen.
+ Erfahren Sie in diesem Webinar, wie Sie mit der Kollaborationslösung Slack auf die veränderten Arbe
+itsbedingungen optimal reagieren können.
+
+
+
+						Jetzt registrieren und Aufzeichnung ansehen.					
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Das Internet spielt bei Geschäftsabläufen eine immer größere Rolle. Damit 
+steigt aber auch die Gefahr, dass Unternehmen verstärkt über verschiedenste Angriffsvektoren attacki
+ert werden. http://ow.ly/ArRp30rbumc #Hackattack #Cybercrime #DDoS #Ransomware #ITSecurity
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Uniklinik Düsseldorf: Ransomware "DoppelPaymer" soll hinter dem Angriff stecken https://bi
+t.ly/2RYErRG
+
+/ ~ 4AC5DDE2 ~ /
+
+Bezahlen Sie kein Lösegeld! Es gibt verschiedene Wege, sich gegen #R
+ansomware-Angriffe zu schützen. Mehr dazu von @RolandRosenau  auf dem @rubrikInc  FORWARD Summit am 
+01. Oktober: https://bit.ly/35YIRAi
+
+/ ~ 4AC5DDE2 ~ /
+
+Lieferant von US-Behörden von Ransomware getr
+offen
+Einer der grössten Softwareanbieter der US-Behörden wurde ein Opfer von Hackern.
+https://buff.
+ly/33UGYCj
+
+/ ~ 4AC5DDE2 ~ /
+
+Sollten Erpressungstrojaner sensible Daten stehlen und Dritten zugängl
+ich machen, verhindert #HiCrypt™ Spionage und Missbrauch, da die gestohlenen Inhalte nicht gelesen w
+erden können.
+→ mehr unter https://digitronic.net/verschluesselung/…
+#Ransomware #Datenklau #Verschl
+üsselung
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Nach dem Angriff auf die Düsseldorfer Uni-Klinik führt eine mögliche Sp
+ur der Täter laut Justizministerium nach Russland. So hätten die Angreifer eine Schadsoftware namens
+ "DoppelPaymer" in das System geschleust. Dieser Verschlüsselungstrojaner sei bereits in zahlreichen
+ anderen Fällen weltweit gegen Unternehmen und Institutionen von einer kriminellen Hacker-Gruppe ein
+gesetzt worden, die nach Einschätzung privater Sicherheitsunternehmen in der Russischen Föderation b
+eheimatet sein soll. Das teilte das Ministerium von Nordrhein-Westfalen am Dienstag laut dpa in eine
+m Bericht an den Rechtsausschuss mit.
+
+
+
+Die Cybercrime-Bande hinter DoppelPaymer hat sich ähnlich w
+ie die mit der Emotet-Gang zusammenarbeitende Trickbot-Bande auf das Erpressen von Firmen und Organi
+sationen spezialisiert. Sie setzen ebenfalls sehr ausgefeilte Techniken ein, um sich in den Netzen a
+uszubreiten und dabei unbemerkt zu bleiben, bis sie tatsächlich Daten verschlüsseln. Ihre Lösegeldfo
+rderungen richten sich nach dem "Wert" des jeweiligen Angriffsziels und können Millionenhöhe erreich
+en. Mitte März dieses Jahres hatte die DoppelPaymer-Gang, wie auch einige andere Ransomware-Gruppen,
+ eine "Corona-Pause" für Krankenhäuser versprochen – ein Versprechen, das sie dann doch nicht einhie
+lt.
+
+
+Einbruch via "Shitrix" bestätigt
+Die Ermittler wissen inzwischen, dass die kriminellen Hacker 
+zunächst einen sogenannten "Loader" zum Nachladen des eigentlichen Schadprogramms ins System der Uni
+-Klinik einschmuggelten. Offen blieb in dem Bericht, wann das war. Das Bundesamt für Sicherheit in d
+er Informationstechnologie (BSI) hatte vergangene Woche mitgeteilt, dass die entsprechende Sicherhei
+tslücke in Software von Citrix bereits seit dem Jahreswechsel bekannt war. Dabei handelte es sich um
+ eine Lücke in der Citrix-VPN-Software, die unter dem Namen "Shitrix" bekannt wurde (CVE-2019-19781)
+:
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cyber-Angriff auf Uniklinik Düsseldorf: #Shitr
+ix schlug zu
+          
+
+
+
+
+
+
+
+
+Die Uni-Klinik hatte nach eigenen Angaben damals sofort reagiert. Zw
+ei Spezialfirmen hätten das System noch einmal überprüft – ohne Hinweis auf eine Gefährdung durch di
+e nun geschlossene Sicherheitslücke. Offenbar schlummerte der "Loader" da aber bereits auf einem Ser
+ver der Uni-Klinik.
+Das wahrscheinlichste Szenario ist somit derzeit, dass die Cyberkriminellen die 
+Shitrix-Lücke sehr bald nach ihrem Bekanntwerden und noch vor der Bereitstellung des Patches durch C
+itrix ausgenutzt haben. Sie sind dann darüber in das Netz der Uni-Klinik eingedrungen und haben dort
+ heimlich eine Backdoor platziert. Das kann durchaus auch auf einem anderen System als dem eigentlic
+hen VPN-Server geschehen sein, sodass die Hintertür beim Installieren der Citrix-Updates nicht gefun
+den wurde. Erst jetzt, viele Monate später, haben sie diese Backdoor benutzt, um wieder Zugriff auf 
+das Netz der Uni-Klinik zu erlangen.
+
+Täter halfen nach "Irrtum" beim Entschlüsseln
+Der eigentliche 
+Angriff durch die nachgeladene Verschlüsselungssoftware passierte erst in der Nacht vom 10. auf den 
+11. September. 30 Server der Uni-Klinik wurden durch das Schadprogramm verschlüsselt – wobei die Cyb
+erkriminellen eigentlich wohl die Düsseldorfer Universität attackieren wollten. Zu der hatten sie ei
+n digitales Erpresserschreiben adressiert. Als die Polizei den Tätern ihren mutmaßlichen Fehler mitt
+eilte, schickten diese einen digitalen Schlüssel, um das Krankenhaus wieder zum Laufen zu bekommen.
+
+Die Ermittler vermuten laut dem Bericht an den Landtag, dass die Uni-Klinik Opfer einer "weltweiten 
+kommerziellen Malware-Kampagne" geworden sein könnte. Weitere Details nannte ein Sprecher der zustän
+digen Staatsanwaltschaft bei der Zentrale- und Ansprechstelle Cybercrime (ZAC) am Dienstag nicht. La
+ut einer Statistik der US-amerikanischen Temple University liegt die Frequenz der Attacken mit Erpre
+sser-Software dieses Jahr auf dem Höchststand seit 2013. Dabei gezählt wurden allerdings nur die öff
+entlich bekannten Angriffe. Ermittler gehen von einer hohen Dunkelziffer aus, bei der zum Beispiel U
+nternehmen auf die Forderungen der Erpresser eingehen.
+
+
+
+
+Ermittlungen und Bereinigung laufen weite
+r
+Die Ermittlungen um den Verdacht der fahrlässigen Tötung einer Patientin liefen unterdessen weiter
+, erklärte der ZAC-Sprecher. Die Frau war statt in die nahe Uni-Klinik in ein weiter entferntes Kran
+kenhaus nach Wuppertal gebracht worden und gestorben. Für den Vorwurf der fahrlässigen Tötung könnte
+ unter anderem entscheidend sein, ob die Frau eine Überlebenschance gehabt hatte, wenn sie in die Un
+i-Klinik gekommen wäre.
+Die IT des Krankenhauses ist unterdessen weiter nicht voll einsatzbereit. Di
+e größte Klinik der Landeshauptstadt rechnet nach Angaben eines Sprechers damit, dass die Zentrale N
+otaufnahme diese Woche eventuell ihren Dienst wieder aufnehmen kann. Noch seien aber nicht alle ents
+prechenden Systeme wieder hochgefahren.
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cybercri
+me: Erpressung auf neuem Niveau
+          
+
+
+
+
+
+
+
+
+
+
+(ovw)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+    
+  Kommentare lesen
+      (55)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Dies
+er Artikel beschreibt einige gebräuchliche Begriffe zum Thema Viren und hilft Ihnen dabei, Situation
+en zu identifizieren, in denen Sie glauben, dass Ihr Computer infiziert ist, wenn dies nicht der Fal
+l ist.  Was ist Malware? Malware ist die Abkürzung für bösartige Software und ist eine allgemeine Be
+zeichnung für schädliche Software, oder Software, die in Ihren Computer eindringt. Einige der folgen
+den Themen (Viren, Ransomware, Würmer und Trojaner) behandeln Beispiele für Malware.   Was ist ein V
+irus? Ein Virus ist ein Programm, das sich mit wenig oder ohne Benutzereingriff replizieren (Kopien 
+von sich selbst erstellen) kann. Viren enthalten normalerweise Code, der nach einiger Zeit zu einem 
+unerwünschten, unerwarteten und normalerweise böswilligen Ereignis führt. Diese "Nutzlast" kann Date
+n beschädigen oder andere Arten von Problemen auf Ihrem Computer verursachen. Viren werden oft als S
+piele, andere Arten von legitimer Software oder Bilder mit cleveren Marketingtiteln getarnt, die daf
+ür sorgen, dass Sie sie anklicken und öffnen oder ausführen. Sie finden weitere Definitionen im McAf
+ee Threat Center.    Was ist Ransomware? Ransomware ist Malware, die Ihren Computer und Ihre mobilen
+ Geräte sperrt oder Ihre Dokumente, Bilder und andere wichtige Dateien verschlüsselt. Wie Viren ist 
+Ransomware oft als ein Spiel oder eine andere Art legitimer Software getarnt. Wenn die Ransomware Ih
+re Daten verschlüsselt hat, wird normalerweise Geld gefordert. Manchmal führt das Lösegeld dazu, das
+s Ihre Dateien entschlüsselt und wieder zugänglich gemacht werden. Aber dies ist nicht garantiert; v
+iele Leute zahlen das Lösegeld, bekommen ihre Daten aber nie wieder zurück.   Was ist ein Wurm? Ein 
+Wurm ist eine Art von Virus, der sich verbreitet, indem er Kopien von sich selbst auf anderen Laufwe
+rken, Computern oder Netzwerken erstellt. Würmer können Kopien von sich selbst über Netzwerkverbindu
+ngen, per E-Mail, über eine infizierte Website oder über Instant-Messaging-Systeme an andere Compute
+r senden. Einige Würmer sind als "@m" oder "@mm" gekennzeichnet, was bedeutet, dass ihre primäre Ver
+breitungsmethode durch elektronische "Post" oder "Massenpost" erfolgt. Ein Beispiel für einen Massen
+mail-Wurm ist W32/Klez.e@MM.    Was ist ein Trojaner? Ein Trojaner (manchmal als trojanisches Pferd 
+bezeichnet) ist ein Programm, das vorgibt, bestimmte wünschenswerte Funktionen zu enthalten (bzw. da
+s entsprechend beschrieben wird), das aber in Realität schädliche Inhalte besitzt. Eigentlich sind e
+chte Trojaner keine Viren, da sie sich nicht replizieren. Aber viele Viren und Würmer verwenden Meth
+oden von Trojanern, um ein System zu infizieren. Trojaner sind zwar technisch gesehen keine Viren, k
+önnen aber genauso zerstörerisch sein.   Der Begriff "Trojaner" wird häufig als Bezeichnung ausschli
+eßlich für solche Schadprogramme verwendet, die sich nicht selbst replizieren. Dies dient der Unters
+cheidung zwischen Trojanern und Viren.   Was ist ein Virus-Hoax? Ein Virus-Hoax ist eine Nachricht, 
+die den Empfänger vor einem nicht existierenden Virus warnt. Virus-Hoaxes sind mehr als nur lästig. 
+Sie können manche Benutzer dazu bringen, grundsätzlich sämtliche Nachrichten mit Virenwarnungen zu i
+gnorieren und damit anfällig für echte, zerstörerische Viren zu werden.  Ein häufiger Hoax ist Jdbgm
+gr.exe. Dabei wird eine ansonsten legitime Systemdatei als Virus beschrieben, der "von McAfee oder N
+orton nicht erkannt wird und 14 Tage lang ruhig bleibt, bevor das System beschädigt wird". Die fragl
+iche Datei wird zufällig mit einem Teddybär-Symbol angezeigt, wodurch der Hoax überzeugend wirkt.   
+Öffnen Sie niemals einen E-Mail-Anhang, wenn Sie nicht wissen, was dieser enthält, selbst wenn er vo
+n einem Freund oder Bekannten stammt.  Einige der gebräuchlichsten Wendungen in diesen Hoaxes sind:
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Das Justizministerium Nordrhein-Westfalen hat eine Ransomware identifiziert, die 
+schon mehrfach erfolgreich eingesetzt wurde.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+Verschlüsselung mit HiCrypt™
+
+
+
+
+
+
+
+
+
+
+
+
+Anker
+
+
+
+
+Psssst… Streng vertraulich!
+
+
+
+
+Kennen Sie das noch aus Kindertagen, wenn man sich
+ in einer „Geheimsprache“ unterhalten oder geschrieben hat und nur ein eingeschworener Kreis konnte 
+die Nachrichten entschlüsseln? Früher war es Spaß, weil man nicht wollte dass jeder über vertraulich
+e Dinge wie anbandelnde Liebschaften, bevorstehende Mutproben oder den ein oder anderen Streich Besc
+heid wusste. Heute ist man als Unternehmen gezwungen, wichtige Informationen zu verschlüsseln – sei 
+es aus datenschutzrechtlichen Gründen oder weil man nicht möchte, dass Kriminelle sensible Firmen- o
+der Kundendaten stehlen.
+HiCrypt™ verschlüsselt Daten auf Netzlaufwerken und stellt sicher, dass nur
+ der Personenkreis, der im Besitz des entsprechenden Schlüssels ist, die vertraulichen Daten einsehe
+n kann. Die Software ist in wenigen Minuten installiert, läuft geräuschlos im Hintergrund und lässt 
+sich kinderleicht bedienen. Im Gegensatz zu üblichen Containerverschlüsselungslösungen können mit Hi
+Crypt™ sogar mehrere Personen gleichzeitig auf die verschlüsselten Shares zugreifen.
+
+
+
+
+ Kostenfrei
+ downloaden und testen
+
+
+
+
+
+
+
+
+
+
+Ich bin für Sie da!
+
+
+
+
+Kristin Löwe-Bulut
+Vertrieb IT-Security
+ver
+trieb@digitronic.net
++49 371 815 39 – 0
+
+
+
+
+Kristin Löwe-Bulut
+Vertrieb IT-Security
+vertrieb@digitro
+nic.net
++49 371 815 39 – 0
+
+
+
+
+
+Anker
+
+
+
+
+Vorteile von HiCrypt™ auf einem Blick:
+
+
+
+
+
+Gemeinsamer Zu
+griff auf verschlüsselte Dateien und Ordner
+Schlüsselalleinbesitz-Garantie ohne Hintertürchen
+Integr
+ierte Benutzerverwaltung
+Wiederherstellungsmöglichkeiten im Katastrophenfall
+Definition individuelle
+r Kennwortrichtlinien wird unterstützt
+Schutz der Administratoren aufgrund von entkoppelten Zugriffs
+rechten
+
+
+
+
+
+
+Für wen?
+
+
+
+
+
+Unternehmen mit 5 bis 50.000 Mitarbeiter
+
+
+
+
+
+Gesundheitswesen (Krankenh
+äuser, Krankenkassen, Gemeinschaftspraxen,…)
+
+
+
+
+
+Verwaltungen und Behörden
+
+
+
+
+
+Unternehmen mit kri
+tischen Infrastrukturen (KRITIS)
+
+
+
+
+
+Warum HiCrypt™?
+
+
+
+
+Ein Statement von digitronic® Geschäftsfüh
+rer Matthias Kirchhoff: Deshalb ist Datenverschlüsselung für Unternehmen jeder Größe so wichtig. Vor
+ allem, wenn Teams hochvertraulich, dezentral oder sogar länderübergreifend arbeiten.
+
+
+
+
+
+
+
+
+
+
+
+Ank
+er
+
+
+
+
+
+Welches HiCrypt™ passt zu Ihnen?
+
+
+
+
+Zur HiCrypt™ Familie gehören HiCrypt™ Professional und 
+HiCrypt™ Enterprise Services. Welches das richtige für Sie ist, entscheiden Sie selbst. In jedem Fal
+le gilt: HiCrypt™ kann weit mehr als eine klassische Containerverschlüsselung.
+
+
+
+
+
+Feature
+
+
+
+
+
+HiC
+rypt™
+Professional
+
+
+
+
+
+HiCrypt™
+Enterprise
+Services
+
+
+
+
+
+Container-Verschlüsse-lung*
+
+
+
+
+
+Gemeinsam
+es Arbeiten an verschlüsselten Shares
+
+
+
+
+
+Zentrale Rollout- und Verwaltungsmöglichkeit
+
+
+
+
+
+Wiederh
+erstellung einzelner Dateien aus einem Backup
+
+
+
+
+
+Unterstützung individueller Passwortrichtlinien
+
+
+
+
+
+
+Schutz der Administratoren im Verdachtsfall
+
+
+
+
+
+Integrierte Benutzerverwaltung
+
+
+
+
+
+Anbindung a
+n bestehende Nutzerverwaltung ohne Medienbruch
+
+
+
+
+
+Workflowintegration
+
+
+
+
+
+Skriptbasierende Steuer
+ung möglich
+
+
+
+
+
+Zentrales Management aller verschlüsselten Shares (auch ohne PKI)
+
+
+
+
+
+Komfortables
+ SSO an verschlüsselten Shares
+
+
+
+
+
+
+
+
+
+
+* Trifft auf die meisten Containerverschlüsselungslösungen 
+zu
+
+
+
+
+
+Anker
+
+
+
+
+Vor diesen Gefahren schützt HiCrypt™ Ihr Unternehmen:
+
+
+
+
+
+Missbrauch von Dateninh
+alten durch z.B. Erpressungstrojaner (Ransomware)
+HiCrypt™ kann zwar nicht vor erpresserischem Versc
+hlüsseln von Daten schützen. Sollten jedoch Erpressungstrojaner zusätzlich die Daten stehlen und Dri
+tten zugänglich machen, verhindert HiCrypt™ Spionage und Missbrauch, da die gestohlenen Inhalte nich
+t gelesen werden können.
+
+
+
+
+
+Verdächtigungen von administrativ tätigem Personal
+Da die HiCrypt™ Sch
+lüsselverwaltung nur von Personen durchgeführt wird, die ausschließlich für die Vertraulichkeit der 
+Dateninhalte verantwortlich sind (z.B. CEO), werden administrativ tätige Mitarbeiter vom Verdacht au
+sgeschlossen, Dateninhalte zu kennen, die sie nicht kennen sollen.
+
+
+
+
+
+Datendiebstahl & Industriesp
+ionage
+Nur Personen, die über den entsprechenden Schlüssel verfügung, können die mit HiCrypt™ versch
+lüsselten Dateien einsehen. Ohne den Schlüssel bekommt man nur eine kryptografische Aneinanderreihun
+g von Zeichen zu sehen.
+
+
+
+
+
+DSGVO- & Compliance-Unsicherheiten
+HiCrypt™ bietet ein Höchstmaß an Ver
+traulichkeit von sensiblen Daten und entspricht damit zu 100% den aktuellen DSGVO-Bestimmungen. HiCr
+ypt™ hält zudem jedem Audit stand.
+
+
+
+
+
+Sichere Arbeit im Homeoffice
+
+
+
+
+HiCrypt™ verschlüsselt Date
+n auf Netzlaufwerken und ermöglicht den gemeinsamen Zugriff auf verschlüsselte Dateien und Ordner. G
+anz gleich, von wo Sie auf die Daten zugreifen: ob aus dem Firmennetz oder über VPN im Homeoffice, m
+it HiCrypt™ halten Sie den Schlüssel zur Vertraulichkeit Ihrer Daten selbst in der Hand. Dabei ist e
+s auch egal, ob die Daten auf einem Windows-Share oder einem WebDAV Laufwerk in der Cloud liegen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schlüsselalleinbesitz-Garantie
+
+
+
+
+Mit HiCrypt™ verwalten Sie allein die Zugriffsbere
+chtigungen auf die verschlüsselten Inhalte. Sie legen fest, wer die Daten entschlüsseln kann: ob nur
+ Sie allein oder zusätzlich vertraute Personen. Alle anderen haben keinerlei Zugriff auf die verschl
+üsselten Informationen. Selbst Administratoren, die zwar die zu verschlüsselnden Laufwerke zur Nutzu
+ng vorbereiten können, müssen nicht die Berechtigung zum Einsehen der sensiblen Daten haben. Das sch
+ützt Administratoren im Verdachtsfall.
+
+
+
+
+
+Anker
+
+
+
+
+So schnell können Sie Ihre sensiblen Daten übe
+rall und jederzeit schützen:
+
+
+
+
+
+HiCrypt™ downloaden
+
+
+
+
+
+per Gruppenrichtlinie auf die entsprechen
+den Geräte ausrollen
+
+
+
+
+
+Berechtigungen vergeben
+
+
+
+
+
+verschlüsseln
+
+
+
+
+
+Testen Sie HiCrypt™ jetzt 
+kostenfrei und unverbindlich für 30 Tage.
+
+
+
+
+Jetzt Testen
+
+
+
+
+
+So schnell können Sie Ihre sensiblen
+ Daten überall und jederzeit schützen:
+
+
+
+
+
+HiCrypt™ downloaden
+
+
+
+
+
+per Gruppenrichtlinie auf die e
+ntsprechenden Geräte ausrollen
+
+
+
+
+
+Berechtigungen vergeben
+
+
+
+
+
+verschlüsseln
+
+
+
+
+
+Testen Sie HiCry
+pt™ jetzt kostenfrei und unverbindlich für 30 Tage.
+
+
+
+
+Jetzt Testen
+
+
+
+
+
+
+Gemeinsames Arbeiten
+
+
+
+
+
+Im Gegensatz zu Container-Verschlüsselungen haben auf die mit HiCrypt™ verschlüsselten Netzlaufwerke
+ nach wie vor mehrere Personen gleichzeitig Zugriff und können mit den darin gespeicherten Dateien g
+emeinsam arbeiten. Voraussetzung ist natürlich, dass Sie weiteren Benutzern den Zugriff auf Ihre Dok
+umente gewähren.
+
+
+
+
+
+
+Integrierte Benutzerverwaltung
+
+
+
+
+Eine integrierte und leicht zu bedienende 
+Benutzerverwaltung ermöglicht es, in Handumdrehen weiteren Nutzern Zugriff auf die verschlüsselten D
+aten zu gewähren. Die Benutzerverwaltung ist unabhängig von lokalen oder Domänen-Benutzerkonten. Dad
+urch wird eine Userverwaltung auch ohne administrative Berechtigungen ermöglicht. Die Sicherheit Ihr
+er Daten bleibt damit in Ihrer Hand.
+
+
+
+
+
+
+Sicher ist sicher
+
+
+
+
+Passen Sie HiCrypt™ Ihren individue
+llen Sicherheitsrichtlinien für Kennwörter an. Die Anmeldung am verschlüsselten Netzlaufwerk kann be
+ispielsweise zusätzlich durch einen Token abgesichert werden. Darüber hinaus unterstützt HiCrypt™ di
+e Anwendung eines 4-Augen-Prinzips für alle Aktionen, die verwaltende Maßnahmen für ein verschlüssel
+tes Netzlaufwerk darstellen.
+
+
+
+
+
+
+
+
+
+
+Weitere Informationen zu HiCrypt™ Professional und HiCrypt™ E
+nterprise Services finden Sie in unseren Datenblättern:
+
+
+Datenblatt HiCrypt™ Professional
+
+
+Datenbl
+att HiCrypt™ Enterprise Services
+
+
+
+
+
+
+
+Anker
+
+
+
+
+Unser Vertriebsteam berät Sie gern zum Einsatz uns
+erer Verschlüsselungslösung HiCrypt™ Professional und HiCrypt™ Enterprise Services.
+
+Wir stehen Ihne
+n per Telefon unter +49 371 81539‑0 oder per Mail unter vertrieb@digitronic.net zur Verfügung. Gern 
+kommen wir auch persönlich bei Ihnen vorbei oder schalten uns mit Ihnen per Websession zusammen.
+
+
+
+
+
+
+Jetzt Anfrage senden:
+
+
+
+
+
+Firma *
+E-Mail *
+Anrede
+
+Herr
+Frau
+
+Nachname *
+Beschreibung
+
+
+Ich habe 
+die Datenschutzerklärung zur Kenntnis genommen und bin damit einverstanden, dass meine Angaben zur K
+ontaktaufnahme und für Rückfragen gespeichert werden.
+	
+
+Newsletteranmeldung
+
+
+
+Ja, ich möchte einen
+ individuellen und auf meine Bedürfnisse zugeschnittenen Newsletter erhalten. Dafür erlaube ich der 
+digitronic computersysteme gmbh, mein E-Mail-Öffnungs- und Klickverhalten zu analysieren und ein per
+sonenbezogenes Nutzungsprofil zu erstellen.
+	
+
+
+
+
+
+
+
+
+
+
+Unser Vertriebsteam berät Sie gern zum Einsa
+tz unserer Verschlüsselungslösung HiCrypt™ Professional und HiCrypt™ Enterprise Services.
+
+Wir stehe
+n Ihnen per Telefon unter +49 371 81539‑0 oder per Mail unter vertrieb@digitronic.net zur Verfügung.
+ Gern kommen wir auch persönlich bei Ihnen vorbei oder schalten uns mit Ihnen per Websession zusamme
+n.
+
+
+
+
+
+Jetzt Anfrage senden:
+
+
+
+
+
+Firma *
+E-Mail *
+Anrede
+
+Herr
+Frau
+
+Nachname *
+Beschreibung
+
+
+Ich
+ habe die Datenschutzerklärung zur Kenntnis genommen und bin damit einverstanden, dass meine Angaben
+ zur Kontaktaufnahme und für Rückfragen gespeichert werden.
+	
+
+Newsletteranmeldung
+
+
+
+Ja, ich möchte
+ einen individuellen und auf meine Bedürfnisse zugeschnittenen Newsletter erhalten. Dafür erlaube ic
+h der digitronic computersysteme gmbh, mein E-Mail-Öffnungs- und Klickverhalten zu analysieren und e
+in personenbezogenes Nutzungsprofil zu erstellen.
+	
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+ Mit Fake News gege
+n Ransomware und Malware
+
+Security Pro  on 24. September 2020 at 11:18
+
+
+
+
+
+
+
+
+Firewalls und klassis
+che Lösungen für die Endpoint Security reichen für die Abwehr immer raffinierterer und gezielter Ang
+riffe gegen die IT-Infrastruktur und -Anwendungen nicht aus, warnen die Security-Spezialisten von At
+tivo Networks. Zwar böte diese Kombination einen gewissen Schutz gegen gängige und einfache Malware-
+Angriffe, doch anspruchsvollere und gezielte Attacken erforderten auch ausgefeiltere Detection-and-R
+esponse-Lösungen am Endpunkt.
+Dies gilt laut Attivo insbesondere für Ransom-Angriffe, zumal hier die
+ Zahl der Ransom-as-a-Service-Anbieter und damit auch die Häufigkeit der Angriffe stetig steigt, da 
+die Erpresser selbst immer weniger Expertise benötigen. Phishing-E-Mails und Social-Engineering-Kamp
+agnen sind dabei nach wie vor beliebte Angriffsvektoren, und das wegen Corona stark gewachsene Heer 
+von Heimarbeitern hat zudem die Angriffsfläche drastisch vergrößert. Gerade deren meist nicht adäqua
+t gesicherte und oft auch von Familienmitgliedern genutzte Systeme stellen ein weit offenes Eingangs
+tor für Lösegelderpresser dar.
+Tarnen und täuschen
+Joe Weidner, Regional Director DACH bei Attivo Ne
+tworks
+“Es gibt keine eierlegende Wollmilchsau, und die eine Sicherheitslösung, die alle Probleme be
+seitigt, wird es wohl auch niemals geben”, so Joe Weidner, Regional Director DACH von Attivo Network
+s. “Daher sollten Organisationen und Unternehmen die Umsetzung einer Reihe von ergänzenden Maßnahmen
+ in Betracht ziehen, um mit einer maßgeschneiderten Lösung eine tief greifende Verteidigung gegen Ei
+ndringlinge aller Art zu realisieren.”
+So eigne sich in besonderer Weise der Einsatz von Deception- 
+und Verschleierungs-Technologien, innerhalb des Netzwerks Angreifer daran zu hindern, die IT-Infrast
+ruktur spürbar zu beeinträchtigen, selbst wenn sie – etwa durch Zero-Day-Attacken – die Perimetersic
+herung bereits überwunden haben. Insbesondere lässt sich dadurch beispielsweise sicherstellen, dass 
+Angreifer nicht die Berechtigung erlangen, Daten zu verschlüsseln. Deception-Technologie steht dabei
+ für die Verwendung von High-Tech-Fallen oder -Ködern, mit denen Angreifer dazu gebracht werden könn
+en, zu glauben, sie hätten Zugang zu kritischen Systemen und Daten erhalten.
+Attivo Networks Anti Ra
+nsomware Protection geht einen entscheidenden Schritt weiter, in dem es von Anfang an Angreifern und
+ Malware den Zugang zu sensiblen Daten verwehrt, egal ob es Dateien, Ordner, Netzwerkfreigaben oder 
+Wechsellaufwerke sind. Was nicht ‚gesehen‘ wird, kann auch nicht exfiltriert oder verschlüsselt werd
+en. Dieser pro-aktive Ansatz wird auch in Bezug auf Active Directory verwendet. Gerade letzteres ist
+ für Angreifer besonders attraktiv, da es einen Generalschlüssel zum gesamten Netzwerk des Opfers be
+deuten kann.
+Fallen dienen in diesem Konzept jedoch nicht nur der Sicherung kritischer Daten. Durch 
+die Interaktion des Angreifers mit den ausgelegten Ködern erhält das Sicherheitspersonal zudem wertv
+olle Informationen über das Verhalten und die Taktik des Angreifers. Diese Erkenntnisse dienen dann 
+dazu, die eigene Verteidigung zu optimieren.
+
+
+
+
+
+
+
+Kategorien
+NewsSecurity 
+
+Tags:
+Attivo NetworksI
+T-SecurityIT-SicherheitMalwareRansomwareSecurity 
+
+
+
+
+
+0
+
+
+
+
+
+
+0
+x geteilt
+
+
+
+
+
+
+ 
+
+
+Autor
+
+Security
+ Pro
+
+
+
+
+
+
+
+
+
+
+
+                                    Vorheriger Beitrag                              
+  
+
+Check Point kauf Spezialisten für Fernzugriff
+
+
+
+
+
+                                    Nächster 
+Beitrag                                
+
+Internet Security Report Q2: Zero-Day-Malware auf dem Vorma
+rsch
+
+
+
+
+
+Weitere Artikel
+
+
+Radware warnt vor akuten Ransom-Attacken
+
+Attivo Networks erweitert sein
+e Schutzfunktion vor Ransomware 2.0
+
+Erpresserische Sex-E-Mails im Umlauf
+
+Agent Tesla on the advanc
+e – Emotet awakes again
+
+
+
+Archiv Archiv
+
+Monat auswählen
+ September 2020  (45)
+ August 2020  (33)
+ 
+Juli 2020  (57)
+ Juni 2020  (56)
+ Mai 2020  (57)
+ April 2020  (69)
+ März 2020  (59)
+ Februar 2020  (
+34)
+ Januar 2020  (31)
+ Dezember 2019  (35)
+ November 2019  (36)
+ Oktober 2019  (37)
+ September 2019
+  (35)
+ August 2019  (27)
+ Juli 2019  (38)
+ Juni 2019  (34)
+ Mai 2019  (29)
+ April 2019  (20)
+ März 
+2019  (26)
+ Februar 2019  (19)
+ Januar 2019  (21)
+ Dezember 2018  (20)
+ November 2018  (25)
+ Oktober
+ 2018  (21)
+ September 2018  (19)
+ August 2018  (22)
+ Juli 2018  (21)
+ Juni 2018  (26)
+ Mai 2018  (2
+1)
+ April 2018  (21)
+ März 2018  (20)
+ Februar 2018  (17)
+ Januar 2018  (12)
+ Dezember 2017  (17)
+ N
+ovember 2017  (29)
+ Oktober 2017  (14)
+ September 2017  (18)
+ August 2017  (15)
+ Juli 2017  (9)
+ Jun
+i 2017  (18)
+ Mai 2017  (12)
+ April 2017  (19)
+ März 2017  (20)
+ Februar 2017  (13)
+ Januar 2017  (1
+1)
+ Dezember 2016  (9)
+ November 2016  (12)
+ Oktober 2016  (11)
+ September 2016  (11)
+ August 2016  
+(15)
+ Juli 2016  (14)
+ Juni 2016  (20)
+ Mai 2016  (11)
+ April 2016  (22)
+ März 2016  (20)
+ Februar 2
+016  (17)
+ Januar 2016  (11)
+ Dezember 2015  (13)
+ November 2015  (16)
+ Oktober 2015  (17)
+ Septembe
+r 2015  (21)
+ August 2015  (17)
+ Juli 2015  (16)
+ Juni 2015  (24)
+ Mai 2015  (22)
+ April 2015  (36)
+
+ März 2015  (38)
+ Februar 2015  (49)
+ Januar 2015  (31)
+ Dezember 2014  (35)
+ November 2014  (17)
+ O
+ktober 2014  (15)
+ September 2014  (18)
+ August 2014  (30)
+ Juli 2014  (29)
+ Juni 2014  (20)
+ Mai 20
+14  (36)
+ April 2014  (43)
+ März 2014  (29)
+ Februar 2014  (28)
+ Januar 2014  (18)
+ Dezember 2013  (
+14)
+ November 2013  (13)
+ Oktober 2013  (5)
+ September 2013  (3)
+ August 2013  (2)
+ Juli 2013  (5)
+ 
+Juni 2013  (12)
+ Mai 2013  (38)
+ April 2013  (31)
+ März 2013  (37)
+ Februar 2013  (37)
+ Januar 2013 
+ (31)
+ Dezember 2012  (10)
+ November 2012  (14)
+ Oktober 2012  (11)
+ September 2012  (9)
+ August 201
+2  (14)
+ Juli 2012  (9)
+ Juni 2012  (9)
+ Mai 2012  (11)
+ April 2012  (16)
+ März 2012  (17)
+ Februar 
+2012  (15)
+ Januar 2012  (7)
+ Dezember 2011  (8)
+ November 2011  (12)
+ Oktober 2011  (11)
+ September
+ 2011  (9)
+ August 2011  (8)
+ Juli 2011  (6)
+ Juni 2011  (12)
+ Mai 2011  (6)
+ April 2011  (4)
+ März 
+2011  (25)
+ Februar 2011  (11)
+ Januar 2011  (12)
+ Dezember 2010  (8)
+ November 2010  (8)
+ Oktober 2
+010  (10)
+ September 2010  (8)
+ August 2010  (13)
+ Juli 2010  (24)
+
+KategorienKategorien
+Kategorie a
+uswählen
+Antivirus  (74)
+Application-Security  (83)
+Blockchain  (8)
+   Cryptocurrency  (6)
+   Exchan
+ges  (1)
+   Mining Technologie  (4)
+Business  (505)
+   Ethik  (19)
+   Jobbörse  (5)
+   Markt und Anb
+ieter  (316)
+   Politik & Verbände  (20)
+   Produkte & Dienstleistungen  (78)
+Compliance  (90)
+Compu
+ting  (169)
+   Cloud Computing  (166)
+   Quantum Computing  (2)
+Datenschutz  (271)
+Digitalisierung  
+(31)
+   Digitale Zwillinge  (1)
+   Serverless Computing  (2)
+   Transformation  (8)
+E-Mail-Sicherhei
+t  (106)
+Feature  (493)
+   Events & Webinare  (28)
+   Fachartikel  (131)
+   Laokoon & Kassandra  (17
+)
+   White Paper  (7)
+Künstliche Intelligenz  (12)
+   Cyber Grand Challenge  (1)
+   Deep Learning  (
+2)
+   Machine Learning  (6)
+News  (1.937)
+Risikomanagement  (55)
+Security  (1.406)
+   Application & 
+Host Security  (120)
+   Endpoint Security  (108)
+   Informationssicherheit  (469)
+   Mobile Computin
+g & Device Management  (215)
+   Netzwerksicherheit  (255)
+   Organisation  (151)
+   Physische Sicher
+heit  (27)
+   Storage  (71)
+Sicherer IT-Betrieb  (281)
+Systemsicherheit  (101)
+Technology  (106)
+   
+Cryptography  (27)
+   Fuzzing  (7)
+   Hardware  (12)
+   Industrial ISMS  (18)
+   Normen & Standards 
+ (6)
+   SCADA  (10)
+Threat  (606)
+   Angriffsarten  (159)
+   Information Gathering  (65)
+   Spionage
+  (91)
+   Terror  (15)
+   Wirtschaftsspionage  (70)
+Uncategorized  (111)
+Video  (12)
+Zutrittsschutz 
+ (30)
+
+
+
+ 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Maze jetzt noch gefährlicher
+
+/ ~ 4AC5DDE2 ~ /
+
+Uniklinik 
+#Düsseldorf: Ransomware "DoppelPaymer" soll hinter dem Angriff stecken | heise online
+
+/ ~ 4AC5DDE2 
+~ /
+
+Insider Research im Gespräch:
+Ransomware-Schutz für Sicherheitsprofis, ein Interview mit Martin
+ Maier von Pure Storage #Storage #Security #Backup #Ransomware #PureStorage
+
+/ ~ 4AC5DDE2 ~ /
+
+Mit F
+ake News gegen Ransomware und Malware - http://sectank.net/blog/2020/09/24/mit-fake-news-gegen-ranso
+mware-und-malware/…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Das änderte sich einige Jahre später. Als Anfang der 2000er 
+Jahre drahtlose Datenübertragungsstandards entwickelt wurden, fehlte nur noch die Umwandlung und Int
+egration von persönlicher Kommunikation und Computern, um datengetriebene Sporttechnologie kommerzie
+ll erfolgreich zu machen.
+Integration – Auftritt des Smartphones
+Ab dem Jahr 2000 begannen sich Mobi
+ltelefone mit dem entstehenden 3G-Netzwerk zu verbinden. Als dann am 9. Januar 2007 das iPhone der e
+rsten Generation und anderthalb Jahre später das erste Android-Gerät veröffentlicht wurde, waren das
+ Aufeinandertreffen von datengetriebener Sporttechnologie und der Social-Sharing-Lust der Verbrauche
+r unvermeidlich.
+Smartphones ermöglichten den Benutzern sowohl den Zugriff auf verschiedene Dienste 
+als auch die Verbindung mit anderen Geräten. Das schloss auch Geräte mit anderen Kommunikationsstand
+ards ein, wie Bluetooth und ANT +, die häufig in Pulsmessgeräten und Geschwindigkeitssensoren verwen
+det werden. Durch diese Protokolle können kleine oder spezialisierte Geräte mit Smartphones gekoppel
+t werden, die nicht nur wesentlich bessere Benutzeroberflächen und mehr Verarbeitungsleistung bieten
+, sondern auch einen Internetzugang zur Verbindung mit sozialen Medien, E-Mails und Servern.
+Ein Dat
+enboom
+Das Zeitalter von Big Data stand (ebenfalls) bevor. Daher schien es zuerst, dass Sportdaten n
+ur ein kleiner Bestandteil des durch neue Tracking- und Analysemethoden erzeugten unendlichen Datens
+troms bleiben würden. Allerdings erwiesen sich die Sportdaten für Millionen neugieriger Menschen als
+ sehr interessant, motivierend und sozial bedeutsam.
+Eine neue Branche boomte als Herzfrequenz, Trit
+tfrequenz, Geschwindigkeit, Höhe und Standort messende Geräte auf soziale Medien trafen. Der von SRM
+ angestoßene Entwicklung brachte Gerätehersteller wie Garmin, Fitbit, Apple, Samsung und Wahoo – um 
+nur einige zu nennen – auf den Plan. Sie generierten das Daten-Futter für Sport-Apps wie Strava, Zwi
+ft oder Runtastic, die ihren Nutzern die Möglichkeit zur Aufzeichnung, Analyse, Sharing und zur sozi
+alen Interaktion boten. Diese Kombination machte süchtig.
+Die Sportapp Strava meldete beispielsweise
+ im Februar 2020 die Marke von 50 Millionen Mitgliedern überschritten zu haben und pro Monat um eine
+ Million zu wachsen. Diese Mitglieder luden „mehr als 1 Milliarde Aktivitäten in den letzten 13 Mona
+ten“ bei dem Dienst hoch.
+Es geht also im Wesentlichen darum, dass Sportler die über ihre Sportcompu
+tern, Uhren und Sensoren gesammelten Daten zusammen mit Standortinformationen auf Plattformen wie St
+rava hochladen.
+Du weißt, dass Du süchtig bist, wenn sie es wegnehmen
+Viele Sportler, egal ob Amateu
+r oder Profi, neigen, Social-Media-Nutzern ähnlich, zum obsessiven Ausleben ihrer Leidenschaft. Sich
+erlich fördern Radfahrer, Triathleten, Läufer und Wanderer, mit ihrer Akkumulation riesiger Datenmen
+gen auf Plattformen wie Strava, ihre eigene Datensucht.
+Der große Erfolg von Plattformen wie Zwift v
+erdeutlicht wieviele Daten geloggt werden und wieviele Menschen dahinterstehen. Zwift ist eine Indoo
+r-Cycling App, die es Radfahrern erlaubt sich auf virtuellen Radtouren mit anderen Radfahrern zu mes
+sen, indem sie ihren Fahrrad-Heimtrainer mit einem Computer, Smartphone oder Smart-TV verbinden. Wäh
+rend der Quarantänemaßnahmen im Zuge der Corona-Pandemie nahmen die Nutzerzahlen von Zwift massiv zu
+ und sogar Profiradfahrer, die nicht draußen trainieren konnten, stießen auf die Plattform. Vom 21. 
+Januar 2020 bis zum 5. April 2020 stieg die Zahl der gleichzeitigen Nutzer der Plattform von 16.512 
+auf 34.940. Datengetriebener Sport ist auf einem Höhenflug!
+Wenn nun plötzlich die Verbindungen zwis
+chen den Sensoren zuhause und den sozialen Räumen der Plattformen unterbrochen werden würden, wären 
+viele Benutzer sehr verärgert! Was würde passieren, wenn den Zwift-Usern plötzlich der Zugriff auf i
+hre Rennstrecken, In-App-Avatare oder Daten von einem Cryptolocker verschlüsselt werden würde?
+Das d
+ieses Szenario durchaus realistisch ist, zeigt der Hack von Garmin Connect.
+Abbildung 2: Eine Zwift-
+Benutzerin mit „intelligentem“ Trainer und FernseherSource: https://news.zwift.com/en-WW/media_kits/
+ 
+Das Erpressungspotenzial nimmt zu
+Vor kurzem wurde bekannt, dass es bei Garmin, dem Marktführer de
+s GPS- und Fitness-Tracking-Bereichs zu einem schwerwiegenden Sicherheitsvorfall gekommen war. „Garm
+in war das Opfer eines Cyberangriffs, bei dem einige unserer Systeme am 23. Juli 2020 verschlüsselt 
+wurden. Infolgedessen wurden viele unserer Onlinedienste, darunter Website-Funktionen, Kundensupport
+, kundenorientierte Anwendungen und Unternehmenskommunikation, unterbrochen. Wir haben sofort begonn
+en, den Angriff zu untersuchen und mit der Wiederherstellung begonnen“, heißt es in der Mitteilung d
+es Unternehmens.
+Anschließend stellte man fest, dass ein Ransomware-Angriff auf die Systeme stattgef
+unden hatte. Die forensische Untersuchung zeigte, mit hoher Wahrscheinlichkeit, dass es sich um eine
+ Attacke mit der Malware WastedLocker gehandelt haben muss. In diesem Fall wahrscheinlich von der Cy
+bercrime-Gruppe Evil Corp durchgeführt.
+Für die Kunden von Garmin bedeutete der mehrtägige Ausfall, 
+dass sie weder Daten protokollieren noch veröffentlichen konnten. Jedoch zeigen andere in der letzte
+n Zeit aufgetretene Ransomware-Vorfälle, dass es die Cyberkriminellen nicht dabei belassen den Zugri
+ff auf Daten zu blockieren. Vielmehr stehlen sie diese auch durch Doxing und zufällige Datenlecks, v
+ersteigern sie in speziellen Untergrund-Marktplätzen und bilden sogar „Kartelle“, um mehr Käufer anz
+ulocken.
+Die Berichte nach dem Vorfall bei Garmin bestätigen dies sicherlich nicht, aber nach Wasted
+Locker sollte diese Branche das Risiko und den Wert der Sportdaten ihrer Kunden, einschließlich der 
+personenbezogenen Daten und Standorte, neu bewerten. Unter diesen Umständen ist der Wert von „Sportd
+aten“ um ein Vielfaches höher und sollte so gut geschützt werden wie Gesundheitsdaten.
+Der Vorfall z
+eigt auch, dass Cyberkriminelle eine neue Möglichkeit gefunden haben, um Unternehmen zu erpressen. D
+aher können wir uns vorstellen, dass in Zukunft viele andere Unternehmen ähnlichen Angriffen zum Opf
+er fallen könnten. Fitnesscenter-Franchise-Unternehmen, Personal Trainer, Physiotherapeuten und ihre
+ natürliche Überschneidung mit Gesundheitsdienstleistern ermöglichen hier negative Synergien.
+Auch a
+ußerhalb des Sports könnten Malware-Angriffe, zum Beispiel bei den in letzter Zeit boomenden Lebensm
+ittellieferdiensten, zunehmen. Diese verfügen oftmals über ein knappes Budget und sind auf die Verwe
+ndung von Standortdaten und  ihrer Kundendatenbanken mit persönlich identifizierbaren Informationen 
+angewiesen. Deswegen, und aufgrund des geringeren Reifegrads ihrer Cybersicherheit, sind diese Unter
+nehmen für Ransomware-Attacken vielleicht noch anfälliger als die auf Sportdaten fokussierten Dienst
+leister.
+Erhöhung der Sicherheit
+Wenn Sie Sportler sind, dann bedenken Sie, dass Ihre Daten sowie di
+e Geräte- und Dienstintegration neue Bedrohungsvektoren erzeugen können. Falls Sie wissen oder vermu
+ten, dass Ihre Daten durch einen Sicherheitsvorfall gestohlen wurden, dann fordern Sie Ihren Diensta
+nbieter nachdrücklich und proaktiv dazu auf, einen Monitoringdienst zum Schutz vor Identitätsdiebsta
+hl anzubieten. Im Fall des Angriffs auf Garmin scheinen sich die Benutzer über den Verschlüsselungss
+tatus ihrer Daten im Klaren zu sein. In Fällen aber, bei denen die Wahrscheinlichkeit hoch ist, dass
+ Ihre persönlichen Sportstatistiken und -daten in kriminellen Händen sind, sollten Sie mit gezielten
+ Phishing-Angriffen oder Identitätsbetrugsversuchen in der nahen Zukunft rechnen.
+Verwandte Artikel 
+(engl.)
+Simple steps to protect yourself against identity theft
+Blackbaud data breach: What you shou
+ld know  (insbesondere der Abschnitt „Was fehlt“)
+Privacy of fitness tracking apps in the spotlight 
+after soldiers’ exercise routes shared online
+Polar Flow app exposes geolocation data of soldiers an
+d secret agents
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Geleakte Passdaten: Fedpol gibt Entwarnung
+Bei einem Ransomware-
+Angriff in Argentinien waren die Daten von 11'000 Schweizern erbeutet worden. Das Missbrauchsrisiko 
+sei aber gering, so das Bundesamt.
+https://buff.ly/3kIgk6c
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+ 
+Seit fast einei
+nhalb Jahren treibt die Ransomware Maze ihr Unwesen. Bereits im Mai warnte das Sicherheitsunternehme
+ns Sophos in einem Bericht vor den Machenschaften der Cyberkriminellen. Diese begnügen sich nicht da
+mit, die Daten ihrer Opfer zu verschlüsseln, um dann Lösegeld zu fordern.
+
+
+Anzeige
+
+
+
+Sie wollen hö
+here Summen erpressen, deshalb laden sie die Daten ihrer Opfer vor der eigentlichen Attacke herunter
+ und drohen damit, diese zu veröffentlichen, wenn das geforderte Lösegeld nicht gezahlt wird – und d
+ieses bewegt sich mindestens im sechsstelligen Bereich.
+Verbreitet wird Maze am häufigsten per E-Mai
+l, wobei sich die Kriminellen extrem geschickt anstellen. Im Herbst vergangenen Jahres gaben sie sic
+h beispielsweise in Deutschland als Bundeszentralamt für Steuern und in Italien als Agencia Entrate,
+ also die italienische Finanzbehörde, aus. Den Angriff in Italien beschreiben die Sicherheitsforsche
+r von Sophos in ihrem Blog am 12. Mai 2020: Die Opfer erhielten eine E-Mail mit einer Aufforderung e
+in interaktives Dokument auszufüllen, um nicht als Steuerhinterzieher markiert zu werden. Ein Trick,
+ um die Aktivierung von Makros zu erschleichen, damit ein Script innerhalb des Dokuments die Ransomw
+are herunterladen und ausführen kann. Berichten zufolge kamen seither auch Bewerbungen auf reale Ste
+llenanzeigen und angebliche Informationen der WHO zur Corona-Pandemie zum Einsatz, um die Schadsoftw
+are weiter zu verbreiten.
+Für ihr typisches Vorgehen, die Daten vor der Verschlüsselung herunterzula
+den, müssen die Kriminellen sich schon einige Zeit vor der eigentlichen Attacke in die Netzwerke ihr
+er Opfer einschleichen. Das birgt das Risiko, dass der Schädling in der Zwischenzeit entdeckt wird –
+ bis jetzt, denn die Cyberkriminellen haben sich bei der Hackergruppe Ragnar Locker einen Trick abge
+schaut, der es betroffenen Unternehmen noch schwerer macht, die Malware rechtzeitig zu entdecken. Be
+i einem Ransomwareangriff, der von den Sicherheitsforschern von Sophos untersucht wurde, hat die Mal
+ware eine Virtuelle Maschine genutzt, um sich im Netzwerk ihres Opfers zu tarnen. Bei dieser Technik
+ wird innerhalb eines Computers ein weiterer virtueller Rechner mit eigener Rechnerstruktur eingeric
+htet, der den Host-Rechner imitiert. In dieser Umgebung konnten die Kriminellen ihre Ransomware in a
+ller Ruhe einrichten und alle erforderlichen Komponenten herunterladen, ohne dass diese im eigentlic
+hen, real existierenden Netzwerk sichtbar waren. Erst als die Verschlüsselung ausgelöst wurde, wurde
+ die Infiltration sichtbar – doch da war es schon zu spät.
+Maze war bereits vor den letzten Anpassun
+gen eine sehr erfolgreiche Ransomware-Gruppe, aber die Anpassung ihrer Taktik zeigt, dass die Hinter
+männer ständig versuchen, neue Wege zu finden, um Angriffe noch erfolgreicher zu machen. Nun ist es 
+für Unternehmen noch schwerer einen Angriff rechtzeitig zu erkennen und entsprechende Schritte einzu
+leiten. Umso wichtiger sind präventive Maßnahmen, damit die Kriminellen gar nicht erst den Fuß in di
+e Tür bekommen.
+Dazu gehören, die Mitarbeiter im Umgang mit eingehenden E-Mails zu schulen und ihnen
+ ein Verständnis für die damit einhergehenden Gefahren z. B. durch Malware zu vermitteln. Aber auch 
+auf technischer Seite können Unternehmen etwas gegen Ransomware machen. So sollte die Verwendung unn
+ötiger Anwendungen blockiert und die Ausführbarkeit von Makros deaktiviert werden. Regelmäßige Updat
+es sowie das zeitnahe Einspielen von Sicherheitspatches sollten ebenfalls zum Standard gehören. Darü
+ber hinaus sollten Mitarbeiter in der IT ihr eigenes Netzwerk verstehen und in und auswendig kennen,
+ denn nur so können sie verdächtiges Verhalten erkennen und geeignete Gegenmaßnahmen einleiten. Da v
+iele kleinere Unternehmen in diesem Bereich nicht über ausreichende Kapazitäten verfügen, bietet sic
+h hier die Beauftragung eines Managed Security Service Providers an, der das Unternehmen mit den ent
+sprechenden Services unterstützt.
+www.8com.de
+ 
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+SEI UN RANSOMWARE

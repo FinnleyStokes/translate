@@ -1,0 +1,533 @@
+AgeLocker-Ransomware stiehlt Daten von QNAP-NAS-Geräten - https://is.gd/SlJPMn
+
+/ ~ 4AC5DDE2 ~ /
+
+#A
+geLocker-Ransomware stiehlt Daten von QNAP-NAS-Geräten
+
+/ ~ 4AC5DDE2 ~ /
+
+
+    TechCrunch ist Teil v
+on Verizon Media. Wir und unsere Partner nutzen Cookies und ähnliche Technik, um Daten auf Ihrem Ger
+ät zu speichern und/oder darauf zuzugreifen, für folgende Zwecke: um personalisierte Werbung und Inh
+alte zu zeigen, zur Messung von Anzeigen und Inhalten, um mehr über die Zielgruppe zu erfahren sowie
+ für die Entwicklung von Produkten.
+
+Personenbezogene Daten, die ggf. verwendet werden
+
+Daten über I
+hr Gerät und Ihre Internetverbindung, darunter Ihre IP-Adresse
+Such- und Browsingaktivität bei Ihrer
+ Nutzung der Websites und Apps von Verizon Media
+ Genauer Standort
+
+
+    Für nähere Informationen zu
+r Nutzung Ihrer Daten lesen Sie bitte unsere Datenschutzerklärung und Cookie-Richtlinie.
+
+    Damit 
+Verizon Media und unsere Partner Ihre personenbezogenen Daten verarbeiten können, wählen Sie bitte '
+Ich stimme zu.' aus oder wählen Sie 'Einstellungen verwalten', um weitere Informationen zu erhalten 
+und eine Auswahl zu treffen. Dazu gehört der Widerspruch gegen die Verarbeitung Ihrer Daten durch Pa
+rtner für deren berechtigte Interessen. Sie können Ihre Einstellungen jederzeit ändern. Dies geschie
+ht in Ihren Datenschutzeinstellungen.
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Die OPTIMA packaging group GmbH hat auf i
+hrer Webseite alle Geschäftspartner über einen #Ransomware Angriff informiert. Heute kann quasi jede
+s Unternehmen jederzeit von so einem Angriff betroffen sein. Steht Ihr Notfall- und #Krisenmanagemen
+t? Da einige #…
+
+/ ~ 4AC5DDE2 ~ /
+
+In den ersten sechs Monaten dieses Jahres haben die Ontrack-Ingen
+ieure viele Datenrettungsaufträge erhalten, die auf die eine oder andere Weise mit Hackversuchen ode
+r Ransomware-Angriffen zu tun hatten. Vor allem in Deutschland gab es in einem Monat allein fast ein
+ halbes Dutzend solcher Projekte, die gelöst werden mussten.
+Allein in drei Fällen wurden NAS-Backup
+-Server von einer komplexen Ransomware- und Hacking-Attacke heimgesucht, die unseren Kunden schwerwi
+egende Probleme bereitete:
+Ein QNAP-Backup-Server wurde beispielsweise durch einen kombinierten Rans
+omware-Netzwerkangriff formatiert, wodurch die Server der Netzwerkproduktion durch die Ransomware ve
+rschlüsselt wurden, während der angeschlossene QNAP-Backup-Server vollständig formatiert und bis zu 
+einem gewissen Grad überschrieben wurde. Aus diesem Grund konnten die Ontrack-Spezialisten noch fast
+ 90 % der Backup-Daten wiederherstellen und halfen so dem Client, sich von diesem Angriff schnell zu
+ erholen. Wäre es dem Angreifer besser gelungen, die vier Laufwerke mit je 1 TB innerhalb des QNAP z
+u überschreiben, dann wären selbst Ontrack-Experten überhaupt nicht erfolgreich gewesen.
+Ein weitere
+r Fall war ein Ransomware-Angriff, bei dem die Hacker erfolgreich versuchten, eine kleine Firma fast
+ zu ergreifen: Nicht nur alle aktiven Produktionsserver wurden von einer Ransomware getroffen, sonde
+rn auch der angeschlossene Backup-Dateiserver, der aus einem Synology NAS mit 6 mal 8 TB Laufwerken 
+bestand, wurde getroffen. Obwohl Ontrack in der Lage war, einige wichtige Dateien von diesem Sicheru
+ngsgerät wiederherzustellen, wurde eine riesige wichtige Datei - 10 TB groß - mit einem Nullmuster ü
+berschrieben, was bedeutet, dass kein Datenrettungsexperte der Welt diese Daten jemals wiederherstel
+len kann.
+Ein weiterer Fall war eher ein Sabotageakt bei dem Backup durch die Hacker, der bei einer 
+mittelständischen deutschen Firma stattfand. Hier war es eine ausgeklügelte Ransomware, die das Unte
+rnehmen traf und sich im Netzwerk verbreiten konnte, den Server verschlüsselte und danach 11 Backup-
+Platten formatierte. Diese Festplatten, die jeweils 8 TB groß waren, waren in einem RAID 5 zusammeng
+efasst. Zu allem Überfluss verfügte der Kunde auch nicht über ein aktuelles und funktionierendes Bac
+kup. Selbst wenn Ontrack in der Lage gewesen wäre, die formatierten Festplatten nacheinander wiederh
+erzustellen, zahlte der Kunde die geforderte Ransomware-Summe am Ende doch an die Kriminellen, denn 
+die Wiederherstellung dieser riesigen Datenmenge hätte mehrere Wochen gedauert. Zeit, die das Untern
+ehmen nicht in der Lage und bereit war zu investieren.
+Diese Beispiele sind nur ein kleiner Überblic
+k über die neuesten Ransomware- und Hacker-bezogenen Datenrettungsaufträge, die die deutschen und eu
+ropäischen Datenrettungsingenieure erhalten haben.
+Wie man sehen kann, hätten viele dieser Datenrett
+ungen durch die Nutzer verhindert werden können, wenn sie sich an die folgenden einfachen Tipps geha
+lten hätten:
+
+Halten Sie immer ein aktuelles Backup bereit, so dass Sie, wenn Sie von einer Ransomwa
+re getroffen werden, Ihr System mit Ihren Daten schnell selbst wiederaufbauen können.
+Stellen Sie si
+cher, dass Ihr Backup-System entweder nicht mit dem Netzwerk verbunden ist oder nur für die Zeit, in
+ der es benötigt wird - z.B. wenn das neue Backup erstellt wird -, so dass es keine Chance für eine 
+Ransomware gibt, auch Ihr Backup zu starten.
+Erwägen Sie die Verwendung eines Bandsicherungssystems 
+(Tape Backup System). Nur Bänder (Tapes) sind in der Lage, die größtmögliche Datensicherheit gegen R
+ansomware zu gewährleisten, da Sie das neueste Sicherungsband von der Bandstation entfernen und das 
+Band nicht mehr mit einem Netzwerk verbunden ist.
+
+In den kommenden Wochen werden wir hier auf dem D
+ata Recovery Blog eine erfolgreiche Bandwiederherstellung vorstellen, die aufgrund eines Ransomware-
+Angriffs notwendig wurde. Bis dahin! Und: Bleiben Sie auf dem Laufenden!
+Bildnachweis: 
+Brass-colore
+d Metal Padlock With Chain
+https://www.pexels.com/photo/door-green-closed-lock-4291/
+https://www.pex
+els.com/creative-commons-images/
+ 
+ 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+On-Demand Webinar: Ransomware Hostage Rescu
+e Guide 2020
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Sophos hat eine Maze-Ransomware-Attacke analysiert, bei der auf dre
+i verschiedene Arten versucht wurde, 15 Millionen Dollar an Lösegeld von einer Organisation zu erbeu
+ten. Alle drei Angriffsversuche schlugen aufgrund geeigneter Maßnahmen fehl. Sie zeigen jedoch die B
+eharrlichkeit und Anpassungsfähigkeit der Angreifer.
+Unser Technologiepartner Sophos veröffentlichet
+ seinen neuen Report „Maze Attackers Adopt Ragnar Locker Virtual Machine Technique“. In diesem Beric
+ht beschreiben die Security-Experten, wie Cyberkriminelle bei einem Angriff auf drei unterschiedlich
+e Arten versuchten, die Ransomware Maze bei ihrem Opfer zu aktivieren. Als Lösegeld verlangten die G
+angster 15 Millionen Dollar. Maze ist eine der berüchtigtsten Ransomware-Familien und seit 2019 akti
+v. Sie entwickelte sich aus der ChaCha-Ransomware und ist eine der ersten, die Datenverschlüsselung 
+mit Informationsdiebstahl kombinierte. Im Mai 2020 wiesen wir bereits auf die Gefahr von Maze hin.
+D
+rei Angriffsvarianten auf ein und dasselbe Opfer
+Die Cybergangster hinter Maze sind hartnäckig und v
+ersuchen die Ransomware auf unterschiedliche Arten im Unternehmen zu verbreiten. Forensische Untersu
+chungen ergaben, dass die Angreifer mindestens sechs Tage vor ihrem ersten Versuch, die Ransomware z
+u aktivieren, in das Netzwerk eingedrungen waren. Während dieser Zeit erkundeten sie die Netzinfrast
+ruktur, starteten reguläre Tools von Drittanbietern, stellten Verbindungen her und leiteten Daten zu
+ einem Cloud-Speicherdienst. Diese Schritte dienten der Vorbereitung für die eigentliche Ransomware.
+
+Nach Aktivierung der Ransomware verlangten die Cyberkriminellen ein Lösegeld in Höhe von 15 Million
+en Dollar. Das Opfer zahlte die Summe jedoch nicht und als die Angreifer merkten, dass der erste Ang
+riff fehlgeschlagen war, starteten sie einen zweiten, modifizierten Versuch. Dieser wurde von Securi
+ty-Lösungen und dem Sophos Managed Threat Response (MTR)-Team, das für die Reaktion auf den Vorfall 
+zuständig war, entdeckt und abgewehrt. Doch die Maze-Angreifer gaben noch nicht auf. Beim dritten Ve
+rsuch verwendeten sie eine neu konfigurierte Version der Ragnar Locker VM-Technologie unter Einsatz 
+von Windows 7 anstelle der Windows XP-VM. Zudem konzentrierten sie den Angriff nur auf einen Dateise
+rver. Auch dieser Versuch wurde erkannt und blockiert.
+„Die Angriffskette, die vom Sophos MTR-Team n
+achverfolgt wurde, zeigt die Agilität und Hartnäckigkeit der Angreifer. Sie veranschaulicht auch ihr
+e Fähigkeit, Tools schnell zu ersetzen und neu zu konfigurieren, um für eine weitere Runde in den Ri
+ng zurückzukehren“, sagt Peter Mackenzie, Incident Response Manager bei Sophos. „Der Einsatz der VM-
+Technologie von Ragnar Locker mit starkem Footprint und hohem Bedarf an CPU-Leistung könnte ein Zeic
+hen für die wachsende Frustration der Angreifer sein, nachdem die ersten beiden Ransomware-Angriffe 
+fehlgeschlagen sind.“
+Tipps zur Abwehr von Cyberattacken
+Zur Abwehr von Cyberattacken, insbesondere 
+von Ransomware, empfehlen die Sophos- Security-Spezialisten eine Verkleinerung der Angriffsfläche. D
+ies kann durch mehrschichtige und Cloud-basierte Security-Lösungen mit wirksamem Ransomware-Schutz e
+rreicht werden. Zudem sollten Mitarbeiter geschult sein und wissen, worauf sie achten müssen. Auch k
+ann das Einrichten oder beauftragen eines Threat-Hunting-Services entscheidend dazu beitragen, aktiv
+e Attacken zu identifizieren.
+Möchten Sie mehr über unseren Technologiepartner Sophos erfahren? Frag
+en Sie uns! Kontaktieren Sie uns jederzeit mit ihrem Anliegen!
+
+
+/ ~ 4AC5DDE2 ~ /
+
+„So schützen Sie 
+sich gegen #Ransomware: Strategien und Vorgehensweisen digitaler Erpresser“
+
+Melden Sie sich jetzt k
+ostenfrei zu unserem #OnlineSeminar an: https://bit.ly/35X1CnZ
+ Freitag, 2. Oktober 2020, 10 Uhr
+
+#C
+yberangriffe #Cybercrime #Cybersecurity #Onlinekriminalität
+
+/ ~ 4AC5DDE2 ~ /
+
+Die September-Ausgabe
+ des HiSolutions #CyberSecurity Digest ist veröffentlicht! Themen in diesem Monat: Totgecybert? Koll
+ateralschäden von #Ransomware | Erpresserangriff auf Fahrdienst der Bundeswehr | Ransomware-Angriffe
+ als Folge von #Shitrix u.v.m.
+
+https://hisolutions.com/detail/hisolutions-cybersecurity-digest-sept
+ember-2020-veroeffentlicht…
+
+/ ~ 4AC5DDE2 ~ /
+
+Canon, Xerox, Garmin oder der Bundestagsfahrdienst: d
+ie Liste der Organisationen, die erst kürzlich Opfer von Cyberangriffen geworden sind, ist lang. Die
+ Vorgehensweise der Kriminellen ist dabei stets ähnlich: Sie verschaffen sich digitalen Zugang zu IT
+-Infrastrukturen, durchdringen Netzwerke, verschlüsseln Daten und fordern Lösegeld. Der Anstieg der 
+Fallzahlen im Bereich der Ransomware-Attacken ist besonders in der ersten Jahreshälfte 2020 erneut s
+pürbar gewesen.Um Ihre Organisation vor solchen Übergriffen effektiv schützen zu können, sollten Sie
+ zunächst einmal verstehen, wie Ihre Gegner grundsätzlich arbeiten. Unter dem Motto „Know your enemy
+“ möchten wir Ihnen in unserem Online-Seminar Einblicke in die Denk- und Vorgehensweise der Kriminel
+len geben und wollen dabei - ohne umfangreiches IT-Wissen vorauszusetzen - Denkanstöße zur Reflexion
+ der eigenen Präventionsmaßnahmen schaffen. Ein Online-Seminar für Entscheider, fachliche Mitarbeite
+r und Prüfer der Internen Revision in Unternehmen, zu dem wir auch Sie – selbstverständlich kostenlo
+s – einladen möchten.Wir freuen uns auf Ihre Teilnahme!Alexander Wagner 			Partner InformationenDatu
+m & UhrzeitFreitag, 2. Oktober 2020 			10:00 bis ca. 10:45 UhrOrtOnlineKontaktAlexander Wagner 			Pa
+rtner 			Competence Center Fraud • Risk • Compliance | ehemals Landeskriminalamt NRW 			Büro Düsseld
+orf 			T: +49 211 6901-4735alexander.wagner@bakertilly.deNiklas Gretser 			Competence Center Fraud •
+ Risk • Compliance | ehemals Polizei Niedersachsen, Wirtschafts- und Internetkriminalität, Aus- und 
+Fortbildung der Polizei im Bereich Cybercrime 			Büro Düsseldorf 			T: +49 211 6901-4732niklas.grets
+er@bakertilly.deIngo Meißner 			Competence Center Fraud • Risk • Compliance | ehemals Polizei Nieder
+sachsen, Strategische Informationssicherheit, IT-Projektleiter, Business Intelligence 			Büro Düssel
+dorf 			T: +49 211 6901-4725ingo.meissner@bakertilly.deAnmeldungDie Teilnahme an der Veranstaltung i
+st kostenlos.Bitte melden Sie sich über das Formular am Ende dieser Seite an.Tragen Sie sich die Ver
+anstaltung bequem in Ihren Kalender ein. Anmeldung
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware Bande vs Ermittler.
+.. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Ontrack-Experten sehen eine Zunahme der Datenwiederherstellung aufgrund von #
+Ransomware oder Hacking-Angriffen. Lesen Sie mehr über aktuelle Fälle und wie man sich und seine Dat
+en besser schützen kann. https://bit.ly/31oN6T8 #ontrack #ransomware #cybercrime #hacking #datapriva
+cy
+
+/ ~ 4AC5DDE2 ~ /
+
+[- AgeLocker-Ransomware stiehlt Daten von QNAP-NAS-Geräten -] https://ift.tt/3
+6jvLy3 #ITsec #sicherheit
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Die Ransomware AgeLocker nimmt bereits seit Ende Augus
+t NAS-Geräte des Herstellers QNAP ins Visier. Die Erpressersoftware ist nicht nur in der Lage, Datei
+en zu verschlüsseln und damit unbrauchbar zu machen, sie stiehlt unter Umständen auch Dateien, die d
+ie Hintermänner anschließend als weiteres Druckmittel einsetzen können, um ihre Lösegeldforderung du
+rchzusetzen.
+Wie Bleeping Computer berichtet, nutzt AgeLocker den Verschlüsselungsalgorithmus Actual
+ly Good Encryption, des Abkürzung AGE namensgebend war. Erstmals tauchte die Malware im Juli 2020 au
+f. Seit rund einem Monat wird sie auch für Angriffe auf Netzwerkspeicher von QNAP verwendet.
+Wie übl
+ich hinterlassen die Erpresser auch auf dem Netzwerkspeicher eine Lösegeldforderung in Form einer Te
+xtdatei mit dem Titel „How to restore Files“. „Unglücklicherweise hat eine Malware Ihr QNAP infizier
+t und eine große Zahl Ihrer Dateien wurden mit einer hybriden Verschlüsselung verschlüsselt“, heißt 
+es darin.
+Einige Angriffe auf QNAP-Geräte wurde auch dem Dienst ID-Ransomware gemeldet. Dessen Betre
+iber berichtet, dass die Hintermänner von AgeLocker unter anderem behaupten, sie hätten „medizinisch
+e Daten, Scans und Backups“ entwendet.
+Die Höhe der Lösegeldforderung ist dem Bericht zufolge nicht 
+bekannt. Unklar sei auch, wie es den Cyberkriminellen gelinge, die Ransomware in die Netzwerkspeiche
+r einzuschleusen.
+QNAP rät generell allen Besitzer seiner NAS-Geräte, die installierte Firmware sowi
+e die eingesetzten Applikationen auf einem aktuellen Stand zu halten. Zudem sollten nicht benötige o
+der unbekannte Applikationen entfernt werden. QNAP verweist zudem auf die Sicherheitsanwendung Malwa
+re Remover, die im App Center verfügbar ist. Außerdem rät das Unternehmen, über die Sicherheitseinst
+ellungen eine Zugangsliste einzurichten.
+
+
+
+ANZEIGE
+So reagieren Sie auf die gestiegene Nachfrage vo
+n Online-Videos – Wichtige Erkenntnisse und Trends
+Der von zahlreichen Ländern wegen der Coronakrise
+ eingeführte Lockdown und die damit verbundene soziale Distanzierung haben neue Rekorde im Online-Vi
+deoverkehr gebracht. Erfahren Sie in diesem Webinar, wie Sie Daten untersuchen und quantifizieren, u
+m die Belastung von Netzwerken und CDNs einzuschätzen.
+
+
+						Jetzt registrieren und Aufzeichnung a
+nsehen.					
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Update: Blocky for Veeam 2.5 mit zusätzlichem Admin-Passwort 
+Das neue Release von Blocky for Veeam von Cristie Data und GRAU DATA ist da: Der Ransomware-Schutz v
+erhindert die Verschlüsselung der Sicherungsdaten und soll in der Version 2.5 den unberechtigten Zug
+riff auf Administratorenebene verhindern. Selbst nach dem Einloggen des Administrators lassen sich k
+ritische Kernfunktionen, wie die Deinstallation oder das Abschalten des Ransomware-Schutzes, nur mit
+ einem zusätzlichen und unabhängigen Passwort auslösen. 
+Wirkungsweise von Blocky for Veeam mit Fing
+erabdruck (Grafik: Grau Data)Die Software ist für Unternehmen jeder Größenordnung geeignet und lässt
+ sich laut Herstellerangaben in existierende Umgebungen integrieren, unabhängig von existierenden IT
+-Infrastrukturen. Basis ist die WORM-Technologie von Grau. Durch speziell angepasste Rechte ist auss
+chließlich der Backup-Anwendung die Veränderung von Backup-Daten erlaubt. Alle anderen Programme ein
+schließlich Ransomware bleibt jeglicher Zugriff verwehrt.
+Blocky for Veeam: Datensicherung muss sich
+ per Fingerabdruck ausweisen
+Harry Weik, Grau Data»Für die Datensicherung muss sich die Backup-Softw
+are mit einem sicheren Fingerabdruck ausweisen«, Harry Weik, Leiter Vertrieb & Marketing bei Grau Da
+ta. »Nur wenn der einzigartige Fingerabdruck mit der hinterlegten Referenz übereinstimmt, lässt Bloc
+ky den schreibenden Zugriff auf die Daten zu. Alle anderen Anwendungen, insbesondere die Schadsoftwa
+re, werden durch den Filter blockiert. Die Ransomware trifft somit auf WORM-geschützte Backupdaten u
+nd hat keine Chance für Manipulation oder Verschlüsselung.«
+Das Blocky Update 2.5 ist ab sofort bei 
+Cristie Data verfügbar. Interessenten steht eine 60-Tage-Vollversion zum Test zur Verfügung. Die Sof
+tware ist ab 990 Euro netto pro Jahr erhältlich. Für Unternehmen eine durchaus überschaubare Investi
+tion für einen Ransomware- und sogenannten Last-Line-of-Defence-Schutz.
+Blocky for Veeam: Letzte Ver
+teidigungslinie gegen Ransomware
+»Das Backup ist die letzte Verteidigungslinie gegen Ransomware«, sa
+gt Cristie-Geschäftsführer Volker Wester. »Nur wenn das Backup von kriminellen Handlungen unberührt 
+bleibt, können unsere Kunden ihre Daten zuverlässig wiederherstellen und damit nicht nur die Lösegel
+dforderung umgehen, sondern auch für eine zuverlässige Business Continuity sorgen. Mit den zusätzlic
+hen Updates haben unsere Kunden eine noch höhere Sicherheit, auch von innen heraus.«
+»Unsere Partner
+schaft mit Cristie Data besteht nun seit einem Jahr und wir schauen auf sehr erfolgreiche zwölf Mona
+te zurück«, ergänzt Grau-Vertriebsleiter Weik. »Treiber des Business ist die sich ständig weiterentw
+ickelnde Gefahrenlage durch Cyberkriminelle, die immer raffiniertere Ransomware in Umlauf bringen. D
+ie Updates unseres Blocky 2.5 entstanden einerseits aus unserer hausinternen Entwicklung aber auch a
+uf Basis von Partner- und Kundenwünschen, die Blocky erfolgreich im Einsatz haben.«
+Weiterführende L
+inks  Testversion: Ransomware-Schutz-Software Blocky for Veeam
+Grau Data
+Cristie Data
+Letzte Verteid
+igungslinie: Backups vor Ransomware schützen
+Schutz vor Ransomware – die 10 Gebote der IT-Sicherheit
+
+Doc Storage: Ransomware: Sind Backups ein ausreichender Schutz?
+ 
+
+Kommentar schreiben
+
+
+
+
+Bitte me
+lden Sie sich an, um diesen Artikel zu kommentieren.
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+ Die Ransomware AgeLo
+cker nimmt bereits seit Ende August NAS-Geräte des Herstellers QNAP ins Visier. Die Erpressersoftwar
+e ist nicht nur in der Lage, Dateien zu verschlüsseln und damit unbrauchbar zu machen, sie stiehlt u
+nter Umständen auch Dateien, die die Hintermänner anschließend als weiteres Druckmittel einsetzen kö
+nnen, um ihre Lösegeldforderung durchzusetzen.Wie Bleeping Computer berichtet, nutzt AgeLocker den V
+erschlüsselungsalgorithmus Actually Good Encryption, des Abkürzung AGE namensgebend war. Erstmals ta
+uchte die Malware im Juli 2020 auf. Seit rund einem Monat wird sie auch für Angriffe auf Netzwerkspe
+icher von QNAP verwendet. Wie üblich hinterlassen die Erpresser auch auf dem Netzwerkspeicher eine L
+ösegeldforderung in Form einer Textdatei mit dem Titel „How to restore Files“. „Unglücklicherweise h
+at eine Malware Ihr QNAP infiziert und eine große Zahl Ihrer Dateien wurden mit einer hybriden Versc
+hlüsselung verschlüsselt“, heißt es darin. Einige Angriffe auf QNAP-Geräte wurde auch dem Dienst ID-
+Ransomware gemeldet. Dessen Betreiber berichtet, dass die Hintermänner von AgeLocker unter anderem b
+ehaupten, sie hätten „medizinische Daten, Scans und Backups“ entwendet. Die Höhe der Lösegeldforderu
+ng ist dem Bericht zufolge nicht bekannt. Unklar sei auch, wie es den Cyberkriminellen gelinge, die 
+Ransomware in die Netzwerkspeicher einzuschleusen. QNAP rät generell allen Besitzer seiner NAS-Gerät
+e, die installierte Firmware sowie die eingesetzten Applikationen auf einem aktuellen Stand zu halte
+n. Zudem sollten nicht benötige oder unbekannte Applikationen entfernt werden. QNAP verweist zudem a
+uf die Sicherheitsanwendung Malware Remover, die im App Center verfügbar ist. Außerdem rät das Unter
+nehmen, über die Sicherheitseinstellungen eine Zugangsliste einzurichten.   ANZEIGE So reagieren Sie
+ auf die gestiegene Nachfrage von Online-Videos – Wichtige Erkenntnisse und Trends Der von zahlreich
+en Ländern wegen der Coronakrise eingeführte Lockdown und die damit verbundene soziale Distanzierung
+ haben neue Rekorde im Online-Videoverkehr gebracht. Erfahren Sie in diesem Webinar, wie Sie Daten u
+ntersuchen und quantifizieren, um die Belastung von Netzwerken und CDNs einzuschätzen.   Jetzt regis
+trieren und Aufzeichnung ansehen.     
+
+/ ~ 4AC5DDE2 ~ /
+
+SEMOGA YANG PAKE WA MOD KENA RANSOMWARE DA
+N SEJENISNYA AAMIIN
+
+/ ~ 4AC5DDE2 ~ /
+
+Update: Blocky for Veeam 2.5 von Grau Data & @CristieDataDACH
+ kommt mit einem zusätzlichem und benutzerunabhängigem Passwortschutz. Die Preise beginnen bei 990Eu
+ro/Jahr
+https://speicherguide.de/news/update-blocky-for-veeam-2.5-mit-zusaetzlichem-admin-passwort-2
+4977.aspx…
+#Ransomware #RansomwareSchutz #backup #Datensicherung #graudata #cristiedata
+
+/ ~ 4AC5DDE
+2 ~ /
+
+Sophos hat eine Maze-Ransomware-Attacke analysiert, bei der auf drei verschiedene Arten versu
+cht wurde, 15 Millionen Dollar an Lösegeld von einer Organisation zu erbeuten: https://vintin.de/sop
+hos-maze-ransomware-triple-und-doch-kein-tor-angreifer-trotz-modifizierter-attacken-erfolglos/… #mak
+eITunique
+
+/ ~ 4AC5DDE2 ~ /
+
+PwnXSS - Vulnerability XSS Scanner Exploit 
+
+#Hackers #CyberWar #Cyberc
+rime #DeepWeb #DarkWeb #Virus #BlackHat #WhiteHat #Pentester #Spam #Ransomware #SpyData #Scam #DDoS 
+#BotHunter #Sniffer #zeroday
+
+/ ~ 4AC5DDE2 ~ /
+
+   Anzeige       Der IT-Ausfall an der Düsseldorfer 
+Uniklinik beruht nach Angaben der Landesregierung auf einem Hackerangriff mit Erpressung. Wissenscha
+ftsministerin Isabel Pfeiffer-Poensgen (parteilos) sagte am Donnerstag im Landtag, die Täter hätten 
+nach Kontakt zur Polizei die Erpressung zurückgezogen. Die Staatsanwaltschaft ermittelt inzwischen a
+uch wegen fahrlässiger Tötung, da eine Patientin in ein Wuppertaler Krankenhaus umgeleitet werden mu
+sste – und starb. Aus einem Bericht des Justizministers ging hervor, dass vergangene Woche 30 Server
+ des Klinikums verschlüsselt wurden. Auf einem Server wurde ein Erpresserschreiben hinterlassen, das
+ allerdings an die Düsseldorfer Heinrich-Heine-Uni gerichtet war. In dem Schreiben forderten die Erp
+resser zur Kontaktaufnahme auf – eine konkrete Summe nannten sie laut Bericht nicht. Die Düsseldorfe
+r Polizei habe dann tatsächlich Kontakt aufgenommen und den Tätern mitgeteilt, dass durch ihren Hack
+erangriff ein Krankenhaus – und nicht die Uni – betroffen sei. Damit seien Patienten erheblich gefäh
+rdet. Die Täter hätten daraufhin die Erpressung zurückgezogen und einen digitalen Schlüssel ausgehän
+digt, mit dem die Daten wieder entschlüsselt werden können. Behandlung mit einstündiger Verspätung  
+ Anzeige     Die Ermittler haben laut Bericht daher den Verdacht, dass das Uniklinikum nur zufällig 
+betroffen war. Inzwischen seien die Täter nicht mehr erreichbar. Gegen die Unbekannten wird jetzt au
+ch wegen fahrlässiger Tötung ermittelt, da eine lebensbedrohlich erkrankte Patientin, die in der Nac
+ht vom 11. auf den 12. September in die Uniklinik gebracht werden sollte, an ein Krankenhaus in Wupp
+ertal verwiesen wurde. Ihre Behandlung habe erst mit einstündiger Verspätung stattfinden können. Sie
+ starb kurze Zeit später, so der Justizminister in seinem Bericht.    Lesen Sie auch                
+             Hackerangriffe    Warum Experten vor der Nutzung von Hotel-WLAN warnen       Bei dem Ha
+ckerangriff sind nach bisherigen Erkenntnissen keine Daten gestohlen oder unwiederbringlich gelöscht
+ worden. Das hätten Untersuchungen von IT-Experten ergeben, teilte die Klinik mit.   Anzeige     Die
+ Hacker hätten eine Schwachstelle in einer Anwendung ausgenutzt. „Die Sicherheitslücke befand sich i
+n einer marktüblichen und weltweit verbreiteten kommerziellen Zusatzsoftware. Bis zur endgültigen Sc
+hließung dieser Lücke durch die Softwarefirma war ein ausreichendes Zeitfenster gegeben, um in die S
+ysteme einzudringen“, teilte die Klinik mit. Die Angreifer hätten dafür gesorgt, dass nach und nach 
+Systeme ausfielen und ein Zugriff auf gespeicherte Daten nicht mehr möglich war. Noch ist kein Norma
+lbetrieb möglich Die Uniklinik Düsseldorf rechnet nun damit, dass es noch einige Zeit dauern wird, b
+is Patienten wieder normal behandelt werden können. „Aufgrund des Umfangs des IT-Systems und der Fül
+le an Daten können wir noch nicht abschätzen, wann dieser Prozess abgeschlossen sein wird“, sagte de
+r Kaufmännische Direktor, Ekkehard Zimmer, am Donnerstag. „Wir sind aber zuversichtlich, dass wir in
+ den nächsten Tagen die Zeitspanne besser abschätzen können und dann auch Schritt für Schritt wieder
+ für unsere Patientinnen da sind.“ Vergangene Woche Donnerstag war das IT-System des Universitätskli
+nikums ausgefallen. Rettungswagen fuhren die große Einrichtung in der nordrhein-westfälischen Landes
+hauptstadt daraufhin nicht mehr an, Operationen wurden verschoben und geplante Behandlungstermine ab
+gesagt.       
+
+/ ~ 4AC5DDE2 ~ /
+
+AgeLocker-Ransomware stiehlt Daten von QNAP-NAS-Geräten - https://
+ift.tt/36jvLy3 #it-business #it #onlinemarketing @webnic
+
+/ ~ 4AC5DDE2 ~ /
+
+Top ThemaTotgecybert? Ko
+llateralschäden von Ransomware Ein eventuelles erstes Todesopfer eines Cyberangriffs in Deutschland 
+hat die Debatte um Kritische Infrastrukturen und IT-Sicherheit in Krankenhäusern aufgeschreckt. Ein 
+fehlgeleiteter Ransomware-Angriff auf das Uniklinikum Düsseldorf – es sollte eigentlich „nur“ die Un
+iversität treffen – hat zum Shutdown des Krankenhausbetriebs geführt. Obwohl die in Russland vermute
+ten Täter der Gruppe DoppelPaymer nach Mitteilung des Irrtums durch die Polizei umgehend die Schlüss
+el herausrückten, um das Krankenhaus wieder in Gang zu bringen, laufen nun Ermittlungen wegen des Ve
+rdachts der fahrlässigen Tötung einer Patientin, die statt in die nahe Uni-Klinik in ein weiter entf
+erntes Krankenhaus gebracht worden und gestorben war. Ein eventuelles Gerichtverfahren wäre Neuland 
+und ein möglicher Präzedenzfall für den Umgang mit Angriffen auf Kritische Infrastrukturen. Ähnlich 
+wie bei anderen aktuellen Themen – etwa den Mordanklagen gegen Raser – bewegen sich hier nicht nur E
+rmittlungsbehörden, sondern auch Gerichte auf dünnem Eis. Gleichzeitig dürfte die Auseinandersetzung
+ mit dem und über das Thema entscheidend mitgestaltend daran sein, wie wir als Gesellschaft Verantwo
+rtung und Rechenschaft im Internet sehen, leben und verfolgen wollen.https://www.heise.de/news/Unikl
+inik-Duesseldorf-Ransomware-DoppelPaymer-soll-hinter-dem-Angriff-stecken-4908608.html  NeuigkeitenFu
+hrpark im Visier – Erpresserangriff auf Fahrdienst der BundeswehrDie Fahrdienst-Tochter der Bundeswe
+hr „Bundeswehr Fuhrpark Service“ ist Opfer eines Emotet-Angriffs geworden. Aufgrund besonders sensib
+ler personenbezogener Daten innerhalb des Fahrdienstes des Deutschen Bundestages war zwischenzeitlic
+h das politische Interesse an dem Vorfall sehr groß; inzwischen wurde jedoch klar, dass es sich nich
+t um einen gezielten Angriff handelt, sondern um ungezielte Erpressung ging.https://www.behoerden-sp
+iegel.de/2020/08/17/hacker-griffen-fuhrpark-der-bundeswehr-an/https://augengeradeaus.net/2020/08/nac
+h-hacker-angriff-auf-bundeswehr-fahrdienstfirma-kein-cyber-schutz-fuer-bundeswehr-tochterfirmen/ HIS
+OLUTIONS: Warnung: Ransomware-Angriffe als Folge von ShitrixMonate nach dem Auftauchen der kritische
+n Sicherheitslücke im Citrix Application Delivery Controller (ADC) und NetScaler Gateway (CVE-2019-1
+9781, auch als “Shitrix“ bekannt) werden nun immer mehr Fälle bekannt, in denen die Lücke sehr früh 
+ausgenutzt, jedoch erst sehr viel später lukrativ verwendet wurde bzw. aktuell wird – siehe Uniklini
+kum Düsseldorf (Top Thema oben). Hier geht es zum aktuellen Advisory unseres Incident Response Teams
+:https://research.hisolutions.com/2020/09/warnung-aktuelle-ransomware-angriffe-als-folge-von-shitrix
+/ Englisch: https://research.hisolutions.com/2020/09/warning-current-ransomware-attacks-as-a-result-
+of-shitrix/ Schweigegeld: Organisationen trotz Backups erpressbarSeit neuestem häufen sich die Fälle
+, in denen Institutionen die Forderungen von Ransomware-Erpressern zahlen, obwohl sie dank korrekter
+ Backups die Daten wiederherstellen konnten: Die Verbrecher setzen das Mittel der Drohung der Veröff
+entlichung der vor der Verschlüsselung gestohlenen Daten derart geschickt ein, dass in diesem Fall e
+twa die University of Utah lieber 457.000 US-Dollar berappte.https://www.zdnet.com/article/universit
+y-of-utah-pays-457000-to-ransomware-gang/ Von wegen diebische Elster: Nutzerdaten aus Elster-Anwende
+rforum gestohlenIn einem Anwenderforum zur Online-Finanzamt-Software „Mein Elster“ des bayerischen L
+andesamts für Steuern war eine lückenhafte Forensoftware vBulletin im Einsatz, über die Angreifer Nu
+tzerdaten abgreifen konnten. Das Elster-Onlinefinanzamt selbst war hiervon ausdrücklich nicht betrof
+fen, trotzdem droht in solchen Fällen ein zumindest vorübergehender Vertrauensverlust auch für das H
+auptangebot.https://www.heise.de/news/Elster-Anwenderforum-Angreifer-griffen-ueber-Sicherheitsluecke
+-Nutzerdaten-ab-4875316.html Tor zu: Cyberangriff auf DFBAuch der Deutsche Fußballbund wurde Opfer e
+iner Cyberattacke. Laut Verband war „nur“ die Office-IT betroffen.https://www.dfb.de/news/detail/dfb
+-wurde-opfer-eines-cyberangriffs-219159/ Zero Trust verdient: Zerologon erlaubt Vollkompromittierung
+ einer DomainForscher der niederländischen Firma Secura haben einen Exploit für die Windows-Sicherhe
+itslücke „Zerologon“ (CVE-2020-1472) veröffentlicht, der es einem Angreifer erlaubt, von einem einze
+lnen Windows-Client aus die ganze Domäne zu übernehmen. Microsoft hat die mit der maximalen CVSS 10 
+bewertete Schwachstelle im August-Patch Tuesday geschlossen.https://www.secura.com/pathtoimg.php?id=
+2055ifconfig down under up – Australien rüstet cyber aufFive-Eyes-Mitglied Australien hat eine neue 
+Cyberstrategie vorgestellt, die in nicht unerheblichem Anteil auch offensive Elemente umfasst. Insge
+samt will man über 10 Jahre fast 1,7 Milliarden AUS-Dollar in die Hand nehmen, um die Fähigkeiten im
+ Cyberraum auszubauen. Neben allgemeinen Vorgaben an Kritische Infrastrukturen wird auch diskutiert,
+ wie der Staat in die Notfallbewältigung von Institutionen eingreifen kann, wenn diese hierzu nicht 
+selbst angemessen in der Lage sind.https://blog.lukaszolejnik.com/analysis-of-interesting-points-in-
+australian-2020-cybersecurity-strategy/  (mit Links auch zu Analysen der Strategien von USA, Irland,
+ Niederlande, Frankreich und Luxemburg)Tsetsetsetsetse-Fliege: C5-TsusätseDas BSI hat zum Cloud-Secu
+rity-Kriterienkatalog C5 (Cloud Computing Compliance Criteria Catalogue) zwei Zusatzdokumente veröff
+entlicht, die Testierung und Interpretation erleichtern. Die Kurzübersicht zur Berichterstattung fas
+st grundlegende Elemente des C5-Prüfungsberichts als Orientierungshilfe für den Prüfer zusammen. Der
+ Auswertungsleitfaden gibt Cloud-Kunden eine Struktur vor, einen C5-Bericht systematisch auszuwerten
+, um die eigenen Controls für die Nutzung einzurichten und hierdurch das mit der Cloud-Nutzung verbu
+ndene Risiko einschätzen und steuern zu können.https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaf
+t/CloudComputing/Kriterienkatalog/C5_AktuelleVersion/C5_Auswertung_node.html Sehr fette Finger – KMP
+G löscht versehentlich Chats von 145.000 MitarbeiternNeue Technologie in etablierte (Sicherheits-)St
+rukturen und eine vernünftige Governance zu bekommen, ist immer eine Herausforderung. Das musste die
+smal KPMG erfahren, wo ein IT-Mitarbeiter offenbar versehentlich Chats von 145.000 Mitarbeitern in d
+er Anwendung Microsoft Teams unwiderruflich gelöscht hat. Es sei jedoch „lediglich die persönliche C
+hat Historie betroffen“.https://www.n-tv.de/wirtschaft/Mitarbeiter-loescht-aus-Versehen-KPMG-Chats-a
+rticle21994942.html Der Schneider hat die schlechtesten Cyber: Ransomware-Schützer geransomedIss Dei
+n eigenes Hundefutter, heißt es. Denn erst dann merkst Du, was es taugt. Die auf Ransomware-Detektio
+n spezialisierte Firma Cygilant wurde Opfer einer Ransomware. Keine weiteren Anmerkungen.https://tec
+hcrunch.com/2020/09/03/cygilant-ransomware/  LESETIPPSFail SafeWunderschöne Liebeserklärung von Blog
+gerlegende Felix von Leitner (Fefe) an die Programmiersprache Rust im Speziellen und an sichere Prog
+rammiersprachen im Allgemeinen.https://www.heise.de/hintergrund/Entwicklung-Warum-Rust-die-Antwort-a
+uf-miese-Software-und-Programmierfehler-ist-4879795.html PricelessDer Privacy-Forscher Lukasz Olejni
+k rechnet vor, was anderen unsere Datenspuren im WWW wert sind.https://lukaszolejnik.com/rtbdesc Spa
+nnendSherrod DeGrippo von Proofpoint erzählt von den neuesten Entwicklungen in der Ransomware-Indust
+rie. „Fallen zwei oder drei Gangs weg, kommen fünf neue."https://www.sueddeutsche.de/wirtschaft/cybe
+rsicherheit-fallen-zwei-oder-drei-gangs-weg-kommen-fuenf-neue-1.5024654   It’s always DNS – aber sic
+her!Das Tunneln von DNS-Anfragen über TLS (DoT) oder HTTPS (DoH) verspricht Sicherheits- und Datensc
+hutzvorteile, die unser Kollege Michael Sehring hier untersucht:https://research.hisolutions.com/202
+0/09/securing-dns-traffic-an-introduction-to-dot-doh/  Der nächste HiS-Cybersecurity Digest erschein
+t Ende Oktober 2020.Jetzt abonnieren!Lesen Sie hier auch alle HiS-Cybersecurity Digests der letzten 
+Monate.Kontaktieren Sie uns gern mit Rückfragen und Anregungen!
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware bei #
+ThyssenKrupp System Engineering hat einige hundert Gigabyte Daten rausgetragen... weia.
+#Datenreicht
+um

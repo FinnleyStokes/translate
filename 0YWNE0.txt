@@ -1,0 +1,445 @@
+Wat je ook kunt doen is dat ik voor jou al die illegale boeken ga opspeuren en dat jij dan met de ma
+rketing bezig gaat :D (wil ik je ook wel bij helpen maar weinig kaas van gegeten)
+
+Toch vind ik jouw
+ idee van die ransomware wel leuker :)
+
+/ ~ 4AC5DDE2 ~ /
+
+IT-beveiliging is geen eenmalige investeri
+ng maar een continu proces. In onze blog krijgt u tips over de top drie cyberdreigingen op dit momen
+t. #malware #phishing #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Er was veel onrust in dataland. De ransomware 
+aanvallen volgden elkaar in een snel tempo op. Ook baarde de enorme toename van data zorgen. De capa
+citeit van primaire opslagsystemen liepen tegen grenzen aan zoals ook de hieraan verbonden kosten vo
+or hardware en infrastructuren.
+Maar er is zeker ook goed nieuws, steeds meer IT managers uit versch
+illende industrieën kiezen weer voor opslag op tape. Enerzijds door de mogelijkheid een schone off-s
+ite kopie op tape beschikbaar te houden, anderzijds door steeds meer oudere data naar een archief sy
+steem te zenden en te bewaren. Samen met hypermoderne data management systemen, S3 ontsluiting en he
+t Object storage protocol vormt tape storage de toekomst van veilige en verantwoorde data opslag.
+Ma
+ar er is nog meer goed nieuws! De nieuwe generatie LTO tape komt eraan en word begin volgend jaar ve
+rwacht. Deze LTO generatie 9 tapes zijn compatible met de huidige LTO8 en zal 18 TB native en 45 TB 
+gecomprimeerde opslagcapaciteit kennen.Maar al dit goede nieuws zal volledig overschaduwd worden doo
+r een reeks aan ontwikkelingen binnen de tape storage industrie die aangeven dat men de huidige eise
+n die aan data storage gesteld worden heel serieus nemen, het kan niet lang duren voordat nieuwe ops
+lag records gemeld gaan worden. De enorme verbeteringen die het magnetisch materiaal Barium Ferriet 
+bracht ten op opzichte van het eerder gebruikte MP of metal partikels, brachten ten eerste meer veil
+igheid omdat corrosie onmogelijk is, maar zorgde er ook voor dat de capaciteit door een hogere mater
+iaal dichtheid enorm kan stijgen.
+330TB op een cartridge, en door
+Het oude record van 201 Gb / in2 (
+gigabit per vierkante inch) in oppervlaktedichtheid werd bereikt en een totaal van 330 TB op een enk
+ele cartridge mogelijk maakt zal waarschijnlijk redelijk snel gaan sneuvelen.Nu al zorgt tape storag
+e voor een 10.000 maal hogere data integriteit ten opzichte van alle harddisk varianten maar dit cij
+fer gaat snel nog eens verhoogd worden. Eventuele schrijffouten worden dus met veel hogere accuraath
+eid opgemerkt en hersteld, zodat de uiteindelijk opslag niet hoeft te mislukken en daarmee de waarde
+ van de data enorm verbeterd, en de rekenkracht ten goede komt.
+Uitbreiding Schrijf en lees sporen
+D
+e vroege lto-tapes werden in de markt gebracht met 8 sporen, de lees en schrijfkop bood ook 8 gegeve
+n lees / schrijfkopelementen aangevuld met 2 servo-leeselementen. Door alle eisen die data verzamela
+ars aan het medium stelden is dit aantal enorm verhoogt waarbij we nu al spreken van 32 data lees / 
+schrijfkopelementen en 2 servo-lees elementen. Op termijn zal dit aantal waarschijnlijk ook nog eens
+ verdubbeld worden waardoor data integriteit nog eens fors zal verbeteren.Degene die de laatste tijd
+ goed naar de uitingen van verschillende tape storage hardware ontwikkelaars geluisterd hebben weten
+ dat er nog meer goed nieuws omtrent het medium tape gaat volgen, het zal ons niet verbazen, dat dit
+ nieuws weer enorme verbeteringen van opslagrecords gaat brengen.
+In omgevingen waar data retentie-a
+anvang een mindere rol speelt als daadwerkelijke retentie tijden, zoals in enorme data archieven en 
+op plaatsen waar tape een rol speelt als off-site opslagmedium is men er inmiddels wel achter hoe sn
+el data na een distaster weer opgebouwd kan worden. Gemiddeld doet een harddisk er 100 uur over 20TB
+(1GB files)terwijl een LTO8 tape omgeving deze zelfde hoeveelheid data gemiddeld in 26 uur verwerkt.
+De huidige LTO-8-tapetechnologie biedt lees- / schrijfsnelheden die gecomprimeerd bijna 750 MB / sec
+ benaderen. Als we native gegevenssnelheden vergelijken, is dat 360 MB / sec, wat sneller is dan de 
+typische 7200 RPM harde schijf (160 MB / sec).
+Enorme functionaliteit uitbereidingen met gebruik van
+ back-up en archief software
+Tape storage verbeterd enorm maar profiteert ook nog eens van de mogeli
+jkheden die bestaande en nieuwe software applicaties toevoegen aan de bestaande reeks mogelijkheden.
+ Met name alle metadata opties die de software Solutions toevoegen aan het bestaande scala biedt mog
+elijkheden die data sneller en beter laat vinden, maar ook nog eens op een kostenefficiëntere wijze 
+laat opslaan. Verder worden migratie en toegangsproblemen voorkomen door het gebruik van API's dus o
+ok 'legacy' storage wordt in veel gevallen toegankelijk gemaakt door deze SDS/Tape Solutions. Kosten
+ voor data migratie kunnen hierdoor vaak voorkomen worden.
+Compact beginnen kan- fors opschalen is m
+ogelijk
+Een ander groot voordeel ten faveure van traditionele storage is de enorme schaalbaarheid va
+n het medium Tape. De single tape drives leveren op de bureaus van film en video verwerkers 12 TB na
+tive opslagcapaciteit. Moderne (gerobotiseerde) tape libraries bieden een minimale instap(1U) maar e
+en groei naar 560 sloten als de unit opgeschaald is, en dat allemaal op dezelfde vierkante meters.Hi
+ghtech datamanagement opslagsystemen maken het mogelijk om 16 van deze tape libraries aan elkaar te 
+koppelen en dan spreken op basis van de huidige generatie LTO over 107 PB-native capaciteit in één o
+mgeving.( 220+ PB gecomprimeerd)
+Capaciteit en ruimte verhouding
+Verschillende grootstedelijke overh
+eden verbieden plaatselijke datacenters uit te breiden, de vraag naar opslagcapaciteit groeit en dit
+ zal voorlopig niet verminderen. Met deze maatregel dwingen overheden datacenter exploitanten tot na
+denken over beter performance verhoudingen. De energieverslindende first tier datacenters kunnen vee
+l efficiënter werken indien weinig gebruikte data verhuist naar minder kostbare opslagmedia die ook 
+nog eens veel veiliger is, juist Tape.We hebben het al eens eerder gemeld dat data giganten Microsof
+t Azure, Amazon alsmede Oracle en Netflix tape storage gebruiken om alle data te verzamelen en uw hu
+iskamer in streamen, gebruikmakende van een cognitieve applicatie die data beheert en verplaatst, la
+at opschalen, versiebeheer toepast en zorg dat u altijd en vanaf ieder locatie bij uw data kunt.
+We 
+kunnen daarom veilig stellen dat tape storage ook goed genoeg is voor de gemiddelde beheerder van da
+ta omgevingen die zich zorgen maakt over data veiligheid, return of investment en efficiëntie.
+Door:
+ Harold Koenders, data storage expert 
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware en #DDOS #as #a #service 
+Het 
+Algemeen Dagblad bv tekende vandaag een verslag op van het Ministerie van Justitie en Veiligheid dat
+ cybercriminelen steeds vaker voor hun diensten krijgen betaald.  https://bit.ly/32YzYox
+
+Dat bemerk
+ten zij nl.…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Het aantal Ransomware aanvallen groeit enorm. Het is vrijwel ondoen
+lijk voor organisaties om alle ontwikkelingen op dat vlak bij te houden en ervoor te zorgen dat de c
+riminelen steeds bot vangen. Met een nieuwe dienst neemt Insight Enterprises Nederland dit monnikenw
+erk over. “En we leveren er ook nog eens heldere rapportages bij”, zegt Erik Westhovens, Enterprise 
+Security Solution Architect & Evangelist bij Insight.
+Tom Hulscher, Senior Manager Solution Speciali
+sts bij Insight, en Westhovens beginnen het Teams-gesprek met de vaststelling dat organisaties zo on
+tzettend snel de ommezwaai naar massaal thuis werken hebben gemaakt. “De bedrijven hadden natuurlijk
+ geen keus. Het was een verplichting van de overheid om verspreiding van het coronavirus tegen te ga
+an. Toch is het knap dat het zo snel en op zo’n grote schaal is gelukt om mensen thuis te laten werk
+en. En nu dat al een paar maanden een feit is, zie je dat zelfs de grootste tegenstanders van op afs
+tand werken overstag zijn gegaan.”
+“Bij ongeveer zeventig procent van onze klanten hebben we advies 
+gegeven over de benodigde aanpassing van de licenties door de vele thuiswerkplekken. En meedenken ov
+er hoe je dan het beste de IT-processen kunt inrichten”, vertelt Hulscher.
+Leeg doek
+Maar toen het e
+enmaal draaide, kwamen de vragen: hoe zit het met mijn Governance (hoe weet ik wie wat wanneer doet)
+, hoe zit het met databeveiliging? Westhovens: “Al vrij snel kregen we hulpverzoeken. In de eerste w
+eken al zeventien security incidenten.”
+Een belangrijk deel van de zwakheden in de beveiliging heeft
+ volgens hen te maken met Microsoft 365. Althans met de inrichting daarvan. “Veel mensen vergeten da
+t deze cloud office suite eigenlijk een leeg doek is. Vergelijkbaar met een voorgeprint schilderij w
+aar cijfers aangeven welke kleuren je moet gebruiken om het in te kleuren. Het voordeel daarvan is d
+at elke organisatie de software geheel naar eigen wens kan modelleren. Het nadeel is dat je toch wel
+ diepe kennis nodig hebt om dat goed te doen en dat veel organisaties het dan al snel maar laten zoa
+ls het standaard beschikbaar is. Daarmee benut je niet de rijke mogelijkheden van Microsoft 365 en n
+eem je ook beveiligingsrisico’s. Ze komen met het voorbeeld van iemand van de afdeling Personeelszak
+en die, nu iedereen verplicht thuis werkt, de mogelijkheid zag voor medewerkers die vanwege ziekte t
+huis waren, weer mee te laten doen. Zij stuurde een mail naar de betrokkenen en een adviseur over de
+ wens dit te onderzoeken. Uiteindelijk ging dat bericht naar iedereen in de Teams-groep. Een bericht
+ vol met persoonlijke informatie als het salaris, ziektebeeld en noem maar op.
+“Door het thuis werke
+n ontstaan andere situaties, met andere regels. Daar moet je van tevoren goed over nadenken. Niet al
+leen over de front-end, maar zeker ook nagaan hoe het in de back end is geregeld.”
+Beveiligingsdiens
+t
+Hulscher geeft aan dat vervuiling van de Active Directory vanuit het verleden vaak een boosdoener 
+is. Deze ‘kaartenbak’ van alle medewerkers met al hun rechten en plichten werd niet altijd even goed
+ bijgehouden.
+“En de Active Directory is vaak de basis geweest voor het naar de cloud migreren van d
+e identities binnen een omgeving. De identiteit van iemand op een netwerk bepaalt welke data hij of 
+zij mag zien, beheren of manipuleren. Binnen de Insight security dienst is Identity en access manage
+ment vanuit de user en zijn device bekeken dan ook het fundament om tot een veilige werkomgeving te 
+komen en de CISO in controle te brengen.
+Traditionele security
+Op het bedrijf gelden vaak twee kernw
+oorden: firewall en proxy. Daarmee is de security ingevuld. Maar mensen die thuis werken, begeven zi
+ch buiten de firewall en proxy. Bovendien vaak met een apparaat naar eigen keuze; niet altijd een be
+drijfslaptop. Daarbij komt dat de vrijheid van thuis werken ook ingeeft dat mensen ‘s avonds op hun 
+privé tablet nog wat werk afronden. Denk aan het bekijken van bedrijfsdata op of via een iPad.
+Daar 
+bovenop, zo meldt Westhovens, is de aard van ransomware-criminelen veranderd. “Voorheen werd alle da
+ta versleuteld en moest je losgeld betalen om de sleutel te krijgen. Maar inmiddels zijn wij met dig
+ital forensics al zo ver dat die encryptie weinig geheimen meer heeft. Dus zie je nu dat ze eerst ee
+n volle kopie maken en dan pas gaan encrypten. Het dreigement is nu dan ook dat ze de data openbaar 
+gaan maken als je niet betaalt. Dat levert enorm veel imagoschade op. Je moet er dus alles aan doen 
+om ransomware buiten de deur te houden.”
+Een nachtmerrie voor de Chief Information Security Officer 
+(CISO), als een bedrijf die al in dienst heeft. Dit raakt een mondiaal probleem: gebrek aan beveilig
+ingsdeskundigen. “Ook al is er een beveiligingsafdeling, dan nog is het ondoenlijk om alles goed in 
+de gaten te houden”, zegt Westhovens, die lid is van een elitegroep van Microsoft producten voor sec
+urity. “Vroeger kreeg ik twee of drie keer per maand een melding van Microsoft dat het bedrijf softw
+are had aangepast om de beveiliging te versterken. Nu krijg ik dat dagelijks. Ga er maar aan staan.”
+
+Security Dienst
+In Amerika biedt Insight het beheer van Microsoft-omgevingen en andere standaard (o
+ff the shelf) software aan. “Dat zijn wij nu ook in Europa aan het uitrollen”, zegt Hulscher. “Dit d
+oen we stapsgewijs. We beginnen met de basis: zorgen dat de identities op orde zijn en Microsoft 365
+ goed is ingeregeld. We beginnen daarbij altijd met het eind in gedachte; een modern secure workplac
+e op basis van o.a. een best practice Zero trust doel architectuur. Eind augustus hebben we de diens
+t compleet. We werken in Nederland nu al met een aantal klanten om te zien waar we nog iets te verbe
+teren hebben. Dat loopt goed; van beide kanten.”
+Rapportages
+Insight integreert in de security diens
+t software en baselines om na te gaan welke aanvallen er plaats vinden. Dat gebeurt automatisch; de 
+kennis van Insight zorgt ervoor dat de logs betekenis krijgen.
+“Wij sturen onze klanten krachtige en
+ duidelijke rapportages waarin we melden welke aanvallen er waren en hoe die zijn gepareerd. Geen el
+lenlange verhalen; kort en krachtig. Als iemand meer wil weten over een bepaalde actie, dan kan hij 
+doorklikken voor meer informatie.” Het systeem leidt de gebruiker dan direct naar het ontdekte probl
+eem en het biedt inzicht in de acties die genomen zijn.
+Auteur: Teus Molenaar 
+
+/ ~ 4AC5DDE2 ~ /
+
+Op
+gelet voor ransomware die QNAP NAS viseert: AgeLocker. Raakt binnen via PhotoStation. Draai steeds d
+e meest recente versies van firmware en apps!
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Ondernemers beschermen met drietr
+apsraket
+
+
+
+                        22 september 2020
+
+
+                                        0 re
+acties                
+
+
+
+(Kennisartikel Avéro Achmea VVP-special Cyber) Het MKB  leunt wat achterov
+er als het om cyberdreiging gaat. Nog geen kwart van de ondernemers maakt zich zorgen over hacking, 
+phishing, ransomware en datalekken, zo blijkt uit onderzoek*, terwijl toch de helft al eens tegen cy
+berincident aanliep. Een mooie kans voor adviseurs om ‘cyber’ in het risicomanagement voor klanten m
+ee te nemen. “De waarde van advies staat hierbij voorop.”
+
+ 
+
+Het aantal cyberaanvallen en datalekke
+n steeg de afgelopen jaren al aanzienlijk, de coronacrisis zorgt voor extra dreiging. Het Nationaal 
+Cyber Security Center (NCSC)* bracht onlangs zijn jaarlijkse Cybersecuritybeeld Nederland uit en wij
+st daarin op het dominoeffect dat het uitvallen van systemen na cyberattacks kan veroorzaken. Alles 
+is immers met elkaar verbonden en we leunen steeds zwaarder op digitale technologie. Het MKB blijft 
+natuurlijk niet gevrijwaard van cyberincidenten, al verschijnen de berichten over deze schade heel w
+at minder in de media.
+“Er zijn genoeg gevallen van cyberincidenten in het MKB bekend,” zegt Ronald 
+Blom, key accountmanager Schade Zakelijk & Inkomen bij Avéro Achmea. “Het gaat in veel gevallen om h
+et gijzelen van data. Criminelen schieten nep emails als hagel op kleinere ondernemingen af en er is
+ altijd wel iemand die op de links klikt. Het MKB beschikt niet over de IT-budgetten die het grootbe
+drijf heeft, dat maakt de sector kwetsbaarder.”
+Kans voor adviseurs
+De nonchalance van het MKB met b
+etrekking tot cyberincidenten kan deels worden verklaard door onwetendheid, maar ondernemers verschu
+ilen zich ook achter schijnveiligheid. Men denkt onterecht dat antivirussoftware en een ICT-partner 
+afdoende zijn, stelt Blom. “Antivirussoftware voorkomt niet dat medewerkers zwakke wachtwoorden aanm
+aken of op links klikken. En de rol van ICT’ers is afhankelijk van de afspraken die zijn gemaakt. Ov
+erigens verschillen de inzichten van ondernemers en ICT’ers. Uit onderzoek van Ipsos en GFK* blijkt 
+dat 58 procent van de IT-beheerders vindt dat hun MKB-klanten onvoldoende beschermd zijn, terwijl bi
+jna hetzelfde percentage van de ondernemers juist vindt dat de veiligheid voldoende is gewaarborgd.”
+
+Het MKB beschikt niet over een realistisch beeld van de cyberdreiging en de adviseur kan daar veran
+dering in brengen. Er zit toekomstmuziek in cyber, aangezien we steeds meer ‘connected’ zijn. Maar d
+e techniek kan volgens Ronald Blom tegelijkertijd een obstakel vormen voor adviseurs. “Ik kan me voo
+rstellen dat men denkt: ik weet niet zoveel van ICT, dus laat maar zitten. Het gaat echter met name 
+om het creëren van bewustwording bij de klant. Adviseurs hoeven niet het IT-beheer van een bedrijf d
+oor te lichten of technische adviezen te bieden. Het inzicht geven in de risico’s en mogelijke oplos
+singen voor een specifiek bedrijf is de eerste stap en van grote toegevoegde waarde voor de ondernem
+er.”
+Wake-up-call
+Het is volgens Blom raadzaam om bedreigingen voor ondernemers concreet te maken. T
+e denken valt aan voorbeelden uit de media, maar ook aan praktijkverhalen van IT’ers. “Er zijn advie
+skantoren die lokale IT-bedrijven uitnodigen bij cyberbijeenkomsten voor ondernemers. Deze specialis
+ten kunnen beeldend vertellen over alle digitale gevaren die op loer liggen en over het gedrag van m
+edewerkers.”
+Zelf toont hij vaak een cyberrisicotest bij presentaties. De lijst bevat stellingen als
+ ‘u heeft duidelijk vastgelegd welke collega’s toegang hebben tot gevoelige informatie’ en ‘uw medew
+erkers wisselen elke maand van wachtwoord’. “Het is een wake-up-call, de zaal valt soms een beetje s
+til. ‘Oei, dat doen wij nog niet’. Ook lang niet alle advieskantoren hebben de basale cyberveilighei
+d op orde. Dat is wél een vereiste als ze ondernemers over dit thema willen adviseren.”
+Bedrijven ku
+nnen naar zijn inzicht de risico’s al met eenvoudige preventieve maatregelen indammen, zoals het reg
+elmatig trainen van medewerkers, een protocol voor thuiswerken, een strikt wachtwoord- en toegangsbe
+leid, back-ups en continue updates van antivirusprogramma’s en firewalls. “We stellen de laatstgenoe
+mde drie maatregelen als minimale vereisten voor het afsluiten van een cyberverzekering.”
+Cyberincid
+ent? Intermediair bellen
+Preventie is, na bewustzijn, de tweede trede van de drietrapsraket waarmee 
+Avéro Achmea ondernemers bescherming tegen cyberincidenten biedt. Adviseurs kunnen de online checkli
+st van de verzekeraar - via de website - gebruiken om de elementaire cyberrisico’s van een bedrijf i
+n kaart te brengen. Voor ondernemers die een uitgebreid onderzoek wensen, biedt Avéro Achmea in same
+nwerking met Capgemini een assessment aan.
+De derde fase bestaat uit het afdekken van het restrisico
+. Een bedrijf dat schade oploopt door een cyberattack of door een datalek, kan op bijstand van een p
+rofessioneel team rekenen. “We willen dat een onderneming weer snel vooruit kan, dus na de eerste in
+ventarisatie, gaan securityspecialisten van onze partner Fox-IT op locatie aan de slag. Er staat 24/
+7 een cyberclaimteam klaar. Ondernemers kunnen gewoon hun intermediair bellen als er zich een cyberi
+ncident voordoet. Of als ze het vermoeden hebben. De adviseurs weten vervolgens de weg.”
+
+‘Het gaat 
+met name om het creëren van bewustwording bij de klant’
+
+Minder drempels cyberzeker
+Nu kende het Cyb
+erZeker van Avéro Achmea nog wat drempels, iets waar sommige adviseurs bij het aanbieden van verzeke
+ringen tegenaan liepen. Zo moest er een lange lijst met vragen worden beantwoord om een premievoorst
+el te krijgen. En het product was alleen geschikt voor bedrijven met een omzet tot en met 10 miljoen
+ Euro. Naar aanleiding van feedback van adviseurs, past Avéro Achmea dit aan. De verzekeraar vervang
+t de vragenlijst dit najaar door een online tool om offertes te maken met veel minder vragen, en ver
+ruimt de omzetgrens naar 30 miljoen Euro. De maximale verzekerde som wordt 3 miljoen Euro, de premie
+ is concurrerender geworden en bestuurlijke boetes vallen onder de dekking.
+“Met een toegankelijker 
+productpallet anticiperen we op alle ontwikkelingen. Een intermediair moet een klant ook daadwerkeli
+jk iets te bieden hebben en niet een uur bezig zijn met een vragenlijst. Cyberincidenten komen inmid
+dels zo vaak voor en zijn zo schadelijk, dat ze niet kunnen ontbreken bij goed risicomanagement voor
+ een ondernemer. De waarde van advies staat voorop.”
+Cybertraining op maat
+Om adviseurs op weg te he
+lpen, heeft Avéro Achmea samen met Fox-IT een training Cyberrisico’s ontwikkeld. In de training komt
+ een stukje techniek aan bod, maar de nadruk ligt op adviesvaardigheden. “Zo geven we tips om het ge
+sprek aan te gaan en bieden we handige tools.”
+Avéro Achmea biedt de training op maat aan. Voor zowe
+l kleine als grote groepen. “We vernemen het graag als adviseurs deze training willen volgen. Ze kun
+nen zich bij mij aanmelden”, aldus Ronald Blom.
+Bronnen: ncsc.nl, Avéro Achmea – Infographic risicom
+anagement – oktober 2019, Alianz/ Ipsos – Onderzoek cybercriminaliteit – december 2019.
+
+
+
+
+
+Reactie
+ toevoegenNaamE-mailadresReactieOrganisatieTelefoonnummerVVPToevoegen      
+
+                       
+     Meer overcyberrisico'sAvéro AchmeaVVP-special CyberWees geen dokter: is uw eigen bedrijf wel go
+ed verzekerd tegen cyberrisico’s?
+(Kennisartikel de Vereende VVP-special Cyber) Het schilderwerk bi
+j een schilder thuis laat vaak te wensen over. Een dokter negeert vaak de eigen gezondheidsklachten.
+...Dé cyberadviseur van Nederland(Voorwoord Willem Vreeswijk VVP-special Cyber) Cybercriminaliteit e
+n bedrijfsstilstand worden door ondernemers gezien als belangrijkste ondernemersrisico, zo bleek...K
+oudwatervrees niet nodig bij advisering over cyberverzekeringen
+(Kennisartikel Turien & Co. VVP-spe
+cial Cyber) Regelmatig horen onze accountmanagers: ‘ja, daar moeten wij binnenkort wel wat mee doen’
+, als zij...Pak als adviseur rol bij beheersen cyberrisico’s
+Cyberrisico’s zijn reëel, als financie
+el adviseur ben je het daarom aan je stand verplicht over deze risico’s met de klant in gesprek te g
+aan....Kijk naar de inhoud in plaats van de prijs
+(Door Bram Grundmeijer, Klap) 
+Klap verwacht dat
+ cyber tot de kern gaat horen van het verzekeringslandschap. Nu wordt cyber vaak nog als cross-sell 
+mogelijkheid...Cybersecurity: een kwestie van basismaatregelen
+(Door Liesbeth Holterman, Cyberveili
+g Nederland) Cybercriminaliteit is een wereldwijd verdienmodel geworden. Op het dark web kun je kant
+-en-klare programma’s...Goede manieren om je organisatie te wapenen tegen hackers(Door Maria Genova)
+ Bedrijven kunnen op veel manieren gehackt worden en dat gebeurt ook dagelijks. Volgens hackers zijn
+ er slechts twee soorten bedrijven: bedrijven...VVP-special Cyber: pak als adviseur uw rol!Pak als f
+inancieel adviseur uw rol bij cyberrisicomanagement. Dat is de boodschap van de VVP-special Cyber, g
+emaakt in samenwerking met kennispartners Allianz Nederland,...Aan de slag met cyberrisico advies
+(
+Stappenplan door Adfiz) Koppen waarin gewag wordt gemaakt van een gehackt bedrijf, een universiteit 
+die geconfronteerd wordt met ransomware of een ziekenhuis...ICT-bedrijven kunnen hun aansprakelijkhe
+idsrisico’s zelf beperken(door Chubb, Partner VVP) “Automatiseerders wacht stortvloed aan claims om 
+schade door hackers”, zo kopte het FD in juni. De aanleiding? De rechter oordeelde...«12345»
+
+
+/ ~ 4
+AC5DDE2 ~ /
+
+Een anonieme hacker die je netwerk binnendringt en je hele systeem blokkeert met ransom
+ware. Een schrikbeeld voor jou als ondernemer. Het is niet alleen een eng idee dat iemand je digital
+e toegang kraakt.
+
+/ ~ 4AC5DDE2 ~ /
+
+Workaround voor kwetsbaarheid in Citrix bleek niet goed genoeg.
+ Ook als je denkt alles juist te hebben gedaan... #citrix #duitsland #ransomware #aanvallersnapoliti
+eoverlegtochlief
+
+/ ~ 4AC5DDE2 ~ /
+
+Het aantal ransomware aanvallen groeit enorm. Het is vrijwel ond
+oenlijk voor organisaties om ervoor te zorgen dat de criminelen steeds bot vangen. Hoe houdt u dit t
+egen? Ontdek het in de blog van Tom Hulscher & Erik Westhovens met Dutch IT. http://ms.spr.ly/6011Tv
+GgN
+
+/ ~ 4AC5DDE2 ~ /
+
+Nog geen kwart van de ondernemers maakt zich zorgen over hacking, phishing, r
+ansomware en datalekken, zo blijkt uit onderzoek*, terwijl toch de helft al eens tegen cyberincident
+ aanliep. https://lnkd.in/eMH6-bF
+
+/ ~ 4AC5DDE2 ~ /
+
+ideetje: mijn boek illegaal verspreiden als PDF
+, maar als je die opent wordt je computer gegijzeld met ransomware die je leidt naar een betaalpagin
+a van Das Mag
+
+Juridische Zaken:
+
+/ ~ 4AC5DDE2 ~ /
+
+#ransomware
+
+Gaat er een #belletje rinkelen?
+
+De
+ #dreiging welke #jarenlang is afgedaan als iets wat "mij" nooit zal overkomen. Meer en meer #meldin
+gen, meer en meer #schade. 
+De schade aan de gemiste #productie is hoog, de #reputatieschade nog vee
+l hog…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Bron: Security.nl
+Het universiteitsziekenhuis van Düsseldorf is via een b
+ekende kwetsbaarheid in Citrix besmet geraakt met ransomware. Dit zorgde voor een verstoring van sys
+temen waardoor het ziekenhuis onder andere geen ambulances meer kon ontvangen.
+Het ministerie van Ju
+stitie van de Duitse deelstaat Noordrijn-Westfalen kwam gisteren met een bericht dat een patiënt als
+ gevolg van de ransomware-aanval was overleden. De vrouw had via de ambulance naar het ziekenhuis mo
+eten worden gebracht, maar vanwege de systeemuitval moest er worden uitgeweken naar een verder geleg
+en ziekenhuis, waardoor haar behandeling te laat kwam. Het universiteitsziekenhuis liet in een react
+ie hierop weten dat het op het betreffende moment al geen ambulances meer ontving. Er is een onderzo
+ek naar het overlijden van de vrouw ingesteld.
+Inmiddels zijn er ook meer details over de gebruikte 
+aanvalsmethode bekend geworden. Het ziekenhuis raakte besmet via een bekende kwetsbaarheid in Citrix
+ (CVE-2019-19781) waar in december vorig jaar voor werd gewaarschuwd. Het ziekenhuis stelt dat het d
+e workaround voor de kwetsbaarheid op advies van de Duitse overheid heeft doorgevoerd. Via de kwetsb
+aarheid in de Citrix Application Delivery Controller (ADC) en Citrix Gateway is het mogelijk om de s
+ystemen volledig over te nemen en het achterliggende netwerk aan te vallen.
+Eind januari kwam Citrix
+ met beveiligingsupdates voor de kwetsbaarheid, die dezelfde dag nog werden geïnstalleerd, aldus het
+ ziekenhuis. Citrix liet voor het uitkomen van de patches weten dat de aangeboden workaround niet al
+tijd werkte. Een bug zorgde ervoor dat de ingestelde mitigatiemaatregel niet bij alle versies werd t
+oegepast. Citrix adviseerde klanten om naar een versie van de software te updaten waar de workaround
+ wel werkte. Ook het ziekenhuis laat weten dat de aangeboden oplossing van Citrix niet werkte.
+Teven
+s meldt het Universitätsklinikums Düsseldorf dat het naar aanleiding van de kwetsbaarheid het systee
+m door twee bedrijven heeft laten testen. Daarbij werd niets aangetroffen. Naar aanleiding van de aa
+nval op het ziekenhuis is het Bundesamt für Sicherheit in der Informationstechnik (BSI), onderdeel v
+an het Duitse ministerie van Binnenlandse Zaken, met een reactie gekomen.
+Volgens het BSI is het bek
+end met incidenten waarbij Citrix-systemen voor de installatie van de beveiligingsupdates al waren g
+ecompromitteerd. “Dit houdt in dat de aanvallers nog steeds toegang hadden nadat de kwetsbaarheid wa
+s verholpen”, aldus de Duitse overheidsinstantie. Die roept organisaties op om hun Citrix-systemen o
+p mogelijke afwijkingen te controleren. Aanvallers kunnen via gecompromitteerde Citrix-servers namel
+ijk ransomware uitrollen, zo waarschuwt het BSI.
+De Duitse politie benaderde de aanvallers en liet w
+eten dat die niet de universiteit van Düsseldorf hadden geïnfecteerd, maar het ziekenhuis. In de los
+geldboodschap hadden de aanvallers namelijk de Heinrich Heine universiteit genoemd en niet het zieke
+nhuis. Daarop besloten de aanvallers de decryptiesleutel kosteloos te verstrekken, aldus het ministe
+rie. Het ziekenhuis verwacht volgende week weer spoedeisende hulp te kunnen verlenen.
+
+
+/ ~ 4AC5DDE2
+ ~ /
+
+@HaroldKoenders: Capaciteit verhoging en nog meer veiligheid voor #data op #tape. Er was veel 
+onrust in dataland. De ransomware aanvallen volgden elkaar in een snel tempo op. Ook baarde de enorm
+e toename van data zorgen. De capacit…https://lnkd.in/dqfy4hB

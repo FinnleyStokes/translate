@@ -1,0 +1,1 @@
+Bật tính năng chống ransomware Controlled Folder Access trên Windows 10

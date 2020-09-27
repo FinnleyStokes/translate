@@ -1,0 +1,529 @@
+Yo me quedé hasta el último segundo de el evento de PlayStation para presenciar el trailer de Securi
+ty Breach xdd
+Alto boludazo sos
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+intro
+radio
+cursos
+material
+S.E.E.D.
+
+
+
+
+
+
+  
+         
+
+En nuestro "CEVICAS Group" nos abocamos a la enseÃ±anza personalizada sobre Seguridad Inf
+ormÃ¡tica, capacitamos a las personas para entender todos los aspectos que atenten contra dicha Segu
+ridad y luego de forma muy clara y sin apresurarse, las guiamos hacia la instrumentaciÃ³n de las "Co
+ntra-medidas" necesarias para la SecurizaciÃ³n de la InformaciÃ³n, el Hardware asociado y el factor 
+Humano circundante."
+En esta secciÃ³n se presentan las Ãºltimas noticias sobre Ciberseguridad
+
+|News
+ Julio 2k20 (4)|
+|News Agosto 2k20 (5)|
+
+
+
+Shopify revela falla de seguridad causada por dos de sus 
+empleados
+Autor: Abeerah Hashim
+TraducciÃ³n: Leandro Di Dio
+Fecha: 25/09/2020
+
+    El gigante del c
+omercio electrÃ³nico, Shopify, ha sido vÃ­ctima de un asunto interno. EspecÃ­ficamente, Shopify ha r
+evelado una falla de 
+    seguridad causada por dos empleados que afectÃ³ a algunos de sus comercio
+s. 
+
+Falla de seguridad de Shopify
+
+    En una noticia reciente, Shopify ha
+    revelado los deta
+lles de la falla de seguridad que ocurriÃ³ desde sus propios empleados. SegÃºn los detalles, dos de 
+sus empleados accedieron a 
+    los registros de transacciones de los comerciantes. Ambos miembros 
+rebeldes pertenecÃ­an al equipo de soporte.
+
+
+    El incidente no tuvo un gran impacto y afecto a 
+menos de 200 comercios. Sin embargo, en el caso de aquellos afectados, una brecha de datos 
+    ha 
+ocurrido potencialmente. 
+
+
+    Como se indica a continuaciÃ³n:
+
+
+    "Aquellos cuyas tiendas fu
+eron accedidas de manera ilegal, podrÃ­an haber tenido expuestos los datos de los clientes. Los dato
+s incluyen informaciÃ³n 
+    bÃ¡sica del contacto, tales como: email, nombre y direcciÃ³n, asÃ­ com
+o los detalles del pedido, como productos y servicios adquiridos." 
+
+
+    Sin embargo, los datos e
+xpuestos no incluyen nÃºmeros de tarjetas de pagos o informaciÃ³n financiera sensible.
+
+
+    A su 
+vez, han confirmado que el incidente ha sido causado Ãºnicamente por intervenciÃ³n humana y no debid
+o a alguna falla de seguridad.
+
+Â¿CÃ³mo sigue?
+
+    Al descubrir el incidente, Shopify ha comenzad
+o investigaciones e involucraron a las LEAs en el asunto.
+
+
+    "Inmediatamente finalizamos el acc
+eso de estas personas a nuestra red de Shopify y remitimos el incidente a las fuerzas de seguridad. 
+Actualmente, 
+    estamos trabajando junto al FBI y otras agencias internacionales en la investigac
+iÃ³n de estos actos criminales."
+
+
+    AdemÃ¡s, tambiÃ©n les han informado a los comerciantes afec
+tados y se estÃ¡n comunicando con ellos para abordar cualquier inquietud. 
+
+
+    En meses anterior
+es, un incidente similar sucediÃ³ en el vendedor de comestibles Instacart. 
+    Dos empleados perte
+necientes a un proveedor de soporte contratado habÃ­a accedido a los perfiles de compradores fuera d
+el Ã¡mbito 
+    de sus trabajos como agentes de soporte.
+
+
+    Aunque las investigaciones no reve
+laron ninguna descarga o uso indebido en el acceso de datos, la compaÃ±Ã­a tomÃ³ acciones para preve
+nir que 
+    los incidentes vuelvan a ocurrir otra vez. Suspendieron el contrato con la empresa y r
+eforzaron la seguridad en su extremo.
+
+
+    Fuente: Latest Hacking News
+
+Comparte en twitter
+Compa
+rte en Facebook
+Comparte en Whatsapp
+Comparte en LinkedIn
+Comparte por mail
+
+Empresa de mantenimient
+o de automÃ³viles filtra 12,7 mil nÃºmeros de telÃ©fono, emails y contraseÃ±as MD5 sin salt de EE. U
+U.
+
+Autor: Bernard Meyer
+TraducciÃ³n: Leandro Di Dio
+Fecha: 17/09/2020
+
+    La compaÃ±Ã­a ucraniana
+ de mantenimiento de autos, XADO, sufriÃ³ un ataque a su sitio web de EEUU, Xado.us, con 12,724 nÃºm
+eros de telÃ©fono, 
+    emails y contraseÃ±as de EE. UU. filtradas. Las contraseÃ±as tenÃ­an hash M
+D5, lo cual es considerado un hash dÃ©bil y sin salt. La base de datos
+    fue ofrecida gratis en u
+n foro de hackers rusos el 15 de septiembre del 2020. 
+
+
+    Notificamos a Xado Chemicals el 16 de
+ septiembre de la filtraciÃ³n, pero no recibimos respuesta de ellos todavÃ­a.
+
+
+Â¿QuiÃ©n es la empr
+esa detrÃ¡s de la filtraciÃ³n?
+
+    Xado US es el brazo americano del fabricante ucraniano de lubri
+cantes y productos para el cuidado de automÃ³viles, disponible en mÃ¡s de 80 
+    paÃ­ses de acuerd
+o a su sitio web. La empresa fue fundada en 1991 y se denomina 
+    a sÃ­ misma como "El jugador mÃ
+¡s grande del mercado ruso de materiales antifricciÃ³n importados y nacionales." XADO tambiÃ©n estÃ¡
+ fuertemente 
+    involucrada en vehÃ­culos deportivos en Rusia y Ucrania.
+
+
+    Xado US es la ti
+enda online para el mercado estadounidense, y la base de datos, seguramente, contiene mayormente cli
+entes estadounidenses:
+
+
+
+    Un anÃ¡lisis de los nÃºmeros de telÃ©fono que figuran en el filtrado
+ de la base de datos muestran cÃ³digos de Ã¡reas estadounidense. Las contraseÃ±as 
+    tenÃ­an hash
+ MD5, que se conoce desde hace mucho tiempo como el algoritmo hash menos seguro para almacenar contr
+aseÃ±as. Se caracteriza por tener 
+    colisiones y es muy fÃ¡cil utilizar ataques de fuerza bruta 
+o diccionario sobre ellos si se filtra en una base de datos con MD5. Dichas contraseÃ±as 
+    estÃ¡
+n tambiÃ©n sin salt, lo que se considera como una pobre prÃ¡ctica de seguridad. 
+
+
+    Salt es una
+ cadena adicional de datos aleatorios que se le agrega a un hash de la contraseÃ±a y permite que dos
+ usuarios que coloquen la misma contraseÃ±a generen hashes diferentes.
+
+Â¿QuiÃ©n tuvo acceso a los 
+datos?
+
+    Los datos estaban libremente disponibles en un foro de hackers rusos. Por lo tanto, es 
+razonable asumir que una gran parte del foro tuvo 
+    acceso a los datos.
+
+Â¿CuÃ¡l es el impacto 
+de la filtraciÃ³n?
+Si bien la filtraciÃ³n de Xado no contiene datos muy sensibles como tarjetas de c
+rÃ©ditos o nÃºmeros de seguro social, este tipo 
+    de datos es, aÃºn, bastante Ãºtil para ciberde
+lincuentes. 
+
+
+    Los estafadores pueden usar direcciones de email y contraseÃ±as sin hash para u
+na gran variedad de ataques. Esto incluye no solo ataques 
+    phishing, sino que tambiÃ©n hacer co
+incidir las contraseÃ±as sin hash con otras cuentas en lÃ­nea conectadas a la misma direcciÃ³n de co
+rreo 
+    electrÃ³nico o nÃºmero de telÃ©fono.
+
+Siguientes pasos
+
+    Si eres Xado o tienes una b
+ase de datos similar, en general deberÃ­as asegurarte de:
+        . Encriptar tus contraseÃ±as apro
+piadamente con algo como el SHA-256 recomendado por el Instituto Nacional de EstÃ¡ndares y 
+       
+ TecnologÃ­a (NIST) o superior.
+        . Utilizar salt en tus contraseÃ±as.
+        . Parchea tu 
+sistema, incluido tu CMS, ya que los ataques normalmente ocurren debido a un sistema desactualizado 
+o sin parches, 
+        una contraseÃ±a dÃ©bil o problemas de control de acceso. 
+
+
+    Si eres c
+liente de Xado EEUU, es muy probable que se hayan filtrado tus datos. Para saber si has sido afectad
+o por este ataque, te 
+    recomendamos: 
+
+
+    1. Consulta nuestro verificador de fugas de datos
+ personales
+    para ver si tu email estÃ¡ incluido en la filtraciÃ³n.
+    2. Si tu direcciÃ³n de 
+email fue filtrada, deberÃ­as cambiar tu contraseÃ±a inmediatamente. Recomendamos utilizar password 
+manager
+    para almacenar las contraseÃ±as. 
+    3. Cuidado con emails sospechosos, ya que pueden
+ ser intentos de phishing. Evita hacer click en esos enlaces. 
+
+
+    Fuente: CyberNews
+
+Comparte en
+ twitter
+Comparte en Facebook
+Comparte en Whatsapp
+Comparte en LinkedIn
+Comparte por mail
+
+Nuevo ata
+que Raccoon podrÃ­a permitir a los atacantes romper la encriptaciÃ³n SSL/TLS
+
+Autor: Ravie Lakshmana
+n
+TraducciÃ³n: Leandro Di Dio
+Fecha: 10/09/2020
+
+    Un grupo de investigadores ha detallado una nu
+eva vulnerabilidad de sincronizaciÃ³n en el protocolo de Seguridad de la capa de Transporte 
+    (T
+LS) que podrÃ­a permitir que un atacante rompa la encriptaciÃ³n y acceda a informaciÃ³n sensible baj
+o condiciones especÃ­ficas.  
+
+
+    Apodado "Ataque Raccoon", el ataque del lado del servidor expl
+ota un canal  
+    lateral en el protocolo criptogrÃ¡fico (versiÃ³n 1.2 y anteriores) para extraer 
+la clave secreta compartida utilizada para comunicaciones 
+    seguras entre dos partes.
+
+
+    "L
+a causa raÃ­z para este canal lateral es que el estÃ¡ndar TLS fomenta el procesamiento en tiempo no 
+constante del secreto DH" Los 
+    investigadores explicaron sus descubrimientos en un artÃ­culo.  
+"Si el servidor reutiliza llaves efÃ­meras, este canal lateral podrÃ­a permitir 
+    a un atacante 
+recuperar el secreto del premaster resolviendo una instancia del Hidden Number Problem (Problema de 
+nÃºmeros ocultos). "
+
+
+    Sin embargo, los acadÃ©micos declararon que la vulnerabilidad es difÃ­c
+il de explotar y depende de mediciones de tiempo muy precisas y en una 
+    configuraciÃ³n de servi
+dor especÃ­fica para ser explotada.
+
+Un ataque de tiempo para filtrar claves secretas
+
+    Usar me
+diciones de tiempo para comprometer un criptosistema y filtrar informaciÃ³n sensible ha sido el cora
+zÃ³n de muchos ataques de tiempo,
+    y Raccoon emplea la misma estrategia para el proceso de inter
+cambio de claves Diffie-Hellman (DH)
+    durante un handshake TLS, que es 
+    crucial para interc
+ambiar datos sobre una red pÃºblica de forma segura.
+
+
+    Esta clave compartida generada durante 
+el intercambio permite la navegaciÃ³n segura en internet, permitiendo a los usuarios visitar 
+    s
+itios web de forma segura al proteger las comunicaciones de ataques man-in-the-middle (MitM) y eaves
+dropping (escuchar secretamente). 
+
+
+    Para romper este muro de seguridad, la parte malintencion
+ada registra los mensajes handshake entre el cliente y el servidor, para iniciar 
+    nuevos handsh
+akes con el mismo servidor y, subsecuentemente, midiendo el tiempo que le toma al servidor responder
+ a las operaciones 
+    involucradas en derivar la clave compartida.
+
+
+
+    No sirve de nada que 
+"Los secretos DH con ceros a la izquierda dÃ©n como resultado un cÃ¡lculo KDF del servidor mÃ¡s rÃ¡p
+ido, y por lo tanto, 
+    un tiempo de respuesta del servidor mÃ¡s corto." 
+
+
+    Asumiendo que e
+l atacante puede identificar este caso extremo, le permite a este ultimo descifrar la clave secreta 
+del handshake original y 
+    finalmente desencriptar el trafico TLS para recuperar su contenido en
+ texto plano.
+
+
+    Pero el ataque tiene sus limitaciones. Necesita que el servidor reutilice la m
+isma clave efÃ­mera DH (un modo llamado DHE) entre sesiones y 
+    que el atacante este tan cerca d
+el servidor objetivo como sea posible para obtener mediciones de tiempo de alta precisiÃ³n. 
+
+F5, M
+icrosoft, Mozilla, y OpenSSL publican actualizaciones de seguridad
+
+    Si bien Raccoon puede ser d
+ifÃ­cil de replicar en el mundo real, varios productos de F5 mostraron ser vulnerables a una versiÃ³
+n "especial" 
+    del ataque (CVE-2020-5929) sin recurrir a mediciones de tiempo mediante la observ
+aciÃ³n directa del contenido de las respuestas del servidor. 
+
+
+    F5, Microsoft, Mozilla, y Open
+SSL han publicado parches para frustrar el ataque al abordar la preocupaciÃ³n por la reutilizaciÃ³n 
+
+    de claves efÃ­meras. Por su parte, Mozilla ha desactivado los paquetes de cifrado DH y DHE en 
+su navegador Firefox, y el aviso  
+    de Microsoft recomienda a los clientes desactivar TLS_DHE.
+
+
+
+    Con claves efÃ­meras que son cruciales para garantizar el secreto hacia adelante, la investig
+aciÃ³n es otra razÃ³n por la cual reutilizar 
+    claves criptogrÃ¡ficas puede socavar la seguridad
+.
+
+
+    "Nuestro ataque aprovecha el hecho de que los servidores pueden reutilizar el exponente DH
+ secreto durante varias sesiones, renunciando 
+    asÃ­ al secreto" Concluyeron los investigadores.
+
+
+
+    "En este contexto, Raccoon enseÃ±a una lecciÃ³n de seguridad de protocolo: Para protocolos 
+donde algunos secretos criptogrÃ¡ficos pueden ser 
+    continuamente consultados por una de las par
+tes, la superficie de ataque se hace mÃ¡s amplia. El ataque Raccoon mostrÃ³ que deberÃ­amos ser 
+  
+  cuidadosos al dar acceso a los atacantes a dichas consultas"
+
+
+    Fuente: The Hacker News
+
+Comp
+arte en twitter
+Comparte en Facebook
+Comparte en Whatsapp
+Comparte en LinkedIn
+Comparte por mail
+
+Ha
+ckers de Evilnum acosan a empresas financieras con un nuevo RAT desarrollado en Python
+
+Autor: Ravie
+ Lakshmanan
+TraducciÃ³n: Leandro Di Dio
+Fecha: 04/09/2020
+
+    Un adversario conocido por acosar al
+ sector tecnolÃ³gico financiero, al menos desde el 2018, ha cambiado sus tÃ¡cticas para incluir un n
+uevo troyano de 
+    acceso remoto (RAT) desarrollado en Python que puede robar contraseÃ±as, docum
+entos, cookies de navegadores, credenciales de emails y otras 
+    informaciones sensibles. 
+
+
+  
+  En un anÃ¡lisis publicado ayer por los investigadores de Cybereason, el grupo Evilnum no solo ha m
+odificado su cadena de infecciÃ³n sino que 
+    tambiÃ©n ha implementado un RAT en Python llamado "
+PyVil RAT" el cual posee habilidades para recopilar informaciÃ³n, realizar capturas de 
+    pantall
+a, capturar datos de las pulsaciones de teclas, abrir un shell SSH y utilizar nuevas herramientas.
+
+
+
+    "Desde los primeros informes en 2018 hasta la actualidad, los TTP del grupo han evolucionado 
+con diferentes herramientas mientras que el 
+    grupo ha seguido enfocÃ¡ndose en acosar a industri
+as de tecnologÃ­a financiera." Dijo la firma de ciberseguridad
+
+
+    "Esas variaciones incluyen un 
+cambio en la cadena de infecciÃ³n y persistencia, nueva infraestructura que se expande con el tiempo
+ y el uso 
+    de un nuevo RAT en Python" Para espiar a sus objetivos infectados.
+
+
+    Durante l
+os dos Ãºltimos aÃ±os, Evilnum se ha 
+    vinculado a varias campaÃ±as de malware contra empresas e
+n todo el Reino Unido y Estados Unidos que involucran backdoors escritos en 
+    Javascript y C# as
+Ã­ como a travÃ©s de herramientas compradas al proveedor Malware-as-a-Service (Malware como un servi
+cio)
+    Golden Chickens.
+
+
+
+    En julio, el grupo ATP fue descubierto acosando a compaÃ±Ã­as con
+ emails spear phishing (suplantaciÃ³n de identidad) que contenÃ­an un enlace 
+    a un archivo ZIP 
+alojado en Google Drive para robar licencias de software, informaciÃ³n de las tarjetas de crÃ©ditos 
+de clientes e inversiones 
+    y documentos comerciales.
+
+
+    Mientras que el modus operandi de 
+ganar un punto de apoyo inicial en el sistema comprometido sigue siendo el mismo, el procedimiento d
+e 
+    infecciÃ³n ha experimentado un cambio importante.
+
+
+    AdemÃ¡s de utilizar emails spear p
+hishing con documentos falsos de clientes conocidos para engaÃ±ar a los empleados de la industria fi
+nanciera 
+    para activar el malware, los ataques se han alejado de los troyanos desarrollados en 
+Javascript con capacidades backdoors con bÃ¡sicos 
+    Javascript dropper que envÃ­an payloads mali
+ciosos ocultos en versiones modificadas de ejecutables legÃ­timos en un intento de evitar cualquier 
+
+    detecciÃ³n.      
+
+
+    "Este JavaScript es la primera etapa de esta nueva cadena de infecci
+Ã³n, culminando con el envÃ­o del payload, un RAT escrito en Python 
+    compilado con py2exe que l
+os investigadores del Nocturnus apodaron PyVil RAT" Dijeron los investigadores.
+
+
+
+    El procedim
+iento de entrega multiproceso ("ddpp.exe"), tras la ejecuciÃ³n, desempaqueta el shellcode para estab
+lecer comunicaciÃ³n con un 
+    servidor controlado por un atacante y recibe un segundo ejecutable 
+encriptado ("fplayer.exe") que funciona como el descargador de la 
+    siguiente etapa para obtener
+ el RAT en Python
+
+
+    "En campaÃ±as anteriores del grupo, Las herramientas de Evilnum evitaron e
+l uso de dominios en las comunicaciones con el C2, utilizando 
+    Ãºnicamente direcciones IP." Adv
+irtieron los investigadores. "Si bien la direcciÃ³n IP C2 cambia cada pocas semanas, la lista de dom
+inios 
+    asociados con esta direcciÃ³n IP sigue creciendo"
+
+
+
+    Mientras que los origines exa
+ctos de Evilnum no estÃ¡n claros, es evidente que su constante improvisaciÃ³n de los TTP les ha ayud
+ado a 
+    permanecer bajo el radar.
+
+
+    A medida que las tÃ©cnicas de la APT continÃºan evoluc
+ionando, es fundamental que las empresas estÃ©n atentas y los empleados controlen sus 
+    emails a
+nte los intentos de phishing y tengan precauciÃ³n a la hora de abrir correos electrÃ³nicos y archivo
+s adjuntos de remitentes desconocidos.
+
+
+    Fuente: The Hacker News
+
+Comparte en twitter
+Comparte
+ en Facebook
+Comparte en Whatsapp
+Comparte en LinkedIn
+Comparte por mail
+
+
+
+
+
+Â¡ESPERA NO TE RETIRES
+ AUNÂ¡ ANTES QUIERO Â¡REGALARTE UN LIBRO!
+
+/ ~ 4AC5DDE2 ~ /
+
+Honestamente soy muy esceptico sobre es
+te chico lunar y el sol de Security Breach.
+
+Claramente son personajes, pero prefiero mantenerme con
+ la duda hasta que salga un diseño completo.
+
+¿Recuerdan cuando algunos creían que Ennard era Puppet
+? Es lo mismo.
+
+/ ~ 4AC5DDE2 ~ /
+
+Alguien noto esto en el trailer de security breach?
+
+/ ~ 4AC5DDE2 
+~ /
+
+tengo mucho hype por el juego de security breach aaa
+
+/ ~ 4AC5DDE2 ~ /
+
+El sol del que tanto se
+ habla en el trailer de Security Breach
+
+/ ~ 4AC5DDE2 ~ /
+
+Correspondence #GDPR #databreach

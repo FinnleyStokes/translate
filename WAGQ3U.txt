@@ -1,0 +1,198 @@
+Have no choice.  I'm immune compromised
+
+/ ~ 4AC5DDE2 ~ /
+
+I compromised
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Shopif
+y licenzia due dipendenti accusati di furto di dati, ma il fenomeno dell’insider threat preoccupa le
+ aziende
+
+
+
+Flash News
+Sabato, 26 Settembre 2020 13:17
+
+
+
+
+
+Il fatto risale al 15 settembre, ma la n
+otizia è appena emersa: due dipendenti del colosso IT Shopify sono stati accusati del furto di dati 
+da oltre 100 negozi virtuali, possibilmente compromettendo anche le informazioni personali di tutti 
+i clienti che hanno fatto shopping in quegli eCommerce interessati dal Data Breach. La società, spec
+ializzata nel realizzare eCommerce – che vanta anche clienti del calibro di Tesla – ha subito rispos
+to alla notizia licenziando i due dipendenti e collaborando attivamente con l’FBI per investigare l’
+accaduto.
+ 
+Hanno anche tenuto a precisare che questo Data Breach non è stato frutto di una vulnerab
+ilità dei sistemi e che la maggior parte dei loro clienti non è stata intaccata.
+Un comunicato stamp
+a standard, ma resta il fatto che per coloro i quali si sono trovati convolti nell’esfiltrazione ill
+egale di dati da parte dei due, rimane il dubbio che siano stati compromessi i dati dei consumatori,
+ compresi gli indirizzi e-mail, i nomi, gli indirizzi e altre informazioni pertinenti,
+Shopify ha an
+che tenuto a precisare che le informazioni sulle carte di credito e altre informazioni finanziarie p
+ersonali sensibili non facevano parte del bundle di dati incriminato.
+
+Questo caso, per quanto rilev
+ante, è l’ennesima riprova che per difendersi dalla minaccia dei Data Breach dobbiamo spesso e volen
+tieri dare uno sguardo anche all’interno della nostra organizzazione. Stiamo parlando dell’Insider T
+hreat, le minacce interne.
+
+Errore o dolo?
+Certo, non tutte sono intenzionali come nel caso di Shopi
+fy, molti dipendenti che mettono a rischio i dati aziendali non sanno di farlo, ma stanno diventando
+ sempre più frequenti in quanto i dipendenti si affidano ad applicazioni cloud non autorizzate e acc
+edono ai dati aziendali da un'ampia varietà di reti.
+A dirla tutta ci alcuni fattori che stanno esas
+perando la situazione e aumentando a dismisura il rischio. Se pensiamo anche solo all'aumento nell’u
+tilizzo di strumenti di collaborazione e condivisione come Slack, Teams, OneDrive e Dropbox; che han
+no visto una vera e propria impennata nel loro utilizzo durante la Pandemia.
+I dati statistici ci di
+cono che i tools più popolari per la condivisione dei file sono le email (34%), Microsoft SharePoint
+ (26%), OneDrive (23%) e Google Drive (19%).
+Mentre le piattaforme non autorizzate più utilizzate pe
+r la condivisione di file con i colleghi sono WhatsApp (34%), Google Drive (30%), Facebook (29%) e l
+a posta elettronica personale (29%).
+
+
+(Nella foto: Pieguido Iezzi, co-fondatore e Ceo di Swascan)
+
+
+Per contestualizzare questi dati, quasi il 40% dei dipendenti utilizza quotidianamente app non autor
+izzate - e il 26% le utilizza settimanalmente - per condividere i file con i colleghi.
+Un altro fatt
+ore è stata sicuramente l'espansione della forza lavoro in Smart Working. Il COVID-19 ha costretto m
+olti dipendenti a lavorare in uffici di fortuna, ma molti spesso lavorano anche da caffè, ristoranti
+ e spazi all'aperto.
+Ed è ovvio che qui le difese di rete tipiche di un perimetro aziendale non poss
+ono assolutamente intervenire.
+Ad acuire il problema è la tendenza dei dipendenti, soprattutto dei p
+iù giovani, a stare in un'organizzazione per meno tempo. I lavoratori che non prevedono di rimanere 
+in azienda per un lungo periodo di tempo non sono così leali e non ci pensano due volte a portare i 
+dati sensibili al di fuori della rete aziendale.
+Non dovrebbe sorprendere, quindi, come un sondaggio
+ svolto dalla società Code42 abbia rilevato che il 63% dei dipendenti che ammettono di aver portato 
+i dati di un precedente impiego a un nuovo lavoro siano recidivi. E questi sono solo quelli che hann
+o ammesso il fatto.
+Spesso le persone che si appropriano di dati sensibili non credono di avere tort
+o e non agiscono con intento “criminale”. Poche Insider Threats sono davvero “nefaste”.
+Alcuni credo
+no semplicemente di essere in possesso “di diritto” del loro lavoro svolto in una particolare organi
+zzazione - anche se in realtà appartiene al loro datore - ed esfiltrano le informazioni con l'obiett
+ivo di portarle altrove sentendosi autorizzati a farlo.
+È necessario un quadro completo dell'attivit
+à dei dipendenti per determinare se qualcuno è veramente un insider malintenzionato, ma che ci sono 
+alcuni chiari segnali che possono indicare ai team di sicurezza attività sospette.
+
+Una tattica comu
+ne è quella di modificare le estensioni dei file per far apparire un file come un'immagine o una can
+zone, nel tentativo di aggirare il rilevamento da parte dei sistemi di sicurezza e di trasferire i d
+ocumenti aziendali a un account personale.
+L'esfiltrazione di file in diversi formati, o soprattutto
+ in grandi quantità, potrebbe indicare un insider threat.
+Anche quelle persone che lavorano fuori or
+ario sono storicamente additate come chiaro indicatore di l'attività di insider. Paradigma ancora va
+lido, da un certo punto di vista.
+L'indicatore di rischio n. 1? Quando qualcuno dà il preavviso. Una
+ persona che si dimette di solito ha già preso i dati che voleva una settimana prima.
+E una volta ch
+e se ne va, la maggior parte dei suoi ex datori di lavoro non lo raggiunge.
+I dati di Code42 mostran
+o che l'87% dei dipendenti dice che le aziende non hanno verificato se avevano preso i dati quando h
+anno lasciato l'organizzazione.
+Come arginare il fenomeno - Arginare un fenomeno così complesso potr
+ebbe essere complesso, vista la natura tecnologica, ma soprattutto umana del problema. Ecco gli step
+ per assicurarsi la massima resillience:
+Risk Assessment periodici - è fortemente consigliato portar
+e avanti un’approfondita attività di risk assessment: compresi vulnerability assessment, penetration
+ test e network scan.
+Security awareness training per tutti I dipendenti - Tutti i dipendenti di un'
+organizzazione devono comprendere che le policy e le procedure di sicurezza esistono e che c'è una b
+uona ragione per cui esistono. Devono essere applicate e che possono esserci gravi conseguenze per l
+e infrazioni.
+Monitoraggio di comportamenti e azioni potenzialmente sospette - Oltre a monitorare le
+ azioni online, le organizzazioni dovrebbero monitorare attentamente altri comportamenti sospetti o 
+di disturbo da parte dei dipendenti sul posto di lavoro. Policy e procedure dovrebbero essere in vig
+ore affinché i dipendenti possano segnalare tali comportamenti quando li osservano nei colleghi, con
+ il necessario follow-up da parte della direzione.
+Terminare immediatamente ogni accesso quando vien
+e chiuso un rapporto di lavoro - Quando viene terminato un rapporto di lavoro, che le circostanze si
+ano favorevoli o meno, è importante che l'organizzazione disponga di una rigorosa procedura di cessa
+zione del rapporto di lavoro che disabilita tutti i punti di accesso del dipendente alle sedi fisich
+e, alle reti, ai sistemi, alle applicazioni e ai dati dell'organizzazione.
+Raccogliere e salvare i d
+ati per l'utilizzo nelle indagini - In caso di attacco da parte di un insider, è importante che l'or
+ganizzazione abbia in mano le prove per identificare l'insider, che devono ovviamente essere raccolt
+e nel rispetto della normativa sulla protezione dei dati personali.
+Come sempre il motto rimane: Non
+ abbassiamo la guardia!
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#CyberSecurity | #ecommerce , #databreach per #Shopify -
+ Due ex dipendenti rubano dati di 200 clienti
+
+/ ~ 4AC5DDE2 ~ /
+
+Per difendersi dalla minaccia dei #
+DataBreach bisogna necessariamente  anche dare uno sguardo all’interno della propria organizzazione 
+per non rischiare furto di dati sensibili da parte del personale e noti come Insider Threat #GDPR #D
+ataProtection
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Shopify, il colosso canadese che sviluppa e commercializza l’omoni
+ma piattaforma di eCommerce in tutto il mondo, ha confermato una violazione dei dati. 
+In un post su
+l blog ufficiale, la società ha reso noto che le informazioni relative ai clienti di circa 200 comme
+rcianti iscritti alla piattaforma potrebbero essere state esposte. È la conseguenza dell’azione male
+vola perpetrata da due ex dipendenti intenzionati a rubare informazioni riservate.
+L’azienda, che ha
+ denunciato subito l’accaduto all’FBI, ha dichiarato che “l’incidente non è stato il risultato di un
+a vulnerabilità tecnica nella nostra piattaforma e la stragrande maggioranza dei commercianti che ut
+ilizzano Shopify non è risultata interessata”.
+Data breach Spotify: cosa è successo 
+Secondo il post
+, i negozi interessati potrebbero aver esposto i dati dei consumatori, inclusi indirizzi e-mail, nom
+i, indirizzi e altre informazioni pertinenti. Shopify ha affermato di non avere prove che suggerisca
+no che i dati siano stati utilizzati, ma di aver informato i commercianti interessati dell’incidente
+.
+Secondo quanto riferito da Bloomberg, Ric Kostick, CEO di 100% Pure, uno dei 200 rivenditori vitti
+ma del data breach, ha dichiarato: “La violazione è avvenuta il 15 settembre. La massima priorità de
+ll’azienda in questo momento è garantire che la sicurezza e la protezione dei propri dati siano prot
+ette. Stiamo valutando attentamente l’entità di questo incidente con Shopify e adotteremo tutte le a
+zioni necessarie e immediate per evitare che ciò accada di nuovo.”
+Shopify: 33 miliardi di dollari d
+i fatturato 
+Shopify negli ultimi mesi ha visto un’impennata dell’attività grazie alla pandemia da C
+oronavirus che ha costretto tanti rivenditori passare al digitale.
+Nel secondo trimestre di quest’an
+no, Shopify ha registrato un fatturato di 714,3 milioni di dollari, con un aumento del 97 percento r
+ispetto allo scorso anno. Il volume lordo delle merci è aumentato del 119%, con aumenti particolari 
+in aprile e maggio. Attualmente il valore di Shopify è di 33 miliardi di dollari. 
+Cybersecurity e m
+inacce interne
+Secondo gli ultimi dati contenuti nel Data Breach Investigations Report di Verizon, i
+l 20% degli incidenti legati alla cybersecurity e il 15% delle violazioni dei dati provengono da sog
+getti interni all’organizzazione. 
+Tuttavia, per molte organizzazioni le minacce interne rimangono u
+n argomento tabù. 
+Gli esperti evidenziano come le aziende si mostrano troppo spesso restie a ricono
+scere, segnalare o intraprendere azioni contro i dipendenti che sono diventati una minaccia per la l
+oro organizzazione. È come se una minaccia interna fosse una macchia sui loro processi di gestione e
+ sul loro nome.
+Secondo il report sono state individuate cinque personalità che possono minacciare u
+n’azienda dall’interno: il lavoratore distratto, l’agente infiltrato, il dipendente insoddisfatto, l
+a risorsa interna malintenzionata e la terza parte incompetente.
+
+Per saperne di più: 
+		    Cyberc
+rimePrivacy 

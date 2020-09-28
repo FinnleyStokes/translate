@@ -1,0 +1,159 @@
+The No More Ransom Project https://nomoreransom.org/en/decryption-tools.html#ThunderX… 
+
+Publication
+ d'un outil de déchiffrement pour le #Ransomware #ThunderX !
+
+/ ~ 4AC5DDE2 ~ /
+
+Après ça va pleurer 
+les quand il se prendront un #ransomware ...
+
+/ ~ 4AC5DDE2 ~ /
+
+Ouais fin Renault s'est pris un rans
+omware à la con (je crois que c'est Wannacry ou un truc dans le genre) donc bon un p'tit supermarché
+ j'pense pas que c'est plus sécurisé, suffit qu'un poste à la compta (qui est relié à Internet) ouvr
+e un mail un poil malintentionné et pouf,
+
+/ ~ 4AC5DDE2 ~ /
+
+Good news... publication d'un outil de 
+déchiffrement pour le #Ransomware #ThunderX !   https://bleepingcomputer.com/news/security/thunderx-
+ransomware-silenced-with-release-of-a-free-decryptor/amp/?__twitter_impression=true…
+ Génération de 
+la clé à partir d'un fichier chiffré (.tx_locked) et la note readme.txt
+
+Conservez les données criti
+ques chiffrées  ! Les miracles existent ;-)
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : payer la rançon revient 
+deux fois plus cher
+
+/ ~ 4AC5DDE2 ~ /
+
+Contre les #ransomware des solutions ont été créés 
+Un outil 
+pour tout #DSI
+Pas de fatalité avec #IT
+#ThunderX #ransomware silenced with release of a free decryp
+tor
+
+/ ~ 4AC5DDE2 ~ /
+
+Une solution A2F pour Windows pour renforcer la sécurité suite à une attaque 
+de ransomware @zataz
+https://zataz.com/une-solution-a2f-pour-windows-pour-renforcer-la-securite-suit
+e-a-une-attaque-de-ransomware-etude-de-cas/?fbclid=IwAR3bOEXHLStUav6aQ5VY2Y3ZY1NGrXEusveFluRHZK78U8F
+IwdVAccelbnI…
+
+/ ~ 4AC5DDE2 ~ /
+
+Une seule solution, la sensibilisation avec @Cyber_DueDil et #Ranso
+mware 
+
+/ ~ 4AC5DDE2 ~ /
+
+La ville de Keizer, située dans le comté de Marion, Oregon, a récemment ét
+é victime d’une attaque de ransomware. Son administration est composée de plusieurs divisions telles
+ que les patrouilles de police, les travaux publics, le développement communautaire, etc. La ville t
+raite des données extrêmement sensibles et doit donc en assurer la protection et l’accès sécurisé.
+P
+our aider la ville à se protéger contre de nouvelles attaques, une stratégie de sécurité renforcée a
+ été mise en place. En haut de la liste des priorités figurait l’implémentation de l’authentificatio
+n à deux facteurs (A2F).
+Pour les patrouilles de police, les réglementations exigeaient déjà l’utili
+sation de deux facteurs pour s’identifier. Pour être conforme, le département avait installé Duo A2F
+, mais la solution n’avait pas été considérée comme simple à mettre en place ou intuitive. Pour cett
+e raison, Bill Hopkins, administrateur réseau, recherchait une nouvelle solution qui pourrait être f
+acilement déployée sur tous les comptes utilisateurs et administratifs, de tous les départements.
+
+U
+ne solution A2F pour Windows
+Bill a donc commencé ses recherches. Après avoir comparé les démos en l
+igne, les fonctionnalités et les coûts, il s’est vite rendu compte que UserLock correspondait parfai
+tement à ses besoins.
+
+« UserLock est la meilleure solution A2F que j’ai vue. Elle est abordable, s’
+intègre à Active Directory, est facile à installer et à entretenir. C’est le rêve d’un responsable i
+nformatique. »
+Bill Hopkins
+Administrateur réseau
+
+Selon Bill, l’installation et le déploiement se s
+ont déroulés parfaitement. Pour s’adapter aux différents besoins des utilisateurs, trois groupes ont
+ été créés dans UserLock afin de pouvoir personnaliser les circonstances du deuxième facteur.
+
+Admin
+istrateurs: l’A2F est demandée à chaque connexion
+Utilisateurs: l’A2F est demandée une fois par jour
+ (première ouverture de session de la journée)
+Patrouille de police: ils utilisent à la fois des ord
+inateurs de bureau et des ordinateurs portables, donc l’A2F est demandée une fois par jour et par ma
+chine).
+
+
+La ville de Keizer aime le fait que UserLock prend en charge divers types d’authentificate
+urs tels que les clés de sécurité matérielles, les applications mobile et les jetons programmables.
+
+
+« L’intégration pour les utilisateurs a été très simple, la plupart des utilisateurs l’ont fait eux
+-mêmes. »
+Bill Hopkins
+Administrateur réseau
+
+En plus de l’A2F, Bill a vraiment apprécié la surveill
+ance en temps réel par UserLock de toutes les sessions utilisateurs. Il obtient une visibilité sur c
+haque événement de connexion, de déconnexion ou de verrouillage afin d’être en mesure de vérifier et
+ de répondre à toute activité anormale. Une alerte a été mise en place pour informer Bill à chaque f
+ois qu’un compte administrateur se connecte afin de  suivre tous leurs mouvements.
+
+Une protection e
+fficace contre les attaques
+UserLock a permis à la ville de Keizer d’obtenir une solution A2F pour t
+ous ses utilisateurs. Sa facilité d’utilisation a permis à Bill et au service informatique de gagner
+ du temps lors de l’intégration et de la gestion de l’A2F.
+La visibilité en temps réel leur permet d
+e voir qui est connecté, quand et d’où. Ils peuvent donc réagir immédiatement en cas d’événements su
+spicieux.
+
+« Si vous me demandiez ce que je recommanderais à d’autres professionnels de l’informatiq
+ue, je dirais simplement, utilisez UserLock! Il est impossible de trouver un meilleur produit avec c
+e prix et ces fonctionnalités. Le support et le service client ont été vraiment utiles. Nous ne pouv
+ions rien demander de mieux. »
+Bill Hopkins
+Administrateur réseau
+
+Obtenez votre essai gratuit de 30
+ jours maintenant et sécurisez votre réseau Windows avec UserLock.
+ 
+ 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+By @Cyber
+_DueDil https://bleepingcomputer.com/news/security/thunderx-ransomware-silenced-with-release-of-a-fr
+ee-decryptor/… Contre les #ransomware des solutions ont été créés Un outil pour tout #DSI
+Pas de fat
+alité avec #IT
+#ThunderX #ransomware @Jegard_Creatis #facilitateurdesolutions #Digital #numerique #s
+ecurite #protection #entreprises
+
+/ ~ 4AC5DDE2 ~ /
+
+Bon à connaître, la page des outils de déchiffre
+ment de #NoMoreRansomProject #Ransomware #rançongiciels
+https://nomoreransom.org/fr/decryption-tools
+.html…
+
+via @PVynckier
+
+.
+
+/ ~ 4AC5DDE2 ~ /
+
+Voilà, le compte d'attaques de #ransomware connues pour
+ le mois de septembre 2020 a atteint le double de celui du mois d'août. De quoi conforter l'impressi
+on d'explosion de la menace déjà bien présente il y a quelques semaines.

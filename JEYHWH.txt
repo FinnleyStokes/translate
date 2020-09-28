@@ -1,0 +1,812 @@
+#HereWeGo ....errr #HereWeWent
+
+/ ~ 4AC5DDE2 ~ /
+
+AgeLocker Ransomware: QNAP gibt Update-Warnung her
+aus
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Mit Deception- und Verschleierungs-Technologien Angreifer daran hindern, die
+ IT-Infrastruktur spürbar zu beeinträchtigen
+[datensicherheit.de, 27.09.2020] Attivo Networks geht i
+n einer aktuellen Stellungnahme abermals auf die Problematik der Abwehr von Ransomware-Angriffe ein:
+ Firewalls und klassische Lösungen für die „Endpoint Security“ reichten für die Abwehr immer raffini
+erterer und gezielter Angriffe gegen die IT-Infrastruktur und -Anwendungen nicht aus, so die Warnung
+. Zwar böte diese Kombination einen gewissen Schutz gegen gängige und einfache Malware-Angriffe, doc
+h anspruchsvollere und gezielte Attacken erforderten auch ausgefeiltere Detection-and-Response-Lösun
+gen am Endpunkt.
+Foto: ATTIVO NETWORKS
+Joe Weidner: Ransom-as-a-Service immer häufiger genutzt – Erp
+resser benötigen selbst immer weniger Expertise…
+Ransom-as-a-Service-Angriffe nehmen zu
+Dies gilt la
+ut Attivo „insbesondere für Ransom-Angriffe, zumal hier die Zahl der Ransom-as-a-Service-Anbieter un
+d damit auch die Häufigkeit der Angriffe stetig steigt, da die Erpresser selbst immer weniger Expert
+ise benötigen“.
+Phishing-E-Mails und Social-Engineering-Kampagnen seien dabei nach wie vor beliebte 
+Angriffsvektoren, und das wegen „Corona“ stark gewachsene Heer von Heimarbeitern habe zudem die Angr
+iffsfläche drastisch vergrößert. Gerade deren meist nicht adäquat gesicherten und oft auch von Famil
+ienmitgliedern genutzten Systeme stellten ein weit offenes Eingangstor für Lösegeld-Erpresser dar.
+K
+eine eierlegende Wollmilchsau zur Ransomware-Abwehr
+„Es gibt keine ,eierlegende Wollmilchsau‘, und d
+ie eine Sicherheitslösung, die alle Probleme beseitigt, wird es wohl auch niemals geben“, betont Joe
+ Weidner, „Regional Director DACH“ von Attivo Networks.
+Daher sollten Organisationen und Unternehmen
+ die Umsetzung einer Reihe von ergänzenden Maßnahmen in Betracht ziehen, um mit einer maßgeschneider
+ten Lösung eine tiefgreifende Verteidigung gegen Eindringlinge aller Art zu realisieren.
+Deception-T
+echnologie: Verwendung von High-Tech-Fallen oder -Ködern zur Ransomware-Abwehr
+So eigne sich in beso
+nderer Weise der Einsatz von sogenannter Deception- und Verschleierungs-Technologien, innerhalb des 
+Netzwerks Angreifer daran zu hindern, die IT-Infrastruktur spürbar zu beeinträchtigen, „selbst wenn 
+sie – etwa durch Zero-Day-Attacken – die Perimetersicherung bereits überwunden haben“.
+Insbesondere 
+lasse sich dadurch beispielsweise sicherstellen, dass Angreifer nicht die Berechtigung erlangten, Da
+ten zu verschlüsseln. Deception-Technologie stehe dabei für die Verwendung von High-Tech-Fallen oder
+ -Ködern, mit denen Angreifer dazu gebracht werden könnten, zu glauben, sie hätten Zugang zu kritisc
+hen Systemen und Daten erhalten.
+Pro-aktive Ansatz: Generell der Ransomware den Zugang verwehren
+Wei
+dner: „Attivo Networks ,Anti Ransomware Protection‘ geht einen entscheidenden Schritt weiter, in dem
+ es von Anfang an Angreifern und Malware den Zugang zu sensiblen Daten verwehrt, egal ob es Dateien,
+ Ordner, Netzwerkfreigaben oder Wechsellaufwerke sind.“ Was nicht „gesehen“ werde, könne auch nicht 
+exfiltriert oder verschlüsselt werden. Dieser pro-aktive Ansatz werde auch in Bezug auf „Active Dire
+ctory“ verwendet. „Gerade letzteres ist für Angreifer besonders attraktiv, da es einen Generalschlüs
+sel zum gesamten Netzwerk des Opfers bedeuten kann“, erläutert Weidner.
+Fallen dienten in diesem Kon
+zept jedoch nicht nur der Sicherung kritischer Daten. Durch die Interaktion des Angreifers mit den a
+usgelegten Ködern erhalte das Sicherheitspersonal zudem wertvolle Informationen über das Verhalten u
+nd die Taktik des Angreifers. „Diese Erkenntnisse dienen dann dazu, die eigene Verteidigung zu optim
+ieren.“
+Weitere Informationen zum Thema:
+datensicherheit.de, 14.09.2020
+Deception: Früherkennung von
+ Eindringlingen reduziert Kosten / Laut ATTIVO NETWORKS kann Deception Schäden durch Datendiebstahl 
+halbieren
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Kostenloses Entschlüsselungstool für Erpressungstrojaner ThunderX ist 
+da - https://itt.li/lngJ0 - #unique #entschlusselungstool #erpressungstroajner #ransomware #thunderx
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Das einzige Netz das die Kaffeemaschine hat ist das Stromnetz.
+
+Deshalb gibt es 
+jetzt Kaffee ohne Angst vor Ransomware 
+
+/ ~ 4AC5DDE2 ~ /
+
+Jetzt patchen! AgeLocker Ransomware hat e
+s auf Qnap NAS abgesehen https://heise.de/news/Jetzt-patchen-AgeLocker-Ransomware-hat-es-auf-Qnap-NA
+S-abgesehen-4913513.html… #AgeLocker #Erpressungstrojaner
+
+/ ~ 4AC5DDE2 ~ /
+
+#Deception #Ransomware 
+#Hacker #Köder @AttivoNetworks 
+Deception: Ransomware-Hackern Köder auslegen und damit ablenken
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Weil Ransomware einfach Scheiße ist, ist es schön, wenn es ab und an auch mal was Pos
+itives für die Betroffenen gibt.
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+Opfer des Verschlüsselungstrojaners ThunderX
+ können aufatmen: Sicherheitsforscher von Tesorion haben ein Gratis-Entschlüsselungstool veröffentli
+cht. Damit kann man vom Windows-Trojaner in Beschlag genommene Dateien befreien, ohne Lösegeld zahle
+n zu müssen.
+
+
+    heise online daily Newsletter
+  
+
+
+
+
+
+
+
+
+
+
+
+
+          Keine News verpassen! Mit 
+unserem täglichen Newsletter erhalten Sie jeden Morgen alle Nachrichten von heise online der vergang
+enen 24 Stunden. 
+        
+
+
+
+                  Newsletter jetzt abonnieren
+                
+
+
+
+
+
+
+
+
+ThunderX tauchte Ende August auf dem Radar von Sicherheitsforschern auf. Wie von dieser Schädlingsar
+t gewohnt macht sich ThunderX über Dateien her und verschlüsselt diese. Betroffene Dateien weisen di
+e Endung .tx_locked auf. Opfer können im Anschluss an die Verschlüsselung beispielsweise Fotos oder 
+Dokumente nicht mehr öffnen. Den Schlüssel haben nur die Malware-Entwickler. Für die Herausgabe woll
+en sie ein Lösegeld. Wie hoch das in diesem Fall ausfällt, ist bislang unbekannt.
+Gängige Techniken
+
+Damit Opfer so wenig Mittel zur Wiederherstellung der Dateien in der Hand haben, löscht ThunderX auc
+h die Schattenkopien von Windows. Daraus könnte man theoretisch ältere und somit unverschlüsselte Ve
+rsionen von Dokumenten wiederherstellen. Neben lokalen Festplatten verschont der Erpressungstrojaner
+ auch Dateifreigaben im Netzwerk nicht.
+
+
+Diese Fähigkeiten gehören schon lange zum Repertoire von R
+ansomware. Doch in einem Bericht sind die Sicherheitsforscher noch auf eine weitere Funktion gestoße
+n: ThunderX bringt ein Modul mit, mit dem es Dateien unwiederbringlich zerstören könnte. Ob das bere
+its zum Einsatz kommt, ist zum jetzigen Zeitpunkt unklar.
+
+Gefundenen Fehlern sei dank!
+Um Dateien z
+u verschlüsseln, setzt ThunderX auf Salsa20. Doch die Sicherheitsforscher haben beim Ablauf der Vers
+chlüsselung zwei Bugs entdeckt: So kommt es bei der Schlüsselgenerierung und beim Multi-Threading zu
+ Fehlern. Diese scheinen elementar zu sein, da die Forscher nun das Entschlüsselungstool "ThunderX R
+ansom" veröffentlicht haben. Wo genau das Tool ansetzt, führen sie derzeit nicht aus.
+Das Tool kann 
+man auf der Plattform No More Ransom herunterladen. Dort findet man noch unzählige weitere kostenlos
+e Entschlüsselungstools und Anleitungen, wie man diese nutzt. Bei dem Projekt handelt es sich um ein
+e Zusammenarbeit von unter anderem Kaspersky Europol und McAfee. Außerdem sind noch einige Herstelle
+r von Anti-Viren-Software mit an Bord.
+Im Sommer 2020 wurde das Portal vier Jahre alt. Eigenen Angab
+en zufolge konnten mit den angebotenen Tools rund 630 Millionen US-Dollar an Lösegeldzahlungen verei
+telt werden.
+
+
+(des)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+      Kommentare lesen
+      (2)
+    
+  
+
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Heise-News: Jetzt patchen! AgeLocker Ransom
+ware hat es auf Qnap NAS abgesehen
+
+/ ~ 4AC5DDE2 ~ /
+
+Wenn der ganze Haushalt mal auf (unsichere) #I
+oT-Geräte setzt, können Kaffee- und Essenszubereitung dank #ransomware sicher ganz schön teuer werde
+n. 
+#Digitalisierung #CyberSecurity #ITSicherheit
+
+/ ~ 4AC5DDE2 ~ /
+
+Jetzt patchen! AgeLocker Ransom
+ware hat es auf Qnap NAS abgesehen | heise online
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware für Kaffeeautomaten?
+ 
+Genau deshalb hab ich nur Entertainment mit Internetanbindung. Jede andere Infrastruktur bleibt „d
+umm“ bei mir, auch wenn es schön ist, wenn mir z.B. der Kühlschrank sagen würde: „Hey, du hast mich 
+offen gelassen!“
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Die letzten Stunden und Tage habe sich wieder einige Meldungen 
+in Sachen Sicherheit angesammelt, die ich in einem Beitrag zusammenfasse. Die MountLocker-Ransomware
+-Gang reklamiert eine Infektion bei ThyssenKrupp System Engineering, wobei ich mir nicht sicher bin,
+ wie belastbar das wirklich ist. Louis Vuitton hat heimlich eine gravierende Schwachstelle geschloss
+en, bei Airbnb gab es ein Datenleck und so weiter. 
+Anzeige
+
+ 
+
+
+Ransomware bei ThyssenKrupp? 
+Die M
+ountLocker-Cyber-Gang reklamiert einen erfolgreichen Ransomware-Angriff auf ThyssenKrupp System Engi
+neering. Viele Informationen habe ich nicht, nur einen Hinweis in nachfolgendem Tweet.
+
+Etwas merkwü
+rdig finde ich, dass die Conti-Ransomware-Gruppe ebenfalls eine Infektion bei ThyssenKrupp reklamier
+t (siehe dieser Tweet). Dort wird sich auf die Aufzugssparte von ThyssenKrupp in Kanada als Opfer be
+zogen. Die Einschätzung in diesem Tweet: Diese Gruppe lügt ständig über die erfolgreich Infektionen.
+ Das MalwareHunter-Team schlägt in die gleiche Kerbe, die Ransomware-Gruppen blieben bisher Beweise 
+schuldig. 
+
+Bleeping Computer hat kürzlich diesen Artikel zur Mount Locker-Ransomware veröffentlicht
+. Und hier liest man, dass die Gruppe gestohlene Daten bei ausbleibenden Zahlungen veröffentlicht. 
+
+
+Datenleck bei Airbnb
+ZDNet berichtet in diesem Artikel (Golem berichtet in diesem Artikel) von eine
+m gravierenden Datenleck bei der Vermittlungsplattform Airbnb. Ein “technisches Problem” erlaubte es
+ Airbnb-Hosts, auf Postfächer zuzugreifen, die ihnen nicht gehörten. Auf reddit.com gibt es hier ein
+ige Fotos von solchen Postfächern.
+Zwar hat bisher noch kein Airbnb-Mieter über solche Probleme beri
+chtet. Aber zahlreich Gastgeber (Hosten) berichteten, dass sie in der Lage sind, die Adressen und an
+dere Informationen Dritter Personen einzusehen – wie z.B. Codes, die für den Zugang zu einem Anwesen
+ erforderlich sind. Da muss es beim Airbnb-Posteingang einen äußerst schwerwiegender Sicherheitsvorf
+all gegeben haben. 
+Luis Voitton schließt heimlich Sicherheitslücke
+Louis Vuitton (gegründet 1854) u
+nd ist eine prominente französische Luxusmodemarke mit über 121.000 Mitarbeitern und einem Jahresums
+atz von 15 Milliarden Dollar. Jetzt berichtet Bleeping Computer, dass Louis Vuitton im Stillen eine 
+Sicherheitslücke auf seiner Website gepatcht habe. Die Schwachstelle ermöglichte die Auflistung (Enu
+meration) von Benutzerkonten und sogar deren Übernahme über Passwortrücksetzungen. 
+Der leicht ausnu
+tzbare Fehler lag im Bereich des MyLV-Kontos auf der Website. Durch die Einrichtung eines MyLV-Konto
+s kann ein Louis Vuitton-Käufer Online-Bestellungen verfolgen, auf die Kaufhistorie zugreifen, elekt
+ronische Quittungen erhalten, persönliche Informationen verwalten und Unternehmensankündigungen empf
+angen.
+
+Anzeige
+
+
+
+Nachdem er die Schwachstelle entdeckt hatte, wandte sich der Sicherheitsforscher 
+Sabri Haddouche im Rahmen des verantwortungsvollen Offenlegungsprozesses an Louis Vuitton. Von Luois
+ Vuitton kam dann aber nur eine vage Antwort zurück, aber plötzlich wurde gepatcht. Details lassen s
+ich bei Bleeping Computer abrufen.
+Schwachstelle im Blitzhandel24.de-Shop
+Der Entdecker der Schwachs
+telle hat mich in einer privaten Nachricht auf einen Bericht zu einem Datenschutzvorfall hingewiesen
+. Die c’t berichtet in diesem Artikel (Paywall) von einer Sicherheitslücke im Online-Shop von Blitzh
+andel24.de. Dritte konnten persönliche Daten wie Namen, Anschrif­ten, Mailadressen, Geburtsdaten sow
+ie Bestellsummen zehntausender Personen öffentlich einsehbar. Die Daten ließen sich als Excel- und C
+SV-Dateien von einem ungeschützten, per Web erreichbaren Server herunterladen. 
+Ransomware bei Brugg
+ Group/Schweizer Fatzer AG
+Blog-Leser Adrian W. hat mich vor einigen Tagen auf einen Fall von Ransom
+ware-Infektion in der Schweiz aufmerksam gemacht. Blick berichtet von einer Infektion der Schweizer 
+Fatzer AG aus Romanshorn. Fatzer ist auf Stahlseile für Seilbahnen und Brücken spezialisiert und ist
+ eine Tochterfirma der Brugg Group. Inside-It.ch hat diesen Artikel veröffentlicht, der aus folgende
+r Mitteilung der Brugg Group zitiert.  
+
+Die BRUGG Group AG und somit auch die BRUGG Lifting AG sind
+ seit Donnerstagvormittag, 10.09.2020 Opfer einer Cyber-Attacke geworden. Die Täter haben vereinzelt
+ Daten auf IT-Systemen der BRUGG Group verschlüsselt. Als Sofortmassnahme wurden sämtliche IT-System
+e der Brugg-Gruppe heruntergefahren.
+
+Damit ist auch die Tochterfirmen der Brugg Group, die Fatzer A
+G in Romanshorn, von der Attacke betroffen.
+Datenleck bei indischer COVID19-Überwachungsplattform
+Si
+cherheitsforscher von vpnmentor haben gerade einen Bericht über ein Leck in einer COVID19-Überwachun
+gsplattform veröffentlicht, durch das die medizinischen Daten von Millionen von Menschen aus Uttar P
+radesh, Indien, offengelegt wurden. Das Datenleck enthüllte technische Informationen im Zusammenhang
+ mit der Plattform. Zudem wurden persönliche Daten Patienten öffentlich gemacht, was diese vielen Be
+drohungen aussetzt. Dies hätte auch sehr verheerende Auswirkungen auf die Bemühungen zur Eindämmung 
+der COVID19-Verbreitung haben können, wenn es in die falschen Hände gelangt wäre. 
+Datenlecks bei An
+swear und WearMedicine
+Die Sicherheitsforscher von vpnmentors haben mich zudem über Datenlecks bei d
+en polnischen Firmen Answear und WearMedicine informiert. Das sind zwei Marken des polnischen Modeei
+nzelhandelsunternehmens BrandBQ. Eine ungesicherte und per Internet erreichbare Datenbank ermöglicht
+e insgesamt 6,7 Millionen Datensätze der Webseiten abzugreifen. Die Datensätze enthielten Informatio
+nen wie vollständige Namen, Telefonnummern, E-Mail-Adressen, Wohnadressen, Zahlungsaufzeichnungen et
+c. der Benutzer. Details lassen sich in diesem Artikel nachlesen.
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+Jetzt patchen! AgeLocker Ransomware hat es auf Qnap NAS abgesehen
+
+/ ~ 4AC5DDE2 ~ /
+
+Neues aus de
+m Internet of Shit - Kaffeemaschinen mit Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Der Verschlüsselungstrojaner
+ AgeLocker hat es derzeit auf NAS-Geräte von Qnap abgesehen. Der Hersteller empfiehlt Besitzern, das
+ Betriebssystem QTS zu aktualisieren und so Geräte zu schützen. 
+
+
+
+Wie aus einer Warnmeldung hervor
+geht, vermutet der Hersteller, dass eine Schwachstelle in der Photo-Station-Komponente des Systems d
+as Schlupfloch für die Ransomware bilden könnte. Unklar ist auch, wie viel Lösegeld die Erpresser ve
+rlangen. Bislang gibt es kein Gratis-Entschlüsselungstool.
+Geräte absichern
+Bislang fehlen konkrete 
+Information zur Sicherheitslücke. Auch ist unklar, welche QTS-Version gegen AgeLocker gerüstet ist, 
+beziehungsweise ob es überhaupt schon eine gibt. Um ein Qnap NAS auf den aktuellen Stand zu bringen,
+ müssen sich Besitzer als Admin einloggen. In den Systemeinstellungen findet sich der Punkt "Firmwar
+e Update". Unter "My Apps" kann man mit wenigen Klicks für alle installierten Anwendungen Updates in
+stallieren.
+
+
+Um Attacken vorzubeugen, sollten Netzwerkspeicher möglichst nicht aus dem Internet err
+eichbar sein. Wenn das nicht vermeidbar ist, sollte man in den Einstellungen die Zugriffsrechte konf
+igurieren. Außerdem sollte man unbekannte Accounts sofort entfernen.
+
+
+(des)
+
+
+
+
+
+
+comments_outline_
+white
+
+
+
+    
+      Kommentare lesen
+      (13)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 
+4AC5DDE2 ~ /
+
+
+Erfolgreiche Ransomware-Infektionen stellen inzwischen ein echtes Problem dar. Selbst
+ Gesundheitseinrichtungen wurden während der Pandemie angegriffen. Ein besonderes Problem ist, dass 
+inzwischen bei solchen Infektionen erbeutete, vertrauliche Dokument, von den Cyber-Kriminellen veröf
+fentlicht werden. Ich habe noch einige Fälle von deutschen Unternehmen im Artikel aufgelistet. Das S
+icherheitsunternehmen EmsiSoft hat die Entwicklung aufgegriffen und fordert, den Ransomware-Gangs di
+e Geschäftsgrundlage zu entziehen, indem Zahlungen an die Erpresser verboten werden.
+Anzeige
+
+ 
+
+
+We
+itere Ransomware-Infektionen mit Datenlecks
+Ich hatte ja die Nacht im Artikel Sicherheit: Ransomware
+ bei ThyssenKrupp, Schwachstellen bei Louis Vuitton, Airbnb und mehr einen kurzen Abriss von Sicherh
+eitsmeldungen zusammen gefasst. Mir liegen aber inzwischen (über Quellen aus Sicherheitskreisen) Inf
+ormationen über eine Reihe von deutschen Firmen vor, die Opfer von Ransomware wurden. In allen Fälle
+n wurden Daten bei der Infektion abgezogen und später von den Cyber-Kriminellen publiziert.
+
+Teka Gr
+oup: Das ist ein multinationaler Konzern, der 1924 in Deutschland gegründet wurde. Der Schwerpunkt v
+on Teka liegt in der Produktion und dem Vertrieb von Produkten für Küche und Bad, Glaskeramiken, Ind
+ustriecontainern und Großküchen. Der Konzern hat sich in Europa als Referenz für Spülen, Dunstabzugs
+hauben, Kochflächen und Backöfen etabliert, und er gehört zu den weltweit führenden Produzenten von 
+Bierkegs (Zapfkopf).
+Dussmann-Gruppe: Über den Fall hatte ich im Beitrag Ransomware-Befall bei deuts
+cher Dussmann-Gruppe berichtet. Jetzt tauchen erbeutete Dokumente von denen auf den Seiten der Erpre
+sser auf.
+ Prettl: Die in Pfullingen beheimate Gruppe ist weltweit im Bereich Automotive, Elektronik
+ etc. tätig. Die Gruppe scheint Opfer einer CLOP-Ransomware-Infektion geworden zu sein. Die CLOP-Ran
+somware-Gang veröffentlichte auf CLOP-Leaks Hinweise zu diesem Angriff (siehe z.B. diesen Tweet), wo
+bei der Eintrag inzwischen verschwunden ist (mir liegen drei Quellenangaben vor, die das bestätigen,
+ dass der Eintrag gelöscht wurde, deutet darauf hin, dass das Lösegeld gezahlt wurde).
+Künhle-Tours 
+GmbH: Kühnle-Tours vermietet Hausboote, die Kühnle-Gruppe hat auch eine Werft im Portfolio und wurde
+ mutmaßlich Opfer der MAZE-Ransomware-Gruppe, wie deren Posts belegen.
+Waldhoff GmbH Co.:  Ein Famil
+ienunternehmen aus Höxter, welches Dienstleistungen für die Gastronomie (Getränke-Manager) erbringt,
+ aber auch im Bereich Handel/Transport und Logistik bei Gastronomiebedarf/Getränke aktiv ist. Die wu
+rden mutmaßlich Opfer der Conti Ransomware (mir liegen zwei Quellen vor).
+Handelshof Stendal GmbH: H
+andelt mit Technik und wurde mutmaßlich Opfer der MAZE-Ransomware-Gang, die jetzt erbeutete Dokument
+e veröffentlicht.
+Tracto-Technik GmbH: Der Hersteller für ‘Maulwurf-Technologie’ beim Graben wurde O
+pfer der der MAZE-Ransomware-Gang (siehe auch diesen Artikel), die bereits im August 2020 erbeutete 
+Dokumente veröffentlichte.
+NETZSCH-Holding: Die NETZSCH-Gruppe ist ein inhabergeführtes, internation
+al tätiges Technologieunternehmen (Analysieren & Prüfen, Mahlen & Dispergieren sowie Pumpen & System
+e) mit Hauptsitz in Deutschland. Die CLOP-Ransomware-Gruppe reklamierte bereits im August 2020 eine 
+Infektion und will Dokumente erbeutet haben. Der BR hatte im Juli 2020 diesen Beitrag zum Angriff.
+
+
+Es gibt noch weitere Meldungen (z.B. zur Planatol Gruppe, zur Hödlmayr GmbH oder ProMinent etc.), di
+e weiter zurück liegen. Nach dem Tod einer Patientin wegen der Ransomware-Infektion im Universitätsk
+linikum Düsseldorf (UKD) – siehe Links am Artikelende – hatte sich die Klinik-Leitung erklärt (uns t
+rifft keine Schuld). Heise hat einen interessanten Kommentar zu dieser ‘Erklärung’ veröffentlicht. G
+enerell wächst sich das Thema Ransomware als Plage aus.
+Ransomware führt zur Sicherheitskrise
+Ende 2
+019 stellte das Sicherheitsunternehmen EmsiSoft fest, dass die Lösegelddrohung bei Ransomware-Angrif
+fen ‘ein Krisenniveau erreicht haben’. Im September 2020 reift die Erkenntnis, dass sich die Situati
+on nur noch verschlechtert hat, da die Angriffe auf das Gesundheitswesen und andere Organisationen d
+es öffentlichen und privaten Sektors weitergehen und im Verlauf der Pandemie eskalieren. Sogar ein H
+ersteller von Beatmungsgeräten wurde angegriffen. EmsiSoft gibt an, dass in diesem Jahr bislang mind
+estens 219 Organisationen in der US-Regierung, im Bildungs- und Gesundheitssektor – darunter mehrere
+ Krankenhäuser – Opfer von Lösegeldangriffen geworden sind. Und bei einer zunehmenden Zahl dieser Vo
+rfälle werden sensible Daten gestohlen und online veröffentlicht. Weltweit gab es im Jahr 2020 mehr 
+als 170.000 erfolgreiche Angriffe.
+Darüber hinaus ist die durchschnittliche Lösegeldforderung der Ra
+nsomware-Gangs erheblich gestiegen und liegt heute zwischen 150.000 und 250.000 US Dollar (USD), wob
+ei Forderungen in Höhe von mehreren Millionen Dollar immer häufiger gestellt werden. Die höchste öff
+entlich gemeldete Betrag beläuft sich auf 42 Millionen USD; die höchste nicht öffentlich gemeldete F
+orderung soll mehr als 1 Milliarde USD betragen. Was den Kontext betrifft, so lag die durchschnittli
+che Forderung im Jahr 2018 bei etwas mehr als 5.000 USD.
+Infolge dieses Anstiegs verfügen Cyberkrimi
+nelle über bessere Ressourcen und sind motivierter denn je, Ransomware-Angriffe zu fahren. Die Siche
+rheitsanalysten von EmsiSoft schätzen, dass im Laufe des Jahres 2020 mehr als 25 Milliarden Dollar a
+n Lösegeldforderungen gezahlt werden, mit einem wirtschaftlichen Schaden für die Weltwirtschaft von 
+fast 170 Milliarden Dollar – und das sind äußerst konservative Schätzungen.
+Erschwerend kommt hinzu,
+ dass immer mehr Gruppen begonnen haben, Daten zu stehlen und die Drohung, sie freizugeben, als zusä
+tzliches Druckmittel einzusetzen, um Zahlungen zu erpressen. Daten werden heute bei etwa 1 von 4 Ang
+riffen gestohlen, was dazu führt, dass sehr sensible Informationen in die Hände von Cyberkriminellen
+ gelangen und anschließend online gestellt werden.
+Genug ist genug: Verbietet die Zahlungen
+Der Tod 
+der Patientin führte beim Sicherheitsanbieter EmsiSoft zum Artikel Enough is enough: Woman’s death h
+ighlights the need for a ban on ransom payments. Deren Analysten, mit denen ich in Kontakt stehe, ha
+ben mir den Link zukommen lassen. Aus dem Artikel stammen auch die Zahlen im vorherigen Abschnitt.
+
+
+Anzeige
+
+
+
+Die Leute ziehen den einzig richtigen Schluss, wie man das Problem eingrenzen kann: Der S
+umpf muss ausgetrocknet werden. Während Berater und Softwarefirmen noch mit ihren ‘allumfassenden Si
+cherheitslösungen’ werben und die Botschaft ‘wir müssen nur alles richtig gut absichern, kostet halt
+ Geld’ verbreiten, zielt EmsiSoft auf die Geldquellen, aus denen die Ransomware-Gangs schöpfen. Die 
+Forderung: Die Regierungen müssen die Zahlungen von Lösegeld für Cyber-Angriffe und Ransomware-Fälle
+ schlicht verbietet bzw. unterbinden.
+Strafverfolgungsbehörden in aller Welt empfehlen, und das aus 
+sehr gutem Grund, seit langem, Forderungen der Ransomware-Gruppen nicht zu bezahlen. Lösegeld-Angrif
+fe geschehen aus einem einzigen Grund: Sie sind profitabel. Diejenigen Organisationen, die sich dafü
+r entscheiden, Forderungen zu zahlen, tragen dazu bei, die Angriffe profitabel zu halten und damit d
+en Kreislauf der Cyberkriminalität aufrechtzuerhalten und andere Organisationen ins Fadenkreuz zu ne
+hmen.
+Wie der Klimawandel ist Lösegeld ein Problem des kollektiven Handelns, und seine Lösung erford
+ert, dass alle das Richtige tun. Im Falle von Lösegeld ist es das Richtige, Cyberkriminelle nicht zu
+ bezahlen, und es ist an der Zeit, dass die Regierungen die Organisationen zwingen, dies nicht zu tu
+n. Lösegeld-Angriffe unprofitabel zu machen, ist der einzige Weg, sie zu stoppen. Wenn es illegal wä
+re, Lösegeldforderungen zu bezahlen, würde es kein Lösegeld mehr geben, und unsere Organisationen de
+s öffentlichen und privaten Sektors wären nicht länger ständigen Angriffen ausgesetzt. Krankenhäuser
+ wären sicher, und Leben wären nicht mehr in Gefahr.
+Wie der Klimawandel ist Ransomware ein Problem 
+des kollektiven Handelns. Die Lösung des Problems erfordert, dass alle das Richtige tun. Im Falle vo
+n Ransomware ist es das Richtige, Cyberkriminelle nicht zu bezahlen und nicht auf die Lösegeldforder
+ungen einzugehen. EmsiSoft meint, es sei an der Zeit, dass die Regierungen die Firmen und Organisati
+onen zwingen, keine Lösegeldzahlungen zu leisten, wenn sie Opfer eines Cyber-Angriffs mit Ransomware
+ oder eines Hacks wurden.
+Lösegeld-Angriffe unprofitabel zu machen, ist der einzige Weg, die Cyber-K
+riminellen zu stoppen. Wenn es illegal wäre, Lösegeldforderungen zu bezahlen, würde es kein Lösegeld
+ mehr geben, und Organisationen des öffentlichen und privaten Sektors wären nicht länger ständigen A
+ngriffen ausgesetzt. Krankenhäuser und Gesundheitseinrichtungen wären sicher, und Leben von Menschen
+ wären nicht mehr in Gefahr. Klingt zu schön, um wahr zu sein – denn noch wiegen sich viele Verantwo
+rtungsträger in Sicherheit (uns passiert das nicht). Staatliche Bedrohungsakteure wird man mit diese
+r Maßnahme eher nicht stoppen können, es sei denn, es stehen finanzielle Interessen (wie bei Nord-Ko
+rea vermutet wird) dahinter.
+Die Politik schläft momentan ihren Dornröschen-Schlaf, träumt von Cloud
+- und Überwachungslösungen, oder von der Digitalisierung der Schulen. Aber eine strategische Zusamme
+narbeit, um wenigstens die Cyber-Kriminalität im Bereich Ransomware einzudämmen, findet nicht statt.
+ Ich denke, die IT würgt sich momentan mit ihrem Vernetzung-, Cloud und ‘immer schnelleren Update-Zy
+klen’ selbst das Geschäftsmodell ab. Spätestens, wenn die Folgekosten durch Sicherheitsvorfälle die 
+Produktivitätsgewinne durch Vernetzung übersteigen, dürften auch die Controller in den Firmen Alarm 
+schlagen. Oder wie seht ihr das so? Ist das alles zu schwarz gemalt und man hat alles ist im Griff?
+
+Ähnliche Artikel:
+Düsseldorfer Uniklinik: IT-Ausfall durch Cyberangriff?
+Uniklinikum Düsseldorf: Es 
+war Ransomware, Staatsanwaltschaft ermittelt wegen Todesfolge
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#
+HereWeGo
+
+/ ~ 4AC5DDE2 ~ /
+
+Jetzt patchen! AgeLocker Ransomware hat es auf Qnap NAS abgesehen - http
+s://itt.li/qDjF5 - #unique #agelocker #qnap #ransomware #verschlusselungstrojaner
+
+/ ~ 4AC5DDE2 ~ /
+
+
+EL GRUPO DE #RANSOMWARE #LOCKBIT PUBLICÓ ESCANEOS DE PASAPORTES Y DATOS BANCARIOS DE 180 MIL PERSON
+AS.
+
+/ ~ 4AC5DDE2 ~ /
+
+Kostenloses Entschlüsselungstool für Erpressungstrojaner ThunderX ist da http
+s://ift.tt/3mVGpkb
+
+Sicherheitsforscher haben einen Fehler in der Verschlüsselung durch die Ransomwa
+re ThunderX entdeckt und bieten nun Hilfe an.
+
+/ ~ 4AC5DDE2 ~ /
+
+Kostenloses Entschlüsselungstool fü
+r #ransomware-Trojaner ThunderX ist da
+
+Wie gut, dass auch Cyberkriminelle keine fehlerfreie Softwar
+e programmieren können. 
+#CyberSecurity #infosec
+
+/ ~ 4AC5DDE2 ~ /
+
+Sicherheitsforscher haben einen 
+Fehler in der Verschlüsselung durch die Ransomware ThunderX entdeckt und bieten nun Hilfe an. Read m
+ore https://heise.de/news/Kostenloses-Entschluesselungstool-fuer-Erpressungstrojaner-ThunderX-ist-da
+-4913470.html…... http://digital-dynasty.net/de/teamblogs/kostenloses-entschlusselungstool-fur-erpre
+ssungstrojaner-thunderx-ist-da…
+
+/ ~ 4AC5DDE2 ~ /
+
+Falls noch jemand auf verschlüsselten Daten des #
+Ransomware Trojaners #ThunderX sitzt (betroffene Dateien haben i. d. R. die Endung „.tx_locked“):
+
+E
+s ist jetzt ein Entschlüsselungstool verfügbar 
+#Hacker #Malware #Trojan
+
+/ ~ 4AC5DDE2 ~ /
+
+AgeLocke
+r Ransomware: QNAP gibt Update-Warnung heraus
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Viele unserer Leser setzen einen 
+Netzwerkspeicher ein. Schaut man sich bei den Modellen mit vielen Funktionen um, dann landet man sch
+nell bei Synology und natürlich auch QNAP. Letztgenanntes Unternehmen weist gerade darauf hin, dass 
+man doch bitte schauen sollte, dass auch das aktuelle Update der System-Software, die heißt QTS, ein
+gespielt ist und Anwendungen aktuell sind.
+Grund für diese Update-Warnung ist die „AgeLocker Ransomw
+are“. Es gibt Berichte, dass die AgeLocker-Ransomware auf NAS-, Linux- und MacOS-Geräte abzielt. Die
+se neue Schadsoftware versucht, die Dateien der Opfer mit dem Verschlüsselungsprogramm „Age“ zu vers
+chlüsseln. Das „QNAP Product Security Incident Response Team“ (PSIRT) hat Hinweise darauf gefunden, 
+dass die Software frühere Versionen der Photo Station angreifen könnte. Man untersuche den Fall eing
+ehend und werde so bald wie möglich weitere Informationen veröffentlichen.
+Um das Gerät zu sichern u
+nd Daten vor Angriffen und unbefugtem Zugriff zu schützen, empfehle man dringend, QTS und alle insta
+llierten Anwendungen auf die neuesten Versionen zu aktualisieren, um von den Schwachstellenbehebunge
+n zu profitieren.
+
+
+
+
+#
+Vorschau
+Produkt
+Preis
+
+
+
+
+
+1
+
+
+
+
+
+
+QNAP TS-251+-2G Intel-Quad-Core-NAS-Syst
+em, HDMI-Support, Transkodierungs- und...                    
+
+
+278,85 EUR 
+
+Bei Amazon ansehen 
+
+
+2
+
+
+
+
+
+
+
+QNAP TS-451 + -8G 4 Bay Desktop NAS Gehäuse mit 8GB RAM                    
+
+
+586,00 EUR 
+
+Be
+i Amazon ansehen 
+
+
+3
+
+
+
+
+
+
+QNAP TS-431P 4 Bay Desktop NAS Gehäuse                    
+
+
+274,57 EUR 
+
+
+Bei Amazon ansehen 
+
+
+4
+
+
+
+
+
+
+QNAP TS-231K 2 Bay Desktop Netzwerkspeicher-Gehäuse                 
+   
+
+
+203,00 EUR 
+
+Bei Amazon ansehen 
+
+
+5
+
+
+
+
+
+
+QNAP TS-473-4G Desktop NAS Gehäuse mit 4 GB DDR4, P
+owerful 4-Bay Storage Server                    
+
+
+710,66 EUR 
+
+Bei Amazon ansehen 
+
+
+
+
+In diesem Ar
+tikel sind Amazon-Links enthalten. Durch einen Klick darauf ge­lan­gt ihr direkt zum Anbieter. Sollt
+et ihr euch dort für einen Kauf entscheiden, erhalten wir ei­ne kleine Provision. Für euch ändert si
+ch am Preis nichts.
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware-Infektionen mit Datenlecks: Stoppt den Wahnsi
+nn https://borncity.com/blog/2020/09/27/ransomware-infektionen-mit-datenlecks-stoppt-den-wahnsinn/… 
+#Ransomware #Sicherheit Borns IT- & Windows-Blog
+
+/ ~ 4AC5DDE2 ~ /
+
+Jetzt patchen! AgeLocker Ransomw
+are hat es auf Qnap NAS abgesehen via .@heisec
+
+/ ~ 4AC5DDE2 ~ /
+
+BENERIN LAPTOP AINK DONG, HARDDISK
+NYE KENA RANSOMWARE NI, ILANG SEMUA DATANYA
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Der Verschlüsselungstrojaner AgeLock
+er hat es derzeit auf NAS-Geräte von Qnap abgesehen. Der Hersteller empfiehlt Besitzern, das Betrieb
+ssystem QTS zu aktualisieren und so Geräte zu schützen. 
+
+
+
+Wie aus einer Warnmeldung hervorgeht, ve
+rmutet der Hersteller, dass eine Schwachstelle in der Photo-Station-Komponente des Systems das Schlu
+pfloch für die Ransomware bilden könnte. Unklar ist auch, wie viel Lösegeld die Erpresser verlangen.
+ Bislang gibt es kein Gratis-Entschlüsselungstool.
+Geräte absichern
+Bislang fehlen konkrete Informat
+ion zur Sicherheitslücke. Auch ist unklar, welche QTS-Version gegen AgeLocker gerüstet ist, beziehun
+gsweise ob es überhaupt schon eine gibt. Um ein Qnap NAS auf den aktuellen Stand zu bringen, müssen 
+sich Besitzer als Admin einloggen. In den Systemeinstellungen findet sich der Punkt "Firmware Update
+". Unter "My Apps" kann man mit wenigen Klicks für alle installierten Anwendungen Updates installier
+en.
+
+
+Um Attacken vorzubeugen, sollten Netzwerkspeicher möglichst nicht aus dem Internet erreichbar 
+sein. Wenn das nicht vermeidbar ist, sollte man in den Einstellungen die Zugriffsrechte konfiguriere
+n. Außerdem sollte man unbekannte Accounts sofort entfernen.
+
+
+(des)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+
+    
+      Kommentare lesen
+      (16)
+    
+  
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 4AC5DDE2
+ ~ /
+
+Jetzt patchen! AgeLocker Ransomware hat es auf Qnap NAS abgesehen
+
+/ ~ 4AC5DDE2 ~ /
+
+Jetzt pat
+chen! AgeLocker Ransomware hat es auf Qnap NAS abgesehen | Security

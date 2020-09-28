@@ -1,0 +1,194 @@
+Come difenderci efficacemente da attacchi malware, ransomware, spoofing, phishing, Island Hopping
+
+S
+e ne discuterà con Enrico Cereda, Presidente e AD #IBM Italia nel webinar "Cybersecurity, Proteggere
+ la nuova Italia #Digitale"
+
+https://bit.ly/3mLN7sZ
+#ProteggiItalia #adv
+
+/ ~ 4AC5DDE2 ~ /
+
+
+“Cybers
+ecurity, Proteggere la nuova Italia Digitale. Come difendere le imprese da Spoofing, Island Hopping 
+e dalle altre nuove minacce e permettere la continuità delle operazioni” è questo l’esclusivo evento
+ di Sanmarco Informatica in collaborazione con Digitalic dedicato alla cybersecurity nella delicata 
+fase della ripartenza
+
+La tanto attesa fase della ripartenza è arrivata. L’emergenza sanitaria ci ha
+ fatto fare in pochi mesi un balzo digitale senza precedenti, trasformando radicalmente il nostro mo
+ndo. Ma dopo la corsa allo smart working e a tutti quegli strumenti che ci hanno permesso di lavorar
+e anche in tempo di lockdown è venuto ora il momento di scelte ponderate e strategiche che sappiano 
+rilanciare la competitività delle nostre aziende sotto tutti gli aspetti. Uno dei temi su cui puntar
+e in questo momento così cruciale e delicato è la sicurezza perché senza la sicurezza non ci può ess
+ere una vera trasformazione digitale.
+Nell’evento speciale organizzato da Sanmarco Informatica in co
+llaborazione con Digitalic e con la partecipazione straordinaria di Enrico Cereda, Presidente e AD d
+i IBM Italia, scopriremo dagli esperti del settore come proteggere le nostre imprese dalle minacce d
+ei cybercriminali e ascolteremo la testimonianza di un’azienda di eccellenza del Made in Italy che c
+i racconterà le scelte fatte in materia di sicurezza con un obiettivo ben chiaro: la continuità oper
+ativa.
+
+ 
+
+I temi di “Cybersecurity, Proteggere la nuova Italia Digitale” #ProteggiItalia
+Il panoram
+a delle minacce si fa ogni giorno più sofisticato: malware, ransomware, spoofing, phishing, Island H
+opping sono solo alcuni degli strumenti che i cybercriminali mettono in campo per attaccare la sicur
+ezza delle aziende e non solo.
+Come difenderci efficacemente da questi attacchi e al tempo stesso as
+sicurare la continuità operativa del business? Quali strategie possono adottare le aziende, anche le
+ PMI, per conciliare in modo produttivo tecnologia e sicurezza?
+Con gli esperti di Sanmarco Informat
+ica e IBM approfondiremo questi argomenti parlando di:
+
+La fase della ripartenza: quale innovazione 
+serve per un’Italia sempre più digitale?
+Trasformazione digitale sì, ma in sicurezza 
+Malware, Ranso
+mware, Spoofing, Phishing, Island Hopping: il panorama delle nuove minacce
+Come avviare percorsi eff
+icaci di cybersecurity: strumenti e strategie
+Sicurezza nel rispetto delle normative sulla protezion
+e dei dati personali
+Resilienza e continuità operativa: gli obiettivi per proteggere il business di 
+ogni azienda
+
+Gli ospiti di “Cybersecurity, Proteggere la nuova Italia Digitale” #ProteggiItalia:
+En
+rico Cereda, Presidente e AD IBM Italia
+Simone Pigozzo, IT Manager Valdo Spumanti
+Massimiliano Belar
+di, Manager of Server Solutions IBM Italia
+Daniele Zaghini, Direttore Soluzioni Tecnologiche Sanmarc
+o Informatica
+Marco Griguolo, Consulente Cybersecurity Sanmarco Informatica
+e con
+Silvio De Rossi, I
+nfluencer
+Presenta:
+Francesco Marino, Fondatore di Digitalic
+ 
+Perché iscriversi 
+La tua azienda è p
+ronta ad affrontare le nuove sfide della sicurezza? Scoprilo con l’evento di Sanmarco Informatica in
+ collaborazione con Digitalic: iscriviti subito alla diretta streaming del 22 ottobre alle 15,30.
+Se
+gui anche la diretta social con l’hashtag #ProteggiItalia
+
+ 
+
+ 
+
+Cybersecurity, Proteggere la nuova 
+Italia Digitale – 22/10 h. 15,30
+- Ultima modifica:  2020-09-25T09:15:38+00:00
+da Francesco MarinoFr
+ancesco MarinoGiornalista esperto di tecnologia, da oltre 20 anni si occupa di innovazione, mondo di
+gitale, hardware, software e social. È stato direttore editoriale della rivista scientifica Newton e
+ ha lavorato per 11 anni al Gruppo Sole 24 Ore. È il fondatore e direttore responsabile di Digitalic
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Oggi @carolafrediani parla anche di #cyberattacchi ransomware Luxottica, Gruppo
+ Carraro e altre aziende italiane colpite negli ultimi giorni. Spesso trascorrono settimane per ripa
+rare e ripristinare completamente i sistemi. @luxottica è stata brava a ripartire in 3 giorni!
+
+/ ~ 
+4AC5DDE2 ~ /
+
+ Louis Vuitton corregge la perdita di dati e la vulnerabilità di acquisizione dell'acc
+ount
+
+ Report: https://buff.ly/36icfl8
+#cybersecurity #infosec #malware #ransomware
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+Indicatori di compromissione #Ransomware #Egregor. Attenzione #MASSIMA a questo #ransomware. Azio
+ni e indicatori di compromissione:
+
+https://linkedin.com/posts/pierguidoiezzi_cybersecurity-ransomwa
+re-egregor-activity-6715926643757600768-nwRx… @swascan
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Il Gruppo Carraro, aziend
+a italiana leader internazionale nel comparto delle macchine agricole, ha subito un grave attacco in
+formatico nella giornata di martedì. 
+L’attacco, sicuramente un altro ransowmare come quello subito 
+dalla Luxottica pochi giorni fa, ha paralizzato i sistemi informatici che controllano praticamente t
+utta l’attività del gruppo, da quella amministrativa a quella produttiva, altamente automatizzata da
+ robot. 
+Imprese del Veneto e cybercrime: dopo Luxottica il Gruppo Carraro 
+L’azienda, che conta olt
+re tremila dipendenti in tutto il mondo e un fatturato che sfiora i 550 milioni, ha dovuto mettere s
+ettecento dipendenti in cassa integrazione tra gli stabilimenti di Campodarsego e quelli della divis
+ione Agritalia di Rovigo in attesa del ripristino dei sistemi. 
+“Per i collaboratori italiani che in
+ queste ore non potessero garantire la propria prestazione lavorativa l’azienda ha provveduto precau
+zionalmente all’attivazione della Cassa Integrazione”, si legge nella nota diffusa dal Gruppo diffus
+a ieri. “Inoltre sono state attivate le coperture assicurative dedicate a questa tipologia di evento
+”. 
+La buona notizia, fa sapere l’azienda, è che la tempestiva attivazione dei sistemi di difesa IT 
+ha consentito di respingere l’attacco dei criminal hacker impedendo l’accesso e la conseguente sottr
+azione di dati e informazioni riservate. 
+Nessun furto di dati
+“Alcune attività aziendali, continua 
+la nota, sono state temporaneamente interrotte, mentre per altre sono state attivate procedure alter
+native di connessione. I reparti produttivi hanno proseguito la propria programmazione adattandosi a
+lle previste procedure analogiche di backup.
+“Il Dipartimento IT Carraro è prontamente entrato in az
+ione, anche con la collaborazione di esperti in materia e con le forze dell’ordine, allo scopo di ve
+rificare possibili danni all’infrastruttura nonché di valutare eventuali azioni di bonifica della re
+te di server interessati dall’attacco. Si prevede – conclude la nota – che dalla giornata di domani 
+e nei prossimi giorni le attività tornino progressivamente a regime”.
+I problemi recenti con la sicu
+rezza informatica
+Nell’ultima settimana in Veneto hacker sconosciuti che stanno mandando in tilt i s
+istemi informatici di aziende e anche i social network di leader politici.
+L’ultima, in ordine tempo
+rale, è stata Luxottica, la più grande produttrice mondiale di montature per occhiali da vista e da 
+sole. L’attacco ha causato la sospensione del secondo turno produttivo negli stabilimenti di Agordo 
+e Sedico, nel bellunese, e il blocco delle attività produttive in Cina. Per fortuna anche lì l’azien
+da guidata da Leonardo Dal Vecchio è riuscita ad attivare le difese IT per proteggere i propri dati 
+aziendali. 
+Anche il Governatore del Veneto Luca Zaia, aveva denunciato attacchi informatici ai suoi
+ profili social poche ore prima del voto per le Regionali 2020. A giugno invece la vittima è stata G
+eox, azienda trevigiana di calzature. dove anche lì un ransomware ha colpito i sistemi IT dell’azien
+da. 
+
+Per saperne di più: 
+		    Cybercrime 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware blocca ospedale, muore 
+una paziente - Zeus News
+
+/ ~ 4AC5DDE2 ~ /
+
+Malware, ransomware, spoofing sono alcuni degli strument
+i che i cybercriminali mettono in campo per attaccare la sicurezza delle aziende.
+
+Con “Cybersecurit
+y, Proteggere la nuova Italia Digitale” scopri come difenderci.
+
+https://bit.ly/3mLN7sZ
+#ProteggiIta
+lia #adv #22ottobre
+
+/ ~ 4AC5DDE2 ~ /
+
+Dopo #luxottica, adesso tocca a #carraro dover affrontare un 
+attacco da #Ransomware
+
+Il blocco della produzione ha causato la messa in CIG per 700 dipendenti. 
+
+
+Ancora dubbi sul valore della #Security in azienda?

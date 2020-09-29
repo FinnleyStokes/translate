@@ -1,0 +1,270 @@
+Het #IoT ..... geweldig! Internet of Things wordt Internet van net Niks.
+Komt er chocomel uit zeg...
+. 
+
+Onderzoekers infecteren smart koffiezetapparaat met ransomware https://security.nl/posting/67223
+3/Onderzoekers+infecteren+smart+koffiezetapparaat+met+ransomware?channel=rss… via @theoldreader
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Betaling van losgeld levert in het gunstigste geval een kortetermijn-oplossing van ee
+n probleem. Op langere termijn maakt betaling het probleem alleen maar groter. Dus suggereert Ciaran
+ Martin voormalig hoofd van het National Cyber Security Center van onze westerburen het betalen aan 
+ransomwarebendes strafbaar te maken. In Groot Britannië is dat nu nog niet het geval, tenzij onomsto
+telijk kan worden vastgesteld dat het geld wordt gestoken in terroristische activiteiten.
+Losgeld is
+ onderdeel bedrijfsonkosten
+Het strafbaar maken van het betalen van de ransom vormt een extra stimul
+ans voor bedrijven om werk te maken van de beveiliging van hun systemen. Volgens Martin beschouwen b
+edrijven het losgeld steeds vaker als een van de kosten van bedrijfsvoering. De kans slachtoffer te 
+worden, wordt niet groot geacht en het losgeld is lager dan de hele zaak opnieuw beginnen. 
+Bovendie
+n wordt de druk op politie en justitie opgevoerd om achter de ransomwarebendes aan te gaan, stelt Ma
+rtin.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Britse denktank wil een verbod op betalen bij ransomware-aanval.
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Onderzoekers infecteren smart koffiezetapparaat met ransomware | Hoeveel zou het mensen wa
+ard zijn, hun kopje koffie in de ochtend?
+https://security.nl/posting/672233/Onderzoekers+infecteren
++smart+koffiezetapparaat+met+ransomware?channel=rss…
+
+/ ~ 4AC5DDE2 ~ /
+
+Mooi artikel @nytimes over h
+et risico van ransomware aanvallen rond de verkiezingen in de VS - https://www-nytimes-com.cdn.amppr
+oject.org/c/s/www.nytimes.com/2020/09/27/technology/2020-election-security-threats.amp.html… #crisis
+management #cyber
+
+/ ~ 4AC5DDE2 ~ /
+
+Grote Amerikaanse ziekenhuisketen getroffen door ransomware #se
+curitynl
+
+/ ~ 4AC5DDE2 ~ /
+
+'AgeLocker'-ransomware richt zich op QNAP-devices, updaten is aanbevolen
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Registreer nu en lees:
+Hoog tijd om de monopolies van ICT-leveranciers af te b
+reken
+Gratis registreren
+
+Heeft u een FD.nl account of bent u abonnee van Het Financieele Dagblad?
+I
+nloggen
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Niet ransomware of hackers, maar medewerkers zijn de grootste cyberdre
+iging voor gemeentelijke organisaties. Dat meldt de Informatie Beveiligingsdienst in het rapport 'Dr
+eigingsbeeld Informatiebeveiliging Nederlandse Gemeenten 2021-2022'. 
+Lees meer:
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Eerste indicatoren van een ransomware-aanvalDus wat zijn de eerste indicatoren voor bedrijven die pr
+oberen een ransomware-aanval te herkennen voordat ze te veel schade veroorzaken? Wat moeten ze doen 
+als ze een lopende aanval ontdekken?Allereerst vindt het encrypten van bestanden door ransomware als
+ laatste plaats. Daarvoor zullen de cybercriminelen weken, of zelfs langer, rondhangen in het netwer
+k om te onderzoeken wat de zwakke plekken zijn. Remote Desktop Protocol: een gewilde route om te hac
+kenEen van de meest voorkomende routes voor ransomwarebendes om in bedrijfsnetwerken te komen, is vi
+a Remote Desktop Protocol (RDP) links die openstaan voor het internet. Dankzij het Remote Desktop Pr
+otocol kunnen we toegang krijgen tot een ander pc of serveromgeving. Denk hierbij aan het inloggen o
+p een applicatie of het overnemen van een anders laptop voor bijvoorbeeld support. Deze toegangen zi
+jn veelal afgeschermd met een gebruikersnaam en wachtwoord.Vanwege coronabesmettingsgevaar is het ad
+vies van de overheid nog steeds om zoveel mogelijk thuis te werken. Veel organisaties hebben daarom 
+veel meer RDP-links openstaan om het op afstand werken zoveel mogelijk te vergemakkelijken. Hierdoor
+ neemt de kwetsbaarheid voor ransomware-aanvallen toe.Herken de signalen en kom in actieIn een inter
+view met ZDnet geeft Jared Phipps, VP van SentinelOne - het bedrijf achter het gelijknamige endpoint
+ protection platform - aan, dat de eerste stap is om de eigen kwetsbaarheid wat RDP-links betreft in
+ kaart te brengen en die toegangen snel met twee-factor-authenticatie te beveiligen of ze achter een
+ VPN te plaatsen.Een ander waarschuwingssignaal kan zijn, dat er onverwachte softwaretools op het ne
+twerk verschijnen. Aanvallers zullen beginnen met het verkrijgen van de controle over slechts één PC
+ op een netwerk. Grote kans dat die aanval begint met een phishing-e-mail.Over phishing e-mails gesp
+roken: ontvangen meerdere collega's een (zelfde) phishing e-mail, dan kan dat een indicatie zijn van
+ een op handen zijnde aanval. Het is van groot belang dat die medewerkers die e-mails als phishing e
+-mails herkennen en daar alarm over slaan. De organisatie krijgt hiermee een vroege waarschuwing. Se
+curity awareness trainingen zijn geen overbodige luxe.Zodra de aanvallers toegang tot één apparaat (
+laptop, desktop of smartphone) hebben verkregen, dan zullen ze vanuit dat bruggenhoofd uw bedrijfsne
+twerk verkennen om nog meer zwakke plekken te ontdekken.Dat betekent dat ze gebruik maken van netwer
+kscanners, zoals AngryIP of Advanced Port Scanner. Worden deze op uw netwerk ontdekt, dan is het zaa
+k om intern na te vragen of iemand deze tools gebruikt. Als dat niet het geval is, dan moet u serieu
+s rekening houden dat er een ransomware-aanval op uw organisatie wordt voorbereid.Een andere moment 
+waar bij de alarmbellen moeten afgaan, is als het softwareprogramma MimiKatz op uw netwerk wordt gev
+onden. MimiKatz is één van de tools die hackers, samen met Microsoft Process Explorer, gebruiken om 
+wachtwoorden en inloggegevens te stelen.Op jacht naar administratorrechtenEenmaal binnen in uw netwe
+rk zullen ransomwarebendes op jacht gaan naar administratorrechten. Waarschijnlijk zullen zie die kr
+ijgen door zelf administratoraccounts aan te maken, bijvoorbeeld in Active Directory. Met hun uitgeb
+reide rechten zullen ze beginnen met het uitschakelen van beveiligingssoftware met behulp van applic
+aties die zijn gemaakt om te helpen bij het gedwongen verwijderen van software, zoals Process Hacker
+, IOBit Uninstaller, GMER, en PC Hunter. Het beveiligingsbedrijf Sophos waarschuwt dat deze soort co
+mmerciële tools vaak legitiem zijn, maar in de verkeerde handen kunnen ze heel schadelijk zijn. Eenm
+aal gedetecteerd, is de vraag waarom ze er überhaupt zijn. De kans is zo'n geval aannemelijk dat het
+ om cyberaanvallers gaat.Om te voorkomen dat dit gebeurt, moeten bedrijven op zoek gaan naar account
+s die buiten uw ticketing- of accountmanagementsysteem zijn aangemaakt, aldus SentinelOne's Phipps. 
+Als de aanvallers eenmaal de beheerdersbevoegdheden hebben gekregen, proberen ze zich vervolgens ver
+der te verspreiden over het netwerk, met behulp van PowerShell.De hele voorbereiding tot het daadwer
+kelijke moment dat de ransomware geactiveerd wordt kan weken, en misschien zelfs maanden, duren. Dat
+ komt omdat hackers zich zo langzaam mogelijk door het netwerk bewegen, zodat de kans dat ze ontdekt
+ worden zo klein mogelijk is. En veel beveiligingstools leggen slechts een bepaalde tijd het verkeer
+ op het netwerk vast, wat betekent dat als de hackers het een tijdje volhouden, het voor de beveilig
+ingsteams veel moeilijker wordt om uit te zoeken hoe ze überhaupt in het systeem terecht zijn gekome
+n.Klaar voor de ransomware-aanvalEr zijn ook duidelijke tekenen dat een ransomware-aanval bijna klaa
+r is. De aanvallers zullen proberen om Active Directory en domeincontrollers uit te schakelen en eve
+ntuele back-ups die ze kunnen vinden te corrumperen, evenals het uitschakelen van software-implement
+atiesystemen die gebruikt zouden kunnen worden om patches of updates te pushen. En dan barst de rans
+omware-aanval los met alle desastreuze gevolgen van dien.Sophos merkte ook op dat sommige cybercrimi
+nelen eerst hun aanval zullen testen op een aantal apparaten om te zien of hun plan gaat werken. Hie
+rdoor worden ze wel zichtbaar, dus de echte aanval zal niet lang op zich laten wachten.Stappen tegen
+ hackers die al in uw netwerk zijnHoe kunt u de aanvallers tegenhouden als ze binnen zijn? Dit zijn 
+de belangrijkste stappen:
+
+/ ~ 4AC5DDE2 ~ /
+
+Het covid19 virus heeft ook enorme impact op het Nederl
+andse zakenleven. AX 0 bv “Denktank” is hier zakelijk en maatschappelijk op veel facetten bij betrok
+ken. Regelmatig zijn updates en medische publicaties en ervaringen nauwlettend in de gaten gehouden 
+om zo goed mogelijk zakelijk relevante en actuele informatie en ondersteuning aan onderneming en org
+anisatie te bieden.
+Realtime informatie word dagelijks gedeeld met cliënten in de Benelux en Duitsla
+nd met heldere adviezen voor herinrichting van bijvoorbeeld werkplekken, technisch beschermende advi
+ezen, security en zakelijk/organisatorische protocollen, processen en procedures.
+Vanuit die governa
+nce zetten AX 0 bv partners en consultants voortdurend die extra stap. Vanwege die actualiteit heeft
+ AX 0 bv dan ook deel genomen aan de RTLZ uitzendingen gepresenteerd door Myrna Goossen, “Samen Ster
+k Tijdens Corona”.
+Wat is de impact van covid19 op het bedrijfsleven, de zaak en hoe ziet de zakelij
+ke toekomst eruit na covid19? Vragen die in elke boardroom en aan directietafels leven. Middels onze
+ tickertape houden wij u graag van tal van actuele zaken op de hoogte. Tips of info? Laat het ons we
+ten.
+
+/ ~ 4AC5DDE2 ~ /
+
+Een goeie reminder dat ransomware echt iedereen kan treffen en dat je beter 
+later kunt terugbellen.
+
+/ ~ 4AC5DDE2 ~ /
+
+RANSOMWARE - Deze signalen waarschuwen dat u al aangevall
+en wordt...
+
+#Ransomware-aanvallen vinden niet spontaan plaats. Daar gaat maanden aan voorbereiding 
+af. Herken de signalen en voorkom het ergste. Lees onze blog hoe u dat doet:
+
+/ ~ 4AC5DDE2 ~ /
+
+Beet
+je alsof je hele bedrijfsnetwerk dreigt te worden versleuteld door ransomware, en je blijft roepen: 
+'maar hoe betrouwbaar zijn viruscanners eigenlijk?!'
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware #DDOS #Phishing 
+#Security #Cybercrime
+
+Het regent aanbiedingen van commerciële aanbieders die u eerst stuipen op het
+ lijf jagen met toch vooral de gevaren van cybercrime zoals ransomware en ddos aanvallen en dat 'hun
+', vooral commerciële oplos…
+
+/ ~ 4AC5DDE2 ~ /
+
+Universal Health Services (UHS), één van de grootste
+ zorgverleners in de Verenigde Staten met vierhonderd ziekenhuizen en zorgcentra, is getroffen door 
+#ransomware. 
+https://bit.ly/3381gJb
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware #AVG #DDOS #Phishing #Cybercrime
+ 
+
+Er zijn eenvoudige stappen te zetten, die uw risico slachtoffer te worden van een ransomware aanv
+al of die torenhoge boete voor uw niet complete AVG, reduceert met 40%-70%.
+
+En geen van die stappen
+ heeft ook…
+
+/ ~ 4AC5DDE2 ~ /
+
+'AgeLocker'-ransomware richt zich op QNAP-devices, updaten is aanbevo
+len http://dlvr.it/RhTzNN
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Een nieuwe soort ransomware, genaamd AgeLocker, lijkt 
+het gemunt te hebben op nas-apparaten van QNAP. De fabrikant heeft een beveiligingsmelding aangemaak
+t over de malware. AgeLocker gebruikt de zogenaamde Age-encryptietool om gebruikersdata te gijzelen.
+
+Specifiek oudere versies van de Photo Station-toepassing lijken kwetsbaar voor de aanval. In zijn b
+ericht geeft QNAP verder vrij weinig details, maar het bedrijf zegt nog wel vol bezig te zijn met he
+t onderzoeken van het beveiligingslek en binnenkort meer duidelijkheid te verwachten. Meer informati
+e zal zo spoedig mogelijk gedeeld worden.
+
+Welke versies van besturingssysteem QTS en de meegeleverd
+e applicaties vatbaar zijn voor AgeLocker (en belangrijker: vanaf welke versie het 'lek' gedicht is)
+ wordt ook niet aangegeven. QNAP raadt gebruikers wel aan om QTS en alle geïnstalleerde toepassingen
+ naar de meest recente versie bij te werken. Dit kan men doen via Control Panel -> System -> Firmwar
+e Update voor het os, en App Center -> My Apps -> Install Updates voor losse toepassingen. 
+Buiten d
+e QNAP-apparatuur richt AgeLocker zich volgens de beveiligingsmelding ook op Linux- en macOS-apparat
+en.
+
+                    Bronnen:
+                                                                  
+  QNAP,                        Heise                
+
+ Tip redactie
+            Sluiten0 reactiesWat
+ vond je van dit artikel?
+
+« Vorig bericht
+Volgend bericht »
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#EPD #Patiëntendos
+sier #IT #Ransomware #Vendorslock
+
+Hoe EPD software markt onbetaalbare gelegaliseerde ransomware wer
+d ....
+http://bit.ly/2GdeKdy
+
+Een oplossing?  http://bit.ly/2LjK3CD
+@marcelkuin @antoniuszorg
+@BNRza
+ken @RTLZ @PwC @EY_Nederland @Deloitte @KPMG @KNMG #AX0
+
+/ ~ 4AC5DDE2 ~ /
+
+Onderzoekers infecteren s
+mart koffiezetapparaat met ransomware #securitynl
+
+/ ~ 4AC5DDE2 ~ /
+
+#EncroChat #Ransomware #Phishin
+g #Cybercrime
+@Politie sloeg een formidabele slag tegen de zware criminaliteit door het kraken van d
+e EncroChat encryptie. Door ghost surveilance is er bijzonder veel informatie naar boven gehaald. 
+
+
+ @MKBNL @MKBCongres #AX0 @KVK_NL @KPN @BNR @RTLZ

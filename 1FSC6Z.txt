@@ -1,0 +1,2044 @@
+ Ce chercheur en sécurité a hacké... une machine à café connectée
+Un chercheur a réussi à modifier l
+e microprogramme d'une machine à café connectée pour simuler une attaque par #ransomware.
+
+/ ~ 4AC5D
+DE2 ~ /
+
+[Urgent] @cmacgm est actuellement victime d’une #cyberattaque de la part d’un #Ransomware  
+Plus d’infos à suivre sur @Gometmedia
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Les QR Codes représentent un grand danger 
+pour nos smartphones, met en garde une étude. En exploitant cette technologie en plein boom, des hac
+kers peuvent s'emparer des données d'un téléphone portable ou propager des logiciels malveillants. 
+
+ 
+De nos jours, les QR Codes sont omniprésents. Ils permettent de consulter la carte d'un restaurant
+ ou d'un bar avec son smartphone ou de partager un lien, un billet d'avion ou un ticket de train ave
+c facilité. Une étude de MobileIron, une société américaine spécialisée dans le développement de log
+iciels d'authentification, réalisée auprès de 2100 utilisateurs américains et britanniques, montre q
+ue les QR Codes font désormais partie de votre quotidien.
+40% des sondés ont scanné un QR Code la se
+maine dernière, contre 86% au cours de l'année écoulée. La pandémie de Covid-19 a évidemment accélér
+é l'adoption de cette technologie. D'ailleurs, 47% des sondés affirment avoir remarqué de plus en pl
+us de QR Codes dans leur vie quotidienne. Ils sont 53% à vouloir que les QR Codes soient massivement
+ utilisés par les marques, entreprises et administrations. 43% acceptent d'utiliser un QR Code pour 
+réaliser un paiement.
+Lire également : Comment transformer le code WiFi en QR Code pour simplifier s
+on partage
+Personne ne se méfie d'un QR Code, regrette MobileIron
+Malheureusement, les sondés ne son
+t pas conscients des risques liés à l'utilisation des QR Codes. En exploitant cette technologie, un 
+hacker est en effet en mesure de partager une URL malveillante vers un site de phishing, de propager
+ un malware ou de collecter les données personnelles de votre smartphone, met en garde MobileIron. I
+nterrogé par Forbes, Alex Mosher, vice-président Solutions de MobileIron, assure que “nous allons bi
+entôt assister à un assaut d’attaques via les QR codes”.
+C'est d'autant plus inquiétant que la plupa
+rt des utilisateurs font aveuglément confiance aux QR Codes. Ainsi, 35% des sondés ignorent que les 
+QR Codes peuvent permettre de pirater leur téléphone. Ils sont d'ailleurs 34% à ne pas se méfier de 
+ceux-ci. Enfin, 53% des sondés n'ont pas installé de logiciel de sécurité, comme un antivirus, sur l
+eur smartphone. L'appareil est donc à la merci des pirates.
+On vous invite donc à rester prudent ava
+nt de scanner un QR Code apposé sur la table d'un bar ou d'un restaurant. Avant de scanner le code, 
+assurez-vous qu'il s'agit bien de celui de l'établissement et non d'un piège tendu par un pirate.
+ 
+
+
+
+
+
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware : CMA-CGM victime de la piraterie de Ragnar Locker
+
+/ ~ 4AC5DDE
+2 ~ /
+
+Ransomware : CMA-CGM victime de la piraterie de Ragnar Locker
+
+Le transporteur a dû couper le
+s accès externes à ses applications IT, évoquant un problème avec son infrastructure interne. En Fra
+nce, la téléphonie est affectée.
+https://lemagit.fr/actualites/252489714/Ransomware-CMA-CGM-victime-
+de-la-piraterie-de-Ragnar-Locker…  via @ValeryMarchive
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Et si le monde merveilleu
+x de l'Internet des objets (IoT) virait au cauchemar ? C'est ce qu'a voulu démontrer le chercheur Ma
+rtin Hron de la société Avast en installant un ransomware dans une machine à café connectée de la ma
+rque Smarter. La vidéo ci-dessous montre en effet la machine qui devient totalement incontrôlable et
+ doit être rapidement débranchée.
+
+
+
+
+Le chercheur a utilisé une ancienne version de la machine, qui
+ était connue pour présenter de nombreuses failles de sécurité. Après une semaine de travail en reve
+rse engineering, Hron a constaté qu'il pouvait prendre le contrôle de nombreux composants de l'appar
+eil tels que l'afficheur, le broyeur de grains, le brûleur et le distributeur d'eau. Le chercheur pr
+écise :
+
+Cela a été fait pour souligner que cela s'est produit et pourrait arriver à d'autres appare
+ils IoT. C'est un bon exemple d'un problème prêt à l'emploi. Vous n'avez rien à configurer. Habituel
+lement, les vendeurs n'y pensent pas.
+
+En effet, la machine se comporte lors de sa première utilisat
+ion comme un point d'accès Wi-Fi pour communiquer avec l'appli de configuration installée sur le sma
+rtphone. Sauf que la liaison Wi-Fi n'est absolument pas sécurisée et peut être facilement piratée. M
+ais le plus grave est que cette faille concerne aussi la mise à jour du microprogramme (firmware) de
+ la machine. Elle ne comporte ni authentification, ni signature de code.
+Il a fallu identifier le mi
+croprocesseur de la machine à café
+Il suffit donc d'envoyer à la machine un firmware modifié qui con
+tient le ransomware. Tout le problème consiste à modifier le firmware. Pour cela, Hron a dû démonter
+ l'appareil pour identifier le microprocesseur qu'il contient.
+Une fois le firmware modifié, il suff
+it de créer un script en langage Python qui effectue le processus de mise à jour à partir d'un smart
+phone Android. Toutefois, le piratage ne peut se faire que si la machine à café n'est pas déjà conne
+ctée à un réseau domestique, car dans ce cas son SSID de configuration n'est plus accessible.
+Un pir
+ate peut toutefois contourner le problème en envoyant un paquet de données spécifique au réseau Wi-F
+i, qui va provoquer une déconnexion et rendre le SSID à nouveau accessible. Il doit toutefois se pla
+cer dans une zone proche du réseau Wi-Fi.
+
+A découvrir aussi en vidéo :
+
+
+
+
+L'expérience de Martin H
+ron est une démonstration du danger potentiel des machines connectées qui sont de plus en plus prése
+ntes dans notre quotidien. Ce problème est par exemple récurrent dans les caméras de surveillance, m
+ais pourrait toucher d'autres types d'appareils. Hron insiste sur le fait que les constructeurs doiv
+ent faire preuve de responsabilité et combler les failles de sécurité de toutes les machines qui pos
+ent problème, y compris les anciens modèles qui sont encore en cours d'utilisation.
+Source : Avast
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+	Pub
+lié le: 18 sept. 2020
+
+
+ 
+Comment déterminer l’importance de la menace ? Quelques exemples épars, pl
+us ou moins marquants, suffisent-ils à éveiller les consciences ? Rien n’est moins sûr. Mais il n’y 
+a pas de doute : la menace des rançongiciels est de plus en plus marquée.
+Suite de l'article ci-dess
+ous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+7 attaques informatiques à la loupe
+Les attaques info
+rmatiques ne cessent d'impressioner et beaucoup d'entreprises se sont retrouvées les bras ballants f
+ace à ce polymorphisme informatique. 
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez
+ oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà
+ enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autori
+sé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de
+ TechTarget, ainsi que la politique de confidentialité et le transfert de mes informations aux États
+-Unis pour traitement afin de me fournir les informations pertinentes décrites dans notre Politique 
+de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes infor
+mations soient traitées par TechTarget et ses partenaires afin de communiquer avec moi par le biais 
+du téléphone ou du courrier électronique et ce à propos d’informations pertinentes dans mon contexte
+ professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez cont
+inuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selon Acyma, aux commandes du portail cybermalveillance.gouv.
+fr, il faut compter plus d’un millier de déclarations d’attaque par ransomware – ou cryptovirus, peu
+t-on entendre parfois – depuis le début de l’année. L’Agence nationale pour la sécurité des systèmes
+ d’information (Anssi) indique quant à elle être intervenue sur 104 incidents depuis le début de l’a
+nnée.
+De notre côté, nous avons dénombré au moins 45 incidents connus publiquement dans l’Hexagone d
+epuis le début de l’année. Ce chiffre est d’autant plus parcellaire qu’il ne tient pas compte des pl
+usieurs dizaines de victimes associées à la compromission de l’infrastructure Kaseya, d’administrati
+on à distance, de Xefi, en janvier. Rien qu’avec cela, il est facile d’imaginer que le compte dépass
+e déjà la centaine.
+
+
+
+
+
+
+À l’échelle de la planète, les données ne sont guère plus exhaustives. Nou
+s avons recensé ainsi près de 720 victimes revendiquées par les cybertruands depuis le début de l’an
+née. Là, c’est la tendance, mois après mois, qui impressionne : la hausse est marquée et rapide. Mai
+s les chiffres compilés pour la fin août et le début septembre peuvent être trompeurs : ils sont for
+tement marqués par le groupe aux commandes du ransomware Conti. Ce dernier est dit lié à Ryuk, qui é
+tait plutôt discret, jusqu’ici, sur ses victimes. Dès lors, ce que l’on observe sur la fin de l’été 
+traduit peut-être moins une progression explosive que l’extension de la partie visible des attaques.
+ Toutefois, cela n’enlève rien à une tendance marquée à la hausse.
+Ci-dessous, vous retrouverez notr
+e chronologie des incidents connus en France depuis le début de l’année – soit à la date de survenue
+, soit à la date de sa révélation.
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre
+ la montre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour appro
+fondir sur Menaces informatiques
+
+
+
+Ransomware : CMA-CGM victime de la piraterie de Ragnar Locker
+
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : les confirmations de l’ampleur de la menace se multiplient
+
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Enquête sur la face cachée des ransomwares : les négociations
+
+
+
+
+Par: V
+aléry Marchive
+
+
+
+
+L’e-mail, vecteur de référence d’attaques marquées par la patience
+
+
+
+
+Par: Valér
+y Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : CMA-CGM victime de la piraterie de Ragnar Locker
+
+/
+ ~ 4AC5DDE2 ~ /
+
+Ce genre de commentaires fait froid dans le dos. Plus de dispensation de médicament
+s, parce que plus de dossier patient. #UHS Le #ransomware #Ryuk revient plusieurs fois dans les comm
+entaires.
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cause d’un ransomware http://tinyu
+rl.com/yynfnlrq via @journaldugeek
+
+/ ~ 4AC5DDE2 ~ /
+
+Ne scannez pas n'importe quel #QRCode
+v/ @phon
+android
+#cybersécurité #CyberSecurity #CyberAttack #Ransomware #Rancongiciels
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les articles repris dans cet espace sont des articles fournis par les flux RSS de site c
+onsacrés, en général, à l'actualité ICT. Ces articles ne sont donc pas le résultat de travail de l'é
+quipe de Simple CRM (qui est éditeur du logiciel CRM du même nom) mais bien le résultat d'un mashup 
+de contenu, également appellé curation.
+
+Notre travail se limite à vous faire découvrir le travail d
+e qualité effectué par des sites web de référence; nous ne rédigeons de ce fait aucun contenu. Nous 
+ne sommes donc pas éditeur mais hébergeur et n'exerçons de ce fait aucun contrôle sur les informatio
+ns référencées dont nous respectons le droit d'auteur en indiquant la source fournie dans les flux R
+SS.
+
+Afin de découvrir la totalité des articles proposés, merci de cliquer sur le lien de source men
+tionné en haut et en bas de chaque article afin de découvrir l'excellent travail de ces différents r
+édacteurs; de nombreux autres contenus de qualités vous attendent sur leur site web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curation d'information réalisée par:
+
+
+
+
+
+Catherine De Luca
+
+
+En charge du Simple C
+RM CLUB, je cherche les bonnes infos qui vous intéressent.
+
+Afficher mon profil complet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Générateur de mot de passe
+
+
+Site web incubé par zeBridge, entreprise établie au 24 rue Piretfontai
+ne, 4140 Sprimont, Belgique, TVA BE 0882433150.
+Service gratuit hébergé par Google Inc., entreprise 
+établie au 1600 Amphitheatre Parkway Mountain View, CA 94043 USA. Info et contact: google (at) zebri
+dge.tk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Journal du geek: Cette machine à café devient folle à cause d
+'un ransomware.
+https://journaldugeek.com/2020/09/28/machine-cafe-folle-ransomware/?utm_source=rss&u
+tm_medium=rss&utm_campaign=machine-cafe-folle-ransomware…
+
+via @GoogleNews
+
+/ ~ 4AC5DDE2 ~ /
+
+France
+ : Infosec : Le transporteur CMA CGM a été invité par des pirates exploitant le ransomware Ragnar Lo
+cker à les contacter dans les 2 jours «via le chat en direct et payer la clé de déchiffrement spécia
+le».
+…https://lloydslist.maritimeintelligence.informa.com/LL1134044/CMA-CGM-confirms-ransomware-atta
+ck…
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transporteur CMA CGM torpillé par un ransomware ?
+
+/ ~ 4AC5DDE2 ~ /
+
+Et ce
+la continue d’avoir un certain succès... quand l’attaque de #ransomware en cache une autre... par un
+ spécialiste d’Active Directory de #microsoft... à lire 
+
+/ ~ 4AC5DDE2 ~ /
+
+ Cette machine à café de
+vient folle à cause d’un ransomware https://bit.ly/2GdpjgQ 
+#news
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à
+ café devient folle à cause d’un ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Selon Chichen Chen de @LloydsList, le
+ transporteur @cmacgm est actuellement confronté à une #cyberattaque conduite avec le #ransomware #R
+agnarLocker.
+
+/ ~ 4AC5DDE2 ~ /
+
+Certes, mais les sauvegardes ne protègent pas du chantage à la divul
+gation de données, effectué massivement par les #Ransomware  dans leur business model 2020.
+
+/ ~ 4AC
+5DDE2 ~ /
+
+#RT @UnderSecu: Attaque de ransomware sur CMA-CGM
+
+/ ~ 4AC5DDE2 ~ /
+
+Tandis que l’affréte
+ur vient d’annoncer l’intégration à sa flotte du plus grand porte-conteneur au monde propulsé au gaz
+ naturel liquéfié, il se pourrait que l’entreprise française soit de nouveau bientôt mise sous les p
+rojecteurs. En effet, à minima plusieurs de ses implantations chinoises semblent avoir été affectées
+ par un ransomware. Le système de réservation semble notamment avoir été affecté par l’attaque, si l
+’on en croit le Ragnar Locker gang qui invite les responsables à entrer en contact pour effectuer « 
+le paiement d’une clé de déchiffrement spécifique ».
+Présent dans plus de 160 pays avec 755 agences,
+ 750 entrepôts et 110.000 collaborateurs, doté d’une flotte moderne et variée de plus de 502 navires
+, le Groupe CMA CGM dessert 420 ports commerciaux dans le monde avec 285 lignes maritimes, CMA-CGM e
+st l’un des géants mondiaux du secteur des services de transports maritimes.
+Alors que les détails é
+mergent sur cette attaque, Christophe Lambert, Directeur Technique Grands Comptes EMEA chez Cohesity
+, commente :
+« Ragnar Locker est un ransomware qui affecte les appareils fonctionnant sous système d
+’exploitation Microsoft Windows. Il a été repéré pour le première fois fin décembre 2019. Le plus so
+uvent, ce malware est déployé manuellement après qu’aient été effectuées une première compromission,
+ une reconnaissance du réseau et le déploiement automatisé de tâches. Avant de déclencher le ransomw
+are Ragnar Locker, les attaquants injectent au sein du système un module qui collecte des données se
+nsibles sur les machines infectées et les télécharge sur leurs propres serveurs. Ensuite, les cyberc
+riminels notifient à la victime que les fichiers seront rendus publics si la rançon n’est pas payée.
+ Mais au -delà des données subtilisées et rendues inaccessibles, c’est la mise en arrêt total des pr
+ocessus métiers essentiels à la conduite des affaires qui peut s’avérer préjudiciable. Le secteur de
+ la logistique repose sur une chorégraphie complexe de systèmes et de services, il faut donc être en
+ mesure de restaurer rapidement les infrastructures et les données sous peine de pénaliser l’entrepr
+ise et l’ensemble de ses clients . »
+
+/ ~ 4AC5DDE2 ~ /
+
+FRENCHNEWTECH Le transporteur CMA CGM torpil
+lé par un ransomware ? http://dlvr.it/RhWfd7 #startup #entreprise #lemondeinformatique
+
+/ ~ 4AC5DDE2
+ ~ /
+
+USA : Infosec : Une grande chaîne hospitalière a été touchée par ce qui semble être l'une des 
+plus grandes cyberattaques de ransomware contre l'infrastructure médicale de l'histoire des États-Un
+is.
+https://nbcnews.com/tech/security/cyberattack-hits-major-u-s-hospital-system-n1241254…
+
+/ ~ 4AC5
+DDE2 ~ /
+
+Ransomware : CMA-CGM victime de la piraterie de Ragnar Locker https://bit.ly/2G6k3Mj via @
+lemagit
+
+/ ~ 4AC5DDE2 ~ /
+
+ça c'est la France Monsieur ... nous on pirate les machines à café pour 5
+0 centimes mais on sait pas protéger nos hôpitaux des ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Et donc, j'ai mi
+s à jour la frise chronologique des incidents connus de #ransomware pour la France en 2020, en consé
+quence... Courage aux équipes sur place. https://lemagit.fr/actualites/252489277/Ransomware-une-mena
+ce-majeure-aux-multiples-inconnues…
+
+/ ~ 4AC5DDE2 ~ /
+
+Bon alors, non, c'était la même donnée mais c
+omptée deux fois, donc. Ce qui n'a qu'un impact très limité sur l'ensemble puisque l'on ne compte qu
+'une attaque connue avec ce ransomware. Le graphique corrigé et dynamique est ici: https://docs.goog
+le.com/spreadsheets/d/e/2PACX-1vTuKRIEDLK9ZWzWXJYSkjEsa460fOiciRCCa2wNyr8N_q9bHNrgIUuZB6t3bWA-L0xmJY
+zvEfkgqIpU/pubchart?oid=1983854269&format=interactive…
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware : CMA-CGM victi
+me de la piraterie de Ragnar Locker
+
+/ ~ 4AC5DDE2 ~ /
+
+Volumétrie d'attaques type Ransomware - Franc
+e, 2020.
+Il suffit d'une attaque réussie pour mettre l'entreprise à genoux.
+
+/ ~ 4AC5DDE2 ~ /
+
+Le tr
+ansporteur CMA CGM torpillé par un ransomware ? - Le Monde Informatique https://bit.ly/30gsmvN
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Le transporteur CMA CGM torpillé par un ransomware ? -
+
+La compagnie française d'affrè
+tement maritime a été victime d'une cyberattaque. Selon différentes sources, le ransomware Ragnar Lo
+cker serait à la manoeuvre.
+https://lemondeinformatique.fr/actualites/lire-le-transporteur-cma-cgm-t
+orpille-par-un-ransomware-80514.html… via @MondeInformatiq
+
+/ ~ 4AC5DDE2 ~ /
+
+Complètement dingue. U
+n employé de chez Microsoft intervenant sur une réponse à incident (ransomware généralisé) aurait pr
+ofité de la situation pour tenter de faire payer une rançon à la place de l’attaquant à son client 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transporteur @cmacgm torpillé par un #ransomware
+#maritime #cybersecurite #cyb
+ermaritime #RPCyberMaritime @CyberCercle
+https://lemondeinformatique.fr/actualites/lire-le-transport
+eur-cma-cgm-torpille-par-un-ransomware-80514.html… par @jcheminat @MondeInformatiq
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Et si le monde merveilleux de l'Internet des objets virait au cauchemar ? C'est ce qu'a voulu démo
+ntrer le chercheur Martin Hron de la société Avast en installant un ransomware dans une machine à ca
+fé !! l'encu$#!% de fils de $*+# on touche pas au café!!
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+
+LinkedIn
+L’assureur MMA, le vendeur de billets en ligne MisterFly ou le spécialiste de l’animat
+ion commerciale CPM France viennent de s’ajouter à la longue liste des entreprises ou institutions v
+ictimes de rançongiciels, un fléau qui ne cesse de prendre de l’ampleur. Les rançongiciels permetten
+t à des cybercriminels de chiffrer les fichiers de leurs entreprises, réussissant à paralyser tout o
+u partie de leur activité. Les pirates demandent ensuite une rançon pour déchiffrer les fichiers. Le
+urs actions sont moins spectaculaires que les piratages de comptes Twitter de personnalités mondiale
+s rapportés la semaine dernière, mais peuvent coûter jusqu’à des centaines de millions d’euros aux e
+ntreprises impactées. Et elles sont de plus en plus nombreuses, préviennent les spécialistes. « Il y
+ a un développement de tout ce qui est rançongiciels en ce moment avec une démarche quasi militaire:
+ ciblage, planification, exécution », expliquait par exemple début juillet Guillaume Poupard, le dir
+ecteur général de l’Anssi, gardienne de la sécurité informatique française. « Pour vous donner un ex
+emple, 28 cibles de rançongiciels ont appelé l’Anssi la semaine dernière, ou ont été appelés par l’A
+nssi », avait-il poursuivi devant un parterre de spécialistes en cybersécurité. « La courbe des cas 
+ressemble à une exponentielle (…) on court après les incendies. » Les tactiques des groupes criminel
+s sont de plus en plus évoluées et de plus en plus « professionnelles », notent les observateurs. « 
+Les grands cybercriminels fonctionnent aujourd’hui en réseaux », explique Ivan Fontarenski, responsa
+ble technique du renseignement sur la menace chez le géant technologique français Thales. « Améliore
+r la capacité d’investigation »« Ils communiquent entre eux, partagent leurs outils, ‘challengent’ m
+utuellement leur mode opératoire, se donnent des conseils avisés et se mettent au défi au travers de
+ campagnes d’attaques toujours plus évoluées », poursuit-il. « Il ne s’agit pas d’une simple logique
+ de coopération mais d’une véritable émulation. » Les attaques aux rançongiciels sont désormais perp
+étrées par des groupes « très organisés » qui vont souvent passer « 1, 2 ou 3 mois à s’insérer dans 
+l’environnement de l’entreprise » avant de frapper, constate de son côté Gérôme Billois, du cabinet 
+Wavestone, qui joue souvent les cyberpompiers pour les entreprises attaquées. « Ce sont des attaques
+ extrêmement rentables pour les auteurs, avec des rentabilités qui peuvent atteindre 400, voire 800%
+ » par rapport aux moyens engagés, estime-t-il. Phénomène inquiétant depuis quelques mois, les attaq
+uants se livrent de plus en plus à un chantage à la publication de données, menaçant de vendre ou de
+ publier les données des entreprises touchées, ou de leurs clients. Un coup terrible pour la réputat
+ion de ces entreprises, dont la responsabilité légale peut de plus être engagée si des failles sont 
+démontrées dans la protection des données personnelles dont elles ont la garde. Face à cette prolifé
+ration, il faut fortifier les défenses des entreprises, mais également « améliorer la capacité d’inv
+estigation » des autorités après une attaque et « le traitement judiciaire » des affaires, souligne 
+Gérôme Billois. Selon Guillaume Poupard, ces efforts existent et commencent à porter leurs fruits. «
+ Le point positif, c’est que grâce à des coopérations internationales » efficaces, « on commence à s
+avoir observer les attaquants, on commence à savoir qui ils attaquent avant même que le chiffrement 
+n’ait commencé » chez leurs victimes, avait-il expliqué le 2 juillet. « Quand on les voit bouger, on
+ a 48 heures pour intervenir .. on a eu quelques week-ends particulièrement ‘intéressants’ » où des 
+« cas qui auraient pu tourner au drame » ont pu être évités. Parmi les groupes criminels les plus ci
+tés ces derniers mois se trouvent Maze (alias ATK 161) auteur notamment de l’attaque contre Bouygues
+ Construction en janvier dernier, ATK103 (alias TA505) à l’origine de l’attaque contre le CHU de Rou
+en, ATK168 (alias Sodinokibi), ATK182 (alias Netwalker).
+
+
+
+Facebook
+
+
+
+
+Twitter
+
+
+
+
+LinkedIn
+
+Abonn
+ez-vous à la newsletter FrenchWeb.fr
+ Tagstwitter
+
+/ ~ 4AC5DDE2 ~ /
+
+Bkube, la box anti-ransomware p
+our les entreprises https://tribuca.net/entreprises_73889260-bkube-la-box-anti-ransomware-pour-les-e
+ntreprises… #Nice06 #startup
+
+/ ~ 4AC5DDE2 ~ /
+
+UHS hospitals hit by country-wide ransomware attack 
+ encore un... quand je vois le retard accumulé dans les hôpitaux, oui il faut sécuriser mais surtout
+ réfléchir à la résilience et se dire que le SI peut à tout moment être indisponible au - 1 semaine 
+￼
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transporteur CMA CGM torpillé par un ransomware ? https://paper.li/e-1513726
+911?read=https%3A%2F%2Fwww.lemondeinformatique.fr%2Factualites%2Flire%2Dle%2Dtransporteur%2Dcma%2Dcg
+m%2Dtorpille%2Dpar%2Dun%2Dransomware%2D80514.html… #cybersecurite
+
+/ ~ 4AC5DDE2 ~ /
+
+Afin de montrer
+ les #menaces qui peuvent peser sur l' #IoT, un expert a réussi à faire en sorte qu'une machine à ca
+fé connectée réclame une #rancon pour fonctionner correctement.
+#ransomware #cybersecurite
+https://b
+uff.ly/2S5hZXl
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque ransomware sur CMA-CGM : le commentaire de Christophe Lamb
+ert, Cohesity
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cause d’un ransomware http://j
+ournaldugeek.com/2020/09/28/machine-cafe-folle-ransomware/?utm_campaign=twitter&utm_medium=twitter&u
+tm_source=twitter… #News
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque de ransomware sur CMA-CGM -
+
+/ ~ 4AC5DDE2 ~ /
+
+R
+Evil ransomware crew dangles $1,000,000 cybercrime carrot
+
+/ ~ 4AC5DDE2 ~ /
+
+Les équipes Varonis ont
+ remarqué comme vous tous une recrudescence des #attaques du #ransomware #Emotet.
+Nous mettons à vot
+re disposition une note de #blog pour vous aider à le comprendre et le combattre.
+https://varonis.co
+m/blog/emotet/ (en Anglais)
+
+/ ~ 4AC5DDE2 ~ /
+
+Merci à @jeune_afrique pour cette tribune autour des 
+enjeux de la #cybersécurité pour les états et entreprises en #Afrique si rien est fait prochainement
+ #pentest #Ransomware #sensibilisation #formation
+Cc @kpoireault merci 
+@HexpressoCTF (les vrais ami
+s) @BreizhCTF
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cause d’un ransomware #Ransomw
+are via http://twinybots.ch
+
+/ ~ 4AC5DDE2 ~ /
+
+Mailinblack et @SafeBrands s'associent pour vous prop
+oser un #webinar unique :
+
+"Comment protéger sa messagerie des cyberattaques (ransomware, phishing, 
+spearphishing...) ?"
+
+ Jeudi 1 octobre - 14h00
+ 1h00
+ Inscription gratuite sur : https://cutt.ly/Uf1
+7ab9
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacteur en chef
+
+
+
+
+	Publié le: 28 sept. 2020
+
+
+ 
+La nouvelle est tombée ce lundi 28 septembre au matin, sur le fil Twi
+tter du groupe : « Les accès externes aux applications IT de CMA CGM sont actuellement indisponibles
+. Les équipes IT travaillent à résoudre l’incident pour assurer la continuité de l’activité ». Selon
+ nos confrères de Splash, le transporteur avait préalablement commencé à informer ses clients en Aus
+tralie, et sa messagerie électronique serait opérationnelle. En France, la téléphonie ne l’était pas
+ ce matin, l’accueil se disant dans l’impossibilité de transférer les appels.
+Suite de l'article ci-
+dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Ransomware : La menace se fait plus ciblée
+Nul RS
+SI n'ignore la présence de ransomware, mais beaucoup sous-estiment leur côté pernicieux et à quel po
+int ces derniers peuvent être ciblés. Ce guide vous présente ce danger ainsi que les mesures pour s'
+en préserver.
+Start Download
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer une a
+dresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vo
+us identifier  ici.
+Vous avez dépassé le nombre maximum de caractères autorisé.
+Merci d’entrer une a
+dresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi que l
+a politique de confidentialité et le transfert de mes informations aux États-Unis pour traitement af
+in de me fournir les informations pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+V
+euillez cocher la case si vous voulez continuer.
+
+
+
+
+J'accepte que mes informations soient traitées 
+par TechTarget et ses partenaires afin de communiquer avec moi par le biais du téléphone ou du courr
+ier électronique et ce à propos d’informations pertinentes dans mon contexte professionnel. Je peux 
+me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selon Chichen Shen, de Lloyd’s List, « plusieurs bureaux en Chine, au moins, sont tou
+chés » par ce qui est présenté comme un « problème d’infrastructure IT interne ». Nos sources confir
+ment l’impact sur l’environnement IT local du groupe, mais s’avèrent incapables, pour le moment, de 
+fournir des indications sur la situation des infrastructures IT en France.
+CMA CGM n’a pas fourni pl
+us de détails sur la nature de l’incident qui l’affecte. Mais selon notre confrère Chichen Shen, il 
+s’agit d’une attaque de ransomware, et plus précisément de Ragnar Locker.
+
+
+
+
+
+
+Les opérateurs de ce
+ rançongiciel ne comptent pas parmi ceux qui ont le plus fait parler d’eux cette année. On ne recens
+e, à ce jour, que 7 cyberattaques connues ayant conduit à la détonation de ce logiciel malveillant, 
+à travers le monde, depuis le début de l’année.
+Parmi les victimes connues de ce ransomware, on comp
+te en particulier Carlson WagonLit Travel, frappé fin juillet. Ce dernier apparaît avoir versé une r
+ançon de 4,5 M$ aux cybertruands, selon les détails d’une négociation qui a pu être suivie par plusi
+eurs observateurs.
+À ce jour, depuis le début du mois de septembre, nous comptons plus de 240 attaqu
+es informatiques connues avec les ransomwares dans le monde, contre 121 au mois d’août. Nous avons a
+ctualisé la frise chronologique ci-dessous, pour les victimes françaises.
+
+
+
+
+
+
+
+
+			Sur le même suj
+et
+
+
+Cyber-adversaires et course contre la montre
+–CrowdStrike
+
+
+Rapport Thales 2020 sur les menaces
+ informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Menaces informatiques
+
+
+
+Ransomware : l’illusion d
+’un système d’information assaini
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Incident IT chez Honda : le ransomwar
+e Ekans suspecté
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : quand les assaillants atteignent leur but
+ en un clin d’œil
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Le ransomware qu’Essilor n’a vu que trop tard
+
+
+
+
+Par
+: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+	Est-ce une nouvelle version moderne du pompier pyroman
+e ou le bouc émissaire victime d’un piratage technologique de très haut vol ? Lundi 21 septembre, la
+ 12e chambre du tribunal correctionnel de Paris s’est penchée sur une drôle d’affaire qui s’est déro
+ulée en marge du piratage informatique d’Edenred en novembre 2019. Antoine est soupçonné d’avoir ten
+té d’escroquer cette entreprise qui édite les Tickets restaurants et d’avoir abusé de la confiance d
+e son ancien employeur, Microsoft.
+
+	L’audience est un peu spéciale. C’est en effet la dernière fois
+ que la vice-procureure Alice Cherif, cheffe du pôle cybercriminalité du parquet de Paris, représent
+e l’accusation. La magistrate va partir dans quelques jours en détachement aux douanes.
+
+	Antoine, t
+out juste 30 ans, est un crack informatique du Val-d’Oise. Depuis cette histoire, ce jeune homme bie
+n habillé et aux cheveux soigneusement coiffés a changé de boîte et émarge désormais à un salaire co
+nfortable chez le leader français des services numériques, Capgemini. Il est senior architecte en cy
+bersécurité. Et bien embêté des accusations graves portées contre lui. Sa demande de relaxe au bénéf
+ice du doute fait face aux neuf mois d’emprisonnement requis par le parquet.
+
+	— Est-on sûr que c’es
+t lui, sous la cagoule ?, questionne son avocat, Me Antoine Guglielmi. Non, on n’est pas sûr. Sa ver
+sion n’est pas entièrement contredite. On le fait passer pour l’ultra-méchant et le gros malin. Mais
+ s’il avait dû faire [cette tentative d’extorsion], il aurait fait mieux.
+
+	— J’ai une certaine expé
+rience dans l’informatique, complète Antoine. Commettre ce genre d’erreur, par rapport au niveau que
+ je possède aujourd’hui, c’est comme aller [braquer] une banque avec sa voiture personnelle. Il n’y 
+a pas eu de réseau privé virtuel utilisé pour masquer l’adresse IP. Et faire cela depuis un lieu où 
+je suis tout seul et avec un ordinateur de travail, c’est quand même bête.
+
+La justice soupçonne un 
+nouveau maître chanteur
+
+	Il y a moins d’un an, à la fin novembre 2019, la société Edenred est victi
+me d’une attaque informatique. Il s’agit d’un rançongiciel : des données internes resteront chiffrée
+s tant qu’une rançon n’aura pas été payée. Alors que la société relève péniblement la tête – l’enquê
+te sur ce volet est toujours en cours –, elle reçoit coup sur coup deux mails, les 3 et 6 décembre, 
+demandant expressément le versement d’une rançon de plusieurs centaines de milliers d’euros. Une dem
+ande étonnante : des négociations étaient pourtant en cours avec les pirates pour le versement de Mo
+nero, une cryptomonnaie.
+
+	Mais qui est donc ce nouveau maître-chanteur ? Pour les enquêteurs de la 
+brigade d’enquêtes sur les fraudes aux technologies de l’information (Befti), il s’agit d’Antoine, l
+’un des sept membres de l’équipe de spécialistes missionnés par Microsoft auprès d’Edenred pour just
+ement lui éviter le naufrage après l’attaque informatique. L’informaticien est chargé d’une mission 
+particulièrement sensible. Il doit inspecter l’Active directory, cette sorte d’annuaire qui permet d
+e voir les accès et les autorisations informatiques.
+
+	Plusieurs indices mènent les policiers au jeu
+ne homme. L’adresse IP enregistrée le 29 novembre 2019 lors de la création du mail utilisé pour la n
+ouvelle demande de rançon, qui correspond à la salle de réunion d’un imprimeur rennais, Jouve, où An
+toine effectuait une nouvelle mission. Deux minutes plus tard, on notera dans cette salle une connex
+ion vers un navigateur Tor, qui permet d’anonymiser sa session de navigation. Antoine est le seul de
+s quatre personnes présentes ce jour-là dans cette salle à s’être branché au réseau internet filaire
+. Le mail de récupération de l’adresse Protonmail, un service sécurisé basé en Suisse, renvoie égale
+ment à un compte Gmail créé en 2005 par Antoine. Quant au chiffre de l’adresse mail, il est utilisé 
+fréquemment par le prévenu pour d’autres alias sur le net : il correspond au mois et jour de naissan
+ce de sa mère.
+
+	Enfin, Antoine fait partie de la poignée de destinataires qui ont eu accès au rappo
+rt interne de Microsoft sur la première attaque, envoyé par le nouveau maître-chanteur dans le secon
+d mail comme preuve de sa présence dans les systèmes d’information d’Edenred. « Ce n’est pas un fais
+ceau d’indices, mais des preuves multiples et répétées, résume Alice Cherif. Il a cru qu’il serait p
+rotégé en en utilisant une messagerie Protonmail ».
+
+Thèse du piratage informatique
+
+	Pendant enviro
+n deux heures, le jeune homme, qui conteste être à l’origine de la tentative d’extorsion, va au cont
+raire plaider la thèse du piratage informatique. Certes, la nouvelle demande de rançon a bien été fa
+ite depuis son ordinateur. Mais à son insu. Dans la salle d’audience du quatrième étage du palais de
+ justice de Paris, les débats se concentrent d’abord sur le déroulé de la pause déjeuner d’Antoine, 
+le 29 novembre 2019. Une chose est sûre : entre midi et 14 heures, le jeune homme a bien regardé que
+lques vidéos sur Netflix.
+
+	— J’étais en train de regarder Netflix mais mon pare-feu était désactivé
+ pour pouvoir faire des tests, se souvient Antoine. La personne aurait pu prendre le contrôle à dist
+ance. Un de mes comptes bancaires a été piraté, j’ai été remboursé depuis.
+
+	— Mais comment un spéci
+aliste informatique peut-il être aussi facilement victime d’un piratage, s’étonne le juge rapporteur
+ Truffert.
+
+	— J’étais surchargé de travail, j’avais passé de nouvelles certifications et pas mal ré
+visé. J’ai été toujours à 200 %, répond Antoine.
+
+	— Le prévenu a toujours réponse à tout, observe A
+lice Cherif, circonspecte.
+
+	— Évidemment qu’il a réponse à tout, c’est son métier, rétorque Me Anto
+ine Guglielmi. Rien n’est clair dans cette enquête.
+
+	— Les enquêteurs ont regardé uniquement les lo
+gs de la machine, pas les pare-feux. Ils ont vu une déconnexion entre le réseau filaire et mon parta
+ge de connexion 4G, mais n’ont pas analysé la connexion 4G de mon téléphone, conclut Antoine.
+
+	La m
+ise en cause des enquêteurs de la Befti, le service de police judiciaire en charge du plus grand nom
+bre d’enquêtes sur des rançongiciels en France, fait voir rouge la vice-procureure. « C’est leur mét
+ier de trouver des traces, on ne peut pas leur faire la leçon », rappelle-t-elle. « Ils ont très bie
+n fait son travail, abonde Me Sandrine Cullaffroz-Jover, l’avocate d’Edenred. Il n’y a pas de trace 
+de compromission à distance du pare-feu de Jouve, pas de trace d’intrusion dans votre disque dur, ni
+ de malware ou de logiciel qui aurait permis une prise de contrôle. Comment ces opérations auraient-
+elles pu se réaliser sans votre maîtrise ? »
+
+	Après la pause déjeuner sur Netflix, les magistrats s
+’intéressent aux autres éléments à charge contre Antoine.
+
+	— Comment expliquez-vous le fait que le 
+chiffre 716 soit repris ?, demande le juge Truffert.
+
+	— Il suffit qu’un appareil soit compromis pou
+r que les hackers puissent tout consulter, répond Antoine. Ils vont forcément tomber sur le chiffre 
+716. Personne n’est à l’abri d’un piratage. Il y a toujours plus fort que soi. Vous n’imaginez pas t
+outes les données que l’on peut récupérer sur une machine.
+
+	— Mais qui pourrait vous en vouloir ?
+
+
+	— Je ne sais pas. Peut-être que ce n’est pas vraiment moi la cible, ou même Microsoft. Nous avons a
+ccès à tout un panel de clients.
+
+	Pour Microsoft et son client Edenred, la facture de la nouvelle t
+entative d’extorsion est justement particulièrement salée. Le spécialiste du ticket restaurant estim
+e avoir dépensé près de 219 000 € pour ce nouvel épisode. Microsoft, compte tenu des soupçons qui pè
+sent sur son ancien employé, s’est assis sur une grosse facture de 330 000 €. Des sommes que les deu
+x entreprises réclament aujourd’hui à Antoine. « Je me pose la question du préjudice économique de M
+icrosoft, s’interroge Me Antoine Guglielmi. Y a-t-il eu une rupture de confiance avec Edenred ? Je n
+e crois pas, puisque l’entreprise a continué à fournir une prestation. Mais que Microsoft ait offert
+ quelque chose une fois dans sa vie, cela les honore. »
+
+	Le jugement a été mis en délibéré.
+
+
+/ ~ 4
+AC5DDE2 ~ /
+
+Le transporteur CMA CGM torpillé par un ransomware ? Ragnar Locker serait à la manoeuvr
+e
+https://lemondeinformatique.fr/actualites/lire-le-transporteur-cma-cgm-torpille-par-un-ransomware-
+80514.html… #cybersecurite
+
+/ ~ 4AC5DDE2 ~ /
+
+Un chercheur a réussi à modifier le microprogramme d'u
+ne machine à café connectée pour simuler une attaque par ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Grace à la #5
+G, et à l'internet des objets, les #hackers viendront bientôt vous faire chier au p'tit dej. #ransom
+ware #domotique #cafe #Hacked
+
+/ ~ 4AC5DDE2 ~ /
+
+Un copycat est suspecté d'avoir voulu tirer profit 
+de la panique chez Tickets restaurants, en novembre 2019, pour empocher sa part de la rançon. Rappel
+ez vous, Edenred était alors victime d'un ransomware.
+
+/ ~ 4AC5DDE2 ~ /
+
+[Actuellement sur LMI] Le t
+ransporteur CMA CGM torpillé par un ransomware ? - 
+Décidément, le monde maritime commence à payer u
+n lourd tribut sur l’autel de la cybersécurité. Dans la matinée (...)
+
+/ ~ 4AC5DDE2 ~ /
+
+Quand “Rans
+omware May Threaten Election Night” n’est pas l’histoire la plus importante nous sommes en 2020
+
+/ ~
+ 4AC5DDE2 ~ /
+
+La rançon dans la rançon. Récit judiciaire intéressant  sur le ransomware chez Edenre
+d (Tickets Restaurants).
+
+https://dalloz-actualite.fr/flash/l-attaque-informatique-contre-edenred-en
+-cachait-une-autre…
+
+/ ~ 4AC5DDE2 ~ /
+
+Rien à voir avec cette pause-café... malheureusement toujours
+ dans l'actualité insécuritaire, l'Internet of Things (IoT) reste un champ en jachère dont certains 
+manquements sont toujours à combler par certains esprits inventifs : c'est le cas de ce récent détou
+rnement qui rend hors de contrôle cette machine à boissons connectée... qui se bloque à cause d'un r
+ansomware !  C'est un des chercheurs de l'équipe Avast qui, au 25 Septembre dernier, partage ce PoC 
+: l'exploit repose sur un système peu complexifié ou, du moins, qui, pour l'heure, n'a pas subit d'a
+pproches sécuritaires poussées. Comme rappelé en préambule du billet, une telle machine connectée re
+pose sur une connectivité de type Wi-Fi - en général - avec une application mobile qui sera jointée 
+au besoin pour paramétrer plusieurs aspects (lancement différé, personnalisation menu...). L'ensembl
+e est, ainsi, sous le joug d'un "protocole binaire simple avec peu de chiffrement, d'autorisation ou
+ d'authentification" et communique en réseau par le biais du port 2081, en TCP. A noter que si aucun
+e application n'est couplée avec l'appareil connecté, le Wi-Fi agrippé par défaut sera le premier ou
+vert : en public, notamment... Pour enfoncer le clou (puisque déjà, sans rien faire, l'ensemble s'av
+ère sécuritairement branlant), le chercheur a modifié avec succès le firmware (mise à jour) de la ma
+chine à boisson. Pour y parvenir, de simples recherches depuis Google ont permis de savoir sur quel 
+type de commande il fallait influer pour renverser cette vapeur et permettre un forçage de la mise à
+ jour. Cette dernière exploite une vulnérabilité d'un ancien firmware qui ne requiert, en complément
+, aucune action de la part de l'utilisateur pour amorcer le processus : "sur le firmware le plus réc
+ent, vous devez appuyer sur un bouton pour démarrer la mise à jour, mais ce n'est pas le cas avec le
+s anciennes versions !", est-il souligné. Après quelques recherches dans le système et les fichiers 
+(système) l'hypothèse d'un chiffrement nul se confirme via, notamment, un firmware qui est déployé o
+u inscrit en clair, directement sur la mémoire-flash de l'appareil IoT. Un démontage (physique) de l
+a machine, est effectué, au niveau de la carte principale. Outre le module ESP8266 (pour la partie W
+i-Fi), une puce ARM Cortex M0 est révélée : cela a permis de pouvoir orienter la méthode de piratage
+ pour, ici, détourner l'IDA (Interactive DisAssembler) et chargé le code malveillant ou des commande
+s assimilées. "à partir d'une chaîne, vous pouvez généralement déduire quelles fonctions utilisent l
+a chaîne et en fonction de cette référence, vous pouvez généralement découvrir ce que fait la foncti
+on. Cela permet également d'identifier en premier les fonctions les plus courantes et les plus référ
+encées. Plus précisément dans le cas de l'IoT, un bon indice pourrait également identifier les broch
+es d' I / O mappées en mémoire [...] Nous avons également découvert les variables globales qui stock
+ent l'état des boutons et les données reçues via Wi-Fi, ainsi que les routines qui contrôlent l'affi
+chage et tous les gadgets. Nous avons également trouvé la fonction d'allocation et de libération de 
+mémoire, de bip, de retard, etc. network exécute la commande. Cela nous a permis de créer une liste 
+de toutes les commandes à distance que la cafetière est capable d'exécuter". Plutôt que d'écraser l'
+ensemble du micro-logiciel (une technique tout à fait faisable mais qui peut s'avérer fastidieuse si
+ l'on manque de temps ou de patience pour tenter de décortiquer les entrailles de la micro-puce), la
+ modification a pu être opérée depuis la mise à jour Android (Java). Là encore, le chercheur soulign
+e le manque de chiffrement dans le code-firmware, avec des échanges-réseau, à ce niveau, en texte cl
+air, depuis une connexion Wi-Fi. De là, il ne reste plus qu'à intégrer la mise à jour modifiée (malv
+eillante) : ici, par le biais de Python verse l'uploader depuis le port 2081. Le cas du ransomware a
+ été choisit pour sa simplicité d'action (un blocage) plutôt qu'une autre tendance : le minage de cr
+ypto-monnaie, à la vue de la vitesse pauvre (8MHz) dont bénéficie la machine, hors adjonction de dis
+positif pour amplifier le signal, éventuellement.Au final, la commande permettant à la machine de se
+ connecter au réseau est détournée pour faire apparaître le ransomware, via un message avec un lien,
+ ce qui bloque toute possibilité d'obtenir un café. Bien évidemment, un cyber-attaquant peut tenter 
+sa chance avec un court-circuitage du réseau à distance (sans modifier le micro-code) ou du Wi-Fi dé
+dié. Enfin, par le biais de l'application sous Android, un changement de la mise à jour peut potenti
+ellement se faire via un certificat illégitime. Pour l'heure, aucun patch pour ce type de machine (l
+e vendeur a été contacté par Avast mais aucun réponse n'a été donnée...). Assignée CVE-2020-15501 de
+puis le 1er Juillet dernier, la faille concerne les machines à café connectée 2ième génération et qu
+i ne sont plus maintenues logiciellement par le fabricant... A veiller !  Source : Decoded Avast - 2
+5 Septembre 2020 - Ransomware : intégration depuis un appareil IoT (machine à boisson connectée).  S
+ignaler une erreur Raison: * Erreur(s) dans l'informationFaute(s) d'orthographe(s)   Votre nom: *   
+ Votre email: *    Détails: *   Envoyer votre message 
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque de ransomware sur 
+CMA-CGM http://dlvr.it/RhW9XH
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque de ransomware sur CMA-CGM
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Si, à 50 ans, tu es RSSI et que tu n'as pas eu ton ransomware, tu as raté ta vie. Enfin, si on en 
+croit la liste des entreprises victimes.
+
+/ ~ 4AC5DDE2 ~ /
+
+#IoT : quand une machine à #café est dét
+ournée via une attaque par ransomware ! (pause non-café...) ttps://blog.sosordi.net/2020/09/iot-quan
+d-une-machine-a-cafe-est-detournee-via-une-attaque-par-ransomware-pause-non-cafe.html #securite #chi
+ffrement #application #Android
+
+/ ~ 4AC5DDE2 ~ /
+
+ Un chercheur en sécurité d’Avast a installé un ra
+nsmware sur une machine à café afin de montrer que les objets connectés peuvent aussi être sujets au
+x virus informatiques.La domotique ou ce qu’on appelle communément l’internet des objets – IoT – a p
+ermis l’émergence de nombreux appareils connectés dont le but est avant tout de nous simplifier la v
+ie. Néanmoins, à l’heure où tous les objets commencent à se connecter à Internet, ils peuvent aussi 
+potentiellement devenir sujets aux virus informatiques… même dans le cas d’une simple machine à café
+. C’est la démonstration qu’en a fait Martin Hron, chercheur en sécurité d’Avast, avec une iKettle d
+e la marque Smarter, afin de mettre en garde les utilisateurs d’objets connectés des risques qu’ils 
+comportent.  Pour cela, le chercheur en sécurité a installé un ransomware déguisé en mise à jour log
+icielle sur une machine à café iKettle sans rencontrer la moindre embûche sur son chemin. Ce malware
+ a rendu la machine complètement détraquée : elle s’est alors mise à faire absolument n’importe quoi
+, sans aucun moyen pour en reprendre le contrôle ou l’arrêter si ce n’était la débrancher de sa pris
+e murale. Si c’était votre appareil, vous seriez alors bloqué avec une machine à café diabolique, sa
+ns aucun moyen de la faire revenir à ses esprits si ce n’est en acheter une nouvelle.      Comme le 
+note le chercheur, la machine à café utilisée au cours de cette démonstration était l’une des premiè
+res générations de la iKettle de Smarter, et la troisième version de la machine – actuellement en ve
+nte – semble dépourvue de ces vulnérabilités de sécurité. Néanmoins, une machine à café peut être ut
+ilisée bien longtemps avant d’être remplacée, et les premières générations de ces appareils sont enc
+ore très largement utilisées autour du monde. La démonstration pourrait néanmoins servir d’avertisse
+ment aux fabricants afin qu’ils intensifient la sécurité de leurs appareils connectés, d’autant plus
+ maintenant que la domotique commence à définitivement s’installer dans nos demeures.   Promo      1
+1 522 Commentaires     De'Longhi Magnifica S, Machine...   CAFE FRAÎCHEMENT MOULU : L'expresso broye
+ur moud votre café seulement au moment de la...SIMPLICITE D'UTILISATION : D'une simple touche, réali
+sez toutes vos boissons préférées...LARGE CHOIX DE RECETTES : Profitez de 2 recettes café (expresso,
+ lungo) en accès direct et...PERSONNALISATION : Personnalisez et enregistrez vos boissons selon vos 
+goûts (intensité,...    399,99 EUR −100,99 EUR 299,00 EUR   Vérifier le prix         Recevez les not
+ifications     Couper les notifications    
+
+/ ~ 4AC5DDE2 ~ /
+
+Une petite surprise se prépare pour d
+emain ! C'était une belle expérience ... Espérons que le résultat vous plaira !
+
+ #cybersecurite #pm
+e #tpe #industrie #seproteger #extorsion #ransomware #crypte #logiciel #virus #informatique #numeriq
+ue #tournage #interview
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transporteur CMA CGM torpillé par un ransomware ? http
+://dlvr.it/RhWcrW
+
+/ ~ 4AC5DDE2 ~ /
+
+#IoT : quand une machine à #café est détournée via une attaque 
+par ransomware ! (pause non-café...) https://blog.sosordi.net/2020/09/iot-quand-une-machine-a-cafe-e
+st-detournee-via-une-attaque-par-ransomware-pause-non-cafe.html… #securite #chiffrement #application
+ #Android
+
+/ ~ 4AC5DDE2 ~ /
+
+Cybercriminalité : les attaques au rançongiciel ne cessent d’augmenter 
+https://bit.ly/32V3RWW #cybersecurite #Ransomware #menace via @frenchweb
+
+/ ~ 4AC5DDE2 ~ /
+
+UnderNew
+s_fr: Attaque de ransomware sur CMA-CGM -
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Et si un matin la machine à café du bu
+reau ne voulait plus vous servir et demandait une rançon pour fonctionner ? Le scénario apocalyptiqu
+e pour les amateurs de caféine n’est pas du registre de la science-fiction. Un expert en cybersécuri
+té de chez Avast, Martin Hron, a montré le faible niveau de protection des objets connectés.
+En l’oc
+currence, il a jeté son dévolu sur une machine à café connectée dont il a éprouvé la sécurité. Dans 
+ses recherches partagées avec nos confrères d’Ars Technica, il a découvert plusieurs failles comme p
+ar exemple l’absence de chiffrement, de signature de code dans la réception des commande et de mises
+ à jour du firmware. Ce dernier point constitue la brèche la plus importante, car elle ouvre la voie
+ à différentes attaques.
+Une démonstration des risques pour les objets connectés
+En analysant la puc
+e utilisée par la cafetière connectée, Martin Hron a pu alors perturber les fonctions les plus impor
+tantes de la machine et demander une rançon pour mettre fin au dysfonctionnement. La seule façon d’a
+rrêter la machine était de la débrancher.
+L’objectif d’un tel test est de démontrer l’existence de m
+enaces sur l’Internet des objets. « Le risque sur les terminaux connectés n’est pas seulement d’y ac
+céder via un routeur faible ou une exposition sur Internet. Les dispositifs eux-mêmes constituent un
+e menace sans avoir besoin de passer par un routeur ». Dans le cas de la machine à café connectée, l
+’expert constate qu’elle n’est pas éligible pour recevoir des mises à jour de firmware. 
+
+/ ~ 4AC5DD
+E2 ~ /
+
+CMA CGM victime d’un ransomware https://ift.tt/2S7NW12
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à ca
+fé devient folle à cause d'un ransomware - Journal du geek https://journaldugeek.com/2020/09/28/mach
+ine-cafe-folle-ransomware/… via @GoogleNews
+
+/ ~ 4AC5DDE2 ~ /
+
+#CyberSecurity #Ransomware : CMA-CGM 
+victime de la piraterie de Ragnar Locker
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cau
+se d’un ransomware ...
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque de ransomware sur CMA-CGM: Après Gefco, CMA-CGM vi
+endrait donc allonger la liste…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+Informati
+on sécurité 12 : Menace Cyber #NotPetya : les enseignements tirés chez Maersk
+Le paysage de la menac
+e cyber a fondamentalement changé, avec un risque très réel d'être pris dans des activités parrainée
+s par des États-nations. Ce numéro de Information Sécurité vous livre la tendance en matière de cybe
+rsécurité, de la gestion des vulnérabilités à Toyota en passant par le Danemark
+Start Download
+
+
+
+
+
+
+
+Adresse e-mail professionnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail in
+diquée semble erronée.
+Cet e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépa
+ssé le nombre maximum de caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+
+J'accepte les conditions d'utilisation de TechTarget, ainsi que la politique de confidentialité et 
+le transfert de mes informations aux États-Unis pour traitement afin de me fournir les informations 
+pertinentes décrites dans notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous vou
+lez continuer.
+
+
+
+
+J'accepte que mes informations soient traitées par TechTarget et ses partenaires 
+afin de communiquer avec moi par le biais du téléphone ou du courrier électronique et ce à propos d’
+informations pertinentes dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+V
+euillez cocher la case si vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transpo
+rteur CMA CGM torpillé par un ransomware ? (http://lemondeinformatique.fr)
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Infog
+raphie Surmonter les cyber-risques du télétravail
+La situation actuelle de Covid-19 a contraint les 
+entreprises à commencer à travailler à distance, souvent sans avoir le temps de se préparer pleineme
+nt. Les travailleurs à distance posent un grand risque de cybersécurité car ils augmentent le nombre
+ de points de terminaison non protégés. Leur comportement négligent crée des vulnérabilités qui peuv
+ent être exploitées par des acteurs malveillants. Ces vulnérabilités provoquent une augmentation des
+ menaces de cybersécurité telles que les attaques de logiciels malveillants (malware), d'hameçonnage
+ (phishing) et de rançongiciels (ransomware). Découvrez dans cette infographie comment sécuriser le 
+travail à distance pour Windows Active Directory.
+Télécharger en JPG 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque de
+ ransomware sur CMA-CGM http://dlvr.it/RhW9HT
+
+/ ~ 4AC5DDE2 ~ /
+
+ à lire  : Ce compte-rendu révèle c
+ertains détails croustillants ! On voit également que la Justice a très nettement augmenté son nivea
+u technique #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Décidément, le monde maritime commence à payer un lourd 
+tribut sur l’autel de la cybersécurité. Dans la matinée de ce 28 septembre, deux communiqués de la C
+MA CGM montrent que la compagnie maritime a été victime d’une cyberattaque. En début de matinée, il 
+est indiqué que « L'accès externe aux applications informatiques de CMA CGM est actuellement indispo
+nible », sans précision supplémentaire. Le second communiqué est plus explicite : « Le Groupe CMA CG
+M (hors CEVA Logistics) fait l’objet d’une cyberattaque sur des serveurs périphériques. Dès l’attaqu
+e détectée, les accès externes aux applications ont été interrompus pour éviter la propagation du lo
+giciel malveillant. » Plusieurs sites ont été impactés, CMA CGM, APL (basée à Singapour), CNC (pour 
+le commerce intra-Asie) et ANL (Nouvelle-Zélande). 
+Le groupe souligne que « les équipes sont pleine
+ment mobilisées et l’accès à nos systèmes d’informations reprend progressivement ». Il ajoute qu’« u
+ne enquête est en cours, menée par nos experts internes et par des experts indépendants ».
+Ragnar Lo
+cker à l’origine de la cyberattaque ?
+Si le transporteur maritime ne donne pas d’indications sur l’o
+rigine de la cyberattaque, notre confrère Clichen Shen de Lloyd’s List rapporte que le gang derrière
+ le ransomware Ragnar Locker serait à la manœuvre. Il aurait pris contact avec le groupe français af
+in de payer la rançon pour obtenir un outil de déchiffrement. Un spécialiste du fret maritime, Lars 
+Jensen, a publié sur son compte twitter une capture d’écran montrant la demande de rançon à CMA CGM.
+ On voit parfaitement la signature « by Ragnar Locker » et le gang indique le modus operandi pour ré
+cupérer ses fichiers en proposant d’en déchiffrer deux gratuitement. Il laisse deux jours pour être 
+contacté via Live Chat. CMA CGM prévoit une nouvelle communication en fin de journée. 
+
+Capture d'éc
+ran partagée par Lars Jensen sur son compte Linkedin. (Crédit Photo: Lars Jensen)
+Le secteur du mari
+time et de la logistique a particulièrement été touché par des cyberattaques ces dernières années. O
+n se souvient de Maersk avec l’affaire NotPetya, qui lui a coûté plus de 300 millions de dollars. Ré
+cemment, c’est le croisiériste Carnival qui au mois d’août a annoncé avoir été victime d’un ransomwa
+re. 
+
+/ ~ 4AC5DDE2 ~ /
+
+#Sécurité : L’armateur CMA CGM victime d’une attaque au ransomware, probable
+ment signée RagnarLocker https://curation-actu.blogspot.com/2020/09/securite-larmateur-cma-cgm-victi
+me-dune.html…
+
+/ ~ 4AC5DDE2 ~ /
+
+CMA CGM victime d’un ransomware https://linformaticien.com/actualit
+es/id/55206/cma-cgm-victime-d-un-ransomware.aspx…
+
+/ ~ 4AC5DDE2 ~ /
+
+Attaque de ransomware sur CMA-C
+GM http://dlvr.it/RhW3FS
+
+/ ~ 4AC5DDE2 ~ /
+
+
+La domotique ou ce qu’on appelle communément l’internet
+ des objets – IoT – a permis l’émergence de nombreux appareils connectés dont le but est avant tout 
+de nous simplifier la vie. Néanmoins, à l’heure où tous les objets commencent à se connecter à Inter
+net, ils peuvent aussi potentiellement devenir sujets aux virus informatiques… même dans le cas d’un
+e simple machine à café. C’est la démonstration qu’en a fait Martin Hron, chercheur en sécurité d’Av
+ast, avec une iKettle de la marque Smarter, afin de mettre en garde les utilisateurs d’objets connec
+tés des risques qu’ils comportent.
+Pour cela, le chercheur en sécurité a installé un ransomware dégu
+isé en mise à jour logicielle sur une machine à café iKettle sans rencontrer la moindre embûche sur 
+son chemin. Ce malware a rendu la machine complètement détraquée : elle s’est alors mise à faire abs
+olument n’importe quoi, sans aucun moyen pour en reprendre le contrôle ou l’arrêter si ce n’était la
+ débrancher de sa prise murale. Si c’était votre appareil, vous seriez alors bloqué avec une machine
+ à café diabolique, sans aucun moyen de la faire revenir à ses esprits si ce n’est en acheter une no
+uvelle.
+
+Comme le note le chercheur, la machine à café utilisée au cours de cette démonstration étai
+t l’une des premières générations de la iKettle de Smarter, et la troisième version de la machine – 
+actuellement en vente – semble dépourvue de ces vulnérabilités de sécurité. Néanmoins, une machine à
+ café peut être utilisée bien longtemps avant d’être remplacée, et les premières générations de ces 
+appareils sont encore très largement utilisées autour du monde. La démonstration pourrait néanmoins 
+servir d’avertissement aux fabricants afin qu’ils intensifient la sécurité de leurs appareils connec
+tés, d’autant plus maintenant que la domotique commence à définitivement s’installer dans nos demeur
+es.
+
+
+Promo
+
+
+
+
+
+
+11 522 Commentaires
+
+
+
+
+            De'Longhi Magnifica S, Machine...        
+
+CAF
+E FRAÎCHEMENT MOULU : L'expresso broyeur moud votre café seulement au moment de la...SIMPLICITE D'UT
+ILISATION : D'une simple touche, réalisez toutes vos boissons préférées...LARGE CHOIX DE RECETTES : 
+Profitez de 2 recettes café (expresso, lungo) en accès direct et...PERSONNALISATION : Personnalisez 
+et enregistrez vos boissons selon vos goûts (intensité,... 
+
+
+
+399,99 EUR
+−100,99 EUR
+299,00 EUR
+ 
+V
+érifier le prix
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cause d’un ransomware ht
+tp://tinyurl.com/yynfnlrq #Techno #Tech
+
+/ ~ 4AC5DDE2 ~ /
+
+Le groupe @cmacgm serait victime du #Rans
+omware #RagnarLocker. La compagnie aurait été amenée à couper les accès externes à ses applications 
+IT.
+
+Parmi les victimes connues de ce ransomware, Carlson Wagonlit Travel, fin juillet, qui aurait v
+ersé 4,5 M$ aux cybercriminels.
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cause d’un r
+ansomware ... | @scoopit
+
+/ ~ 4AC5DDE2 ~ /
+
+Les hopitaux UHS aux USA (Fortune500, 11bn $ de CA) sera
+ient touchés par un ransomware dans plusieurs pays en ce moment. Désactivation des antivirus, forte 
+écriture disque, logoff puis arrêt des postes. Ça reste à confirmer.
+
+/ ~ 4AC5DDE2 ~ /
+
+#CMACGM vict
+ime du #ransomware #RagnarLocker..
+Le transporteur a dû couper les accès externes à ses applications
+ IT, évoquant un problème avec son infrastructure interne. En France, la téléphonie est affectée.
+vi
+a @ValeryMarchive
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par
+
+
+Valéry Marchive,
+Rédacte
+ur en chef
+
+
+
+	Publié le: 28 sept. 2020
+
+
+ 
+La nouvelle est tombée ce lundi 28 septembre au matin, s
+ur le fil Twitter du groupe : « Les accès externes aux applications IT de CMA CGM sont actuellement 
+indisponibles. Les équipes IT travaillent à résoudre l’incident pour assurer la continuité de l’acti
+vité ». Selon nos confrères de Splash, le transporteur avait préalablement commencé à informer ses c
+lients en Australie, et sa messagerie électronique serait opérationnelle. En France, la téléphonie n
+e l’était pas ce matin, l’accueil se disant dans l’impossibilité de transférer les appels.
+Suite de 
+l'article ci-dessous
+
+
+
+
+
+Télécharger gratuitement ce guide
+
+
+
+
+7 attaques informatiques à la loupe
+
+Les attaques informatiques ne cessent d'impressioner et beaucoup d'entreprises se sont retrouvées le
+s bras ballants face à ce polymorphisme informatique. 
+Start Download
+
+
+
+
+
+
+Adresse e-mail professio
+nnelle
+
+Vous avez oublié d'indiquer une adresse e-mail.
+L'adresse e-mail indiquée semble erronée.
+Ce
+t e-mail est déjà enregistré. Veuillez vous identifier  ici.
+Vous avez dépassé le nombre maximum de 
+caractères autorisé.
+Merci d’entrer une adresse e-mail professionnelle.
+
+
+
+
+J'accepte les conditions
+ d'utilisation de TechTarget, ainsi que la politique de confidentialité et le transfert de mes infor
+mations aux États-Unis pour traitement afin de me fournir les informations pertinentes décrites dans
+ notre Politique de confidentialité.
+
+
+
+Veuillez cocher la case si vous voulez continuer.
+
+
+
+
+J'acce
+pte que mes informations soient traitées par TechTarget et ses partenaires afin de communiquer avec 
+moi par le biais du téléphone ou du courrier électronique et ce à propos d’informations pertinentes 
+dans mon contexte professionnel. Je peux me désinscrire à tout moment.
+
+
+
+Veuillez cocher la case si
+ vous voulez continuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selon Chichen Shen, de Lloyd’s List, « plusi
+eurs bureaux en Chine, au moins, sont touchés » par ce qui est présenté comme un « problème d’infras
+tructure IT interne ». Nos sources confirment l’impact sur l’environnement IT local du groupe, mais 
+s’avèrent incapables, pour le moment, de fournir des indications sur la situation des infrastructure
+s IT en France.
+CMA CGM n’a pas fourni plus de détails sur la nature de l’incident qui l’affecte. Ma
+is selon notre confrère Chichen Shen, il s’agit d’une attaque de ransomware, et plus précisément de 
+Ragnar Locker.
+
+
+
+
+
+
+Les opérateurs de ce rançongiciel ne comptent pas parmi ceux qui ont le plus fa
+it parler d’eux cette année. On ne recense, à ce jour, que 7 cyberattaques connues ayant conduit à l
+a détonation de ce logiciel malveillant, à travers le monde, depuis le début de l’année.
+Parmi les v
+ictimes connues de ce ransomware, on compte en particulier Carlson WagonLit Travel, frappé fin juill
+et. Ce dernier apparaît avoir versé une rançon de 4,5 M$ aux cybertruands, selon les détails d’une n
+égociation qui a pu être suivie par plusieurs observateurs.
+À ce jour, depuis le début du mois de se
+ptembre, nous comptons plus de 240 attaques informatiques connues avec les ransomwares dans le monde
+, contre 121 au mois d’août. Nous avons actualisé la frise chronologique ci-dessous, pour les victim
+es françaises.
+
+
+
+
+
+
+
+
+			Sur le même sujet
+
+
+Cyber-adversaires et course contre la montre
+–CrowdStr
+ike
+
+
+Rapport Thales 2020 sur les menaces informatiques
+–Thales
+
+
+
+
+
+
+Pour approfondir sur Menaces i
+nformatiques
+
+
+
+Ransomware : l’illusion d’un système d’information assaini
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+Incident IT chez Honda : le ransomware Ekans suspecté
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Ransomware : 
+quand les assaillants atteignent leur but en un clin d’œil
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+Le ransomwar
+e qu’Essilor n’a vu que trop tard
+
+
+
+
+Par: Valéry Marchive
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Et également des
+ ransomwares (et groupes associés) qui apparaissent (#Egregor et #MountLocker). Pourquoi ? Car certa
+ines / beaucoup victimes paient la rançon et évidemment ça attire de nouveaux "entrepreneurs" du ran
+somware...
+
+/ ~ 4AC5DDE2 ~ /
+
+Cette machine à café devient folle à cause d’un #ransomware.
+Un cherch
+eur en sécurité d’Avast a installé un ransmware sur une machine à café afin de montrer que les objet
+s connectés peuvent aussi être sujets aux virus informatiques via @JournalDuGeek
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Bonne semaine avec @MaltrakN et @keepnetlabs, #Ransomware 
+
+/ ~ 4AC5DDE2 ~ /
+
+L’armateur marseillais
+ CMA CGM fait l’objet d’une cyberattaque depuis lundi 28 septembre. Dans la matinée, la compagnie a 
+envoyé un communiqué indiquant que « l’accès externe aux applications informatiques de CMA CGM est a
+ctuellement indisponible » sans plus d’explications. L’hypothèse d’une intrusion malveillante des se
+rveurs de l’armateur est finalement confirmée dans la journée dans un autre communiqué : « Le Groupe
+ CMA CGM (hors CEVA Logistics) fait l’objet d’une cyberattaque sur des serveurs périphériques. Dès l
+’attaque détectée, les accès externes aux applications ont été interrompus pour éviter la propagatio
+n du logiciel malveillant », annonce l’entreprise.Les pirates Ragnar Locker à la manoeuvreSi le grou
+pe ne donne pas pour l’heure plus d’indication sur l’origine de l’attaque, elle émanerait selon le s
+ite Lloyd’s List du rançongiciel Ragnar Locker. Une information confirmée par le spécialiste du fret
+ maritime Lars Jensen qui a publié sur son compte Linkedin une capture d’écran de la demande de ranç
+on. Dans ce message, les pirates invitent la compagnie à les contacter par le chat dans les deux jou
+rs afin de verser la rançon sans en préciser le montant afin de récupérer la clé de déchiffrement. N
+os confrères du MagIT expliquent que les opérateurs de ce logiciel malveillant ont déjà frappé en ju
+illet dernier le spécialiste américain des voyages d’affaires Carlson Wagonlit Travel qui aurait ver
+sé une rançon de 4,5 millions de dollars aux malfaiteurs.Dans son communiqué, CMA CGM indique qu’« u
+ne enquête est en cours, menée par nos experts internes et par des experts indépendants ». Une nouve
+lle communication est attendue pour la fin de journée.Liens utiles :> CMA CGM met un pied dans l’aér
+ien en prenant 30% de Dubreuil Aero> CMA CGM contracte un prêt garanti par l’Etat d’un milliard d’eu
+ros
+
+/ ~ 4AC5DDE2 ~ /
+
+Le #Ransomware #ryuk aurait infecté le réseau des hôpitaux UHS Inc (400 sites
+, 3.5M de patients/an, 90.000 salariés aux US et UK). Les urgences sont reroutées, les équipes ont o
+rdre laisser les PCs éteints. En plein COVID-19...
+
+/ ~ 4AC5DDE2 ~ /
+
+Aujourd'hui encore de grosses 
+actualités côté #ransomware. Deux nouvelles victimes : le transporteur maritime CMA CGN et Universal
+ Health Services qui opère 400 établissements de santé aux Etats-Unis et en Grande-Bretagne (attaqué
+es respectivement par #RagnarLocker et #Ryuk).
+
+/ ~ 4AC5DDE2 ~ /
+
+[SECU] Attaque de ransomware sur C
+MA-CGM
+
+/ ~ 4AC5DDE2 ~ /
+
+Les attaques de #ransomware ont doublé pour le mois de septembre par rappo
+rt au mois d'août. Découvrez comment sécuriser le #télétravail pour éviter les #cyberattaques.
+
+/ ~ 
+4AC5DDE2 ~ /
+
+La compagnie française d'affrètement maritime a été victime d'une cyberattaque. Selon 
+différentes sources, le ransomware Ragnar Locker serait à la manoeuvre.
+https://buff.ly/2HF0T0v
+
+/ ~
+ 4AC5DDE2 ~ /
+
+De @ValeryMarchive : les 'attaques de #ransomware connues pour le mois de septembre 2
+020 a atteint le double de celui du mois d'août. De quoi conforter l'impression d'explosion de la me
+nace déjà bien présente il y a quelques semaines.
+
+/ ~ 4AC5DDE2 ~ /
+
+Le transporteur CMA CGM torpill
+é par un ransomware ?
+
+#Ransomware #CMACGM #Hacking #hack

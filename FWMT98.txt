@@ -1,0 +1,34 @@
+445 Portuna yapılan ransomware saldırıları aynı dolar gibi yükseliyor,
+
+/ ~ 4AC5DDE2 ~ /
+
+Hacker sal
+dırılarından ne kadar iyi korunduğunuzu biliyor musunuz?
+
+#ceh #dlp #penetrationtest #sibergüvenlik 
+#oscp #pentest #kvkk #siem #bilişim #hacker #teknoloji #sızmatesti #bilgigüvenliği #pcidss #itmanage
+r #eticaret #ransomware #soc #phishing #ctf
+
+/ ~ 4AC5DDE2 ~ /
+
+SMB üzerinden ransomware yedirmeye ça
+lışan IP adresleri
+
+193.36.61.136
+78.188.230.33
+78.182.124.39
+85.105.87.39
+176.43.128.186
+
+/ ~ 4AC5D
+DE2 ~ /
+
+SMB veya samba ağ üzerinden dosya paylaşmayı/erişmeyi (ve birkaç şeyi daha) sağlayan protok
+ol. Ransomware ise bilgisayardaki verileri şifreleyip bitcoin isteyen zararlı yazılım. Aradaki bağla
+ntıyı da kurabilirsin bence :)
+
+/ ~ 4AC5DDE2 ~ /
+
+Tesorion firması tarafından yayımlanan "şifre çözü
+cü" sayesinde, ThunderX (ransomware) programının şifrelediği .tx_locked dosyaları ücretsiz bir şekil
+de çözülebiliyor

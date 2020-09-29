@@ -1,0 +1,159 @@
+A compromised union can't deliver.
+
+/ ~ 4AC5DDE2 ~ /
+
+All compromised
+
+/ ~ 4AC5DDE2 ~ /
+
+Se il #domi
+nio della tua azienda è stato compromesso in un #databreach pubblico, una verifica sul #darkweb può 
+aiutarti a identificare se le tue informazioni sensibili sono vulnerabili 
+
+ https://wgrd.tech/304Uh
+1A
+
+/ ~ 4AC5DDE2 ~ /
+
+#DataCenter #databreach 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+Il rapporto suggerisce che 
+il costo totale medio di un data breach è aumentato in 12 dei 16 paesi, guidati dalla Scandinavia co
+n il maggiore aumento.
+Un rapporto sulla violazione dei dati (data breach) pubblicato da IBM Securit
+y ha rivelato che il costo totale medio di una violazione dei dati è sceso a 3,86 milioni di dollari
+ quest’anno dai 3,92 milioni di dollari nel 2019.
+Di tutti i 17 paesi e regioni studiati per il rapp
+orto, gli Stati Uniti hanno registrato i costi di violazione dei dati più elevati al mondo con una m
+edia di 8,64 milioni di dollari, rispetto agli 8,19 milioni di dollari dello scorso anno. È seguito 
+dal Medio Oriente a $ 6,52 milioni, in aumento da $ 5,97 milioni.
+In tutto il mondo, il costo della 
+violazione sta aumentando. La ricerca condotta dal Ponemon Institute ha mostrato che il costo totale
+ medio di un data breach è aumentato in 12 dei 16 paesi, guidati dai paesi scandinavi con il maggior
+e aumento di casi.
+Industrie colpite
+Tra i settori, l’assistenza sanitaria ha continuato a sostenere
+ i costi medi di violazione più elevati per il decimo anno consecutivo: 7,13 milioni di dollari, in 
+aumento del 10,5% rispetto allo studio del 2019. È seguita dall’industria energetica con una media d
+i 6,39 milioni di dollari. Oltre alla sanità e all’energia, solo il settore della vendita al dettagl
+io ha registrato un aumento del 9,2% del costo totale di una violazione. Il settore pubblico, l’istr
+uzione e le industrie dei media hanno registrato un calo.
+
+Il rapporto ha sottolineato che le indust
+rie con restrizioni e normative più elevate hanno avuto più casi di violazione dei dati, suggerendo 
+che un danno maggiore porterebbe a maggiori perdite per l’azienda.
+Il rapporto ha rilevato che le az
+iende con sistemi di automazione della sicurezza erano più attrezzate per gestire le violazioni dei 
+dati. Il costo totale medio delle aziende senza automazione della sicurezza è stato di 6,03 milioni 
+di dollari, più del doppio del costo medio di una violazione dei dati di 2,45 milioni di dollari per
+ le aziende che avevano implementato completamente l’automazione della sicurezza.
+
+Le aziende che ut
+ilizzano piattaforme di intelligenza artificiale e soluzioni automatizzate per la gestione delle vio
+lazioni è passata dal 15% nel 2018 al 21% nello studio del 2020. Ciò ha avuto un impatto diretto sul
+ costo medio di una violazione dei dati. L’automazione ha aiutato le aziende a ridurre il ciclo di v
+ita di una violazione di 74 giorni da 308 a 234 giorni rispetto alle aziende senza implementazione d
+i alcuni sistema automatizzato per la sicurezza.
+Tuttavia, il tempo impiegato dalle organizzazioni p
+er identificare e contenere le violazioni dei dati non è cambiato molto. L’anno scorso, le organizza
+zioni hanno impiegato 279 giorni per identificare e contenere una violazione; considerando che, seco
+ndo il rapporto 2020, in media un’azienda ha impiegato 207 giorni per identificare e 73 giorni per c
+ontenere una violazione. All’interno delle industrie, l’assistenza sanitaria ha riportato il ciclo d
+i vita più lungo con 329 giorni e il settore finanziario ha impiegato meno tempo con 233 giorni.
+Sec
+ondo lo studio, quattro organizzazioni violate su cinque hanno affermato che le informazioni di iden
+tificazione personale (PII) dei clienti erano il tipo di record più compromesso. Mentre il costo med
+io per record perso o rubato era di $ 146 per tutte le violazioni dei dati, le PII costano alle azie
+nde $ 150 per record compromesso.
+
+Poiché il COVID ha imposto una maggiore digitalizzazione, le orga
+nizzazioni dipendono più che mai dall’integrità e dalla disponibilità dei servizi IT. Ciò si riflett
+e anche nel numero di aziende delle organizzazioni che hanno rappresentato quasi il 40% del costo to
+tale medio di una violazione dei dati, aumentando da 1,42 milioni di dollari nello studio del 2019 a
+ 1,52 milioni di dollari nello studio del 2020. Comprende un aumento del turnover dei clienti, una p
+erdita di entrate a causa dei tempi di inattività del sistema e l’aumento dei costi di acquisizione 
+di nuove attività a causa della reputazione ridotta.
+Tipi di data breaches
+Il rapporto ha anche rile
+vato che gli attacchi dannosi sono la causa principale delle violazioni dei dati, con il 52% seguito
+ da errori umani o problemi di sistema. Le credenziali rubate o compromesse sono la causa più costos
+a dei breaches. Quasi il 20% delle aziende che hanno subito una violazione sono state violate utiliz
+zando credenziali rubate o compromesse.
+Mentre la maggior parte degli attacchi sono stati effettuati
+ da hacker che cercavano di estorcere denaro, il danno finanziario degli attacchi da parte degli sta
+ti  era maggiore. Il 53% delle violazioni nello studio del 2020 sono state effettuate da criminali i
+nformatici motivati ​​finanziariamente, rispetto al 13% da parte di attori di parte o statali. Tutta
+via, le presunte violazioni “sponsorizzate dallo stato” costano in media 4,43 milioni di dollari, ri
+spetto ai 4,23 milioni di dollari delle violazioni motivate finanziariamente.
+Il rapporto tiene cont
+o dei dati da agosto 2019 ad aprile 2020, che danno anche una piccola idea dell’impatto sul COVID.
+P
+oiché la maggior parte dei dipendenti lavora da casa a causa della pandemia, una maggiore domanda di
+ videoconferenze, applicazioni cloud, accesso VPN e risorse di rete pone nuove sfide al reparto IT. 
+L’accesso al lavoro remoto aumenta la probabilità della loro esposizione a minacce e violazioni dell
+a sicurezza.
+Lo studio ha rivelato che il 76% delle organizzazioni ha affermato che il lavoro da cas
+a renderebbe molto più difficile rispondere alle violazione dei dati.
+Delle organizzazioni che hanno
+ richiesto il lavoro da remoto a seguito di COVID-19, il 70% crede che il lavoro remoto aumenta il c
+osto di una violazione dei dati. Mentre il 76% ha affermato che aumenta il tempo per identificare e 
+contenere una potenziale violazione dei dati.
+È stato rilevato che la disponibilità di una forza lav
+oro remota aumenta il costo medio totale di una violazione dei dati di 3,86 milioni di dollari
+
+
+
+Cy
+berTeam
+
+28 Settembre 2020
+ in Cyber Security, Smartworking
+
+
+
+
+
+
+
+Twitter
+Facebook
+LinkedIn
+Google 
+Plus
+StumbleUpon
+
+
+
+												28 Settembre 2020																							
+
+
+Previous post
+
+
+
+
+Commen
+ts are closed.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+He’s compromised @FrankFigliuzzi1 @NicolleDWallace
+
+/ ~ 4AC5DDE2 
+~ /
+
+Quanto costa un #databreach ? Ecco i dati aggiornati !
+
+/ ~ 4AC5DDE2 ~ /
+
+i dunno lul

@@ -1,0 +1,77 @@
+https://twitter.com/gabsmashh/status/1310559962008092674…
+
+Wygląda na ransomware, które uderzyło jed
+nocześnie w kilka placówek, w różnych stanach :(
+
+/ ~ 4AC5DDE2 ~ /
+
+Jedna z największych spółek w US
+A - sieć szpitali UHS (90 000 pracowników, 12 miliardów USD przychodów rocznie) przeżywa właśnie zma
+sowany atak ransomware:
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Chodzi o sieć UHS, która zatrudnia 90 000 osób i posiada
+ 400 placówek (sumarycznie w USA oraz UK); roczne przychody sieci to mniej więcej 12 miliardów USD.
+
+Dzisiaj sieć wydała takie oświadczenie, sprowadzające się do stwierdzenia:
+sieć IT w placówkach nasz
+ej spółki nie działa z powodu „problemu bezpieczeństwa”. Podpisano: Jane Crawford, szef PR-u, UHSCom
+ms@gmail.com
+Z powyższego widzimy, że prawdopodobnie nie działają również firmowe e-maile. Oświadcze
+nie w oryginale:
+The IT Network across Universal Health Services (UHS) facilities is currently offli
+ne, due to an IT security issue.
+We implement extensive IT security protocols and are working dilige
+ntly with our IT security partners to restore IT operations as quickly as possible. In the meantime,
+ our facilities are using their established back-up processes including offline documentation method
+s. Patient care continues to be delivered safely and effectively.
+No patient or employee data appear
+s to have been accessed, copied or misused.
+Tymczasem pracownicy donoszą o cyberataku na część całej
+ sieci szpitali (USA). Jednym z głównych materiałów źródłowych wydaje się być obecnie ten wątek na R
+eddicie (gdzie dodatkowe pytania zadają np. reporterzy Reutersa). Pozwólcie, że zacytuję kilka wypow
+iedzi – jednak czytajcie to z zastrzeżeniem, że nie są to oficjalne, zweryfikowane komentarze:
+Praco
+wałem w jednym ze szpitali w południowo wschodnich Stanach i w niedzielę nasze systemy zaczęły się w
+yłączać. Pracowałem na komputerze kiedy to wszystko zaczęło się dziać. Było to nieco surrealistyczne
+ i zaczęło się propagować po sieci. Kiedy atak się rozpoczął, programy antywirusowe zostały wyłączon
+e, a twarde dyski zaczęły ostro pracować. Po około minucie komputery zaczęły się wyłączać. Przy prób
+ie włączania, automatycznie się wyłączały.
+[I have worked at a UHS facility in the SE US for over 7y
+rs and on Sunday morning at approx 2AM systems in our ED just began shutting down. I was sitting at 
+my computer charting when all of this started. It was surreal and definitely seemed to propagate ove
+r the network. (…). When the attack happened multiple antivirus programs were disabled by the attack
+ and hard drives just lit up with activity. After 1min or so of this the computers logged out and sh
+utdown. When you try to power back on the computers they automatically just shutdown.]
+Pracuję w szp
+italu w Tucson i nasze zabawki nie działają. Nawet nie pozwalają nam włączyć komputerów.
+[I work at 
+a UHS facility in Tucson and our shit is definitely down. They won’t even let us turn the computers 
+on for going on over 24 hours]
+W Georgii systemy nie działają. Musimy wszystko zapisywać ręcznie. Ni
+e możemy też włączać komputerów.
+[Uhs psych Georgia we’re definitely down. We are having to handwrit
+e everything! We’re not allowed to turn computers on either.]
+Co się wydarzyło? Dużo źródeł wskazuje
+ na ransomware Ryuk. Jednocześnie część szpitali działa bez problemów:
+Sporo szpitali nie potwierdzi
+ło w rozmowie telefonicznej problemów, więc akcja nie objęła całej sieci. Tak czy siak wygląda to na
+ duży atak, który uderzył głównie w szpitale ratunkowe [emergency hospitals] i zajmujące się cięższy
+mi przypadkami [acute care]:
+
+Several hospitals and care utilities I called today denied having any 
+issues, so this didn't impact their entire network of hospitals.
+Nonetheless, it's a pretty big atta
+ck and appears to have hit its acute care and emergency hospitals primarily
+— Catalin Cimpanu (@camp
+uscodi) September 28, 2020
+
+–ms
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Atak ransomware na jedną z największych sieci sz
+pitalu w USA i UK.

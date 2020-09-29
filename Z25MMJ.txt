@@ -1,0 +1,946 @@
+
+Há alguns anos, empresas de segurança já alertam que dispositivos parte da Internet das Coisas (IoT
+), como sensores, câmeras e aparelhos simples de função única para uso doméstico não são nada confiá
+veis em termos de segurança. Além de serem uma porta de entrada para redes caseiras, eles podem ser 
+sequestrados para a aplicação de diferentes golpes e ataques. Mas até que ponto esse tipo de vulnera
+bilidade pode ser explorado?
+O especialista em segurança Martin Hron, da Avast, conseguiu invadir a 
+própria cafeteira inteligente e instalar nela um ransomware. Ou seja, o dispositivo ficou totalmente
+ inutilizado e só seria "devolvido" ao dono mediante pagamento de resgate — nos mesmos moldes do Wan
+naCry, que preocupou o mundo em 2017.
+O teste foi totalmente controlado e seria difícil reproduzir a
+s mesmas condições remotamente, mas a ideia era mostrar como esses aparelhos são vulneráveis. A iKet
+tle 3, usada no experimento, foi lançada em 2018 e não traz qualquer mecanismo de proteção na conexã
+o Wi-Fi, com atualizações sendo enviadas do celular para o dispositivo sem criptografia ou confirmaç
+ão. Foi por meio desse caminho que Hron conseguiu enviar o malware ao produto.
+
+Como mostra o vídeo 
+acima, publicado pelo site Arstechnica, a cafeteira inteligente passou a exibir uma mensagem de resg
+ate com um enereço, além de uma ilustração de um emoji de diabo feita usando a pequena tela do apare
+lho. Ela não respondia aos comandos de preparo e operou sozinha, piscando luzes, despejando água e a
+tivando o moedor de grãos mesmo sem qualquer conteúdo despejado.
+A invasão promovida pelo pesquisado
+r não é tão fácil de ser feita, já que envolve ainda a criação do firmware falso com base em engenha
+ria reversa e conhecimento técnico avançado dos componentes da cafeteira. Porém, o sucesso indica a 
+falta de cuidados em dispositivos IoT — um problema que já vem de anos e não parece ter evoluído o s
+uficiente.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+   Vírus de resgate (ou "ransomware") são pragas digitais que embaral
+ham os dados dos computadores que contaminam. Com os dados corrompidos, os computadores deixam de fu
+ncionar corretamente.     Os responsáveis pelo vírus então cobram um valor em dinheiro para oferecer
+ uma ferramenta capaz de restaurar os arquivos, ou seja, o "resgate".    Saiba mais: Paciente morre 
+após hospital que sofria ataque cibernético suspender atendimento na Alemanha    A Luxottica, vítima
+ deste ataque, é dona da Ray-Ban e fabrica armações em nome de muitas marcas, como Oakley, Emporio A
+rmani, Prada, Polo Ralph Lauren e Chanel.     No Brasil – que não foi afetado pelo ataque, segundo a
+ empresa –, a Luxottica também atua no varejo com as Óticas Carol.     Os primeiros problemas foram 
+confirmados à imprensa italiana na última segunda-feira (21) por fontes ligadas a sindicatos.     Se
+gundo essas informações, funcionários voltaram para casa por conta da indisponibilidade dos sistemas
+. A Luxottica diz ter 80 mil funcionários no mundo todo.     A Luxottica não publicou nenhum comunic
+ado sobre o ocorrido, mas confirmou o ataque ao blog.         A empresa comunicou que as atividades 
+já foram retomadas e que 10% dos servidores da empresa foram afetados e recuperados, enquanto outros
+ 14% estão em análise. A maior parte dos sistemas, portanto, não teria sido comprometida.     Segund
+o a companhia, o ataque ocorreu na noite do dia 19 de setembro. O site "BleepingComputer" afirmou qu
+e um funcionário da companhia relatou que o ataque teve efeitos em escritórios no mundo todo. Ao blo
+g, a empresa só confirmou suspensões parciais e temporárias na China e na Itália.     Em ataques rec
+entes, os responsáveis por vírus de resgate têm ameaçado divulgar informações capturadas dos servido
+res contaminados. Até o momento, nenhum indício dessas ameaças contra a Luxottica apareceu nos sites
+ mantidos pelos criminosos.     Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@glo
+bomail.com    VÍDEOS: Aprenda dicas sobre segurança digital        9 vídeos           
+
+/ ~ 4AC5DDE2
+ ~ /
+
+[Arquivo do Blog] SegInfocast 41 – Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+o keygen é para ativar o clip
+ e ransomware é vírus que vem escondido com torrent quando vc n toma cuidado
+
+/ ~ 4AC5DDE2 ~ /
+
+#Lux
+ottica, maior fabricante de óculos do mundo e dona da #RayBan, sofre ataque de vírus de resgate http
+s://buff.ly/3mXfZP2 #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Guia do NIST sobre como recuperar  arquivos perdi
+dos por ransomware e por outros ataques de integridade de dados 
+
+#cibersegurança #ransomware #cript
+ografia @NIST
+https://cryptoid.com.br/identidade-digital-destaques/guia-do-nist-sobre-como-recuperar
+-arquivos-perdidos-por-ransomware-e-por-outros-ataques-de-integridade-de-dados/… via @portalcryptoid
+
+
+/ ~ 4AC5DDE2 ~ /
+
+[Recomendado]REvil ransomware crew dangles $1,000,000 cybercrime carrot http://z
+pr.io/Hmmgz #seguridadsi #ciberseguridad
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ransomware ha cifrado mis datos. ¿Qué
+ puedo hacer? -
+
+/ ~ 4AC5DDE2 ~ /
+
+Suspeitas do #Facebook espionando pela câmera frontal, #ransomwar
+e que causou uma morte, golpes já surgindo com o #PIX e mais! Ouça o #CyberSegNews dessa semana e ve
+ja essas e outras notícias comentadas: https://bit.ly/30gocEj
+#phishing #malware #consumidor #fraude
+ #LGPD #GDPR
+
+/ ~ 4AC5DDE2 ~ /
+
+Como estar mais bem preparado para uma nova onda de ransomware? 
+htt
+ps://computerworld.com.br/2020/09/28/como-estar-mais-bem-preparado-para-uma-nova-onda-de-ransomware/
+…
+
+/ ~ 4AC5DDE2 ~ /
+
+Um especialista em segurança digital conseguiu instalar um ransomware em uma ca
+feteira inteligente. É um teste controlado e difícil de ser replicado na vida real, mas só comprova 
+o quanto essas smart-coisas são inseguras.
+
+/ ~ 4AC5DDE2 ~ /
+
+Café com 'vírus'? Pesquisador instala 
+ransomware em cafeteira
+
+Há alguns anos, empresas de segurança já alertam que dispositivos parte da 
+Internet das Coisas (IoT), como sensores, câmeras e aparelhos simples de função única para uso domés
+tico não são nad… https://ift.tt/339zOuP
+
+/ ~ 4AC5DDE2 ~ /
+
+"Café com 'vírus'? Pesquisador instala r
+ansomware em cafeteira - TecMundo"
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+ProteÃ§Ã£o contra Ransomware
+com Appl
+iances Veritas NetBackupâ¢
+
+
+
+
+
+
+
+ FaÃ§a o download grÃ¡tis do material aqui! Clique abaixo
+
+
+
+Rece
+ber material
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hoje, o ransomware e seus ataques sÃ£o uma das principais preocupa
+Ã§Ãµes para os clientes corporativos. O phishing direcionado funciona. O ransomware Ã© um grande neg
+Ã³cio e os invasores sÃ£o incansÃ¡veis em seus esforÃ§os para desenvolver novas formas criativas de 
+se infiltrar em redes corporativas e ambientes de TI a fim de capturar dados e usÃ¡-los como refÃ©ns
+. 
+A finalidade deste documento Ã© oferecer uma visÃ£o geral do problema representado pelo ransomwar
+e e por ameaÃ§as maliciosasÂ internas, alÃ©m de fornecer uma descriÃ§Ã£o detalhada de como as empres
+as podem ser proteger e se recuperar apÃ³s um evento de ransomware usando os Appliances Veritas NetB
+ackup. 
+Algumas orientaÃ§Ãµes gerais e prÃ¡ticas recomendadas foram incluÃ­das, mas este documento n
+Ã£o deve ser considerado como uma lista completa de prÃ¡ticas recomendadas ou guia de implementaÃ§Ã£
+o.
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+
+
+
+
+
+
+
+
+Ã
+
+
+
+        FaÃ§a o download grÃ¡tis do material aqui!
+      
+
+      
+  Basta preencher o formulÃ¡rio abaixo
+      
+
+
+
+
+
+
+
+
+
+
+
+
+Preencha corretamente os campos marcados
+
+
+
+Nome*
+
+
+Sobrenome*
+
+
+Telefone*
+
+
+Email*
+
+
+Empresa*
+
+
+Cargo*Selecione
+Corporativo: CEO / Presidente 
+/ ProprietÃ¡rio / SÃ³cio
+Corporativo: Vice-Presidente
+Corporativo: CMO / CFO / Controller/ COO
+Corpo
+rativo: CIO / CTO / CSO
+Corporativo: Diretor (Tecnologia)
+Corporativo: Diretor (NÃ£o Tecnologia)
+Tec
+nologia: Gerente / Chefe
+Tecnologia: Supervisor / Coordenador
+Tecnologia: Administrador de Banco de 
+Dados (DBA)
+Tecnologia: Administrador de E-Business
+Tecnologia: Administrador de Rede / Networking
+T
+ecnologia: Administrador de Sistemas de TelecomunicaÃ§Ãµes
+Tecnologia: Analista
+Tecnologia: Desenvol
+vedor / Programador
+Tecnologia: Suporte TÃ©cnico / Help Desk
+NÃ£o Tecnologia: Gerente / Chefe
+NÃ£o T
+ecnologia: Supervisor / Coordenador
+NÃ£o Tecnologia: Consultor / Assessor
+NÃ£o Tecnologia: Assistent
+e / Analista
+NÃ£o Tecnologia: Profissional de AdministraÃ§Ã£o PÃºblica
+NÃ£o Tecnologia: Professor / 
+Reitor
+NÃ£o Tecnologia: Vendedor / Representante
+EstagiÃ¡rio
+Estudante
+NÃ£o trabalho no momento
+
+
+Ã
+rea do cargo*Selecione
+Tecnologia da InformaÃ§Ã£o
+SeguranÃ§a da InformaÃ§Ã£o
+OperaÃ§Ãµes de TI
+Atend
+imento ao Cliente / AtenÃ§Ã£o ao Cliente / Qualidade / Ouvidoria
+ProgramaÃ§Ã£o / Desenvolvimento
+Arq
+uitetura da InformaÃ§Ã£o
+GestÃ£o da InformaÃ§Ã£o
+GestÃ£o de Projetos
+GovernanÃ§a da InformaÃ§Ã£o
+Inf
+raestrutura: Data Center
+Infraestrutura: Storage
+Infraestrutura: Rede
+Infraestrutura: Telecom
+Comerc
+ial
+Marketing
+Financeiro / Administrativo
+Recursos Humanos
+Internet / Web
+ComunicaÃ§Ã£o
+MÃ­dia Digit
+al
+Assessoria de Imprensa
+LogÃ­stica
+Engenharia
+JurÃ­dico
+AcadÃªmico / EducaÃ§Ã£o / Treinamento
+Audi
+toria / Compliance
+Outro
+
+
+Ãrea de atuaÃ§Ã£o da sua empresa*Selecione
+ComÃ©rcio: Atacadista/Varejis
+ta
+IndÃºstria: AeronÃ¡utica
+IndÃºstria: AgropecuÃ¡ria/Pesca
+IndÃºstria: Alimentos e Bebidas
+IndÃºstr
+ia: AutomobilÃ­stica
+IndÃºstria: Computadores, ComunicaÃ§Ãµes, PerifÃ©ricos
+IndÃºstria: ConstruÃ§Ã£o
+/Arquitetura/Engenharia Civil
+IndÃºstria: EletrodomÃ©sticos
+IndÃºstria: EletrÃ´nica
+IndÃºstria: Info
+rmÃ¡tica
+IndÃºstria: Equipamentos de TelecomunicaÃ§Ãµes
+IndÃºstria: FarmacÃªutica
+IndÃºstria: Labora
+tÃ³rios de Pesquisa e Desenvolvimento
+IndÃºstria: Madeira, MÃ³veis e InstalaÃ§Ãµes
+IndÃºstria: Maqui
+nÃ¡rio Industrial e Comercial (NÃ£o Ligado a InformÃ¡tica)
+IndÃºstria: MineraÃ§Ã£o/QuÃ­mica/PetroquÃ
+­mica
+IndÃºstria: Software
+IndÃºstria: Papel e Celulose
+IndÃºstria: Produtos TÃªxteis e Couro
+IndÃºs
+tria: SiderÃºrgicas
+IndÃºstria: Outros
+Governo: Estadual ou Municipal
+Governo: ForÃ§as Armadas
+Gover
+no: JustiÃ§a, Ordem PÃºblica e SeguranÃ§a
+Governo: Federal
+ServiÃ§os: Advocacia/ServiÃ§os Legais
+Ser
+viÃ§os: AgÃªncias de Publicidade ou RP
+ServiÃ§os: Consultor (Ligado a InformÃ¡tica)
+ServiÃ§os: Consu
+ltorias de NegÃ³cios (NÃ£o Ligado a InformÃ¡tica)
+ServiÃ§os: E-commerce/Internet
+ServiÃ§os: Editora/
+Emissoras de TV e RÃ¡dio
+ServiÃ§os: EducaÃ§Ã£o
+ServiÃ§os: FinanÃ§as/Bancos/Seguros
+ServiÃ§os: Hotele
+ira/RecreaÃ§Ã£o/Entretenimento
+ServiÃ§os: LogÃ­stica/Transporte
+ServiÃ§os: Provedor de ServiÃ§os (AS
+P, ESP, Web Hosting)
+ServiÃ§os: Processamento de Dados
+ServiÃ§os: Provedores (ISP, TelecomunicaÃ§oes
+, Data Comm, TV/Cabo)
+ServiÃ§os: SaÃºde/Medicina/Dental
+ServiÃ§os: VAR, VAD, Sistemas ou Integrador 
+de Rede
+ServiÃ§os: Outros
+ONGs
+
+
+NÃºmero de funcionÃ¡rios*Selecione
+0 Ã  19
+20 Ã  99
+100 Ã  249
+250 
+Ã  500
+501 Ã  999
+1000 Ã  2500
+2501 Ã  5000
+5001 Ã  10000
+Acima de 10000
+
+
+PaÃ­s*
+
+
+Estado*Selecione
+
+AC
+AL
+AP
+AM
+BA
+CE
+DF
+ES
+GO
+MA
+MT
+MS
+MG
+PA
+PB
+PR
+PE
+PI
+RJ
+RN
+RS
+RO
+RR
+SC
+SP
+SE
+TO
+
+
+Cidade*
+
+
+Qual Ã
+© o seu relacionamento com a Veritas?*Selecione
+Sou cliente Veritas
+Eu nÃ£o tenho contato com a Veri
+tas
+Eu tenho sido gerenciado por um parceiro Veritas
+Eu sou um parceiro de negocio Veritas
+
+
+Qual Ã©
+ o seu envolvimento no processo de decisÃ£o de compra?*Selecione
+Decisor
+Recomendador
+Avaliador
+NÃ£o
+ estÃ¡ envolvido
+
+
+Qual o seu nÃ­vel de interesse em soluÃ§Ãµes de proteÃ§Ã£o de dados?*Selecione
+Av
+aliando fornecedores
+Avaliando propostas
+Planejando investir nos prÃ³ximos 90 dias
+Planejando invest
+ir dentro de 3 a 6 meses
+Planejando investir dentro de 7 a 12 meses
+Pronto para investir
+Sem planos 
+no momento
+
+
+VocÃª aceita ser contatado pela veritas?*Selecione
+Sim
+NÃ£o
+
+
+3 + 7 = ?
+
+
+
+
+
+
+
+      *A
+s informaÃ§Ãµes contidas neste formulÃ¡rio serÃ£o enviadas Ã  Veritas, empresa patrocinadora do cont
+eÃºdo fornecido, e estÃ£o sujeitas Ã s polÃ­ticas de privacidade da empresa. Ao clicar em "Enviar" v
+ocÃª estÃ¡ de acordo em enviar suas informaÃ§Ãµes Ã  Veritas que irÃ¡ usÃ¡-las de acordo com a sua p
+olÃ­tica de privacidade.Para obter mais informaÃ§Ãµes sobre o dados fornecidos neste formulÃ¡rio, co
+nsulte nossa polÃ­tica de privacidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Acabei de ad
+icionar o conteúdo Ransomware Attacks Take On New Urgency Ahead of Vote https://ift.tt/3mZVuB8 ao me
+u Pocket para ler em breve! 
+
+Vou sempre compartilhar aqui para vocês 
+
+/ ~ 4AC5DDE2 ~ /
+
+¿enlazado,
+ camuflado o por rdp?
+
+/ ~ 4AC5DDE2 ~ /
+
+Un ataque de ransomware bateu nunha cadea hospitalaria impo
+rtante dos Estados Unidos
+
+Wired
+http://raposo.app/?u=9JkNLHN0S
+
+/ ~ 4AC5DDE2 ~ /
+
+Você sabia que o 
+Brasil é o 2º país em todo mundo com o maior número de ataques ransomware sofridos? A quantidade rep
+resenta 31,97% das estatísticas globais. Saiba como não fazer parte desta estatística negativa.
+
+→ h
+ttps://blockbit.com/pt/firewall/?rdst_srcid=2191390…
+#firewall #blockbit #cibersegurança
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Café com 'vírus'? Pesquisador instala ransomware em cafeteira
+
+/ ~ 4AC5DDE2 ~ /
+
+Como estar 
+mais bem preparado para uma nova onda de ransomware? http://dlvr.it/RhXQq9
+
+/ ~ 4AC5DDE2 ~ /
+
+Advanc
+ed Malware Protection (AMP) é a solução da Cisco de prevenção contra violações. Com essa solução é p
+ossível descobrir as ameaças mais avançadas, incluindo malwares e versões de ransomware que não nece
+ssitam de arquivos para explorar vulnerabilidades.
+
+/ ~ 4AC5DDE2 ~ /
+
+Já leu nosso artigo sobre melh
+ores práticas para proteger sua empresa contra infecção por ransomware? #Ransomware
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+
+Há alguns anos, empresas de segurança já alertam que dispositivos parte da Internet das Coisas (
+IoT), como sensores, câmeras e aparelhos simples de função única para uso doméstico não são nada con
+fiáveis em termos de segurança. Além de serem uma porta de entrada para redes caseiras, eles podem s
+er sequestrados para a aplicação de diferentes golpes e ataques. Mas até que ponto esse tipo de vuln
+erabilidade pode ser explorado?
+O especialista em segurança Martin Hron, da Avast, conseguiu invadir
+ a própria cafeteira inteligente e instalar nela um ransomware. Ou seja, o dispositivo ficou totalme
+nte inutilizado e só seria "devolvido" ao dono mediante pagamento de resgate — nos mesmos moldes do 
+WannaCry, que preocupou o mundo em 2017.
+O teste foi totalmente controlado e seria difícil reproduzi
+r as mesmas condições remotamente, mas a ideia era mostrar como esses aparelhos são vulneráveis. A i
+Kettle 3, usada no experimento, foi lançada em 2018 e não traz qualquer mecanismo de proteção na con
+exão Wi-Fi, com atualizações sendo enviadas do celular para o dispositivo sem criptografia ou confir
+mação. Foi por meio desse caminho que Hron conseguiu enviar o malware ao produto.
+
+
+
+Como mostra o v
+ídeo acima, publicado pelo site Arstechnica, a cafeteira inteligente passou a exibir uma mensagem de
+ resgate com um enereço, além de uma ilustração de um emoji de diabo feita usando a pequena tela do 
+aparelho. Ela não respondia aos comandos de preparo e operou sozinha, piscando luzes, despejando águ
+a e ativando o moedor de grãos mesmo sem qualquer conteúdo despejado.
+A invasão promovida pelo pesqu
+isador não é tão fácil de ser feita, já que envolve ainda a criação do firmware falso com base em en
+genharia reversa e conhecimento técnico avançado dos componentes da cafeteira. Porém, o sucesso indi
+ca a falta de cuidados em dispositivos IoT — um problema que já vem de anos e não parece ter evoluíd
+o o suficiente.
+
+
+
+
+
+Cupons de desconto TecMundo:
+
+
+
+
+
+
+
+
+
+            Cupom Casas Bahia: todos os c
+ódigos neste link!
+          
+
+
+          Eu quero
+        
+
+
+
+
+
+
+
+
+
+            Cupom de desconto A
+mazon Brasil: todos nesse link
+          
+
+
+          Eu quero
+        
+
+
+
+
+
+
+
+
+
+            Cupom A
+mericanas: primeira compra R$15 de desconto
+          
+
+
+          Eu quero
+        
+
+
+
+
+
+
+
+
+
+      
+      Cupom KaBuM! exclusivo kit gamer 10% de desconto
+          
+
+
+          Eu quero
+        
+
+
+
+
+
+
+
+
+
+
+            Cupom Dolce Gusto: Lumio 40% de desconto
+          
+
+
+          Eu quero
+        
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+O #Ransomware é um dos maiores problemas da web. O pagamento de regaste financ
+ia novos equipamentos e contratação de mais especialistas pelos hackers. Você concordaria em uma lei
+ que criasse penalidades e restrições para o pagamento das empresas atacadas?
+
+/ ~ 4AC5DDE2 ~ /
+
+
+O 
+provedor de assistência médica Universal Health Services, uma das maiores redes dos Estados Unidos, 
+foi atingido por um aparente ataque de ransomware, TechCrunch relatado. As instalações do UHS na Cal
+ifórnia, Flórida, Dakota do Norte, Arizona e outros locais começaram a notar problemas no início do 
+domingo, com alguns locais relatando computadores e sistemas telefônicos bloqueados. 
+Como resultado
+, alguns hospitais UHS tiveram que usar papel e caneta para arquivar as informações do paciente, de 
+acordo com NBC News.
+O sistema hospitalar, que tem mais de 400 locais nos EUA e no Reino Unido, diss
+e em um declaração na segunda-feira que sua rede de TI em várias instalações estava offline “devido 
+a um problema de segurança de TI”. Nenhum dado de paciente ou funcionário parece ter sido comprometi
+do, de acordo com o comunicado, que não menciona malware ou ransomware. 
+“Implementamos extensos pro
+tocolos de segurança de TI e estamos trabalhando diligentemente com nossos parceiros de segurança de
+ TI para restaurar as operações de TI o mais rápido possível”, diz o comunicado. “Nesse ínterim, nos
+sas instalações estão usando seus processos de backup estabelecidos, incluindo métodos de documentaç
+ão offline.”
+Hospitais são alvos frequentes de ataques cibernéticos, e os sistemas de saúde são muit
+as vezes não é preparado adequadamente. No início deste mês, uma mulher morreu durante um ataque de 
+ransomware no Hospital Universitário de Duesseldorf, na Alemanha, quando teve que ser transferida pa
+ra outra unidade. Acredita-se que esse incidente tenha sido a primeira morte de um paciente devido a
+ um ataque cibernético a uma unidade de saúde. Mais notoriamente, hospitais em todo o Reino Unido fo
+ram fechados em 2017 após A Coreia do Norte lançou o WannaCry ransomware em todo o mundo. 
+
+
+/ ~ 4AC
+5DDE2 ~ /
+
+
+Ransomware continua sendo um tormento para as empresas, segundo o resultado de pesquisa 
+recente da Sophos, chamada The state os ransomware 2020.
+Os ataques estão aumentando em complexidade
+, portanto, ficando mais eficientes na exploração de vulnerabilidades de rede e de sistemas.
+Os disp
+ositivos de firewall modernos são altamente eficazes na defesa contra esses tipos de ataques, por is
+so, são ferramentas fundamentais na política de segurança das empresas.
+Só que, para essa proteção s
+er efetiva, é preciso que estejam com as configurações adequadas para tratar esse tipo de ataque.
+Ne
+ste artigo iremos recomendar as melhores práticas para configuração do seu firewall e, por consequên
+cia, garantir a proteção de sua empresa.
+Quais são os alvos dos hackers?
+A resposta mais curta é: to
+das as empresas.
+Mas, em uma pesquisa recente, 51% dos entrevistados disseram que foram infectados p
+or ransomware no ano passado e, aparentemente, o tamanho da organização não é foi um fator significa
+tivo para o ataque. 
+Quarenta e sete por cento das organizações tinham menos de 1.000 funcionários, 
+enquanto 53% tinham mais de 1.000. Nenhum país, região ou segmento de mercado vertical está imune.
+B
+usque na internet por “ataque ransomware” e você encontrará várias notícias de ataques com sucesso q
+ue ocorrerão nas ultimas semanas.
+Os efeitos de sofrer um ataque desses é devastador para uma empres
+a. Os principais impactos são:
+Inatividade da empresa por muitas horas ou mesmo dias.Perda de dados 
+importantes para o funcionamento da empresa.Danos à reputação.Vazamento de dados confidenciais de cl
+ientes e parceiros.
+Como ataques de Ransomware entram na rede da sua empresa?
+Segundo a Sophos, em 2
+020, houve um aumento nos ataques baseados em servidor.
+Esse tipo de ataque é sofisticado e altament
+e direciona, exigindo mais esforço do criminoso para implanta-lo.
+No entanto, eles costumam ser muit
+o mais letais devido ao valor mais alto dos ativos, afinal de contas, é mais provável que a informaç
+ão de mais valor para empresa esteja em um servidor e não no computador do usuário.
+Como o ataque de
+ ransomware atingiu sua organização? Pergunta feita aos entrevistados cuja organização foi atingida 
+por ransomware no ano passado. Base: 2.538 respondentes.
+No entanto, como você pode ver nas resposta
+s da pesquisa na tabela acima, o principal ponto de entrada do ransomware é por meio de arquivos bai
+xados ou enviados a usuários em ataques de spam ou phishing. 
+Não deixe a segurança nas mãos de seus
+ usuários. 
+Para esses tipos de ataques, é melhor proteger sua organização com fortes proteções de f
+irewall. Além, obviamente, de contar com proteção de SPAM e antivírus no seu servidor de email e end
+points.
+Como funciona um ataque de ransomware
+Um ataque por Ransomware, tem, na maioria dos casos, u
+m fluxo igual a imagem abaixo:
+
+RDP – Remote Desktop Protocol or Ransomware Deployment Protocol?
+O p
+rotocolo de área de trabalho remota (RDP) e outras ferramentas de compartilhamento de área de trabal
+ho, como Virtual Network Computing (VNC), são recursos inócuos e altamente úteis da maioria dos sist
+emas operacionais que permitem que a equipe acesse e gerencie sistemas remotamente.
+Infelizmente, se
+m as salvaguardas adequadas implementadas, esses protocolos se tornam portas escancaradas para os in
+vasores e são comumente explorados por ataques de ransomware direcionados.
+Disponibilizar o acesso v
+ia RDP ou qualquer outro protocolo de gerenciamento remoto semelhante, sem as proteções adequadas, p
+odem deixar a rede da sua empresa aberta para um ataque. 
+Muitos ataques ocorrem através de exploraç
+ão de vulnerabilidades nesses protocolos.
+Como se manter protegido contra Ransomware
+Para proteger a
+dequadamente sua organização contra ransomware, existem três iniciativas principais que você deve re
+alizar:
+1 – Atualize sua estrutura de segurança de TI
+Tenha um bom firewall e um antivírus corporati
+vo, eles são a sua primeira camada de proteção e conseguem eliminar a grande maioria dos ataques.
+É 
+importante que ambos tenham recursos mais modernos de proteção e sejam fáceis de gerenciar. É import
+ante que eles consigam monitorar o tráfego que vem da internet, como também o tráfego interno da sua
+ rede.
+Garanta que ambos tem recursos modernos de proteção, estão com as atualizações e assinaturas 
+em dia e atualizadas.
+Certifique-se também de ter:
+O recurso de sandbox ativo, pois esse recurso per
+mite testar o comportamento de um arquivo suspeito em um ambiente isolado, antes de entrar em sua re
+de. Tenham recursos baseados em aprendizado de máquina, para facilitar a identificação de novas vari
+antes e ataques do tipo zero-day.Recurso de IPS ativado e com assinatura ativa e atualizado. Só assi
+m conseguirá bloquear tentativas de exploração de ataques via rede.Acesso remoto feito somente via V
+PN ou outra tecnologia de acesso seguro a rede corporativa. Nunca libere o acesso remoto sem nenhum 
+tipo de monitoramento e bloqueio do tráfego.O seu antivírus deve possuir algum tipo de proteção espe
+cífica anti-ransomware.
+2 – Bloqueie o acesso ou gerenciamento remoto.
+Quando se trata de redes, cad
+a porta que é aberta para internet é uma vulnerabilidade em potencial esperando para ser explorada p
+or ataque.
+Bloqueie todas as portas ou protocolos que não estão sendo usados. Nos casos dos protocol
+os para trabalho remoto, o mínimo a ser feito é restringir o acesso a somente alguns IPs específicos
+ e todos os usuários devem sempre estar conectados via VPN.
+Além disso, imponha o uso de senhas mais
+ complexas e avalie usar autenticação multifator.
+3 – Segmente sua rede
+Infelizmente, muitas organiz
+ações operam com uma topologia de rede plana: todos os seus terminais se conectam em uma malha de sw
+itch comum sem nenhuma segmentação.
+Essa topologia compromete a proteção, permitindo fácil movimenta
+ção lateral ou propagação de ataques dentro da rede local, uma vez que o firewall não tem visibilida
+de ou controle sobre o tráfego que flui através do switch.
+
+Uma prática recomendada é segmentar a LA
+N em sub-redes menores usando zonas ou VLANs e, em seguida, conectá-las por meio do firewall, para p
+ermitir a aplicação de proteção antimalware e IPS entre os segmentos. 
+Isso pode identificar e bloqu
+ear efetivamente as ameaças que tentam se mover lateralmente na rede.
+
+O uso de zonas ou VLANs depen
+de de sua estratégia e escopo de segmentação de rede, mas ambos oferecem recursos de segurança semel
+hantes, fornecendo a opção de aplicar segurança e controle adequados sobre o movimento do tráfego en
+tre os segmentos.
+As zonas são ideais para estratégias de segmentação menores ou redes com switches 
+não gerenciados.
+As VLANs são o método preferido para segmentar redes internas na maioria dos casos 
+e oferecem o máximo em flexibilidade e escalabilidade.
+No entanto, eles exigem o uso (e configuração
+) de switches gerenciados da Camada 3.
+Embora seja uma prática recomendada segmentar sua rede, não h
+á uma “melhor” maneira de segmentar uma rede. 
+Você pode segmentar sua rede por tipo de usuário (int
+erno, contratados, convidados), por departamento (vendas, marketing, engenharia), por serviço, dispo
+sitivo ou tipo de função (VoIP, Wi-Fi, IoT, computadores, servidores) ou qualquer combinação que fiz
+er sentido para sua arquitetura de rede. 
+O que podemos afirmar com certeza é a importancia de segme
+ntar as partes menos confiáveis e com mais vulnerabilidades do restante. Exemplo, uma rede de visita
+ntes para sua rede corporativa.
+Melhores práticas de segurança para configurar no seu firewall
+Tenha
+ a certeza que tem a melhor proteção, seu firewall deve utilizar tecnologias modernas de proteção co
+mo IPS, TLS Inspection, zero-day sandboxing e recursos de aprendizado de máquina.Bloqueie o acesso r
+emoto ou restrinja ao máximo e desde que os usuários que fizerem esse acesso atendam aos requisitos 
+mínimos de segurança como atualização do Windows, do antivírus e estar debaixo de uma conexão VPN co
+m a sua empresa.Reduza a superfície de ataque ao máximo, bloqueando todas as portas não essenciais e
+ também o encaminhamento de portas.Garanta a segurança das portas abertas, monitorando o tráfego des
+sas portas com soluções de IPS. Nenhum pacote de dados pode entrar ou sair da sua empresa sem ser in
+specionado.Habilite a inspeção de TLS. Seu firewall tem que ser capaz de inspecionar até mesmo tráfe
+go de web criptografado com TLS 1.3.Diminua o risco de movimentação lateral, segmentado ao máximo a 
+sua rede em zonas ou VLANs, garantindo que todo o trafego entre as redes seja inspecionado políticas
+ de IPS.Tenha políticas de isolamento de sistemas infectados. Seu sistema de segurança de TI tem que
+ ser capaz de responder automaticamente a uma suspeita de ataque, isolando a máquina atacada até que
+ uma ação do TI seja toma.Use senhas complexas e multifator de autenticação. Garanta que os usuários
+ usem senhas complexas e que estão obrigado a usar algum recursos de multifator de autenticação para
+ comprovar que são eles mesmos que estão autenticando.Tenha backup confiável e atualizado de todos o
+s dados ou recursos importantes para empresa. O restore do backup deve ser possível em minutos e não
+ horas.Revise os privilégios dos usuários e garanta que ninguém tem privilégios elevados na rede da 
+empresa. 
+Seguindo essa recomendações, você estará diminuindo substancialmente a possibilidade de so
+frer um ataque por ransomware na sua empresa.
+
+Compartilhe este artigo:TweetTelegramWhatsAppE-mailIm
+primir
+
+Veja também esses artigos:
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Para provar lucratividade, operadores do ran
+somware REvil/Sodinokibi depositam US$ 1 bilhão em criptomoedas em conta de fórum hacker: https://bu
+ff.ly/2HEiRjJ #thehack #thehackbr #dontstophacking
+
+/ ~ 4AC5DDE2 ~ /
+
+Café con aroma de ransomware! 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+o que mais tem é torrent de keygen do clip studio, mas tem que tomar cuidado par
+a nao baixar com ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware supostamente culpado pela interrupção na r
+ede de hospitais dos EUA
+
+/ ~ 4AC5DDE2 ~ /
+
+
+SegInfocast #41 – Faça o download aqui. (19:17 min, 13,
+3 MB)
+Neste episódio eu entrevistei pela segunda vez Carolina Bozza, Country Manager da CyberArk, pr
+ofissional com mais de 10 anos de experiência no mercado de TI. Neste podcast o tema abordado foi ra
+nsomware.
+
+O que é “Ransomware”?
+Carolina explica que é uma ameaça que sequestra uma máquina através
+ de uma infecção simples, normalmente comprometida por um phishing ou exploração de vulnerabilidade.
+ Após o comprometimento do computador, o próximo passo é criptografar as informações, de modo que es
+teja acessível somente com uma chave, chave esta em poder do criminoso.  Então, é exigido um pagamen
+to de resgate para descriptografar as informações da vítima, porém ainda assim, sem nenhuma garantia
+.
+Por que é um ataque de tanto sucesso?
+Os criminosos utilizam-se de técnicas já conhecidas como o p
+hishing, mas a diferença é a mudança do foco nos ataques. Antes, eram as grandes empresas, agora são
+ as pequenas empresas e usuários domésticos, que, em muitos casos, convivem com máquinas desatualiza
+das e sem cópias de segurança das informações – um terreno propício para um ataque bem sucedido.
+Por
+ que após tantos avanços ainda existe esse tipo de ameaça?
+Embora as técnicas de proteção contra phi
+shing e malwares tenham avançado significativamente, o fator humano ainda é o ponto que permite o su
+cesso do ransomware, já que o tema conscientização em segurança da informação não é muito difundido 
+entre os usuários.
+Quais as melhores práticas para mitigação desse tipo de ataque?
+A melhor prática 
+para mitigar é a cópia de segurança (backup) das informações, preferencialmente em mais de uma fonte
+, além da manutenção segura dos sistemas e aplicações.  No âmbito corporativo, há soluções de contro
+le de elevação de privilégios e de execução de aplicações,
+Carolina Bozza tem mais de 10 anos de exp
+eriência em TI. Atualmente trabalha como Country Manager da CyberArk. Foi coautora da publicação: “G
+uia de Segurança para e-Commerce”. Já palestrou em vários eventos no Brasil como SecureBrasil, Roads
+ec, MindTheSec, SecurityDay, BHack entre outros.
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Você pediu, a #Veeam e PROSOLT
+I atenderam! O NOVO Veeam Availability Suite v10 traz proteção de dados moderna para NAS, prevenção 
+contra ransomware e portabilidade de dados avançada. Saiba mais aqui >> http://stwb.co/zrrlclz
+
+/ ~ 
+4AC5DDE2 ~ /
+
+Whitepaper #Veritas: Proteção contra Ransomware https://bit.ly/2G1pfkd

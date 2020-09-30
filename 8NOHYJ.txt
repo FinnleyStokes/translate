@@ -1,0 +1,18 @@
+> Ransomware z e-mailu zaměstnance
+> není zde tedy žádná možnost, jak by se přes interface dokázal ú
+točník dostat na server.
+
+Attack vector: Email webclient ma chybu a spusti JS ktery dostane v tele e
+mailu. Na pocitach vasich techniku neni co ukrast?
+
+/ ~ 4AC5DDE2 ~ /
+
+#Leak zdrojového kódu os #Wind
+ows, bezpečnostní incident v #Shopify, ransomware útok na společnost Luxottica.
+
+To vše a ještě víc 
+v ep#26 ALEF SecurityCastu, která je právě teď online! 
+
+https://youtu.be/za4g-Wrmf5Q
+#CyberSecurity
+ #ITBezpecnost #Podcast

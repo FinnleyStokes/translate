@@ -1,0 +1,625 @@
+Charizard
+
+/ ~ 4AC5DDE2 ~ /
+
+Estoy tan emocionado por Security Breach que me pongo a ver teorías pen
+dejas mientras espero ansiosamente a que salga
+
+/ ~ 4AC5DDE2 ~ /
+
+Aquí les dejo el tráiler de fnaf s
+ecurity Breach para el men que vive en una cueva sin internet
+
+/ ~ 4AC5DDE2 ~ /
+
+#databreach|  Nueva
+mente millones de datos de clientes se filtraron por configuración errónea de Elasticsearch. 
+#ciber
+seguridad #Elasticsearch
+
+/ ~ 4AC5DDE2 ~ /
+
+Vale, primero que todo, necesitas una portada para tu ca
+nal, subir más videos (se que subiste el de Security Breach), pero que sea al menos uno semanal (tam
+poco te sobreexplotes) y tratar de mejorar el aspecto de las miniaturas que sean más visibles y sin 
+tanto texto
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Un minorista de moda europeo se ha convertido en la última marca de 
+renombre en exponer datos personales de millones de sus clientes después de configurar mal una base 
+de datos en la nube.
+
+Los investigadores de vpnMentor descubrieron el servidor Elasticsearch sin cif
+rar el 28 de junio y la empresa matriz BrandBQ finalmente lo aseguró alrededor de un mes después, el
+ 20 de agosto.
+El minorista con sede en Cracovia opera tiendas físicas y en línea en Europa del Este
+, en: Polonia, Rumania, Hungría, Bulgaria, Eslovaquia, Ucrania y la República Checa. Sus principales
+ marcas son Answear y WearMedicine.com.
+Entre los mil millones de entradas en la base de datos expue
+sta, 6,7 millones de registros relacionados con clientes en línea, con cada entrada con información 
+de identificación personal (PII), incluidos nombres completos, direcciones de correo electrónico y d
+e casa, fechas de nacimiento, números de teléfono y registros de pago (aunque no la tarjeta detalles
+).
+50.000 registros adicionales relacionados con contratistas locales en determinadas jurisdicciones
+ incluían información adicional, como números de IVA e información de compra. La base de datos tambi
+én contenía registros de llamadas a la API de la aplicación móvil de Answear, exponiendo la PII de 5
+00.000 usuarios de la aplicación de Android y un número desconocido que descargaron la versión de iO
+S, afirmó vpnMentor.
+Los datos expuestos podrían haber proporcionado a los ciberdelincuentes una fue
+nte útil de PII para lanzar ataques de phishing convincentes y fraude de identidad, agregó.
+¿Qué es 
+Elasticsearch?
+Elasticsearch es una plataforma de análisis y búsqueda de código abierto distribuida 
+que se ejecuta en el software Lucene. 
+El motor de «Búsqueda como servicio» se utiliza para el regis
+tro y el análisis de registros, la extracción y combinación de datos públicos y la búsqueda de texto
+ completo en más de 3000 empresas, incluidas Adobe y Cisco. Elasticsearch y sus servicios hermanos L
+og-stash y Kibana forman la pila Elastic. Esta colección de servicios es inmensamente popular para a
+dministrar conjuntos de datos grandes y diversos debido a su capacidad de respuesta en tiempo real y
+ su alta escalabilidad.
+Elasticsearch trabaja con datos no estructurados de varias ubicaciones y lue
+go los almacena e indexa. Esto permite una mejor capacidad de búsqueda, especialmente porque los usu
+arios pueden personalizar sus índices y mapas específicos según las necesidades de su organización. 
+Elasticsearch también pone a disposición enormes volúmenes de datos.
+¿Cómo ocurren las infracciones 
+de Elasticsearch?
+Los grupos de búsqueda elásticos mal configurados y desprotegidos pueden ser descu
+biertos y explotados por actores malintencionados que buscan en la web. 
+Una herramienta común para 
+descubrir bases de datos expuestas es Shodan, que busca dispositivos y puertos conectados a Internet
+. Una búsqueda superficial en Shodan para los puertos predeterminados 9200 y 9300 de Elasticsearch r
+evela miles de resultados, algunos de los cuales probablemente quedarán desprotegidos. Desde allí, l
+os actores malintencionados pueden usar la función de línea de comandos curl para ubicar y explorar 
+los clústeres de Elasticsearch expuestos. Una vez que un atacante descubre datos confidenciales dent
+ro de un clúster expuesto, pueden exfiltrarlos para una gran variedad de usos maliciosos. 
+Las herra
+mientas similares a Shodan que también se pueden usar para buscar clústeres de Elasticsearch expuest
+os incluyen Censys y LeakIX. Los clústeres expuestos ocurren cuando los usuarios no habilitan los pr
+otocolos de seguridad integrados dentro del kit de herramientas de Elastic o configuran incorrectame
+nte sus bases de datos. 
+Por ejemplo, en una exposición de julio de 2019 de 90 millones de registros
+ de datos, el clúster de Elasticsearch navegó a la «página de creación de patrón de índice» cuando s
+e accede en un navegador. A partir de ahí, los actores malintencionados podrían explorar dos bases d
+e datos que contienen el almacenamiento masivo de información confidencial.
+
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Te
+ngo hasta diciembre para conseguir dinero en paypal para comprar el FNAF Security Breach
+
+/ ~ 4AC5DD
+E2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+Música Emergente
+
+
+
+
+Conoce a Imagen Futuro
+
+
+
+septiembre 23, 2020 
+
+Imagen Futuro
+ es el proyecto solista de Martín Ñancucheo, de 21 años, oriundo de Viedma, Río Negro, Argentina. Es
+te proyecto musical tiene como principal referencia los sonidos del bedroom pop, dream pop, indie y 
+la psicodelia moderna, pero también busca hacerle pequeños guiños al rock progresivo y a jugar con b
+eats y loops electrónicos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Música Emergente 
+Rio Cerón desde Colombia presenta en Esp
+aña “Parpadean mis días”
+
+  septiembre 12, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Noticias 
+Las Ligas Menores te muestran
+ “Accidente”
+
+  septiembre 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Playlists 
+Rock VS Lockdown Vol 1
+
+  septiembre 2, 
+2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Música Emergente 
+Conoce a Dr. Crash!
+
+  agosto 31, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Música
+ Emergente
+
+
+
+
+Conoce a Imagen Futuro
+
+
+
+septiembre 23, 2020 
+
+Imagen Futuro es el proyecto solista 
+de Martín Ñancucheo, de 21 años, oriundo de Viedma, Río Negro, Argentina. Este proyecto musical tien
+e como principal referencia los sonidos del bedroom pop, dream pop, indie y la psicodelia moderna, p
+ero también busca hacerle pequeños guiños al rock progresivo y a jugar con beats y loops electrónico
+s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Música Emergente 
+Rio Cerón desde Colombia presenta en España “Parpadean mis días”
+
+
+  septiembre 12, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Música Emergente 
+Conoce a Dr. Crash!
+
+  agosto 31, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Música Emergente 
+Desde Chile presentamos lo más reciente de III PUÑALES
+
+  agosto 29, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Playlists
+
+
+
+
+Rock VS Lockdown Vol 1
+
+
+
+septiembre 2, 2020 
+
+Esta lista contiene u
+n compilado musical con talento nacional e internacional, en la cual podrás encontrar bandas de dife
+rentes estilos pasando desde unas buenas líricas de hip hop hasta sonidos instrumentales y algunos g
+éneros como el rock alternativo. También propuestas independientes del sureste de la República Mexic
+ana, del centro del país, Sudamérica y Europa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio
+
+
+Rock
+
+
+
+
+“Uno de Verdad”: el r
+egreso de la banda chilena Perrosky
+
+
+
+septiembre 29, 2020 
+
+Canciones inconclusas que quedaron fuer
+a de la discografía del dúo chileno Perrosky, hoy encuentran su lugar en este álbum grabado por Alej
+andro Gómez en formato solista.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rock 
+Los Cogelones: Rock Mexica Experimental
+
+  sept
+iembre 28, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alternativo 
+Chavales presenta “Tu Foto En El Techo”
+
+  septiembre 22, 
+2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio 
+Vlush presenta “Si quieres”
+
+  septiembre 19, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alternativo
+ 
+Chini.png estrena video de “Triangulo de las Bermudas”
+
+  septiembre 18, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+udio
+
+
+Metal
+
+
+
+
+Desde Mérida Ave Bizarre Productions lanza split
+
+
+
+septiembre 28, 2020 
+
+El sello 
+creado durante este normalisimo 2020 en la conocida ciudad blanca, edita un split de 200 copias limi
+tadas para difusión de las bandas MALAMADRE y PRIMITIVE (ambas de dicha ciudad) las cuales tienen di
+cho registro de grabación desde hace unos años, pero esta vez verán la luz para el público que gusta
+ del Grindcore, […]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio 
+GATECLOSER emerge triunfante con “From The Wasteland”
+
+  s
+eptiembre 22, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metal 
+México Metal Fest pospone su quinta edición para 2021
+
+  sept
+iembre 19, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metal 
+Deftones y su nuevo sencillo “Genesis”
+
+  septiembre 18, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrónica
+
+
+Videos
+
+
+
+
+Desde España, Nos Miran presenta “Quien Tú Quieres Que Sea
+”
+
+
+
+septiembre 15, 2020 
+
+NOS MIRAN son uno de esos grupos únicos e inimitables. El cóctel que conf
+orman su propuesta sonora y la lírica, provocan unas consecuencias muy especiales sobre el oyente, y
+ buena prueba de ello es ese álbum de debut llamado “Todo Se Repite”, un viaje sonoro y existencial,
+ con unas letras que profundizan en los aspectos […]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrónica 
+Escucha “Nina”, la 
+nueva canción de Vesica Piscis
+
+  septiembre 14, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio 
+Desde Buenos Aires present
+amos a MEDIA HERMANA
+
+  agosto 31, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+BORGEN
+
+-Hay que mantener las 
+promesas que les haces a tus hijos. Un día crecerán y podrán votar- (Brigitte Nyborg, 'Borgen'). Res
+ulta tan lógico y evidente, ¿verdad?. Se le llama honestidad, compromiso. #borgen #politica #educaci
+ón #COMPROMISED @javisanchezglez #superfan
+
+/ ~ 4AC5DDE2 ~ /
+
+Iba a poner un tweet diciendo "como se
+ van a poner a llorar por una animacion" y luego recuerdo que yo casi lloro cuando salio el trailer 
+de security breach XD

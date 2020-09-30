@@ -1,0 +1,2884 @@
+
+Erst seit Ende August 2020 treibt die Ransomware ThunderX ihr Unwesen. Der Verschlüsselungstrojaner
+ greift Windows-Systeme an. Um die nach einer erfolgreichen Attacke verschlüsselten Dateien wieder f
+reizubekommen, müssen betroffene Nutzer ein Lösegeld bezahlen. Zuletzt hatte sich ThunderX rasant ve
+rbreitet. Jetzt scheint es mit der Cyber-Karriere des Trojaners aber schon wieder vorbei zu sein – u
+nd dafür ist ausgerechnet ein Bug verantwortlich.Nix mehr verpassen: Die t3n Newsletter zu deinen Li
+eblingsthemen! Jetzt anmelden
+Anzeige
+
+Sicherheitslücke in Ransomware ThunderX
+Der Onlineplattform B
+leeping-Computer zufolge hat die Sicherheitsfirma Tesorion in der vergangenen Woche eine Sicherheits
+lücke in der Ransomware ThunderX entdeckt. Dabei nutzten die Cybersecurity-Experten eine Schwachstel
+le des Trojaners bei der Schlüsselgenerierung aus. Darüber hinaus half ein Bug beim sogenannten Mult
+i-Threading den Sicherheitsforschern bei der Erstellung eines Entschlüsselungstools, wie Winfuture b
+erichtet.
+Dadurch können Opfer eines ThunderX-Trojanerangriffs ihre Daten jetzt kostenfrei entsperre
+n. Die Entschlüsselungssoftware kann demnach Dateien wieder zugänglich machen, die mit der aktuellen
+ Version der Ransomeware verschlüsselt wurden. Diese tragen im Normalfall die Dateinamenserweiterung
+ .tx_locked, wie Bleeping-Computer schreibt.
+Download über Projekt No More Ransom
+Anzeige
+
+Das Thund
+erX Decryptor genannte Tool kann über das Projekt No More Ransom heruntergeladen werden, auf dessen 
+Plattform sich auch eine ganze Reihe Schlüssel für weitere Ransomware finden lassen. Bei der Entschl
+üsselung müssen Nutzer aber ziemlich viel Geduld aufbringen und sich ganz genau an die jeweils dazug
+ehörige Anleitung halten. So ist als erster Schritt unbedingt die Entfernung der Malware vom System 
+notwendig.
+Mehr zum Thema:
+Ransomware-Attacke auf Garmin: Smartwatch-Hersteller zahlte wohl Millione
+n-Lösegeld
+Ransomware: Gegen diese 5 Attacken ist der Garmin-Ausfall eine Kleinigkeit
+BSI und BKA zu
+ Umgang mit Ransomware: Bloß nicht zahlen!
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Es scheint zu stimmen: Gerade jetzt v
+erschlüsselt eine Ransomware Dutzende Spitäler in den USA
+
+https://medinside.ch/de/post/dutzende-von
+-spitaelern-in-usa-von-hackern-lahmgelegt…
+
+oder 
+https://techcrunch.com/2020/09/28/universal-health
+-services-ransomware/…
+#hospitalsunderattack #ransomware #securityawareness
+
+/ ~ 4AC5DDE2 ~ /
+
+Thund
+erX: Sicherheitsforscher machen neue Ransomware unschädlich https://ift.tt/30gh2Ql #seo #affiliate
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Die klare Empfehlung des BSI im Fall von Ransomware: Nicht zahlen! Denn jede bezah
+lte Forderung bestätigt Cyberkriminelle darin, dass ihr Geschäftsmodell funktioniert.
+
+/ ~ 4AC5DDE2 
+~ /
+
+Dutzende von Spitälern in USA von Hackern lahmgelegt?
+Es kursieren glaubwürdig wirkende Aussage
+n, dass Ransomware die IT-Syteme eines Gesundheits-Anbieters zwischen Florida und Alaska verschlüsse
+lt.
+https://buff.ly/36f1nVe
+
+/ ~ 4AC5DDE2 ~ /
+
+Macafee blockt den Download ihres eigenen mcafee remo
+val tools. Wtf? Demnächst steigen die dann auch bei ransomware ein oder wie?
+
+/ ~ 4AC5DDE2 ~ /
+
+Knal
+lharte Masche. In einigen Firmen fällt das schneller auf als ein mit Ransomware befallener Arbeitspl
+atzrechner. ;)
+
+/ ~ 4AC5DDE2 ~ /
+
+AgeLocker-Ransomware zielt auf QNAP NAS-Laufwerke https://borncity
+.com/blog/2020/09/29/agelocker-ransomware-zielt-auf-qnap-nas-laufwerke/… #NAS #QNAP #Ransomware Born
+s IT- & Windows-Blog
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware in der critical infrastructure. Wer braucht schon
+ Krankenhaus-Computer, wenn die Kaffeemaschine gekapert wurde?
+
+/ ~ 4AC5DDE2 ~ /
+
+
+[English]Noch ein
+e kurze Warnung für Nutzer, die QNAP NAS-Laufwerke im Einsatz haben. Die AgeLocker-Ransomware zielt 
+auf solche Laufwerke, die per Internet erreichbar sind, und verschlüsselt deren Inhalt. In einigen F
+ällen werden auch Dateien für eine weitere Erpressung abgezogen. Problem ist aber, das bisher wenig 
+bekannt ist, welche Versionen des NAS-Betriebssystem QTS angreifbar sind.
+Anzeige
+
+ 
+
+
+Die NAS-Laufw
+erke von QNAP sind ja ein beliebtes Ziel von Mal- und Ransomware. Ich hatte die letzten Monate ja ei
+nige Blog-Beiträge zu dieser Thematik (siehe Artikel am Beitragsende). Nun scheint es eine neue Malw
+are-Variante mit dem Namen AgeLocker zu geben, die solche Laufwerke befällt. Der Name kommt vom verw
+endeten Verschlüsselungsalgorithmus namens Age (Actually Good Encryption) verwendet, der GPG zum Ver
+schlüsseln von Dateien, Backups und Streams ersetzen soll. Die Ransomware tauchte erst im Juli 2020 
+auf, wie z.B. Bleeping Computer in diesem Beitrag berichtete. Beim Verschlüsseln von Dateien wird de
+n verschlüsselten Daten ein Textheader, der mit der URL ‘age-encryption.org’ beginnt, vorangestellt.
+
+AgeLocker-Ransomware-Infektion
+Jetzt ist die Ransomware aufgefallen, weil sie NAS-Laufwerke von QNA
+P befällt. Seit Ende August 2020 zielt AgeLocker oder eine andere Lösegeld-Software, die dieselbe Ve
+rschlüsselung verwendet, auf öffentlich zugängliche QNAP-NAS-Geräte und verschlüsselt deren Dateien.
+ Bleeping Computer hat den Fall hier aufgegriffen, nachdem ein Leser sich mit einer Ransomware-Infek
+tion in deren Forum meldete. Deren Forumsbeitrag ist inzwischen aber gelöscht worden. Sicherheitsfor
+scher Michael Gillespie konnte aber herausfinden, das die Datei mit dem Age-Algorithmus verschlüssel
+t worden war.
+QNAP warnt vor Age-Ransomware
+Nun hat der Hersteller QNAP eine Sicherheitswarnung vor 
+Ransomware herausgegeben, die den Age-Algorithmus zur Verschlüsselung verwendet. In der Sicherheitsw
+arnung vom 25. September 2020 heißt es:
+The AgeLocker Ransomware has been reported to target QNAP NA
+S, Linux, and macOS devices. This new ransomware attempts to encrypt the files of victims by using t
+he “Age” encryption tool. QNAP Product Security Incident Response Team (PSIRT) has found evidence th
+at the ransomware may attack earlier versions of Photo Station. We are thoroughly investigating the 
+case and will release more information as soon as possible.
+QNAP liegen also Berichte vor, dass die 
+AgeLocker-Ransomware auf NAS-, Linux- und MacOS-Geräte von QNAP abzielt. Diese neue Ransomware versu
+cht, die Dateien der Opfer mit dem Verschlüsselungsprogramm “Age” zu verschlüsseln. Das QNAP Product
+ Security Incident Response Team (PSIRT) hat Hinweise darauf gefunden, dass die AgeLocker-Ransomware
+ ältere Versionen der Photo Station angreifen könnte und untersucht den Fall eingehend. Man will so 
+bald wie möglich weitere Informationen veröffentlichen.
+Das sind natürlich sehr unspezifische Inform
+ationen, wie auch heise hier anmerkt. Weder ist bekannt, welche Sicherheitslücken AgeLocker angreift
+, noch welche Versionen des NAS-Betriebssystem QTS angreifbar bzw. welche Versionen geschützt sind. 
+Ich tippe darauf, dass die oben erwähnte Infektion, die über Bleeping Computer an Miachel Gillespie 
+ging, nun bei QNAP vorliegt und untersucht wit. Aktuell kann man Besitzern von QNAS-Stationen nur em
+pfehlen, die neueste Firmware zu installieren und die Systeme möglichst nicht per Internet erreichba
+r zu lassen. Problem bei QNAS könnte auch sein, dass der Hersteller bei Software-Updates vom Nutzer 
+deaktivierte Features wieder aktiviert (wie hier diskutiert).
+Ähnliche Artikel:
+Warnung: Schwachstel
+le in QNAP NAS wird angegriffen, 62.000 Infektionen
+QNAP Sicherheitswarnung vor eCh0raix-Ransomwa
+QS
+natch-Malware zielt auf QNAP-NAS-Laufwerke
+Warnung: Ransomware-Angriffe auf QNAP-/Synology-NAS
+QNAP-
+NAS und die gekaperten Hosts-Einträge
+NAS: QNAP und Synology von Meltdown/Spectre betroffen
+QNAP fix
+t kritischen Bug, der Datenverlust bewirkt
+Sicherheitsinformationen (8. Juni 2020)
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Business Case läuft... Ausbildung nicht 
+#Ransomware sorgt bei Organisierter Kri
+minalität #OK für Expertenmangel 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Sechs von zehn IT-Managern glauben, dass ihr U
+nternehmen unter Umständen Zahlungen an Ransomware-Erpresser leisten würde. Ransomware ist für Cyber
+kriminelle ein lukratives Geschäftsfeld, dass Unternehmen in den Ruin treiben kann. Die überwiegende
+ Mehrheit an IT-Sicherheits-Verantwortlichen schätzt den Gefahrenfaktor als extrem hoch ein. Defizit
+e bestehen in der Sensibilisierung bei Mitarbeitern und Geschäftsleitungen, wie auch im akuten Mange
+l an Sicherheitsexperten. Zu diesem Ergebnis kommt eine weltweite Bitdefender- Studie.
+Sieben von ze
+hn (71%) IT-Sicherheits-Verantwortlichen im Topmanagement glauben, dass Cyberkriegsaktivitäten ihre 
+Organisation gefährden. Die Hälfte (49%) sorgt sich, dass eine Ransomware-Attacke ihr Unternehmen au
+slöschen könnte, und sechs von zehn (59%) vermuten, dass ihr Unternehmen unter Umständen Zahlungen a
+n Erpresser leisten würde. Einer weltweiten Bitdefender-Studie zufolge, empfehlen drei Viertel (76%)
+ mehr Diversität unter den IT-Sicherheitsprofis, um sich besser zu wappnen.
+Die Studie 10 in 10 hat 
+die Frage untersucht, welche zehn Faktoren den Erfolg der IT-Sicherheit in den nächsten zehn Jahren 
+bestimmen werden. Insgesamt wurden dazu über 6.700 IT-Sicherheits-Experten in zehn Ländern befragt, 
+über 500 davon in Deutschland. Die Befragten arbeiten in Unternehmen mit über 100 Angestellten. 23 P
+rozent der Befragten gehören dem Topmanagement (C-Level) an. 
+Cyberangriffe: Eine reale Bedrohung, a
+uf die viele nicht vorbereitet sind 
+Sieben von zehn der befragten Top-Manager (71%) glauben, dass C
+yberkriegsführung eine Bedrohung für ihre Organisation darstellt. Zugleich räumt etwas mehr als ein 
+Fünftel (22%) ein, keine Strategie zur Eindämmung dieses Risikos zu haben. Die Hälfte aller Befragte
+n (50%) stimmen darin überein, dass zunehmende Cyberkriegsaktivitäten in den nächsten zwölf Monaten 
+der Wirtschaft schaden werden. 
+IT-Sicherheit: Die Branche muss sich von innen heraus verändern (Que
+lle: Bitdefender) 
+ 
+Ransomware ist ein boomendes Geschäftsmodell, das Unternehmen auslöschen kann
+4
+3 Prozent der IT-Sicherheits-Fachleute berichteten, dass sie im Zuge der Pandemie einen Anstieg der 
+Lösegeld-Angriffe beobachteten. 63 Prozent rechnen in den nächsten zwölf bis 18 Monaten mit einer we
+iteren Zunahme. 49 Prozent der Topmanager befürchten, dass eine Ransomware-Attacke ihr Unternehmen i
+n den nächsten 12 bis 18 Monaten auslöschen könnte, wenn sie ihre Investitionen in die Sicherheit ni
+cht erhöhen. Und sogar 59 Prozent von ihnen glauben, dass ihr Unternehmen eine Zahlung leisten würde
+, um zu verhindern, dass Informationen veröffentlicht werden.
+Aufklärung: Cybersicherheit besser kom
+munizieren
+Die Hälfte (51%) aller Befragten stimmt der Aussage zu, dass sich die Art und Weise, wie 
+sie über Cybersicherheit kommunizieren, dramatisch ändern muss, damit die notwendigen Investitionen 
+in diesem Bereich erfolgen. Zwei Fünftel (41%) glauben, dass in Zukunft mehr Kommunikation mit der b
+reiteren Öffentlichkeit und Kunden erforderlich ist, damit alle, sowohl innerhalb als auch außerhalb
+ der Organisation, die Risiken besser verstehen. 38 Prozent fordern eine bessere Kommunikation mit d
+er Geschäftsführung, damit diese die Risiken versteht. 39 Prozent wünschen eine weniger technische S
+prache, damit ihre gesamte Organisation die Gefahren versteht und lernt, wie sie sich schützen kann.
+ 
+38 Prozent fordern eine bessere Kommunikation mit der Geschäftsführung, damit diese die Risiken ve
+rsteht (Quelle: Bitdefender) 
+ 
+Diversität: Mehr Vielfalt, um Unternehmen robuster zu machen
+Über ei
+n Viertel (28%) der Befragten sagen voraus, dass es Unternehmen in den Ruin treiben wird, wenn der d
+erzeitige Mangel an IT-Sicherheitsfachkräften weitere fünf Jahre anhält. 52 Prozent aller Befragten 
+meinen, dass der Mangel an Vielfalt in der Cybersicherheit Anlass zur Sorge gibt. 40 Prozent der Top
+manager fordern, dass die Cybersicherheits-Industrie die Gesellschaft um sie herum widerspiegeln mus
+s. Darüber hinaus sind 76 Prozent der Meinung, dass bei den in der IT-Sicherheit Tätigen vielfältige
+re Fähigkeiten benötigt werden. 39 Prozent aller Befragten sagen, dass Neurodiversität die Cybersich
+erheit stärken wird, also eine stärkere Einbindung von Menschen im Autismus-Spektrum oder mit Legast
+henie, Dyspraxie, ADHS und anderen neurologischen Besonderheiten. 
+Liviu Arsene, Bitdefender»2020 wa
+r ein Jahr des Wandels – auch für die Sicherheitsindustrie«, meint Liviu Arsene, Global Cybersecurit
+y Researcher bei Bitdefender. »Die Sicherheitslandschaft entwickelt sich rasch weiter und versucht, 
+sich an die neue Normalität anzupassen, von verteilten Belegschaften bis hin zu neuen Bedrohungen. U
+m in dieser neuen Sicherheitslandschaft erfolgreich zu bestehen, müssen wir anfangen, darüber nachzu
+denken, wie wir die Qualifikationslücke auf andere Weise schließen können – wir müssen die Vielfalt 
+in den Fokus rücken, besonders die Neurodiversität.«
+Liviu Arsene zu den Studienergebnissen
+  
+ 
+Wei
+terführende Links   Bitdefender
+Vollständige Studienbericht »10 in 10« zum Download
+Bitdefender-Beri
+cht »The Indelible Impact of COVID-19 on Cybersecurity«
+Sophos-Studie zu Ransomware: Wer zahlt, verl
+iert
+ Zu viele Fake-E-Mails mit Ransomware & Viren landen bei Ihnen? Big Data könnte helfen 
+ .
+
+Kom
+mentar schreiben
+
+
+
+
+Bitte melden Sie sich an, um diesen Artikel zu kommentieren.
+
+
+
+
+
+
+
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Wenatchee Valley College evaluiert IT-Umgebung nach Anschlag auf örtliches College mit Ranso
+mware http://dlvr.it/RhcPP3
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Peter und Marius reden über den Warntag, Frau stirbt
+ wegen Ransomware, NVIDIA kauft Arm, Apple hat neue Geräte vorgestellt und vieles mehr!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Org
+anisatorisches
+Ihr könnt uns unterstützen per Überweisung oder PayPalPodcast FeedKommt in den NerdZo
+om Chat!TelegramMatrix
+Ihr wollt die ungeschnittene Version hören? Hier geht es zur Aufzeichnung des
+ Livestream auf YouTube.
+Was gibt’s neues?
+PeterRenoir! Ubuntu 20.10 Groovy GorillaMariusSabrent Roc
+ket XTRM 2TB Thunderbolt 3 Externe SSD
+Follow-Up
+Mozilla stellt Firefox Send einAmazon Music now has
+ podcastsApple-Browser Safari 14 bringt Datenschutzbericht und wirft Flash raus
+Themen
+WarntagBehörd
+en-Chef Unger muss wohl gehenDüsseldorfer Uniklinik von Hackern erpresst – Frau stirbt nach zu späte
+r BehandlungNVIDIA is buying Arm for $40 billionSavearm.co.ukAlternative? Risc-V-PCApple EventiPadAp
+ple stellt neues iPad der achten Generation mit einem enormen Leistungssprung voriPad AirApple stell
+t völlig neues iPad Air mit A14 Bionic, Apples fortschrittlichstem Chip, vorModellvergleichiPad Pro 
+vs. iPad AiriPad mini vs. iPadApple WatchApple Watch Series 6 bietet fortschrittliche Funktionen für
+ Gesundheit und FitnessSingapur und Apple kooperieren bei nationaler Gesundheitsinitiative durch den
+ Einsatz der Apple WatchApple erweitert das Apple Watch Erlebnis auf die ganze FamilieApple Watch SE
+Apple Watch SE: Die ultimative Kombination aus Funktion, Design, Preis und LeistungVergleichApple Fi
+tness+Apple Fitness+: Ein neues, motivierendes und individuelles Fitnesserlebnis mit der Apple Watch
+Apple OneApple One macht die Nutzung der Apple Abo-Services einfacher denn je
+WTF der Woche
+Handylad
+en-Betreiber will 5G verhindernElektrosmogFormer NSA chief Keith Alexander has joined Amazon’s board
+ of directors
+Events
+rC3
+MFG Musik/Film/Gametipp
+PeterDas Kapital im 21. Jahrhundert (Amazon Prime)S
+an Francisco Blade Runner 2020Die Snobs (Amazon Prime)MariusThe Real State of the UnionHogwarts Lega
+cy
+Bitte lasst uns Feedback und Anregungen da in den Kommentaren, auf Twitter @NerdZoomDE, per Email
+ oder oder einfach in unserem Chat! 
+Musik von MDKIntro: Press Start (Smooth Jazz Remix)Outro: Hyper
+ BeamMDK auf YouTube
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Nach Angriff auf Düsseldorfer Klinik kommt es zu erstem To
+desfall durch Ransomware https://ift.tt/2EIsSex #bitcoin
+
+/ ~ 4AC5DDE2 ~ /
+
+Gefahr durch #Ransomware
+ #AgeLocker bei #QNAP NAS Systemen
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+Opfer des Verschlüsselungstrojaners Thunde
+rX können aufatmen: Sicherheitsforscher von Tesorion haben ein Gratis-Entschlüsselungstool veröffent
+licht. Damit kann man vom Windows-Trojaner in Beschlag genommene Dateien befreien, ohne Lösegeld zah
+len zu müssen.
+
+
+    heise online daily Newsletter
+  
+
+
+
+
+
+
+
+
+
+
+
+
+          Keine News verpassen! Mi
+t unserem täglichen Newsletter erhalten Sie jeden Morgen alle Nachrichten von heise online der verga
+ngenen 24 Stunden. 
+        
+
+
+
+                  Newsletter jetzt abonnieren
+                
+
+
+
+
+
+
+
+
+ThunderX tauchte Ende August auf dem Radar von Sicherheitsforschern auf. Wie von dieser Schädlings
+art gewohnt macht sich ThunderX über Dateien her und verschlüsselt diese. Betroffene Dateien weisen 
+die Endung .tx_locked auf. Opfer können im Anschluss an die Verschlüsselung beispielsweise Fotos ode
+r Dokumente nicht mehr öffnen. Den Schlüssel haben nur die Malware-Entwickler. Für die Herausgabe wo
+llen sie ein Lösegeld. Wie hoch das in diesem Fall ausfällt, ist bislang unbekannt.
+Gängige Technike
+n
+Damit Opfer so wenig Mittel zur Wiederherstellung der Dateien in der Hand haben, löscht ThunderX a
+uch die Schattenkopien von Windows. Daraus könnte man theoretisch ältere und somit unverschlüsselte 
+Versionen von Dokumenten wiederherstellen. Neben lokalen Festplatten verschont der Erpressungstrojan
+er auch Dateifreigaben im Netzwerk nicht.
+
+
+Diese Fähigkeiten gehören schon lange zum Repertoire von
+ Ransomware. Doch in einem Bericht sind die Sicherheitsforscher noch auf eine weitere Funktion gesto
+ßen: ThunderX bringt ein Modul mit, mit dem es Dateien unwiederbringlich zerstören könnte. Ob das be
+reits zum Einsatz kommt, ist zum jetzigen Zeitpunkt unklar.
+
+Gefundenen Fehlern sei dank!
+Um Dateien
+ zu verschlüsseln, setzt ThunderX auf Salsa20. Doch die Sicherheitsforscher haben beim Ablauf der Ve
+rschlüsselung zwei Bugs entdeckt: So kommt es bei der Schlüsselgenerierung und beim Multi-Threading 
+zu Fehlern. Diese scheinen elementar zu sein, da die Forscher nun das Entschlüsselungstool "ThunderX
+ Ransom" veröffentlicht haben. Wo genau das Tool ansetzt, führen sie derzeit nicht aus.
+Das Tool kan
+n man auf der Plattform No More Ransom herunterladen. Dort findet man noch unzählige weitere kostenl
+ose Entschlüsselungstools und Anleitungen, wie man diese nutzt. Bei dem Projekt handelt es sich um e
+ine Zusammenarbeit von unter anderem Kaspersky Europol und McAfee. Außerdem sind noch einige Herstel
+ler von Anti-Viren-Software mit an Bord.
+Im Sommer 2020 wurde das Portal vier Jahre alt. Eigenen Ang
+aben zufolge konnten mit den angebotenen Tools rund 630 Millionen US-Dollar an Lösegeldzahlungen ver
+eitelt werden.
+
+
+(des)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+      Kommentare lesen
+      (2)
+    
+  
+
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Diverse Firmennetzwerke von Krankenhäuser
+n und Therapiezentren in ganz USA sind seit gestern früh mit Schadsoftware befallen. Die Erpresser-S
+oftware gestaltet die Weiterführung der Kliniken der Universal Health Services sehr kompliziert. All
+e Mitarbeiter müssen derzeit mit Papier arbeiten. Die sensiblen Daten seien vom Hack angeblich nicht
+ betroffen, teilte UHS heute auf ihrer Webseite mit.Universal Health Services landesweit von Erpress
+er-Software betroffenGestern früh begann ein gezielter Cyberangriff auf die technische Infrastruktur
+ von Akutkrankenhäusern, Therapie-Einrichtungen, ambulanten Stationen und vielen weiteren Häusern. A
+ngestellte der Universal Health Services (UHS) sind überall in den USA, Puerto Rico und in Großbrita
+nnien tätig. Nach eigenen Angaben beschäftigt man über 90.000 Mitarbeiter.Laut eines Statements habe
+n die Hacker angeblich keine sensiblen Daten kopiert. Mit Hilfe von IT-Sicherheitspartnern arbeite m
+an momentan Konzepte aus, um die Einrichtungen schnell wieder ans Netz zu bringen. Trotz der Problem
+e soll die Patientenversorgung angeblich störungsfrei weiterlaufen, hieß es im Statement von UHS.  
+
+Hacker nutzen die angespannte Lage vieler Kliniken ausBeim Malware-Einsatz kam die allseits bekannte
+ Ransomware Ryuk zum Einsatz. Die Cyberkriminellen machen sich die angespannte Lage in diesem Sektor
+ aufgrund der COVID-19-Pandemie zunutze. In der Folge ist der Zugang zu allen IT-Systemen und Patien
+tendaten der Universal Health Services blockiert. Das führt dazu, dass diese nicht mehr behandelt we
+rden können. Die fehlenden Informationen können mitunter Menschenleben kosten, hieß es aus Sicherhei
+tskreisen.Man erinnere sich nur an den Todesfall der Unikliniken in Düsseldorf nach einem Hackerangr
+iff. Auch in der Gesundheitsbranche wird gerne an den laufenden Kosten gespart, indem man das Budget
+ des IT-Sektors gnadenlos kürzt. Fraglich ist hingegen, wer vom Management die Verantwortung für dau
+erhafte Schäden oder einen Todesfall übernehmen will, wenn diese Strategie nicht aufgehen sollte ?!D
+och das ist möglicherweise noch nicht alles. Ob es den Hackern tatsächlich misslungen ist, bei den C
+omputern der UHS an die vielen Kundendaten zu gelangen, um diese zu kopieren oder zu verfremden, wir
+d sich noch herausstellen. Bei einem komplett verschlüsselten System kann man das vorab gar nicht be
+urteilen. Das liegt in der Natur der Sache. Wenn die Sicherheitspartner lediglich die Backups wieder
+ aufspielen, wird man das sowieso nicht mehr aufklären können.Tarnkappe.info
+
+/ ~ 4AC5DDE2 ~ /
+
+IT-S
+hutdown nach Cyber-Angriff auf Uhrenhersteller Swatch https://borncity.com/blog/2020/09/29/it-shutdo
+wn-nach-cyber-angriff-auf-uhrenhersteller-swatch/… #Ransomware #Sicherheit Borns IT- & Windows-Blog
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Sagen wir es so, Ransomware beschleunigt manchmal die Entwicklung.
+
+/ ~ 4AC5DDE2 
+~ /
+
+Ontrack-Experten sehen eine Zunahme der Datenwiederherstellung aufgrund von #Ransomware oder Ha
+cking-Angriffen. Lesen Sie mehr über aktuelle Fälle und wie man sich und seine Daten besser schützen
+ kann. https://bit.ly/31lD7hm #ontrack #ransomware #cybercrime #hacking #dataprivacy
+
+/ ~ 4AC5DDE2 ~
+ /
+
+
+Wer dieser Tage im Dateianhang einer Mail ein gepacktes Archiv vorfindet, sollte besonders gut 
+aufpassen: Darin könnte die hoch entwickelte Windows-Malware Emotet lauern.
+
+
+
+Wie Microsoft auf Twi
+tter berichtet, sollen solche Mails derzeit weltweit und in verschiedenen Sprachen unterwegs sein. A
+n den als Arbeits- oder Rechnungsmails getarnten Nachrichten hängt ein mit einem Passwort geschützte
+s Archiv. Dieser Ansatz sorgt dafür, dass Antiviren-Software auf Mail-Gateways nicht in das Archiv g
+ucken kann und somit die Bedrohung darin nicht sieht.
+
+
+Der Text in der Mail bittet das Opfer darum,
+ das Archiv mit dem in der Nachricht enthaltenen Passwort zu öffnen. Darin befindet sich ein Word-Do
+kument mit vermeintlichen weiterführenden Informationen zum Betreff der Mail.
+Infektion nicht ohne W
+eiteres
+Um eins gleich klarzustellen: Der alleinige Empfang der Mail und selbst das Öffnen des Archi
+vs und im Anschluss des Dokuments hat noch keine Emotet-Infektion zufolge. Erst wenn ein Opfer die M
+akros im Word-Dokument aktiviert, kommt die Malware auf den Computer.
+
+
+
+
+
+
+
+
+
+
+ 
+Wenig überzeugend:
+ In der aktuellen Emotet-Welle verschickte Mails knüpfen im Betreff an Projekte aus 2013 an. 
+
+     
+ (Bild: Microsoft )
+    
+
+
+
+Um das zu erreichen, tun die Kriminellen so, als wenn das Dokument mit W
+indows 10 Mobile oder Android erzeugt wurde. Um es lesen zu können, muss das Opfer den "Kompatibilit
+ätsmodus" aktivieren. Doch diesen Modus gibt es gar nicht. Fällt das Opfer auf die Finte rein, aktiv
+iert es die Makros im Dokument.
+
+Emotet-Mails mit einem Blick enttarnen
+In der Vergangenheit hing Em
+otet an Mails, die in der Regel sehr gut gefälscht waren und selbst Admins mussten zum Teil mehrmals
+ hingucken, um den Schwindel aufzudecken. Dafür werteten die Emotet-Macher bereits kopierte Interna 
+aus und strickten daraus maßgeschneiderte Betrüger-Mails mit gefährlichem Anhang. So waren in Untern
+ehmen beispielsweise Mails im Namens des Chefs in Umlauf, die an bestehende Projekte anknüpften und 
+so besonders glaubhaft wirkten.
+Doch dieses Mal haben sich die Emotet-Macher offensichtlich keine gr
+oße Mühe gegeben: Microsoft berichtet von Mails, die im Betreff und im Text an veralteten Bestellung
+en oder Projekten aus beispielsweise 2013 und 2014 anknüpfen. Das lässt den Betrug schnell auffliege
+n.
+
+
+    Lesen Sie auch
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cybercrime: Erpressung auf neuem Niveau
+     
+     
+
+
+
+
+
+
+
+
+
+
+(des)
+
+
+
+
+
+
+comments_outline_white
+
+
+
+    
+      Kommentare lesen
+      (341)
+    
+ 
+ 
+
+
+          Zur Startseite
+        
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Ransomware-Attacken nehmen zu: Die Scha
+denssummen sind enorm und vor kurzem gab es an der Uniklinik Düsseldorf sogar einen Todesfall. Die P
+olizei rät Lösegeldopfern immer davon ab, die kriminellen Banden zu bezahlen, die ihre Computersyste
+me verschlüsselt haben – und dafür gibt es viele gute Gründe. Selbst nach der Übergabe des Geldes du
+rch die Unternehmen ist es nicht immer sicher, dass sie ihre Daten wiederhergestellt bekommen. Schli
+eßlich verhandeln sie mit Gaunern.
+Aber selbst wenn sie ihre Daten zurückbekommen, ist es immer noch
+ eine schlechte Idee zu bezahlen. Es gibt den Gaunern einen großen Zahltag, der zu weiteren Angriffe
+n ermutigt – vielleicht sogar wieder auf dieselbe Organisation. Und diese große Auszahlung bedeutet,
+ dass die Banden in die Einstellung von mehr Software-Entwicklern und Hackern investieren können, um
+ noch größere Ziele zu verfolgen.
+Das Lösegeld zu zahlen, erspart Ihnen vielleicht kurzfristig Schme
+rzen, bedeutet aber auf lange Sicht ein größeres Problem für alle anderen. Gegenwärtig ist es unwahr
+scheinlich, dass Unternehmen im Vereinigten Königreich wegen der Zahlung an eine Lösegeld-Bande stra
+frechtlich verfolgt werden – es sei denn, es besteht eine vernünftige Chance, dass die Zahlung zur F
+inanzierung des Terrorismus verwendet wird. Aber zumindest eine führende Persönlichkeit der Sicherhe
+itsbranche ist der Meinung, dass es sehr viel schwieriger oder sogar illegal sein sollte, Lösegeld z
+u zahlen.
+In einer Rede vor dem Sicherheits-Think-Tank Royal United Services Institute (RUSI) Anfang
+ dieses Monats erklärte der ehemalige Leiter des National Cyber Security Centre (NCSC), des britisch
+en Gegenparts zum BSI , Ciaran Martin, wie groß das Problem der Lösegeldforderung nach Ansicht der B
+ehörde ist. „Bis zu meinen letzten Stunden im NCSC im vergangenen Monat war ich der Ansicht, dass di
+e wahrscheinlichste Ursache für einen größeren Zwischenfall ein Lösegeldanschlag auf einen wichtigen
+ Dienst war“, sagte er.
+„Für den Angreifer wäre die Wahl des Dienstes zufällig. Sie waren nur auf Ge
+ld aus. Aber unter dem Gesichtspunkt des nationalen Schadens könnte diese zufällige Wahl des Opfers 
+wichtig sein. Was mich nachts am meisten wachhielt, war die Aussicht auf körperlichen Schaden, der u
+nbeabsichtigt durch Lösegeldforderungen entstanden war.“ Er fügte hinzu: „Kriminelle Lösegeldforderu
+ngen, die von unmoralischen Kriminellen rücksichtslos eingesetzt werden, sind eine der größten, aber
+ am wenigsten diskutierten Geißeln des modernen Internets.“
+Martin sagte, wenn er „im nächsten Jahr 
+eine politische Karte ausspielen könne“, würde er „eine ernsthafte Prüfung der Frage“ fordern, „ob w
+ir das Gesetz dahingehend ändern sollten, dass es für Organisationen im Vereinigten Königreich illeg
+al wird, im Falle von Lösegeldforderungen Lösegeld zu zahlen“.
+Wenn die Antwort zum Verbot der Löseg
+eldzahlung nein laute, sollten aktiv eine Alternative gesucht werden. Laut Martin sei es eine seltsa
+me Anomalie, dass die britischen Erpressungsgesetze weitgehend auf den Erfahrungen mit Entführungen 
+durch terroristische Gruppen basieren.  Das heißt, wenn man von einer verbotenen Terrorgruppe erpres
+st wird, ist es illegal, zu zahlen, aber wenn die Angreifer gewöhnliche Kriminelle oder sogar staatl
+iche Angreifer sind, dann ist es in Ordnung.
+Man geht davon aus, dass bis zur Hälfte der Organisatio
+nen zahlen, wenn sie von Malware und Ransomware getroffen werden, was die Datenverschlüsselung von M
+alware zu einer wichtigen Einnahmequelle für raffinierte kriminelle Banden gemacht hat. Einige Versi
+onen von Lösegeldern haben Lösegeld in zweistelliger Millionenhöhe eingenommen, gewöhnlich in Form v
+on schwer aufzuspürenden Krypto-Währungen wie Bitcoin.
+Viele Opfer haben das Gefühl, dass sie kaum e
+ine andere Wahl haben, als zu zahlen, wenn die Alternative darin besteht, alle ihre Computersysteme 
+und Datenbanken effektiv von Grund auf neu aufzubauen – und dabei zu versuchen, nicht aus dem Geschä
+ft zu gehen.
+Kritiker haben jedoch davor gewarnt, dass die Möglichkeit, das Lösegeld zahlen zu könne
+n, bedeutet, dass Lösegeld-Angriffe von einigen als nur ein weiterer Kostenfaktor im Geschäftsleben 
+angesehen werden, was bedeutet, dass sie weniger wahrscheinlich in die manchmal kostspieligen Sicher
+heitssysteme investieren werden, die solche Angriffe verhindern würden.
+Wenn die Zahlung des Lösegel
+des keine legale Option mehr wäre, müssten Unternehmen sicherstellen, dass ihre Systeme robust genug
+ sind, um die Angreifer überhaupt erst zu stoppen. Es würde aber auch viel mehr Druck auf die Polize
+i ausüben, die Erpresserbanden aufzuspüren.
+
+
+
+ANZEIGE
+Auf zu neuen Höhen mit SkySQL, der ultimative
+n MariaDB Cloud
+In diesem Webinar stellen wir Ihnen SkySQL vor, erläutern die Architektur und gehen 
+auf die Unterschiede zu anderen Systemen wie Amazon RDS ein. Darüber hinaus erhalten Sie einen Einbl
+ick in die Produkt-Roadmap, eine Live-Demo und erfahren, wie Sie SkySQL innerhalb von nur wenigen Mi
+nuten in Betrieb nehmen können.
+
+
+						Jetzt registrieren und Aufzeichnung ansehen.					
+
+
+
+
+
+
+
+/ ~
+ 4AC5DDE2 ~ /
+
+[- Universal Health Services: Computer von Ransomware verschlüsselt -] https://ift.tt
+/3cFEADb #ITsec #sicherheit
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Das Thema „Kidnapping“ ist stets eine heikle Angeleg
+enheit und die Frage, ob und wie man Lösegeld zahlt, kann im Zuge der Entführung von Menschen nicht 
+eindeutig beantwortet werden. Im Gegensatz dazu lautet die klare Empfehlung des BSI (Bundesamt für S
+icherheit in der Informationstechnik), im Fall von Ransomware, die es auf die „Entführung“ immaterie
+ller Daten abgesehen hat, nicht zu bezahlen. Schließlich darf dabei niemals vergessen werden, dass m
+an es mit Kriminellen zu tun hat. Es ist nicht sicher, ob sich diese an eigene Versprechen sowie get
+roffene Abmachungen halten. Vielmehr bestätigt sie jede bezahlte Forderung darin, dass ihr Geschäfts
+modell funktioniert.
+Persönliche Daten in Gefahr
+Zwar geht es bei Ransomware „nur“ um den gesperrten
+ Zugriff auf die Inhalte und Festplatten von Rechnern, aber deswegen ist es nicht weniger persönlich
+. Wir alle verbringen einen Großteil unserer Arbeits- und Freizeit im Internet. Bei Online-Spielen, 
+in Videomeetings sowie natürlich beim Einkaufen und Online-Banking kommen zur Bestätigung der Identi
+tät persönliche Informationen zum Einsatz. Aus diesem Grund ist Ransomware so gefährlich: Sobald Anw
+endern ihre digitalen Identitäten gestohlen oder Zugriffe darauf verwehrt werden, steigt die Bereits
+chaft, auf die Forderungen einzugehen.
+Die Zeit läuft ab
+Ransomware existiert in mehreren Varianten.
+ Je nach Art der Schadsoftware werden beispielsweise alle Dokumente verschlüsselt oder der Zugriff a
+uf den Desktop gesperrt. Andere hingegen übernehmen den Rechner komplett und übermitteln im Hintergr
+und wichtige Daten an den Angreifer. In allen Fällen wird eine Meldung auf dem Bildschirm angezeigt,
+ die den Nutzer anweist, einen bestimmten Betrag als Lösegeld in einer Kryptowährung zu bezahlen. Ei
+n ablaufender Timer zeigt an, wie viel Zeit dafür bis zum endgültigen Löschen der Daten bleibt. Das 
+erhöht den Druck zusätzlich.
+Evolution des Ransomware-Geschäftsmodells
+Die erste Ransomware-Welle in
+ den Jahren 2016/2017 stand unter dem Motto „Masse statt Klasse“: Es wurde versucht, so viele Rechne
+r wie möglich zu infizieren, wobei das verlangte Lösegeld meist bis zu 100 Dollar betrug. Danach spe
+zialisierten sich die Cyberkriminellen auf bestimmte Unternehmen und darauf, einen Zugang zum intern
+en Netzwerk zu erhalten, um die Schadsoftware dort zu verteilen. Im Zuge dessen erhöhten sich die Lö
+segeldforderungen um den Faktor 10 auf mehrere tausend Dollar. Das sprach sich natürlich auch bei de
+n Unternehmen herum und dementsprechend stieg die Nachfrage nach Cyberversicherungen gegenüber Ranso
+mware. Damit ging das Kalkül der Angreifer auf. Wenn ein Unternehmen mit einer Cyberversicherung Opf
+er einer Ransomware-Attacke wird, springt die Versicherungsgesellschaft bei der Rückforderung des ge
+zahlten Lösegelds ein und die Bereitschaft des Unternehmens steigt, das Lösegeld zu bezahlen.
+Im Jan
+uar 2020 startete dann mit der Ransomware Maze die nächste Eskalationsstufe. Es wurde nicht nur den 
+Zugang zum Rechner und/oder auf die Dokumente eingeschränkt, gleichzeitig wurden auch Daten an einen
+ Command-and-Control-Server übertragen. Der Brückenschlag zwischen zwei unterschiedlichen Geschäftsm
+odellen war damit perfekt: Mit Lösegeldforderungen und dem Verkauf gestohlener Daten – der bisherige
+n Haupteinnahmequelle der Hacker – konnte gleich doppelt abgesahnt werden.
+Für die Opfer noch beunru
+higender ist, dass sie nun davon ausgehen müssen, dass bei jedem Ransomware-Angriff vertrauliche Dat
+en über das Internet übertragen werden. Vorfälle wie diese sind gemäß der DSGVO meldepflichtig. Für 
+betroffene Unternehmen entsteht dadurch ein noch größerer Schaden, da sie für die sichere Speicherun
+g der persönlichen Daten verantwortlich zeichnen. Zu den Kosten für die Wiederherstellung und etwaig
+en Strafen kommt jetzt noch der Vertrauens- und Imageverlust bei Kunden, Partnern und Mitarbeitern.
+
+Ein Muss: mehrschichtige Sicherheitskonzepte
+Glücklicherweise gibt es Licht am Ende des Tunnels, den
+n ein mehrschichtiges Sicherheitskonzept ist auch gegen Ransomware-Attacken wirksam. Unternehmen sol
+lten ihre Gateways mit Security-Features wie einem Virenschutz der nächsten Generation, Intrusion Pr
+evention, DNS- und URL-Filterung sowie Deep Packet Inspection absichern. Eine Multi-Faktor-Authentif
+izierung zieht einen zusätzlichen Burggraben um persönliche Accounts. Sämtliche Endgeräte sollten üb
+er Lösungen für EPP (Endpoint Protection Platforms) und EDR (Endpoint Detection and Response) verfüg
+en und betriebssystemseitig vollständig gepatcht sein. Ransomware-Attacken lassen sich dadurch direk
+t bekämpfen. Einen weiteren wichtigen Punkt stellen regelmäßige Backups auf Datenspeichern dar, die 
+vom allgemeinen Netzwerk getrennt sind. Unternehmen sollten ihre kritischen Dateien zusätzlich über 
+DLP (Data Loss Protection)-Lösungen sichern.
+Ein aktuelles Dokument des BSI (Bundesamt für Sicherhei
+t in der Informationstechnik) mit dem Titel „Ransomware: Bedrohungslage, Prävention & Reaktion 2019“
+ bietet unter folgendem Link weiterführende Informationen: https://www.bsi.bund.de/SharedDocs/Downlo
+ads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware.html
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+[English]Der Schweizer Uhren
+hersteller Swatch ist Opfer eines Cyber-Angriffs geworden. Das Unternehmen hat seine IT-Systeme heru
+ntergefahren, nachdem dieser Angriff entdeckt wurde.
+Anzeige
+
+ 
+
+
+Die Swatch Group SA ist ein weltwe
+it tätiges Unternehmen, das auf die Herstellung und den Verkauf von Fertiguhren und Schmuck sowie vo
+n Uhrwerken und -komponenten spezialisiert ist. Darüber hinaus ist die Swatch Group auch in der Hers
+tellung und im Verkauf von elektronischen Systemen und Komponenten sowohl für die Uhrenindustrie wie
+ auch für weitere Branchen tätig. Das Unternehmen hat seinen rechtlichen Sitz in Neuenburg, die Verw
+altung befindet sich in Biel/Bienne
+Cyber-Angriff am Wochenende
+In diesem Kommentar findet sich die 
+erste Info zum Vorfall (danke). Reuters berichtet in diesem Artikel über den Cyber-Angriff. Die Swat
+ch Group hat ihre IT-Systeme heruntergefahren, nachdem sie am Wochenende einen Cyberangriff entdeckt
+ hatten. Das teilte der Uhrenhersteller am heutigen Dienstag mit.
+“Die Swatch Group bestätigt, dass 
+sie klare Anzeichen eines sich entwickelnden Cyber-Angriffs auf einige ihrer IT-Systeme während des 
+Wochenendes festgestellt hat”, sagte das Unternehmen in einer E-Mail-Erklärung und bestätigte damit 
+einen Bericht der Schweizer Nachrichtenagentur AWP.
+Eine Abschaltung einiger ihrer Systeme – die die
+ Gruppe auf einer vorsorglichen Basis durchführte – habe einige ihrer Operationen beeinträchtigt, sa
+gte ein Sprecher der Swatch Group, ohne anzugeben, welche Operationen betroffen waren. “Die Situatio
+n wird sich so bald wie möglich normalisieren”, teilte der Sprecher mit.
+
+Anzeige
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5
+DDE2 ~ /
+
+So lässt sich das #Ransomware-Problem lösen https://zdnet.de/88382995/so-laesst-sich-das-r
+ansomware-problem-loesen/… via @zdnet_de
+
+/ ~ 4AC5DDE2 ~ /
+
+Opfer von Verschlüsselungstrojanern, sog
+. #Ransomware, finden beim #NoMoreRansom Project kostenlose Entschlüsselungstools und Anleitungen.
+h
+ttps://nomoreransom.org/de/decryption-tools.html…
+
+/ ~ 4AC5DDE2 ~ /
+
+Ist vielen Geschäftsleitungen n
+icht bewußt: #Ransomware ist ein boomendes Geschäftsmodell, das Unternehmen auslöschen kann. Einer S
+tudie von @Bitdefender_DE steigen Lösegeldangriffe während Corona
+https://speicherguide.de/managemen
+t/cybersicherheit/bitdefender-firmen-zu-wenig-auf-cyberangriffe-vorbereitet-24978.aspx…
+
+/ ~ 4AC5DDE
+2 ~ /
+
+
+MARLBOROUGH, Mass.--(BUSINESS WIRE)--ExaGrid®, die branchenweit einzige mehrstufige Backup-S
+peicherlösung, gab heute bekannt, dass das Wenatchee Valley College auf eine Veeam-Lösung von ExaGri
+d für überlegene Datensicherung und zur Einführung einer Strategie zur Ransomware-Datenrettung umges
+tiegen ist.
+
+Das Wenatchee Valley College bereichert die Region North Central Washington im Bundesst
+aat Washington, da es den Bildungsbedarf und kulturelle Bedürfnisse der Kommunen und Einwohner im ge
+samten Versorgungsgebiet unterstützt. Das College bietet qualitativ hochwertige Transfer-, geisteswi
+ssenschaftliche, berufliche/technische, grundlegende Kompetenzen und Weiterbildung für Studenten mit
+ unterschiedlichem ethnischen und wirtschaftlichen Hintergrund. Der Wenatchee-Campus liegt an den ös
+tlichen Hängen der Cascade Mountains, auf halbem Weg zwischen Seattle und Spokane. Der WVC-Campus in
+ Omak befindet sich nahe der kanadischen Grenze bei Omak, etwa 160 Kilometer nördlich von Wenatchee.
+
+
+„Ein College in unserem System erlitt einen massiven Ransomware-Angriff und sämtliche Server waren
+ betroffen, einschließlich der Backup-Daten, so dass das College nichts wiederherstellen konnten. Wi
+r haben die Erfahrungen dieser Einrichtung als Fallstudie genutzt, um die Bereiche zu verbessern, in
+ denen sie angreifbar war, die Grundursachen dafür, wie es geschah, wann es geschah und was zu diese
+m Ransomware-Angriff führte. Daraufhin haben wir Änderungen an unserer Umgebung vorgenommen und Best
+ Practices eingeführt. Selbst wenn wir selbst betroffen sind, wenn unsere VMware-Umgebung und unsere
+ Server davon belastet sind, wissen wir jetzt, dass die ExaGrid-Daten nicht beeinträchtigt werden“, 
+so Steve Garcia, der Informationssicherheitsbeauftragte des College. „Wir haben unsere alte Lösung v
+erschrottet und uns für ein ExaGrid-System und Veeam entschieden, das sich gut in unsere VMware-Infr
+astruktur einfügt. Die kombinierte Lösung von ExaGrid und Veeam ist erstaunlich! Sie funktionieren s
+ehr gut zusammen. Da ich die ExaGrid-Veeam-Lösung jetzt selbst verwende, habe ich sie Kollegen an an
+deren Community Colleges als solide, zuverlässige Lösung für alle Anforderungen an die Backup-Infras
+truktur empfohlen“.
+
+ExaGrid bietet eine mehrstufige Backup-Speicherlösung mit einer Front-End-Disk-
+Cache-Landezone und einer separaten Retention-Ebene, die alle gesicherten Daten enthält. Die Daten w
+erden direkt in die „Network Facing“ ExaGrid Disk-Cache Landing Zone geschrieben und dann in ein „No
+n-Network Facing“ Langzeitspeicherungs-Repository gestaffelt, wo sie als deduplizierte Datenobjekte 
+gespeichert werden, um die Speicherkosten für Langzeitdaten zu reduzieren. Der Ansatz von ExaGrid fü
+r Ransomware heißt Retention Time-Lock. Er hindert Hacker daran, Backups auf der Retention-Ebene des
+ ExaGrid-Systems zu löschen oder zu verschlüsseln. ExaGrid verfügt über die einzige nicht netzwerkse
+itige, abgestufte Backup-Speicherlösung (ein abgestufter Leerraum) mit verzögerten Löschvorgängen un
+d unveränderlichen Deduplizierungsobjekten. Dieser einzigartige Ansatz stellt sicher, dass im Falle 
+eines Ransomware-Angriffs Daten einfach wiederhergestellt oder VMs vom mehrstufigen Backup-Speicherl
+ösungs-System von ExaGrid gebootet werden können. Nicht nur die Primärspeicherung kann wiederhergest
+ellt werden, sondern auch alle Daten zur langfristigen Datensicherung, die nach einem Ransomware-Ang
+riff intakt bleiben.
+
+„Es gibt uns die Gewissheit, dass wir ein robustes Backup-System haben und das
+s wir im Falle eines Ransomware-Angriffs unsere Daten zurückerhalten und den normalen Betrieb wieder
+ aufnehmen können. Wir treffen Vorkehrungen, um sicherzustellen, dass, falls das passiert – ich habe
+ immer gesagt, wenn das passiert, aber aus meiner Sicht ist es inzwischen eine Frage des Zeitpunkts 
+–wann das passiert, können wir die Daten wiederherstellen und unsere Endbenutzer mit all ihren Daten
+ wieder in ihren normalen Betrieb zurückbringen“, erläuterte Garcia.
+
+Lesen Sie die vollständige Erf
+olgsstory, um mehr über Garcias Erfahrungen mit ExaGrid zu erfahren. Die veröffentlichten Kundenerfo
+lgsstorys und Unternehmensberichte von ExaGrid zeigen, wie zufrieden die Kunden mit dem einzigartige
+n Architekturansatz, dem differenzierten Produkt und dem konkurrenzlosen Kundensupport von ExaGrid s
+ind.
+
+Über ExaGrid
+
+ExaGrid bietet mehrstufige Backup-Speicherlösungen mit einer einzigartigen Disk-
+Cache-Landing Zone, einem Langzeitaufbewahrungsspeicher und einer Scale-Out-Architektur. Die Landing
+ Zone von ExaGrid sorgt für besonders schnelle Backups, Wiederherstellungen und sofortige VM-Wiederh
+erstellungen. Das Retention-Repository ist die kostengünstigste Lösung für die langfristige Speicher
+ung. Seine Scale-Out-Architektur von ExaGrid umfasst alle Geräte und stellt auch bei steigenden Date
+nmengen ein Backup-Fenster mit fester Länge bereit, wodurch teure Hardware-Upgrades entfallen und ve
+raltete Produkte vermieden werden. Besuchen Sie uns unter exagrid.com oder treten Sie in Kontakt mit
+ uns über LinkedIn. Erfahren Sie in unseren Kundenerfolgsstorys, was unsere Kunden über ihre eigenen
+ ExaGrid-Erfahrungen zu sagen haben und warum sie jetzt deutlich weniger Zeit für die Datensicherung
+ aufwenden.
+
+ExaGrid ist eine eingetragene Marke von ExaGrid Systems, Inc. Alle anderen genannten Ma
+rken sind das Eigentum der jeweiligen Inhaber. 
+
+Die Ausgangssprache, in der der Originaltext veröff
+entlicht wird, ist die offizielle und autorisierte Version. Übersetzungen werden zur besseren Verstä
+ndigung mitgeliefert. Nur die Sprachversion, die im Original veröffentlicht wurde, ist rechtsgültig.
+ Gleichen Sie deshalb Übersetzungen mit der originalen Sprachversion der Veröffentlichung ab.
+
+
+
+/ ~
+ 4AC5DDE2 ~ /
+
+Aufgepasst: Emotet versteckt sich nun in passwortgeschützten Archiven | heise online 
+https://heise.de/-4909712 #Cybercrime #Malware #Ransomware #Emotet
+
+/ ~ 4AC5DDE2 ~ /
+
+Prepare for da
+ battle... denn es wird virtuellen Krieg geben:
+
+#Ransomware - Wie US-Medien sich auf Hackerangriffe
+ vorbereiten
+
+Ein Netzwelt-Newsletter von @PatrickBeuth
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+Das Uniklinikum Düssel
+dorf. Bild von der Webseite der Klinik
+
+Die Uniklinik Düsseldorf wurde von einer Ransomware befallen
+. Im Zuge des Systemausfalls verstarb eine Patientin, weil sie nicht rechtzeitig behandelt werden ko
+nnte. Die Spur zu den Hackern hinter diesem ersten Todesopfer der Ransomware führt nach Russland – d
+ie Systemadministratoren der Klinik bleiben ratlos zurück.
+
+Es war schon lange absehbar, dass Ransom
+ware einmal ein Todesopfer fordern wird. Vor gut zwei Wochen ist dies in Düsseldorf geschehen. Durch
+ die Shitrix-Sicherheitslücke im Virtuellen Privaten Netzwerk der Uniklinik gelangte die Ransomware 
+DoppelPaymer ins System und verschlüsselte die Daten auf rund 30 Servern. In der Folge kam es zu wei
+tläufigen Systemausfällen in der Klinik.
+Das größte Krankenhaus von Düsseldorf musste daraufhin hund
+erte von Operationen absagen und sich von der Notfallversorgung abmelden. Krankenwägen konnten die K
+linik nicht anfahren, sondern mussten andere Krankenhäuser ansteuern. Eine Frau, die in lebensbedroh
+lichen Umständen schwebte, sollte zum Wuppertaler Klinikum gebracht werden. Auf dem Weg dorthin vers
+tarb sie jedoch wegen der Verzögerung der Behandlung. Der Tod der Patientin erregt weltweit Aufmerks
+amkeit, da sie die erste ist, die an den Folgen eines Ransomware-Angriffs gestorben ist.
+Dass die Ha
+cker auf Krankenhäuser abzielen, ist längst keine Seltenheit mehr. Wenn die Ransomware die medizinis
+chen Systeme außer Kraft setzt, bedroht sie Leben und erhöht damit den Druck, das Lösegeld zu bezahl
+en, um die Daten schnellstmöglich zu entschlüsseln. Es handelt sich mehr oder weniger um eine Erpres
+sung mit Geiselnahme.
+Beim Uniklinikum Düsseldorf scheint es sich aber vielmehr um ein Versehen geha
+ndelt zu haben. Die Hacker wollten eigentlich die Universität selbst angreifen und hatten die Lösege
+ldforderung auch an diese adressiert. Nachdem die Polizei ihnen mitteilte, dass sie nicht die Server
+ der Uni, sondern des Klinikums verschlüsselt hatten, zogen diese ihre Forderung zurück und sandten 
+der Klinik den Schlüssel.
+Die Klinik leidete jedoch noch einige Wochen an den Folgen des Angriffs; e
+rst am 23. September konnte sie die Notaufnahme wieder eröffnen. Die IT-Administratoren der Klinik b
+leiben etwas ratlos zurück. Der Shitrix-Bug in der VPN-Software der Firma Citrix war bereits seit De
+zember 2019 bekannt; der Hersteller hat die Lücke im Januar gefixt, und die Klinik hat sogar schon z
+uvor den von ihm empfohlenen Workaround umgesetzt. Was hätten sie mehr machen sollen?
+Offenbar haben
+ die Hacker den Bug noch vor dem Patch flächendeckend ausgenutzt. Auf den Servern der Uniklinik war 
+bereits seit Dezember eine Malware installiert, die jedoch erst jetzt zuschlug. Ermittler vermuten, 
+dass noch zahlreiche weitere Systeme still betroffen sind. In Nordrhein-Westfalen fielen schon zuvor
+ das Lukaskrankenhaus in Neuss sowie das Forschungszentrum Jülich Opfer einem Ransomware-Angriff zum
+ Opfer; im Zuge der Shitrix-Lücke traf es um Weihnachten 2019 herum die Universität Gießen.
+Mit dem 
+Todesfall verschärft sich natürlich die Ermittlung der Polizei. Die Staatsanwaltschaft von Wuppertal
+ führt derzeit ein Todesermittlungsverfahren und prüft, ob die Anklage gegen die Hacker um den Vorwu
+rf der fahrlässigen Tötung zu erweitern ist. Im Grunde ist dies aber eher egal, denn Ransomware-Hack
+er kommen in der Regel ungeschoren davon. Im Fall des Angriffs auf die Uniklinik führt die Spur nach
+ Russland, was durch die Art der Ransomware zu vermuten ist: Die DoppelPaymer-Gang greift von Russla
+nd aus Institutionen und Unternehmen auf der ganzen Welt an.
+Russland gilt als Ausgangspunkt eines G
+roßteils der Ransomware-Angriffe. Dabei aber scheint sich die russische Regierung nicht zu sehr daru
+m zu bemühen, die Hacker festzunehmen, solange diese ihre Energie auf Ziele im Ausland richten. Fest
+nahmen von russischen Hackern kamen bisher nur zustande, wenn diese selbst ins Ausland reisten. Mehr
+ere dieser Festnahmen durch die europäische oder US-amerikanische Polizei, etwa in Prag oder auf den
+ Malediven, haben sogar zu kleinen Verstimmungen der diplomatischen Beziehungen zu Russland geführt.
+
+Je stärker die Folgen von Ransomware-Angriffen werden, desto gravierender dürften die politischen F
+olgen sein. So hat die Regierung Trump Ransomware bereits als „Cyperterrorismus“ tituliert, nachdem 
+Hacker sensible Daten einer Anwaltskanzlei verschlüsselt und gestohlen haben. Zusammen mit der mögli
+chen fahrlässigen Tötung durch den Angriff auf das Klinikum Düsseldorf könnte dies den juristischen 
+Status von Ransomware prägen und verschärfen und generell die juristischen Grenzen zwischen Hackern 
+und Terroristen verschwimmen lassen.
+Für viele Unternehmen und Institutionen stellt Ransomware ein P
+roblem dar, das man nicht mit der leichtfertigen Formulierung abhaken kann, die Firmen sollten eben 
+mehr in ihre Cybersicherheit investieren. Gerade das Beispiel des Klinikums Düsseldorf zeigt, dass s
+elbst das umsichtige und zeitnahe Agieren der Administratoren im Rahmen des für sie möglichen einen 
+Angriff nicht ausschließen kann. Kliniken, Universitäten, Forschungszentren, Anwaltskanzleien und vi
+ele viele andere Firmen sind eben keine IT-Unternehmen, sondern investieren den Großteil ihrer Resso
+urcen in andere Tätigkeiten. Ein so kaum zu vermeidender Angriff verursacht ihnen enorme Kosten, und
+ sei es nur wegen der Ausfallzeit. Im Falle von Krankenhäuser kann dies nun auch Leben kosten.
+Teile
+n mit:Klick, um auf Facebook zu teilen (Wird in neuem Fenster geöffnet)Klick, um über Twitter zu tei
+len (Wird in neuem Fenster geöffnet)
+
+Ähnliche Beiträge
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Mal ganz abgesehen von 
+den wunderschönen Möglichkeiten die solche Mechanismen für Cyberangriffe bieten... Ransomware im Str
+omzähler *schauder*
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+einer der faszinierenden Randaspekte der US-Präsidentschaft
+swahl ist, wie sich die dortigen Medien derzeit auf Hackerangriffe vorbereiten - nicht auf sie selbs
+t, wohlgemerkt.So schrieb Marty Baron, der Chefredakteur der "Washington Post", seiner Redaktion in 
+der vergangenen Woche eine Anleitung zum Umgang mit gehackten Informationen, die einen Bezug zur Wah
+l haben. Der eindrücklichste Abschnitt darin lautet übersetzt: "Unsere Storys sollten an prominenter
+ Stelle erklären, was wir über den Kontext der Informationen wissen, einschließlich ihres Ursprungs 
+und den Beweggründen der Informanten sowie der Frage, ob es sich um einen Versuch handeln könnte, vo
+n einem anderen Thema abzulenken."Baron befürchtet, benutzt zu werden. Er ahnt, ebenso wie Facebooks
+ ehemaliger Sicherheitschef Alex Stamos und andere Experten, dass politische Akteure oder Institutio
+nen gehackt und die erbeuteten Informationen Journalisten zugespielt werden könnten, die darin eine 
+Schlagzeile, aber keine Kampagne sehen. "Hack & Leak" heißen solche Operationen, und den Tätern geht
+ es dabei nicht um die brisanten Informationen an sich, sondern darum, was sie bewirken können: Stim
+mung gegen bestimmte Kandidaten oder Parteien, oder Misstrauen in die Verlässlichkeit der Wahlen an 
+sich.Mitunter könnte schon der erste Teil dazu reichen, der Hack. Er muss nicht einmal besonders des
+aströs ausfallen. Die "New York Times" etwa veröffentlichte am Sonntag einen Bericht über Ransomware
+-Angriffe auf Wahlsoftwareanbieter, Städte und Gemeinden und versucht darin, das bedenkliche Ausmaß 
+darzustellen und gleichzeitig zu erklären, warum sich die Wahlberechtigten trotzdem keine Sorgen mac
+hen sollten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icon: vergrößern
+
+
+
+FBI-Direktor Christopher Wray (re.)
+
+Foto: POOL / 
+REUTERS
+
+
+
+
+
+
+Fast 1000 städtische Behörden und Wahl-Infrastruktur-Betreiber wurden dem Bericht zufo
+lge in den vergangenen zwölf Monaten Opfer von Verschlüsselungstrojanern und in der Folge mehr oder 
+weniger lahmgelegt. Allein in den ersten beiden Septemberwochen traf es sieben Regierungs- oder Verw
+altungseinrichtungen. Zuletzt wurde die Firma Tyler Technologies aus Texas Opfer von Online-Erpresse
+rn. Deren Software wird in 20 Wahlbezirken verwendet, um Ergebnisse zusammenzutragen, wobei die Firm
+a dazu nur wenig eindeutige Angaben macht. Zwei Kunden bemerkten danach verdächtige Anmeldevorgänge 
+mit Tyler-Zugangsdaten in ihren eigenen Systemen.Es könnte sich um den Versuch gehandelt haben, einf
+ach die nächsten Erpressungsopfer zu infizieren. Es könnte aber auch der Versuch sein, zu demonstrie
+ren, wie unsicher und damit vermeintlich unzuverlässig viele Stellen sind, die am Wahltag irgendeine
+ Rolle spielen, und sei sie noch so klein. Alles, was die Veröffentlichung der Ergebnisse verzögert,
+ "könnte Wähler denken lassen, dass die Wahl irgendwie illegitim ist", schreibt die "New York Times"
+ zur möglichen politischen Motivation hinter solchen Hacks.Der Bericht erschien am Ende einer Woche,
+ in der das FBI gleich zwei "Public Service Announcements" veröffentlichte, in denen die Bundespoliz
+ei versicherte, dass nichts und niemand den korrekten Ablauf der Wahl verhindern könnte, selbst wenn
+ anders lautende Gerüchte und Berichte kursieren sollten.Ich bin gespannt, wie gut diese Firewall ge
+gen Wahrnehmungshacks funktioniert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seltsame Digitalwelt: Die unlöschbare Appeine Anekd
+ote von Matthias KrempAls ich die neuen Apple Watches testen wollte, schlug Murphy's Law zu. Wann au
+ch sonst? Zuerst lief alles prima: Ich hatte die Series 6 und die SE zum Test bekommen, beide mit me
+inem iPhone gekoppelt und anfangs keine Probleme. Am zweiten Tag jedoch fiel mir auf, dass im Laufe 
+des Vormittags meine Trainingsdaten nicht mehr mit dem iPhone synchronisiert wurden. Irgendwas hatte
+ sich aufgehängt und jedes Mal, wenn ich versuchte, die Watch-App zu starten, stürzte sie sofort ab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icon: vergrößern
+
+
+
+Apple Watch Series 6
+
+Foto: APPLE/HANDOUT HANDOUT/EPA-EFE/Shut
+terstock
+
+
+
+
+
+
+Den Rest des Tages verbrachte ich mit Versuchen, das Problem zu lösen: Bluetooth aus-
+ und wieder einschalten, bei Uhr und iPhone den Flugmodus aktivieren, etliche Neustarts, nichts half
+. Apple rät in solchen Fälle dazu, die App zu löschen und neu zu installieren. Aber das verweigerte 
+das Betriebssystem: Die Watch-App darf man erst löschen, wenn alle zuvor verbunden Smartwatches vom 
+iPhone entkoppelt wurden. Doch das geht nur in der App, die bei mir nicht funktionierte. Stundenlang
+e Versuche später, das Problem mit allen nur denkbaren Tricks zu lösen, tat ich das unvermeidbare un
+d setzte mein iPhone auf den Werkszustand zurück, löschte damit alle Daten und Apps und setzte es vo
+llkommen neu auf. Seitdem funktioniert alles wieder bestens, auch mit den Apple Watches. Dass ich nu
+n alle meine Apps neu installieren muss, versuche ich positiv zu sehen: Zuvor hatte ich mehr als 450
+ davon auf dem Gerät, der Total-Reset ist also auch so etwas wie ein reichlich später Frühjahrsputz.
+Fremdlinks: Drei Tipps aus anderen Medien"Data Cities: Wie Hacktivisten Smart-City-Konzepte unterwan
+dern" (3 Leseminuten): Es ist leicht, in Smart Cities vor allem Überwachungsparadiese zu sehen. Stef
+an Krempl berichtet von der Konferenz Data Cities in Berlin, wo sich die digitale Gegenkultur traf."
+Darknet Diaries: Mikko" (Podcast, Englisch, 70 Hörminuten): Kann man Poker hacken? Darum geht es in 
+dieser Episode, zu Gast ist der stets unterhaltsame IT-Sicherheitsexperte Mikko Hyppönen."Mark in th
+e Middle" (Englisch, mindestens 25 Lese- und Hörminuten): Ein langes Stück mit Audiomitschnitten aus
+ Facebook-internen Versammlungen über die Probleme der eher progressiven Angestellten mit der eher k
+onservativeren Nutzerschaft - und Mark Zuckerberg in der Mitte.Kommen Sie gut durch die Woche!Patric
+k Beuth
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Hehe, ransomware-infizierte Kaffeemaschine = "Erpressermaschine". Good 
+one, @golem.
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware: Wie US-Medien sich auf Hackerangriffe vorbereiten
+
+/ ~ 4
+AC5DDE2 ~ /
+
+ Neuer Artikel  Universal Health Services: Computer von Ransomware verschlüsselt #Hacki
+ng #Ransomware #Ryuk #UHS #UniversalHealthServices
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+ 
+Seit fast eineinhalb Ja
+hren treibt die Ransomware Maze ihr Unwesen. Bereits im Mai warnte das Sicherheitsunternehmens Sopho
+s in einem Bericht vor den Machenschaften der Cyberkriminellen. Diese begnügen sich nicht damit, die
+ Daten ihrer Opfer zu verschlüsseln, um dann Lösegeld zu fordern.
+
+
+Anzeige
+
+
+
+Sie wollen höhere Sum
+men erpressen, deshalb laden sie die Daten ihrer Opfer vor der eigentlichen Attacke herunter und dro
+hen damit, diese zu veröffentlichen, wenn das geforderte Lösegeld nicht gezahlt wird – und dieses be
+wegt sich mindestens im sechsstelligen Bereich.
+Verbreitet wird Maze am häufigsten per E-Mail, wobei
+ sich die Kriminellen extrem geschickt anstellen. Im Herbst vergangenen Jahres gaben sie sich beispi
+elsweise in Deutschland als Bundeszentralamt für Steuern und in Italien als Agencia Entrate, also di
+e italienische Finanzbehörde, aus. Den Angriff in Italien beschreiben die Sicherheitsforscher von So
+phos in ihrem Blog am 12. Mai 2020: Die Opfer erhielten eine E-Mail mit einer Aufforderung ein inter
+aktives Dokument auszufüllen, um nicht als Steuerhinterzieher markiert zu werden. Ein Trick, um die 
+Aktivierung von Makros zu erschleichen, damit ein Script innerhalb des Dokuments die Ransomware heru
+nterladen und ausführen kann. Berichten zufolge kamen seither auch Bewerbungen auf reale Stellenanze
+igen und angebliche Informationen der WHO zur Corona-Pandemie zum Einsatz, um die Schadsoftware weit
+er zu verbreiten.
+Für ihr typisches Vorgehen, die Daten vor der Verschlüsselung herunterzuladen, müs
+sen die Kriminellen sich schon einige Zeit vor der eigentlichen Attacke in die Netzwerke ihrer Opfer
+ einschleichen. Das birgt das Risiko, dass der Schädling in der Zwischenzeit entdeckt wird – bis jet
+zt, denn die Cyberkriminellen haben sich bei der Hackergruppe Ragnar Locker einen Trick abgeschaut, 
+der es betroffenen Unternehmen noch schwerer macht, die Malware rechtzeitig zu entdecken. Bei einem 
+Ransomwareangriff, der von den Sicherheitsforschern von Sophos untersucht wurde, hat die Malware ein
+e Virtuelle Maschine genutzt, um sich im Netzwerk ihres Opfers zu tarnen. Bei dieser Technik wird in
+nerhalb eines Computers ein weiterer virtueller Rechner mit eigener Rechnerstruktur eingerichtet, de
+r den Host-Rechner imitiert. In dieser Umgebung konnten die Kriminellen ihre Ransomware in aller Ruh
+e einrichten und alle erforderlichen Komponenten herunterladen, ohne dass diese im eigentlichen, rea
+l existierenden Netzwerk sichtbar waren. Erst als die Verschlüsselung ausgelöst wurde, wurde die Inf
+iltration sichtbar – doch da war es schon zu spät.
+Maze war bereits vor den letzten Anpassungen eine
+ sehr erfolgreiche Ransomware-Gruppe, aber die Anpassung ihrer Taktik zeigt, dass die Hintermänner s
+tändig versuchen, neue Wege zu finden, um Angriffe noch erfolgreicher zu machen. Nun ist es für Unte
+rnehmen noch schwerer einen Angriff rechtzeitig zu erkennen und entsprechende Schritte einzuleiten. 
+Umso wichtiger sind präventive Maßnahmen, damit die Kriminellen gar nicht erst den Fuß in die Tür be
+kommen.
+Dazu gehören, die Mitarbeiter im Umgang mit eingehenden E-Mails zu schulen und ihnen ein Ver
+ständnis für die damit einhergehenden Gefahren z. B. durch Malware zu vermitteln. Aber auch auf tech
+nischer Seite können Unternehmen etwas gegen Ransomware machen. So sollte die Verwendung unnötiger A
+nwendungen blockiert und die Ausführbarkeit von Makros deaktiviert werden. Regelmäßige Updates sowie
+ das zeitnahe Einspielen von Sicherheitspatches sollten ebenfalls zum Standard gehören. Darüber hina
+us sollten Mitarbeiter in der IT ihr eigenes Netzwerk verstehen und in und auswendig kennen, denn nu
+r so können sie verdächtiges Verhalten erkennen und geeignete Gegenmaßnahmen einleiten. Da viele kle
+inere Unternehmen in diesem Bereich nicht über ausreichende Kapazitäten verfügen, bietet sich hier d
+ie Beauftragung eines Managed Security Service Providers an, der das Unternehmen mit den entsprechen
+den Services unterstützt.
+www.8com.de
+ 
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+    TechCrunch ist Teil von Verizon M
+edia. Wir und unsere Partner nutzen Cookies und ähnliche Technik, um Daten auf Ihrem Gerät zu speich
+ern und/oder darauf zuzugreifen, für folgende Zwecke: um personalisierte Werbung und Inhalte zu zeig
+en, zur Messung von Anzeigen und Inhalten, um mehr über die Zielgruppe zu erfahren sowie für die Ent
+wicklung von Produkten.
+
+Personenbezogene Daten, die ggf. verwendet werden
+
+Daten über Ihr Gerät und
+ Ihre Internetverbindung, darunter Ihre IP-Adresse
+Such- und Browsingaktivität bei Ihrer Nutzung der
+ Websites und Apps von Verizon Media
+ Genauer Standort
+
+
+    Für nähere Informationen zur Nutzung Ih
+rer Daten lesen Sie bitte unsere Datenschutzerklärung und Cookie-Richtlinie.
+
+    Damit Verizon Medi
+a und unsere Partner Ihre personenbezogenen Daten verarbeiten können, wählen Sie bitte 'Ich stimme z
+u.' aus oder wählen Sie 'Einstellungen verwalten', um weitere Informationen zu erhalten und eine Aus
+wahl zu treffen. Dazu gehört der Widerspruch gegen die Verarbeitung Ihrer Daten durch Partner für de
+ren berechtigte Interessen. Sie können Ihre Einstellungen jederzeit ändern. Dies geschieht in Ihren 
+Datenschutzeinstellungen.
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#Sicherheitsforscher haben einen Fehler in der #Versc
+hlüsselung durch die #Ransomware #ThunderX entdeckt und bieten nun Hilfe an! via @heisec
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Kein Einzelfall. Liebe IT-Freelancer und Systemhäuser! Macht Eure Arbeit richtig und struktu
+riert! Sichert die #Datensicherung ab und testet sie! Macht Eure Kunden auf #Ransomware aufmerksam! 
+Bietet Support an! Dokumentiert! #VdS10000
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+My Account
+
+
+
+Suchen
+
+
+
+
+
+Log
+in
+
+
+Registrierung
+
+
+
+
+  
+Suchen				
+
+
+
+
+
+
+IT Awards
+
+
+Storage-Hardware
+
+
+Speichernetze
+
+
+Backup/Rec
+overy
+
+
+Management
+
+
+Storage-Security
+
+
+RZ-Technik
+
+
+Archivierung
+
+
+eBooks
+
+
+Kompendien
+
+
+Mediathek
+
+
+
+
+Webinare 
+
+Whitepaper 
+
+Firmen 
+
+Bilder 
+
+
+
+CIO Briefing
+
+
+Specials
+
+
+
+Im Fokus: Flash-Storage 
+
+
+Im Fokus: Backup 
+
+Praxistipps: Cloud-Speicher für Einsteiger 
+
+SSD 
+
+Deduplizierung 
+
+Definitionen 
+
+
+E-Mail-Archivierung 
+
+
+
+Forum
+
+
+Akademie
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+IT Awards
+
+
+
+		Aktuelle Beiträge aus "IT Aw
+ards"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								IT-Awards 2019							
+
+
+								Das sind die Gewinner der IT-Awards 2019
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								5. Jubiläum unserer großen Leserwahl							
+
+
+								Festliche Verle
+ihung der IT-Awards 2019							
+
+
+
+
+
+
+
+
+Storage-Hardware
+
+
+
+		Aktuelle Beiträge aus "Storage-Hardwar
+e"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Flex und Gaming							
+
+
+								Canvio-Festplattenserie erhält Zuwachs				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Speichertipp: Festplattenverwaltung auch ohne grafische Oberfläche							
+
+
+
+								Festplatten und Partitionen mit der PowerShell formatieren							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+PCIe-Wechselrahmen und mehr							
+
+
+								Icy Dock baut Adapterportfolio weiter aus							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Fusionserver Pro 2488H V6							
+
+
+								Huawei-Appliance besteht SAP-HANA-Zertif
+izierung							
+
+
+
+
+
+
+
+
+Speichernetze
+
+
+
+		Aktuelle Beiträge aus "Speichernetze"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+			Synology DiskStation DS1520+							
+
+
+								STO-News-Synology-DS1520+-mb							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Toshiba unterstützt Kinderhilfsorganisation Abaana mit Festplatten							
+
+
+								Ein NAS 
+für Kinder in Uganda							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Qnap TS-x31P3							
+
+
+								Kompaktes NAS fürs
+ Heimbüro							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								HPE MSA 1060, MSA 2060 und MSA 2062							
+
+
+								KMU-Sto
+rage von HPE kommt in der sechsten Generation							
+
+
+
+
+
+
+
+
+Backup/Recovery
+
+
+
+		Aktuelle Beiträge 
+aus "Backup/Recovery"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Cohesity SiteContinuity							
+
+
+								Kürzere Ausfall
+zeiten, mehr Speichereffizienz							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Veeam Data Protection Trends Report 202
+0							
+
+
+								Schutz und Nutzung von Daten müssen zusammenwachsen							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+	SQL-Backups automatisieren							
+
+
+								Microsoft SQL Server 2019 sichern und wiederherstellen	
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Manipulationssicher dank Blockchain							
+
+
+								SEP CAPS bringt C
+loud Backup und Datenschutz in Einklang							
+
+
+
+
+
+
+
+
+Management
+
+
+
+		Aktuelle Beiträge aus "Manage
+ment"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Cloud-Storage und Big Data							
+
+
+								Aktuelle Markttrends spreche
+n für Cloud-Daten							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Datentabellen als Rückgrat von Enterprise-Applikatio
+nen							
+
+
+								Relationale Datenbanksysteme im Überblick							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Bitkom-
+Umfrage							
+
+
+								IT-Berufe gewinnen an Bedeutung							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Speichertipp:
+ Datenträger ohne grafische Oberfläche verwalten							
+
+
+								Partitionen in der PowerShell verg
+rößern und verkleinern							
+
+
+
+
+
+
+
+
+Storage-Security
+
+
+
+		Aktuelle Beiträge aus "Storage-Security"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Cohesity SiteContinuity							
+
+
+								Kürzere Ausfallzeiten, mehr Speicher
+effizienz							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gesponsert
+
+								Insider Research im Gespräch							
+
+
+								Ra
+nsomware-Schutz für Sicherheitsprofis							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Quantum erweitert Scalar-Serie		
+					
+
+
+								Multi-Faktor-Authentifizierung für Tape Libraries							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Tipp
+s von UIMC							
+
+
+								Vorsicht bei ausrangierten Datenträgern							
+
+
+
+
+
+
+
+
+RZ-Technik
+
+
+
+		A
+ktuelle Beiträge aus "RZ-Technik"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Datenbank-News von IBM							
+
+
+								Big 
+Blue renoviert Datenbankangebote							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								PCIe-Wechselrahmen und mehr							
+
+
+
+								Icy Dock baut Adapterportfolio weiter aus							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Fusionserver Pro 248
+8H V6							
+
+
+								Huawei-Appliance besteht SAP-HANA-Zertifizierung							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+		Integrierte Graphdatenbank in der Cloud							
+
+
+								Neo4j Aura auf Google Cloud Platform verf
+ügbar							
+
+
+
+
+
+
+
+
+Archivierung
+
+
+
+		Aktuelle Beiträge aus "Archivierung"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Da
+tenbank-News von IBM							
+
+
+								Big Blue renoviert Datenbankangebote							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+					Datentabellen als Rückgrat von Enterprise-Applikationen							
+
+
+								Relationale Datenbanks
+ysteme im Überblick							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								„Eine einzelne Patientenstudie kann heute mehrere 
+Dutzend Gigabyte umfassen“							
+
+
+								Gesundheitswesen, unstrukturierte Daten und die Vorteile
+ der Objektspeicherung							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								NoSQL-as-a-Service: Datenbank in der Cloud buch
+en							
+
+
+								NoSQL-Datenbanken – MongoDB Atlas							
+
+
+
+
+
+
+
+
+eBooks
+
+
+Kompendien
+
+
+Mediathek
+
+
+
+
+Webinare
+
+
+Whitepaper
+
+
+Firmen
+
+
+Bilder
+
+
+
+
+
+CIO Briefing
+
+
+Specials
+
+
+
+Im Fokus: Flash-Storage
+
+
+
+Im Fokus: Backup
+
+
+Praxistipps: Cloud-Speicher für Einsteiger
+
+
+SSD
+
+
+
+Technische Grundlagen und K
+onzepte von SSDs 
+
+Speichersysteme mit SSD 
+
+Flash-Speicher und USB-Sticks für Profis 
+
+Interviews u
+nd Videoblogs 
+
+
+
+Deduplizierung
+
+
+
+Deduplizierung im Fokus 
+
+Videoblog 
+
+Deduplizierung Lexikon 
+
+
+
+
+Definitionen
+
+
+E-Mail-Archivierung
+
+
+
+News 
+
+Praxis 
+
+Interviews 
+
+Fachartikel 
+
+
+
+
+
+		Aktuelle Bei
+träge aus "Specials"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Speicherlösung für Geschäftsdaten							
+
+
+								Was is
+t Enterprise-Storage?							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Speicherinfrastruktur							
+
+
+								Was ist e
+ine Storage Infrastructure?							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Entkopplung von der Speicher-Hardware					
+		
+
+
+								Was ist Software-Defined Archiving (SDA)?							
+
+
+
+
+
+
+
+
+Forum
+
+
+Akademie
+
+
+mehr...
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+					Suchen				
+
+
+
+
+
+
+
+
+
+						Login					
+
+
+
+						Registrierung					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				St
+artseite			
+
+
+
+							Storage-Security						
+
+
+Ransomware-Schutz für Sicherheitsprofis
+
+
+
+
+
+
+Gespons
+ert
+
+Insider Research im Gespräch Ransomware-Schutz für Sicherheitsprofis 28.09.2020Warum sind Ranso
+mware-Attacken so gefährlich? Warum reichen die Schutzmaßnahmen in vielen Fällen noch nicht aus? Was
+ muss man tun, um sich vor Ransomware zu schützen, was sind die richtigen, konsequent umgesetzten IT
+-Sicherheitsmaßnahmen?  Das Interview von Insider Research mit Martin Maier von Pure Storage liefert
+ Antworten.
+
+
+		Gesponsert von	
+
+
+
+			Pure Storage GmbH		
+
+
+
+
+
+
+
+				Insider Research			
+
+
+
+
+Ransomw
+are-Schutz für Sicherheitsprofis, ein Interview von Oliver Schonschek, Insider Research, mit Martin 
+Maier von Pure Storage
+                                        (Bild: Vogel IT-Medien / Pure Storage
+ / Schonschek)
+                                    
+von Oliver Schonschek, News-Analyst in Bad EmsDi
+e Bedrohung durch Ransomware ist ein sehr relevantes und aktuelles Thema, denn die Angriffe mit Scha
+dprogrammen, die den Zugriff auf Daten und Systeme einschränken oder verhindern, reißen nicht ab, im
+ Gegenteil. Arne Schönbohm, Präsident des Bundesamtes für Sicherheit in der Informationstechnik (BSI
+), sagte dazu: „Der beste Schutz vor Lösegeldforderungen durch Cyber-Kriminelle sind konsequent umge
+setzte IT-Sicherheitsmaßnahmen.“ Oliver Schonschek von Insider Research im Gespräch mit Martin Maier
+ von Pure Storage 
+                            (Bild: Schonschek/Pure Storage)
+                     
+   Doch wie sieht ein solcher Ransomware-Schutz aus?Im Gespräch mit Oliver Schonschek, News-Analyst 
+bei Insider Research, erklärt Martin Maier, Technology Evangelist bei der Pure Storage Germany GmbH,
+ unter anderem:Warum ist Ransomware so gefährlich? Welche Schäden können entstehen? Es gibt eine Rei
+he von Sicherheitstipps, wie man sich vor Ransomware schützen soll. Trotzdem kommt es immer wieder z
+u erfolgreichen Ransomware-Attacken. Woran liegt das? Was machen die Unternehmen noch nicht richtig?
+ Angreifer zielen nun verstärkt auf die Backups, um diese zu verschlüsseln. Was kann man machen, um 
+die Backups besser zu schützen? Was bietet Pure Storage FlashBlade / SafeMode-Snapshots, um Datenbac
+kups vor Ransomware-Angriffen zu schützen?  Wie sieht es mit der Wiederherstellung aus? Wie schnell 
+geht das?Der neue Podcast steht in der SoundCloud, bei Google Podcasts, bei Apple Podcasts, bei Spot
+ify, bei Deezer und bei YouTube zur Verfügung – am besten gleich reinhören!   
+
+Insider Research · R
+ansomware-Schutz für Sicherheitsprofis, ein Interview mit Martin Maier von Pure Storage
+
+
+Artikelfil
+es und Artikellinks
+
+
+Link: Konferenz „Modern Analytics in a Hybrid Cloud World“
+
+
+Link: Ransomware-
+Schutz für Sicherheitsprofis
+
+
+ 
+Advertorial - Was ist das?
+Über Advertorials bieten wir Unternehmen
+ die Möglichkeit relevante Informationen für unsere Nutzer zu publizieren. Gemeinsam mit dem Unterne
+hmen erarbeiten wir die Inhalte des Advertorials und legen dabei großen Wert auf die thematische Rel
+evanz für unsere Zielgruppe. Die Inhalte des Advertorials spiegeln dabei aber nicht unbedingt die Me
+inung der Redaktion wider.
+
+(ID:46883552)
+
+
+
+
+		Über den Autor	
+
+
+
+
+
+
+
+
+
+
+Dipl.-Phys. Oliver Schonsc
+hek
+
+IT-Fachjournalist, News Analyst und Commentator bei Insider Research
+
+
+
+
+
+
+
+
+
+Weitere Artikel d
+es Autors
+
+
+
+
+
+
+
+
+
+
+
+
+Korrekt speichern: DSGVO-Praxis und Beschäftigtendaten
+
+Datenschutzprobleme in
+ der Personalabteilung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kommentar zu Herstellern in der DSGVO
+
+Warum Privacy by Desig
+n (bisher) nicht gelingen kann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Praxisfälle Datenschutz-Grundverordnung
+
+Datenschutz 
+und Ransomware
+
+
+
+
+
+
+
+
+
+
+
+
+Please enable JavaScript to view comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+Weite
+rführende Inhalte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backups schützen
+
+
+Modernes Datenmanagement als Wunderwaffe gegen Ra
+nsomware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technavio-Studie
+
+
+Markt für Software-Defined Storage wird von Cloud und HC
+I befeuert
+
+
+
+
+ 
+
+
+
+
+
+
+Folgen Sie uns auf:
+
+
+
+
+
+
+
+
+			AGB		
+
+			EWG		
+
+			Hilfe		
+
+			Kundencenter		
+
+
+			Mediadaten		
+
+			Datenschutz		
+
+			Impressum & Kontakt		
+
+
+
+  
+Copyright © 2020 Vogel Communica
+tions Group
+Diese Webseite ist eine Marke von Vogel Communications Group. Eine Übersicht von allen P
+rodukten und Leistungen finden Sie unter				 www.vogel.de				
+
+
+
+gemeinfrei; Vogel IT-Medien / Pure 
+Storage / Schonschek; Schonschek/Pure Storage; Cryptolocker ransomware / Christiaan Colen / CC BY-SA
+ 2.0; Vogel IT-Medien; Toshiba; ©Vadim - stock.adobe.com; Screenshots / Icy Dock; Huawei; Synology; 
+Abaana; Qnap; HPE; ©BigNazik - stock.adobe.com; SEP; © WrightStudio - stock.adobe.com; https://commu
+nity.idera.com; © zinkevych - stock.adobe.com; Quantum; Drago Gazdik / Pixabay; IBM; Neo4j; © chris 
+noelle - stock.adobe.com; © aga7ta - Fotolia
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Der US-amerikanische Gesundheit
+skonzern UHS soll Opfer eines Ransomware-Angriffs geworden sein https://tcrn.ch/3jaFgmL via @techcru
+nch
+
+/ ~ 4AC5DDE2 ~ /
+
+Nach Angriff auf Düsseldorfer Klinik kommt es zu erstem Todesfall durch Ranso
+mware
+
+/ ~ 4AC5DDE2 ~ /
+
+Kostenloses Entschlüsselungstool für Erpressungstrojaner ThunderX ist da | 
+heise online
+https://heise.de/-4913470 #Cybercrime #Malware #Ransomware #ThunderX #Entschlüsselung
+
+
+/ ~ 4AC5DDE2 ~ /
+
+WastedLocker Ransomware: So erpresst die Evil Corp. Unternehmen
+
+/ ~ 4AC5DDE2 ~ /
+
+
+#RT @prosoft_de: Gefahr durch #Ransomware #AgeLocker bei #QNAP NAS Systemen
+
+/ ~ 4AC5DDE2 ~ /
+
+UN A
+TAQUE DE RANSOMWARE ESTOY GRITANDONDJFKDKFKFF BEST ANALOGÍA
+
+/ ~ 4AC5DDE2 ~ /
+
+Peter und Marius rede
+n über den Warntag, Frau stirbt wegen Ransomware, NVIDIA kauft Arm, Apple hat neue Geräte vorgestell
+t und vieles mehr!
+
+/ ~ 4AC5DDE2 ~ /
+
+In den ersten sechs Monaten dieses Jahres haben die Ontrack-In
+genieure viele Datenrettungsaufträge erhalten, die auf die eine oder andere Weise mit Hackversuchen 
+oder Ransomware-Angriffen zu tun hatten. Vor allem in Deutschland gab es in einem Monat allein fast 
+ein halbes Dutzend solcher Projekte, die gelöst werden mussten.
+Allein in drei Fällen wurden NAS-Bac
+kup-Server von einer komplexen Ransomware- und Hacking-Attacke heimgesucht, die unseren Kunden schwe
+rwiegende Probleme bereitete:
+Ein QNAP-Backup-Server wurde beispielsweise durch einen kombinierten R
+ansomware-Netzwerkangriff formatiert, wodurch die Server der Netzwerkproduktion durch die Ransomware
+ verschlüsselt wurden, während der angeschlossene QNAP-Backup-Server vollständig formatiert und bis 
+zu einem gewissen Grad überschrieben wurde. Aus diesem Grund konnten die Ontrack-Spezialisten noch f
+ast 90 % der Backup-Daten wiederherstellen und halfen so dem Client, sich von diesem Angriff schnell
+ zu erholen. Wäre es dem Angreifer besser gelungen, die vier Laufwerke mit je 1 TB innerhalb des QNA
+P zu überschreiben, dann wären selbst Ontrack-Experten überhaupt nicht erfolgreich gewesen.
+Ein weit
+erer Fall war ein Ransomware-Angriff, bei dem die Hacker erfolgreich versuchten, eine kleine Firma f
+ast zu ergreifen: Nicht nur alle aktiven Produktionsserver wurden von einer Ransomware getroffen, so
+ndern auch der angeschlossene Backup-Dateiserver, der aus einem Synology NAS mit 6 mal 8 TB Laufwerk
+en bestand, wurde getroffen. Obwohl Ontrack in der Lage war, einige wichtige Dateien von diesem Sich
+erungsgerät wiederherzustellen, wurde eine riesige wichtige Datei - 10 TB groß - mit einem Nullmuste
+r überschrieben, was bedeutet, dass kein Datenrettungsexperte der Welt diese Daten jemals wiederhers
+tellen kann.
+Ein weiterer Fall war eher ein Sabotageakt bei dem Backup durch die Hacker, der bei ein
+er mittelständischen deutschen Firma stattfand. Hier war es eine ausgeklügelte Ransomware, die das U
+nternehmen traf und sich im Netzwerk verbreiten konnte, den Server verschlüsselte und danach 11 Back
+up-Platten formatierte. Diese Festplatten, die jeweils 8 TB groß waren, waren in einem RAID 5 zusamm
+engefasst. Zu allem Überfluss verfügte der Kunde auch nicht über ein aktuelles und funktionierendes 
+Backup. Selbst wenn Ontrack in der Lage gewesen wäre, die formatierten Festplatten nacheinander wied
+erherzustellen, zahlte der Kunde die geforderte Ransomware-Summe am Ende doch an die Kriminellen, de
+nn die Wiederherstellung dieser riesigen Datenmenge hätte mehrere Wochen gedauert. Zeit, die das Unt
+ernehmen nicht in der Lage und bereit war zu investieren.
+Diese Beispiele sind nur ein kleiner Überb
+lick über die neuesten Ransomware- und Hacker-bezogenen Datenrettungsaufträge, die die deutschen und
+ europäischen Datenrettungsingenieure erhalten haben.
+Wie man sehen kann, hätten viele dieser Datenr
+ettungen durch die Nutzer verhindert werden können, wenn sie sich an die folgenden einfachen Tipps g
+ehalten hätten:
+
+Halten Sie immer ein aktuelles Backup bereit, so dass Sie, wenn Sie von einer Ranso
+mware getroffen werden, Ihr System mit Ihren Daten schnell selbst wiederaufbauen können.
+Stellen Sie
+ sicher, dass Ihr Backup-System entweder nicht mit dem Netzwerk verbunden ist oder nur für die Zeit,
+ in der es benötigt wird - z.B. wenn das neue Backup erstellt wird -, so dass es keine Chance für ei
+ne Ransomware gibt, auch Ihr Backup zu starten.
+Erwägen Sie die Verwendung eines Bandsicherungssyste
+ms (Tape Backup System). Nur Bänder (Tapes) sind in der Lage, die größtmögliche Datensicherheit gege
+n Ransomware zu gewährleisten, da Sie das neueste Sicherungsband von der Bandstation entfernen und d
+as Band nicht mehr mit einem Netzwerk verbunden ist.
+
+In den kommenden Wochen werden wir hier auf de
+m Data Recovery Blog eine erfolgreiche Bandwiederherstellung vorstellen, die aufgrund eines Ransomwa
+re-Angriffs notwendig wurde. Bis dahin! Und: Bleiben Sie auf dem Laufenden!
+Bildnachweis: 
+Brass-col
+ored Metal Padlock With Chain
+https://www.pexels.com/photo/door-green-closed-lock-4291/
+https://www.
+pexels.com/creative-commons-images/
+ 
+ 
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Bestätigt: Eine ganze Spital-Kette in de
+n USA wurde gehackt
+
+https://inside-it.ch/de/post/bestaetigt-eine-ganze-spital-kette-in-den-usa-wurd
+e-gehackt-20200929… #Ryuk #Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Schlägt Ransomware erst einmal zu, sind zwe
+i Dinge essentiell:
+
+1. Sicherstellen, dass Backups nach wie vor wiederherstellbar sind...
+2. ...die
+se auch schnell genug wiederhergestellt werden können, um Schaden vom Unternehmen abzuwenden.
+
+Nur, 
+wie? Hier:
+
+/ ~ 4AC5DDE2 ~ /
+
+Etwas aus der Praxis: #Ransomware-Attacke. Unternehmen verschlüsselt. 
+#ITDienstleister war fahrlässig. Versicherung des Betroffenen hat Wiederherstellung, Betriebsunterbr
+echung etc.  etc. gezahlt. Heute wurde von Versicherung Klage gegen IT-Dienstleister eingereicht: € 
+95.000,-
+
+/ ~ 4AC5DDE2 ~ /
+
+Nach Angriff auf Düsseldorfer Klinik kommt es zu erstem Todesfall durch 
+Ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+für alle, die solch eine Mail im Postfach finden:
+NICHT DRAUFKLICKEN!!
+ Das hat nix mit Eurer Mailbox zu tun und bringt Euch nur eine verschlüsselte Festplatte!
+Dringend r
+etweeten! #almostFull #ransomware #phishing
+
+/ ~ 4AC5DDE2 ~ /
+
+Wie folgender @ComputerWeekly-Artikel
+, in dem @Trustwave zitiert wird, zeigt, beginnt der Schutz Ihrer Daten vor #Ransomware mit guten #B
+ackup-Verfahren: https://computerweekly.com/feature/Top-five-ways-backup-can-protect-against-ransomw
+are….
+
+/ ~ 4AC5DDE2 ~ /
+
+Angesichts vorhandener Sicherheitsproblene (Kammergericht monatelang offlin
+e, Ransomware im Krankenhaus, keine #E2E beim #beA) ist diese Frage zu verneinen.
+Es stellt sich jed
+och die Frage der Zulässigkeit dieser anlasslosen Erfassung und Speicherung, was ein Generalverdacht
+ ist.

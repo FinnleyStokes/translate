@@ -1,0 +1,110 @@
+Ransomware AgeLocker kontra NAS-y QNAP. Wystarczy zainstalować aktualizację
+
+/ ~ 4AC5DDE2 ~ /
+
+Opera
+tor prowadzi około 400 szpitali i ośrodków opiekuńczych na terenie Stanów Zjednoczonych i Wielkiej B
+rytanii. |@Defence24pl #USA #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Sieć amerykańskich szpitali unieruchomion
+a po cyberataku. To prawdopodobnie ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+Udostępnij:
+
+
+
+
+
+
+
+
+
+
+O autorze
+
+
+
+
+
+
+
+
+Kamil J. Dudek
+@wielkipiec
+
+
+
+
+
+
+
+
+
+
+
+Jak donosi NBC News oraz specjaliści ds. cyberbezpiecze
+ństwa, sieć szpitali Universal Health Services w Stanach Zjednoczonych została sparaliżowana atakiem
+ skierowanym w infrastrukturę teleinformatyczną. UHS wydało jedynie lakoniczny komunikat i nie upowa
+żniło żadnego pracownika do kontaktu z prasą. Nieoficjalnie mówi się o tym, że szpital padł ofiarą r
+ansomware, a atak był na tyle zaawansowany, że wstrzymał łączność telefoniczną i internetową, a takż
+e zablokował wszystkie firmowe stacje robocze.
+W pierwszych tygodniach pandemii koronawirusa pojawia
+ły się informacje o tym, że liczba ataków na komputery osobiste wzrosła (z racji pracy z domu), ale 
+chwilowo spadła właśnie w przypadku szpitali. Gdy szpitale ponownie zaczęły być atakowane, wywołało 
+to mobilizację społeczności infosec w postaci wolontariatu w walce ze skutkami ataków. Pospolite rus
+zenie dobiegło jednak końca, a i przestępcom skończyły się resztki cierpliwości. Biznes rozkręcił si
+ę na nowo.
+Nic nie działa, nic się nie da
+Universal Health Services to duża sieć ponad 400 prywatny
+ch szpitali. Służba zdrowia w USA jest jednak po prostu świadczona prywatnie: także osoby uprawnione
+ do świadczeń Medicare otrzymują je w ramach kontraktu z prywatną firmą (co niekoniecznie oznacza, ż
+e jest ona for-profit). Sieci szpitali są więc duże, a skuteczne ataki na nie mają bezpośredni wpływ
+ na bardzo wiele osób.
+haven't seen any news articles on it yet, but i've seen a few reports that UH
+S hospitals in the US currently have no access to phones, computers, internet, or data centers. an e
+mployee said they have not been allowed to turn on computers & are rerouting surgeries/ER patients.—
+ gabsmashh | Advanced Persistent Brunette (@gabsmashh) September 28, 2020
+
+Zaskakuje nie tylko szero
+kość, ale i "głębokość" ataku: według relacji, wszystkie stacje robocze z Windows 10 poinformowały o
+ zamknięciu oprogramowania antywirusowego a następnie wyłączyły się, nie chcąc włączyć z powrotem. T
+en sam los spotkał dedykowane maszyny z zaplecza medycznego (PACS, EKG itd.), często pracujące pod k
+ontrolą Windows Embedded i Windows XP.
+Blokada infrastruktury ma więc wpływ nie tylko na biurokrację
+, ale i na przeprowadzane zabiegi i dostępność opieki. Może się to skończyć śmiercią pacjentów. Nawe
+t gdy nikt nie ucierpi na atakach fizycznie, może odczuć je inaczej: przestępcy przy okazji kradną d
+ane osobowe oraz informacje wrażliwe dot. stanu zdrowia (co na pewno cieszy ubezpieczycieli).
+Czy to
+ ransomware?
+Relacje pracowników, nieupoważnionych do rozmów na temat incydentu, nie zawierają wzmia
+nek o żądaniach okupu ani cechach szczególnych, właściwych ransomware. Do czasu pierwszych informacj
+i o plikach z rozszerzeniem *.ryk, sprawa mogła wyglądać wręcz na wyrafinowany sabotaż.
+
+A co u nas?
+
+Z powodów, które lepiej nazwać proceduralno-budżetowymi, polskie szpitale trudno byłoby skłonić do 
+opłacenia okupu odblokowującego infrastrukturę, są więc one atakowane na znacznie mniejszą skalę i r
+aczej punktowo. Ministerstwo Zdrowia rzadko porusza temat. Z kolei Ministerstwo Cyfryzacji ze swoim 
+Krajowym Systemem Cyberbezpieczeństwa ma raczej ograniczony wpływ na placówki medyczne.
+Istnieje jed
+nak Centrum e-Zdrowia. To ono zajmuje się wspomaganiem ochrony zdrowia od strony technicznej. Ale do
+tyczy to głównie obrotu dokumentacją (jak e-recepty). Jedną z ostatnich informacji na stronie Aktual
+ności CeZ jest dostęp do szkolenia z web-aplikacji dotyczącej koronawirusa (gdzie rzekomo można spra
+wdzić wyniki badań każdego Polaka, podając tylko PESEL). 
+
+Centrum oferuje wytyczne dotyczące zabezp
+ieczania infrastruktury, ale są one dość ogólne. Nie dowiemy się też nic o case studies z przykładam
+i prac zabezpieczających. Ostatni raz CeZ o ransomware wspominał lutym. Możliwe zatem, że w Polsce n
+ie stanowi ono zagrożenia branego pod uwagę. Czas pokaże, na ile słusznie.
+
+
+Oprogramowanie Bezpiecz
+eństwo IT.Pro Koronawirus
+

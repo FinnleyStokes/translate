@@ -1,0 +1,38 @@
+Kæmpe hospitaltsnetværk i USA har it-problemer: Formodet ransomware-angreb https://ift.tt/2Gn5ZO5
+
+/
+ ~ 4AC5DDE2 ~ /
+
+AgeLocker-ransomware versleutelt bestanden op QNAP NAS-systemen https://j.mp/3iasq6
+E
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Universal Health Services-personale kunne ikke få adgang til it-system – peger
+ i retning af ransomware-angreb.
+Personale i UHS (Universal Health Services) rapporterer, at de har 
+mistet adgang til deres it-system.
+De har været nødsaget til at bruge manuelle skriveredskaber ved i
+t-nedlukningen.
+Mens ransomware-angrebet fandt sted, var antivirus-programmerne slukket. Samtidigt k
+unne man se, at filer var blevet omdøbt til at slutte på .ryk.
+Det forbindes med Ryuk-ransomware, hv
+ilket kan forhindre hackerofferet i at få adgang til sine data, før en løsesum er betalt.
+UHS er et 
+kæmpe hospitalsnetværk, som behandler cirka 3,5 millioner patienter årligt.
+På trods af angrebet for
+sikrer UHS, at patienters sikkerhed er i top.
+Det er dog ikke længe siden, at et hackerangreb fik fa
+tale konsekvenser for en patient i Tyskland.
+Læs også “Cyberangreb rammer hospital ved en fejl: Kvin
+de dør“.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Hvilket dansk hospital bliver det første med et total angreb af #Ransom
+ware?
+Når passwords er den dominerende adgangsmetode er risikoen kun stigende. En #passwordless stra
+tegi kan medvirke kraftigt til at reducere risiko. 
+#dkpol #Cybersikkerhed #itpol

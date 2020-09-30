@@ -1,0 +1,69 @@
+@moha_dby longue vie frero 
+
+/ ~ 4AC5DDE2 ~ /
+
+Vasy vas-y c bon
+
+/ ~ 4AC5DDE2 ~ /
+
+me kero ver zero 
+day de nuevo es mi peli favorita y no la veo hace meses
+
+/ ~ 4AC5DDE2 ~ /
+
+#malware Alien, es capaz 
+de robar contraseñas de 226 aplicaciones muy populares. En el listado aparecen herramientas como #Fa
+cebook, #WhatsApp, #Instagram y #Twitter 
+#CyberSecurity #CyberAttack #ciberseguridad #Seguridad #ne
+ws #ALERTA #cybernews
+
+/ ~ 4AC5DDE2 ~ /
+
+ merci
+
+/ ~ 4AC5DDE2 ~ /
+
+Ya por ahí es raro. Y con la prop
+aganda-orientada-a-conspiracionistas con cosas como "QFS runs on a quantum computer, based on an orb
+iting satellite, and is protected by Secret Space Programs to ensure that it cannot be hacked." es m
+ás raro.
+
+/ ~ 4AC5DDE2 ~ /
+
+Especialistas en seguridad informática encienden las alarmas en el unive
+rso Android. Según señalan, un malware, bautizado “Alien”, opera desde comienzos del año y es capaz 
+de robar contraseñas de 226 aplicaciones muy populares. En el listado aparecen herramientas como Fac
+ebook, WhatsApp, Instagram y Twitter.// Descubren un nuevo spyware en Android disfrazado de apps por
+no y de rastreo de coronavirusDe acuerdo a los expertos, el troyano no fue diseñado desde cero sino 
+que está basado en un atacante conocido en este terreno, conocido como “Cerberus”. Indican que el vi
+rus estuvo disponible en 2019 en foros clandestinos para que piratas informáticos accedan a él y dis
+eñen sus acciones maliciosas.Tal como cuentan en ZDNet, que divulga el hallazgo de la firma ThreatFa
+bric, Google detectó a Cerberus y lo eliminó. El creador del malware lo publicó gratis en la dark we
+b, permitiendo que otros ciberdelincuentes usen el código fuente del mismo. Así nació “Alien” que, c
+omo señalamos anteriormente, se basa en aquel programa malicioso que sigue estirando sus tentáculos.
+Un virus peligroso“Alien” no sólo consigue hacerse de contraseñas de cientos de aplicaciones. Una ve
+z que infecta el dispositivo se enfoca en el robo de datos bancarios, por ejemplo mostrando pantalla
+s falsas para ingreso a banca online y de ese modo hurtando accesos y credenciales.[BLOG] Newcomer A
+lien banking #Trojan which blissful journey has been the misfortune of the infamous and demised #Cer
+berus #Malware Notification sniffer, Remote Acces Trojan, Overlays, it comes with a complete bundle.
+https://t.co/MzVdnqW0PY#Fraud #Threatintelligence #Android— ThreatFabric (@ThreatFabric) September 2
+4, 2020
+
+En rigor, aquella es también su táctica para robar los passwords de plataformas como Facebo
+ok, Twitter, Instagram y afines. Lo que hace es poner en pantalla una interfaz idéntica a la página 
+de inicio de las aplicaciones, pidiendo a la víctima que ingrese su nombre de usuario y contraseña. 
+De esa forma, no se accede a la app en cuestión sino que se “regalan” los datos a los atacantes.El t
+royano no se conforma con las acciones maliciosas que hemos descrito. También consigue acceso remoto
+ al dispositivo, recolecta y puede enviar mensajes de texto, logra espiar los contactos y la ubicaci
+ón geográfica del usuario, y espía las pulsaciones en el teclado. Incluso puede bloquear la pantalla
+ e instalar nuevas aplicaciones. Como vemos, en un malware de amplio alcance.¿Cómo llega a los dispo
+sitivos de las víctimas? Los expertos de ThreatFabric dicen que las vías son múltiples, desde campañ
+as de phishing, a través de mensajes de texto (SMS), con la descarga de ciertas apps maliciosas o en
+ archivos adjuntos, entre otras opciones.En este enlace es posible consultar el extenso listado de a
+pps afectadas por “Alien”.La mayoría de las aplicaciones bancarias dirigidas por los desarrolladores
+ de “Alien” eran para instituciones financieras con sede principalmente en España, Turquía, Alemania
+, Estados Unidos, Italia, Francia, Polonia, Australia y el Reino Unido.// Descubren aplicaciones fra
+udulentas promocionadas por cuentas falsas de TikTok gracias a la ayuda de una nenaComo es habitual 
+en estos casos, el principal consejo para mantenerse a salvo es instalar aplicaciones desde platafor
+mas confiables y estar siempre atento a las descargas de cualquier tipo de archivo que no provenga d
+e fuentes conocidas.

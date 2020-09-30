@@ -1,0 +1,743 @@
+Ransomware weekoverzicht, afgelopen week zagen we  aanhoudende aanvallen op grote organisaties, terw
+ijl nieuwe ransomware-operaties zich haasten om deel te nemen aan een moderne ransomware-goudkoorts.
+Choose your language » (https://cybercrimeinfo.nl/languages)https://cybercrimeinfo.nl/intro/ransomwa
+re/ransomware-aanvallen-overzicht/510770_ransomware-weekoverzicht-week-39-2020…
+
+/ ~ 4AC5DDE2 ~ /
+
+M
+ARLBOROUGH, Mass.--(BUSINESS WIRE)--ExaGrid®, de enige Tiered Backup Storage-oplossing in de branche
+, heeft vandaag aangekondigd dat Wenatchee Valley College is overgestapt op een ExaGrid-Veeam-oploss
+ing voor superieure gegevensbescherming en om een ​​strategie voor het herstellen van ransomware te 
+implementeren.Wenatchee Valley College verrijkt North Central Washington door te voorzien in educati
+eve en culturele behoeften van gemeenschappen en bewoners in het hele verzorgingsgebied. Het college
+ biedt hoogwaardige overdracht, vrije kunsten, professionele/technische, basisvaardigheden en perman
+ente educatie voor studenten met verschillende etnische en economische achtergronden. De Wenatchee-c
+ampus bevindt zich nabij de oostelijke hellingen van de Cascade Mountains, halverwege tussen Seattle
+ en Spokane. Het WVC op de Omak-campus bevindt zich nabij de Canadese grens in Omak, ongeveer 160 ki
+lometer ten noorden van Wenatchee.Deze bekendmaking is officieel geldend in de originele brontaal. V
+ertalingen zijn slechts als leeshulp bedoeld en moeten worden vergeleken met de tekst in de brontaal
+, die als enige rechtsgeldig is.
+
+/ ~ 4AC5DDE2 ~ /
+
+Afgelopen week zagen we  aanhoudende aanvallen o
+p grote organisaties, terwijl nieuwe ransomware-operaties zich haasten om deel te nemen aan een mode
+rne ransomware-goudkoorts.In de afgelopen week waren ransomware aanvallen gericht op twee grote orga
+nisaties en verstoorde operaties.De eerste is brillengigant Luxottica, die afgelopen zondag werd ger
+aakt, en Tyler Technologies, aanbieder van technologie diensten van de overheid, die later in de wee
+k door RansomExx werd geraakt .Deze week brak er ook nieuws uit over hoe een  verzekeringsmaatschapp
+ij beveiligingsscans  gebruikt om blootgestelde en kwetsbare apparaten op de netwerken van klanten t
+e vinden. Deze proactieve scans hebben hun ransomware claims met 65% verminderd!Ten slotte hebben we
+ een nieuwkomer in de ransomware-goudkoorts genaamd Mount Locker, die sinds eind juli actief is en m
+eerdere miljoenen dollars aan losgeld eist.19 september 2020Nieuwe Egregor ransomwareMichael Gillesp
+ie  en PolarToffee  vonden een nieuwe ransomware genaamd Egregor die een spin-off van Sekhmet lijkt 
+te zijn. Het gebruikt een willekeurige extensie en plaatst een losgeldbrief met de naam  RECOVER-FIL
+ES.txt .Nieuwe LeakThemAll-variantMichael Gillespie vond een nieuwe variant van de LeakThemAll-ranso
+mware die .montana toevoegt  en een losgeldnota van ! HELP! .Txt laat vallen  .Nieuwe Zhen Ransomwar
+eGrujaRS  vond een nieuwe ransomware die de extensie .zhen toevoegt aan versleutelde bestanden.20 se
+ptember 2020Nieuwe STOP Ransomware-variantMichael Gillespie vond een nieuwe variant van de STOP-rans
+omware die de .kolz- extensie toevoegt aan versleutelde bestanden.21 september 2020ThunderX ransomwa
+re: analyse en een gratis decryptor!In deze blogpost beschrijven we onze bevindingen over de nieuwe 
+ransomware familie ThunderX die onlangs werd ontdekt. We kondigen ook een gratis decryptor aan die w
+e beschikbaar stellen om slachtoffers gratis te helpen. Hacker Dark Overlord pleit schuldig, veroord
+eeld tot 5 jaar wegens bedreiging met afpersingJaren nadat hij had gedreigd informatie van hacker sl
+achtoffers openbaar vrij te geven, tenzij ze instemden met zijn eisen op het gebied van digitale afp
+ersing, gaat Nathan Wyatt op weg naar een Amerikaanse gevangenis.Jagen op ransomwareMichael Gillespi
+e vond een nieuwe ransomware die de  .encrypted- extensie toevoegt  en een losgeldbrief plaatst met 
+de naam SOLVE ENCRYPTED FILES.txt.Nieuwe Matrix Ransomware-variantMichael Gillespie vond een nieuwe 
+variant van de Matrix Ransomware die de .JB88  extensie toevoegt en een losgeldnota JB88_README.rtf 
+laat vallen .Nieuwe Nefilim-variantXiaopao  vond een nieuwe Nefilim-variant die de .TRAPGET- extensi
+e toevoegt  en een losgeldbrief plaatst met de naam TRAPGET-INSTRUCTION.txt .22 september 2020Ray-Ba
+n-eigenaar Luxottica bevestigt ransomware-aanval, werk verstoordDe in Italië gevestigde brillen- en 
+oog zorg gigant Luxottica heeft naar verluidt te maken gehad met een cyberaanval die heeft geleid to
+t het stilleggen van activiteiten in Italië en China.Beveiligingsscans van cyberverzekeraar verminde
+rden ransomware claims met 65%De veiligheidsscans van een cyberverzekeraar tijdens de acceptatie fas
+e en na de uitgifte hebben geleid tot een vermindering van 65% van het aantal ransomware claims.Nieu
+we Matrix ransomware-variantMichael Gillespie vond een nieuwe Matrix-variant die de  .FG69-  extensi
+e toevoegt en een losgeldbrief met de naam FG69_README.rtf laat vallen .Nieuwe Matrix-variantXiaopao
+ vond een nieuwe Matrix-ransomwarevariant die de .AW46-  extensie toevoegt en een losgeldbrief met d
+e naam ! AW46_INFO! .Rtf laat vallen .Nieuwe CRPTD-ransomwareGrujaRS vond een nieuwe ransomware die 
+de extensie .CRPTD toevoegt aan gecodeerde bestanden.Ransomware wordt verkocht voor $ 2.0003xp0rt vo
+nd een ransomware-acteur die een complete ransomware-kit verkocht voor $ 2.000. 23 september 2020Ove
+rheidssoftware leverancier Tyler Technologies wordt getroffen door ransomwareTyler Technologies, de 
+toonaangevende aanbieder van technologie diensten van de overheid, is getroffen door een ransomwarea
+anval die zijn activiteiten heeft verstoord.AgeLocker ransomware richt zich op QNAP NAS-apparaten, s
+teelt gegevensNAS-apparaten van QNAP worden het doelwit van aanvallen van de AgeLocker-ransomware, d
+ie de gegevens van het apparaat versleutelt en in sommige gevallen bestanden van het slachtoffer ste
+len.Nieuwe ransomware-acteur OldGremlin gebruikt aangepaste malware om toporganisaties te rakenEen n
+ieuwe ransomware groep richt zich op grote bedrijfsnetwerken met behulp van zelfgemaakte achterdeurt
+jes en bestandscoderende malware voor de eerste en laatste fase van de aanval.Cyberaanval ternauwern
+ood vermedenMETHUEN - Een poging van Oost-Europese hackers afgelopen zomer om toegang te krijgen tot
+ het computersysteem van de stad - met zijn informatie over belastingbetalers, werknemers en nog vee
+l meer - was volgens stadsfunctionarissen bijna succesvol, maar snelle actie hielp de informatie vei
+lig te houden.Ransomware imiteert REvilJoakim Kennedy vond een nieuwe ransomware geschreven in Golan
+g die zich voordoet als REvil. Vreemd, want er is geen manier voor een slachtoffer om bestanden te h
+erstellen, omdat er geen contactgegevens zijn die voor hen zouden werken. Misschien een wisser?24 se
+ptember 2020Mount Locker ransomware voegt zich bij het losgeld spel dat meerdere miljoenen dollars k
+ostEen nieuwe ransomware-operatie genaamd Mount Locker is bezig met het stelen van de bestanden van 
+de slachtoffers voordat ze worden gecodeerd en vervolgens worden er miljoenen dollars aan losgeld ge
+ëist.De Poolse politie sloot hacker supergroep die betrokken was bij bommeldingen, ransomware en sim
+kaartenDe Poolse autoriteiten hebben vandaag een hacker supergroep gesloten die zijn vingers heeft g
+ehad bij een groot aantal cybercriminaliteitsoperaties, zoals ransomware-aanvallen, malware distribu
+tie, simkaarten, bankfraude, het runnen van nep webwinkels en zelfs bommeldingen in opdracht. van be
+talende klanten.Nieuwe Dusk RansomwareS! Ri vond de nieuwe Dusk v1.0 Ransomware die een losgeldbrief
+ laat vallen met de naam ! #! READ-ME! # !. txt losgeldbrief.Nieuwe Exorcist 2.0-ransomwareJAMESWT  
+vond een voorbeeld van de nieuwe Exorcist 2.0-ransomware.25 september 2020De frisse geur van vrijgek
+ochte koffieWe hebben van een koffiezetapparaat een gevaarlijke machine gemaakt die om losgeld vraag
+t ​​door de firmware van de maker te wijzigen. Zou iemand anders het ook kunnen? Zoals je zou verwac
+hten, is het antwoord: Ja. Volg ons op een reis waarin we u laten zien dat firmware de nieuwe softwa
+re is. Nieuwe Stop ransomware-variantMichael Gillespie vond een nieuwe Stop-variant die de  extensie
+ .copa toevoegt aan versleutelde bestanden.Nieuwe Matrix ransomware-variantMichael Gillespie vond ee
+n nieuwe Matrix-variant die de  .DEUS- extensie toevoegt en een losgeldbriefje laat vallen met de na
+am DEUS_INFO.rtf .                Anonieme tip?            Met dank aan de bijdragers van deze week:
+ @malwareforme , @ demonslay335 , @PolarToffee , @jorntvdw , @struppigel , @LawrenceAbrams , @serghe
+i , @BleepinComputer , @VK_Intel , @FourOctets , @malwurhunterteam , @malwurhunterteam , @malwurhunt
+erteam , @fwosar , @DanielGallagher , @Seifreed , @thinkcz , @AvastThreatLabs , @campuscodi , @Tesor
+ion_NL, @ jeffstone500 , @joakimkennedy , @Kangxiaopao , @JAMESWT_MHT , @siri_urz , @GrujaRS , en @ 
+3xp0rtblog.RansomwareRansomware cyberaanvallen zijn een big business, zo groot zelfs dat onderzoek v
+erwacht dat een bedrijf elke 11 seconden wordt aangevallen door een cybercrimineel  en dat de schade
+ als gevolg van deze aanvallen tegen 2021 ongeveer 20.000.000.000.000,- (20 biljoen) dollar zal bedr
+agen .Wat is Ransomware?Ransomware is software waarmee de computer wordt ‘gegijzeld’. Het slachtoffe
+r kan niet meer bij zijn persoonlijke bestanden. Bij het opstarten van de computer verschijnt een me
+lding dat een bedrag betaald moet worden om weer toegang te krijgen. Wil je meer weten over Ransomwa
+re, dan kun je hier verder lezen.DoxwareWat is Doxware?Doxware is een soort ransomware die persoonli
+jke gegevens aan het publiek dreigt vrij te geven als de gebruiker het losgeld niet betaalt.De term 
+komt van de hacker-term doxing of het vrijgeven van vertrouwelijke informatie via internet. Doxware-
+aanvallen infecteren computers vaak via phishing-e-mails. Meer weten over doxware, dan kun je hier v
+erder lezen.AdviesInstalleer een goede virusscanner.Houd alle software up-to-date, waaronder besturi
+ngssysteem, internetbrowser, browser aanvullingen en populaire programmas, zoals Adobe Reader. Met S
+canCircle zie je snel hoe je pc ervoor staat. Voor software als Adobe Flash en Java is uitschakelen 
+aan te raden.Klik niet op bijlagen en links in e-mails, tenzij je zeker weet dat het vertrouwd is. T
+wijfel je, kijk dan op de Opgelicht website of de e-mail daar voorkomt. Zo niet, wacht dan een dag e
+n controleer nogmaals of stuur hem door naar digitaalgids@consumentenbond.nl voor uitsluitsel. Schak
+el geen macros bij Office-documenten van derden, zeker niet als daar in het document om wordt gevraa
+gd.Ransomware is vaak een uitvoerbaar .exe-bestand, vermomd als ander soort bestand, bijvoorbeeld ee
+n pdf-document. Schakel  bestandsextensies weergeven, zodat je de vermomming kunt doorzien.En tenslo
+tte: back-ups maken! Dat is sowieso verstandig, maar bij ransomware-besmetting vaak het enige redmid
+del om verlies van al je gegevens te voorkomen.Wilt u weten hoe uw digitale veiligheid is? Doe dan h
+ier de test en ontvang uw test score. (.../10)Meer weekoverzichten                Ransomware weekove
+rzicht week 39 - 2020            Afgelopen week zagen we  aanhoudende aanvallen op grote organisatie
+s, terwijl nieuwe ransomware-operaties zich haasten om deel te nemen aan een moderne ransomware-goud
+koorts.        Lees meer »                Ransomware weekoverzicht week 38 - 2020            Nu de s
+cholen over de hele wereld weer gestart zijn, blokkeren ransomware criminelen hen met cyberaanvallen
+ die het begin van het schooljaar verstoren.        Lees meer »                Ransomware weekoverzi
+cht week 37 - 2020            Afgelopen week zijn grote organisaties over de hele wereld aangevallen
+ met ransomware waarbij cybercriminelen miljoenen aan losgeld eisten.        Lees meer »            
+    Ransomware weekoverzicht week 36 - 2020          xiaopao  vond de BlackKnight-schermvergrendelin
+g waarvoor u een wachtwoord moet invoeren om toegang te krijgen tot het Windows-bureaublad.        L
+ees meer »           Ransomware maandoverzicht Augustus 2020            Augustus was de tweede druks
+te maand van 2020 voor ransomware aanvallen, waarbij enkele bekende merken zoals Jack Daniels, Carni
+val Cruises en Canon de krantenkoppen haalden. Bij de 20 incidenten die we ontdekten, was de industr
+ie de zwaarst getroffen sector, op de voet gevolgd door onderwijs.        Lees meer »               
+ Ransomware weekoverzicht week 34 - 2020            Ransomware cyberaanvallen zijn een big business,
+ zo groot zelfs dat onderzoek verwacht dat een bedrijf elke 11 seconden wordt aangevallen door een c
+ybercrimineel  en dat de schade als gevolg van deze aanvallen tegen 2021 ongeveer 20.000.000.000.000
+,- (20 biljoen) dollar zal bedragen .        Lees meer »                (1 / 2)                    1
+                        2                Ransomware berichten      Ransomware-aanval in Duits zieken
+huis leidt tot dood van patiënt            Een persoon in een levensbedreigende toestand stierf nada
+t hij door een ransomware-aanval gedwongen was naar een verder weg gelegen ziekenhuis te gaan.      
+  Lees meer »    Update 3: Veligheidsregio (Noord- en Oost Gelderland) getroffen door Ransomware    
+        Update 17-9-2020, 16.00 uur        Lees meer »                De meest gevreesde Ransomware 
+versleutelingen            Netwalker in een ransomware die in september 2019 werd ontdekt. Het draag
+t een tijdstempel van eind augustus 2019. Netwalker is een bijgewerkte versie van Mailto die ontdekt
+ werd door de onafhankelijk cybersecurity-onderzoeker en Twitter-gebruiker GrujaRS.        Lees meer
+ »                Spie International bevestigt ransomware aanval            Spie International is he
+t slachtoffer geworden van cybercriminelen. Ze slaagde erin om de Nefilim-ransomware op het computer
+netwerk van het bedrijf te installeren. Inmiddels werken alle systemen weer en draait de productie w
+eer als vanouds. Wel is er data buitgemaakt van diverse klanten.        Lees meer »                A
+merikaanse gemeente besluit tot betalen cybercriminelen            Eind juli werd de Amerikaanse sta
+d Lafeyette het slachtoffer van een ransomware aanval. Cybercriminelen hadden het stadsnetwerk geïnf
+ecteerd en eisten € 38.000 euro voor het ontsleutelen van de bestanden.        Lees meer »          
+      Canon maakt ransomware aanvallen bekend aan werknemers       BleepingComputer heeft een screen
+shot ontvangen van een intern bericht dat door Canon naar medewerkers is gestuurd waarin de ransomwa
+re aanval wordt onthuld.        Lees meer »                "Storing" bij Canon            Dat er vee
+l meer cybercrime slachtoffers zijn dan wordt gemeld, is inmiddels wel duidelijk. Er heerst nog alti
+jd een taboe rondom slachtofferschap van digitale delicten.        Lees meer »    Het businessmodel 
+van Ransomware as a Service Vorige week werd Garmin slachtoffer van een ransomware aanval door de Ru
+ssische hackers group Evil Corp. Dagenlang waren de diensten van Garmin onbereikbaar. Het is steeds 
+makkelijker om dit soort aanvallen te doen omdat er zoiets bestaat als Ransomware as a Service (RaaS
+). Lees meer » Hackers groep Lazarus zet actief VHD-ransomware in voor bedrijfsaanvallen Door Noord-
+Korea gesteunde hackers groep Lazarus zet actief VHD-ransomware in tegen bedrijven, volgens een rapp
+ort dat gisteren is gepubliceerd door Kaspersky-onderzoekers.        Lees meer »                "Naa
+r schatting 538 miljoen euro bespaard aan ransom betalingen" Het No More Ransom Project viert vandaa
+g zijn vierde verjaardag. Het project dat de Nederlandse politie, Europol en antivirusbedrijven Kasp
+ersky Lab en McAfee in juli 2016 lanceerden bestaat inmiddels vier jaar.        Lees meer »Geen stor
+ing maar gijzelsoftware bij Garmin Het is al dagen niet mogelijk om sportactiviteiten te synchronise
+ren met de mobiele app Garmin Connect. Dat geldt ook voor andere diensten van het bedrijf.        Le
+es meer »                Het Nederlands kenniscentrum watertechnologie en slachtoffer van Ransomware
+, heeft besloten niet te zeggen wat er betaald is aan cybercriminelen            Het Friese onderzoe
+ksinstituut Wetsus heeft na overleg met de politie besloten om het bedrag dat aan een cybercrimineel
+ werd betaald voor het ontsleutelen van bestanden niet bekend te maken. Begin februari raakte het ne
+twerk van Wetsus via een "openstaande serverpoort" door niet nader genoemde ransomware besmet. Een d
+ag na de infectie betaalde Wetsus het losgeld omdat dit goedkoper was dan het zelf herstellen van de
+ systemen.        Lees meer »                (1 / 7)                    1                           
+    2                                    3                                    4                     
+ 5                                    6                                    7                Doxware 
+berichten           Cybercriminelen publiceren tientallen gigabytes aan interne gegevens van LG en X
+erox     De cybercriminelen van de Maze-ransomware hebben gisteren tientallen GB interne gegevens va
+n de netwerken van de zakelijke reuzen LG en Xerox gepubliceerd na twee mislukte afpersingspogingen.
+        Lees meer »                LG Electronics slachtoffer van Doxware            De cybercrimine
+len achter de Maze-ransomware claimt systemen van elektronicagigant LG Electronics te hebben geïnfec
+teerd, waarbij ook door het bedrijf ontwikkelde broncode is buitgemaakt. Als LG het gevraagde losgel
+d niet betaalt zullen de criminelen de gestolen data openbaar maken.        Lees meer »             
+   (1 / 1)            1                Ander nieuws nieuws »Overzicht met cybercrime vormen en begri
+ppen »Tips en tricks »Inschrijven wekelijkse nieuwsbrief »
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen in meerde
+re staten VS getroffen door ransomware:
+
+/ ~ 4AC5DDE2 ~ /
+
+Ook in 2020 zal het aantal IS/IT issues h
+elaas weer toenemen: hacking, ransomware, data breach en wellicht nieuwe, nog onbekende vormen. Secu
+rity en IT continuity zijn erg belangrijk, maar VERGEET DE BUSINESS NIET, die moet doordraaien: BCM 
+- Kijk op https://bcmplus.nl
+
+/ ~ 4AC5DDE2 ~ /
+
+Business Continuity Management (BCM) gaat over het b
+eschermen van uw organisatie tegen de gevolgen van omvangrijke verstoringen en (on)bekende risico’s.
+ Dit is anno 2017 geen overbodige luxe. Elke organisatie heeft wel een crisisplan, -team en   [lees 
+meer ...]
+
+/ ~ 4AC5DDE2 ~ /
+
+Smart koffiezetapparaat geïnfecteerd met ransomwarehttps://privacy-web.
+nl/nieuws/smart-koffiezetapparaat-geinfecteerd-met-ransomware…#Cybersecurity #Ransomware
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Het covid19 virus heeft ook enorme impact op het Nederlandse zakenleven. AX 0 bv “Denktank” 
+is hier zakelijk en maatschappelijk op veel facetten bij betrokken. Regelmatig zijn updates en medis
+che publicaties en ervaringen nauwlettend in de gaten gehouden om zo goed mogelijk zakelijk relevant
+e en actuele informatie en ondersteuning aan onderneming en organisatie te bieden.Realtime informati
+e word dagelijks gedeeld met cliënten in de Benelux en Duitsland met heldere adviezen voor herinrich
+ting van bijvoorbeeld werkplekken, technisch beschermende adviezen, security en zakelijk/organisator
+ische protocollen, processen en procedures.Vanuit die governance zetten AX 0 bv partners en consulta
+nts voortdurend die extra stap. Vanwege die actualiteit heeft AX 0 bv dan ook deel genomen aan de RT
+LZ uitzendingen gepresenteerd door Myrna Goossen, “Samen Sterk Tijdens Corona”.Wat is de impact van 
+covid19 op het bedrijfsleven, de zaak en hoe ziet de zakelijke toekomst eruit na covid19? Vragen die
+ in elke boardroom en aan directietafels leven. Middels onze tickertape houden wij u graag van tal v
+an actuele zaken op de hoogte. Tips of info? Laat het ons weten.
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen in 
+meerdere staten VS getroffen door ransomware #News >
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen in verschillend
+e Amerikaanse staten zijn getroffen door een cyberaanval. Het gaat om ziekenhuizen die onderdeel uit
+maken van UHS. Het lijkt te gaan om ransomware.Bleeping Computer meldt dat de problemen sinds zondag
+morgen spelen. Verschillende medewerkers geven tegenover de website aan geen toegang meer te hebben 
+tot computersystemen. In zowel ziekenhuizen van UHS in Californië, Florida, Texas, Arizona en Washin
+gton D.C. zouden problemen zijn.RansomwareOp Reddit meldt een gebruikers die bij een ziekenhuis van 
+UHS zegt te werken meldt dat de problemen om ongeveer twee uurs nachts lokale tijd begonnen. Meerder
+e antivirusprogrammas zouden door de aanval zijn uitgeschakeld. Na ongeveer een minuut zijn de syste
+men naar verluid uitgelogd en uitgeschakeld. Indien een getroffen systeem wordt ingeschakeld, sluit 
+deze automatisch weer af.Een ransomwareaanval is door UHS nog niet officieel bevestigd. Een werkneme
+r van UHS zegt echter tegen Bleeping Computer dat bestanden tijdens de aanval de extensie .ryk krege
+n. Deze extensie wordt gebruikt door de Ryuk ransomware. Ook melden werknemers dat op getroffen syst
+emen een boodschap is getoond waarin losgeld wordt geëist. Deze boodschap vertoont volgens Bleeping 
+Computer overeenkomsten met vergelijkbare boodschappen die eerder door Ryuk zijn verspreid.Meer info
+rmatie is hier beschikbaar. 
+
+/ ~ 4AC5DDE2 ~ /
+
+Smart koffiezetapparaat geïnfecteerd met ransomware 
+- Zie https://informatiebeveiliging.nl/smart-koffiezetapparaat-geinfecteerd-met-ransomware/… op http
+://informatiebeveiliging.nl
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware even. Oops.
+
+/ ~ 4AC5DDE2 ~ /
+
+ Let op!  
+Er is weer een nieuwe #phishing ronde gaande! Ditmaal wordt het CJIB misbruikt.Dus..... Niet alleen 
+de verkeersregels in de gaten houden, maar ook dit soort mailtjes! #hackers #ransomware0
+
+/ ~ 4AC5DD
+E2 ~ /
+
+#Ransomware #Hack #Email#DDOSTelkens als je hier iets over leest, weet je dat er weer iemand
+ is die zijn werk niet serieus nam.https://bit.ly/33cjYQ8 40%-70% kon je voorkomenhttps://bit.ly/2Lj
+K3CD@BNR @RTLZ @PwC @Deloitte @KPN @EY @KPMG @MKBCongres @MKBNL #AX0
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen
+ in meerdere staten VS getroffen door ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+IT-systemen Amerikaanse ziekenhu
+izen ontoegankelijk door #ransomware. #Ziekenhuizen in verschillende Amerikaanse staten zijn getroff
+en door een #cyberaanval. Het gaat om ziekenhuizen die onderdeel uitmaken van UHS. Het lijkt te gaa…
+https://lnkd.in/dYgcfrt
+
+/ ~ 4AC5DDE2 ~ /
+
+ Training & AwarenessVergroot de weerbaarheid van uw mede
+werkers met onze awareness sessies, cursussen en maatwerk trainingenLees meer Security AssessmentTes
+t de beveiliging van uw applicaties en infrastructuur, en de awareness van uw medewerkersLees meer S
+ecurity ManagementBescherm uw kroonjuwelen tegen hackers, misbruik en verlies met passende maatregel
+enLees meer Privacy ManagementBescherm persoonsgegevens en voldoe blijvend aan de Algemene Verordeni
+ng Gegevensbescherming (AVG/GDPR)Lees meer
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware #DDOS #Hacks #CybercrimeGr
+ootste Franse container transportbedrijf CMA CGM geraakt door Ransomware aanval -  Nieuwsblad Transp
+ort.Wanneer u iets leest over een geslaagde cybercrime, dan weet u dat de vele IT professionals, van
+ hoog tot l…
+
+/ ~ 4AC5DDE2 ~ /
+
+Dus backups op HD zijn goed en zinvol in heel veel gevallen, maar me
+t de groei van ransomware kan je best nog iets bijkomends nemen zoals Amazon Glacier dat enkel via a
+gents toegankelijk is. /2
+
+/ ~ 4AC5DDE2 ~ /
+
+Nieuws en achtergronden in transport en logistiekDigita
+al19,9930,00 Regulier tariefProefabonnementOnbeperkt toegang tot nieuwsbladtransport.nlOp werkdagen 
+de nieuwsbrief in uw mailboxDigitale versie van de papieren krant online3 online gebruikersAbonneer 
+nu*Eerste 3 maanden, daarna regulier tariefCompleet29,9942,95 Regulier tariefProefabonnementWekelijk
+s de papieren krantOnbeperkte toegang tot nieuwsbladtransport.nlOp werkdagen de nieuwsbrief in uw ma
+ilboxDigitale versie van de papieren krant online3 online gebruikersAbonneer nu*Eerste 3 maanden, da
+arna regulier tariefteam99,50125,90 Regulier tariefJaarabonnement2x de papieren krantOnbeperkte toeg
+ang tot nieuwsbladtransport.nlOp werkdagen de nieuwsbrief in uw mailboxDigitale versie van de papier
+en krant online10 online gebruikersAbonneer nu*Altijd scherp geprijsdOp maat voor jouw bedrijfBedrij
+fsabonnementenAantal gebruikersPrijs per Jaarabonnement tot 3 gebruikers€ 360 per jaar tot 10 gebrui
+kers€ 1.200 per jaar vanaf 10 gebruikersOp aanvraagAanvragenAl onze prijzen zijn exclusief btw.Waaro
+m Nieuwsblad Transport?Nieuwsblad Transport is al meer dan 32 jaar de krant voor professionals in de
+ transport en logistiek. Nieuwsblad Transport publiceert dagelijks de laatste ontwikkelingen uit de 
+transportsector over alle modaliteiten heen. Artikelen behandelen de actualiteiten in havens, wegtra
+nsport, expeditie, zeevaart, luchtvracht, binnenvaart, supply chain management en spoorgoederenvervo
+er. Daarnaast gaan we in op overnames, innovatie, economie en management onderwerpen.Nieuwsblad Tran
+sport is onderdeel van ProMedia met een redactie van 25 journalisten gespecialiseerd in transport en
+ mobiliteit.Transportnieuws alleen bij Nieuwsblad TransportNieuwsblad Transport bedrijft kwaliteitsj
+ournalistiek. Dagelijks schrijft de zevenkoppige redactie van full-time transport journalisten plus 
+een netwerk van freelancers: nieuws, achtergrondverhalen en interviews exclusief voor Nieuwsblad Tra
+nsport. Deze artikelen zijn alleen beschikbaar voor abonnees en zijn niet via andere kanalen toegank
+elijk.De krant en de afvaartlijst verschijnen elke donderdag. Maandelijks besteedt de redactie extra
+ aandacht aan een relevant thema in de transport en logistiek dat helemaal wordt uitgediept. Rondom 
+die thema’s organiseren we ook webinars met vooraanstaande experts.Nieuwsbrief en webinarsDagelijks 
+voor de lunch ontvangen de abonnees het laatste nieuws in hun mailbox. De nieuwsbrief bevat alle nie
+uwskoppen van die dag. Het gaat goed met Nieuwsblad Transport, de krant heeft meer dan 135.000 uniek
+e lezers per maand. Nieuwsblad Transport is daarmee de leidende journalistieke informatiebron voor d
+e Nederlandse en Belgische transportmarkt en wordt gelezen door vakprofessionals van duizenden trans
+portbedrijven en organisaties.Het is onze missie om onze abonnees te helpen bij hun vak door het ver
+spreiden van relevante vakinformatie.Abonneer nu op nieuwsblad transport 
+
+/ ~ 4AC5DDE2 ~ /
+
+Onderzo
+ekers van antivirusbedrijf Avast hebben aangetoond dat een koffiezetapparaat van fabrikant Smart bes
+met kan worden met ransomware. De kwetsbaarheid is gelegen in de onveilige updateprocedure van het a
+pparaat.De eerste keer dat het koffiezetapparaat wordt aangezet, creëert het een eigen wifi-netwerk.
+ Met de bijbehorende app kunnen gebruikers vervolgens verbinding met het netwerk maken.FirmwareDe on
+derzoekers kwamen erachter dat de firmware van het koffiezetapparaat in de app zelf is verwerkt. Wan
+neer de gebruiker een nieuwe versie van de app installeert, is het mogelijk om ook de firmware van d
+e machine bij te werken. Dat kan, omdat deze geen encryptie of digitale handtekeningen gebruikt. Bov
+endien schakelt het koffieapparaat het eigen onbeveiligde wifi-netwerk voor de updateprocedure in. “
+Alles wordt in plaintext over een onbeveiligde wifi-verbinding verstuurd. De enige controle is de cy
+clic redundancy check (CRC) aan het einde”, concluderen de onderzoekers.LosgeldKwaadwillenden kunnen
+ op deze manier een kwaadaardige firmware-versie ontwikkelen, en deze naar het koffiezetapparaat ver
+zenden. Om dit in de praktijk aan te tonen, ontwikkelden de onderzoekers een malafide firmware-versi
+e. Deze kwaadaardige software was in staat om de machine onbruikbaar te maken door deze voortdurend 
+van heet water te voorzien. Ook was het mogelijk om de warmtehouder in te schakelen. Tevens konden d
+e onderzoekers een melding op het display laten verschijnen, die om losgeld vraagt.
+
+/ ~ 4AC5DDE2 ~ 
+/
+
+Dat cybercriminelen geld verdienen waar dat het makkelijkste gaat, is logisch. Maar wel zorgelijk
+ dat dat vaak bij ziekenhuizen blijkt te zijn. Onlangs nog eerste dode door cyberaanval op ziekenhui
+s in Duitsland, nu ransomware bij 400 ziekenhuizen in VS:
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen in meerder
+e staten VS getroffen door ransomware | http://NU.nl
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware is niet nieuw. Cy
+bercriminelen dringen via valse e-mail of sms- berichten netwerken binnen, versleutelen bestanden en
+ alleen na betaling krijgt u de sleutel om te ontcijferen. “Ach…” denkt u, “ik heb een goede back-up
+, dan zet ik die wel terug.” Met de nieuwste ransomware helpt dat niet, die maakt naast bestandsvers
+leuteling ook uw back-up kapot. En dan?BetalenDan zit er niets anders op dan betalen. Dat weten ze b
+ij het inmiddels failliete Travelex (aanval december 2019, failliet), Universiteit van Maastricht en
+ – recent – Garmin ook, waarbij de laatste ettelijke miljoenen heeft moeten betalen om uit de ellend
+e te komen.Hoe werkt het?De nieuwste ransomware heeft een ingenieuze werkwijze. Via bijvoorbeeld phi
+shing e-mails of een hack van mobiele apparaten, verschaffen cybercriminelen zich toegang tot uw IT-
+omgeving. In plaats van alle bestanden te versleutelen kopieert het beruchte Maze-ransomware alle be
+standen naar een duistere en onvindbare plek op het internet. Aansluitend verwijdert de criminele so
+ftware de index van uw back-upsysteem waardoor het terugzetten van een back-up niet meer kan. Daarna
+ vernietigt de software al uw bestanden. Pas na uw bitcoinbetaling kopiëren de criminelen uw origine
+le bestanden ‘terug’ naar uw omgeving. Betaalt u niet, dan zal men al uw bestanden op het publieke i
+nternet bekendmaken.Grote schadePublicatie van al uw bestanden levert gegarandeerd een datalek op vo
+lgens geldende privacy wetgeving, met een hoge boete tot gevolg. Heeft u bedrijfsgeheimen of patente
+n? Dan liggen die ook op straat. En uw klanten? Zullen die nog kopen bij een bedrijf dat hun persoon
+lijke gegevens niet goed beveiligd? De schade is enorm, dus enkele honderdduizenden euro’s betalen i
+s dan toch voordeliger.VoorkomenMaar het gezegde luidt niet voor niets: voorkomen is beter dan genez
+en; voorkomen is nóg voordeliger. De grote vraag is alleen: ‘Hoe voorkom je een ransomware aanval?’ 
+Uit recent onderzoek van Malwarebytes1 blijkt dat zes op de tien bedrijven kwetsbaar zijn voor zo’n 
+aanval omdat zij geen goede strategie voor het beheer en de beveiliging van mobiele apparaten hebben
+. En ondanks alle aandacht en communicatie, blijven medewerkers op gevaarlijke links in e-mailberich
+ten klikken, eenvoudigweg omdat de valse e-mailberichten steeds beter worden.Slimme aanpakInsight he
+eft een slimme aanpak die u helpt zo’n beschreven moderne ransomware aanval te voorkomen. Daarvoor z
+etten wij drie lagen van detectie met bijbehorende actie in. Dit gaat van het scannen van digitaal v
+erkeer tot het geautomatiseerd onderzoek naar kopieergedrag naar onbekende locaties. Wilt u daar mee
+r over weten, neem dan contact op met uw Insight-accountmanager.Doe meer met back-upEen andere goede
+ manier om ernstige schade te voorkomen is het inzetten van een back-upoplossing die niet ‘kapot gem
+aakt’ kan worden. Barracuda Networks biedt dat momenteel aan. Omdat de Barracuda back-upsystemen een
+ andere ‘taal’ spreken dan de computertaal die de ransomware spreekt, kan die de back-up niet kapot 
+maken. Zo kunnen uw bestanden weliswaar versleuteld of vernietigd zijn, met een werkende back-up kun
+t u snel verder met beperkte financiële schade.KennisWilt u meer kennis opdoen rondom ransomware en 
+antwoord krijgen op uw vragen over hoe u ernstige ellende kunt voorkomen? Schrijf u dan in voor de o
+nline kennissessie op 30 september aanstaande. Beveiligingsexperts van Insight en Barracuda Networks
+ geven u antwoord op al uw vragen. Wacht niet te lang met inschrijven, het aantal beschikbare plaats
+en is beperkt. Kijk voor meer informatie over hoe je data veilig stelt in Microsoft 365 op onze webs
+ite.Erik WesthovensSecurity Solutions Architect Insight Enterprises1 Malwarebytes onderzoeken en rap
+porten.
+
+/ ~ 4AC5DDE2 ~ /
+
+Dat geldt niet alleen voor CMA CGM zelf, maar ook ook voor de dochterbedr
+ijven APL, ANL, en CNC. De bijna twee jaar geleden overgenomen logistiek dienstverlener Ceva is wel 
+gewoon online. De hackers zouden losgeld hebben geëist in ruil voor ‘een speciale decoderingssleutel
+’, waarmee de systemen weer toegankelijk zouden worden.Ragnar LockerDe Ragnar Locker-ransomware dook
+ al bijna een half jaar geleden voor het eerst op en wordt onder meer via e-mailbijlagen en adverten
+ties verspreid. Bestanden van geïnfecteerde systemen kunnen niet meer worden geopend, extensies word
+en gewijzigd en er wordt automatisch een losgeld bericht gegenereerd. Ook proberen de hackers via de
+ malware gevoelige informatie te pakken te krijgen. Het Portugese energiebedrijf EDP Renewables werd
+ eerder dit jaar ook het slachtoffer van Ragnar Locker.CMA CGM beweerde aanvankelijk dat het boeking
+ssysteem van het bedrijf was uitgeschakeld als gevolg van  ‘een interne IT-probleem’ en zei dat er m
+aatregelen waren genomen om verdere verspreiding van de malware te voorkomen. Maandagmiddag erkende 
+de groep dat ‘CMA CGM, met uitzondering van Ceva Logistics, te maken heeft met een cyberaanval op pe
+rifere servers’. Een woordvoerder voegde eraan toe dat ‘het informatiesysteem wordt hervat’. Dinsdag
+ waren de sites nog steeds niet bereikbaar. Het Nederlandse kantoor in Rhoon is ook niet telefonisch
+ bereikbaar.
+
+/ ~ 4AC5DDE2 ~ /
+
+Verbied betalen bij ransomware-aanval
+
+/ ~ 4AC5DDE2 ~ /
+
+#EPD #Patië
+ntendossier #IT #Ransomware #VendorslockHoe EPD software markt onbetaalbare gelegaliseerde ransomwar
+e werd ....http://bit.ly/2GdeKdyEen oplossing?  http://bit.ly/2LjK3CD@marcelkuin @antoniuszorg@BNRza
+ken @RTLZ @PwC @EY_Nederland @Deloitte @KPMG @KNMG #AX0
+
+/ ~ 4AC5DDE2 ~ /
+
+Onedrive ea zijn ook brui
+kbaar ALS je de version history functie hebt. Je primaire file zal na ransomware aanval geencrypteer
+d zijn, maar je kan met version history terugzetten. 3/3
+
+/ ~ 4AC5DDE2 ~ /
+
+Registreer nu en lees:Ho
+og tijd om de monopolies van ICT-leveranciers af te brekenGratis registrerenHeeft u een FD.nl accoun
+t of bent u abonnee van Het Financieele Dagblad?Inloggen
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware is niet nieuw
+. Echter, de nieuwste ransomware maakt naast bestandsversleuteling ook uw back-up kapot. En dan? Lee
+s de blog en voorkom ransomware aanvallen bij uw organisatie. http://ms.spr.ly/6010Tvq48
+
+/ ~ 4AC5DD
+E2 ~ /
+
+Onderzoekers infecteren smart koffiezetapparaat met ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuiz
+en in meerdere staten VS getroffen door ransomware https://nu.nl/tech/6080538/ziekenhuizen-in-meerde
+re-staten-vs-getroffen-door-ransomware.html… via @NUnl
+
+/ ~ 4AC5DDE2 ~ /
+
+Zijn die grote ransomware 
+attacks nu eigenlijk 99.9% Windows georiënteerd of vergis ik me dan stevig?
+
+/ ~ 4AC5DDE2 ~ /
+
+Smart
+ koffiezetapparaat geïnfecteerd met ransomwar 29-09-2020 cybersecurity ransomware Onderzoekers van a
+ntivirusbedrijf Avast hebben aangetoond dat een koffiezetapparaat van fabrikant Smart besmet kan wor
+den met ransomware. De kwetsbaarheid is gelegen in de onveilige updateprocedure van het apparaat.De 
+eerste keer dat het koffiezetapparaat wordt aangezet, creëert het een eigen wifi-netwerk. Met de bij
+behorende app kunnen gebruikers vervolgens verbinding met het netwerk maken.FirmwareDe onderzoekers 
+kwamen erachter dat de firmware van het koffiezetapparaat in de app zelf is verwerkt. Wanneer de geb
+ruiker een nieuwe versie van de app installeert, is het mogelijk om ook de firmware van de machine b
+ij te werken. Dat kan, omdat deze geen encryptie of digitale handtekeningen gebruikt. Bovendien scha
+kelt het koffieapparaat het eigen onbeveiligde wifi-netwerk voor de updateprocedure in. Alles wordt 
+in plaintext over een onbeveiligde wifi-verbinding verstuurd. De enige controle is de cyclic redunda
+ncy check (CRC) aan het einde, concluderen de onderzoekers.LosgeldKwaadwillenden kunnen op deze mani
+er een kwaadaardige firmware-versie ontwikkelen, en deze naar het koffiezetapparaat verzenden. Om di
+t in de praktijk aan te tonen, ontwikkelden de onderzoekers een malafide firmware-versie. Deze kwaad
+aardige software was in staat om de machine onbruikbaar te maken door deze voortdurend van heet wate
+r te voorzien. Ook was het mogelijk om de warmtehouder in te schakelen. Tevens konden de onderzoeker
+s een melding op het display laten verschijnen, die om losgeld vraagt.bron: Informatiebeveiliging Ne
+derland
+
+/ ~ 4AC5DDE2 ~ /
+
+CMA CGM bevestigt cyberaanval met ransomware Ragnar Locker http://zpr.io/
+HmF6YNog geen abonnee? Maak nu voordelig kennis met NT: https://bit.ly/3bcjXNo
+
+/ ~ 4AC5DDE2 ~ /
+
+Di
+t is wel het laatste wat je nu kunt gebruiken  als ziekenhuis. Ziekenhuizen in meerdere staten VS ge
+troffen door ransomware https://nu.nl/tech/6080538/ziekenhuizen-in-meerdere-staten-vs-getroffen-door
+-ransomware.html… (via @NUnl)
+
+/ ~ 4AC5DDE2 ~ /
+
+Amerikaanse ziekenhuizen getroffen door ransomware
+
+
+/ ~ 4AC5DDE2 ~ /
+
+De servers van een van de grootste ziekenhuisketens in de Verenigde Staten zijn g
+etroffen door ransomware. Het gaat om ziekenhuizen van UHS in onder andere Californië en Florida waa
+r sinds zondagmorgen problemen met IT-systemen zijn. Dit meldt Bleeping Computer, dat sprak met vers
+chillende medewerkers van het ziekenhuis die geen toegang meer hadden tot de computersystemen.Het ga
+at in elk geval om ziekenhuizen in de twee staten Californië en Florida. Ook in Texas, Arizona en Wa
+shington D.C. lijken problemen te zijn met de systemen. Het is nog niet duidelijk hoe wijdverspreid 
+de ransomware is. UHS heeft meer dan vierhonderd locaties.In een verklaring heeft UHS verteld dat er
+ een technische storing is, maar er worden verder geen details gedeeld over de schaal of aard van de
+ problemen. Het ziekenhuis benadrukt dat de storing geen impact heeft op patiënten en dat er geen da
+ta is gestolen.Uit beschrijvingen van ziekenhuismedewerkers lijkt het om Ryuk-ransomware te gaan. He
+t lijkt erop dat de ransomware via phishing in de systemen van het ziekenhuis terecht is gekomen. De
+ gijzelsoftware versleutelt data, waardoor deze ontoegankelijk worden voor gebruikers. In sommige ge
+vallen van ransomwareaanvallen worden er ook data doorgesluisd naar de hackers die achter de aanval 
+zitten.Het is niet de eerste keer dat een ziekenhuis wordt getroffen door ransomware. Eerder deze ma
+and werd een ziekenhuis in Duitsland getroffen door ransomware. Momenteel loopt er een onderzoek naa
+r het overlijden van een patiënt die naar een ander ziekenhuis moest worden gebracht vanwege de rans
+omwareaanval.
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen in meerdere staten VS getroffen door ransomware http:/
+/dlvr.it/RhZlRb
+
+/ ~ 4AC5DDE2 ~ /
+
+Zo lang je maar synchronisatie niet verwart met een backup. Een b
+ackup mag in principe nooit toegankelijk zijn via het filesysteem. Anders loop je bv het risico dat 
+ransomware je harde schijf mee encrypteert.  /1
+
+/ ~ 4AC5DDE2 ~ /
+
+Samenvatting: Wenatchee Valley Co
+llege evalueert IT-omgeving na hit van lokale universiteit met ransomware http://dlvr.it/RhbTqT #DDO
+S #Ransomware #commerce & #Risicos #Cybercrime overkomt je? Nee. #Cybercrime groeit met de snelheid 
+van commercie. Kun je je wapenen tegen #ransomware? Reduceer Risicos 40%-70% https://bit.ly/3mbK0dH 
+@KPN BNR @RTLZ @MKBCongres @MKBNL@Maersk @politie #AX0 @KPMG @PwC
+
+/ ~ 4AC5DDE2 ~ /
+
+Ziekenhuizen in
+ meerdere staten VS getroffen door ransomware http://dlvr.it/RhZYbz
+
+/ ~ 4AC5DDE2 ~ /
+
+IT-systemen A
+merikaanse ziekenhuizen ontoegankelijk door ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+TwitterHet Amerikaanse Uni
+versal Health Services, dat vierhonderd locaties heeft in de Verenigde Staten, Puerto Rico en het Ve
+renigd Koninkrijk, zegt dat het IT-netwerk van het bedrijf momenteel offline is. Volgens anonieme br
+onnen gaat het om een ransomwareaanval. In een verklaring zegt UHS dat het volledige IT-netwerk onbe
+reikbaar is door een beveiligingsprobleem. In het bericht deelt de keten niets mee over het soort pr
+obleem waarom het gaat. Totdat de problemen zijn verholpen, gebruikt het ziekenhuispersoneel back-up
+processen, waaronder papieren documentatie. Het bedrijf benadrukt dat de gezondheidszorg nog steeds 
+wordt uitgevoerd en dat data van patiënten en werknemers voor zover bekend niet is gestolen of ingez
+ien.Twee anonieme bronnen zeggen tegen TechCrunch dat de aanval zondagochtend plaatselijke tijd bego
+n, waarbij computers en mobiele telefoons werden vergrendeld. Een van de bronnen zei dat er op compu
+terschermen verwijzingen waren naar de shadow universe, wat zou wijzen op de Ryuk-ransomware. Het zi
+ekenhuispersoneel werd verteld dat het alle computers moest uitschakelen en dat het dagen zou duren 
+voordat de systemen weer gebruikt mochten worden.Volgens een verpleegkundige waarmee NBC News sprak,
+ zijn de patiëntenkaarten van de ziekenhuizen wel offline, maar wordt informatie over medicijnen dig
+itaal opgeslagen. Het is onduidelijk of die geback-upte data wel toegankelijk is.Eerder dit jaar zei
+den verschillende ransomwarecriminelen dat ze gezondheidsorganisaties niet zouden aanvallen. De vera
+ntwoordelijken voor de Ryuk-software hoorden hier echter niet bij. Ziekenhuizen worden vaker getroff
+en door ransomwareaanvallen, zoals een ziekenhuis in Düsseldorf eerder deze maand. Door deze aanval 
+stierf mogelijk een patiënt.
+
+/ ~ 4AC5DDE2 ~ /
+
+Duitsland zet in op regionale maatregelen na stijgen
+d aantal besmettingen BinckBank Tour gaat niet meer door Nederland wegens coronamaatregelen  Meerder
+heid Brits parlement stemt in met omstreden Brexit-wet  BinckBank Tour gaat niet meer door Nederland
+ wegens coronamaatregelen  Meerderheid Brits parlement stemt in met omstreden Brexit-wet  Alsnog 30 
+gasten toegestaan bij jawoord, woensdag duidelijkheid over feest  Onderzoekers vinden toch nog priva
+cyrisico in corona-app  Bette Westera wint Gouden Griffel met dichtbundel Uit Elkaar Video Dit zijn 
+de onthullingen over Trumps belastingverleden Liveblog corona Soldaat van Oranje tijdelijk gestopt d
+oor besmettingen  Aantal positieve tests in week tijd met ruim 40 procent gestegen naar 19.326  Over
+zicht: Dit zijn de nieuwe maatregelen die om 18.00 uur zijn ingegaan  Alsnog 30 gasten toegestaan bi
+j jawoord, woensdag duidelijkheid over feest  Onderzoekers vinden toch nog privacyrisico in corona-a
+pp  Bette Westera wint Gouden Griffel met dichtbundel Uit Elkaar Dit is een videoitem2:40Video Dit z
+ijn de onthullingen over Trumps belastingverleden Liveblog corona Soldaat van Oranje tijdelijk gesto
+pt door besmettingen  Aantal positieve tests in week tijd met ruim 40 procent gestegen naar 19.326  
+Overzicht: Dit zijn de nieuwe maatregelen die om 18.00 uur zijn ingegaan Meer AlgemeenNet Binnen02:0
+3 Meeste cyberaanvallen op Microsoft-klanten uitgevoerd vanuit Rusland 01:01 Disney ontslaat 28.000 
+medewerkers uit Amerikaanse pretparken 23:37 Ajax bereikt akkoord met FC Utrecht over transfersom Kl
+aiber 22:53 Dynamo Kiev, Ferencváros en Olympiacos naar groepsfase Champions League 22:53 BinckBank 
+Tour gaat niet meer door Nederland wegens coronamaatregelen Als eerste op de hoogte van groot nieuws
+?We sturen alleen meldingen als nieuws echt belangrijk is.Nee, bedanktJa, graagNieuwsvideo s00:58Noo
+dweer in Istanboel: zware hagelbuien trekken over de stad00:58Grienden gestrand bij Spaanse kust, ne
+gen dieren overleden00:36Rallyauto vliegt metershoog de lucht in tijdens Franse race05:43Dit kunnen 
+Trump en Biden leren van befaamde presidentsdebattenEconomieDisney ontslaat 28.000 medewerkers uit A
+merikaanse pretparken NZa: Dit jaar minder zorgpolissen, maar consument heeft wel meer te kiezen  On
+dernemers krijgen langer de tijd om belastingschuld terug te betalen  KHN adviseert mondkapjesplicht
+ voor gasten in Amsterdamse horeca  Doek valt na bijna honderd jaar voor iconische merknaam KRAS  He
+rstel passagiersluchtvaart gaat minder snel dan gehoopt Weinig zombiebedrijven door Nederlandse coro
+nasteun  2 miljard belastingkorting: cadeau voor werkgevers of essentieel voor banen?  DELA trekt ha
+nden af van overnameprooi Yarden  NZa: Dit jaar minder zorgpolissen, maar consument heeft wel meer t
+e kiezen  Ondernemers krijgen langer de tijd om belastingschuld terug te betalen  KHN adviseert mond
+kapjesplicht voor gasten in Amsterdamse horeca  Doek valt na bijna honderd jaar voor iconische merkn
+aam KRAS  Herstel passagiersluchtvaart gaat minder snel dan gehoopt  Weinig zombiebedrijven door Ned
+erlandse coronasteun 2 miljard belastingkorting: cadeau voor werkgevers of essentieel voor banen?  D
+ELA trekt handen af van overnameprooi Yarden Meer EconomieSport Ajax bereikt akkoord met FC Utrecht 
+over transfersom Klaiber Tottenham Hotspur verslaat Chelsea na strafschoppenserie in League Cup Tran
+sferupdates Dest arriveert in Barcelona om transfer af te ronden  Dynamo Kiev, Ferencváros en Olympi
+acos naar groepsfase Champions League  Ajax presenteert ondanks coronacrisis winst van 20,7 miljoen 
+euro Video Djokovic applaudisseert voor tweener van Ymer  Roda JC verspeelt zege bij FC Eindhoven in
+ doelpuntrijk duel zonder fans  Philipsen wint door valpartij overschaduwde openingsrit BinckBank To
+ur  PSV Vrouwen boekt ruime zege in inhaalduel met VV Alkmaar  Giro Wielerspel: Met deze renners kun
+ je punten pakken Aangeboden door: Tottenham Hotspur verslaat Chelsea na strafschoppenserie in Leagu
+e Cup Transferupdates Dest arriveert in Barcelona om transfer af te ronden  Dynamo Kiev, Ferencváros
+ en Olympiacos naar groepsfase Champions League  Ajax presenteert ondanks coronacrisis winst van 20,
+7 miljoen euro Dit is een videoitem0:56Video Djokovic applaudisseert voor tweener van Ymer  Roda JC 
+verspeelt zege bij FC Eindhoven in doelpuntrijk duel zonder fans  Philipsen wint door valpartij over
+schaduwde openingsrit BinckBank Tour  PSV Vrouwen boekt ruime zege in inhaalduel met VV Alkmaar  Gir
+o Wielerspel: Met deze renners kun je punten pakken Aangeboden door:Meer SportTechMeeste cyberaanval
+len op Microsoft-klanten uitgevoerd vanuit Rusland Google beperkt datagebruik Fitbit om overname goe
+d te laten keuren door EU Video Test met jetpack in Engelse bergen voor het redden van wandelaars  Z
+iekenhuizen in meerdere staten VS getroffen door ransomware  Max Schrems: Techgiganten maken geen pl
+annen om data in EU op te slaan  Nieuwe scanner van Amazon laat klanten betalen met handpalm  DuckDu
+ckGo verdwijnt uit keuzescherm voor zoekmachines op Android  Rechter uit kritiek op Fortnite-maker E
+pic Games tijdens zitting met Apple  Storing Slack zorgt voor problemen bij versturen van berichten 
+ Google beperkt datagebruik Fitbit om overname goed te laten keuren door EU Dit is een videoitem1:40
+Video Test met jetpack in Engelse bergen voor het redden van wandelaars  Ziekenhuizen in meerdere st
+aten VS getroffen door ransomware  Max Schrems: Techgiganten maken geen plannen om data in EU op te 
+slaan Nieuwe scanner van Amazon laat klanten betalen met handpalm  DuckDuckGo verdwijnt uit keuzesch
+erm voor zoekmachines op Android  Rechter uit kritiek op Fortnite-maker Epic Games tijdens zitting m
+et Apple  Storing Slack zorgt voor problemen bij versturen van berichten Meer TechMedia en CultuurDi
+sney strikt Moonlight-regisseur Barry Jenkins voor nieuwe Lion King-film Brand in productiebus Mocro
+ Maffia in Amsterdam, politie gaat uit van opzet  Cliff Richard brengt nieuw album uit ter ere van t
+achtigste verjaardag  Ook in Amsterdamse bioscopen, theater- en concertzalen maximaal dertig mensen 
+ Nightwish stopt samenwerking met boekingsagent na vermeend wangedrag  Brand in productiebus Mocro M
+affia in Amsterdam, politie gaat uit van opzet  Cliff Richard brengt nieuw album uit ter ere van tac
+htigste verjaardag  Ook in Amsterdamse bioscopen, theater- en concertzalen maximaal dertig mensen  N
+ightwish stopt samenwerking met boekingsagent na vermeend wangedrag Meer Media en CultuurAchterklapK
+elly Clarkson door management aangeklaagd: Te weinig commissie betaald Mariah Carey openhartig in me
+moires: drugs, geweld en bedreigingen Achterklap-updates Douwe Bob wil een paar kilos kwijt  Patrici
+a Paay heeft streven naar perfectie losgelaten  Willow Smith: Ouders voerden voor mij gesprek over r
+elatie buiten huwelijk Mariah Carey openhartig in memoires: drugs, geweld en bedreigingen Achterklap
+-updates Douwe Bob wil een paar kilos kwijt  Patricia Paay heeft streven naar perfectie losgelaten  
+Willow Smith: Ouders voerden voor mij gesprek over relatie buiten huwelijk Meer AchterklapKlimaatHee
+ft olieproductie piek bereikt, en is dat goed nieuws voor het klimaat? Kunnen vissen en schelpdieren
+ profiteren van windparken op zee?  Amazone dreigt savanne te worden door slecht herstel na branden 
+en boskap  Mijn duurzame woning: We hebben een gasrekening van 100 euro per jaar Kunnen vissen en sc
+helpdieren profiteren van windparken op zee?  Amazone dreigt savanne te worden door slecht herstel n
+a branden en boskap  Mijn duurzame woning: We hebben een gasrekening van 100 euro per jaar Meer Klim
+aatWerkHet talentenpaspoort komt op: kan het cv in de prullenbak? Bang om niet goed genoeg te zijn: 
+Dit is geen individueel probleem  Nachtburgemeester: Het nachtleven staat te laag op de prioriteiten
+lijst Opvliegers, vergeetachtig, moe? Maak de overgang bespreekbaar op werk  Bang om niet goed genoe
+g te zijn: Dit is geen individueel probleem  Nachtburgemeester: Het nachtleven staat te laag op de p
+rioriteitenlijst Opvliegers, vergeetachtig, moe? Maak de overgang bespreekbaar op werk Meer WerkDe t
+ien opvallendste nieuwsfotos Koning Willen-Alexander opent in Naturalis een tentoonstelling ter gele
+genheid van het tweehonderdjarig bestaan van het natuurhistorisch museum.            © BrunoPress   
+         Advocaat Gerald Roethof staat in Maastricht de pers te woord. Dat doet hij voorafgaand aan 
+de rechtszaak tegen Jos B., die wordt verdacht van de moord op Nicky Verstappen.            © ANP   
+         Premier Mark Rutte overlegde zondag op het Catshuis met onder anderen minister Hugo de Jong
+e (Volksgezondheid) en RIVM-baas Jaap over het coronavirus.            © ANP    In Israël wordt tijd
+ens de tweede lockdown vanwege het coronavirus gedemonstreerd tegen de regering van premier Benjamin
+ Netanyahu.            © ANP            Actievoerders demonstreren bij vliegbasis Volkel tegen nieuw
+e kernwapens in Nederland. Het is zaterdag de internationale dag voor de afschaffing van kernwapens.
+            © ANP            Een politiewagen in Tilburg is na een ongeval in brand gevlogen.       
+     © Pro Shots            De kist van de overleden Amerikaanse opperrechter Ruth Bader Ginsburg (8
+7) arriveert bij het Hooggerechtshof in Washington.      © Pro Shots            Een lampenbedrijf in
+ Waalwijk heeft door een zeer grote brand veel schade opgelopen.            © Pro Shots            D
+e coronamaatregelen in de Spaanse provincie Badajoz zijn aangescherpt. Onder meer het maximale aanta
+l gasten in de horeca is teruggeschroefd.            © Pro Shots            Bij het Amerikaanse Hoog
+gerechtshof in Washington wordt gedemonstreerd tegen het voornemen van president Donald Trump om nog
+ voor de presidentsverkiezingen een opvolger van Ruth Bader Ginsburg te benoemen. De opperrechter ov
+erleed op 18 september.  © Pro ShotsUitgelichte videos03:14Wie is Amy Coney Barrett, Trumps kandidaa
+t-opperrechter?01:03Honderd olifanten steken weg over in Sri Lanka00:40Auto rijdt in op cafébezoeker
+s in Rijsbergen00:44Enorme rat veroorzaakt overstroming in Mexico-Stad01:51Waarom vliegtuigen mogeli
+jk net als vogels in formatie gaan vliegen00:43Madrid herdenkt coronadoden met tienduizenden vlaggen
+00:5973-jarige vrouw opgepakt tijdens protest in Belarus01:25Onder puin bedolven man in India filmt 
+zichzelfBekijk hier meer videosNUshopOntvang tot 3 gratis Bingokaarten met elk kans op 100.000 euroN
+Ushop (Adverteerders) Ontvang tot 3 gratis Bingokaarten met elk kans op 100.000 euro  Kies nu voor g
+roene stroom en gas van Eneco  10 euro korting op tickets voor Walibi Holland: nu voor 25 euro  Kort
+ing op tickets voor Safaripark Beekse Bergen: van 26 voor 18,20 euro Heel Nederland Boek nu een Flet
+cher hotelarrangement met 50 procent korting Meer NUshopFolder (Adverteerders) Bekijk hier de folder
+ van HEMA  Bekijk hier de folder van Bristol  Bekijk hier de folder van ALDI  Bekijk hier de folder 
+van Dirk  Bekijk hier de folder van totaalBED Bekijk meer op Reclamefolder.nlVan onze adverteerdersR
+enault2111NHA Dit is jouw tijd141NVM7Wetenschapsagenda165
+
+/ ~ 4AC5DDE2 ~ /
+
+AX 0  versus Ransomware
+ AX 0 ‘s “Denktank” houd zich met tal van aspecten en facetten van digitale automatisering bezig, wa
+aronder helaas ook de toenemende Ransomware gevaren.Ransomware is een manier die cybercriminelen geb
+ruiken om eerst in uw netwerken en systemen in te breken, en vervolgens data die zij kunnen bereiken
+ te versleutelen (=encrypten).Met het onklaar maken van uw data, maar steeds vaker ook uw backups, o
+f de systeem toegang daartoe, laten de criminelen ook een duidelijke boodschap achter hoe u uw data 
+weer bruikbaar kunt krijgen. U dient dan doorgaans een bepaald bedrag losgeld (=ransom) over te make
+n aan de criminelen, meestal in bitcoin.Maak vrijblijvend een afspraak, wij komen u onze mogelijkhed
+en graag bij u ter plaatse presenteren d.m.v. onze AX 0 Handshake©.AX 0  Response Center Na het beta
+len van de RansomDaarna sturen zij u de unieke sleutel om de onbruikbare data weer terug te kunnen v
+ersleutelen. Mocht u niet willen betalen, gaan criminelen steeds vaker over om gestolen data aan u t
+e laten zien en dreigen zij gevoelige of strategische data te publiceren. Het is dan ook aanbevolen 
+dit aspect gericht aandacht te geven.Wat te doen als ransomware u heeft geraaktZet alle systemen van
+ uw netwerk uit. Heeft u een externe IT diensten leverancier, breng deze dan onmiddellijk van de sit
+uatie op de hoogte.Bel het AX 0 Response Center. Zij kunnen u meteen bij staan met actuele expertise
+, ervaring en advies.Het AX 0 Response Center heeft operationele,‘Up to Date’ Risk en Crisis managem
+ent  ‘stand-by’ om u meteen te steunen en adviseren bij die eerste cruciale stappen. Gebruik hiervoo
+r de telefoon button linksboven.Uiteraard kunt u ook e-mailen voor de meest ‘up to date’ informatie,
+ kennis en expertise, als ook de gratis, continue ge-update ‘Ransomware Checklist‘ , van en over ran
+somware aanvallen en overige vormen van cybercriminaliteit.Ransomware, wat u kunt doen  Er zijn stap
+pen, non-commercieel en preventief die u zelf kunt (laten) zetten, om risico’s terug te dringen en m
+ogelijke schade vooraf te reduceren.U kunt regelmatig formatie over cybercrime binnen de eigen organ
+isatie actualiseren en publicerenZorgen dat uw medewerk(st)ers op de hoogte zijn van het bestaan en 
+de impact van cybercrimeHerhaal de noodzaak van oplettendheid regelmatig. Dit kan op verschillende m
+anieren. AX 0 heeft hier aangepaste communicatie scenario’s voor.Zorg voor een duidelijke noodstrate
+gie, processen en procedures, wat te doen als het u of één van uw medewerk(st)ers overkomtAls u bent
+ getroffen, is het maar de vraag of alles kan worden hersteld. Een aantal zaken zijn van het allergr
+ootste belang te weten. Maar, de eerste stappen kunt u heel goed zelf zetten.Schakel alle verbinding
+en naar buiten uw netwerk uit door alle systemen uit te (laten) zettenBetalen van losgeld? AX 0 advi
+seert cybercrime niet te supporten, alhoewel wij weten dat soms een andere afweging word gemaakt. He
+t is nooit zeker of u de juiste sleutel zult krijgen, om data te ‘ontsleutelen’,  als u heeft betaal
+dOok als u de juiste sleutel heeft gekregen, moet u uw netwerk en systemen als besmet te beschouwen.
+Er is geen enkele garantie dat criminelen niets meer achter hebben gelaten om u later nog eens tot s
+lachtoffer te kunnen maken. Dit gebeurd steeds vaker.Wat u preventief kunt doen tegen ransomwareAlle
+ denkbare aspecten en facetten van digitaal automatiseren zijn 100% voorspelbaar. Gerichte stappen i
+n processen en procedures zijn daarom exact in en op te stellen en hebben meteen effect.Het AX 0 Res
+ponse Center heeft een gratis ge-update ‘Ransomware Check‘  beschikbaarHet eerste antwoord tegen ran
+somware is zeker niet (weer) een commercieel product dat word gehyped. Ook niet dat al uw data in de
+ cloud veilig zouden zijn. Meer dan 65% van de ransomware aanvallen vinden in de cloud plaats.De AX 
+0 Ransomware CheckDe AX 0 Ransomware Check geeft u gratis en vrijblijvend, waardevolle informatie en
+ stappen die u meteen kunt zetten. Aandachts gebieden, waarmee u, zonder commercie, meteen uw risico
+ met 40%-70% kunt reduceren. Maak voor contact en verdere vrijblijvende informatie gebruik van de bu
+ttons links boven.H 

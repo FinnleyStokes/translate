@@ -1,0 +1,1578 @@
+A @Anomali oferece proteção contra malware, exploits e ransomware . Neste webinar explicaremos como 
+obter máxima eficiência desta solução. 08/10 às 10h! Inscreva-se: https://mla.bs/57236234
+#malware #
+ransomware #disasterrecovery
+#cibersegurança #proteção
+#webinar
+
+/ ~ 4AC5DDE2 ~ /
+
+Gigante francesa 
+de transporte de contêineres é atacada por ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+United Health Services tem
+ mais de 400 unidades nos EUA; acredita-se que o malware responsável seja o Ryuk, controlado pelo gr
+upo russo Wizard Spider
+Foto por Markus Spiske em Pexels.com
+A United Health Services, um dos maiore
+s provedores de serviços de saúde dos EUA, foi vítima de um ataque de ransomware que tirou do ar vár
+ias de suas unidades. Segundo o TechCrunch, o ataque começou na manhã de domingo (27) e desabilitou 
+sistemas de computador e de telefonia da empresa em várias partes do país, como a Califórnia e a Fló
+rida.
+Um funcionário disse que no momento do ataque os computadores mostraram na tela uma mensagem f
+azendo referência a um “universo sombrio”, característica de um malware conhecido como Ryuk e ligado
+ a um grupo de cybercriminosos russo conhecido como Wizard Spider.
+De acordo com a NBC News, algumas
+ unidades estão recorrendo a papel e caneta para anotar dados de pacientes. A UHS publicou um comuni
+cado onde afirma: “implementamos extensivos protocolos de segurança de TI e estamos trabalhando dili
+gentemente com nossos parceiros de segurança da informação para restaurar nossa operação de TI o mai
+s rápido possível”.
+“Enquanto isso, nossas unidades estão usando processos estabelecidos de backup, 
+incluindo documentação offline. O cuidado aos pacientes continua a ser dispensado de forma segura e 
+eficaz. Nenhum dado de pacientes ou funcionários parece ter sido acessado, copiado ou comprometido d
+e outra forma”, disse.
+Outros casos
+Em março deste ano, vários grupos responsáveis por ataques de ra
+nsomware declararam que iriam suspender os ataques a hospitais e instituições de saúde durante a pan
+demia de Covid-19. O Wizard Spider, responsável pelo Ryuk, não foi um deles.
+Em meados de setembro u
+m hospital em Duesseldorf, na Alemanha, sofreu um ataque de ransomware que causou a interrupção de s
+uas operações. Como consequência, uma mulher que seria atendida no local morreu ao aguardar sua tran
+sferência para uma unidade médica a mais de 30 km de distância.
+As autoridades alemãs estão investig
+ando o caso, que agora, além de ser um crime cibernético, também trará aos responsáveis a acusação d
+e homicídio culposo – quando não há a intenção de matar.
+O episódio ocorreu na noite do dia 10 de se
+tembro, com a morte da vítima registrada cerca de um dia depois. O ataque criptografou cerca de 30 s
+ervidores do hospital e seus dados armazenados, deixando uma mensagem com instruções de contato dest
+inada à Universidade Heinrich Heine, entidade à qual o hospital é afiliado.
+As autoridades eventualm
+ente contataram os hackers, informando-os de que o ataque havia incapacitado o hospital e não a univ
+ersidade. Segundo relatos, os hackers então cancelaram o pedido de resgate e entregaram uma chave cr
+iptográfica para liberar os arquivos sequestrados. Desde então, deixaram de responder a tentativas d
+e contato.
+Fontes: Olhar Digital e TechCrunch
+
+
+ 
+Compartilhe isso:TwitterFacebookCurtir isso:Curtir
+ Carregando...
+
+Relacionado
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Republicar É permitida a republicação desta reporta
+gem em meios digitais de acordo com a licença Creative Commons CC-BY-NC-ND. É obrigatório o cumprime
+nto da Política de Republicação Digital de Conteúdo de Pesquisa FAPESP, aqui especificada. Em resumo
+, o texto não deve ser editado e a autoria deve ser atribuída, assim como a fonte (Pesquisa FAPESP).
+ O uso do botão HTML permite o atendimento a essas normas. Em caso de reprodução apenas do texto, po
+r favor, consulte a Política de Republicação Digital. Texto HTML&lt;br&gt;
+&lt;p&gt;Este texto foi o
+riginalmente publicado por &lt;a href=&quot;http://revistapesquisa.fapesp.br/&quot;&gt;Pesquisa FAPE
+SP&lt;/a&gt; de acordo com a &lt;a href=&quot;https://creativecommons.org/licenses/by-nd/4.0/&quot;&
+gt; licença Creative Commons CC-BY-NC-ND&lt;/a&gt;. Leia o &lt;a href=&quot;https://revistapesquisa.
+fapesp.br/vulnerabilidades-na-internet/&quot; target=&quot;_blank&quot;&gt;original aqui&lt;/a&gt;.&
+lt;/p&gt;
+&lt;script&gt;var img = new Image(); img.src='https://revistapesquisa.fapesp.br/republicac
+ao_frame?id=349259&amp;referer=' + window.location.href;&lt;/script&gt;A fabricante de cosméticos Na
+tura e a montadora de veículos Honda foram alvo de ataques cibernéticos em suas operações no Brasil,
+ em junho. As duas companhias optaram por não divulgar detalhes do ocorrido e o impacto das investid
+as nos negócios. Natura e Honda não estão sozinhas. Em 2020, grandes grupos no país sofreram atentad
+os do gênero, entre eles operadoras de energia e logística e empresas do agronegócio. A multinaciona
+l russa de cibersegurança Kaspersky registrou 1,6 bilhão de tentativas de agressões cibernéticas no 
+Brasil entre fevereiro e abril, o equivalente a 60% das ameaças registradas na América Latina. A pre
+ocupação com o tema duplicou a procura por seguros corporativos no primeiro semestre no país. 
+As pr
+incipais ameaças no Brasil são os ataques do tipo ransomware. Neles, o hacker utiliza um software ma
+licioso (malware) para invadir e assumir o controle do computador ou do smartphone do usuário. Uma m
+ensagem na tela exige o pagamento de resgate (ransom em inglês) em criptomoeda, como bitcoin, para q
+ue os arquivos do usuário não sejam apagados (ver box). Numa variação, conhecida como double extorti
+on (extorsão dupla), os dados são acessados e a vítima sofre a ameaça de ter suas informações sigilo
+sas divulgadas ou vendidas em leilões virtuais. Pesquisa da empresa anglo-americana de soluções em s
+egurança cibernética Sophos revela que o Brasil foi o quarto país mais afetado por ataques de ransom
+ware em 2019, atrás da Malásia, Índia e Austrália.
+Outros crimes cibernéticos são cada vez mais comu
+ns no país, como o trojan horse, ou cavalo de troia. A vítima clica inadvertidamente em um link apar
+entemente inofensivo e abre a porta para que suas informações financeiras sejam roubadas. Há ainda o
+s spywares (malwares de espionagem), que visam obter informações estratégicas de empresas e órgãos p
+úblicos, como a Polícia Federal e tribunais de Justiça. Em 2019 foram notificadas 19,1 mil ameaças d
+e segurança às redes computacionais do governo, sendo que mais de 10 mil se confirmaram como ataques
+, segundo dados do Centro de Tratamento e Resposta a Incidentes Cibernéticos de Governo (CTIR-Gov), 
+vinculado ao Gabinete de Segurança Institucional da Presidência da República.
+Segundo recomendam os 
+especialistas, é preciso investir em segurança para lidar com o problema, amplificado nos últimos me
+ses por causa da pandemia do novo coronavírus, quando a intensificação do trabalho em home office de
+ixou mais vulneráveis arquivos e sistemas de empresas. A consultoria de inteligência de mercado nort
+e-americana IDC aponta que as companhias brasileiras investiram US$ 1,6 bilhão em segurança da infor
+mação em 2019 – no mundo, os gastos foram de US$ 107 bilhões. Globalmente, o valor médio aplicado em
+ segurança da informação no mundo corporativo é de 18% do orçamento total de tecnologia da informaçã
+o (TI).
+No Brasil, esse valor médio de gastos não chega a 4%, estima Roberto Gallo, presidente da As
+sociação Brasileira das Indústrias de Materiais de Defesa e Segurança (Abimde). Essa média é puxada 
+para cima pelos investimentos do setor financeiro, que aplica em segurança virtual por volta de 10% 
+do orçamento de TI, conforme a Federação Brasileira de Bancos (Febraban). “Se subtrair os bancos des
+sa média, os investimentos do restante da economia são irrisórios”, afirma Gallo. 
+O baixo nível de 
+investimento dificulta a criação de um ecossistema expressivo em cibersegurança no Brasil, aponta o 
+engenheiro eletricista e cientista da computação Paulo Licio de Geus, do Instituto de Computação da 
+Universidade Estadual de Campinas (IC-Unicamp). “Temos empresas nacionais com capacidade técnica. No
+ entanto, são poucas e de pequeno porte, sem expressão global”, constata. O problema, na opinião de 
+Geus, é que não se valoriza esse tipo de segurança no país. “É difícil uma empresa local inovar, des
+envolver soluções e sobreviver em um ambiente onde não há uma massa de recursos disponível para fina
+nciar suas iniciativas”, conclui. 
+Outro problema é a escassez de mão de obra qualificada, tanto nas
+ desenvolvedoras de soluções quanto nas empresas usuárias, que precisam da orientação de profissiona
+is para implementar programas adequados aos desafios impostos pelos criminosos virtuais. Segundo o r
+elatório Cybersecurity workforce study, da organização internacional de profissionais de segurança (
+ISC), há uma lacuna de 600 mil especialistas em segurança cibernética na América Latina, com destaqu
+e para o Brasil. 
+O professor de engenharia da computação da Pontifícia Universidade Católica do Par
+aná (PUC-PR) Altair Olivo Santin, coordenador da comissão de segurança da informação da Sociedade Br
+asileira de Computação (SBC), avalia que, além da carência de profissionais, também falta qualidade 
+na mão de obra. “Muitos dos que trabalham em segurança da informação não têm formação adequada”, sus
+tenta.
+Uma reivindicação da SBC é a normatização da graduação em segurança da informação pelo Minist
+ério da Educação. O projeto de um currículo básico já foi desenvolvido por instituições internaciona
+is de computação em 2017 e está sendo analisado pela SBC. Para Santin, o criminoso virtual é dinâmic
+o e está sempre buscando novas formas de ataque. O combate demanda um grande número de profissionais
+ dedicados, com capacidade para desenvolver pesquisa acadêmica e novas soluções nas empresas. “A seg
+urança cibernética não é massificada no Brasil. É inevitável que sejamos percebidos pelos criminosos
+ como vulneráveis”, sentencia o professor.
+O mercado de cibersegurança no país é atendido majoritari
+amente por multinacionais, que respondem por mais de 80% das encomendas. O ambiente de negócios adve
+rso não impede, porém, que desenvolvedores brasileiros de soluções em cibersegurança conquistem espa
+ço no mercado local e iniciem uma trajetória de internacionalização, em busca de escala mercadológic
+a. 
+Segundo Gallo, da Abimde, o Brasil conta com empresas reconhecidas pela qualidade técnica de sol
+uções em antivírus, firewall (dispositivo que monitora o tráfego de rede e a conexão com a internet)
+ e sistemas de criptografia – programas que cifram a mensagem e a tornam ininteligível para quem não
+ tem acesso ao código de segurança. De acordo com o especialista, Estados Unidos, Reino Unido, Rússi
+a, China e Israel, nessa ordem, são as nações de maior destaque no mundo. “Em um ranking internacion
+al de cibersegurança, estaríamos entre os melhores”, especula Gallo. 
+No mercado global, as companhi
+as brasileiras desfrutam de uma vantagem em potencial, defende Gallo. “O Brasil não tem tradição em 
+espionagem internacional e não se imagina que as empresas brasileiras estejam a serviço de seu gover
+no. Essa desconfiança afeta empresas de algumas das principais potências geopolíticas. Também não te
+mos no país leis que permitem ao governo quebrar o sigilo de dados de usuários no exterior, como o C
+loud Act norte-americano”, afirma. 
+Gallo é o fundador da campineira Kryptus, empresa especializada 
+em criptografia fundada em 2003. A companhia contou com quatro auxílios do programa Pesquisa Inovati
+va em Pequenas Empresas (Pipe) da FAPESP para desenvolver um módulo de segurança criptográfica de al
+to desempenho em hardware (hardware security module, HSM). A solução foi adotada por diversos client
+es corporativos e integra o sistema de voto eletrônico da Justiça Eleitoral brasileira. Também é usa
+do pelo Sistema de Monitoramento de Fronteiras (Sisfron), projeto que as Forças Armadas implementam 
+com o objetivo de coibir atos ilícitos na fronteira terrestre brasileira (ver Pesquisa Fapesp nº 282
+). 
+Em julho, a Kryptus recebeu um aporte financeiro de R$ 20 milhões do Fundo de Investimento em Pa
+rticipações (FIP) Aeroespacial, formado por Embraer, Banco Nacional do Desenvolvimento Econômico e S
+ocial (BNDES), Financiadora de Estudos e Projetos (Finep) e agência de fomento paulista Desenvolve-S
+P. Os recursos foram liberados com o objetivo de desenvolver um plano de expansão e exportação de ex
+pertise brasileira em criptografia e segurança.
+Rapidamente após o anúncio do aporte, a companhia an
+unciou a abertura de um escritório de representação na Suíça. “O mercado europeu exige proximidade. 
+É importante ter uma equipe local”, diz Gallo. Segundo ele, a Suíça foi uma escolha estratégica por 
+sua reputação de não ter ingerência política do Estado em suas empresas e com profissionais qualific
+ados na área de TI.
+A Kryptus obtém 30% de sua receita – cujo valor não divulga – com exportações. N
+a Europa, atende clientes na Alemanha, Suíça, Espanha e Portugal. Também realiza negócios em nações 
+africanas como Angola, Cabo Verde e Marrocos. Mas o forte são as exportações para a América Latina, 
+direcionadas a empresas de Colômbia, Peru, Equador, Argentina e Chile. Com o escritório na Suíça a e
+xpectativa é de um aumento de vendas na Europa, África e Oriente Médio. “Em três anos, mais de 50% d
+e nosso faturamento deverá vir dessas regiões”, projeta Gallo.
+Outra movimentação recente ocorrida n
+o setor nacional de cibersegurança foi a compra da empresa pernambucana Tempest pela fabricante de a
+eronaves Embraer, que já incluía soluções de segurança cibernética em seu portfólio. Segundo Fernand
+o Silva, vice-presidente de estratégia e marketing da Tempest, o acordo manteve intocada a estrutura
+ administrativa da companhia recifense. “Vamos passar a desenvolver novos produtos e serviços voltad
+os para a área de defesa, segurança aeroespacial, controle de tráfego aéreo e infraestruturas crític
+as, como as mantidas por empresas de energia”, lista Silva.
+O principal segmento de atuação da Tempe
+st, criada em 2000, é o financeiro, responsável por 60% do faturamento de R$ 120 milhões em 2019. Um
+ software de prevenção a fraudes virtuais desenvolvido pela companhia, o Allow Me, está presente nos
+ aplicativos de mobile banking dos principais bancos do país em 30 milhões de aparelhos celulares. E
+m 2012, a empresa abriu um escritório em Londres, no Reino Unido, e fornece seus sistemas para a rev
+ista The Economist, o jornal The Guardian e a rede de supermercados Tesco. Hoje, 5% de seu faturamen
+to vem do exterior. “A Embraer vai abrir novos mercados para a Tempest, principalmente na área de de
+fesa em países latino-americanos, onde já tem uma presença forte”, diz Silva. 
+O risco das criptomoe
+das
+Popularização das moedas digitais pode impulsionar o mercado de segurança virtual
+A procura por 
+tecnologia de cibersegurança no Brasil deve crescer nos próximos anos em decorrência de uma maior pe
+rcepção de risco no país gerada pela popularização das criptomoedas. Essa é a avaliação de Ulisses P
+enteado, sócio da BluePex, empresa de Limeira (SP) especializada em soluções como antivírus, firewal
+l, anti-malwares. “Até então, os hackers brasileiros invadiam para pichar sites e se exibir. Hackers
+ estrangeiros não viam a maioria das empresas do país como alvos estratégicos para roubos de informa
+ção. Os ataques aqui não geravam grandes prejuízos”, descreve. 
+As criptomoedas abriram novas perspe
+ctivas aos criminosos. É difícil seguir o movimento realizado com essas moedas e existem recursos te
+cnológicos bastante difundidos para despistar o rastreador. “A possibilidade de sucesso na monetizaç
+ão do crime é grande”, avalia Penteado. A execução do crime virtual também não demanda expertise, um
+a vez que há uma ampla oferta de ferramentas prontas e de fácil manipulação para o ataque. Essa nova
+ realidade levou criminosos comuns a migrarem para o crime virtual, e os ataques se tornaram mais in
+tensos e lesivos. “As ameaças mudaram de patamar e as empresas vão ter que investir para se proteger
+.”
+A entrada em vigor da Lei Geral de Proteção de Dados (LGPD), aprovada pelo Senado em agosto, tamb
+ém deve impulsionar os investimentos em segurança virtual, no Brasil. As empresas passam a ser legal
+mente responsáveis pela manutenção da privacidade dos dados de seus clientes e parceiros comerciais 
+e terão que fazer uma gestão preventiva da segurança da informação para evitar roubos e vazamentos i
+ndevidos. Segundo a Associação Brasileira de Software (Abes), 60% das empresas brasileiras ainda não
+ estão prontas para atender os requisitos da nova lei.  Têm pouco tempo para se adaptar.Copiar códig
+o 
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Se por um lado as autoridades policiais recomendam que as vítimas de ransomwa
+re não paguem resgate, já que isso apenas incentiva o crime, uma empresa de segurança da Virgínia ch
+amada GroupSense anunciou ontem que oferecerá um serviço de consultoria e negociação de ransomware. 
+As especialidades originais da GroupSense concentram-se em inteligência de ameaças, mas agora a empr
+esa, sediada em Arlington County (VA) está oferecendo um pacote de serviços para empresas vítimas de
+ ransomware que facilita as negociações com os bandidos.
+Em uma nota anunciando os serviços, a empre
+sa afirma que também organiza a eliminação dos dados exfiltrados, para reduzir os riscos cibernético
+s associados ao incidente. A GroupSense também oferece outros serviços relacionados a ataques de ran
+somware e que incluem avaliação do ataque, construção de remediação pós-ataque, suporte que ajuda a 
+vítima conectando-a à tecnologia de suporte e aconselhamento jurídico, junto com as negociações de r
+elato de sinistro, no caso de a vítima estar coberta por uma apóllice de seguro cibernético.
+Veja is
+soBanco chileno diz que incidente de ransomware foi erro humanoRansomware lidera sinistros em apólic
+es de seguro na América do Norte
+A GroupSense afirma que também oferece serviços de relações pública
+s e gerenciamento de crise, fazendo as comunicações com clientes, partes interessadas e funcionários
+.
+Em novembro de 2019, o FBI divulgou um comunicado à imprensa pedindo que as vítimas de ransomware 
+paguem o resgate, pois isso não só incentiva o crime como também não garante que a vítima receberá a
+ chave de criptografia nem que ela funcionará. Porém, em fevereiro deste ano, um segundo comunicado 
+feito pelo órgão diz que a vítima deve primeiro analisar a situação e depois decidir se deve pagar o
+u não o resgate.
+Com agências internacionais
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ataque de ransomware atinge rede co
+m mais de 400 hospitais em três países
+
+/ ~ 4AC5DDE2 ~ /
+
+Empresa dos EUA lança serviço de negociaçã
+o de ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+					Views: 65
+			
+
+ 
+
+		            0		        
+
+ 
+
+		     
+       0		        
+
+
+
+ Read Time:3 Minute, 5 Second                
+
+
+Ransomware Ryuk tem mirado set
+or, que está em evidência em razão da pandemia do coronavírus
+Na última semana, a Universal Health S
+ervices, rede de hospitais e serviços de saúde com mais de 400 instalações nos Estados Unidos, Porto
+ Rico e Reino Unido, foi alvo do ransomware Ryuk. Segundo a Check Point, esse tipo de ameaça tem sid
+o cada vez mais comum no setor de saúde, que tem estado sob os holofotes em razão da pandemia do cor
+onavírus.
+Ao longo dos anos, os pesquisadores da Check Point têm monitorado a atividade do Ryuk em t
+odo o mundo. Agora, eles observaram um aumento na atividade do Ryuk desde julho de 2020, atacando ce
+rca de 20 organizações por semana.
+O Ryuk é conhecido por ter como alvo os ativos como bancos de dad
+os e servidores de backup, exigindo em algumas situações no passado um resgate de mais de US$ 1 milh
+ão. A seguir, a evolução desse ataque e dicas e melhores práticas de segurança para evitar o ransomw
+are.
+Evolução do Ryuk
+Esta não é a primeira vez que um ransomware direcionado atinge o setor de saúd
+e durante a pandemia. Diferentes atacantes que usam esse ransomware aproveitaram-se da situação para
+ obrigar hospitais e institutos de pesquisa médica a pagar resgates, colocando em risco a vida de pa
+cientes.
+Os pesquisadores viram que o Ryuk faz exatamente isso, com um aumento constante no número d
+e organizações de saúde visadas, sabendo que essas organizações não têm outra escolha a não ser paga
+r o resgate e voltar às atividades para salvar vidas, especialmente neste momento urgente com a pand
+emia da Covid-19.
+Como se proteger do ransomware?
+Educação e conscientização
+Treinar os usuários sob
+re como identificar e evitar possíveis ataques de ransomware é crucial. Como muitos dos ciberataques
+ atuais começam com um e-mail direcionado que nem mesmo contém malware, mas apenas uma mensagem de e
+ngenharia social que incentiva o usuário a clicar em um link malicioso, a educação do usuário é freq
+uentemente considerada uma das defesas mais importantes para uma organização pode adotar.
+Backups co
+ntínuos de dados
+Manter backups regulares de dados como um processo de rotina é uma prática muito im
+portante para evitar a perda de dados e ser capaz de recuperá-los em caso de corrupção ou mau funcio
+namento do hardware do disco. Os backups funcionais também podem ajudar as organizações a se recuper
+ar de ataques de ransomware.
+Patch (Correção)
+A correção (aplicação de patches) é um componente crít
+ico na defesa contra ataques de ransomware, pois os cibercriminosos frequentemente procuram as últim
+as explorações descobertas nas correções disponibilizadas e, em seguida, visam sistemas que ainda nã
+o foram corrigidos. É fundamental que as organizações garantam que todos os sistemas tenham os patch
+es mais recentes aplicados a eles, pois isso reduz o número de vulnerabilidades potenciais dentro da
+ empresa para um atacante explorar.
+Como garantir melhores práticsc de segurança?
+Proteções de endpo
+int
+Antivírus baseado em assinatura convencional é uma solução altamente eficiente para prevenir ata
+ques conhecidos e definitivamente deve ser implementado em qualquer organização, pois protege contra
+ a maioria dos ataques de malware que uma organização enfrenta.
+Proteções de rede
+Proteções avançada
+s na rede corporativa, como IPS, antivírus de rede e anti-bot, também são cruciais e eficientes na p
+revenção de ataques conhecidos. Tecnologias avançadas, como sandboxing, têm a capacidade de analisar
+ malware novo e desconhecido, executá-lo em tempo real, procurar sinais de que é um código malicioso
+ e, como resultado, bloqueá-lo e impedir que infecte endpoints e se espalhe para outros locais da or
+ganização.
+Como tal, o sandboxing é um mecanismo de prevenção importante que pode proteger contra ma
+lware evasivo ou de dia zero e defender contra muitos tipos de ataques desconhecidos na organização.
+
+FONTE: IT FORUM 365
+
+
+
+
+
+
+
+                        Happy                    
+
+0
+0 %
+
+
+
+
+
+
+
+      
+                  Sad                    
+
+0
+0 %
+
+
+
+
+
+
+
+                        Excited            
+        
+
+0
+0 %
+
+
+
+
+
+
+
+                        Sleppy                    
+
+0
+0 %
+
+
+
+
+
+
+Angry
+
+0
+0 %
+
+
+
+
+
+
+
+Surprise
+
+0
+0 %
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+http://bit.ly/tw295InternetVulneravel… Setor de #segu
+rançacibernética busca crescer em meio à expansão dos crimes virtuais. As principais ameaças no Bras
+il são os ataques de ransomware, em que #hacker utiliza um software malicioso para invadir e assumir
+ o controle do computador ou do smartphone
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Ransonware, um tipo de malware que c
+riptografa arquivos e documentos de um ou de vários computadores de uma rede e depois exige um resga
+te da vítima, foi o tipo de ciberataque mais comum no último ano. Ataques se tornarem mais sofistica
+dos e hackers estão com um foco cada vez maior em dispositivos de Internet das Coisas.Essas são algu
+mas das tendências apontadas pelo relatório anual da Microsoft, "Digital Defense Report", que cobre 
+as tendências de segurança cibernética dos últimos doze meses. O documento ainda destaca o papel de 
+agentes patrocinado por países e grupos criminosos que mudaram sua infraestrutura para a nuvem para 
+se esconder entre os serviços legítimos.De acordo com a Microsoft, os hackers ainda exploraram a cri
+se causada pela Covid-19 para reduzir seu tempo de permanência no sistema de uma vítima de ransomwar
+e. A ideia é aproveitar que as empresas estão com uma maior disposição de pagar o resgate e se livra
+r logo do problema. "Em alguns casos, os cibercriminosos passaram da invasão inicial ao resgate de t
+oda a rede em menos de 45 minutos", afirma o relatório.Os padrões de ataque demonstram que os ciberc
+riminosos sabem quando as empresas estarão mais vulneráveis – como em feriados. "Eles estão cientes 
+de quando as organizações estarão mais dispostas a pagar resgates do que a incorrer em períodos de i
+natividade, como durante os ciclos de faturamento nos setores de saúde, finanças e jurídico", explic
+a o documento.Diversas frentes de batalha"As ameaças de IoT estão em constante expansão e evolução",
+ afirma o relatório. No primeiro semestre de 2020, houve um aumento de 35% no volume total de ataque
+s nessas plataformas em comparação com o segundo semestre de 2019.Ainda no ano passado, o sistema de
+ defesa digital da Microsoft bloqueou mais de 13 bilhões de e-mails maliciosos e suspeitos, dos quai
+s mais de 1 bilhão eram URLs configuradas com o propósito explícito de lançar um ataque de phishing 
+para roubar credenciais. "Os invasores são oportunistas e trocam os temas das iscas diariamente para
+ se alinhar aos ciclos de notícias, como visto no uso da pandemia Covid-19", afirmam os pesquisadore
+s da Microsoft.Microsoft/ReproduçãoGráfico mostra como os ataques de phising relacionados à Covid-19
+ cresceram durante a pandemia e caíram nos últimos meses. Imagem: Microsoft/ReproduçãoApesar do rece
+io causado pela doença, o volume geral de malware do último ano permaneceu "relativamente consistent
+e" – só o tema que foi mais direcionado, aproveitando a "enxurrada de informações associadas à pande
+mia". Mas de acordo com a empresa, nos últimos meses, o volume de ataques de phishing com o tema Cov
+id-19 diminuiu.A pandemia também foi utilizada por agentes à serviço de estados e nações. "Ataques c
+om o tema 'Covid' tinham como alvo importantes organizações governamentais de saúde. Organizações ac
+adêmicas e comerciais envolvidas na pesquisa de vacinas também foram visadas", afirma a Microsoft. A
+ maior parte da atividade originou-se de grupos na Rússia, Irã, China e Coréia do Norte.O documento 
+ainda alerta que organizações - sejam agências governamentais ou empresas – devem investir em pessoa
+s e tecnologia para ajudar a impedir esses ataques. "As pessoas devem se concentrar no básico, inclu
+indo a aplicação regular de atualizações de segurança, políticas de backup abrangentes e, especialme
+nte, habilitar a autenticação multifator", que, de acordo com a Microsoft, por si só teria evitado a
+ grande maioria dos ataques bem-sucedidos.Via: Microsoft Blog
+
+from Olhar Digital :: Segurança https
+://ift.tt/3l12a0m
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ataque de ransomware atinge rede com mais de 400 hospitais em 
+três países http://dlvr.it/RhhP5k
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+Presidente da Caixa: 2ª parcela do aux
+ílio não será paga nos últimos 10 dias do mês
+ O presidente da Caixa Econômica Federal , Pedro Guima
+rães, adiantou em entrevista ao Jornal da Manhã  neste sábado (2) que o calendário de ...
+
+
+
+
+
+
+
+
+
+
+
+Niterói faz negócio com EUA e anuncia testes em massa contra a Covid-19
+ Com 42 casos confirmados de
+ Covid-19  e um morto pela doença até domingo (29), o município de Niterói , na Região Metropolitana
+ do Rio de J...
+
+
+
+
+
+
+
+
+
+
+Novo malware ataca usuários de WhatsApp e Facebook
+ Pesquisadores do Cisco
+ Talos Intelligence Group alertam para um novo malware para Android. O código malicioso ataca usuári
+os de apps como W...
+
+
+
+
+
+
+
+
+
+
+Espanha tem menor número diário de mortos por coronavírus em quase 1 
+mês
+ A Espanha registrou 410 mortos pelo novo coronavírus  nas últimas 24 horas, número mais baixo d
+esde o dia 22 de março. Isso eleva o número ...
+
+
+
+
+
+
+
+
+
+
+Agência de intercâmbio encerra atividades 
+e frustra clientes; alunos estimam R$ 1,5 mi de prejuízo
+ Pelo menos 250 jovens tiveram seus planos 
+de intercâmbio frustrados após descobrirem que a Agência Mundi, empresa contratada por eles como ...
+
+
+
+
+
+
+
+
+
+
+
+Pagamento da segunda parcela do auxílio emergencial começa nesta segunda
+ A Caixa Econômi
+ca Federal vai começar a pagar a segunda parcela do auxílio emergencial de R$ 600  na próxima segund
+a-feira (18). A medida s...
+
+
+
+
+
+
+
+
+
+
+Fórmula 1 anuncia cancelamento do GP da Austrália
+ A direção d
+a Fórmula 1 anunciou que o primeiro GP da temporada, que seria realizado na Austrália, foi cancelado
+. A decisão foi tomada pouca...
+
+
+
+
+
+
+
+
+
+
+Google lança teste que ensina usuários a detectarem e-mail
+s falsos
+ O Google  lançou nesta quinta-feira (13) um teste para alertar usuários sobre o phishing ,
+ uma forma de fraude eletrônica.   Esses ataques ...
+
+
+
+
+
+
+
+
+
+
+Vírus incomum consegue atacar tanto W
+indows quanto Linux
+ Pesquisadores de segurança encontraram um novo vírus que consegue atacar comput
+adores tanto com Windows quanto com Linux. Chamado Tycoon, e...
+
+
+
+
+
+
+
+
+
+
+Phishing: novo golpe diz q
+ue usuário está infectado pela Covid-19
+ Mais um método de  phishing  foi identificado recentemente.
+ Nele, os  criminosos  fingem ser de algum hospital  local, informando aos desti...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+ ~ 4AC5DDE2 ~ /
+
+Você faz compras Online? Não deixe de conferir a nova extensão do Olhar Digital que
+ garante o preço mais baixo e ainda oferece testadores automáticos de cupons. Clique aqui para insta
+lar.
+
+/ ~ 4AC5DDE2 ~ /
+
+No dia 6 de outubro, na 1ª edição da Cyber&Cloud Expo / WebConference, Diogo
+ Pata fará uma apresentação com o tema “Ransomware: uma ameaça em constante evolução”. Não perca est
+e evento com o apoio e participação da WatchGuard e da Panda Security: https://cybercloudexpo.com/pr
+ograma.php
+
+/ ~ 4AC5DDE2 ~ /
+
+eu desisti disso, tanto que tirei o antivírus do meu pc e entreguei na
+ mão de Deus
+
+p.s: já tive um ransomware no meu pc que criptografou todos os HDS (3)
+
+/ ~ 4AC5DDE2 ~
+ /
+
+Você sabia que os ataques de #Ransomware continuam em alta e o #Malware mais detectado no contin
+ente americano é o #Wannacry?
+
+#NTT #brasil explica quais são as 7 características de proteção digit
+al para auxiliar o seu negócio. 
+
+https://connect.hello.global.ntt/umbrella-brasil
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Uma das maiores operadoras de saúde dos EUA é vítima de ransomware https://ift.tt/34cEfnI 
+Um dos 
+maiores provedores de saúde dos Estados Unidos, a United Health Services, foi alvo de uma ação de ci
+bercriminosos que tirou do ar várias de suas unidades de atendimento. O ataque …
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+Misterioso vazamento preocupa Estação Espacial Internacional
+Em agosto, a Nasa detectou um vaza
+mento na Estação Espacial Internacional. Desde então, já são várias semanas de investigação. Os memb
+ros da tripulação chegaram a ser isolados em um dos módulos russos da estação como precaução extrema
+.  Agora, ironicamente, a agência espacial norte-americana acredita que o vazamento pode estar local
+izado exatamente no Módulo de Serviço Zvezda; sim, o mesmo que foi usado para o isolamento da tripul
+ação. Mais alarmante, de acordo com a atualização de hoje, é que a análise da equipe em solo conclui
+u que o vazamento “parece estar aumentando" - mas ainda não representa qualquer perigo imediato para
+ a tripulação.  O gerente do Escritório de Integração Externa do Programa ISS da Nasa garante que é 
+um vazamento “muito pequeno”. De qualquer forma, a localização exata do problema ainda é desconhecid
+a e as investigações continuam.
+			
+Este Artigo foi publicado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ope
+n in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galaxy Tab Active 3 é o novo t
+ablet da Samsung para trabalho pesado
+Depois de quase três anos longe das prateleiras, a Samsung apr
+esentou um novo membro da família Active. Vale lembrar que no fim de 2017, a fabricante lançou o seu
+ primeiro tablet ultra resistente, o Galaxy Tab Active 2. O objetivo era criar um aparelho para um n
+icho bem específico de usuários, aqueles que precisam de um dispositivo com tela grande que suporte 
+situações adversas e ambientes extremos.O irmão mais novo do Active 2 conta com uma série de upgrade
+s e funcionalidades que prometem atrair quem está à procura de um gadget mais robusto. A primeira va
+ntagem fica por conta da presença de certificação militar. Esse recurso garante que o Galaxy Tab Act
+ive 3 foi projetado para absorver o impacto em caso de quedas, protegendo a integridade do aparelho 
+por mais tempo.Duro na quedaSegundo a fabricante, o Active 3 está preparado para suportar quedas de 
+até 1,5 m de altura caso esteja protegido com a case que acompanha o aparelho. Falando em resistênci
+a, o dispositivo também possui proteção contra água e poeira graças a certificação IP68.Imagem: Sams
+ung/DivulgaçãoSamsung adicionou opção que libera o uso do touch mesmo se o usuário estiver de luvas.
+ Imagem: Samsung/DivulgaçãoA lista de especificações também não decepciona. O tablet roda Android 10
+ e possui display LCD de 8 polegadas com resolução de 1920 x 1200 pixels. O processamento fica por c
+onta do chip octa-core Exynos 9810 com frequência de até 2,7 GHz. Por fim, a combinação de 4 GB de R
+AM com 64 ou 128 GB de armazenamento garantem um ótimo desempenho mesmo em aplicações mais pesadas.O
+utro destaque fica por conta da bateria. Além dos 5.050 mAh de autonomia, o componente pode ser remo
+vido e substituído sem grande dificuldade pelo usuário final. Algo cada vez mais raro no mercado de 
+dispositivos móveis.Suporte estendidoA Samsung garante que vai liberar atualizações por até três ano
+s para o dispositivo. Outra vantagem extra para quem não dispensa receber novas versões do Android e
+ pacotes de segurança do sistema.Por enquanto, a novidade ficará restrita apenas para mercados espec
+íficos na Ásia e Europa. No entanto, o objetivo da fabricante é levar o dispositivo para mais países
+ no futuro.Por fim, o Active 3 vai contar com duas variantes no varejo internacional: uma apenas com
+ Wi-Fi e outra com conexão 4G LTE. O preço final ainda não foi revelado pela empresa.Fonte: XDA Deve
+lopers
+			
+Este Artigo foi publicado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+R
+eddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traje voador e a jato é usado para resgates
+Montanhas, 
+florestas e outros ambientes perigosos podem ser um desafio para equipes de emergência a procura de 
+pacientes. Mas, o inventor Richard Browning e sua empresa Gravity Industries criou um traje a jato p
+ara médicos e socorristas que promete ajudar a agilizar o acesso a áreas difíceis como estas.O traje
+ em questão, utiliza microjatos montados nos braços e nas costas do piloto, movidos a combustível es
+pecial ou diesel. Além disso, conta com um display mostrando dados importantes como empuxo e combust
+ível restante. O modelo, possui autonomia entre cinco e dez minutos apenas, e para utilizá-lo, é nec
+essário um treinamento altamente especializado para preparar o piloto durante seu uso.Apesar de ser 
+considerado um sucesso, o equipamento é bastante caro. O custo é de 340 mil euros, algo em torno de 
+R$ 2,25 milhões. Então, pode demorar um pouco antes de vermos os paramédicos a jato por aí.
+			
+Este
+ Artigo foi publicado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+Reddit
+Mail
+Embe
+d
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O primeiro PC dobrável do mundo
+A Lenovo colocou em pré-venda o ThinkP
+ad X1 Fold, o primeiro PC com tela dobrável. O recurso traz mais versatilidade ao aparelho, que pode
+ ser usado como um notebook comum, como um tablet, como um “mini laptop” ou até mesmo como um livro.
+Além da tela OLED, com 13,3 polegadas e sensível ao toque, o portátil é equipado com um processador 
+Intel Core i5 de 11ª geração, 8 GB de RAM, até 1 TB de armazenamento interno. E, bateria de 50 Wh. N
+os EUA, o ThinkPad X1 Fold custa a partir de US$ 2.499, cerca de R$ 14 mil.A Lenovo não parou por ai
+, e anunciou também o ThinkPad X1 Nano, que segundo a empresa é o “ThinkPad mais leve do mundo”, pes
+ando menos de 1 Kg.Baseado na recém-anunciada plataforma Evo, o portátil pode ser equipado com proce
+ssadores até o Intel Core i7 de 11ª geração. A tela de 13 polegadas tem resolução 2K e pode ser conf
+igurada com ou sem sensibilidade ao toque. Memória e armazenamento podem chegar a 16 GB de RAM e 1 T
+B de espaço em uma unidade SSD PCIe.O aparelho contará também com um conjunto de recursos de seguran
+ça baseados em inteligência artificial e biometria, chamado de ThinkShield. Com o reconhecimento de 
+voz e de presença humana, o usuário poderá fazer login sem tocar na máquina e bloqueio automático do
+ sistema quando se afastar. O ThinkPad X1 estará disponível nos EUA no quarto trimestre deste ano, c
+ustando a partir de US$ 1.399 aproximadamente R$ 7.800.
+			
+Este Artigo foi publicado em Olhar Digit
+al
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carro 
+vira fonte de energia no Japão
+Além de não poluir, este carro 100% elétrico agora também pode servir
+ como uma grande bateria móvel. Em uma parceria com a Nissan, o governo japonês encontrou uma forma 
+de levar energia para eventuais locais de desastres naturais; o que é um desagio enorme. A montadora
+ adaptou um protótipo do modelo Leaf para ser usado em caso de emergência. Com diversas tomadas em s
+eu exterior, o veículo pode ser usado para alimentar dispositivos de 110 a 230 volts usando a bateri
+a de íon de lítio do carro.Seria o suficiente para, por exemplo, alimentar um martelo elétrico, equi
+pamentos de uma UTI ou um holofote de LED. Mais do que isso, com a bateria totalmente carregada, o v
+eículo é capaz de alimentar uma casa média por até seis dias. Segundo uma executiva da Nissan, conce
+itos como este mostram a possível aplicação de veículos elétricos no gerenciamento de desastres e de
+monstram que uma tecnologia mais inteligente e mais limpa pode ajudar a salvar vidas e fornecer gran
+de resiliência para o futuro.
+			
+Este Artigo foi publicado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open 
+in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elon Musk pode aposentar sistema
+ GPS?
+A SpaceX já lançou ao espaço mais de 700 satélites da missão Starlink. O projeto ambicioso da 
+empresa pretende lançar ao todo uma constelação de 12 mil para fornecer a transmissão de internet em
+ alta velocidade para Terra. Mas, ao que parece essa pode não ser a única utilidade da mega constela
+ção. Segundo uma pesquisa financiada pelo Exército dos Estados Unidos, a crescente constelação pode 
+funcionar também como um sistema de navegação mais preciso que o GPS.O exército dos EUA depende muit
+o do GPS. O Sistema de Posicionamento Global usados por eles atualmente possui sinais fracos e podem
+ ser facilmente dominados por interferências acidentais ou guerra eletrônica.De acordo com o estudo,
+ uma pequena mudança no software dos satélites da SpaceX pode tornar a constelação uma alternativa b
+arata e eficiente ao GPS e que pode revolucionar os sistemas de localização.
+			
+Este Artigo foi pub
+licado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descoberto mais um reservatório de água em Marte
+Marte é conhecido por ser um mundo á
+rido e desértico. Mas isso parece estar mudando aos poucos. Segundo o MIT Technology Review, uma equ
+ipe de cientistas italianos encontrou três novos lagos subterrâneos próximo ao polo sul do planeta. 
+Com a descoberta, o número de reservatórios de água líquida em Marte sobe para quatro.A mesma equipe
+ de pesquisadores já havia encontrado o primeiro lago subterrâneo do planeta há dois anos. A nova de
+scoberta, que foi publicada esta semana na revista Nature Astronomy, foi feita após uma análise de d
+ados coletados por um radar que orbita o planeta vermelho. O equipamento é financiado pela Nasa e pe
+la Agência Espacial Italiana.Mas para os futuros habitantes de Marte a descoberta pode não ser tão b
+oa. Segundo os pesquisadores, os reservatórios encontrados são enormes salmouras. Caso contrário, te
+riam congelado, e formado enormes blocos de gelo. Por conta disso, a água não deve ser ingerida, a m
+enos que passe por um processo de dessalinização. Apesar disso, esses grandes reservatórios podem se
+r um ponto de partida excelente para busca por vida extraterrestre.
+			
+Este Artigo foi publicado em
+ Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data marcada para a próxima missão tripulada da SpaceX
+O lançamento da Crew-1, finalmente ganh
+ou uma data oficial: 31 de outubro. Essa será a primeira missão tripulada operacional da cápsula Cre
+w Dragon. O plano inicial era lançar a missão uma semana mais cedo, em 23 de outubro, mas a data era
+ próxima à de uma operação com a nave russa Soyuz, que vai visitar a ISS entre os dias 14 e 21. Na a
+valiação da Nasa, é prudente dar alguns dias a mais para que as equipes, tanto em terra quanto a bor
+do da estação, realizem os ajustes necessários entre uma missão e outra.Agora, a Crew Dragon carrega
+ consigo a responsabilidade de um feito histórico: levar, pela primeira vez, uma tripulação internac
+ional a bordo de um foguete comercial americano para uma missão da Nasa.Os astronautas americanos Mi
+chael Hopkins, Victor Glover e Shannon Walker, bem como o japonês Soichi Noguchi, foram os escolhido
+s para ocupar os assentos da espaçonave. Eles passarão seis meses conduzindo um estudo científico no
+ laboratório orbital da Estação Espacial Internacional.Uma segunda missão tripulada com a cápsula, a
+ Crew-2, também já está nos planos, e deve partir com outros quatro astronautas em 2021.
+			
+Este Ar
+tigo foi publicado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+P
+ermalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confira a intro de ‘Godfall’, primeiro jogo anunciado para o PS5
+O lançam
+ento do PlayStation 5 está cada vez mais próximo, mas os fãs do console ganharam outro bom motivo pa
+ra comemorar. Primeiro jogo a ser anunciado oficialmente para o novo videogame da Sony, “Godfall” te
+ve sua abertura cinematográfica revelada. O vídeo foi publicado na última terça-feira (29), no canal
+ do YouTube da Gearbox, distribuidora do game.Confira abaixo o vídeo de introdução de “Godfall”:Além
+ da revelação da abertura cinemática, o preço do game também foi divulgado. “Godfall” já está em pré
+-venda na PlayStation™Store, disponível em três pacotes exclusivos:Godfall — Standard Edition (R$ 34
+9,99): o pacote conta com apenas o jogo base completo.Godfall — Digital Deluxe Edition (R$ 449,99): 
+além do jogo base completo, o pacote concederá ao usuário o acesso à primeira expansão game (que ser
+á disponibilzado em 2021).Godfall — Ascended Edition (R$ 499,99): o pack mais completo de “Godfall” 
+conta com jogo base completo, acesso à primeira expansão game (que será disponibilzado em 2021) e um
+ kit com itens exclusivos e personalizáveis, como skins de armas e escudos, título único para o modo
+ multiplayer e outros elementos.A expectativa é de que o jogo cumpra o prazo estipulado e seja dispo
+nibilizado junto com o lançamento do PlayStation 5 no dia 12 de novembro — ambos os anúncios serão d
+isponibilizados para apenas algumas regiões nesta data.Os lançamentos globais do game e do console d
+evem acontecer no dia 19 do mesmo mês. Além disso, o jogo também deve ganhar uma versão para PC, por
+ meio da Epic Games Store.SinopseReprodução"Godfall" contará com muitos combates e exploração de cen
+ários. Foto: PlayStation/DivulgaçãoEm “Godfall”, o reino de Aperion está à beira da ruína. Você é o 
+último dos cavaleiros valorianos capazes de equipar as lendárias Valorplates — armaduras que transfo
+rmam os portadores em mestres invencíveis do combate corpo a corpo. Os jogadores aniquilarão inimigo
+s enquanto avançam por alguns dos reinos elementais (Terra, Água, Fogo, Ar e Espiritual) e desafiam 
+o deus insano Macros, que estará esperando por você no topo.Sobre o game"Godfall" é um RPG de ação e
+ fantasia que utiliza combate em terceira pessoa de alto impacto enquanto estimula os jogadores a ca
+çarem espólios — que alteram a peça de equipamento de seu personagem e afetam significativamente na 
+sua gameplay.Um dos grandes triunfos do game é a grande diversidade de armaduras e de classes de arm
+as, possibilitando a criação de combos exclusivos. Espadas longas, lanças, martelos, espadas grandes
+ e lâminas duplas serão suas aliadas nessa aventura.ComplexMisguidedBeardedcollie-mo.gifFalando em a
+liados, será possível optar pelo modo solo ou multiplayer, que poderá juntar até três jogadores para
+ derrotar o inimigo.Via: Android Central
+			
+Este Artigo foi publicado em Olhar Digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open in app
+Facebook
+Tweet
+Reddit
+Mail
+Embed
+Permalink 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Phis
+hing é um tipo conhecido de ataque de engenharia social e, no entanto, cerca de 80 mil pessoas ainda
+ caem nesses golpes todos os dias.
+Esses e-mails, ou textos maliciosos, parecem vir de fontes legíti
+mas, mas tentam enganar os usuários para que forneçam dados pessoais, como número de cartão de crédi
+to ou credenciais de login. Alguns até instalam malware que podem causar estragos na rede e custar u
+ma fortuna para a empresa em limpeza, multas e clientes perdidos.
+Dependendo das permissões da conta
+ invadida, um ataque phishing bem-sucedido pode dar ao invasor acesso aos aplicativos e aos bancos d
+e dados mais importantes para a empresa ou, no caso de um ataque de ransomware, permitir que ele cri
+ptografe dados essenciais ou exponha a empresa se o resgate não for pago.
+Nos últimos anos, os autor
+es de ataques de ransomware abandonaram o uso de e-mails e se concentraram em servidores públicos e 
+vulnerabilidades de redes corporativas. Mas, ultimamente, os especialistas em segurança estão observ
+ando o ressurgimento do ransomware enviado por e-mail. Na verdade, o FBI informou que, em 2019, o co
+mprometimento de e-mails corporativos causou um prejuízo de US$ 1,7 bilhão para as empresas dos EUA.
+
+Sinais de que estão tentando fisgar você
+Os criminosos cibernéticos estão sempre mudando de tática,
+ mas há alguns sinais que revelam se um e-mail pode ser um golpe de phishing. Na maioria das vezes, 
+os e-mails maliciosos "vêm" de uma fonte conhecida ou confiável, como um banco, uma operadora de car
+tão de crédito, um site de rede social ou uma loja online. O endereço de e-mail do remetente é bem s
+emelhante ao da empresa legítima, com algumas discrepâncias, como pequenas diferenças ortográficas, 
+letras faltando ou pontuação alterada, como um caractere de sublinhado em vez de um ponto.
+Outros si
+nais vermelhos aos quais você deve ficar atento:
+
+Saudações ou assinaturas genéricas
+Links e sites f
+alsos
+Texto com erros de ortografia ou gramática
+Formatação mal feita
+Anexos suspeitos
+
+Uma vez aber
+to, o e-mail solicita que o destinatário clique em um link ou abra um anexo para concluir uma ação. 
+Algumas mensagens comuns de phishing:
+
+Notamos uma atividade suspeita na sua conta
+Há um problema co
+m seus dados de cobrança ou de pagamento
+Precisamos que confirme seus dados pessoais
+Você precisa pa
+gar este boleto
+Clique neste link para fazer um pagamento
+Você tem direito a uma restituição da rece
+ita federal
+Resgate seu prêmio ou brinde
+
+O que fazer se você receber um e-mail de phishing
+Os crimi
+nosos cibernéticos são especialistas em driblar filtros de malware, por isso é bem provável que você
+ encontre um e-mail de phishing na sua caixa de entrada. Se receber um e-mail suspeito, não responda
+, não clique em nenhum link, não abra nenhum anexo nem forneça qualquer informação. Encaminhe-o na m
+esma hora para o administrador de segurança de TI da sua empresa para que fique ciente da tentativa 
+de phishing e tome as devidas providências.
+O que fazer se você for fisgado pelo phishing
+Com a preo
+cupação da pandemia mundial e uma enxurrada de distrações para administrar quando se trabalha em cas
+a, aumentam as chances de que você, ou alguém da sua empresa clique em um link indevido ou seja leva
+do a revelar dados confidenciais.
+É importante que todos os funcionários sejam instruídos sobre a hi
+giene cibernética e que saibam o que fazer se caírem em um golpe de phishing. As medidas imediatas a
+ se tomar quando se sofre um ataque são:
+
+Denunciar o incidente às pessoas apropriadas na mesma hora
+
+Desconectar-se da rede
+Isolar os computadores infectados
+Trocar as senhas
+Registrar uma queixa junt
+o aos órgãos apropriados, se apropriado
+
+Dicas para não ser vítima de um ataque de phishing
+O phishi
+ng está crescendo no rastro da COVID-19. Os golpes usam mensagens sobre a pandemia para tentar engan
+ar os usuários. Algumas práticas recomendadas podem ajudar os funcionários a não serem vítimas de um
+ ataque cibernético e a evitar que os dados e aplicativos da sua empresa sejam expostos ou roubados.
+
+
+Desconfie de telefonemas, e-mails ou mensagens não solicitados que peçam informações internas
+Não 
+forneça informações pessoais nem sobre a empresa, inclusive sua estrutura ou redes
+Não revele inform
+ações financeiras em e-mails
+Não clique em links de e-mails que solicitam informações pessoais ou fi
+nanceiras
+Não envie informações confidenciais pela internet antes de verificar a segurança do site (
+por exemplo, https, cadeado)
+Não tente verificar uma solicitação de e-mail suspeita usando as inform
+ações de contato do e-mail
+
+Investir em uma solução de segurança cibernética e proteção de dados abr
+angente é uma maneira altamente eficaz de proteger sua empresa das despesas e da dor de cabeça de fa
+zer uma limpeza após o ataque cibernético. Procure uma solução que inclua a detecção de malware base
+ada em assinatura e sem assinatura, rede neural com deep learning e tecnologia anti-exploit para que
+ seus sistemas fiquem protegidos contra ameaças conhecidas e desconhecidas.
+Como nunca se sabe qual 
+será a extensão ou o tipo de dano que um ataque cibernético causará, é muito importante escolher uma
+ solução abrangente, que integre segurança cibernética e proteção de dados, como as soluções da Arcs
+erve "secured by Sophos" . Baixe o Seu guia para um futuro sem ransomware para saber como uma segura
+nça cibernética e de dados abrangente pode proteger a sua empresa das ameaças cibernéticas atuais e 
+futuras.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+ De acordo com especialistas em segurança digital, o #ransomware enviad
+o por e-mail está de cada vez mais forte. Mas calma, não entre em pânico. Veja o que você pode e dev
+e fazer para evitá-lo → https://bit.ly/3l3YOd4
+
+/ ~ 4AC5DDE2 ~ /
+
+Você sabia que os ataques de ranso
+mware continuam em alta e o  malware mais detectado no continente americano é o Wannacry? Como você 
+se previne deste e de outros ataques de ransomware?
+
+/ ~ 4AC5DDE2 ~ /
+
+
+ 
+
+
+ Um grande ataque de ran
+somware (sequestro de dados) atingiu uma das maiores redes hospitalares da América do Norte e Europa
+. No domingo (27), os sistemas digitais das mais de 400 unidades do Universal Health Services nos Es
+tados Unidos, Reino Unido e Porto Rico foram travados por uma praga que obrigou os funcionários a re
+correrem a sistemas de backups e fichas de papel, enquanto o atendimento e realização de exames foi 
+amplamente dificultada.  
+
+
+  Com home office, empresas descuidam de segurança e abrem brechas para 
+hackers 90% dos erros de segurança são cometidos por quem acredita dominar o assunto Já sofreu algum
+ hoje? Brasileiros são alvos de 20 ataques cibernéticos por dia  Os problemas continuam até o moment
+o em que esta reportagem é escrita, com a plataforma digital da empresa ainda fora do ar. Enquanto i
+sso, alguns atendimentos de emergências tiveram de ser redirecionados a outros hospitais da região, 
+enquanto a entrega de exames teve de ser adiada e as consultas de centenas de pacientes, canceladas.
+ A companhia falou rapidamente sobre o assunto, confirmando a ocorrência, mas não divulgou um prazo 
+para a normalização das operações. De acordo com a Check Point Software Technologies, especializada 
+em segurança digital, o ataque foi realizado com uma variação do Ryuk, ransomware conhecido desde 20
+18 e cujo desenvolvimento já foi associado ao governo russo. Enquanto não é possível citar motivos p
+olíticos por trás dos ataques deste final de semana, os pesquisadores falam em um aumento no número 
+de ataques com essa praga desde julho de 2020, com uma média de 20 organizações sendo atingidas por 
+semana em todo o mundo.  Rede hospitalar tem mais de 400 unidades em três países, todas com sistemas
+ fora do ar e funcionando com fichas de papel após ataque de ransomware que travou sistemas no últim
+o domingo (27) (Imagem: Divulgação/Universal Health Services)  Em alguns casos, o resgate solicitado
+ pelos hackers pode ultrapassar a marca de US$ 1 milhão, com os bandidos sempre mirando empresas e c
+orporações de alto valor. O objetivo, como sempre, são os bancos de dados e servidores de backup, cu
+jos sistemas são criptografados em troca de um valor para liberação. Não se sabe quanto foi exigido 
+do Universal Health Services nem se um pagamento realmente foi realizado pela instituição em respost
+a ao incidente. 
+
+
+ Ainda de acordo com o comunicado divulgado pela empresa, não existem indícios de
+ comprometimento ou furto dos dados de médicos, enfermeiros, pacientes e outros funcionários dos hos
+pitais atingidos. A companhia disse apenas que segue trabalhando no caso, citado como um incidente d
+e segurança de TI, e que possui protocolos para situações desse tipo, que foram implementados e segu
+em ativos para garantir o atendimento e resposta a emergências médicas.  Ransomware causa pane e mor
+te em hospital na Alemanha; ataques atingem o Brasil  Um caso semelhante foi divulgado na última sem
+ana, com a primeira morte decorrente de um ataque de ransomware sendo registrada na Alemanha, depois
+ que um hospital na cidade de Düsseldorf se viu impossibilitado de realizar atendimentos de emergênc
+ia. Uma mulher em estado grave teve que ser levada a outra unidade, a mais de 30 quilômetros de dist
+ância, e acabou falecendo devido à demora no socorro. A Check Point cita campanhas de educação e con
+scientização de funcionários como uma das melhores práticas para evitar ataques, já que tais malware
+s costumam adentrar a rede por meio de e-mails e mensagens fraudulentas que tentam enganar os colabo
+radores. Além disso, os especialistas indicam a necessidade de backups contínuos, de forma a minimiz
+ar a perda de dados e as interrupções em casos de infecção, como outro bom caminho. Além disso, como
+ sempre, a indicação é ter sistemas de segurança ativos e sempre atualizados, assim como os próprios
+ sistemas e plataformas que funcionam nos bancos de dados. Outras tecnologias que impeçam acessos ex
+ternos aos servidores, analisem malwares e programas de inteligência sobre ameaças digitais também s
+ão indicados como rotas para a prevenção de ataques dessa categoria. Além disso, os especialistas pe
+dem que as empresas jamais realizem pagamentos aos hackers, como forma de não tornar a atividade luc
+rativa e, também, pelo fato de não existirem garantias de que a entrega do dinheiro resultará na lib
+eração da infraestrutura. 
+
+
+
+
+
+ Unidades no EUA, Reino Unido e Porto Rico tiveram computadores trav
+ados por malware, o que dificultou o atendimento de emergência e a realização de exames e consultas.
+ Sistemas continuam fora do ar enquanto centros trabalham com backups e fichas de papel
+Fonte: Unive
+rsal Health Services, Check Point Software Technologies  
+
+
+
+Gostou dessa matéria?
+Inscreva seu emai
+l no Canaltech para receber atualizações diárias com as últimas notícias do mundo da tecnologia.
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+Comentários
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Golpes como roubo de senha, phising, malware e 
+ransomware em laptops aumentaram 450% em toda a América Latina, como mostra o estudo da Kaspersk...
+
+
+>> LEIA MAIS! <<
+https://monitormercantil.com.br/ataques-ciberneticos-em-desktops-remotos-aumentam-
+450-no-isolamento…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Os grupos hackers que operam ransomware estão realizando varr
+eduras na internet abrangentes para encontrar sistemas vulneráveis ​​e, em seguida, realizar os ataq
+ues para, em apenas alguns minutos, capitalizar sobre a pandemia de covid-19, alerta a Microsoft.
+O 
+vice-presidente corporativo de segurança e confiança do cliente, Tom Burt, revelou as descobertas em
+ uma postagem no blog no qual apresentou o Digital Defense Report da empresa na terça-feira, 29. Ele
+ diz que os autores de ameaças “aumentaram rapidamente a sofisticação” no ano passado, sendo que ran
+somware foi a causa número um de respostas a incidentes da Microsoft entre outubro de 2019 e julho d
+este ano.
+“Os invasores exploraram a crise da covid-19 para reduzir o tempo de permanência no sistem
+a da vítima, comprometendo, exfiltrando dados e, em alguns casos, resgatando rapidamente, acreditand
+o aparentemente que haveria maior disposição de pagar devido ao surto do coronavírus. Em alguns caso
+s, os cibercriminosos passaram da entrada inicial ao resgate de toda a rede em menos de 45 minutos”,
+ afirma Burt.
+“Ao mesmo tempo, também vemos que gangues de ransomware operados por humanos estão rea
+lizando varreduras massivas e abrangentes na internet, em busca de pontos de entrada vulneráveis, en
+quanto ‘bancam’ o acesso, esperando a ocasião mais vantajosa para seu propósito.”
+Veja issoHackers d
+escobrem uma vulnerabilidade a cada 2 minutos e meioHackers agora estão exigindo resgate em ataques 
+DDoS
+Os invasores também se tornaram mais sofisticados na realização de reconhecimento de alvos de a
+lto valor, de modo que parecem saber quando certos fatores, como feriados, irão reduzir as chances d
+e a organização vítima fortalecer suas redes. “Eles também estão cientes de como os ciclos de fatura
+mento funcionam em certos setores e, portanto, quando alvos específicos podem estar mais dispostos a
+ pagar”, afirma Burt.
+No total, a Microsoft bloqueou mais de 13 bilhões de e-mails maliciosos e susp
+eitos em 2019, mais de 1 bilhão dos quais continham URLs de phishing. O phishing agora compreende ma
+is de 70% dos ataques, embora o volume de ameaças relacionadas à covid-19 tenha caído significativam
+ente desde o pico em março, diz a empresa.
+Esta não é a única ameaça para os trabalhadores remotos: 
+a Microsoft diz que também verificou um aumento nos ataques de força bruta a contas corporativas no 
+primeiro semestre do ano e recomendou o uso generalizado da autenticação multifator (MFA). 
+Burt diz
+ que hackers apoiados por Estados-nação também têm mudado suas táticas recentemente, direcionando os
+ ataques para provedores de saúde e pesquisadores de vacinas, grupos de reflexão de políticas públic
+as e ONGs. Embora cada grupo tenha suas técnicas preferidas, as explorações de reconhecimento, colet
+a de credenciais, malware e rede privada virtual (VPN) foram as mais comuns no ano passado, ressalta
+ o executivo.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Um ataque de ransomware atingiu os servidores da gigante francesa
+ de transporte de contêineres CMA CGM, o que acarretou o fechamento temporário do website e dos apli
+cativos de transporte da empresa.
+Comunicado divulgado pela empresa na manhã de terça-feira, 29, diz
+ia: “O CMA CGM Group (excluindo a CEVA Logistics) está lidando no momento com um ataque cibernético 
+que afeta servidores periféricos”.
+Depois de ser alvo de uma violação de segurança que afetou vários
+ escritórios do grupo na China, detectada no fim de semana, a CMA CGM lançou um alerta para toda a s
+ua rede a fim de evitar que o malware se propagasse.
+No momento da publicação, o site de remessas da
+ empresa permanecia inacessível, retornando o erro “504-Gateway Timeout”. Os sites de duas subsidiár
+ias da empresa, a ANL e a CNC, juntamente com o aplicativo de TI, também não estão disponíveis “devi
+do a um problema de infraestrutura de TI interna”.
+A CMA CGM acessou o Twitter ontem para informar a
+os clientes que “o acesso externo aos aplicativos de TI da CMA CGM não está disponível no momento”. 
+O grupo disse aos clientes que “as equipes de TI estão trabalhando na resolução do incidente para ga
+rantir a continuidade dos negócios”.
+Veja issoFabricante dos óculos Ray-Ban sob ataque de ransomware
+Ransomware em hospital retardou atendimento;  paciente morreu
+A CMA CGM confirmou ao grupo de mídia 
+Lloyd’s List que o grupo hacker que opera o ransomware Ragnar Locker está por trás do ataque ciberné
+tico. A quadrilha teria entrado em contato com a empresa por e-mail no domingo, 27, com instruções p
+ara entrar em contato em até dois dias “via chat e pagar pela chave especial de decodificação”. A em
+presa não disse, no entanto, a quantia exigida pelos hackers em troca da chave de descriptografia do
+s dados.
+A CMA CGM é a quarta maior transportadora de contêineres a ser atacada por criminosos ciber
+néticos desde 2017. Os ataques anteriores foram feitos na Cosco Shipping, Mediterranean Shipping Co 
+e Maersk Line.
+Em entrevista à Infosecurity, Andrea Carcano, cofundadora da Nozomi Networks, descrev
+eu o nível de visibilidade dos sistemas e maturidade da segurança cibernética no setor de transporte
+ marítimo como “relativamente baixo”. “A indústria marítima, em particular, transporta 90% do comérc
+io mundial e, como outras indústrias, está se tornando cada vez mais conectada, automatizada e monit
+orada remotamente”, disse. 
+“Muitos navios contêm dispositivos e sistemas dos quais seus operadores 
+nem estão cientes. As pessoas que usam o sistema são muitas vezes o elemento mais fraco da cadeia, o
+ptando por clicar em um link em um e-mail que diz ‘urgente’ ou voluntariamente ceder suas credenciai
+s quando alguém autonomeado como ‘suporte de TI’ pede gentilmente”, completou Carcano.
+
+
+/ ~ 4AC5DDE
+2 ~ /
+
+Uma das maiores operadoras de saúde dos EUA é vítima de ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+Ataque 
+de ransomware afeta rede de hospitais nos EUA
+
+/ ~ 4AC5DDE2 ~ /
+
+Só fazer o upload do seu ransomware
+ lá, checar a versão e ver se já quebraram. Eu tinha dado por perdido tb e recuperei os arquivos, en
+tão vale a pena mantê-los salvos. É importante tb n deletar arquivos comuns (tipo musicas e filmes b
+aixados) pq sao uteis na quebra da sua chave
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware: da invasão ao resgate em
+ menos de 45 minutos
+
+/ ~ 4AC5DDE2 ~ /
+
+Ataques de ransomware estão cada vez mais rápidos, alerta a 
+Microsoft https://ift.tt/3jlyPgs
+
+/ ~ 4AC5DDE2 ~ /
+
+Um grande ataque de ransomware (sequestro de dad
+os) atingiu uma das maiores redes hospitalares da América do Norte e Europa. No domingo (27), os sis
+temas digitais das mais de 400 unidades do Universal Health Services nos Estados Unidos, Reino Unido
+ e Porto Rico foram travado…

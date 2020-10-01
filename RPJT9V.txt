@@ -1,0 +1,1146 @@
+Ransomware-plaag in Antwerpse Haven https://computable.be/artikel/nieuws/security/7065455/5440850/ra
+nsomware-plaag-in-antwerpse-haven.html?utm_source=dlvr.it&utm_medium=twitter…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+D
+e AP Hogeschool is getroffen door een cyberaanval. Fysieke lessen in de campussen worden daardoor va
+ndaag afgelast, maar online lessen gaan zoveel mogelijk door.
+
+
+
+
+
+De hogeschool heeft via een beric
+ht op haar website het nieuws bekend gemaakt dat vandaag de deuren van haar campussen gesloten blijv
+en. AP Hogeschool heeft vier campussen verspreid over de provincie Antwerpen. De reden voor de tijde
+lijke sluiting is een cyberaanval die de hogeschool afgelopen nacht getroffen heeft.
+In de mededelin
+g is te lezen dat het IT-team de malware grotendeels heeft kunnen bestrijden, maar uit voorzorgmaatr
+egelen studenten en medewerkers wordt afgeraden naar de campussen te komen. Wie toch aanwezig moet z
+ijn, mag in geen geval een computer opzetten. Wie achter de aanval zit en wat de mogelijke schade va
+n de aanval kan zijn, is nog onbekend.
+Online lessen gaan door
+Studenten die hopen op een onverwacht
+e vrije dag, moeten we mogelijks teleurstellen. Waar de fysieke lessen dus niet zullen doorgaan, wil
+ de hogeschool de online lessen wel zo veel mogelijk laten doorgaan als gepland. Enkele online platf
+ormen zoals de e-campus en administratieve systemen kunnen nog wel hinder ondervinden. Externe platf
+ormen zoals Teams en e-mail zijn wel nog operationeel, wat de docenten de middelen zou moeten bieden
+ hun les te geven.
+
+
+
+
+
+IT-medewerkers van AP Hogeschool zullen nog de hele dag door werken om alle 
+problemen op te lossen. Er wordt ook met externe partijen naar een oplossing gezocht. De hogeschool 
+zal doorheen de dag haar studenten en medewerkers van updates rond de situatie voorzien.
+Universitei
+ten vaker slachtoffer
+De universiteiten van Antwerpen, Maastricht, Utrecht, Delft, … allemaal werden
+ ze recent getroffen door een cyberaanval. Toevallig? Volgens Simen Van der Perre, expert cybersecur
+ity bij Orange Cyberdefense, niet. Hij stelt vast dat in de voorbije maanden zowel grote als kleine 
+onderwijsinstellingen het doelwit werden van cybercriminaliteit. De meest gebruikte technieken waren
+ DDoS-aanvallen en fake invoice scams om betalingen te onderscheppen. Maar over het algemeen hebben 
+onderwijsinstellingen, zeker kleinere secundaire scholen, helemaal niet zo veel geld. Waarom zijn ze
+ dan toch zo in trek?
+Van der Perre zoekt de oorzaak hiervoor bij de kwetsbaarheid van veel onderwij
+sinstellingen. Die hebben niet altijd het budget en de middelen om hun systemen 24/7 te bewaken. Hac
+kers slaan dus toe na de schooluren. Er is wel bij onderwijsdirecties een groeiend bewustzijn ontsta
+an dat er meer middelen moeten geïnvesteerd worden in beveiliging. De versnelde shift naar digitaal 
+onderwijs heeft die evolutie sneller in gang gezet. 
+Wil je voorkomen dat je slachtoffer wordt van c
+ybercriminelen? In dit artikel lijsten we enkele nuttige cybersecuritytips op voor scholen en studen
+ten. 
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Eerste indicatoren van een ransomware-aanvalDus wat zijn de eerste in
+dicatoren voor bedrijven die proberen een ransomware-aanval te herkennen voordat ze te veel schade v
+eroorzaken? Wat moeten ze doen als ze een lopende aanval ontdekken?Allereerst vindt het encrypten va
+n bestanden door ransomware als laatste plaats. Daarvoor zullen de cybercriminelen weken, of zelfs l
+anger, rondhangen in het netwerk om te onderzoeken wat de zwakke plekken zijn. Remote Desktop Protoc
+ol: een gewilde route om te hackenEen van de meest voorkomende routes voor ransomwarebendes om in be
+drijfsnetwerken te komen, is via Remote Desktop Protocol (RDP) links die openstaan voor het internet
+. Dankzij het Remote Desktop Protocol kunnen we toegang krijgen tot een ander pc of serveromgeving. 
+Denk hierbij aan het inloggen op een applicatie of het overnemen van een anders laptop voor bijvoorb
+eeld support. Deze toegangen zijn veelal afgeschermd met een gebruikersnaam en wachtwoord.Vanwege co
+ronabesmettingsgevaar is het advies van de overheid nog steeds om zoveel mogelijk thuis te werken. V
+eel organisaties hebben daarom veel meer RDP-links openstaan om het op afstand werken zoveel mogelij
+k te vergemakkelijken. Hierdoor neemt de kwetsbaarheid voor ransomware-aanvallen toe.Herken de signa
+len en kom in actieIn een interview met ZDnet geeft Jared Phipps, VP van SentinelOne - het bedrijf a
+chter het gelijknamige endpoint protection platform - aan, dat de eerste stap is om de eigen kwetsba
+arheid wat RDP-links betreft in kaart te brengen en die toegangen snel met twee-factor-authenticatie
+ te beveiligen of ze achter een VPN te plaatsen.Een ander waarschuwingssignaal kan zijn, dat er onve
+rwachte softwaretools op het netwerk verschijnen. Aanvallers zullen beginnen met het verkrijgen van 
+de controle over slechts één PC op een netwerk. Grote kans dat die aanval begint met een phishing-e-
+mail.Over phishing e-mails gesproken: ontvangen meerdere collega's een (zelfde) phishing e-mail, dan
+ kan dat een indicatie zijn van een op handen zijnde aanval. Het is van groot belang dat die medewer
+kers die e-mails als phishing e-mails herkennen en daar alarm over slaan. De organisatie krijgt hier
+mee een vroege waarschuwing. Security awareness trainingen zijn geen overbodige luxe.Zodra de aanval
+lers toegang tot één apparaat (laptop, desktop of smartphone) hebben verkregen, dan zullen ze vanuit
+ dat bruggenhoofd uw bedrijfsnetwerk verkennen om nog meer zwakke plekken te ontdekken.Dat betekent 
+dat ze gebruik maken van netwerkscanners, zoals AngryIP of Advanced Port Scanner. Worden deze op uw 
+netwerk ontdekt, dan is het zaak om intern na te vragen of iemand deze tools gebruikt. Als dat niet 
+het geval is, dan moet u serieus rekening houden dat er een ransomware-aanval op uw organisatie word
+t voorbereid.Een andere moment waar bij de alarmbellen moeten afgaan, is als het softwareprogramma M
+imiKatz op uw netwerk wordt gevonden. MimiKatz is één van de tools die hackers, samen met Microsoft 
+Process Explorer, gebruiken om wachtwoorden en inloggegevens te stelen.Op jacht naar administratorre
+chtenEenmaal binnen in uw netwerk zullen ransomwarebendes op jacht gaan naar administratorrechten. W
+aarschijnlijk zullen zie die krijgen door zelf administratoraccounts aan te maken, bijvoorbeeld in A
+ctive Directory. Met hun uitgebreide rechten zullen ze beginnen met het uitschakelen van beveiliging
+ssoftware met behulp van applicaties die zijn gemaakt om te helpen bij het gedwongen verwijderen van
+ software, zoals Process Hacker, IOBit Uninstaller, GMER, en PC Hunter. Het beveiligingsbedrijf Soph
+os waarschuwt dat deze soort commerciële tools vaak legitiem zijn, maar in de verkeerde handen kunne
+n ze heel schadelijk zijn. Eenmaal gedetecteerd, is de vraag waarom ze er überhaupt zijn. De kans is
+ zo'n geval aannemelijk dat het om cyberaanvallers gaat.Om te voorkomen dat dit gebeurt, moeten bedr
+ijven op zoek gaan naar accounts die buiten uw ticketing- of accountmanagementsysteem zijn aangemaak
+t, aldus SentinelOne's Phipps. Als de aanvallers eenmaal de beheerdersbevoegdheden hebben gekregen, 
+proberen ze zich vervolgens verder te verspreiden over het netwerk, met behulp van PowerShell.De hel
+e voorbereiding tot het daadwerkelijke moment dat de ransomware geactiveerd wordt kan weken, en miss
+chien zelfs maanden, duren. Dat komt omdat hackers zich zo langzaam mogelijk door het netwerk bewege
+n, zodat de kans dat ze ontdekt worden zo klein mogelijk is. En veel beveiligingstools leggen slecht
+s een bepaalde tijd het verkeer op het netwerk vast, wat betekent dat als de hackers het een tijdje 
+volhouden, het voor de beveiligingsteams veel moeilijker wordt om uit te zoeken hoe ze überhaupt in 
+het systeem terecht zijn gekomen.Klaar voor de ransomware-aanvalEr zijn ook duidelijke tekenen dat e
+en ransomware-aanval bijna klaar is. De aanvallers zullen proberen om Active Directory en domeincont
+rollers uit te schakelen en eventuele back-ups die ze kunnen vinden te corrumperen, evenals het uits
+chakelen van software-implementatiesystemen die gebruikt zouden kunnen worden om patches of updates 
+te pushen. En dan barst de ransomware-aanval los met alle desastreuze gevolgen van dien.Sophos merkt
+e ook op dat sommige cybercriminelen eerst hun aanval zullen testen op een aantal apparaten om te zi
+en of hun plan gaat werken. Hierdoor worden ze wel zichtbaar, dus de echte aanval zal niet lang op z
+ich laten wachten.Stappen tegen hackers die al in uw netwerk zijnHoe kunt u de aanvallers tegenhoude
+n als ze binnen zijn? Dit zijn de belangrijkste stappen:
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ryuk #ransomware wordt 
+meestal geïnstalleerd op reeds besmette systemen van voornamelijk #emotet of #trickbot slachtoffers.
+ Daarnaast staan ze bekend om hun meedogenloze #reputatie. https://tweakers.net/nieuws/172726/keten-
+van-honderden-amerikaanse-ziekenhuizen-lijdt-onder-ransomwareaanval.html…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Cooki
+es op Tweakers
+
+Tweakers maakt gebruik van cookies
+
+							Tweakers is onderdeel van DPG Media. Onze
+ sites en apps gebruiken cookies, JavaScript en vergelijkbare technologie onder andere om u een opti
+male gebruikerservaring te bieden. Ook kunnen we hierdoor het gedrag van bezoekers vastleggen en ana
+lyseren, en deze informatie toevoegen aan bezoekersprofielen.
+						
+
+							Cookies kunnen worden g
+ebruikt om op Tweakers advertenties te tonen en artikelen aan te bevelen die aansluiten bij uw inter
+esses. Ook derden kunnen uw internetgedrag volgen, zoals bijvoorbeeld het geval is bij embedded vide
+o's van YouTube.
+						
+
+						    Cookies kunnen ook worden gebruikt om op sites van derden relevan
+te advertenties te tonen. Meer informatie hierover vindt u op tweakers.net/cookies.
+						
+
+						  
+  Om pagina's op Tweakers te kunnen bekijken, moet u de cookies accepteren door op 'Ja, ik accepteer
+ cookies' te klikken.
+                        
+
+
+ Ja, ik accepteer cookies
+
+
+
+
+
+
+Klik hier om in te 
+loggen.
+
+
+/ ~ 4AC5DDE2 ~ /
+
+#DDOS #Ransomware #commerce & #Risico's
+
+#Cybercrime overkomt je? Nee. #
+Cybercrime groeit met de snelheid van commercie. Kun je je wapenen tegen #ransomware?
+
+Reduceer Risi
+co's 40%-70%
+http://bit.ly/3mbK0dH
+@KPN @BNR @RTLZ @MKBCongres @MKBNL
+@Maersk @Politie #AX0 @KPMG @P
+wC
+
+/ ~ 4AC5DDE2 ~ /
+
+#DDos #Ransomware #Hacks #Commercie
+
+Kent u dat?
+Cloud aanbieders die u waarsc
+huwen voor ransomware aanvallen, terwijl 65% van die aanvallen in de cloud gebeuren?
+
+@PwC @Deloitte
+ @KPN @MKBCongres @MKBNL @mkbnlmidden @mkbnlnoord @KPMG @EY @RTLZ @BNRzaken @BNR
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AX 0  versus Ransomware 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+AX 0 ‘s “Denk
+tank” houd zich met tal van aspecten en facetten van digitale automatisering bezig, waaronder helaas
+ ook de toenemende Ransomware gevaren.Ransomware is een manier die cybercriminelen gebruiken om eers
+t in uw netwerken en systemen in te breken, en vervolgens data die zij kunnen bereiken te versleutel
+en (=encrypten).Met het onklaar maken van uw data, maar steeds vaker ook uw backups, of de systeem t
+oegang daartoe, laten de criminelen ook een duidelijke boodschap achter hoe u uw data weer bruikbaar
+ kunt krijgen. U dient dan doorgaans een bepaald bedrag losgeld (=ransom) over te maken aan de crimi
+nelen, meestal in bitcoin.Maak vrijblijvend een afspraak, wij komen u onze mogelijkheden graag bij u
+ ter plaatse presenteren d.m.v. onze AX 0 Handshake©.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AX 0  Response Center 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na het betalen van de RansomDaarna sturen zij u de unieke sleutel om de onbruikbare da
+ta weer terug te kunnen versleutelen. Mocht u niet willen betalen, gaan criminelen steeds vaker over
+ om gestolen data aan u te laten zien en dreigen zij gevoelige of strategische data te publiceren. H
+et is dan ook aanbevolen dit aspect gericht aandacht te geven.Wat te doen als ransomware u heeft ger
+aaktZet alle systemen van uw netwerk uit. Heeft u een externe IT diensten leverancier, breng deze da
+n onmiddellijk van de situatie op de hoogte.Bel het AX 0 Response Center. Zij kunnen u meteen bij st
+aan met actuele expertise, ervaring en advies.Het AX 0 Response Center heeft operationele,‘Up to Dat
+e’ Risk en Crisis management  ‘stand-by’ om u meteen te steunen en adviseren bij die eerste cruciale
+ stappen. Gebruik hiervoor de telefoon button linksboven.Uiteraard kunt u ook e-mailen voor de meest
+ ‘up to date’ informatie, kennis en expertise, als ook de gratis, continue ge-update ‘Ransomware Che
+cklist‘ , van en over ransomware aanvallen en overige vormen van cybercriminaliteit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ransomware, wat u kunt doen  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Er zijn stappen, non-commercieel en preventief die u z
+elf kunt (laten) zetten, om risico’s terug te dringen en mogelijke schade vooraf te reduceren.
+
+U ku
+nt regelmatig formatie over cybercrime binnen de eigen organisatie actualiseren en publiceren
+Zorgen
+ dat uw medewerk(st)ers op de hoogte zijn van het bestaan en de impact van cybercrime
+Herhaal de noo
+dzaak van oplettendheid regelmatig. Dit kan op verschillende manieren. AX 0 heeft hier aangepaste co
+mmunicatie scenario’s voor.
+Zorg voor een duidelijke noodstrategie, processen en procedures, wat te 
+doen als het u of één van uw medewerk(st)ers overkomt
+
+Als u bent getroffen, is het maar de vraag of
+ alles kan worden hersteld. Een aantal zaken zijn van het allergrootste belang te weten. Maar, de ee
+rste stappen kunt u heel goed zelf zetten.
+
+Schakel alle verbindingen naar buiten uw netwerk uit doo
+r alle systemen uit te (laten) zetten
+Betalen van losgeld? AX 0 adviseert cybercrime niet te support
+en, alhoewel wij weten dat soms een andere afweging word gemaakt. Het is nooit zeker of u de juiste 
+sleutel zult krijgen, om data te ‘ontsleutelen’,  als u heeft betaald
+Ook als u de juiste sleutel he
+eft gekregen, moet u uw netwerk en systemen als besmet te beschouwen.
+
+ 
+Er is geen enkele garantie 
+dat criminelen niets meer achter hebben gelaten om u later nog eens tot slachtoffer te kunnen maken.
+ Dit gebeurd steeds vaker.
+ 
+Wat u preventief kunt doen tegen ransomware
+Alle denkbare aspecten en f
+acetten van digitaal automatiseren zijn 100% voorspelbaar. Gerichte stappen in processen en procedur
+es zijn daarom exact in en op te stellen en hebben meteen effect.
+ 
+Het AX 0 Response Center heeft e
+en gratis ge-update ‘Ransomware Check‘  beschikbaar
+Het eerste antwoord tegen ransomware is zeker ni
+et (weer) een commercieel product dat word gehyped. Ook niet dat al uw data in de cloud veilig zoude
+n zijn. Meer dan 65% van de ransomware aanvallen vinden in de cloud plaats.
+ 
+De AX 0 Ransomware Che
+ck
+De AX 0 Ransomware Check geeft u gratis en vrijblijvend, waardevolle informatie en stappen die u 
+meteen kunt zetten. Aandachts gebieden, waarmee u, zonder commercie, meteen uw risico met 40%-70% ku
+nt reduceren. Maak voor contact en verdere vrijblijvende informatie gebruik van de buttons links bov
+en.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+"Aangezien veel cybercriminel
+en de weg van de minste weerstand kiezen, maakt hen dat vaak een doelwit.", aldus Simen Van der Perr
+e #cybersecurity #ransomware #phishing
+
+/ ~ 4AC5DDE2 ~ /
+
+Het aantal ransomware-aanvallen is de afge
+lopen jaren flink toegenomen, ook onder #mkb-bedrijven. Toch denken veel ondernemers dat zij geen in
+teressant doelwit zijn. Ten onrechte, zo ondervond ook Gerke van de Ven met haar onderneming
+
+/ ~ 4A
+C5DDE2 ~ /
+
+IT-systemen van honderden Amerikaanse ziekenhuizen plat door ransomware https://datanews
+.knack.be/ict/nieuws/it-systemen-van-honderden-amerikaanse-ziekenhuizen-plat-door-ransomware/article
+-news-1647631.html?utm_term=Autofeed&utm_medium=social_datanl&utm_source=Twitter#Echobox=1601457823…
+
+
+/ ~ 4AC5DDE2 ~ /
+
+
+De cyberaanval gebeurde dinsdagnacht, schrijft de AP Hogeschool in een bericht 
+op de website. Om een verdere verspreiding te vermijden, wordt woensdag niemand op de campussen toeg
+elaten. Studenten wordt ook gevraagd niet in te loggen op het netwerk van de school.Door de aanval w
+erken de e-campus en administratieve systemen van de hogeschool niet. De systemen voor digitaal lesg
+even, waaronder Panopto, Teams, e-mail en Digitap lijken niet geraakt, ditigaal lesgeven kan dus wel
+ en geplande lessen zullen zoveel mogelijk online plaatsvinden. Medewerkers moeten thuiswerken. De A
+P Hogeschool heeft campussen in Antwerpen, Mechelen, Turnhout en Lier. Hogere onderwijsinstellingen 
+waren de voorbije maanden meerdere keren slachtoffer van cyberaanvallen. Onder meer LUCA, de kunsten
+school in Brussel, kreeg er enkele maanden geleden eentje te verwerken, en ook de aanval op een ziek
+enhuis in Düsseldorf, waarbij mogelijk een dodelijk slachtoffer viel, zou als eigenlijk doelwit de u
+niversiteit hebben gehad die aan het ziekenhuis is gelinkt. Hogescholen zijn nochtans geen instellin
+gen waar veel geld rondgaat. "Op zich hebben ze niet veel geld, maar hun systemen bevatten ook wel e
+en stuk onderzoeksinformatie die interessant kan zijn", zegt Simen Van der Perre, cybersecurity expe
+rt bij Orange Cyberdefense, dat sindsdien onder meer beveiliging doet voor LUCA. "Door het open kara
+kter van die scholen, met studenten en professoren die toegang moeten krijgen, worden de controles b
+ovendien vaak minder scherp ingesteld, waardoor deze netwerken iets kwetsbaarder zijn. Aangezien vee
+l cybercriminelen de weg van de minste weerstand kiezen, maakt hen dat vaak een doelwit."Het is op d
+it moment niet zeker om welk soort aanval het gaat, en wie er mogelijk voor verantwoordelijk is. AP 
+Hogeschool zegt de situatie samen met externe partijen te onderzoeken. De Hogeschool raadt onder mee
+r aan om geen computers van het systeem aan te zetten, wat het vermoeden doet rijzen dat de daders o
+fwel een exploit hebben gevonden waardoor ze zich lateraal door het netwerk kunnen verspreiden, ofwe
+l toegang hebben tot een account met veel machtigingen (zoals een admin account), waardoor nieuwe co
+mputers in het netwerk meteen kunnen worden overgenomen. 
+
+
+    De cyberaanval gebeurde dinsdagnacht
+, schrijft de AP Hogeschool in een bericht op de website. Om een verdere verspreiding te vermijden, 
+wordt woensdag niemand op de campussen toegelaten. Studenten wordt ook gevraagd niet in te loggen op
+ het netwerk van de school.Door de aanval werken de e-campus en administratieve systemen van de hoge
+school niet. De systemen voor digitaal lesgeven, waaronder Panopto, Teams, e-mail en Digitap lijken 
+niet geraakt, ditigaal lesgeven kan dus wel en geplande lessen zullen zoveel mogelijk online plaatsv
+inden. Medewerkers moeten thuiswerken. De AP Hogeschool heeft campussen in Antwerpen, Mechelen, Turn
+hout en Lier. Hogere onderwijsinstellingen waren de voorbije maanden meerdere keren slachtoffer van 
+cyberaanvallen. Onder meer LUCA, de kunstenschool in Brussel, kreeg er enkele maanden geleden eentje
+ te verwerken, en ook de aanval op een ziekenhuis in Düsseldorf, waarbij mogelijk een dodelijk slach
+toffer viel, zou als eigenlijk doelwit de universiteit hebben gehad die aan het ziekenhuis is gelink
+t. Hogescholen zijn nochtans geen instellingen waar veel geld rondgaat. "Op zich hebben ze niet veel
+ geld, maar hun systemen bevatten ook wel een stuk onderzoeksinformatie die interessant kan zijn", z
+egt Simen Van der Perre, cybersecurity expert bij Orange Cyberdefense, dat sindsdien onder meer beve
+iliging doet voor LUCA. "Door het open karakter van die scholen, met studenten en professoren die to
+egang moeten krijgen, worden de controles bovendien vaak minder scherp ingesteld, waardoor deze netw
+erken iets kwetsbaarder zijn. Aangezien veel cybercriminelen de weg van de minste weerstand kiezen, 
+maakt hen dat vaak een doelwit."Het is op dit moment niet zeker om welk soort aanval het gaat, en wi
+e er mogelijk voor verantwoordelijk is. AP Hogeschool zegt de situatie samen met externe partijen te
+ onderzoeken. De Hogeschool raadt onder meer aan om geen computers van het systeem aan te zetten, wa
+t het vermoeden doet rijzen dat de daders ofwel een exploit hebben gevonden waardoor ze zich lateraa
+l door het netwerk kunnen verspreiden, ofwel toegang hebben tot een account met veel machtigingen (z
+oals een admin account), waardoor nieuwe computers in het netwerk meteen kunnen worden overgenomen. 
+
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware-plaag in Antwerpse Haven https://computable.nl/artikel/nieuws/secur
+ity/7065455/250449/ransomware-plaag-in-antwerpse-haven.html?utm_source=dlvr.it&utm_medium=twitter…
+
+
+/ ~ 4AC5DDE2 ~ /
+
+RANSOMWARE - Deze signalen waarschuwen dat je al aangevallen wordt...
+
+#Ransomware
+-aanvallen vinden niet spontaan plaats. Daar gaat maanden aan voorbereiding af. Herken de signalen e
+n voorkom het ergste. Lees mijn blog hoe je dat doet:
+
+/ ~ 4AC5DDE2 ~ /
+
+#Ransomware #DDOS #Phishing
+ #Security #Cybercrime #commercie 
+
+Het regent commerciële aanbiedingen die u eerst de stuipen op he
+t lijf jagen, met toch vooral doem illustreren, de gevaren van cybercrime zoals ransomware en DDOS a
+anvallen, inbraken.  Daarna…
+
+/ ~ 4AC5DDE2 ~ /
+
+
+Techsite Bleeping Computer meldt dat de problemen s
+inds zondagmorgen spelen. Verschillende medewerkers geven tegenover de website aan geen toegang meer
+ te hebben tot computersystemen. In zowel ziekenhuizen van Universal Health Services (UHS) in Califo
+rnië, Florida, Texas, Arizona en Washington D.C. zouden problemen zijn.RansomwareOp Reddit meldt een
+ gebruikers die bij een ziekenhuis van UHS zegt te werken dat de problemen om ongeveer twee uur 's n
+achts lokale tijd begonnen. Meerdere antivirusprogramma's zouden door de aanval zijn uitgeschakeld. 
+Na ongeveer een minuut zijn de systemen naar verluid uitgelogd en uitgeschakeld. Indien een getroffe
+n systeem wordt ingeschakeld, sluit deze automatisch weer af. Twee anonieme bronnenzeggen ondertusse
+n tegen techsite TechCrunch dat computers en mobiele telefoons werden vergrendeld. Een ransomwareaan
+val is door UHS zelf nog niet officieel bevestigd. Een werknemer van UHS zegt echter tegen Bleeping 
+Computer dat bestanden tijdens de aanval de extensie .ryk kregen. Deze extensie wordt gebruikt door 
+de Ryuk ransomware. Ook melden werknemers dat op getroffen systemen een boodschap is getoond waarin 
+losgeld wordt geëist. Deze boodschap vertoont volgens Bleeping Computer overeenkomsten met vergelijk
+bare boodschappen die eerder door Ryuk zijn verspreid.In samenwerking met Dutch IT Channel
+
+
+    Tec
+hsite Bleeping Computer meldt dat de problemen sinds zondagmorgen spelen. Verschillende medewerkers 
+geven tegenover de website aan geen toegang meer te hebben tot computersystemen. In zowel ziekenhuiz
+en van Universal Health Services (UHS) in Californië, Florida, Texas, Arizona en Washington D.C. zou
+den problemen zijn.RansomwareOp Reddit meldt een gebruikers die bij een ziekenhuis van UHS zegt te w
+erken dat de problemen om ongeveer twee uur 's nachts lokale tijd begonnen. Meerdere antivirusprogra
+mma's zouden door de aanval zijn uitgeschakeld. Na ongeveer een minuut zijn de systemen naar verluid
+ uitgelogd en uitgeschakeld. Indien een getroffen systeem wordt ingeschakeld, sluit deze automatisch
+ weer af. Twee anonieme bronnenzeggen ondertussen tegen techsite TechCrunch dat computers en mobiele
+ telefoons werden vergrendeld. Een ransomwareaanval is door UHS zelf nog niet officieel bevestigd. E
+en werknemer van UHS zegt echter tegen Bleeping Computer dat bestanden tijdens de aanval de extensie
+ .ryk kregen. Deze extensie wordt gebruikt door de Ryuk ransomware. Ook melden werknemers dat op get
+roffen systemen een boodschap is getoond waarin losgeld wordt geëist. Deze boodschap vertoont volgen
+s Bleeping Computer overeenkomsten met vergelijkbare boodschappen die eerder door Ryuk zijn versprei
+d.In samenwerking met Dutch IT Channel
+ 
+
+/ ~ 4AC5DDE2 ~ /
+
+Waarom zijn de onderwijsinstellingen zo 
+in trek? Expert Simen Van der Perre geeft toelichting: https://techpulse.be/nieuws/299094/ap-hogesch
+ool-sluit-campussen-na-cyberaanval/… #cybersecurity #ransomware #phishing
+
+/ ~ 4AC5DDE2 ~ /
+
+Waarom 
+zijn cyber- aanvallen zo succesvol?
+- Het duurt een hacker gemiddeld slechts 4 minuten om in te brek
+en.
+- Het kost een organisatie gemiddeld 99 dagen om te ontdekken dat men gehackt is.
+Lees meer in h
+et whitepaper:https://bit.ly/349H5d3
+.
+#malware #phishing #ransomware
+
+/ ~ 4AC5DDE2 ~ /
+
+
+
+Ransomwar
+e-plaag in Antwerpse Haven
+
+
+
+
+                                30 september 2020 10:50 |
+           
+                        
+
+
+                                William Visterin 
+
+
+
+
+
+
+
+
+Topic Security
+
+
+
+
+
+Dit artikel delen: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+                           
+                 De rederij CMA CGM is ten prooi gevallen aan ransomware. Het is de zoveelste rederi
+j in de Antwerpse haven die ermee te maken krijgt.                                        
+
+
+
+
+De An
+twerpse rederij CMA CGM heeft bevestigd dat het is aangevallen door cybercriminelen met de zogenoemd
+e Ragnar Locker-ransomware. Hierdoor liggen onder meer de e-commerce-sites van de scheepvaartgroep s
+inds maandag plat. Dat was ook woensdag nog het geval. Online-boekingen zijn niet mogelijk.De Ragnar
+ Locker-ransomware infecteert bestanden waardoor ze niet meer zijn te openen, extensies worden aange
+past en er een losgeld-mededeling wordt gecreëerd. Tegelijk schakelt Ragnar Locker de interne detect
+iesystemen en managementsoftware van een organisatie uit.De hackers zouden aan CMA CGM losgeld hebbe
+n geëist in ruil voor de decoderingssleutel, waarmee de systemen en data weer zijn te ontgrendelen.
+
+CMA CGM beweerde aanvankelijk dat het boekingssysteem van het bedrijf was uitgeschakeld als gevolg 
+van een intern it-probleem. Later erkende de groep dat ze  te maken heeft met een cyberaanval op zij
+n servers. Zelf wil de groep niet reageren op de aanval. 
+Vierde op rij
+Met CMA CGM is, volgens de l
+okale nieuwszender ATV, de vierde rederij in de Antwerpse haven die op korte tijd het slachtoffer is
+ van ransomware.De situatie doet ook denken aan de grootschalige NotPetya-cyberaanval op het logisti
+eke concern Maersk ongeveer drie jaar geleden. 
+
+
+
+
+
+
+
+
+
+
+
+
+x Om te kunnen beoordelen moet u ingelog
+d zijn:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Wat vond u van di
+t artikel?
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Wat vond u van dit artikel?
+						
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dit artikel delen: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lees verder
+
+
+
+
+                                                    Security               
+                                 
+
+
+
+                                                    Cybercrime 
+                                               
+
+
+
+                                                 
+   Hacking                                                
+
+
+
+                                      
+              Phishing                                                
+
+
+
+                          
+                          DDoS                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Opmars 
+ransomware niet te stuiten'
+
+
+
+                                                                    1
+0 augustus 2020 15:32                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+amerafabrikant Canon slachtoffer van ransomware
+
+
+
+                                                 
+                    6 augustus 2020 10:31                                                           
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Garmin herstelt zich van ransomware-aanval
+
+
+
+                                   
+                                 28 juli 2020 13:17                                                 
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+Europol hielp miljoenen ransomware-slachtoffers
+
+
+
+                    
+                                                28 juli 2020 09:28                                  
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uw reactie
+
+
+
+LET OP: U bent niet ingelogd. 
+U kunt als gast reageren maar dan wordt uw reactie pas zichtbaar na goedkeuring door de redactie. Om
+ uw reactie direct geplaatst te krijgen moet u eerst rechtsboven inloggen of u registreren
+
+
+
+
+
+
+
+
+V
+ul uw naam in
+
+
+
+Vult u een geldig e-mailadres in
+
+
+
+
+
+
+
+Vult u een reactie in
+
+
+
+
+Voorwaarden voor 
+plaatsing van reacties
+Reacties van gasten worden niet direct op de site geplaatst. De redactie cont
+roleert vooraf of de reactie aan een aantal voorwaarden voldoet.
+			Deze voorwaarden zijn:
+
+De react
+ie dient betrekking te hebben op de inhoud van bovenstaand artikel.
+De reactie moet correct, bondig,
+ professioneel en beschaafd zijn.
+De reactie mag geen beledigingen, bedreigingen, al dan niet fictie
+f, aan het adres van de andere sitebezoekers of aan prominente personen bevatten.
+Uitingen van gewel
+d, racisme, anti-semitisme, het zwartmaken van individuen, groepen of organisaties worden niet getol
+ereerd.
+Het plaatsen van persoonsgegevens zoals telefoonnummers en adressen in de tekst van de react
+ies is niet toegestaan.
+Reacties met (verkapte) reclame voor producten of diensten worden bewerkt of
+ niet geplaatst.
+Reacties met te veel taalfouten, volledig in hoofdletters zijn getypt, of te veel v
+raag/uitroeptekens bevatten worden niet geplaatst.
+
+Ik verklaar hierbij dat tekst  rechtenvrij is en
+ door mij gepubliceerd mag worden. Ik vrijwaar de eigenaar van Computable voor alle claims en daarbi
+j ontstane kosten die uit publicatie hiervan zouden kunnen voortvloeien.  
+			Tevens ga ik akkoord m
+et de algemene voorwaarden van de websites van Jaarbeurs b.v.
+			en de hier bovenin genoemde spelreg
+els.
+		
+De redactie behoudt zich het recht voor om reacties aan te passen, in te korten of te verwij
+deren. De redactie gaat niet in discussie over geplaatste of verwijderde reacties. IP-nummers worden
+ enkel gelogd om misbruik te monitoren, maar niet gepubliceerd of op een andere manier gebruikt.
+Het
+ is de redactie toegestaan om de inhoud van de reacties te hergebruiken in de print en online titels
+ van de uitgever van Computable.
+×
+
+
+
+
+
+
+
+						Ik ga akkoord met de voorwaarden.
+					
+
+						Jaarb
+eurs b.v. gaat zorgvuldig en veilig om met uw persoonsgegevens. Meer informatie over hoe we omgaan m
+et je data lees je in het privacybeleid
+
+
+
+					Als u een reactie wilt plaatsen moet u akkoord gaan 
+met de voorwaarden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware-aanval veiligheidsregio Noord- en Oos
+t-Gelderland krijgt niet zo heel veel vragen ove….
+
+/ ~ 4AC5DDE2 ~ /
+
+Ransomware-aanval veiligheidsr
+egio Noord- en Oost-Gelderland krijgt niet zo heel veel meer na te tellen.
+
+/ ~ 4AC5DDE2 ~ /
+
+Als or
+ganisatie of ondernemer word je tegenwoordig bijna dagelijks gewaarschuwd voor de gevaren van slecht
+e IT-beveiliging. Horrorverhalen over afpersing door hackers of onderschepte e-mails halen de landel
+ijke voorpagina’s. 
+ 
+Ondanks deze groeiende aandacht is het helaas nog altijd matig gesteld met de 
+beveiliging van zakelijke IT. Waar gaat dit mis? 
+ 
+Wij denken dat het begint bij begrijpen en bewus
+twording. Voor IT-specialisten kennen termen als ransomware en phishing e-mails geen geheimen. Maar 
+als ondernemer of manager in het mkb heb je een breed takenpakket. Hierdoor houd je simpelweg geen t
+ijd over om je te verdiepen in al deze (nieuwe) risico’s rondom digitale beveiliging. 
+ 
+Speciaal da
+arom bespreken we in deze whitepaper de belangrijkste hedendaagse veiligheidsrisico’s voor middelgro
+te organisaties. We leggen uit wat ze betekenen, wat ze veroorzaken, en vooral hoe je je er als orga
+nisatie tegen wapent.
+ 
+Wil je daar meer van weten? 
+​
+Vul hieronder je gegevens in en je ontvangt e
+en mail met een downloadlink.
+
+/ ~ 4AC5DDE2 ~ /
+
+Waarschijnlijk  "ryuk ransomware"
